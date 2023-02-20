@@ -1,0 +1,1115 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251"/>
+<title>Воспитателям детских садов, школьным учителям и педагогам: публикация в СМИ, конспекты, разработки, сценарии детских праздников, игры и поделки - Маам.ру</title>
+<meta name="keywords" content="ДОУ, детские сады, для воспитателей, для учителей, для педагогов, для родителей, дошкольники, развитие ребенка, раннее развитие, учёба, среднее образование, воспитание детей, конспекты занятий, игры для дошкольников, детские поделки, школы, уроки, публикация в СМИ" />
+<meta name="description" content="Maam.ru для воспитателей детских садов, школьных учителей и педагогов: публикации в СМИ, методические разработки, конспекты, интересные поделки, сценарии детских праздников, игры для дошкольников и школьников, примеры оформления, презентации, стенгазеты, всё о развитии и воспитания детей в детских садах, школах и дома." />
+<script type="text/javascript" src="/includes/jquery/jquery.js"></script>
+<script type="text/javascript" src="/core/js/common.js"></script>
+<script language="JavaScript" type="text/javascript" src="/includes/jquery/jquery.jcorners.js"></script>
+<!-- Open Graph and Twitter Card Tags -->
+ <!-- Facebook Open Graph -->
+  <meta property="og:locale" content="ru_RU"/>
+  <meta property="og:site_name" content="MAAM.ru"/>
+  <meta property="og:title" content="MAAM.ru: Воспитателям детских садов, школьным учителям и педагогам"/>
+  <meta property="og:url" content="https://www.maam.ru"/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:description" content="Maam.ru для воспитателей детских садов, школьных учителей и педагогов: публикации в СМИ, методические разработки, конспекты, интересные поделки, сценарии детских праздников, игры для дошкольников и школьников, примеры оформления, презентации, стенгазеты, всё о развитии и воспитания детей в детских садах, школах и дома."/>
+  <meta property="og:image" content="https://www.maam.ru/a-logo-maam-3.png"/>
+  <meta property="og:image:url" content="https://www.maam.ru/a-logo-maam-3.png"/>
+  <meta property="article:publisher" content="https://www.maam.ru/"/>
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+	  "url" : "https://www.maam.ru",
+      "name": "MAAM.ru",
+	  "brand": "Международный образовательный портал MAAM.ru",
+	  "email": "admin@maam.ru",
+	  "description": "Maam.ru для воспитателей детских садов, школьных учителей и педагогов: публикации в СМИ, методические разработки, конспекты, интересные поделки, сценарии детских праздников, игры для дошкольников и школьников, примеры оформления, презентации, стенгазеты, всё о развитии и воспитания детей в детских садах, школах и дома.",
+      "telephone": "+7 (499) 499-41-52",
+	    "logo" : {
+            "@type" : "ImageObject",
+            "url" : "https://www.maam.ru/a-logo-maam-3.png"
+       }
+    }
+</script>
+ <!-- Twitter Cards -->
+  <meta name="twitter:title" content="MAAM.ru: Воспитателям детских садов, школьным учителям и педагогам"/>
+  <meta name="twitter:url" content="https://www.maam.ru"/>
+  <meta name="twitter:description" content="Maam.ru для воспитателей детских садов, школьных учителей и педагогов: публикации в СМИ, методические разработки, конспекты, интересные поделки, сценарии детских праздников, игры для дошкольников и школьников, примеры оформления, презентации, стенгазеты, всё о развитии и воспитания детей в детских садах, школах и дома."/>
+  <meta name="twitter:image" content="https://www.maam.ru/a-logo-maam-3.png"/>
+  <meta name="twitter:card" content="summary_large_image"/>
+<!-- End  Open Graph and Twitter Card Tags -->
+<link rel="stylesheet" type="text/css" href="/templates/detskiy-sad/css/styles.css" />
+<style>
+@media (min-width: 601px) and (max-width: 1230px) {
+    @viewport { width: 1230px; }
+}
+</style>
+<meta name="viewport" content="width=device-width">
+<link rel="icon" href="/favicon.ico?" type="image/x-icon" />
+<link rel="shortcut icon" href="/favicon.ico?" type="image/x-icon" />
+<link rel="canonical" href="https://www.maam.ru"/>
+<script type="text/javascript" src="/core/js/init_ui.js"></script>
+<!--noindex-->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-63820916-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!--/noindex-->
+</head>
+<body>
+<div id="cat_body_wrapper">
+<div id="wrapper">
+<div id="header">
+<div class="container_12">
+<div class="grid_5">
+<div id="sitename"><a href="//www.maam.ru"></a></div>
+</div>
+<div class="grid_7">
+<div id="poisk_maam">
+<form action= "//www.maam.ru/poisk/?pg=" method= "POST">
+<input type= "text" name= "name" value=""  placeholder="Поиск по Маам"><input type= "submit" value= "Найти"></form>
+</div>
+</div>
+<div class="grid_2">
+<div class="mod_user_menu">
+<span class="login"><a href="//www.maam.ru/login">Вход</a></span>
+</div>
+</div>
+</div>
+</div>
+
+<div id="page">
+<div class="clear"></div>
+<div id="topwide" class="container_12">
+<!--noindex-->
+<div class="clear"></div>
+<div id="topwide" class="container_12">
+<div class="grid_12" id="topmod">
+<div class="whitemodule">
+<div id="top_user_menu_mobile">
+<div class="center_top">
+<a href="/registration">Регистрация</a>
+<a href="/login">Вход</a>
+<a href="/detskijsad/zolotoj-post-maaam-1.html">Лучшее</a>
+<a href="/users/myzakaz.html" title="Мои документы">Док</a><a href="/users/myzakaz.html" class="hnew">!!!</a></span>
+<a href="#dalee_foot" class="hese">&#9660;Меню</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--/noindex-->
+<div class="clear"></div>
+<div id="topwide" class="container_12">
+<div class="grid_12" id="topmod"></div>
+</div>
+<div id="pathway" class="container_12">
+<div class="grid_12"></div>
+</div>
+<div class="clear"></div>
+<div style="margin:0 10px;text-align: center;"><a href="/detskijsad/rezultaty-mezhdunarodnogo-konkursa-luchshii-pedagog-goda-2022.html"><img src="/templates/detskiy-sad/pedagog2022-3.png" class="rads" style="max-width:100%;" alt="Лучший педагог года 2022" title="Результаты конкурса Лучший педагог года 2022"></a></div>
+<div class="clear"></div>
+<div id="mainbody" class="container_12">
+<div id="main_menu" class="grid_2"><div class="menu_left">
+<ul class="top detsad1"><li class=""><a href="/">Главное</a></li></ul>
+<ul class="detsad2"><li><a href="/detskijsad/">Новое</a></li></ul>
+<ul class="detsad3"><li ><a href="/detskijsad/zolotoj-post-maaam-1.html">Лучшее</a></li></ul>
+<ul class="detsad4"><li><a href="/users/myzakaz.html" title="Дипломы, свидетельства и благодарности для педагогов, учителей, воспитателей и детей">Дипломы+</a></li></ul>
+<ul class="detsad1"><li><a href="/obrazovanie" title="Все темы в алфавитном порядке">Темочки</a></li></ul>
+<ul class="detsad2"><li><a href="/kartinki/">Картинки</a></li></ul>
+<ul class="detsad3"><li><a href="/kartinki/lyepbuki">Лэпбуки</a></li></ul>
+<ul class="detsad4"><li><a href="/games">Игры!</a></li></ul>
+<ul>
+<li><b>Детский сад</b></li>
+<li><a href="/obrazovanie/konspekty-zanyatij">Конспекты</a></li>
+<li><a href="/obrazovanie/metodicheskie-razrabotki">Разработки</a></li>
+<li><a href="/obrazovanie/scenarii-prazdnikov">Сценарии</a></li>
+<li><a href="/obrazovanie/oformlenie-detskih-sadov">Оформление</a></li>
+<li><a href="/obrazovanie/detskie-podelki">Поделки</a></li>
+<li><a href="/obrazovanie/detskie-igry">Игры</a></li>
+</ul>
+<ul>
+<li class="shkola"><b>Школа</b></li>
+<li><a href="/obrazovanie/nachalnaja-shkola">1-4 класс</a></li>
+<li><a href="/obrazovanie/srednyaya-shkola">5-9 класс</a></li>
+<li><a href="/obrazovanie/starshaya-shkola">10-11 класс</a></li>
+</ul>
+</div>
+<div class="menu_left button">
+<a class="btn_menu orange" href="/o-saite/vse-servisy-proekta/konkursy-grafik-konkursnyh-meroprijatii.html">Конкурсы</a>
+<a class="btn_menu violet" href="/novosti-saita/diplomy-svidetelstva-i-blagodarnosti-dlja-pedagogov-vospitatelei-detei.html">Свидетельства и дипломы</a>
+<a class="btn_menu green" href="/kartinki">Картинки</a>
+<a class="btn_menu pink" href="/o-saite/vse-servisy-proekta/besplatnye-saity-dlja-detskih-organizacii.html">Создать сайт</a>
+</div>
+<div class="menu_left">
+<ul class="top">
+<li class="poisk"><b>Поиск</b></li>
+<li><a href="/poisk">Поиск материала</a></li>
+<li><a href="/users">Поиск коллег</a></li>
+</ul>
+</div>
+<div class="menu_left">
+<ul class="top">
+<li><a href="/novosti"><b>Новости</b></a></li>
+<li><a href="/o-saite">Помощь</a></li>
+<li><a href="/zadat-vopros">Задать вопрос</a></li>
+<li><a href="/o-proekte">О портале</a></li>
+<li><a href="/obrazovanie/otzyvy">Отзывы</a></li>
+<li><a href="/obrazovanie/luchshii-pedagog-goda-na-maam">Лучший Педагог Года</a></li>
+<li><a href="/novosti/27-nojabrja-v-sovete-federaci-byl-predstavlen-opyt-raboty-portala-mam.html">Совет Федерации</a></li>
+</ul>
+</div>
+<!--noindex-->
+<div class="menu_left"  id="float-menu" style="display:none;">
+<ul class="top detsad1"><li class=""><a href="/">Главное</a></li></ul>
+<ul class="detsad2"><li><a href="/detskijsad/">Новое</a></li></ul>
+<ul class="detsad3"><li ><a href="/detskijsad/zolotoj-post-maaam-1.html">Лучшее</a></li></ul>
+<ul class="detsad4"><li><a href="/users/myzakaz.html" title="Дипломы, свидетельства и благодарности для педагогов, учителей, воспитателей и детей">Дипломы+</a></li></ul>
+<ul class="detsad1"><li><a href="/obrazovanie" title="Все темы в алфавитном порядке">Темочки</a></li></ul>
+<ul class="detsad2"><li><a href="/kartinki/">Картинки</a></li></ul>
+<ul class="detsad3"><li><a href="/kartinki/lyepbuki">Лэпбуки</a></li></ul>
+<ul class="detsad4"><li><a href="/games">Игры!</a></li></ul>
+<ul>
+<li><a href="/obrazovanie/konspekty-zanyatij">Конспекты</a></li>
+<li><a href="/obrazovanie/metodicheskie-razrabotki">Разработки</a></li>
+<li><a href="/obrazovanie/scenarii-prazdnikov">Сценарии</a></li>
+<li><a href="/obrazovanie/oformlenie-detskih-sadov">Оформление</a></li>
+<li><a href="/obrazovanie/detskie-podelki">Поделки</a></li>
+<li><a href="/obrazovanie/detskie-igry">Игры</a></li>
+</ul>
+<ul>
+<li><a href="/obrazovanie/nachalnaja-shkola">1-4 класс</a></li>
+<li><a href="/obrazovanie/srednyaya-shkola">5-9 класс</a></li>
+<li><a href="/obrazovanie/starshaya-shkola">10-11 класс</a></li>
+</ul>
+</div><!--/noindex-->
+</div>
+
+<div id="main" class="grid_8">
+<div class="module">
+        <div class="modulebody"><script src="/templates/detskiy-sad/js/mobilyslider.js" type="text/javascript"></script>
+<div class="slider">
+<div class="sliderContent">
+<div class="item">
+<img src="//www.maam.ru/upload/blogs/detsad-14992-1676792606.jpg" alt="Мастер-класс по изготовлению панно из бумаги в технике мозаи..." />
+<div class="title">
+<a href="//www.maam.ru/detskijsad/master-klas-pano-iz-bumagi-v-tehnike-mozaika-spektr.html">Мастер-класс по изготовлению панно из бумаги в технике мозаи...</a>
+</div>
+</div>
+<div class="item">
+<img src="//www.maam.ru/upload/blogs/detsad-258884-1676816929.jpg" alt="Конспект ОД по обрывной аппликации в подготовительной к школ..." />
+<div class="title">
+<a href="//www.maam.ru/detskijsad/konspekt-od-po-obryvnoi-aplikaci-v-podgotovitelnoi-k-shkole-grupe-nash-krasivyi-petushok-nosit-krasnyi-grebeshok.html">Конспект ОД по обрывной аппликации в подготовительной к школ...</a>
+</div>
+</div>
+<div class="item">
+<img src="//www.maam.ru/upload/blogs/detsad-1528045-1676860849.jpg" alt="Мастер-класс по изготовлению поделки из бумаги «Бравые солда..." />
+<div class="title">
+<a href="//www.maam.ru/detskijsad/master-klas-po-izgotovleniyu-podelki-iz-bumagi-bravye-soldaty-s-detmi-starshego-doshkolnogo-vozrasta.html">Мастер-класс по изготовлению поделки из бумаги «Бравые солда...</a>
+</div>
+</div>
+<div class="item">
+<img src="//www.maam.ru/upload/blogs/detsad-1684783-1676842776.jpg" alt="Мастер-класс по изготовлению открытки к 23 февраля из картон..." />
+<div class="title">
+<a href="//www.maam.ru/detskijsad/master-klas-po-izgotovleniyu-otkrytki-k-23-fevralja-iz-kartona-i-cvetnoi-bumagi-dlja-grup-ranego-i-mladshego-vozrasta.html">Мастер-класс по изготовлению открытки к 23 февраля из картон...</a>
+</div>
+</div>
+<div class="item">
+<img src="//www.maam.ru/upload/blogs/detsad-152671-1676874894.jpg" alt="Фотоотчет. Дидактическое пособие из фоамирана своими руками ..." />
+<div class="title">
+<a href="//www.maam.ru/detskijsad/fototchet-didakticheskoe-posobie-iz-foamirana-svoimi-rukami-nakormi-ptichku.html">Фотоотчет. Дидактическое пособие из фоамирана своими руками ...</a>
+</div>
+</div>
+	
+</div>
+</div>	</div>
+
+</div><div class="module">
+        <div class="modulebody"><h1>Учебные материалы для детского сада и школы.</h1>
+
+<p><strong>Воспитателям, педагогам, учителям</strong>: конспекты, методические разработки, сценарии, детские поделки, развивающие игры, примеры оформления, стенгазеты.</p><h2>Публикации для учителей, воспитателей и педагогов во Всероссийском образовательном СМИ.</h2>
+
+<p>Выдача <a href="http://www.maam.ru/shop/sertifikaty-i-diplomy/svidetelstvo-o-publikaci.html"><b>Свидетельства о публикации</b> во Всероссийском образовательном СМИ</a> педагогам, воспитателям ДОУ, школьным учителям. Конкурсы для педагогов и детей. Бесплатные сайты.</p>
+
+<p>Присоединяйтесь прямо сейчас! Публикуйте, читайте, общайтесь!</p>
+
+<div id="dalee"><a href="/registration">&#9658; Регистрация / Вход</a></div></div>
+
+</div><div class="component"><h2><img src="/templates/detskiy-sad/images/m2.png" alt="МААМ Новости"> МААМ Новости</h2>
+
+<div class="blog_entries">
+<div class="blog_entry">
+<div class="blog_entry_title">
+<a href="/novosti/21-fevralja-sagalgan.html">21 февраля. Сагаалган</a>
+</div>
+<a href="/novosti/21-fevralja-sagalgan.html"><img src="/images/photos/medium/article23259.jpg" class="glav" alt=""></a>
+<div class="blog_entry_text"><p><p> Сегодняшний праздник традиционно отмечают в Бурятии, Калмыкии, Тыве и на Алтае. Сагаалган — Новый год по лунно-солнечному календарю и торжественный праздник монгольских народов, символизирующий начало весны.</p>
+<a href="/novosti/21-fevralja-sagalgan.html"><img src="/templates/detskiy-sad/images/vospitatel.png" alt=""></a></p></div>
+</div><br/>
+<div class="blog_entry">
+<div class="blog_entry_title">
+<a href="/novosti/21-fevralja-den-rodnogo-jazyka.html">21 февраля. День родного языка</a>
+</div>
+<a href="/novosti/21-fevralja-den-rodnogo-jazyka.html"><img src="/images/photos/medium/article23258.jpg" class="glav" alt=""></a>
+<div class="blog_entry_text"><p><p>Решением о внедрении Дня родного языка ЮНЕСКО стремится поддерживать язык как признак культурной принадлежности личности, ведь около половины из 7 тысяч разговорных языков мира угрожает исчезновение или поглощение другими, более крупными и распространёнными языками. Язык помогает сохранять историю и культуру, народа, его традиции и самобытный бытовой уклад.</p>
+<a href="/novosti/21-fevralja-den-rodnogo-jazyka.html"><img src="/templates/detskiy-sad/images/vospitatel.png" alt=""></a></p></div>
+</div><br/>
+<div class="blog_entry">
+<div class="blog_entry_title">
+<a href="/novosti/20-fevralja-maslenica-pervyi-den.html">20 февраля. Масленица. Первый день</a>
+</div>
+<a href="/novosti/20-fevralja-maslenica-pervyi-den.html"><img src="/images/photos/medium/article23256.jpg" class="glav" alt=""></a>
+<div class="blog_entry_text"><p><p>Масленичная неделя в этом году стартует в понедельник, 20 февраля, и продлится она до воскресенья, 26 февраля, включительно. У каждого дня этой недели характерные приметы и ритуалы. Об этом мы и поговорим на занятии в честь нашего очередного тематического дня.</p>
+<a href="/novosti/20-fevralja-maslenica-pervyi-den.html"><img src="/templates/detskiy-sad/images/vospitatel.png" alt=""></a></p></div>
+</div><br/>
+<div class="blog_entry">
+<div class="blog_entry_title">
+<a href="/novosti/20-fevralja-den-mozaiki-na-mam-23254.html">20 февраля. День мозаики на МААМ</a>
+</div>
+<a href="/novosti/20-fevralja-den-mozaiki-na-mam-23254.html"><img src="/images/photos/medium/article23255.jpg" class="glav" alt=""></a>
+<div class="blog_entry_text"><p><p> Сегодняшний праздник посвящен особой технике получения изображения — мозаике. Мозаичный способ создания рисунка был известен еще в глубокой древности, он применялся для отделки зданий, украшения утвари и одежды. Мозаика ценилась во все времена как искусство, требующее большого мастерства, точности и терпения.</p>
+<a href="/novosti/20-fevralja-den-mozaiki-na-mam-23254.html"><img src="/templates/detskiy-sad/images/vospitatel.png" alt=""></a></p></div>
+</div><br/>
+</div>
+<div id="dalee"><a href="/novosti">Читать все новости</a></div>
+<br><br>
+
+<h2><img src="/templates/detskiy-sad/images/m2.png" alt="Выбор редакции. Детский сад и школа."> Выбор редакции. Детский сад и школа.</h2>
+
+<div class="blog_entries">
+
+<!--  -->
+
+<div class="blog_entry">
+<table width="100%" cellspacing="0" cellpadding="0" class="blog_records">
+<tr>
+<td>
+<div class="blog_entry_title">
+<a href="/detskijsad/teatralizacija-kamenyi-cvetok.html">Фотоотчет о театрализации «Каменный цветок»</a>
+</div>
+<a href="/detskijsad/teatralizacija-kamenyi-cvetok.html"><img src="//www.maam.ru/upload/blogs/detsad-1794548-1676877219.jpg" class="glav" alt="" /></a></td>
+<tr></tr>
+<td valign="top">
+<div class="blog_entry_text">                      Наш уральский край богат сказками, былинами, легендами о горах и озерах. наиболее интересными и доступными для детей дошкольного возраста являются сказы об уральской земле . Мы знакомим детей с...<br/>
+<img src="/templates/detskiy-sad/star.gif" title="Рейтинг автора публикации"><a href="/users/1794548" title="Сиражетдинова Светлана">Сиражетдинова Светлана</a> 20 февраля 2023 в 10:39
+<br/><br/>
+<a href="/detskijsad/teatralizacija-kamenyi-cvetok.html"><img src="/templates/detskiy-sad/images/vospitatel.png" alt=""></a></div>
+</td>
+</tr>
+</table>					
+</div><br/>
+
+<!-- 1 -->
+
+<div class="blog_entry">
+<table width="100%" cellspacing="0" cellpadding="0" class="blog_records">
+<tr>
+<td>
+<div class="blog_entry_title">
+<a href="/detskijsad/fototchet-didakticheskoe-posobie-iz-foamirana-svoimi-rukami-nakormi-ptichku.html">Фотоотчет. Дидактическое пособие из фоамирана своими руками «Накорми птичку»</a>
+</div>
+<a href="/detskijsad/fototchet-didakticheskoe-posobie-iz-foamirana-svoimi-rukami-nakormi-ptichku.html"><img src="//www.maam.ru/upload/blogs/detsad-152671-1676874894.jpg" class="glav" alt="" /></a></td>
+<tr></tr>
+<td valign="top">
+<div class="blog_entry_text">В своей педагогической деятельности я стараюсь как можно чаще пользоваться дидактическими пособиями, которые я сама мастерю из различного материала. На этот раз я представляю вашему вниманию новое пособие из фоамирана...<br/>
+<img src="/templates/detskiy-sad/star.gif" title="Рейтинг автора публикации"><img src="/templates/detskiy-sad/star.gif" alt="*"><a href="/users/Gala1504" title="Ежелева Галина Анатольевна">Ежелева Галина Анатольевна</a> 20 февраля 2023 в 10:13
+<br/><br/>
+<a href="/detskijsad/fototchet-didakticheskoe-posobie-iz-foamirana-svoimi-rukami-nakormi-ptichku.html"><img src="/templates/detskiy-sad/images/vospitatel.png" alt=""></a></div>
+</td>
+</tr>
+</table>					
+</div><br/>
+
+<!-- 2 -->
+<h3><img src="/templates/detskiy-sad/images/m4.png"> Школа: новые публикации </h3>
+<div class="blog_entry">
+<p><span class="mrk_mag">&nbsp;школа&nbsp;</span><a href="/detskijsad/scenarii-urok-isledovanie-sud-nad-saharom.html">Урок-исследование «Суд над сахаром»</a></p>
+<p><span class="mrk_mag">&nbsp;школа&nbsp;</span><a href="/detskijsad/prazdnik-proschanie-s-azbukoi-1589715.html">Сценарий праздника «Прощание с Азбукой» в 1 классе</a></p>
+<p><span class="mrk_mag">&nbsp;школа&nbsp;</span><a href="/detskijsad/sportivnyi-timbilding-1589552.html">Спортивный тимбилдинг для подростков. Фотоотчет</a></p>
+<p><span class="mrk_mag">&nbsp;школа&nbsp;</span><a href="/detskijsad/urok-ruskogo-jazyka-vo-2-klase-po-teme-rodstvenye-slova-koren-slova-odnokorenye-slova.html">Конспект урока русского языка во второй классе «Родственные слова. Корень слова. Однокоренные слова»</a></p>
+<p><span class="mrk_mag">&nbsp;школа&nbsp;</span><a href="/detskijsad/lyepbuk-bambi-po-nemeckomu-jazyku-dlja-rebyonka-5-klasa.html">Лэпбук «Bambi» по немецкому языку для ребёнка 5 класса</a></p>
+<div id="dalee"><a href="/obrazovanie/shkola">Все школьные</a></div>
+</div><br/>
+<h2><img src="/templates/detskiy-sad/images/m2.png" alt="Выбор редакции. Детский сад и школа."> Выбор редакции. Детский сад и школа.</h2>
+
+<div class="blog_entry">
+<table width="100%" cellspacing="0" cellpadding="0" class="blog_records">
+<tr>
+<td>
+<div class="blog_entry_title">
+<a href="/detskijsad/master-klas-pano-iz-bumagi-v-tehnike-mozaika-spektr.html">Мастер-класс по изготовлению панно из бумаги в технике мозаика «Спектр»</a>
+</div>
+<a href="/detskijsad/master-klas-pano-iz-bumagi-v-tehnike-mozaika-spektr.html"><img src="//www.maam.ru/upload/blogs/detsad-14992-1676792606.jpg" class="glav" alt="" /></a></td>
+<tr></tr>
+<td valign="top">
+<div class="blog_entry_text">     Ещё в древние века появилась техника мозаики из косточек, ракушек и различных камушков. А на сегодняшний день первые познания в этом искусстве получают малыши ещё в детском саду.  Мозаика из бумаги — это...<br/>
+<img src="/templates/detskiy-sad/star.gif" title="Рейтинг автора публикации"><img src="/templates/detskiy-sad/star.gif" alt="*"><img src="/templates/detskiy-sad/star.gif" alt="*"><a href="/users/EllyLira" title="Эльвира Тишкова">Эльвира Тишкова</a> 20 февраля 2023 в 08:52
+<br/><br/>
+<a href="/detskijsad/master-klas-pano-iz-bumagi-v-tehnike-mozaika-spektr.html"><img src="/templates/detskiy-sad/images/vospitatel.png" alt=""></a></div>
+</td>
+</tr>
+</table>					
+</div><br/>
+
+<!-- 3 -->
+
+<div class="blog_entry">
+<table width="100%" cellspacing="0" cellpadding="0" class="blog_records">
+<tr>
+<td>
+<div class="blog_entry_title">
+<a href="/detskijsad/master-klas-po-izgotovleniyu-podelki-iz-bumagi-bravye-soldaty-s-detmi-starshego-doshkolnogo-vozrasta.html">Мастер-класс по изготовлению поделки из бумаги «Бравые солдаты» с детьми старшего...</a>
+</div>
+<a href="/detskijsad/master-klas-po-izgotovleniyu-podelki-iz-bumagi-bravye-soldaty-s-detmi-starshego-doshkolnogo-vozrasta.html"><img src="//www.maam.ru/upload/blogs/detsad-1528045-1676860849.jpg" class="glav" alt="" /></a></td>
+<tr></tr>
+<td valign="top">
+<div class="blog_entry_text"> Мастер-класс по изготовлению поделки из бумаги «Бравые солдаты» с детьми старшего дошкольного возраста           Цель:  научить детей делать поделку на основе трехгранной пирамиды.   Задачи: закрепить умения работать...<br/>
+<img src="/templates/detskiy-sad/star.gif" title="Рейтинг автора публикации"><img src="/templates/detskiy-sad/star.gif" alt="*"><img src="/templates/detskiy-sad/star.gif" alt="*"><img src="/templates/detskiy-sad/star.gif" alt="*"><img src="/templates/detskiy-sad/star.gif" alt="*"><a href="/users/1528045" title="Кибец Марина Юрьевна">Кибец Марина Юрьевна</a> 20 февраля 2023 в 06:16
+<br/><br/>
+<a href="/detskijsad/master-klas-po-izgotovleniyu-podelki-iz-bumagi-bravye-soldaty-s-detmi-starshego-doshkolnogo-vozrasta.html"><img src="/templates/detskiy-sad/images/vospitatel.png" alt=""></a></div>
+</td>
+</tr>
+</table>					
+</div><br/>
+
+<!-- 4 -->
+
+<div class="blog_entry">
+<table width="100%" cellspacing="0" cellpadding="0" class="blog_records">
+<tr>
+<td>
+<div class="blog_entry_title">
+<a href="/detskijsad/konspekt-od-po-obryvnoi-aplikaci-v-podgotovitelnoi-k-shkole-grupe-nash-krasivyi-petushok-nosit-krasnyi-grebeshok.html">Конспект ОД по обрывной аппликации в подготовительной к школе группе «Наш красивый...</a>
+</div>
+<a href="/detskijsad/konspekt-od-po-obryvnoi-aplikaci-v-podgotovitelnoi-k-shkole-grupe-nash-krasivyi-petushok-nosit-krasnyi-grebeshok.html"><img src="//www.maam.ru/upload/blogs/detsad-258884-1676816929.jpg" class="glav" alt="" /></a></td>
+<tr></tr>
+<td valign="top">
+<div class="blog_entry_text"> Реализация содержания программы в образовательных областях:  «Познавательное развитие», «Речевое развитие», «Социально-коммуникативное развитие», "Физическое развитие".   Виды детской деятельности:  изобразительная,...<br/>
+<img src="/templates/detskiy-sad/million.gif" alt="*****" title="Рейтинг 1.000.000+"> 
+<a href="/users/tashbulatova" title="Елена Самсонова">Елена Самсонова</a> 20 февраля 2023 в 04:48
+<br/><br/>
+<a href="/detskijsad/konspekt-od-po-obryvnoi-aplikaci-v-podgotovitelnoi-k-shkole-grupe-nash-krasivyi-petushok-nosit-krasnyi-grebeshok.html"><img src="/templates/detskiy-sad/images/vospitatel.png" alt=""></a></div>
+</td>
+</tr>
+</table>					
+</div><br/>
+
+<!-- 5 -->
+
+<div class="blog_entry">
+<table width="100%" cellspacing="0" cellpadding="0" class="blog_records">
+<tr>
+<td>
+<div class="blog_entry_title">
+<a href="/detskijsad/master-klas-rybka-iz-testa.html">Мастер-класс по изготовлению поделки из теста «Рыбка»</a>
+</div>
+<a href="/detskijsad/master-klas-rybka-iz-testa.html"><img src="//www.maam.ru/upload/blogs/detsad-1061658-1676846539.jpg" class="glav" alt="" /></a></td>
+<tr></tr>
+<td valign="top">
+<div class="blog_entry_text">Совсем забыла поделиться прекрасным мастер-классом, который мы провели с ребятами на прошлой неделе. Из теста мы слепили вот таких интересных рыб, а потом раскрасили их и посадили на основу.      Только "Ц-цц! " Это...<br/>
+<img src="/templates/detskiy-sad/star.gif" title="Рейтинг автора публикации"><a href="/users/1061658" title="Любовь Половинкина">Любовь Половинкина</a> 20 февраля 2023 в 01:47
+<br/><br/>
+<a href="/detskijsad/master-klas-rybka-iz-testa.html"><img src="/templates/detskiy-sad/images/vospitatel.png" alt=""></a></div>
+</td>
+</tr>
+</table>					
+</div><br/>
+
+<!-- 6 -->
+
+<div class="blog_entry">
+<table width="100%" cellspacing="0" cellpadding="0" class="blog_records">
+<tr>
+<td>
+<div class="blog_entry_title">
+<a href="/detskijsad/master-klas-po-izgotovleniyu-otkrytki-k-23-fevralja-iz-kartona-i-cvetnoi-bumagi-dlja-grup-ranego-i-mladshego-vozrasta.html">Мастер-класс по изготовлению открытки к 23 февраля из картона и цветной бумаги для...</a>
+</div>
+<a href="/detskijsad/master-klas-po-izgotovleniyu-otkrytki-k-23-fevralja-iz-kartona-i-cvetnoi-bumagi-dlja-grup-ranego-i-mladshego-vozrasta.html"><img src="//www.maam.ru/upload/blogs/detsad-1684783-1676842776.jpg" class="glav" alt="" /></a></td>
+<tr></tr>
+<td valign="top">
+<div class="blog_entry_text"> Мастер - класс по изготовлению поздравительной открытки к 23 февраля из картона и цветной бумаги для групп раннего и младшего возраста .       Цель: Изготовление поздравительной открытки своими руками к 23 февраля....<br/>
+<img src="/templates/detskiy-sad/star.gif" title="Рейтинг автора публикации"><img src="/templates/detskiy-sad/star.gif" alt="*"><a href="/users/1684783" title="Лебедева Елена">Лебедева Елена</a> 20 февраля 2023 в 00:46
+<br/><br/>
+<a href="/detskijsad/master-klas-po-izgotovleniyu-otkrytki-k-23-fevralja-iz-kartona-i-cvetnoi-bumagi-dlja-grup-ranego-i-mladshego-vozrasta.html"><img src="/templates/detskiy-sad/images/vospitatel.png" alt=""></a></div>
+</td>
+</tr>
+</table>					
+</div><br/>
+
+<!-- 7 -->
+
+<div class="blog_entry">
+<table width="100%" cellspacing="0" cellpadding="0" class="blog_records">
+<tr>
+<td>
+<div class="blog_entry_title">
+<a href="/detskijsad/zanjatie-po-okruzhayuschemu-miru-mir-tkani.html">Занятие по окружающему миру «Мир ткани»</a>
+</div>
+<a href="/detskijsad/zanjatie-po-okruzhayuschemu-miru-mir-tkani.html"><img src="//www.maam.ru/upload/blogs/detsad-2533537-1676833228.jpg" class="glav" alt="" /></a></td>
+<tr></tr>
+<td valign="top">
+<div class="blog_entry_text">В группе старшего дошкольного возраста прошло тематическое занятие по окружающему миру «Мир ткани».  В ходе познавательной беседы воспитатель Остроухова Наталья Сергеевна познакомила воспитанников с историей...<br/>
+<img src="/templates/detskiy-sad/star.gif" title="Рейтинг автора публикации"><a href="/users/2533537" title="Остроухова Наталья">Остроухова Наталья</a> 19 февраля 2023 в 22:22
+<br/><br/>
+<a href="/detskijsad/zanjatie-po-okruzhayuschemu-miru-mir-tkani.html"><img src="/templates/detskiy-sad/images/vospitatel.png" alt=""></a></div>
+</td>
+</tr>
+</table>					
+</div><br/>
+
+<!-- 8 -->
+
+<div class="blog_entry">
+<table width="100%" cellspacing="0" cellpadding="0" class="blog_records">
+<tr>
+<td>
+<div class="blog_entry_title">
+<a href="/detskijsad/fototchet-o-prazdnike-cahan-sar-srednja-grupa.html">Праздник «Цаган Сар» (средняя группа)</a>
+</div>
+<a href="/detskijsad/fototchet-o-prazdnike-cahan-sar-srednja-grupa.html"><img src="//www.maam.ru/upload/blogs/detsad-186303-1676827351.jpg" class="glav" alt="" /></a></td>
+<tr></tr>
+<td valign="top">
+<div class="blog_entry_text"><div class="bb_tag_video"><iframe width="100%" height="390" src="https://www.youtube.com/embed/iwTebfd0HN0" frameborder="0" allowfullscreen></iframe></div>    Самый долгожданный праздник Весны у нас в Калмыкии-это...<br/>
+<img src="/templates/detskiy-sad/star.gif" title="Рейтинг автора публикации"><img src="/templates/detskiy-sad/star.gif" alt="*"><img src="/templates/detskiy-sad/star.gif" alt="*"><img src="/templates/detskiy-sad/star.gif" alt="*"><a href="/users/Elena1212081" title="Елена Шестопалова">Елена Шестопалова</a> 19 февраля 2023 в 21:21
+<br/><br/>
+<a href="/detskijsad/fototchet-o-prazdnike-cahan-sar-srednja-grupa.html"><img src="/templates/detskiy-sad/images/vospitatel.png" alt=""></a></div>
+</td>
+</tr>
+</table>					
+</div><br/>
+
+<!-- 9 -->
+
+<div class="blog_entry">
+<table width="100%" cellspacing="0" cellpadding="0" class="blog_records">
+<tr>
+<td>
+<div class="blog_entry_title">
+<a href="/detskijsad/didakticheskaja-igra-zhivaja-mnemotablica-stihotvorenie-snegiri.html">Дидактическая игра «Живая мнемотаблица». Стихотворение «Снегири»</a>
+</div>
+<a href="/detskijsad/didakticheskaja-igra-zhivaja-mnemotablica-stihotvorenie-snegiri.html"><img src="//www.maam.ru/upload/blogs/detsad-2269024-1676827516.jpg" class="glav" alt="" /></a></td>
+<tr></tr>
+<td valign="top">
+<div class="blog_entry_text">  Дидактическая игра «Живая мнемотаблица». Стихотворение "Снегири"  Цель: Заучивание стихотворения посредством использования мнемотаблицы.  Задачи: 1. Формировать умение рассказывать стихотворение используя...<br/>
+<img src="/templates/detskiy-sad/star.gif" title="Рейтинг автора публикации"><a href="/users/2269024" title="Екатерина Каракчиева">Екатерина Каракчиева</a> 19 февраля 2023 в 21:06
+<br/><br/>
+<a href="/detskijsad/didakticheskaja-igra-zhivaja-mnemotablica-stihotvorenie-snegiri.html"><img src="/templates/detskiy-sad/images/vospitatel.png" alt=""></a></div>
+</td>
+</tr>
+</table>					
+</div><br/>
+
+<!-- 10 -->
+
+<div class="blog_entry">
+<table width="100%" cellspacing="0" cellpadding="0" class="blog_records">
+<tr>
+<td>
+<div class="blog_entry_title">
+<a href="/detskijsad/fototchyot-o-rabote-s-vospitanikami-starshei-grupy-kak-my-otmechali-den-rosiiskoi-nauki-v-nashei-grupe.html">Фотоотчёт о работе с воспитанниками старшей группы «Как мы отмечали День российской...</a>
+</div>
+<a href="/detskijsad/fototchyot-o-rabote-s-vospitanikami-starshei-grupy-kak-my-otmechali-den-rosiiskoi-nauki-v-nashei-grupe.html"><img src="//www.maam.ru/upload/blogs/detsad-2639491-1676825149.jpg" class="glav" alt="" /></a></td>
+<tr></tr>
+<td valign="top">
+<div class="blog_entry_text">   8 февраля наша страна праздновала День Российской науки. Мы с ребятами нашей группы тоже отмечали этот праздник. В гости к воспитанникам пожаловал магистр науки, который пригласил их в научную лабораторию.    Там...<br/>
+<img src="/templates/detskiy-sad/star.gif" title="Рейтинг автора публикации"><img src="/templates/detskiy-sad/star.gif" alt="*"><a href="/users/2639491" title="Наталья Грузинцева">Наталья Грузинцева</a> 19 февраля 2023 в 20:59
+<br/><br/>
+<a href="/detskijsad/fototchyot-o-rabote-s-vospitanikami-starshei-grupy-kak-my-otmechali-den-rosiiskoi-nauki-v-nashei-grupe.html"><img src="/templates/detskiy-sad/images/vospitatel.png" alt=""></a></div>
+</td>
+</tr>
+</table>					
+</div><br/>
+
+<!-- 11 -->
+
+<div class="blog_entry">
+<table width="100%" cellspacing="0" cellpadding="0" class="blog_records">
+<tr>
+<td>
+<div class="blog_entry_title">
+<a href="/detskijsad/master-klas-po-aplikaci-s-yelementami-risovanija-i-konstruirovanija-otkrytka-pozdravlenie-rebenka-soldatu.html">Мастер-класс по аппликации с элементами рисования и конструирования...</a>
+</div>
+<a href="/detskijsad/master-klas-po-aplikaci-s-yelementami-risovanija-i-konstruirovanija-otkrytka-pozdravlenie-rebenka-soldatu.html"><img src="//www.maam.ru/upload/blogs/detsad-2655309-1676827207.jpg" class="glav" alt="" /></a></td>
+<tr></tr>
+<td valign="top">
+<div class="blog_entry_text"> Мастер-класс по аппликации с элементами рисования и конструирования  "Открытка-поздравление ребенка солдату".           Назначение : поздравительная открытка с Днем защитника Отечества.  Всем миром мы помогаем нашим...<br/>
+<img src="/templates/detskiy-sad/star.gif" title="Рейтинг автора публикации"><img src="/templates/detskiy-sad/star.gif" alt="*"><img src="/templates/detskiy-sad/star.gif" alt="*"><img src="/templates/detskiy-sad/star.gif" alt="*"><img src="/templates/detskiy-sad/star.gif" alt="*"><a href="/users/2655309" title="Елена Лякишева">Елена Лякишева</a> 19 февраля 2023 в 20:57
+<br/><br/>
+<a href="/detskijsad/master-klas-po-aplikaci-s-yelementami-risovanija-i-konstruirovanija-otkrytka-pozdravlenie-rebenka-soldatu.html"><img src="/templates/detskiy-sad/images/vospitatel.png" alt=""></a></div>
+</td>
+</tr>
+</table>					
+</div><br/>
+
+<!-- 12 -->
+
+<div class="blog_entry">
+<table width="100%" cellspacing="0" cellpadding="0" class="blog_records">
+<tr>
+<td>
+<div class="blog_entry_title">
+<a href="/detskijsad/master-klas-po-sozdaniyu-posobija-krugi-lulija.html">Мастер-класс по созданию пособия «Круги Луллия»</a>
+</div>
+<a href="/detskijsad/master-klas-po-sozdaniyu-posobija-krugi-lulija.html"><img src="//www.maam.ru/upload/blogs/detsad-76140-1676827142.jpg" class="glav" alt="" /></a></td>
+<tr></tr>
+<td valign="top">
+<div class="blog_entry_text">Здравствуйте!  Я хочу поделиться своим опытом по созданию многофункционального пособия "Круги Луллия", которое можно использовать для воспитания и развития детей дошкольного возраста по всем разделам программы....<br/>
+<img src="/templates/detskiy-sad/star.gif" title="Рейтинг автора публикации"><a href="/users/Zemlyanichka" title="Наталья Маренкова">Наталья Маренкова</a> 19 февраля 2023 в 20:38
+<br/><br/>
+<a href="/detskijsad/master-klas-po-sozdaniyu-posobija-krugi-lulija.html"><img src="/templates/detskiy-sad/images/vospitatel.png" alt=""></a></div>
+</td>
+</tr>
+</table>					
+</div><br/>
+
+<!-- 13 -->
+
+<div class="blog_entry">
+<table width="100%" cellspacing="0" cellpadding="0" class="blog_records">
+<tr>
+<td>
+<div class="blog_entry_title">
+<a href="/detskijsad/master-klas-po-plastilinografi-kit-s-kitenkom-dlja-starshih-doshkolnikov.html">Мастер-класс по пластилинографии «Кит с китенком» для старших дошкольников</a>
+</div>
+<a href="/detskijsad/master-klas-po-plastilinografi-kit-s-kitenkom-dlja-starshih-doshkolnikov.html"><img src="//www.maam.ru/upload/blogs/detsad-375942-1676824971.jpg" class="glav" alt="" /></a></td>
+<tr></tr>
+<td valign="top">
+<div class="blog_entry_text">        Данный мастер-класс направлен на развитие технических навыков работы дошкольников в технике пластилинографии.   Материалы:  - Набор пластилина; - Плотный картон А5;  Ход работы.   Вначале сделаем фон....<br/>
+<img src="/templates/detskiy-sad/star.gif" title="Рейтинг автора публикации"><img src="/templates/detskiy-sad/star.gif" alt="*"><img src="/templates/detskiy-sad/star.gif" alt="*"><img src="/templates/detskiy-sad/star.gif" alt="*"><img src="/templates/detskiy-sad/star.gif" alt="*"><a href="/users/375942" title="Галина Шинаева">Галина Шинаева</a> 19 февраля 2023 в 20:02
+<br/><br/>
+<a href="/detskijsad/master-klas-po-plastilinografi-kit-s-kitenkom-dlja-starshih-doshkolnikov.html"><img src="/templates/detskiy-sad/images/vospitatel.png" alt=""></a></div>
+</td>
+</tr>
+</table>					
+</div><br/>
+
+<!-- 14 -->
+
+<div class="blog_entry">
+<table width="100%" cellspacing="0" cellpadding="0" class="blog_records">
+<tr>
+<td>
+<div class="blog_entry_title">
+<a href="/detskijsad/master-klas-po-origami-vesenii-venok.html">Мастер-класс по оригами «Весенний венок»</a>
+</div>
+<a href="/detskijsad/master-klas-po-origami-vesenii-venok.html"><img src="//www.maam.ru/upload/blogs/detsad-1738208-1676817806.jpg" class="glav" alt="" /></a></td>
+<tr></tr>
+<td valign="top">
+<div class="blog_entry_text">Мастер – класс рассчитан на работу с детьми старшего дошкольного возраста, школьников, педагогов, родителей и творческих людей.  Можно сделать несколько венков и украсить холл, музыкальный зал или групповую комнату....<br/>
+<img src="/templates/detskiy-sad/star.gif" title="Рейтинг автора публикации"><img src="/templates/detskiy-sad/star.gif" alt="*"><img src="/templates/detskiy-sad/star.gif" alt="*"><img src="/templates/detskiy-sad/star.gif" alt="*"><a href="/users/1738208" title="Ольга Шайдельман">Ольга Шайдельман</a> 19 февраля 2023 в 18:26
+<br/><br/>
+<a href="/detskijsad/master-klas-po-origami-vesenii-venok.html"><img src="/templates/detskiy-sad/images/vospitatel.png" alt=""></a></div>
+</td>
+</tr>
+</table>					
+</div><br/>
+
+<!-- 15 -->
+
+<div class="blog_entry">
+<table width="100%" cellspacing="0" cellpadding="0" class="blog_records">
+<tr>
+<td>
+<div class="blog_entry_title">
+<a href="/detskijsad/-belyi-medved-simvol-arktiki-master-klas-prostoi-podelki.html">Мастер-класс простой поделки «Белый медведь — символ Арктики»</a>
+</div>
+<a href="/detskijsad/-belyi-medved-simvol-arktiki-master-klas-prostoi-podelki.html"><img src="//www.maam.ru/upload/blogs/detsad-2113101-1676803357.jpg" class="glav" alt="" /></a></td>
+<tr></tr>
+<td valign="top">
+<div class="blog_entry_text">    Белый медведь это огромный хищник, он самый большой зверь который обитает на суше и его вес может быть больше 500 кг, средний возраст жизни этого хищника составляет 16 лет.  Его домом является Арктика ( Северный...<br/>
+<img src="/templates/detskiy-sad/star.gif" title="Рейтинг автора публикации"><img src="/templates/detskiy-sad/star.gif" alt="*"><a href="/users/2113101" title="Любовь">Любовь</a> 19 февраля 2023 в 13:43
+<br/><br/>
+<a href="/detskijsad/-belyi-medved-simvol-arktiki-master-klas-prostoi-podelki.html"><img src="/templates/detskiy-sad/images/vospitatel.png" alt=""></a></div>
+</td>
+</tr>
+</table>					
+</div><br/>
+
+<!-- 16 -->
+
+<div class="blog_entry">
+<table width="100%" cellspacing="0" cellpadding="0" class="blog_records">
+<tr>
+<td>
+<div class="blog_entry_title">
+<a href="/detskijsad/akcija-obereg-dlja-zaschitnika.html">Фотоотчет об акции к 23 февраля «Оберег для защитника»</a>
+</div>
+<a href="/detskijsad/akcija-obereg-dlja-zaschitnika.html"><img src="//www.maam.ru/upload/blogs/detsad-14427-1676796116.jpg" class="glav" alt="" /></a></td>
+<tr></tr>
+<td valign="top">
+<div class="blog_entry_text">В предверии 23 февраля, наш сад № 170 города Оренбурга присоединался к городской акции "Тепло родного дома". Я со своими ребятами группы компенсирующей направленности для детей 6-7 лет провела акцию " Оберег для...<br/>
+<img src="/templates/detskiy-sad/star.gif" title="Рейтинг автора публикации"><a href="/users/petrakova" title="татьяна карпова">татьяна карпова</a> 19 февраля 2023 в 12:10
+<br/><br/>
+<a href="/detskijsad/akcija-obereg-dlja-zaschitnika.html"><img src="/templates/detskiy-sad/images/vospitatel.png" alt=""></a></div>
+</td>
+</tr>
+</table>					
+</div><br/>
+
+<!-- 17 -->
+
+<div class="blog_entry">
+<table width="100%" cellspacing="0" cellpadding="0" class="blog_records">
+<tr>
+<td>
+<div class="blog_entry_title">
+<a href="/detskijsad/-spasaem-yekoljat-ot-zlogo-volshebnika.html">Конспект занятия по эколого-математическому развитию «Спасаем Эколят от злого...</a>
+</div>
+<a href="/detskijsad/-spasaem-yekoljat-ot-zlogo-volshebnika.html"><img src="//www.maam.ru/upload/blogs/detsad-2466905-1676800715.jpg" class="glav" alt="" /></a></td>
+<tr></tr>
+<td valign="top">
+<div class="blog_entry_text">муниципальное дошкольное образовательное автономное учреждение «Детский сад № 173»      Конспект занятия  по эколого- математическому развитию «Спасаем Эколят от злого волшебника» в группе общеразвивающей...<br/>
+<img src="/templates/detskiy-sad/star.gif" title="Рейтинг автора публикации"><a href="/users/2466905" title="Светлана Кузьмина">Светлана Кузьмина</a> 19 февраля 2023 в 11:50
+<br/><br/>
+<a href="/detskijsad/-spasaem-yekoljat-ot-zlogo-volshebnika.html"><img src="/templates/detskiy-sad/images/vospitatel.png" alt=""></a></div>
+</td>
+</tr>
+</table>					
+</div><br/>
+
+<!-- 18 -->
+
+<div class="blog_entry">
+<table width="100%" cellspacing="0" cellpadding="0" class="blog_records">
+<tr>
+<td>
+<div class="blog_entry_title">
+<a href="/detskijsad/foto-i-videotchet-uchimsja-i-razvivaemsja-o-rabote-po-programe-dopolnitelnogo-obrazovanija-dlja-detei-ranego-vozrasta.html">Фото и видеоотчет «Учимся и развиваемся» о работе по программе дополнительного...</a>
+</div>
+<a href="/detskijsad/foto-i-videotchet-uchimsja-i-razvivaemsja-o-rabote-po-programe-dopolnitelnogo-obrazovanija-dlja-detei-ranego-vozrasta.html"><img src="//www.maam.ru/upload/blogs/detsad-82358-1676785604.jpg" class="glav" alt="" /></a></td>
+<tr></tr>
+<td valign="top">
+<div class="blog_entry_text"><div class="bb_tag_video"><iframe width="100%" height="390" src="https://www.youtube.com/embed/aeiJ14P61mI" frameborder="0" allowfullscreen></iframe></div>Мы продолжаем нашу работу с детьми и родителями в...<br/>
+<img src="/templates/detskiy-sad/million.gif" alt="*****" title="Рейтинг 1.000.000+"> 
+<a href="/users/rfgbnjirb" title="Абдулова Джюме Сиражутдиновна">Абдулова Джюме Сиражутдиновна</a> 19 февраля 2023 в 08:56
+<br/><br/>
+<a href="/detskijsad/foto-i-videotchet-uchimsja-i-razvivaemsja-o-rabote-po-programe-dopolnitelnogo-obrazovanija-dlja-detei-ranego-vozrasta.html"><img src="/templates/detskiy-sad/images/vospitatel.png" alt=""></a></div>
+</td>
+</tr>
+</table>					
+</div><br/>
+
+<!-- 19 -->
+
+<div class="blog_entry">
+<table width="100%" cellspacing="0" cellpadding="0" class="blog_records">
+<tr>
+<td>
+<div class="blog_entry_title">
+<a href="/detskijsad/master-klas-cvety-iz-gofrirovanoi-bumagi-dlja-tanca.html">Мастер-класс «Цветы из гофрированной бумаги» для танца</a>
+</div>
+<a href="/detskijsad/master-klas-cvety-iz-gofrirovanoi-bumagi-dlja-tanca.html"><img src="//www.maam.ru/upload/blogs/detsad-292459-1676752089.jpg" class="glav" alt="" /></a></td>
+<tr></tr>
+<td valign="top">
+<div class="blog_entry_text"> Мастер – класс «Цветы из гофрированной бумаги» для танца Уважаемые коллеги, предлагаю вам мастер-класс по изготовлению цветов из гофрированной бумаги.   Актуальность:   Использование различных атрибутов в танцах,...<br/>
+<img src="/templates/detskiy-sad/star.gif" title="Рейтинг автора публикации"><a href="/users/galina39817" title="Галина Летунова">Галина Летунова</a> 18 февраля 2023 в 23:36
+<br/><br/>
+<a href="/detskijsad/master-klas-cvety-iz-gofrirovanoi-bumagi-dlja-tanca.html"><img src="/templates/detskiy-sad/images/vospitatel.png" alt=""></a></div>
+</td>
+</tr>
+</table>					
+</div><br/>
+</div>
+<div id="dalee"><a href="/detskijsad/zolotoj-post-maaam-1.html">+ Ещё интереснее</a></div>
+<br>
+<div class="blog_entries"><div class="blog_entry">
+<h2><img src="/templates/detskiy-sad/images/m2.png" alt="Горячие темочки"> Горячие темочки</h2><br>
+<div class="rubriki_ob"><div class="taglinebar"><ul class="medi">
+			<li><a href="https://www.maam.ru/detskijsad/kalendar-tematicheskih-dnei-na-maam.html">Календарь праздников на МААМ </a>
+	</ul><br></div></div>
+</div></div> 	
+<div id="dalee"><a href="/obrazovanie">Все Темочки</a></div>
+<br><div class="blog_entries"><div class="blog_entry">
+<h2>Детские Конкурсы</h2><br>
+				<a href="/concurs/239/view_photo/319774"><img src="/images/users/photos/small/9a5c668625bda42ad0e00cb358328f00.jpg" alt="Защитник это мой папа" title="Защитник это мой папа" class="glav" /></a>
+				<a href="/concurs/97/view_photo/319773"><img src="/images/users/photos/small/762a268ef9a26eee301710d499e79b55.jpg" alt="Добрые дела" title="Добрые дела" class="glav" /></a>
+				<a href="/concurs/243/view_photo/319772"><img src="/images/users/photos/small/5819f8a1290dd1367bac3c2a7965990e.jpg" alt="Самолёт для папы" title="Самолёт для папы" class="glav" /></a>
+				<a href="/concurs/243/view_photo/319771"><img src="/images/users/photos/small/6f90e926d03aa402464434c4f16d9765.jpg" alt="Кружка для папы" title="Кружка для папы" class="glav" /></a>
+				<a href="/concurs/239/view_photo/319770"><img src="/images/users/photos/small/5d8375395672e31abe54c8d8d532c84a.jpg" alt="Обитатель лесов Пермского края-рысь" title="Обитатель лесов Пермского края-рысь" class="glav" /></a>
+	</div></div> 	
+<div id="dalee"><a href="/concurs/new">Все Конкурсы</a></div>
+<br>
+<div class="blog_entries pro_liblue"><div class="blog_entry">
+<h2>Для аттестационных комиссий</h2>
+<p>Проверка документов (свидетельств, дипломов, грамот) по номеру.</p>
+<form action="//www.maam.ru/pro" id="proform" method="POST">
+<input name="prozapros" id="prozapros" value="1" type="hidden">
+ <p><b>Введите номер документа:</b></p>    
+<input name="doc_num" class="text-input" type="text" size="46" value="" style="width:99%;font-size:30px;">
+<br/><br/>
+<input class="cm_submit" value="Найти документ" type="submit" style="width:99%;" >
+<br/><br/>
+</form>
+</div></div> 
+
+</div><div class="module">
+<div class="modulebody"><h2>Международный образовательный портал MAAM.ru</h2>
+
+<p>Портал МААМ является Всероссийским Средством Массовой Информации (СМИ)&nbsp; <a href="http://www.maam.ru/templates/detskiy-sad/fs7757008.jpg" target="blank">Эл № ФС77-57008</a>.</p>
+
+<p>На сегодняшний день на МААМ создано более <b>28.000 сайтов детских садов</b> и других организаций для детей, опубликовано более <b>1.200.000 образовательных материалов</b>, среди которых можно найти конспекты занятий и уроков, игры, сценарии, методические работы. Написано более <b>18.000.000 комментариев</b>. Количество зарегистрированных пользователей превышает <b>2.900.000 человек</b>.</p>
+
+<p>Архив публикаций: <a href="/archive/2022">2022</a>, <a href="/archive/2021">2021</a>, <a href="/archive/2020">2020</a>, <a href="/archive/2019">2019</a>, <a href="/archive/2018">2018</a>, <a href="/archive/2017">2017</a>, <a href="/archive/2016">2016</a>, <a href="/archive/2015">2015</a>, <a href="/archive/2014">2014</a>, <a href="/archive/2013">2013</a>, <a href="/archive/2012">2012</a>, <a href="/archive/2011">2011</a>, <a href="/archive/2010">2010</a>.</p>
+
+<div id="dalee"><a href="/registration">&#9658; Регистрируйся!</a></div></div>
+</div></div>
+<div class="grid_4" id="sidebar"><div class="module1">
+<div class="modulebody1"><p><u><a href="/kartinki">Картинки</a></u> 
+<br/>Наглядные материалы для детей дошкольного и школьного возраста</p></div>
+</div><div class="module11">
+<div class="modulebody11"><p><u><a href="http://www.maam.ru/o-saite/vse-servisy-proekta/konkursy-grafik-konkursnyh-meroprijatii.html">Конкурсы на сайте</a></u> <br/><a href="http://www.maam.ru/detskijsad/luchshii-konspekt-zanjatii-dlja-dou.html">Для педагогов и воспитателей</a> 
+<br/><a href="http://www.maam.ru/concurs">Для детей</a></p></div>
+</div><div class="module12">
+<div class="modulebody12"><p><u><a href="http://www.maam.ru/novosti-saita/diplomy-svidetelstva-i-blagodarnosti-dlja-pedagogov-vospitatelei-detei.html">Заказать документ </a></u> 
+<br/><a href="http://www.maam.ru/novosti-saita/diplomy-svidetelstva-i-blagodarnosti-dlja-pedagogov-vospitatelei-detei.html">Дипломы и свидетельства для педагогов, воспитателей, детей</a></p></div>
+</div><div class="bluemodule">
+<div class="bluemoduletitle">
+Войти на сайт
+</div>
+<div class="bluemodulebody"><form action="/login" method="post" name="authform" style="margin:0px" target="_self" id="authform">
+<table class="authtable" width="100%" border="0" cellspacing="0" cellpadding="2">
+<tr>
+<td width="60">Email:</td>
+<td width=""><input name="login" type="text" id="login" /></td>
+</tr>
+<tr>
+<td height="30" valign="top">Пароль:</td>
+<td valign="top"><input name="pass" type="password" id="pass" />
+<input name="remember" type="checkbox" id="remember" value="1" checked="checked"  style="display:none"/>
+</td>
+</tr>
+<tr>
+<td height="27" colspan="2" align="right" valign="top">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="87%">                            
+<a href="/passremind.html">Забыли пароль?</a>
+<a href="//www.maam.ru/registration">Регистрация</a>
+</td>
+<td width="13%" align="right"><input id="login_btn" type="submit" name="Submit" value="Вход" /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</form></div>
+</div><div class="module">
+<div class="modulebody"><h4><a href="https://www.maam.ru/detskijsad/kalendar-tematicheskih-dnei-na-maam.html">Календарь праздников на МААМ </a></h4></div>
+</div><div class="greenmodule">
+<div class="greenmoduletitle">
+Новые публикации
+</div>
+<div class="greenmodulebody"><div class="mod_latest_entry">
+<a class="mod_latest_blog_title" href="/detskijsad/konspekt-zanjatija-s-detmi-ovz-remont-odezhdy-prishivanie-pugovic.html" title="Конспект занятия с детьми ОВЗ «Ремонт одежды. Пришивание пуговиц»">Конспект занятия с детьми ОВЗ «Ремонт одежды. Пришивание...</a>
+<div class="mod_latest_date">20 февраля 2023 в 13:33<br />
+</div>
+</div>
+<div class="mod_latest_entry">
+<a class="mod_latest_blog_title" href="/detskijsad/proekt-chisla-v-skazkah.html" title="Проект «Числа в сказках»">Проект «Числа в сказках»</a>
+<div class="mod_latest_date">20 февраля 2023 в 13:33<br />
+</div>
+</div>
+<div class="mod_latest_entry">
+<a class="mod_latest_blog_title" href="/detskijsad/analiticheskaja-spravka-po-rezultatam-monitoringa-v-podgotovitelnoi-grupe-na-nachalo-2022-2023-uchebnogo-goda.html" title="Аналитическая справка по результатам мониторинга в подготовительной группе на начало 2022–2023 учебного года">Аналитическая справка по результатам мониторинга в...</a>
+<div class="mod_latest_date">20 февраля 2023 в 13:32<br />
+</div>
+</div>
+<div class="mod_latest_entry">
+<a class="mod_latest_blog_title" href="/detskijsad/korekcija-narushenii-slogovoi-struktury-slova-s-pomoschyu-vizualno-ritmicheskih-rjadov.html" title="Коррекция нарушений слоговой структуры слова с помощью визуально-ритмических рядов">Коррекция нарушений слоговой структуры слова с помощью...</a>
+<div class="mod_latest_date">20 февраля 2023 в 13:31<br />
+</div>
+</div>
+<div class="mod_latest_entry">
+<a class="mod_latest_blog_title" href="/detskijsad/centr-finansovoi-gramotnosti-v-doshkolnyh-grupah.html" title="Центр финансовой грамотности в дошкольных группах">Центр финансовой грамотности в дошкольных группах</a>
+<div class="mod_latest_date">20 февраля 2023 в 13:30<br />
+</div>
+</div>
+<div class="mod_latest_entry"><a href="/detskijsad"><b>Все работы за сегодня &gt;&gt;&gt;</b></a></div>
+</div>
+</div><!--noindex-->
+<div class="bluemodule">
+<div class="bluemoduletitle">
+МААМ в соцсетях
+</div>
+<table width="90%" cellpadding="8" border="0">
+<tr>
+<td valign="top"><a href="https://vk.com/maam_vk" target="_blank" rel="nofollow"><img src="/images/icons/maam-vk.png" alt="" border="0"></a> <a href="https://ok.ru/maam.ok" target="_blank" rel="nofollow"><img src="/images/icons/maam-ok.png" alt="" border="0"></a></td>
+</tr>
+</table>
+</div>
+<div class="module">
+<div class="modulebody">
+<br><h4><a href="/faq/psend">Ваши предложения
+<br>и пожелания</a></h4>
+</div>
+</div>
+<!--/noindex-->
+</div>
+<br clear="all" />
+</div>
+</div>
+<br clear="all" /></div>
+</div>
+
+<!--noindex--><div id="footer">
+<div class="container_12" id="mainunder"><div id="zoloto"><div class="module">
+<div class="moduletitle">
+Выбор редакции
+</div>
+<div class="modulebody"><div class="menulink">
+<div id="dalea"><a href="/detskijsad/topday-1.html">Лучшее 3 дня</a></div>
+<div id="dalea"><a href="/detskijsad/topweek-1.html">Топ Недели</a></div>
+<div id="dalea"><a href="/detskijsad/topmonth-1.html">Топ Месяца</a></div>
+<div id="dalea"><a href="/detskijsad">Новое</a></div>
+<div id="dalea"><a href="/detskijsad/photoall-1.html">С фото</a></div>
+<div id="dalea"><a href="/detskijsad/zolotoj-post-maaam-1.html">Лучшее</a></div>
+<hr>
+</div>
+
+<div class="clear"></div>
+<div  class="ft_all">
+<div class="ft_block">
+<div class="ft_img">
+<div class="ft_img_in">
+<a href="/detskijsad/teatralizacija-kamenyi-cvetok.html"><img src="/upload/zoloto/1589914.jpg" alt="Фотоотчет о театрализации «Каменный цветок»"></a>
+</div>
+</div>
+<div class="ft_title">
+<a href="/detskijsad/teatralizacija-kamenyi-cvetok.html">Фотоотчет о театрализации «Каменный цветок»</a>
+</div>
+</div>
+<div class="ft_block">
+<div class="ft_img">
+<div class="ft_img_in">
+<a href="/detskijsad/fototchet-didakticheskoe-posobie-iz-foamirana-svoimi-rukami-nakormi-ptichku.html"><img src="/upload/zoloto/1589904.jpg" alt="Фотоотчет. Дидактическое пособие из фоамирана своими руками «Накорми птичку»"></a>
+</div>
+</div>
+<div class="ft_title">
+<a href="/detskijsad/fototchet-didakticheskoe-posobie-iz-foamirana-svoimi-rukami-nakormi-ptichku.html">Фотоотчет. Дидактическое пособие из фоамирана своими руками «Накорми птичку»</a>
+</div>
+</div>
+<div class="ft_block">
+<div class="ft_img">
+<div class="ft_img_in">
+<a href="/detskijsad/master-klas-pano-iz-bumagi-v-tehnike-mozaika-spektr.html"><img src="/upload/zoloto/1589870.jpg" alt="Мастер-класс по изготовлению панно из бумаги в технике мозаика «Спектр»"></a>
+</div>
+</div>
+<div class="ft_title">
+<a href="/detskijsad/master-klas-pano-iz-bumagi-v-tehnike-mozaika-spektr.html">Мастер-класс по изготовлению панно из бумаги в технике мозаика «Спектр»</a>
+</div>
+</div>
+<div class="ft_block">
+<div class="ft_img">
+<div class="ft_img_in">
+<a href="/detskijsad/master-klas-po-izgotovleniyu-podelki-iz-bumagi-bravye-soldaty-s-detmi-starshego-doshkolnogo-vozrasta.html"><img src="/upload/zoloto/1589832.jpg" alt="Мастер-класс по изготовлению поделки из бумаги «Бравые солдаты» с детьми старшего дошкольного возраста"></a>
+</div>
+</div>
+<div class="ft_title">
+<a href="/detskijsad/master-klas-po-izgotovleniyu-podelki-iz-bumagi-bravye-soldaty-s-detmi-starshego-doshkolnogo-vozrasta.html">Мастер-класс по изготовлению поделки из бумаги «Бравые солдаты» с детьми старшего дошкольного возраста</a>
+</div>
+</div>
+<div class="ft_block">
+<div class="ft_img">
+<div class="ft_img_in">
+<a href="/detskijsad/konspekt-od-po-obryvnoi-aplikaci-v-podgotovitelnoi-k-shkole-grupe-nash-krasivyi-petushok-nosit-krasnyi-grebeshok.html"><img src="/upload/zoloto/1589812.jpg" alt="Конспект ОД по обрывной аппликации в подготовительной к школе группе «Наш красивый петушок носит красный гребешок»"></a>
+</div>
+</div>
+<div class="ft_title">
+<a href="/detskijsad/konspekt-od-po-obryvnoi-aplikaci-v-podgotovitelnoi-k-shkole-grupe-nash-krasivyi-petushok-nosit-krasnyi-grebeshok.html">Конспект ОД по обрывной аппликации в подготовительной к школе группе «Наш красивый петушок носит красный гребешок»</a>
+</div>
+</div>
+<div class="ft_block">
+<div class="ft_img">
+<div class="ft_img_in">
+<a href="/detskijsad/master-klas-rybka-iz-testa.html"><img src="/upload/zoloto/1589803.jpg" alt="Мастер-класс по изготовлению поделки из теста «Рыбка»"></a>
+</div>
+</div>
+<div class="ft_title">
+<a href="/detskijsad/master-klas-rybka-iz-testa.html">Мастер-класс по изготовлению поделки из теста «Рыбка»</a>
+</div>
+</div>
+<div class="ft_block">
+<div class="ft_img">
+<div class="ft_img_in">
+<a href="/detskijsad/master-klas-po-izgotovleniyu-otkrytki-k-23-fevralja-iz-kartona-i-cvetnoi-bumagi-dlja-grup-ranego-i-mladshego-vozrasta.html"><img src="/upload/zoloto/1589799.jpg" alt="Мастер-класс по изготовлению открытки к 23 февраля из картона и цветной бумаги для групп раннего и младшего возраста"></a>
+</div>
+</div>
+<div class="ft_title">
+<a href="/detskijsad/master-klas-po-izgotovleniyu-otkrytki-k-23-fevralja-iz-kartona-i-cvetnoi-bumagi-dlja-grup-ranego-i-mladshego-vozrasta.html">Мастер-класс по изготовлению открытки к 23 февраля из картона и цветной бумаги для групп раннего и младшего возраста</a>
+</div>
+</div>
+<div class="ft_block">
+<div class="ft_img">
+<div class="ft_img_in">
+<a href="/detskijsad/zanjatie-po-okruzhayuschemu-miru-mir-tkani.html"><img src="/upload/zoloto/1589767.jpg" alt="Занятие по окружающему миру «Мир ткани»"></a>
+</div>
+</div>
+<div class="ft_title">
+<a href="/detskijsad/zanjatie-po-okruzhayuschemu-miru-mir-tkani.html">Занятие по окружающему миру «Мир ткани»</a>
+</div>
+</div>
+
+<div class="ft_block">
+<div class="ft_img">
+<div class="ft_img_in">
+<a href="/kartinki/lyepbuki-kupit-skachat-shablony/razreznye-kartinki-s-yemocijami-lica-detei.html"><img src="/illustrations/112/medium/item_5710.jpg" alt="Разрезные картинки с эмоциями. Лица детей"></a>
+</div>
+</div>
+
+<div class="ft_title">
+<a href="/kartinki/lyepbuki-kupit-skachat-shablony/razreznye-kartinki-s-yemocijami-lica-detei.html">Картинки: Разрезные картинки с эмоциями. Лица детей</a>
+</div>
+</div>
+<div class="ft_block">
+<div class="ft_img">
+<div class="ft_img_in">
+<a href="/kartinki/lyepbuki-na-mam-kupit-skachat-shablony/ovoschi-korneplody-vyreznye-kartinki.html"><img src="/illustrations/112/medium/item_4422.jpg" alt="Овощи корнеплоды. Вырезные картинки"></a>
+</div>
+</div>
+
+<div class="ft_title">
+<a href="/kartinki/lyepbuki-na-mam-kupit-skachat-shablony/ovoschi-korneplody-vyreznye-kartinki.html">Картинки: Овощи корнеплоды. Вырезные картинки</a>
+</div>
+</div>
+<div class="ft_block">
+<div class="ft_img">
+<div class="ft_img_in">
+<a href="/kartinki/lyepbuki-na-mam-kupit-skachat-shablony/ovoschi-v-kartinkah-dlja-vyrezanija.html"><img src="/illustrations/112/medium/item_4423.jpg" alt="Овощи в картинках для вырезания"></a>
+</div>
+</div>
+
+<div class="ft_title">
+<a href="/kartinki/lyepbuki-na-mam-kupit-skachat-shablony/ovoschi-v-kartinkah-dlja-vyrezanija.html">Картинки: Овощи в картинках для вырезания</a>
+</div>
+</div>
+<div class="ft_block">
+<div class="ft_img">
+<div class="ft_img_in">
+<a href="/kartinki/lyepbuki-na-mam-kupit-skachat-shablony/oblozhka-dlja-lyepbuka-ko-dnyu-pobedy.html"><img src="/illustrations/112/medium/item_4536.jpg" alt="Обложка для лэпбука ко Дню Победы"></a>
+</div>
+</div>
+
+<div class="ft_title">
+<a href="/kartinki/lyepbuki-na-mam-kupit-skachat-shablony/oblozhka-dlja-lyepbuka-ko-dnyu-pobedy.html">Картинки: Обложка для лэпбука ко Дню Победы</a>
+</div>
+</div>
+
+</div>
+<div class="clear"></div>
+<div id="dalee"><a href="/detskijsad/zolotoj-post-maaam-1.html">+ Ещё золотые публикации</a></div>
+<div class="clear"></div></div>
+</div></div></div>
+
+<div class="container_12">
+<div class="grid_12">
+<div class="module">
+<div id="poisk_maam" class="poisk_m2">
+<div class="moduletitle">МААМ-Поиск</div>
+<form action="//www.maam.ru/poisk/?pg=" method="POST">
+<input name="name" value="" placeholder="Напишите здесь то, что хотите найти" type="text"><input value="Найти" type="submit"></form>
+<div class="module">
+<div class="modulebody"><div><span class="big">1 338 000 </span> публикаций <span class="big">3 183 000 </span> пользователей </div></div>
+</div></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+
+<div class="container_12" id="infooter">
+<div class="grid_5">
+<p id="back-top"><a href="#header">вверх &uarr;</a></p>	
+</div>
+<div class="grid_12">
+<div class="module">
+<div class="grid_110">
+<div id="copyright" class="gerb"><a href="/templates/detskiy-sad/fs7757008.jpg" target="blank">Всероссийское зарегистрированное СМИ</a> «Международный образовательный портал <b>МААМ</b>»
+<br />Учредитель, издатель, гл. редактор: Фонов Д.В. ОГРНИП 311344431400027. Идея: Вовченко Е.А.
+<br/>Редакция: 400066, РФ, Волгоград, ул. Мира, д. 11, кв. 36 | admin@maam.ru | +7 (499) 499-41-52
+<br />Контакты редакции: <a href="mailto:admin@maam.ru">admin@maam.ru</a> | Сервер в РФ | <a href="/novosti/27-nojabrja-v-sovete-federaci-byl-predstavlen-opyt-raboty-portala-mam.html">Совет Федерации</a> | <a href="/obrazovanie/luchshii-pedagog-goda-na-maam">Российская Газета</a><br />
+<br />Свидетельство о регистрации СМИ <a href="/templates/detskiy-sad/fs7757008.jpg" target="blank">Эл № ФС77-57008</a> от 25 февраля 2014 года, зарегистрировано Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций (Роскомнадзор)<br />
+<br /><span class="big grn">6+</span> | Используя сайт МААМ, вы принимаете <a href="/novosti-saita/polzovatelskoe-soglashenie.html">Пользовательское соглашение</a>
+<br /><a href="/templates/detskiy-sad/issn-maam.jpg" target="blank">ISSN 2587-9545</a> | <a href="/o-saite/reklama-na-mam.html" title="Подробнее о размещении рекламы на МААМ">Реклама на МААМ</a> | <a href="/novosti-saita/pravoobladatelyam.html">Правообладателям</a>
+<br /><b>МААМ</b> 2010 - 2023 
+<br /><br /></div>
+</div>
+<div>
+<div id="copyright">
+<script type="text/javascript" src="/templates/detskiy-sad/js/counterr.js"></script>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div id="diploms_line">
+<a href="/games"><img src="/templates/detskiy-sad/igri3.png" class="rads" alt="МААМ-Игры" title="Детские развивающие игры на МААМ"></a><br><br><br>
+<a href="/kartinki"><img src="/templates/detskiy-sad/images/kartinki220424.jpg" class="rads" alt="МААМ-Картинки" title="Дидактические пособия в картинках на МААМ"></a><br><br><br>
+<a href="/users/myzakaz.html"><img src="//www.maam.ru/templates/detskiy-sad/images/diploms1.png" alt="Получить документы" title="Получить документы"></a>
+<div id="dalee"><a href="/users/myzakaz.html">Получить свидетельства</a></div>
+</div>
+</div>
+</div>
+<div class="container_12"  id="mobile_menu_bottom">
+<div id="diploms_line">
+<a href="/games"><img src="/templates/detskiy-sad/igri3.png" class="rads" alt="МААМ-Игры" title="Детские развивающие игры на МААМ"></a><br>
+<a href="/kartinki"><img src="/templates/detskiy-sad/images/kartinki220424.jpg" class="rads" alt="МААМ-Картинки" title="Дидактические пособия в картинках на МААМ"></a><br><br>
+<a href="/users/myzakaz.html"><img src="//www.maam.ru/templates/detskiy-sad/images/diploms1.png" alt="Получить документы" title="Получить документы"></a>
+<div id="dalee"><a href="/users/myzakaz.html">Получить свидетельства</a></div>
+</div>
+<div id="dalee_foot">
+<a href="/registration">Зарегистрироваться</a>
+<a href="/login">Войти</a>
+<a href="/poisk">Поиск</a>
+<a href="/detskijsad/zolotoj-post-maaam-1.html" class="hpro">Лучшее</a>
+<a href="/detskijsad/">Новое</a>
+<a href="/novosti">Новости</a>
+<a href="/obrazovanie">Темочки</a>
+<a href="/kartinki/">Картинки</a>
+<a href="/kartinki/lyepbuki">Лэпбуки</a>
+<a href="/zadat-vopros">Спросить</a>
+<a href="/games" class="hpro">Игры!</a>
+<a href="/o-proekte">О МААМ</a>
+<br><a href="/" class="hpro">На Главную МААМ</a>
+<a href="#sitename" class="hese">&#9650;Вверх</a>
+</div>
+</div>
+<!--/noindex-->
+</div>
+<!--noindex-->
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter3237454 = new Ya.Metrika({id:3237454, enableAll: true});
+        } catch(e) {}
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/3237454" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<!--/noindex-->
+</body>
+</html>
+<!-- nov -0.0469 16 --><!-- 0,0098 --><!-- 0,0686 -->

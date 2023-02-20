@@ -1,0 +1,2227 @@
+<!doctype html>
+<html lang="ru">
+<head>
+	<meta charset="windows-1251" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+	
+    		<meta name="viewport" content="width=device-width,initial-scale=1">
+    
+	<title>7Дней.ру - Новости, интервью, фото и видео звезд</title>
+
+	<meta name="description" content="Новости шоу-бизнеса, светская хроника, интервью со звёздами. Видео- и фотогалереи. Материалы журналов «Караван историй» и «Караван историй. Коллекция». Обзоры фильмов, статьи о путешествиях и моде." />
+			<meta name="zen-verification" content="w5GogREoHPbheSSxHsRvrH03HJDP5WTd7QkF5bwIEMQlEBvGCcJJF7NNNKeqf2TB" />
+	
+	<meta property="og:type" content="website">
+	<meta property="og:site_name" content="7Дней.ру">
+	<meta property="og:title" content="7Дней.ру - Новости, интервью, фото и видео звезд" />
+	<meta property="og:url" content="https://7days.ru/index.php" />
+
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+
+	<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="192x192" href="/android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+
+
+	<script defer="defer" src="//cdn.7days.ru/bitrix/templates/7days-redesign-2021/js/main.1676546257.js"></script>
+	<script defer="defer" src="//cdn.7days.ru/js/common.js?1676546236"></script>
+	<script defer="defer" src="//cdn.7days.ru/bitrix/templates/7days-redesign-2021/js/autoComplete.min.js?1676546256"></script>
+	<script defer="defer" src="//cdn.7days.ru/bitrix/templates/7days-redesign-2021/js/aos.js?1676546256"></script>
+	<link href="//cdn.7days.ru/bitrix/templates/7days-redesign-2021/css/main.1676546253.css" rel="stylesheet">
+	<link href="//cdn.7days.ru/bitrix/templates/7days-redesign-2021/css/aos.css?1676546253" rel="stylesheet" >
+	<link href="//cdn.7days.ru/bitrix/templates/7days-redesign-2021/css/fixes.1676546253.css" rel="stylesheet">
+
+	<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+	<script>
+		window.jQuery || document.write('<script src="//cdn.7days.ru/bitrix/templates/7days-redesign-2021/js/jquery-3.6.0.min.js?1676546256"><\/script>');
+	</script>
+	<script src="//cdn.7days.ru/bitrix/templates/7days-redesign-2021/js/jquery-migrate-3.3.2.min.js?1676546256"></script>
+
+	<script type="text/javascript" src="//cdn.7days.ru/bitrix/templates/7days-redesign-2021/js/jquery.cookie.js?1676546256"></script>
+
+	<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/vue/3.2.37/vue.global.prod.min.js"></script>
+	<script>
+		window.Vue || document.write('<script src="//cdn.7days.ru/bitrix/templates/7days-redesign-2021/js/vue.global.prod.min.js?1676546257"><\/script>');
+	</script>
+	<script type="text/javascript" src="//cdn.7days.ru/bitrix/templates/7days-redesign-2021/js/uuidv4.js?1676546257"></script>
+
+
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<link rel="canonical" href="https://7days.ru/"/>
+<script type="text/javascript">user = []</script>
+<script type="text/javascript">BX.message({'REL_TO_PAGE_N':'К странице &#8470;','REL_TO_NEXT_PAGE':'К следующей странице','REL_TO_PREV_PAGE':'К предыдущей странице'})</script>
+
+
+
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "0410532abc363860962a342560a2ada9"]); _ba.push(["host", "7days.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+
+	<script>window.ABValue = 'A'</script>
+
+	<script type="text/javascript" src="//cdn.7days.ru/bitrix/templates/7days-redesign-2021/js/mobile-redirect-values.js?1676546257"></script>
+	<script type="text/javascript" src="//cdn.7days.ru/bitrix/templates/7days-redesign-2021/js/mobile-detect.js?1676546257"></script>
+
+    
+	<!-- ad_start code="AD_PLACE_SPECIAL_HEAD_LIBRARIES" template="MAIN" --><script async src="//cdn.7days.ru/upload/js/cached/818add2727d9810bbe4728250700365b.js" data-original="https://svk-native.ru/js/bounce-catcher/7days.ru.10920.min.js" nochache></script>
+<script>window.yaContextCb = window.yaContextCb || []</script>
+<script src="https://yandex.ru/ads/system/context.js" async nocache></script>
+<script type="text/javascript" src="https://s3.wi-fi.ru/mtt/configs/sites/7days.js" nocache></script>
+<script>
+var newscroll = 0;
+</script>
+<!-- ad_end code="AD_PLACE_SPECIAL_HEAD_LIBRARIES" template="MAIN" -->
+	<!-- GOOGLE COUNTER -->
+<script>
+  (function (i, s, o, g, r, a, m) {
+    i['GoogleAnalyticsObject'] = r;
+    i[r] = i[r] || function () {
+      (i[r].q = i[r].q || []).push(arguments)
+    }, i[r].l = 1 * new Date();
+    a = s.createElement(o),
+      m = s.getElementsByTagName(o)[0];
+    a.async = 1;
+    a.src = g;
+    m.parentNode.insertBefore(a, m)
+  })(window, document, 'script', '//www.google-analytics.com/analytics.js', '_ga');
+  window.reporter_eventUrl = 'https://7days.ru/event.php';
+(() => {
+	if ('ga' in window && !('reporter' in window.ga && window.ga.reporter)) {
+		console.error('REPORTER ANALYTICS ERROR. Original Google Analytics object with name "ga" found in window object. Override function disabled. Change name for original "ga" to "_ga". See: https://developers.google.com/analytics/devguides/collection/analyticsjs/advanced?hl=ru#renaming');
+		return;
+	}
+
+	const eventUrl = 'reporter_eventUrl' in window ? window.reporter_eventUrl : false;
+	const sendEventTimout = 2000;
+
+	let eventQueue = [];
+	let sendEventTimer = null;
+
+	let send_event = (category, action, label, value) => {
+		const event = {
+			'ec[]': category ? category : '',
+			'ea[]': action ? action : '',
+			'el[]': label ? label : '',
+			'ev[]': typeof(value) !== 'undefined' ? value : '',
+		};
+		eventQueue.push(event);
+		if (sendEventTimer) {
+			window.clearTimeout(sendEventTimer);
+		}
+		sendEventTimer = window.setTimeout(() => {
+			const formData = new FormData();
+			eventQueue.forEach((item) => {
+				Object.keys(item).forEach((key) => {
+					formData.append(key, item[key]);
+				});
+			});
+
+			if (eventUrl) {
+				eventQueue = [];
+				fetch(eventUrl, {method: 'POST', cache: 'no-cache', mode: 'no-cors', body: formData}).then();
+			} else {
+				console.log('Event url not defined. Event values: ' + (new URLSearchParams(formData)).toString());
+			}
+		}, sendEventTimout);
+	};
+
+	window.ga = function (command, ...fields) {
+		let hitType = fields instanceof Array ? (fields.length ? fields[0] : null) :
+			('hitType' in fields ? fields.hitType : null);
+
+		if (command === 'send' && hitType === 'event') {
+			let category = fields instanceof Array ? (fields.length > 1 ? fields[1] : null) :
+				'eventCategory' in fields ? fields.eventCategory : null;
+			let action = fields instanceof Array ? (fields.length > 2 ? fields[2] : null) :
+				'eventAction' in fields ? fields.eventAction : null;
+			let label = fields instanceof Array ? (fields.length > 3 ? fields[3] : null) :
+				'eventLabel' in fields ? fields.eventLabel : null;
+			let value = fields instanceof Array ? (fields.length > 4 ? fields[4] : null) :
+				'eventValue' in fields ? fields.eventValue : null;
+			send_event(category, action, label, value);
+		}
+
+		// Original Google Analytics call
+		return window._ga(...arguments);
+	};
+	window.ga.reporter = true;
+})();
+  ga('create', 'UA-930316-4', 'auto');
+
+      if (!!$.cookie('stats_registered')) {
+    ga('set', 'metric1', 1);
+    ga('set', 'dimension1', 'true');
+  }
+      ga('set', 'metric2', 0);
+  ga('set', 'dimension2', 'false');
+  
+  ga('set', 'metric4', 'A');
+  ga('set', 'dimension4', 'A');
+
+  ga('send', 'pageview');
+  if (!document.referrer ||
+    document.referrer.split('/')[2].indexOf(location.hostname) != 0)
+    setTimeout(function () {
+      ga('send', 'event', 'Bump', location.pathname);
+    }, 15000);
+</script>
+<!-- end of GOOGLE COUNTER -->
+
+
+<link rel="manifest" href="/manifest.json"/>
+
+
+	<link rel="alternate" type="application/rss+xml" title="RSS: Все рубрики" href="//7days.ru/rss/all/"/>
+	<link rel="alternate" type="application/rss+xml" title="RSS: Журнал Караван историй" href="//7days.ru/rss/section/caravan/"/>
+	<link rel="alternate" type="application/rss+xml" title="RSS: Журнал Коллекция Караван историй" href="//7days.ru/rss/section/caravan-collection/"/>
+						<link rel="alternate" type="application/rss+xml" title="RSS: Новости" href="//7days.ru/rss/section/news"/>
+								<link rel="alternate" type="application/rss+xml" title="RSS: Звезды" href="//7days.ru/rss/section/stars"/>
+								<link rel="alternate" type="application/rss+xml" title="RSS: Кино" href="//7days.ru/rss/section/kino"/>
+								<link rel="alternate" type="application/rss+xml" title="RSS: Мой дом" href="//7days.ru/rss/section/lifestyle"/>
+								<link rel="alternate" type="application/rss+xml" title="RSS: Яркое детство" href="//7days.ru/rss/section/kids"/>
+								<link rel="alternate" type="application/rss+xml" title="RSS: Гороскопы" href="//7days.ru/rss/section/astro"/>
+								<link rel="alternate" type="application/rss+xml" title="RSS: Досуг" href="//7days.ru/rss/section/dosug"/>
+								<link rel="alternate" type="application/rss+xml" title="RSS: Здоровье" href="//7days.ru/rss/section/health"/>
+								<link rel="alternate" type="application/rss+xml" title="RSS: Стиль" href="//7days.ru/rss/section/style"/>
+								<link rel="alternate" type="application/rss+xml" title="RSS: Скидки" href="//7days.ru/rss/section/promokodi"/>
+								<link rel="alternate" type="application/rss+xml" title="RSS: Теги" href="//7days.ru/rss/section/tags"/>
+			
+	<script>
+  (() => {
+    const key_md = 'redirect_md', key_time = 'redirect_time';
+    const md_value_mobile = 'to_mobile', md_value_desktop = 'to_desktop';
+    const mobileDomain = MobileRedirectValues.isMobileDomain() || MobileRedirectValues.isMobileHealth();
+    const mobileAvailable = true;
+    const md = new MobileDetect(window.navigator.userAgent);
+    const isMobile = md.mobile() && md.phone() && !md.tablet();
+    const getCookie = function (name) {
+      let matches = document.cookie.match(new RegExp("(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + "=([^;]*)"));
+      return matches ? decodeURIComponent(matches[1]) : null;
+    };
+    const setCookie = function (name, value) {
+      const domainName = window.location.hostname.replace(/^m\./, '');
+      const path = window.location.pathname;
+      document.cookie = name + "=" + (value || "") + "; path=" + path + "; domain=." + domainName;
+    };
+
+    let timestamp = Math.round(+new Date() / 1000) | 0;
+    let to = getCookie(key_md);
+    let value;
+
+    // Expires
+    if (!(value = getCookie(key_time)) || parseInt(value) < timestamp - 3600) {
+      setCookie(key_time, timestamp.toString());
+      to = null;
+    } else if (value && timestamp - parseInt(value) < 7) {
+      to = false; // stop any redirect
+    }
+
+    // Redirect to mobile domain
+    if (!mobileDomain && mobileAvailable && isMobile && (to === null || to === md_value_mobile)) {
+      setCookie(key_md, md_value_mobile);
+      'ga' in window && window.ga('send', 'event', 'RedirectToMobile', window.location.pathname);
+      'yaCounter152622' in window && yaCounter152622.reachGoal('ReditectToMobile');
+      location.href = '//m.7days.ru/';
+    }
+
+    // Redirect to desktop domain
+    if (mobileDomain && !isMobile && (to === null || to === md_value_desktop)) {
+      setCookie(key_md, md_value_desktop);
+      'ga' in window && window.ga('send', 'event', 'RedirectToDesktop', window.location.pathname);
+      location.href = '//7days.ru/';
+    }
+  })()
+</script></head>
+<body id="branding_id">
+		<!-- Yandex.Metrika counter -->
+<script type="text/javascript"> (function (m, e, t, r, i, k, a) {
+    m[i] = m[i] || function () {
+      (m[i].a = m[i].a || []).push(arguments)
+    };
+    m[i].l = 1 * new Date();
+    for (var j = 0; j < document.scripts.length; j++) {
+      if (document.scripts[j].src === r) {
+        return;
+      }
+    }
+    k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
+  })(window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+  ym(152622, "init", {clickmap: true, trackLinks: true, accurateTrackBounce: true, webvisor: true}); </script>
+<noscript>
+	<div><img src="https://mc.yandex.ru/watch/152622" style="position:absolute; left:-9999px;" alt=""/></div>
+</noscript>
+<!-- /Yandex.Metrika counter -->
+<!-- Counter: LiveInternet -->
+<script type="text/javascript"><!--
+	new Image().src = "//counter.yadro.ru/hit?r"+
+		escape(document.referrer)+((typeof(screen)=="undefined")?"":
+		";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+			screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+		";h"+escape(document.title.substring(0,80))+
+		";"+Math.random();//--></script>
+<!--/LiveInternet counter-->
+
+<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "3082139", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = "https://top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div>
+<img src="https://top-fwz1.mail.ru/counter?id=3082139;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+
+
+
+	<div class="b-stripe b-stripe_type_wide b-stripe_content_header-banner" style="">
+		<div class="b-stripe__in">
+			<div class="b-hz2 b-hz2_content_top-header">
+                <!-- ad_start code="AD_PLACE_1" template="MAIN" --><!-- TOP --><!-- ad_end code="AD_PLACE_1" template="MAIN" -->			</div>
+		</div>
+	</div>
+
+<script type="text/javascript">
+	function openMobileBranding()
+	{
+		let mb = document.getElementById('mobile_branding');
+		if (mb) mb.style.display = "block";
+		document.getElementById('page_content').classList.add('banners-brand');
+	}
+	function closeMobileBranding()
+	{
+		let mb = document.getElementById('mobile_branding');
+		if (mb) mb.style.display = "none";
+		document.getElementById('page_content').classList.remove('banners-brand');
+	}
+</script>
+
+<!-- AdFox Branding (AFB) -->
+<!-- ad_start code="AD_PLACE_8" template="MAIN" --><!--Тип баннера: BackGround-->
+<div id="adfox_149492749261972582"></div>
+<script>
+    var tags = '';
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.createAdaptive({
+            ownerId: 171993,
+            containerId: 'adfox_149492749261972582',
+            params: {
+                pp: 'g',
+                ps: 'bhbp',
+                p2: 'equg',
+                pk: tags.replace(/%20/g, " "),
+            },
+            onRender: function() {
+                var bgclass = document.getElementsByTagName('body')[0].style.backgroundSize;
+                if (bgclass != "") {
+                  var bgel = firstElementChild(document.getElementsByClassName("adfox-banner-background")[0]);
+                  bgel.style.backgroundSize = bgclass;
+                    console.log("Background Rendered");
+                }
+             },
+             onLoad: function(data) { 
+                 console.log("Background Loaded");},
+             onError: function(error) {    console.log("BG Error: ");
+              console.log(error); },
+             onStub: function() { console.log("Background Callback"); },            
+        }, ['desktop', 'tablet'], {
+            tabletWidth: 900,
+            isAutoReloads: true
+        })
+    })
+    window.yaContextCb.push(()=>{
+            Ya.adfoxCode.createAdaptive({
+                ownerId: 171993,
+                containerId: 'adfox_149492749261972582',
+                params: {
+                pp: 'g',
+                ps: 'bhbp',
+                p2: 'gvnf',
+                pk: tags.replace(/%20/g, " "),
+            },
+            onRender: function() { 
+                var bgel = document.getElementsByClassName("adfox-banner-background")[0].getElementsByTagName("a")[0].style.backgroundSize = "contain";
+                //  var shifter = document.getElementsByClassName("header-7days__infopanel-sticky")[0].style.top = "137px";
+            },
+            onStub:function() { 
+                console.log("background closed");
+                closeMobileBranding();
+            },
+            onLoad:function(){ 
+                openMobileBranding(); 
+                console.log("background loaded");
+            },
+            onError:function(error) { 
+                console.log("BG Error: ");
+                console.log(error);
+                console.log("background closed");
+                closeMobileBranding();
+            },
+        }, ['phone'], {
+            tabletWidth: 480,
+            isAutoReloads: true
+        })
+    })
+
+function firstElementChild(parent) {
+    var node = parent && parent.firstElementChild;
+    if (!node && parent) {
+        node = parent.firstChild;
+        while (node && node.nodeType !== 1) {
+            node = node.nextSibling;
+        }
+    }
+    return node;
+}
+</script>
+
+<style>
+  .bg-banner-contain a {
+  background-size: contain;
+  image-rendering: auto!important;
+  }
+ .adfox-banner-background {
+ z-index: 1000;
+  }
+</style>
+<script>
+function getRandomInt(max) {
+  return Math.floor(Math.random() * max);
+}
+lurl = document.location.pathname;
+if(lurl.includes("news")){
+   var imgpx = document.createElement("img");
+imgpx.src = "http://ads.adfox.ru/171993/getCode?p1=bjsrb&p2=equg&pfc=etdyi&pfb=naikb&puid1=&puid2=&puid3=&puid4=&puid5=&pr="+ getRandomInt(999999) +"&ptrc=b";
+imgpx.style="width: 0px; height: 0px";
+var src = document.getElementsByTagName("body")[0];
+//src.appendChild(imgpx);
+}
+</script><!-- ad_end code="AD_PLACE_8" template="MAIN" --><!-- End AFB -->
+
+<div id="page_content" class="wrapper-7days">
+	<div class="header-7days ">
+	<div class="container-7days ">
+		<div class="header-7days__infopanel">
+			<div class="header-7days__top-links">
+			 <a class="header-7days__top-links_caravan "
+					  href="//7days.ru/caravan/">Караван историй</a>  <a class="header-7days__top-links_caravan-collection "
+					  href="//7days.ru/caravan-collection/">Коллекция Караван историй</a>			</div>
+			<div class="header-7days__dropdown-top">
+                
+<a class="header-7days__dropdown-top_auth-login j-auth"
+    data-fancybox="login-modal"
+    data-type="ajax"
+    data-src="/auth.php?form=1"
+	    data-options="{&quot;touch&quot; : false, &quot;smallBtn&quot;: false,&quot;toolbar&quot;: false, &quot;animationEffect&quot;: &quot;zoom-in-out&quot;, &quot;slideClass&quot;: &quot;modal-open&quot;, &quot;ajax&quot;: {&quot;settings&quot;: {&quot;type&quot;: &quot;post&quot;}}}"
+    href="javascript:;">Войти</a>
+    <script type="text/javascript" defer src="//cdn.7days.ru/bitrix/templates/.default/components/bitrix/system.auth.form/2021/auth_error_message.js?1676546246"></script>
+				<a class="header-7days__dropdown-top_search"
+				   data-fancybox="menu-full-search" data-src="#menu-full"
+				   data-options="{&quot;touch&quot; : false, &quot;smallBtn&quot;: false,&quot;toolbar&quot;: false, &quot;animationEffect&quot;: &quot;zoom-in-out&quot;, &quot;slideClass&quot;: &quot;modal-open&quot;}"
+				   href="javascript:;">Поиск</a>
+							</div>
+		</div>
+        			<a class="header-7days__logo logo-big" href="/"></a>
+			
+        <div class="header-7days__navigation-box ">
+	<ul class="header-7days__navigation dragscroll wrapper-mobile-scroll">
+		        					<li class="header-7days__navigation_item">
+			<a class="header-7days__navigation_href " href="/news/?from=top-menu">Новости</a>
+		</li>
+							<li class="header-7days__navigation_item">
+			<a class="header-7days__navigation_href " href="/stars/?from=top-menu">Звезды</a>
+		</li>
+							<li class="header-7days__navigation_item">
+			<a class="header-7days__navigation_href " href="https://7days.ru/kino/?from=top-menu">Кино</a>
+		</li>
+							<li class="header-7days__navigation_item">
+			<a class="header-7days__navigation_href " href="/lifestyle/?from=top-menu">Мой дом</a>
+		</li>
+							<li class="header-7days__navigation_item">
+			<a class="header-7days__navigation_href color-7D2AF4" href="/kids/?from=top-menu">Яркое детство</a>
+		</li>
+							<li class="header-7days__navigation_item">
+			<a class="header-7days__navigation_href " href="/astro/?from=top-menu">Гороскопы</a>
+		</li>
+							<li class="header-7days__navigation_item">
+			<a class="header-7days__navigation_href " href="/dosug/?from=top-menu">Досуг</a>
+		</li>
+							<li class="header-7days__navigation_item">
+			<a class="header-7days__navigation_href " href="https://health.7days.ru/?from=top-menu">Здоровье</a>
+		</li>
+							<li class="header-7days__navigation_item">
+			<a class="header-7days__navigation_href " href="/style/?from=top-menu">Стиль</a>
+		</li>
+							<li class="header-7days__navigation_item">
+			<a class="header-7days__navigation_href color-BC1A1F" href="//7days.ru/promokodi/">Скидки</a>
+		</li>
+			</ul>
+	<a class="header-7days__burger-full-navigation"
+	   data-fancybox="menu-full"
+	   data-src="#menu-full"
+	   data-options="{&quot;touch&quot; : false, &quot;smallBtn&quot;: false,&quot;toolbar&quot;: false, &quot;animationEffect&quot;: &quot;zoom-in-out&quot;, &quot;slideClass&quot;: &quot;modal-open&quot;}"
+	   href="javascript:;"><span></span></a>
+</div>
+
+
+<style>
+		.header-7days__navigation_href.color-7D2AF4 {
+		background: #7D2AF4;
+		border-radius: 6px;
+		color: #fff;
+	}
+		.header-7days__navigation_href.color-BC1A1F {
+		background: #BC1A1F;
+		border-radius: 6px;
+		color: #fff;
+	}
+	</style>
+
+<script>
+	(() => {
+		let menuScroller = (menuSelector, activeSelector) => {
+			let menu = document.querySelector(menuSelector)
+			let active = menu.querySelector(activeSelector)
+			if (active) {
+				let offsetMiddle = menu.offsetWidth / 2 - active.offsetWidth / 2
+				menu.scrollLeft = active.offsetLeft - offsetMiddle
+			}
+		}
+		document.addEventListener('readystatechange', () => {
+			if (document.readyState === 'complete') {
+				menuScroller('.header-7days__navigation-box ul', '.active-item')
+				menuScroller('.header-7days__navigation-submenu-mobile', '.active-item')
+			}
+		})
+	})()
+</script>
+        	</div>
+    <style type="text/css">
+	.gray25 {
+		color: rgba(0,0,0,0.25);
+	}
+</style>
+<div class="header-7days__recommendation_back">
+	<div class="header-7days__recommendation dragscroll wrapper-mobile-scroll">
+		<div class="header-7days__recommendation_box">
+		<!-- ad_start code="AD_PLACE_SWITCH_RECOMMENDATION" template="" -->				<a class="header-7days__recommendation_item" style="background:#d9d2bf" href="https://7days.ru/kino/spec/territory2/?from=top" >
+							<!-- genImageHTML -->
+		<img  class="header-7days__recommendation_item-logo" src="//cdn.7days.ru/upload/iblock/393/8c092s7czrlpra60cpvbte16rb9msjbw/60x60 (5) (1).png" alt="Колдуны и шаманы живут здесь" title="Колдуны и шаманы живут здесь" loading="lazy" />
+							<div class="header-7days__recommendation_item-title" >
+						Колдуны и шаманы живут здесь						<div class="header-7days__recommendation_advertising gray25">
+							Реклама. ООО "Премьер"						</div>
+					</div>
+				</a>
+								<a class="header-7days__recommendation_item" style="background:#d5ed97" href="https://7days.ru/lifestyle/family/k-nam-edet-revizor-chto-obshchego-u-komedii-gogolya-s-rabotoy-v-fix-price.htm?from=top" >
+							<!-- genImageHTML -->
+		<img  class="header-7days__recommendation_item-logo" src="//cdn.7days.ru/upload/iblock/418/ag3qrmgqc9y1en5eyglmq24pk0pivbbr/fxprs.png" alt="Путешествуй и зарабатывай" title="Путешествуй и зарабатывай" loading="lazy" />
+							<div class="header-7days__recommendation_item-title" >
+						Путешествуй и зарабатывай						<div class="header-7days__recommendation_advertising gray25">
+							Реклама. fix-price.com						</div>
+					</div>
+				</a>
+								<a class="header-7days__recommendation_item" style="background:#8dc7e5" href="https://t.me/stars7d" >
+							<!-- genImageHTML -->
+		<img  class="header-7days__recommendation_item-logo" src="//cdn.7days.ru/upload/iblock/926/eu7t2u1t5qxtvo1hrqic2dqkdn8lhuo1/60x60 (2).png" alt="Читай нас в Telegram" title="Читай нас в Telegram" loading="lazy" />
+							<div class="header-7days__recommendation_item-title" >
+						Читай нас в Telegram						<div class="header-7days__recommendation_advertising gray25">
+													</div>
+					</div>
+				</a>
+				<!-- ad_end code="AD_PLACE_SWITCH_RECOMMENDATION" template="" -->		</div>
+	</div>
+</div>
+<div class="header-7days__infopanel-sticky " >
+	<div class="header-7days__infopanel-sticky-wrapper">
+						<a class="j-nobranding header-7days__logo_sticky" href="/" style="display:none;"></a>
+				<style type="text/css">
+	.gray25 {
+		color: rgba(0,0,0,0.25);
+	}
+</style>
+<div class="header-7days__recommendation_sticky">
+    			<a class="header-7days__recommendation_item" style="background:#d9d2bf" href="https://7days.ru/kino/spec/territory2/?from=top" >
+						<!-- genImageHTML -->
+		<img  class="header-7days__recommendation_item-logo sticky-item-logo" src="//cdn.7days.ru/upload/iblock/393/8c092s7czrlpra60cpvbte16rb9msjbw/60x60 (5) (1).png" alt="Колдуны и шаманы живут здесь" title="Колдуны и шаманы живут здесь" loading="lazy" />
+						<div class="header-7days__recommendation_item-title sticky-item-title" >
+					Колдуны и шаманы живут здесь					<div class="header-7days__recommendation_advertising gray25">
+						Реклама. ООО "Премьер"					</div>
+				</div>
+			</a>
+					<a class="header-7days__recommendation_item" style="background:#d5ed97" href="https://7days.ru/lifestyle/family/k-nam-edet-revizor-chto-obshchego-u-komedii-gogolya-s-rabotoy-v-fix-price.htm?from=top" >
+						<!-- genImageHTML -->
+		<img  class="header-7days__recommendation_item-logo sticky-item-logo" src="//cdn.7days.ru/upload/iblock/418/ag3qrmgqc9y1en5eyglmq24pk0pivbbr/fxprs.png" alt="Путешествуй и зарабатывай" title="Путешествуй и зарабатывай" loading="lazy" />
+						<div class="header-7days__recommendation_item-title sticky-item-title" >
+					Путешествуй и зарабатывай					<div class="header-7days__recommendation_advertising gray25">
+						Реклама. fix-price.com					</div>
+				</div>
+			</a>
+					<a class="header-7days__recommendation_item" style="background:#8dc7e5" href="https://t.me/stars7d" >
+						<!-- genImageHTML -->
+		<img  class="header-7days__recommendation_item-logo sticky-item-logo" src="//cdn.7days.ru/upload/iblock/926/eu7t2u1t5qxtvo1hrqic2dqkdn8lhuo1/60x60 (2).png" alt="Читай нас в Telegram" title="Читай нас в Telegram" loading="lazy" />
+						<div class="header-7days__recommendation_item-title sticky-item-title" >
+					Читай нас в Telegram					<div class="header-7days__recommendation_advertising gray25">
+											</div>
+				</div>
+			</a>
+		</div>
+
+
+		<div class="header-7days__burger-sticky-navigation_box">
+							<a class="header-7days__dropdown-top_auth-login-sticky" href="#login-modal">Войти</a>
+						<a class="header-7days__burger-sticky-navigation" data-fancybox="menu-full-sticky"
+			   data-src="#menu-full"
+			   data-options="{&quot;touch&quot; : false, &quot;smallBtn&quot;: false,&quot;toolbar&quot;: false, &quot;animationEffect&quot;: &quot;zoom-in-out&quot;, &quot;slideClass&quot;: &quot;modal-open&quot;}"
+			   href="javascript:;"><span></span></a>
+		</div>
+	</div>
+</div>
+
+<script type="text/javascript">
+	(() => {
+		let md = new MobileDetect(window.navigator.userAgent);
+		let isMobile = !!(md.mobile() && md.phone() && !md.tablet());
+		let branding = false;
+		let logoType = 'default';
+
+		$('.header-7days__recommendation_sticky')
+			.attr('style', 'display:none')
+
+		if (!branding) {
+			console.log('nobranding');
+			$('.j-nobranding').attr('style', 'display:block');
+
+			if (logoType == 'health') {
+				$('.j-nobranding').attr('style', 'display:flex');
+			}
+			else {
+				$('.j-nobranding').attr('style', 'display:block');
+			}
+
+			if (!isMobile) {
+				$('.header-7days__recommendation_sticky').attr('style', 'display:grid');
+			}
+			return;
+		}
+
+		console.log('branding');
+
+		if (isMobile) {
+			$('.header-7days__infopanel-sticky')
+				.removeClass('branding')
+				.attr('style', 'background-image:none');
+			$('.j-nobranding').attr('style', 'display:block');
+		}
+		else {
+			$('.j-branding').attr('style', 'display:block');
+		}
+
+	})()
+</script>
+	<div class="header-7days__dropdown-full-menu" id="menu-full">
+		<div class="header-7days__dropdown-full-menu_close" data-fancybox-close=""></div>
+        <form class="header-7days__search-autocomplete" id="j-search-form" action="//7days.ru/search/index.php">
+	<div class="autoComplete_wrapper autocomplete-search">
+		<input class="autocomplete" autocomplete="off" id="j-search-autocomplete" name="onsite" value="">
+	</div>
+	<input class="header-7days__search-autocomplete_button" type="submit" value="">
+</form>
+
+<script>
+	$(function () {
+		new autoComplete({
+			data: {
+				src: async () => {
+					const query = document.getElementById('j-search-autocomplete').value;
+					const source = await fetch(`/ajax/search/autocomplete.php?term=${query}`);
+					return await source.json();
+				},
+				key: ['label'],
+				cache: false
+			},
+			selector: "#j-search-autocomplete",
+			threshold: 3,
+			onSelection: event => {
+				document.getElementById('j-search-autocomplete').value = event.selection.value.label;
+				document.getElementById('j-search-form').submit();
+			},
+			resultsList: {
+				className: 'autoComplete_list',
+			},
+			resultItem: {
+				className: 'autoComplete_result'
+			}
+		});
+	})
+</script>
+        <nav class="header-7days__full-menu-mobile">
+				<div class="header-7days__full-menu-mobile_item">
+		<a class="header-7days__full-menu-mobile_title " href="/news/">Новости</a>
+				<nav>
+            							<a class="header-7days__full-menu-mobile_item-submenu " href="/news/stars/">Звезды</a>
+										<a class="header-7days__full-menu-mobile_item-submenu " href="/news/royals/">Монархи</a>
+										<a class="header-7days__full-menu-mobile_item-submenu " href="/news/sports/">Спорт</a>
+										<a class="header-7days__full-menu-mobile_item-submenu " href="/news/politics/">Политики</a>
+										<a class="header-7days__full-menu-mobile_item-submenu " href="/news/world/">В мире</a>
+					</nav>
+			</div>
+				<div class="header-7days__full-menu-mobile_item">
+		<a class="header-7days__full-menu-mobile_title " href="/stars/">Звезды</a>
+				<nav>
+            							<a class="header-7days__full-menu-mobile_item-submenu " href="/stars/chronic/">Светская хроника</a>
+										<a class="header-7days__full-menu-mobile_item-submenu " href="/stars/privatelife/">Частная жизнь</a>
+										<a class="header-7days__full-menu-mobile_item-submenu " href="/stars/ratings/">Рейтинги</a>
+										<a class="header-7days__full-menu-mobile_item-submenu " href="/stars/bio/">Энциклопедия звёзд</a>
+					</nav>
+			</div>
+				<div class="header-7days__full-menu-mobile_item">
+		<a class="header-7days__full-menu-mobile_title " href="https://7days.ru/kino/">Кино</a>
+				<nav>
+            							<a class="header-7days__full-menu-mobile_item-submenu " href="https://7days.ru/kino/movie-news/">Новости</a>
+										<a class="header-7days__full-menu-mobile_item-submenu " href="/kino/review/">Рецензии</a>
+										<a class="header-7days__full-menu-mobile_item-submenu " href="https://7days.ru/kino/top/?from=to-menu">Подборки</a>
+										<a class="header-7days__full-menu-mobile_item-submenu " href="https://7days.ru/kino/articles/?from=top-menu">Обзоры</a>
+					</nav>
+			</div>
+				<div class="header-7days__full-menu-mobile_item">
+		<a class="header-7days__full-menu-mobile_title " href="/lifestyle/">Мой дом</a>
+				<nav>
+            							<a class="header-7days__full-menu-mobile_item-submenu " href="/lifestyle/home/">Создаём уют</a>
+										<a class="header-7days__full-menu-mobile_item-submenu " href="/lifestyle/food/">Готовим вместе</a>
+										<a class="header-7days__full-menu-mobile_item-submenu " href="/lifestyle/family/">Семья</a>
+										<a class="header-7days__full-menu-mobile_item-submenu " href="/lifestyle/travel/">На отдых</a>
+					</nav>
+			</div>
+				<div class="header-7days__full-menu-mobile_item">
+		<a class="header-7days__full-menu-mobile_title " href="/kids/">Яркое детство</a>
+			</div>
+				<div class="header-7days__full-menu-mobile_item">
+		<a class="header-7days__full-menu-mobile_title " href="/astro/">Гороскопы</a>
+				<nav>
+            							<a class="header-7days__full-menu-mobile_item-submenu " href="/astro/horoscope/">Гороскоп</a>
+										<a class="header-7days__full-menu-mobile_item-submenu " href="/astro/sonnik/">Сонник</a>
+										<a class="header-7days__full-menu-mobile_item-submenu " href="/astro/do-zvezdi/">До звезды</a>
+					</nav>
+			</div>
+				<div class="header-7days__full-menu-mobile_item">
+		<a class="header-7days__full-menu-mobile_title " href="/dosug/">Досуг</a>
+				<nav>
+            							<a class="header-7days__full-menu-mobile_item-submenu " href="/dosug/afisha/">Афиша</a>
+										<a class="header-7days__full-menu-mobile_item-submenu " href="/dosug/books/">Книги</a>
+										<a class="header-7days__full-menu-mobile_item-submenu " href="/dosug/podcasts/">Подкасты</a>
+										<a class="header-7days__full-menu-mobile_item-submenu " href="/dosug/tests/">Тесты</a>
+					</nav>
+			</div>
+				<div class="header-7days__full-menu-mobile_item">
+		<a class="header-7days__full-menu-mobile_title " href="https://health.7days.ru/">Здоровье</a>
+				<nav>
+            							<a class="header-7days__full-menu-mobile_item-submenu " href="//health.7days.ru/vashe-zdorovie/">Здоровье человека</a>
+										<a class="header-7days__full-menu-mobile_item-submenu " href="//health.7days.ru/seks/">Секс</a>
+										<a class="header-7days__full-menu-mobile_item-submenu " href="//health.7days.ru/med-news/">Новости медицины</a>
+										<a class="header-7days__full-menu-mobile_item-submenu " href="//health.7days.ru/nauka/">Наука</a>
+										<a class="header-7days__full-menu-mobile_item-submenu " href="//health.7days.ru/lose-weight/">Похудеть</a>
+										<a class="header-7days__full-menu-mobile_item-submenu " href="//health.7days.ru/diets/">Питание</a>
+										<a class="header-7days__full-menu-mobile_item-submenu " href="//health.7days.ru/esteticheskaja-medicina/">Эстетическая медицина</a>
+										<a class="header-7days__full-menu-mobile_item-submenu " href="//health.7days.ru/sport/">Спорт</a>
+										<a class="header-7days__full-menu-mobile_item-submenu " href="//health.7days.ru/covid-19/">Коронавирус</a>
+					</nav>
+			</div>
+				<div class="header-7days__full-menu-mobile_item">
+		<a class="header-7days__full-menu-mobile_title " href="/style/">Стиль</a>
+				<nav>
+            							<a class="header-7days__full-menu-mobile_item-submenu " href="/style/fashion/">Мода</a>
+										<a class="header-7days__full-menu-mobile_item-submenu " href="/style/beauty/">Красота</a>
+										<a class="header-7days__full-menu-mobile_item-submenu " href="/style/star-beauty-secrets/">Секреты красоты звезд</a>
+										<a class="header-7days__full-menu-mobile_item-submenu " href="/style/star-style/">Звездный стиль</a>
+					</nav>
+			</div>
+				<div class="header-7days__full-menu-mobile_item">
+		<a class="header-7days__full-menu-mobile_title " href="//7days.ru/promokodi/">Скидки</a>
+				<nav>
+            							<a class="header-7days__full-menu-mobile_item-submenu " href="https://7days.ru/promokodi/mvideo-promokod">Промокод М.Видео</a>
+										<a class="header-7days__full-menu-mobile_item-submenu " href="https://7days.ru/promokodi/promokod-svyaznoy">Промокод Связной</a>
+										<a class="header-7days__full-menu-mobile_item-submenu " href="https://7days.ru/promokodi/promocod-yandex-afisha">Промокод Яндекс Афиша</a>
+										<a class="header-7days__full-menu-mobile_item-submenu " href="https://7days.ru/promokodi/mnogo-mebeli-promokod">Промокод Много Мебели</a>
+										<a class="header-7days__full-menu-mobile_item-submenu " href="/caravan/2006/">Промокод Video Shoper</a>
+										<a class="header-7days__full-menu-mobile_item-submenu " href="https://7days.ru/promokodi/huawei-promokod">Промокод Huawei</a>
+										<a class="header-7days__full-menu-mobile_item-submenu " href="https://7days.ru/promokodi/akson-promokod-na-skidku">Промокод Аксон</a>
+										<a class="header-7days__full-menu-mobile_item-submenu " href="https://7days.ru/promokodi/perekrestok-promokod">Промокод Впрок</a>
+										<a class="header-7days__full-menu-mobile_item-submenu " href="https://7days.ru/promokodi/kupony-foxford">Промокод Фоксфорд</a>
+										<a class="header-7days__full-menu-mobile_item-submenu " href="https://7days.ru/promokodi/promokod-hoff">Промокод Hoff</a>
+										<a class="header-7days__full-menu-mobile_item-submenu " href="https://7days.ru/promokodi/promocod-techport">Промокод Техпорт</a>
+										<a class="header-7days__full-menu-mobile_item-submenu " href="https://7days.ru/promokodi/promokod-yandex-market">Промокод Яндекс Маркет</a>
+										<a class="header-7days__full-menu-mobile_item-submenu " href="https://7days.ru/promokodi/kupony-aliexpress">Промокод Алиэкспресс</a>
+										<a class="header-7days__full-menu-mobile_item-submenu " href="https://7days.ru/promokodi/promokod-eldorado">Промокод Эльдорадо</a>
+					</nav>
+			</div>
+	</nav>
+		<div class="header-7days__submenu-modal-box">
+			<ul class="header-7days__submenu-modal">
+				<li class="header-7days__submenu-modal_item">
+					<a class="header-7days__submenu-modal_href" href="http://seven-days.ru/" rel="nofollow">Издательство</a>
+					<span class="header-7days__submenu-modal_arrow">|</span>
+				</li>
+				<li class="header-7days__submenu-modal_item">
+					<a class="header-7days__submenu-modal_href" href="/copyright.htm" rel="nofollow">Правовая информация</a>
+					<span class="header-7days__submenu-modal_arrow">|</span>
+				</li>
+				<li class="header-7days__submenu-modal_item">
+					<a class="header-7days__submenu-modal_href" href="/advertising/" rel="nofollow">Рекламодателям</a>
+					<span class="header-7days__submenu-modal_arrow">|</span>
+				</li>
+				<li class="header-7days__submenu-modal_item">
+					<a class="header-7days__submenu-modal_href" href="/contacts.htm" rel="nofollow">Контакты</a>
+					<span class="header-7days__submenu-modal_arrow">|</span>
+				</li>
+				<li class="header-7days__submenu-modal_item">
+					<a class="header-7days__submenu-modal_href" href="/about.htm" rel="nofollow">О проекте</a>
+				</li>
+			</ul>
+			<div class="header-7days__submenu-modal_age">16+</div>
+		</div>
+	</div>
+
+    </div>
+	<div><!-- ad_start code="AD_PLACE_UNDER_MAIN_MENU" template="MAIN" --><div style="display: flex; align-items: center; justify-content: center; background-color: #f9f9f9; margin: 10px 0; padding: 10px; color: gray; position: relative">
+<div id="GPM_7days_D_Top" style="min-height: 250px;"></div>
+<div id="GPM_7days_M_Top" style="min-height: 250px; overflow: hidden"></div>
+</div><!-- ad_end code="AD_PLACE_UNDER_MAIN_MENU" template="MAIN" --></div>	<div class="container-7days ">
+<div class="content-7days">
+	            		<div id="col1">
+            <div class="material-7days__images gradient">
+	<div>
+        		<a href="/news/eto-pytka-dlya-menya-neuznavaemaya-vaenga-raskryla-svoy-diagnoz.htm?from=index"  class="material-7days__images_href-img j-stat-click" data-id="986849">
+										<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/d5c/986849/1474985/86.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/d5c/986849/1474985/86.jpg" type="image/jpeg">
+					<img  class="material-7days__images_img" src="//cdn.7days.ru/pic/d5c/986849/1474985/86.jpg" alt="«Это пытка для меня»: неузнаваемая Ваенга в слезах раскрыла свой диагноз" title="«Это пытка для меня»: неузнаваемая Ваенга в слезах раскрыла свой диагноз" width="643" height="429" loading="lazy"/>
+				</picture>
+						</a>
+		<div class="material-7days__images_title base">
+		<div>
+						<a class="material-7days__images_rubric" data-id="986849" href="/news/stars/">Новости</a></div>
+						<h3><a class="j-stat-click" href="/news/eto-pytka-dlya-menya-neuznavaemaya-vaenga-raskryla-svoy-diagnoz.htm?from=index" >«Это пытка для меня»: неузнаваемая Ваенга в слезах раскрыла свой диагноз</a></h3>
+		</div>
+	</div>
+</div>
+<div class="material-7days__slider top">
+            	<div class="material-7days__slider_item">
+		<a href="/news/eto-zapomnyat-vse-elegantnaya-keyt-middlton-pozvolila-sebe-lishnee-na-tseremonii.htm?from=index"  class="j-stat-click" data-id="986843">
+			            				<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/c74/986843/1474845/93.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/c74/986843/1474845/93.jpg" type="image/jpeg">
+					<img  class="material-7days__slider_images" src="//cdn.7days.ru/pic/c74/986843/1474845/93.jpg" alt="Это запомнят все: элегантная Кейт Миддлтон позволила себе лишнее на церемонии " title="Это запомнят все: элегантная Кейт Миддлтон позволила себе лишнее на церемонии " loading="lazy"/>
+				</picture>
+						</a>
+				<div><a class="material-7days__slider_rubric " href="/news/stars/">Новости</a></div>
+				<h3><a class="material-7days__slider_item-title j-stat-click" data-id="986843" href="/news/eto-zapomnyat-vse-elegantnaya-keyt-middlton-pozvolila-sebe-lishnee-na-tseremonii.htm?from=index" >Это запомнят все: элегантная Кейт Миддлтон позволила себе лишнее на церемонии </a></h3>
+	</div>
+	        	<div class="material-7days__slider_item">
+		<a href="/news/posle-problem-so-zreniem-liza-moryak-rodila-dochku.htm?from=index"  class="j-stat-click" data-id="986850">
+			            				<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/5bc/986850/1474875/93.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/5bc/986850/1474875/93.jpg" type="image/jpeg">
+					<img  class="material-7days__slider_images" src="//cdn.7days.ru/pic/5bc/986850/1474875/93.jpg" alt="После проблем со зрением: Лиза Моряк родила дочку" title="После проблем со зрением: Лиза Моряк родила дочку" loading="lazy"/>
+				</picture>
+						</a>
+				<div><a class="material-7days__slider_rubric " href="/news/stars/">Новости</a></div>
+				<h3><a class="material-7days__slider_item-title j-stat-click" data-id="986850" href="/news/posle-problem-so-zreniem-liza-moryak-rodila-dochku.htm?from=index" >После проблем со зрением: Лиза Моряк родила дочку</a></h3>
+	</div>
+	        	<div class="material-7days__slider_item">
+		<a href="//health.7days.ru/vashe-zdorovie/vesennee-obostrenie-kak-uspokoitsya-i-nachat-radovatsya-solntsu.htm?from=index"  class="j-stat-click" data-id="986532">
+			            				<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/5d2/986532/1473197/93.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/5d2/986532/1473197/93.jpg" type="image/jpeg">
+					<img  class="material-7days__slider_images" src="//cdn.7days.ru/pic/5d2/986532/1473197/93.jpg" alt="«Весеннее обострение»: как успокоиться и начать радоваться солнцу?" title="«Весеннее обострение»: как успокоиться и начать радоваться солнцу?" loading="lazy"/>
+				</picture>
+						</a>
+				<div><a class="material-7days__slider_rubric " href="//health.7days.ru/vashe-zdorovie/">Здоровье человека</a></div>
+				<h3><a class="material-7days__slider_item-title j-stat-click" data-id="986532" href="//health.7days.ru/vashe-zdorovie/vesennee-obostrenie-kak-uspokoitsya-i-nachat-radovatsya-solntsu.htm?from=index" >«Весеннее обострение»: как успокоиться и начать радоваться солнцу?</a></h3>
+	</div>
+	</div>
+
+
+		</div>
+            		<div id="col2">
+            <div class=" js-banner_ad_place_2">
+			<!-- ad_start code="AD_PLACE_2" template="MAIN" --><div id="GPM_7days_D_RColumn_MainPage"></div><!-- ad_end code="AD_PLACE_2" template="MAIN" -->			</div>		</div>
+    </div><div class="content-7days full">
+	<hr ><h2 class="base-material-7days__title center">Сейчас читают</h2>
+<div class="base-material-7days__now-read">
+        	<div class="base-material-7days__item">
+        		<div class="base-material-7days__item_img">
+			<a href="/news/da-proizoshli-izmeneniya-navka-opublikovala-kadry-s-kostomarovym.htm?from=recommendation" >
+                				<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/fa5/986761/1474493/84.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/fa5/986761/1474493/84.jpg" type="image/jpeg">
+					<img  src="//cdn.7days.ru/pic/fa5/986761/1474493/84.jpg" alt="«Да, произошли изменения»: Навка опубликовала кадры с Костомаровым" title="«Да, произошли изменения»: Навка опубликовала кадры с Костомаровым" height="200" width="300" loading="lazy"/>
+				</picture>
+							</a>
+			<div class="base-material-7days__item_profile"><span>7934</span></div>
+		</div>
+		<div>
+                    <a class="base-material-7days__item_rubric" href="/news/stars/">
+                Новости            </a>
+        		</div>
+		<div>
+            <h3><a class="base-material-7days__item_href" href="/news/da-proizoshli-izmeneniya-navka-opublikovala-kadry-s-kostomarovym.htm?from=recommendation" >«Да, произошли изменения»: Навка опубликовала кадры с Костомаровым</a></h3>
+        </div>
+		<div>
+            <a class="base-material-7days__item_rubric" href="/news/da-proizoshli-izmeneniya-navka-opublikovala-kadry-s-kostomarovym.htm?from=recommendation" >
+                Олимпийская чемпионка поделилась воспоминаниями о прошлом.            </a>
+        </div>
+	</div>
+	    	<div class="base-material-7days__item">
+        		<div class="base-material-7days__item_img">
+			<a href="/news/otkazalsya-ot-svobody-pochemu-efremov-reshil-ostatsya-v-kolonii.htm?from=recommendation" >
+                				<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/b60/986733/1474332/84.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/b60/986733/1474332/84.jpg" type="image/jpeg">
+					<img  src="//cdn.7days.ru/pic/b60/986733/1474332/84.jpg" alt="Отказался от свободы: почему Ефремов решил остаться в колонии" title="Отказался от свободы: почему Ефремов решил остаться в колонии" height="200" width="300" loading="lazy"/>
+				</picture>
+							</a>
+			<div class="base-material-7days__item_profile"><span>3612</span></div>
+		</div>
+		<div>
+                    <a class="base-material-7days__item_rubric" href="/news/stars/">
+                Новости            </a>
+        		</div>
+		<div>
+            <h3><a class="base-material-7days__item_href" href="/news/otkazalsya-ot-svobody-pochemu-efremov-reshil-ostatsya-v-kolonii.htm?from=recommendation" >Отказался от свободы: почему Ефремов решил остаться в колонии</a></h3>
+        </div>
+		<div>
+            <a class="base-material-7days__item_rubric" href="/news/otkazalsya-ot-svobody-pochemu-efremov-reshil-ostatsya-v-kolonii.htm?from=recommendation" >
+                Суд принял отказ актера от ходатайства о смягчении наказания.            </a>
+        </div>
+	</div>
+	    	<div class="base-material-7days__item">
+        		<div class="base-material-7days__item_img">
+			<a href="/stars/privatelife/oleg-efremov-postavil-gurchenko-ultimatum-libo-vy-rasstaetes-libo-ya-tebya-uvolnyayu.htm?from=recommendation" >
+                				<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/4fc/0E2CE45725B20A9F43258952005D11EE/1472798/84.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/4fc/0E2CE45725B20A9F43258952005D11EE/1472798/84.jpg" type="image/jpeg">
+					<img  src="//cdn.7days.ru/pic/4fc/0E2CE45725B20A9F43258952005D11EE/1472798/84.jpg" alt="Олег Ефремов поставил Гурченко ультиматум: «Либо вы расстаетесь, либо я тебя увольняю»" title="Олег Ефремов поставил Гурченко ультиматум: «Либо вы расстаетесь, либо я тебя увольняю»" height="200" width="300" loading="lazy"/>
+				</picture>
+							</a>
+			<div class="base-material-7days__item_profile"><span>1642</span></div>
+		</div>
+		<div>
+                    <a class="base-material-7days__item_rubric" href="/stars/privatelife/">
+                Частная жизнь            </a>
+        		</div>
+		<div>
+            <h3><a class="base-material-7days__item_href" href="/stars/privatelife/oleg-efremov-postavil-gurchenko-ultimatum-libo-vy-rasstaetes-libo-ya-tebya-uvolnyayu.htm?from=recommendation" >Олег Ефремов поставил Гурченко ультиматум: «Либо вы расстаетесь, либо я тебя увольняю»</a></h3>
+        </div>
+		<div>
+            <a class="base-material-7days__item_rubric" href="/stars/privatelife/oleg-efremov-postavil-gurchenko-ultimatum-libo-vy-rasstaetes-libo-ya-tebya-uvolnyayu.htm?from=recommendation" >
+                «Люся Гурченко проработала у нас три года. Но дело в том, что у нее с Квашой случился роман. А он...            </a>
+        </div>
+	</div>
+	</div>
+<div class="base-material-7days__videobox">
+	<h2 class="base-material-7days__title center">
+        <a href="/video/">		Видео		</a>	</h2>
+	<div class="base-material-7days__videobox-slider">
+        					<div class="base-material-7days__videobox-slider_item">
+	        			<div class="base-material-7days__videobox-slider_player">
+				<a href="/astro/do-zvezdi/do-zvezdy-gnom-gnomych-chempion-ili-neschastnyy-rebenok.htm?from=index">
+                				<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/17c/986729/1474313/84.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/17c/986729/1474313/84.jpg" type="image/jpeg">
+					<img  src="//cdn.7days.ru/pic/17c/986729/1474313/84.jpg" alt="ДО ЗВЕЗДЫ: Гном Гномыч — чемпион или несчастный ребенок?" width="180" height="120" loading="lazy"/>
+				</picture>
+								</a>
+			</div>
+			<div class="base-material-7days__videobox-slider_content">
+				<h3><a href="/astro/do-zvezdi/do-zvezdy-gnom-gnomych-chempion-ili-neschastnyy-rebenok.htm?from=index" class="base-material-7days__videobox-slider_content-title">ДО ЗВЕЗДЫ: Гном Гномыч — чемпион или несчастный ребенок?</a></h3>
+							</div>
+		</div>
+							<div class="base-material-7days__videobox-slider_item">
+	        			<div class="base-material-7days__videobox-slider_player">
+				<a href="/stars/privatelife/muzhskoy-golos-slyshat-lyudi-bez-obrazovaniya-chili-o-sozdanii-gruppy-obnazhennykh-semkakh-i-muzyke.htm?from=index">
+                				<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/405/986575/1473453/84.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/405/986575/1473453/84.jpg" type="image/jpeg">
+					<img  src="//cdn.7days.ru/pic/405/986575/1473453/84.jpg" alt="«Мужской голос слышат люди без образования»: ЧИ-ЛИ о создании группы, «обнаженных» съемках и музыке" width="180" height="120" loading="lazy"/>
+				</picture>
+								</a>
+			</div>
+			<div class="base-material-7days__videobox-slider_content">
+				<h3><a href="/stars/privatelife/muzhskoy-golos-slyshat-lyudi-bez-obrazovaniya-chili-o-sozdanii-gruppy-obnazhennykh-semkakh-i-muzyke.htm?from=index" class="base-material-7days__videobox-slider_content-title">«Мужской голос слышат люди без образования»: ЧИ-ЛИ о создании группы, «обнаженных» съемках и музыке</a></h3>
+							</div>
+		</div>
+							<div class="base-material-7days__videobox-slider_item">
+	        			<div class="base-material-7days__videobox-slider_player">
+				<a href="/kino/top/v-den-vsekh-vlyublennykh-top7-samykh-romantichnykh-priznaniy-v-lyubvi-v-kino.htm?from=index">
+                				<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/ac4/986547/1473374/84.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/ac4/986547/1473374/84.jpg" type="image/jpeg">
+					<img  src="//cdn.7days.ru/pic/ac4/986547/1473374/84.jpg" alt="В День всех влюбленных: топ-7 самых романтичных признаний в любви в кино" width="180" height="120" loading="lazy"/>
+				</picture>
+								</a>
+			</div>
+			<div class="base-material-7days__videobox-slider_content">
+				<h3><a href="/kino/top/v-den-vsekh-vlyublennykh-top7-samykh-romantichnykh-priznaniy-v-lyubvi-v-kino.htm?from=index" class="base-material-7days__videobox-slider_content-title">В День всех влюбленных: топ-7 самых романтичных признаний в любви в кино</a></h3>
+							</div>
+		</div>
+			</div>
+</div>
+<h1 class="base-material-7days__title center">Всё о звёздах</h1>
+
+
+<div class="base-material-7days__materialbox">
+							<div class="material1">
+				<div class="base-material-7days__item">
+	        			<div class="base-material-7days__item_img">
+				<a href="/stars/privatelife/sergey-kempo-posle-moego-provala-menshikov-dal-mne-vtoroy-shans.htm?from=index" >
+                    				<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/603/3C513DF57E0A67FD43258952005D1223/1472823/84.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/603/3C513DF57E0A67FD43258952005D1223/1472823/84.jpg" type="image/jpeg">
+					<img  src="//cdn.7days.ru/pic/603/3C513DF57E0A67FD43258952005D1223/1472823/84.jpg" alt="Сергей Кемпо: «После моего провала Меньшиков дал мне второй шанс»" title="Сергей Кемпо: «После моего провала Меньшиков дал мне второй шанс»" height="200" width="300" loading="lazy"/>
+				</picture>
+								</a>
+							</div>
+			<div>
+				<div class="base-material-7days__item_info">
+					<div>19.02.2023</div>
+	                						<a class="base-material-7days__item_rubric-other" href="/stars/privatelife/">Частная жизнь</a>
+	                				</div>
+			</div>
+			<h3><a class="base-material-7days__item_href" href="/stars/privatelife/sergey-kempo-posle-moego-provala-menshikov-dal-mne-vtoroy-shans.htm?from=index" >Сергей Кемпо: «После моего провала Меньшиков дал мне второй шанс»</a></h3>
+			<div><a class="base-material-7days__item_rubric" href="/stars/privatelife/sergey-kempo-posle-moego-provala-menshikov-dal-mne-vtoroy-shans.htm?from=index" >«Главное в женщине — не природная красота, а внутренний мир. Гармония важнее, чем внешность. Но мне...</a></div>
+		</div>
+			</div>
+									<div class="material2">
+				<div class="base-material-7days__item">
+	        			<div class="base-material-7days__item_img">
+				<a href="/stars/privatelife/pochemu-dalida-i-alen-delon-mnogo-let-skryvali-svoy-roman.htm?from=index" >
+                    				<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/d8e/6E482AB79418721043258952005D11DB/1472793/84.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/d8e/6E482AB79418721043258952005D11DB/1472793/84.jpg" type="image/jpeg">
+					<img  src="//cdn.7days.ru/pic/d8e/6E482AB79418721043258952005D11DB/1472793/84.jpg" alt="Почему Далида и Ален Делон много лет скрывали свой роман" title="Почему Далида и Ален Делон много лет скрывали свой роман" height="200" width="300" loading="lazy"/>
+				</picture>
+								</a>
+							</div>
+			<div>
+				<div class="base-material-7days__item_info">
+					<div>19.02.2023</div>
+	                						<a class="base-material-7days__item_rubric-other" href="/stars/privatelife/">Частная жизнь</a>
+	                				</div>
+			</div>
+			<h3><a class="base-material-7days__item_href" href="/stars/privatelife/pochemu-dalida-i-alen-delon-mnogo-let-skryvali-svoy-roman.htm?from=index" >Почему Далида и Ален Делон много лет скрывали свой роман</a></h3>
+			<div><a class="base-material-7days__item_rubric" href="/stars/privatelife/pochemu-dalida-i-alen-delon-mnogo-let-skryvali-svoy-roman.htm?from=index" >Итальянка, рожденная в Египте, ставшая гражданкой Франции, Далида вошла в число немногих выдающихся...</a></div>
+		</div>
+			</div>
+									<div class="material3">
+				<div class="base-material-7days__item">
+	        			<div class="base-material-7days__item_img">
+				<a href="/stars/privatelife/kto-ubiytsa-zagadochnaya-tayna-smerti-igorya-talkova.htm?from=index" >
+                    				<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/aa9/985538/1466983/84.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/aa9/985538/1466983/84.jpg" type="image/jpeg">
+					<img  src="//cdn.7days.ru/pic/aa9/985538/1466983/84.jpg" alt="Кто убийца? Загадочная тайна смерти Игоря Талькова" title="Кто убийца? Загадочная тайна смерти Игоря Талькова" height="200" width="300" loading="lazy"/>
+				</picture>
+								</a>
+							</div>
+			<div>
+				<div class="base-material-7days__item_info">
+					<div>17.02.2023</div>
+	                						<a class="base-material-7days__item_rubric-other" href="/stars/privatelife/">Частная жизнь</a>
+	                				</div>
+			</div>
+			<h3><a class="base-material-7days__item_href" href="/stars/privatelife/kto-ubiytsa-zagadochnaya-tayna-smerti-igorya-talkova.htm?from=index" >Кто убийца? Загадочная тайна смерти Игоря Талькова</a></h3>
+			<div><a class="base-material-7days__item_rubric" href="/stars/privatelife/kto-ubiytsa-zagadochnaya-tayna-smerti-igorya-talkova.htm?from=index" >Артиста убили у всех на глазах, но следствие зашло в тупик.</a></div>
+		</div>
+			</div>
+									<div class="material4">
+				<div class="base-material-7days__item">
+	        			<div class="base-material-7days__item_img">
+				<a href="/stars/privatelife/aleksandr-sheps-bitva-ekstrasensov-roman-s-merilin-kerro-chem-zanimaetsya-seychas.htm?from=index" >
+                    				<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/58e/985544/1467071/84.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/58e/985544/1467071/84.jpg" type="image/jpeg">
+					<img  src="//cdn.7days.ru/pic/58e/985544/1467071/84.jpg" alt="Александр Шепс: «Битва экстрасенсов», роман с Мэрилин Керро, чем занимается сейчас?" title="Александр Шепс: «Битва экстрасенсов», роман с Мэрилин Керро, чем занимается сейчас?" height="200" width="300" loading="lazy"/>
+				</picture>
+								</a>
+								<div class="base-material-7days__item_chat"><span>1</span></div>
+							</div>
+			<div>
+				<div class="base-material-7days__item_info">
+					<div>16.02.2023</div>
+	                						<a class="base-material-7days__item_rubric-other" href="/stars/privatelife/">Частная жизнь</a>
+	                				</div>
+			</div>
+			<h3><a class="base-material-7days__item_href" href="/stars/privatelife/aleksandr-sheps-bitva-ekstrasensov-roman-s-merilin-kerro-chem-zanimaetsya-seychas.htm?from=index" >Александр Шепс: «Битва экстрасенсов», роман с Мэрилин Керро, чем занимается сейчас?</a></h3>
+			<div><a class="base-material-7days__item_rubric" href="/stars/privatelife/aleksandr-sheps-bitva-ekstrasensov-roman-s-merilin-kerro-chem-zanimaetsya-seychas.htm?from=index" >Проект сделал экстрасенса известным. </a></div>
+		</div>
+			</div>
+									<div class="material5">
+				<div class="base-material-7days__item">
+	        			<div class="base-material-7days__item_img">
+				<a href="/stars/privatelife/anastasiya-talyzina-i-anton-zhizhin-takogo-povorota-v-zhizni-my-ne-ozhidali.htm?from=index" >
+                    				<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/b93/F5D2FBB3E0FFB34A43258952005D1148/1472734/84.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/b93/F5D2FBB3E0FFB34A43258952005D1148/1472734/84.jpg" type="image/jpeg">
+					<img  src="//cdn.7days.ru/pic/b93/F5D2FBB3E0FFB34A43258952005D1148/1472734/84.jpg" alt="Анастасия Талызина и Антон Жижин: «Такого поворота в жизни мы не ожидали»" title="Анастасия Талызина и Антон Жижин: «Такого поворота в жизни мы не ожидали»" height="200" width="300" loading="lazy"/>
+				</picture>
+								</a>
+								<div class="base-material-7days__item_chat"><span>2</span></div>
+							</div>
+			<div>
+				<div class="base-material-7days__item_info">
+					<div>15.02.2023</div>
+	                						<a class="base-material-7days__item_rubric-other" href="/stars/privatelife/">Частная жизнь</a>
+	                				</div>
+			</div>
+			<h3><a class="base-material-7days__item_href" href="/stars/privatelife/anastasiya-talyzina-i-anton-zhizhin-takogo-povorota-v-zhizni-my-ne-ozhidali.htm?from=index" >Анастасия Талызина и Антон Жижин: «Такого поворота в жизни мы не ожидали»</a></h3>
+			<div><a class="base-material-7days__item_rubric" href="/stars/privatelife/anastasiya-talyzina-i-anton-zhizhin-takogo-povorota-v-zhizni-my-ne-ozhidali.htm?from=index" >«Среди актеров распространено мнение: если вы совершенно не испытываете друг к другу никакого...</a></div>
+		</div>
+			</div>
+						        <div class="stars-trend base-material-7days__materialbox_stars-trend">
+    	<h2 class="base-material-7days__materialbox_stars-title">Звезды в тренде</h2>
+	<div class="base-material-7days__materialbox_stars-slider">
+        			<div class="base-material-7days__materialbox_stars-slider-item">
+                					<a class="base-material-7days__materialbox_stars-slider-logo" href="/stars/bio/nikita-presnyakov/">
+                        		<!-- genImageHTML -->
+		<img  src="//cdn.7days.ru/upload/images/2d3/42056e4e64f16404135f8ba0b1316.jpg" alt="Никита Пресняков" width="80" height="80" loading="lazy" />
+							</a>
+                				<div class="base-material-7days__materialbox_stars-slider-content">
+					<a class="base-material-7days__materialbox_stars-slider-actor" href="/stars/bio/nikita-presnyakov/">Никита Пресняков</a>
+					<div class="base-material-7days__materialbox_stars-slider-line">актер, певец, режиссер</div>
+				</div>
+			</div>
+        			<div class="base-material-7days__materialbox_stars-slider-item">
+                					<a class="base-material-7days__materialbox_stars-slider-logo" href="/stars/bio/olga-buzova/">
+                        		<!-- genImageHTML -->
+		<img  src="//cdn.7days.ru/upload/images/ff8/c80cc70c5c6a48e8bb7088b1d5f77.jpg" alt="Ольга Бузова" width="80" height="80" loading="lazy" />
+							</a>
+                				<div class="base-material-7days__materialbox_stars-slider-content">
+					<a class="base-material-7days__materialbox_stars-slider-actor" href="/stars/bio/olga-buzova/">Ольга Бузова</a>
+					<div class="base-material-7days__materialbox_stars-slider-line">актриса, певица, телеведущая</div>
+				</div>
+			</div>
+        			<div class="base-material-7days__materialbox_stars-slider-item">
+                					<a class="base-material-7days__materialbox_stars-slider-logo" href="/stars/bio/dzhigan/">
+                        		<!-- genImageHTML -->
+		<img  src="//cdn.7days.ru/upload/images/55d/f3a250625d0bf56419ed622fc2769.jpg" alt="Джиган" width="80" height="80" loading="lazy" />
+							</a>
+                				<div class="base-material-7days__materialbox_stars-slider-content">
+					<a class="base-material-7days__materialbox_stars-slider-actor" href="/stars/bio/dzhigan/">Джиган</a>
+					<div class="base-material-7days__materialbox_stars-slider-line">певец, рэпер, хип-хоп исполнитель</div>
+				</div>
+			</div>
+        			<div class="base-material-7days__materialbox_stars-slider-item">
+                					<a class="base-material-7days__materialbox_stars-slider-logo" href="/stars/bio/kamila-valieva/">
+                        		<!-- genImageHTML -->
+		<img  src="//cdn.7days.ru/upload/images/970/71c73ae71bbb117b1f0cfa1e35bb6.jpeg" alt="Камила Валиева" width="80" height="80" loading="lazy" />
+							</a>
+                				<div class="base-material-7days__materialbox_stars-slider-content">
+					<a class="base-material-7days__materialbox_stars-slider-actor" href="/stars/bio/kamila-valieva/">Камила Валиева</a>
+					<div class="base-material-7days__materialbox_stars-slider-line">спортсменка, фигуристка</div>
+				</div>
+			</div>
+        			<div class="base-material-7days__materialbox_stars-slider-item">
+                					<a class="base-material-7days__materialbox_stars-slider-logo" href="/stars/bio/oksana-samoylova/">
+                        		<!-- genImageHTML -->
+		<img  src="//cdn.7days.ru/upload/images/476/bd55a1852c05c0bc9ecb7a9e75b84.jpg" alt="Оксана Самойлова" width="80" height="80" loading="lazy" />
+							</a>
+                				<div class="base-material-7days__materialbox_stars-slider-content">
+					<a class="base-material-7days__materialbox_stars-slider-actor" href="/stars/bio/oksana-samoylova/">Оксана Самойлова</a>
+					<div class="base-material-7days__materialbox_stars-slider-line">дизайнер, модель</div>
+				</div>
+			</div>
+        			<div class="base-material-7days__materialbox_stars-slider-item">
+                					<a class="base-material-7days__materialbox_stars-slider-logo" href="/stars/bio/anna-romanova/">
+                        		<!-- genImageHTML -->
+		<img  src="//cdn.7days.ru/upload/images/db9/ad3060f4e63067c77be4702002c9a.jpg" alt="Анна Романова" width="80" height="80" loading="lazy" />
+							</a>
+                				<div class="base-material-7days__materialbox_stars-slider-content">
+					<a class="base-material-7days__materialbox_stars-slider-actor" href="/stars/bio/anna-romanova/">Анна Романова</a>
+					<div class="base-material-7days__materialbox_stars-slider-line">актриса театра и кино, астролог</div>
+				</div>
+			</div>
+        	</div>
+
+    <form class="stars-form-search" id="j-search-form-stars" action="//7days.ru/search/index.php">
+	<div class="autoComplete_wrapper autocomplete-search">
+		<input class="stars-form-input autocomplete" autocomplete="off" id="j-search-autocomplete-stars" name="onsite" value="">
+	</div>
+	<input class="header-7days__search-autocomplete_button" type="submit" value="">
+</form>
+
+<style>
+	.stars-form-search .autocomplete-search input {
+		padding: 0 10px !important;
+	}
+</style>
+
+<script>
+	$(function () {
+		new autoComplete({
+			data: {
+				src: async () => {
+					const query = document.getElementById('j-search-autocomplete-stars').value;
+					const source = await fetch(`/ajax/search/autocomplete.php?term=${query}`);
+					return await source.json();
+				},
+				key: ['label'],
+				cache: false
+			},
+			selector: "#j-search-autocomplete-stars",
+			threshold: 3,
+			onSelection: event => {
+				document.getElementById('j-search-autocomplete-stars').value = event.selection.value.label;
+				document.getElementById('j-search-form-stars').submit();
+			},
+			resultsList: {
+				className: 'autoComplete_list',
+			},
+			resultItem: {
+				className: 'autoComplete_result'
+			}
+		});
+	})
+</script></div>
+									<div class="material7">
+				<div class="base-material-7days__item">
+	        			<div class="base-material-7days__item_img">
+				<a href="/stars/privatelife/ot-elizavety-do-pridvornykh-za-chto-megan-markl-ne-lyubyat-v-korolevskoy-seme.htm?from=index" >
+                    				<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/2b5/984816/1462848/84.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/2b5/984816/1462848/84.jpg" type="image/jpeg">
+					<img  src="//cdn.7days.ru/pic/2b5/984816/1462848/84.jpg" alt="От Елизаветы до придворных: за что Меган Маркл не любят в королевской семье?" title="От Елизаветы до придворных: за что Меган Маркл не любят в королевской семье?" height="200" width="300" loading="lazy"/>
+				</picture>
+								</a>
+							</div>
+			<div>
+				<div class="base-material-7days__item_info">
+					<div>15.02.2023</div>
+	                						<a class="base-material-7days__item_rubric-other" href="/stars/privatelife/">Частная жизнь</a>
+	                				</div>
+			</div>
+			<h3><a class="base-material-7days__item_href" href="/stars/privatelife/ot-elizavety-do-pridvornykh-za-chto-megan-markl-ne-lyubyat-v-korolevskoy-seme.htm?from=index" >От Елизаветы до придворных: за что Меган Маркл не любят в королевской семье?</a></h3>
+			<div><a class="base-material-7days__item_rubric" href="/stars/privatelife/ot-elizavety-do-pridvornykh-za-chto-megan-markl-ne-lyubyat-v-korolevskoy-seme.htm?from=index" >Каждый приезд Меган Маркл в Букингемский дворец сопровождается какими-то скандалами. </a></div>
+		</div>
+			</div>
+									<div class="material8">
+				<div class="base-material-7days__item">
+	        			<div class="base-material-7days__item_img">
+				<a href="/stars/privatelife/ne-vstretili-vtorykh-polovinok-zvezdnye-kholostyaki-starshe-40-let.htm?from=index" >
+                    				<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/4db/984924/1463158/84.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/4db/984924/1463158/84.jpg" type="image/jpeg">
+					<img  src="//cdn.7days.ru/pic/4db/984924/1463158/84.jpg" alt="Не встретили вторых половинок: звездные холостяки старше 40 лет" title="Не встретили вторых половинок: звездные холостяки старше 40 лет" height="200" width="300" loading="lazy"/>
+				</picture>
+								</a>
+								<div class="base-material-7days__item_chat"><span>2</span></div>
+							</div>
+			<div>
+				<div class="base-material-7days__item_info">
+					<div>14.02.2023</div>
+	                						<a class="base-material-7days__item_rubric-other" href="/stars/privatelife/">Частная жизнь</a>
+	                				</div>
+			</div>
+			<h3><a class="base-material-7days__item_href" href="/stars/privatelife/ne-vstretili-vtorykh-polovinok-zvezdnye-kholostyaki-starshe-40-let.htm?from=index" >Не встретили вторых половинок: звездные холостяки старше 40 лет</a></h3>
+			<div><a class="base-material-7days__item_rubric" href="/stars/privatelife/ne-vstretili-vtorykh-polovinok-zvezdnye-kholostyaki-starshe-40-let.htm?from=index" >Только ли дело в желании оставаться свободным?</a></div>
+		</div>
+			</div>
+			</div>
+<h2 class="base-material-7days__title center no-padding"><a href="/kino/">Кино</a></h2>
+<div class="base-material-7days__cinema-block">
+	<div class="base-material-7days__cinema-block_news">
+			<div class="base-material-7days__newsbox_item">
+        <div class="base-material-7days__newsbox_logo">
+        	<a href="/kino/movie-news/anna-churina-kamila-valieva-gruppa-tutsi-i-drugie-zvezdy-posetili-premeru-komedii-papy-protiv-mam.htm?from=index" >
+                				<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/a54/986727/1474301/19.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/a54/986727/1474301/19.jpg" type="image/jpeg">
+					<img  src="//cdn.7days.ru/pic/a54/986727/1474301/19.jpg" alt="Анна Чурина, Камила Валиева, группа «Тутси» и другие звезды посетили премьеру комедии «Папы против мам»" width="100" height="66" loading="lazy"/>
+				</picture>
+				        	</a>
+        </div>
+        <div class="base-material-7days__newsbox_item-content">
+            <div class="base-material-7days__item_info">
+                <div>17.02.2023</div>
+                <div class="base-material-7days__item_clock">13:56</div>
+            </div>
+            <h3><a class="base-material-7days__newsbox_text" href="/kino/movie-news/anna-churina-kamila-valieva-gruppa-tutsi-i-drugie-zvezdy-posetili-premeru-komedii-papy-protiv-mam.htm?from=index" >
+            	Анна Чурина, Камила Валиева, группа «Тутси» и другие звезды посетили премьеру комедии «Папы против мам»            </a></h3>
+        </div>
+    </div>
+    	<div class="base-material-7days__newsbox_item">
+        <div class="base-material-7days__newsbox_logo">
+        	<a href="/kino/movie-news/dzhon-uik-4-vyydet-v-rossiyskom-prokate.htm?from=index" >
+                				<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/997/986722/1474277/19.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/997/986722/1474277/19.jpg" type="image/jpeg">
+					<img  src="//cdn.7days.ru/pic/997/986722/1474277/19.jpg" alt="«Джон Уик 4» выйдет в российском прокате" width="100" height="66" loading="lazy"/>
+				</picture>
+				        	</a>
+        </div>
+        <div class="base-material-7days__newsbox_item-content">
+            <div class="base-material-7days__item_info">
+                <div>17.02.2023</div>
+                <div class="base-material-7days__item_clock">13:19</div>
+            </div>
+            <h3><a class="base-material-7days__newsbox_text" href="/kino/movie-news/dzhon-uik-4-vyydet-v-rossiyskom-prokate.htm?from=index" >
+            	«Джон Уик 4» выйдет в российском прокате            </a></h3>
+        </div>
+    </div>
+    	<div class="base-material-7days__newsbox_item">
+        <div class="base-material-7days__newsbox_logo">
+        	<a href="/kino/movie-news/zvezda-marvel-elizabet-olsen-poyavilas-v-pervom-tizere-miniseriala-lyubov-i-smert.htm?from=index" >
+                				<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/65f/986712/1474233/19.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/65f/986712/1474233/19.jpg" type="image/jpeg">
+					<img  src="//cdn.7days.ru/pic/65f/986712/1474233/19.jpg" alt="Звезда Marvel Элизабет Олсен появилась в первом тизере мини-сериала «Любовь и смерть»" width="100" height="66" loading="lazy"/>
+				</picture>
+				        	</a>
+        </div>
+        <div class="base-material-7days__newsbox_item-content">
+            <div class="base-material-7days__item_info">
+                <div>17.02.2023</div>
+                <div class="base-material-7days__item_clock">12:16</div>
+            </div>
+            <h3><a class="base-material-7days__newsbox_text" href="/kino/movie-news/zvezda-marvel-elizabet-olsen-poyavilas-v-pervom-tizere-miniseriala-lyubov-i-smert.htm?from=index" >
+            	Звезда Marvel Элизабет Олсен появилась в первом тизере мини-сериала «Любовь и смерть»            </a></h3>
+        </div>
+    </div>
+    	</div>
+	<div class="base-material-7days__cinema-block_wrapper">
+		<div class="base-material-7days__cinema-block_box">
+				<div class="base-material-7days__item">
+        <div class="base-material-7days__item_img">
+        	<a href="/kino/review/moya-piratskaya-svadba-chernaya-komediya-o-pozdnem-zamuzhestve-i-nastoyashchiy-benefis-dzhey-lo.htm?from=index" >
+								<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/7f3/986706/1474186/84.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/7f3/986706/1474186/84.jpg" type="image/jpeg">
+					<img  src="//cdn.7days.ru/pic/7f3/986706/1474186/84.jpg" alt="«Моя пиратская свадьба»: черная комедия о позднем замужестве и настоящий бенефис Джей Ло" title="«Моя пиратская свадьба»: черная комедия о позднем замужестве и настоящий бенефис Джей Ло" height="200" width="300" loading="lazy"/>
+				</picture>
+				        	</a>
+			        </div>
+        <div class="base-material-7days__item_info">
+            <div>18.02.2023</div>
+            <a class="base-material-7days__item_rubric-other" href="/kino/review/">
+            	Кино            </a>
+        </div>
+        <div>
+        	<h3><a class="base-material-7days__item_href summary" href="/kino/review/moya-piratskaya-svadba-chernaya-komediya-o-pozdnem-zamuzhestve-i-nastoyashchiy-benefis-dzhey-lo.htm?from=index" >
+        		«Моя пиратская свадьба»: черная комедия о позднем замужестве и настоящий бенефис Джей Ло   			</a></h3>
+   		</div>
+        <div>
+        	<a class="base-material-7days__item_rubric summary" href="/kino/review/moya-piratskaya-svadba-chernaya-komediya-o-pozdnem-zamuzhestve-i-nastoyashchiy-benefis-dzhey-lo.htm?from=index" >
+        		Дженнифер Лопес с огоньком выходит замуж на Филиппинах – бегает за людьми с ножом для торта, пьет и матерится, летает на зиплайне, используя вместо крючка собственный шиньон.        	</a>
+        </div>
+    </div>
+		<div class="base-material-7days__item">
+        <div class="base-material-7days__item_img">
+        	<a href="/kino/review/sneg-sestra-i-rosomakha-lirichnyy-artkhaus-o-lyubvi-politseyskogo-i-sektantki.htm?from=index" >
+								<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/f8d/986705/1474180/84.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/f8d/986705/1474180/84.jpg" type="image/jpeg">
+					<img  src="//cdn.7days.ru/pic/f8d/986705/1474180/84.jpg" alt="«Снег, сестра и росомаха»: лиричный артхаус о любви полицейского и сектантки" title="«Снег, сестра и росомаха»: лиричный артхаус о любви полицейского и сектантки" height="200" width="300" loading="lazy"/>
+				</picture>
+				        	</a>
+			        </div>
+        <div class="base-material-7days__item_info">
+            <div>17.02.2023</div>
+            <a class="base-material-7days__item_rubric-other" href="/kino/review/">
+            	Кино            </a>
+        </div>
+        <div>
+        	<h3><a class="base-material-7days__item_href summary" href="/kino/review/sneg-sestra-i-rosomakha-lirichnyy-artkhaus-o-lyubvi-politseyskogo-i-sektantki.htm?from=index" >
+        		«Снег, сестра и росомаха»: лиричный артхаус о любви полицейского и сектантки   			</a></h3>
+   		</div>
+        <div>
+        	<a class="base-material-7days__item_rubric summary" href="/kino/review/sneg-sestra-i-rosomakha-lirichnyy-artkhaus-o-lyubvi-politseyskogo-i-sektantki.htm?from=index" >
+        		Карлики, наркоманы, менты, религиозные секты, ведьмы и урки — в новом фильме Романа Михайлова, восходящей звезды российского независимого кино.        	</a>
+        </div>
+    </div>
+		<div class="base-material-7days__item">
+        <div class="base-material-7days__item_img">
+        	<a href="/kino/review/posle-yanga-meditativnyy-sayfay-o-tom-chto-znachit-byt-chelovekom.htm?from=index" >
+								<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/f06/986646/1473819/84.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/f06/986646/1473819/84.jpg" type="image/jpeg">
+					<img  src="//cdn.7days.ru/pic/f06/986646/1473819/84.jpg" alt="«После Янга»: медитативный сай-фай о том, что значит быть человеком" title="«После Янга»: медитативный сай-фай о том, что значит быть человеком" height="200" width="300" loading="lazy"/>
+				</picture>
+				        	</a>
+			        </div>
+        <div class="base-material-7days__item_info">
+            <div>16.02.2023</div>
+            <a class="base-material-7days__item_rubric-other" href="/kino/review/">
+            	Кино            </a>
+        </div>
+        <div>
+        	<h3><a class="base-material-7days__item_href summary" href="/kino/review/posle-yanga-meditativnyy-sayfay-o-tom-chto-znachit-byt-chelovekom.htm?from=index" >
+        		«После Янга»: медитативный сай-фай о том, что значит быть человеком   			</a></h3>
+   		</div>
+        <div>
+        	<a class="base-material-7days__item_rubric summary" href="/kino/review/posle-yanga-meditativnyy-sayfay-o-tom-chto-znachit-byt-chelovekom.htm?from=index" >
+        		В главной (человеческой) роли –  Колин Фаррелл.        	</a>
+        </div>
+    </div>
+		<div class="base-material-7days__item">
+        <div class="base-material-7days__item_img">
+        	<a href="/kino/review/pravednik-pronzitelnaya-istoriya-pro-vov-po-realnym-sobytiyam.htm?from=index" >
+								<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/5a6/986607/1473611/84.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/5a6/986607/1473611/84.jpg" type="image/jpeg">
+					<img  src="//cdn.7days.ru/pic/5a6/986607/1473611/84.jpg" alt="«Праведник»: пронзительная история про ВОВ по реальным событиям" title="«Праведник»: пронзительная история про ВОВ по реальным событиям" height="200" width="300" loading="lazy"/>
+				</picture>
+				        	</a>
+			        </div>
+        <div class="base-material-7days__item_info">
+            <div>15.02.2023</div>
+            <a class="base-material-7days__item_rubric-other" href="/kino/review/">
+            	Кино            </a>
+        </div>
+        <div>
+        	<h3><a class="base-material-7days__item_href summary" href="/kino/review/pravednik-pronzitelnaya-istoriya-pro-vov-po-realnym-sobytiyam.htm?from=index" >
+        		«Праведник»: пронзительная история про ВОВ по реальным событиям   			</a></h3>
+   		</div>
+        <div>
+        	<a class="base-material-7days__item_rubric summary" href="/kino/review/pravednik-pronzitelnaya-istoriya-pro-vov-po-realnym-sobytiyam.htm?from=index" >
+        		Без ура-патриотического угара, зато с честным разговором о том, что такое война.        	</a>
+        </div>
+    </div>
+			</div>
+		<div class="base-material-7days__cinema-block_wrapper-preview">
+			<style>
+	.video-7days__preview_title a {
+		color: #333;
+	}
+	.video-7days__preview_title-eng a {
+		color: #333;
+	}
+</style>
+<div class="video-7days__preview">
+    <div class="video-7days__preview_box">
+		<a href="/kino/review/odni-iz-nas-eto-ne-ta-ekranizatsiya-the-last-of-us-kotoruyu-vy-zhdali.htm?from=index">
+				<!-- genImageHTML -->
+		<img  class="video-7days__preview_logo" src="//cdn.7days.ru/upload/images/8a1/333a1524ea8a64ffb9cca3db7eba6.jpg" alt="Одни из нас" width="140" height="210" loading="lazy" />
+		        </a>
+        <div>
+			<div class="video-7days__preview_title"><a href="/kino/review/odni-iz-nas-eto-ne-ta-ekranizatsiya-the-last-of-us-kotoruyu-vy-zhdali.htm?from=index">Одни из нас</a></div>
+			<div class="video-7days__preview_title-eng"><a href="/kino/review/odni-iz-nas-eto-ne-ta-ekranizatsiya-the-last-of-us-kotoruyu-vy-zhdali.htm?from=index">The Last of Us</a></div>
+            <div class="video-7days__preview_description">2023</div>
+            <div class="video-7days__preview_description">драма, фантастика, боевик, ужасы</div>
+            <div class="video-7days__preview_description">Режиссер&nbsp;Али Аббаси, Нил Дракманн</div>
+            <div class="video-7days__preview_description">Канада, США</div>
+        </div>
+    </div>
+    <div class="video-7days__preview_rating">
+        		<div class="video-7days__preview_rating-title">IMDb<span>9.3</span></div>
+		        		<div class="video-7days__preview_rating-title">Кинопоиск<span>8.7</span></div>
+		    </div>
+	 	    <div class="video-7days__rating-box">9.0</div>
+    </div>
+		</div>
+	</div>
+</div>
+<div class="base-material-7days__newsbox">
+    	<h2 class="base-material-7days__title center">
+        <a href="/news/">		Новости		</a>	</h2>
+		<div class="base-material-7days__newsbox_wrapper">
+                		<div class="base-material-7days__newsbox_item">
+			<div class="base-material-7days__newsbox_logo">
+		        				<a href="/news/poetomu-i-razvelis-kirkorov-priznalsya-chto-predal-pugachevu.htm?from=index" >
+                    				<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/be3/986841/1474842/84.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/be3/986841/1474842/84.jpg" type="image/jpeg">
+					<img  src="//cdn.7days.ru/pic/be3/986841/1474842/84.jpg" alt="«Поэтому и развелись»: Киркоров признался, что предал Пугачеву" width="100" height="66" loading="lazy"/>
+				</picture>
+								</a>
+                			</div>
+			<div class="base-material-7days__newsbox_item-content">
+				<div>
+					<div class="base-material-7days__item_info">
+						<div>20.02.2023</div>
+						<div class="base-material-7days__item_clock">11:25</div>
+					</div>
+				</div>
+				<h3><a class="base-material-7days__newsbox_text" href="/news/poetomu-i-razvelis-kirkorov-priznalsya-chto-predal-pugachevu.htm?from=index" >«Поэтому и развелись»: Киркоров признался, что предал Пугачеву</a></h3>
+							</div>
+		</div>
+		        		<div class="base-material-7days__newsbox_item">
+			<div class="base-material-7days__newsbox_logo">
+		        				<a href="/news/svetitsya-ryadom-s-ney-muzh-bolnoy-zavorotnyuk-ne-stradaet-v-odinochestve.htm?from=index" >
+                    				<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/64b/986840/1474815/84.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/64b/986840/1474815/84.jpg" type="image/jpeg">
+					<img  src="//cdn.7days.ru/pic/64b/986840/1474815/84.jpg" alt="«Светится рядом с ней»: муж больной Заворотнюк не страдает в одиночестве" width="100" height="66" loading="lazy"/>
+				</picture>
+								</a>
+                			</div>
+			<div class="base-material-7days__newsbox_item-content">
+				<div>
+					<div class="base-material-7days__item_info">
+						<div>20.02.2023</div>
+						<div class="base-material-7days__item_clock">10:25</div>
+					</div>
+				</div>
+				<h3><a class="base-material-7days__newsbox_text" href="/news/svetitsya-ryadom-s-ney-muzh-bolnoy-zavorotnyuk-ne-stradaet-v-odinochestve.htm?from=index" >«Светится рядом с ней»: муж больной Заворотнюк не страдает в одиночестве</a></h3>
+							</div>
+		</div>
+		        		<div class="base-material-7days__newsbox_item">
+			<div class="base-material-7days__newsbox_logo">
+		        				<a href="/news/ne-videla-ottsa-s-dekabrya-borodina-o-stradaniyakh-dochki-izza-omarova.htm?from=index" >
+                    				<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/ffd/986836/1474794/84.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/ffd/986836/1474794/84.jpg" type="image/jpeg">
+					<img  src="//cdn.7days.ru/pic/ffd/986836/1474794/84.jpg" alt="«Не видела отца с декабря»: Бородина о страданиях дочки из-за Омарова" width="100" height="66" loading="lazy"/>
+				</picture>
+								</a>
+                			</div>
+			<div class="base-material-7days__newsbox_item-content">
+				<div>
+					<div class="base-material-7days__item_info">
+						<div>20.02.2023</div>
+						<div class="base-material-7days__item_clock">09:20</div>
+					</div>
+				</div>
+				<h3><a class="base-material-7days__newsbox_text" href="/news/ne-videla-ottsa-s-dekabrya-borodina-o-stradaniyakh-dochki-izza-omarova.htm?from=index" >«Не видела отца с декабря»: Бородина о страданиях дочки из-за Омарова</a></h3>
+							</div>
+		</div>
+		        		<div class="base-material-7days__newsbox_item">
+			<div class="base-material-7days__newsbox_logo">
+		        				<a href="/news/ya-znayu-chto-takoe-kogda-nichego-net-kirkorov-otkrovenno-o-svoey-nuzhde.htm?from=index" >
+                    				<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/332/986835/1474789/84.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/332/986835/1474789/84.jpg" type="image/jpeg">
+					<img  src="//cdn.7days.ru/pic/332/986835/1474789/84.jpg" alt="«Я знаю, что такое, когда ничего нет»: Киркоров откровенно о своей нужде" width="100" height="66" loading="lazy"/>
+				</picture>
+								</a>
+                			</div>
+			<div class="base-material-7days__newsbox_item-content">
+				<div>
+					<div class="base-material-7days__item_info">
+						<div>20.02.2023</div>
+						<div class="base-material-7days__item_clock">07:30</div>
+					</div>
+				</div>
+				<h3><a class="base-material-7days__newsbox_text" href="/news/ya-znayu-chto-takoe-kogda-nichego-net-kirkorov-otkrovenno-o-svoey-nuzhde.htm?from=index" >«Я знаю, что такое, когда ничего нет»: Киркоров откровенно о своей нужде</a></h3>
+							</div>
+		</div>
+		        		<div class="base-material-7days__newsbox_item">
+			<div class="base-material-7days__newsbox_logo">
+		        				<a href="/news/putaet-dni-strannoe-povedenie-dzhigana-napugalo-fanatov.htm?from=index" >
+                    				<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/dbb/986834/1474784/84.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/dbb/986834/1474784/84.jpg" type="image/jpeg">
+					<img  src="//cdn.7days.ru/pic/dbb/986834/1474784/84.jpg" alt="Путает дни: странное поведение Джигана напугало фанатов" width="100" height="66" loading="lazy"/>
+				</picture>
+								</a>
+                			</div>
+			<div class="base-material-7days__newsbox_item-content">
+				<div>
+					<div class="base-material-7days__item_info">
+						<div>20.02.2023</div>
+						<div class="base-material-7days__item_clock">06:30</div>
+					</div>
+				</div>
+				<h3><a class="base-material-7days__newsbox_text" href="/news/putaet-dni-strannoe-povedenie-dzhigana-napugalo-fanatov.htm?from=index" >Путает дни: странное поведение Джигана напугало фанатов</a></h3>
+							</div>
+		</div>
+		        		<div class="base-material-7days__newsbox_item">
+			<div class="base-material-7days__newsbox_logo">
+		        				<a href="/news/zapredelnaya-summa-skolko-stoili-vtorye-rody-khanny.htm?from=index" >
+                    				<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/ee2/986831/1474763/84.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/ee2/986831/1474763/84.jpg" type="image/jpeg">
+					<img  src="//cdn.7days.ru/pic/ee2/986831/1474763/84.jpg" alt="Запредельная сумма: сколько стоили вторые роды Ханны" width="100" height="66" loading="lazy"/>
+				</picture>
+								</a>
+                			</div>
+			<div class="base-material-7days__newsbox_item-content">
+				<div>
+					<div class="base-material-7days__item_info">
+						<div>20.02.2023</div>
+						<div class="base-material-7days__item_clock">03:30</div>
+					</div>
+				</div>
+				<h3><a class="base-material-7days__newsbox_text" href="/news/zapredelnaya-summa-skolko-stoili-vtorye-rody-khanny.htm?from=index" >Запредельная сумма: сколько стоили вторые роды Ханны</a></h3>
+							</div>
+		</div>
+			</div>
+		<div class="base-material-7days__newsbox_more-news-box">
+				<a class="base-material-7days__newsbox_more-news" href="/news/">Больше новостей</a>
+	</div>
+	</div>
+	<h2 class="base-material-7days__title center">
+                    <a href="/lifestyle/" title="Мой дом">
+        		    Мой дом                    </a>
+        	</h2>
+	<div class="base-material-7days__health">
+                    			<div class="base-material-7days__item">
+                				<div class="base-material-7days__item_img">
+					<a href="/lifestyle/travel/bliny-gusinye-boi-i-khorovody-kuda-poekhat-na-maslenitsu-2023-v-rossii.htm?from=index" >
+                        				<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/1ee/986858/1474959/84.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/1ee/986858/1474959/84.jpg" type="image/jpeg">
+					<img  src="//cdn.7days.ru/pic/1ee/986858/1474959/84.jpg" alt="Блины, гусиные бои и хороводы: куда поехать на Масленицу 2023 в России" title="Блины, гусиные бои и хороводы: куда поехать на Масленицу 2023 в России" height="200" width="300" loading="lazy"/>
+				</picture>
+									</a>
+                    				</div>
+				<div>
+					<div>
+						<div class="base-material-7days__item_info">
+							<div>20.02.2023</div>
+						</div>
+					</div>
+				</div>
+				<h3><a class="base-material-7days__item_href" href="/lifestyle/travel/bliny-gusinye-boi-i-khorovody-kuda-poekhat-na-maslenitsu-2023-v-rossii.htm?from=index" >Блины, гусиные бои и хороводы: куда поехать на Масленицу 2023 в России</a></h3>
+				<div><a class="base-material-7days__item_rubric" href="/lifestyle/travel/bliny-gusinye-boi-i-khorovody-kuda-poekhat-na-maslenitsu-2023-v-rossii.htm?from=index" >Кульминация праздника придется на субботу и воскресенье. </a></div>
+			</div>
+                    			<div class="base-material-7days__item">
+                				<div class="base-material-7days__item_img">
+					<a href="/lifestyle/family/kak-zastavit-kota-sest-tabletku-top-luchshikh-layfkhakov-dlya-khozyaev.htm?from=index" >
+                        				<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/299/986829/1474751/84.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/299/986829/1474751/84.jpg" type="image/jpeg">
+					<img  src="//cdn.7days.ru/pic/299/986829/1474751/84.jpg" alt="Как заставить кота съесть таблетку: топ лучших лайфхаков для хозяев" title="Как заставить кота съесть таблетку: топ лучших лайфхаков для хозяев" height="200" width="300" loading="lazy"/>
+				</picture>
+									</a>
+                    				</div>
+				<div>
+					<div>
+						<div class="base-material-7days__item_info">
+							<div>20.02.2023</div>
+						</div>
+					</div>
+				</div>
+				<h3><a class="base-material-7days__item_href" href="/lifestyle/family/kak-zastavit-kota-sest-tabletku-top-luchshikh-layfkhakov-dlya-khozyaev.htm?from=index" >Как заставить кота съесть таблетку: топ лучших лайфхаков для хозяев</a></h3>
+				<div><a class="base-material-7days__item_rubric" href="/lifestyle/family/kak-zastavit-kota-sest-tabletku-top-luchshikh-layfkhakov-dlya-khozyaev.htm?from=index" >Рассказываем о нескольких действенных способах, которые позволят вам дать питомцу необходимое лекарство.</a></div>
+			</div>
+                    			<div class="base-material-7days__item">
+                				<div class="base-material-7days__item_img">
+					<a href="/lifestyle/food/top5-originalnykh-retseptov-blinov-na-maslenitsu2023.htm?from=index" >
+                        				<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/a5b/986682/1474091/84.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/a5b/986682/1474091/84.jpg" type="image/jpeg">
+					<img  src="//cdn.7days.ru/pic/a5b/986682/1474091/84.jpg" alt="ТОП-5 оригинальных рецептов блинов на Масленицу-2023" title="ТОП-5 оригинальных рецептов блинов на Масленицу-2023" height="200" width="300" loading="lazy"/>
+				</picture>
+									</a>
+                    				</div>
+				<div>
+					<div>
+						<div class="base-material-7days__item_info">
+							<div>20.02.2023</div>
+						</div>
+					</div>
+				</div>
+				<h3><a class="base-material-7days__item_href" href="/lifestyle/food/top5-originalnykh-retseptov-blinov-na-maslenitsu2023.htm?from=index" >ТОП-5 оригинальных рецептов блинов на Масленицу-2023</a></h3>
+				<div><a class="base-material-7days__item_rubric" href="/lifestyle/food/top5-originalnykh-retseptov-blinov-na-maslenitsu2023.htm?from=index" >К всеми любимому празднику 7Дней.ru сделал подборку рецептов главного масленичного лакомства.</a></div>
+			</div>
+        	</div>
+<div class="childhood-7days__page-index">
+	<a href="/kids/"><img class="childhood-7days__page-index-logo" src="/bitrix/templates/7days-redesign-2021/images/childhood/childhood-page-logo.svg" alt="Яркое детство"></a>
+	<div class="childhood-7days__page-index-news">
+				<div class="base-material-7days__item">
+						<div class="base-material-7days__item_img">
+				<a href="/kids/recipes/pervyy-den-maslenitsy-gotovim-kruzhevnye-blinchiki.htm" >
+                                        				<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/87b/986767/1474526/84.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/87b/986767/1474526/84.jpg" type="image/jpeg">
+					<img  src="//cdn.7days.ru/pic/87b/986767/1474526/84.jpg" alt="Первый день Масленицы – готовим «кружевные» блинчики" loading="lazy"/>
+				</picture>
+								</a>
+			</div>
+						<div>
+				<div><a class="base-material-7days__item_rubric" href="/kids/recipes/" style="color: #aeca51">Рецепты</a></div>
+				<div><a class="base-material-7days__item_href" href="/kids/recipes/pervyy-den-maslenitsy-gotovim-kruzhevnye-blinchiki.htm" >Первый день Масленицы – готовим «кружевные» блинчики</a></div>
+			</div>
+		</div>
+				<div class="base-material-7days__item">
+						<div class="base-material-7days__item_img">
+				<a href="/kids/sovety-roditelyam/pishcha-dlya-uma-kakie-produkty-luchshe-sest-pered-vazhnoy-kontrolnoy.htm" >
+                                        				<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/213/986765/1474520/84.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/213/986765/1474520/84.jpg" type="image/jpeg">
+					<img  src="//cdn.7days.ru/pic/213/986765/1474520/84.jpg" alt="Пища для ума: какие продукты лучше съесть перед важной контрольной" loading="lazy"/>
+				</picture>
+								</a>
+			</div>
+						<div>
+				<div><a class="base-material-7days__item_rubric" href="/kids/sovety-roditelyam/" style="color: #fcc563">Советы родителям</a></div>
+				<div><a class="base-material-7days__item_href" href="/kids/sovety-roditelyam/pishcha-dlya-uma-kakie-produkty-luchshe-sest-pered-vazhnoy-kontrolnoy.htm" >Пища для ума: какие продукты лучше съесть перед важной контрольной</a></div>
+			</div>
+		</div>
+				<div class="base-material-7days__item">
+						<div class="base-material-7days__item_img">
+				<a href="/kids/games-art/razvivayushchaya-igra-soedini-chasti-predmetov.htm" >
+                                        				<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/ab1/986764/1474510/84.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/ab1/986764/1474510/84.jpg" type="image/jpeg">
+					<img  src="//cdn.7days.ru/pic/ab1/986764/1474510/84.jpg" alt="Развивающая игра «Соедини части предметов»" loading="lazy"/>
+				</picture>
+								</a>
+			</div>
+						<div>
+				<div><a class="base-material-7days__item_rubric" href="/kids/games-art/" style="color: #f99db7">Игры и творчество</a></div>
+				<div><a class="base-material-7days__item_href" href="/kids/games-art/razvivayushchaya-igra-soedini-chasti-predmetov.htm" >Развивающая игра «Соедини части предметов»</a></div>
+			</div>
+		</div>
+			</div>
+</div>
+<div class="base-material-7days__title center">
+	<a href="/style/">Стиль</a>
+</div>
+<div class="base-material-7days__beauty">
+    <div class="fashion-7days__news">
+	        <div class="fashion-7days__news_item">
+	                	<a href="/style/star-beauty-secrets/anna-peskova-ya-izbavilas-ot-vesnushek-s-pomoshchyu-lazera.htm?from=index" >
+								<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/164/1463D60A285949AC43258952005D1237/1472872/71.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/164/1463D60A285949AC43258952005D1237/1472872/71.jpg" type="image/jpeg">
+					<img  class="material-7days__flex-slider_images-fashion wh-300x451" src="//cdn.7days.ru/pic/164/1463D60A285949AC43258952005D1237/1472872/71.jpg" loading="lazy"/>
+				</picture>
+				        	</a>
+            <div>
+            	<a class="material-7days__slider_rubric" href="/style/star-beauty-secrets/">
+            		Секреты красоты звезд            	</a>
+            </div>
+            <a class="material-7days__slider_item-title" href="/style/star-beauty-secrets/anna-peskova-ya-izbavilas-ot-vesnushek-s-pomoshchyu-lazera.htm?from=index" >
+            	Анна Пескова: «Я избавилась от веснушек с помощью лазера»            </a>
+        </div>
+		        <div class="fashion-7days__news_item">
+	                	<a href="/style/beauty/luchshie-efirnye-masla-kotorye-uspokoyat-snimut-stress-i-podnimut-nastroenie.htm?from=index" >
+								<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/b5f/961742/1473648/71.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/b5f/961742/1473648/71.jpg" type="image/jpeg">
+					<img  class="material-7days__flex-slider_images-fashion wh-300x451" src="//cdn.7days.ru/pic/b5f/961742/1473648/71.jpg" loading="lazy"/>
+				</picture>
+				        	</a>
+            <div>
+            	<a class="material-7days__slider_rubric" href="/style/beauty/">
+            		Красота            	</a>
+            </div>
+            <a class="material-7days__slider_item-title" href="/style/beauty/luchshie-efirnye-masla-kotorye-uspokoyat-snimut-stress-i-podnimut-nastroenie.htm?from=index" >
+            	Лучшие эфирные масла, которые успокоят, снимут стресс и поднимут настроение            </a>
+        </div>
+		        <div class="fashion-7days__news_item">
+	                	<a href="/style/beauty/letnie-aromaty-dlya-zimy-kto-skazala-chto-oni-ne-podkhodyat.htm?from=index" >
+								<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/e18/986673/1473969/71.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/e18/986673/1473969/71.jpg" type="image/jpeg">
+					<img  class="material-7days__flex-slider_images-fashion wh-300x451" src="//cdn.7days.ru/pic/e18/986673/1473969/71.jpg" loading="lazy"/>
+				</picture>
+				        	</a>
+            <div>
+            	<a class="material-7days__slider_rubric" href="/style/beauty/">
+            		Красота            	</a>
+            </div>
+            <a class="material-7days__slider_item-title" href="/style/beauty/letnie-aromaty-dlya-zimy-kto-skazala-chto-oni-ne-podkhodyat.htm?from=index" >
+            	Летние ароматы для зимы: кто сказала, что они не подходят            </a>
+        </div>
+		    </div>
+</div>
+	<h2 class="base-material-7days__title center">
+        <a href="//health.7days.ru/">		Здоровье		</a>	</h2>
+	<div class="base-material-7days__health">
+                    			<div class="base-material-7days__item">
+                				<div class="base-material-7days__item_img">
+					<a href="//health.7days.ru/med-news/dietolog-rasskazal-skolko-kaloriy-v-pustom-bline-a-skolko-s-nachinkoy.htm?from=index" >
+                        				<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/39b/986845/1474817/84.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/39b/986845/1474817/84.jpg" type="image/jpeg">
+					<img  src="//cdn.7days.ru/pic/39b/986845/1474817/84.jpg" alt="Диетолог рассказал, сколько калорий в «пустом» блине, а сколько — с начинкой" title="Диетолог рассказал, сколько калорий в «пустом» блине, а сколько — с начинкой" height="200" width="300" loading="lazy"/>
+				</picture>
+									</a>
+                    				</div>
+				<div>
+					<div>
+						<div class="base-material-7days__item_info">
+							<div>20.02.2023</div>
+						</div>
+					</div>
+				</div>
+				<h3><a class="base-material-7days__item_href" href="//health.7days.ru/med-news/dietolog-rasskazal-skolko-kaloriy-v-pustom-bline-a-skolko-s-nachinkoy.htm?from=index" >Диетолог рассказал, сколько калорий в «пустом» блине, а сколько — с начинкой</a></h3>
+				<div><a class="base-material-7days__item_rubric" href="//health.7days.ru/med-news/dietolog-rasskazal-skolko-kaloriy-v-pustom-bline-a-skolko-s-nachinkoy.htm?from=index" >Обычный блин на молоке — почти сто калорий!</a></div>
+			</div>
+                    			<div class="base-material-7days__item">
+                				<div class="base-material-7days__item_img">
+					<a href="//health.7days.ru/med-news/dietolog-nazvala-samye-poleznye-frukty-kontsa-zimy.htm?from=index" >
+                        				<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/e44/986811/1474674/84.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/e44/986811/1474674/84.jpg" type="image/jpeg">
+					<img  src="//cdn.7days.ru/pic/e44/986811/1474674/84.jpg" alt="Диетолог назвала самые полезные фрукты конца зимы" title="Диетолог назвала самые полезные фрукты конца зимы" height="200" width="300" loading="lazy"/>
+				</picture>
+									</a>
+                    				</div>
+				<div>
+					<div>
+						<div class="base-material-7days__item_info">
+							<div>19.02.2023</div>
+						</div>
+					</div>
+				</div>
+				<h3><a class="base-material-7days__item_href" href="//health.7days.ru/med-news/dietolog-nazvala-samye-poleznye-frukty-kontsa-zimy.htm?from=index" >Диетолог назвала самые полезные фрукты конца зимы</a></h3>
+				<div><a class="base-material-7days__item_rubric" href="//health.7days.ru/med-news/dietolog-nazvala-samye-poleznye-frukty-kontsa-zimy.htm?from=index" >Обратите внимание на цитрусовые.</a></div>
+			</div>
+                    			<div class="base-material-7days__item">
+                				<div class="base-material-7days__item_img">
+					<a href="//health.7days.ru/med-news/5-sposobov-umenshit-kaloriynost-blinov-na-maslenitsu.htm?from=index" >
+                        				<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/47c/986769/1474532/84.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/47c/986769/1474532/84.jpg" type="image/jpeg">
+					<img  src="//cdn.7days.ru/pic/47c/986769/1474532/84.jpg" alt="5 способов уменьшить калорийность блинов на Масленицу" title="5 способов уменьшить калорийность блинов на Масленицу" height="200" width="300" loading="lazy"/>
+				</picture>
+									</a>
+                    				</div>
+				<div>
+					<div>
+						<div class="base-material-7days__item_info">
+							<div>18.02.2023</div>
+						</div>
+					</div>
+				</div>
+				<h3><a class="base-material-7days__item_href" href="//health.7days.ru/med-news/5-sposobov-umenshit-kaloriynost-blinov-na-maslenitsu.htm?from=index" >5 способов уменьшить калорийность блинов на Масленицу</a></h3>
+				<div><a class="base-material-7days__item_rubric" href="//health.7days.ru/med-news/5-sposobov-umenshit-kaloriynost-blinov-na-maslenitsu.htm?from=index" >Один из вариантов — использовать цельнозерновую муку вместо обычной белой.</a></div>
+			</div>
+        	</div>
+<div class="base-material-7days__horoscope">
+		<h2 class="base-material-7days__title center color-white">
+		<a href="/entertainment/horoscope/">		Гороскоп		</a>	</h2>
+		<div class="base-material-7days__horoscope_slider">
+					<div class="base-material-7days__horoscope_slider-item">
+            			<div class="base-material-7days__horoscope_logo">
+				<a href="/astro/horoscope/goroskop-na-budni-s-20-po-24-fevralya-dlya-vsekh-znakov-zodiaka.htm?from=index" >
+                    				<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/f0f/986707/1474201/84.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/f0f/986707/1474201/84.jpg" type="image/jpeg">
+					<img  src="//cdn.7days.ru/pic/f0f/986707/1474201/84.jpg" alt="Гороскоп на будни с 20 по 22 февраля для всех знаков зодиака" height="100" width="66" loading="lazy"/>
+				</picture>
+								</a>
+			</div>
+			<h3 class="base-material-7days__horoscope_text">
+				<a href="/astro/horoscope/goroskop-na-budni-s-20-po-24-fevralya-dlya-vsekh-znakov-zodiaka.htm?from=index" >Гороскоп на будни с 20 по 22 февраля для всех знаков зодиака</a>
+			</h3>
+		</div>
+						<div class="base-material-7days__horoscope_slider-item">
+            			<div class="base-material-7days__horoscope_logo">
+				<a href="/astro/horoscope/venera-v-ovne-chto-budet-svodit-s-uma-znaki-zodiaka-s-20-fevralya-po-16-marta.htm?from=index" >
+                    				<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/916/986739/1474359/84.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/916/986739/1474359/84.jpg" type="image/jpeg">
+					<img  src="//cdn.7days.ru/pic/916/986739/1474359/84.jpg" alt="Венера в Овне: что будет сводить с ума знаки зодиака с 20 февраля по 16 марта" height="100" width="66" loading="lazy"/>
+				</picture>
+								</a>
+			</div>
+			<h3 class="base-material-7days__horoscope_text">
+				<a href="/astro/horoscope/venera-v-ovne-chto-budet-svodit-s-uma-znaki-zodiaka-s-20-fevralya-po-16-marta.htm?from=index" >Венера в Овне: что будет сводить с ума знаки зодиака с 20 февраля по 16 марта</a>
+			</h3>
+		</div>
+						<div class="base-material-7days__horoscope_slider-item">
+            			<div class="base-material-7days__horoscope_logo">
+				<a href="/astro/horoscope/goroskop-na-nedelyu-s-20-po-26-fevralya-dlya-vsekh-znakov-zodiaka.htm?from=index" >
+                    				<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/cd1/C7D0A64D059717214325895200575229/1473245/84.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/cd1/C7D0A64D059717214325895200575229/1473245/84.jpg" type="image/jpeg">
+					<img  src="//cdn.7days.ru/pic/cd1/C7D0A64D059717214325895200575229/1473245/84.jpg" alt="Гороскоп на неделю с 20 по 26 февраля для всех знаков зодиака" height="100" width="66" loading="lazy"/>
+				</picture>
+								</a>
+			</div>
+			<h3 class="base-material-7days__horoscope_text">
+				<a href="/astro/horoscope/goroskop-na-nedelyu-s-20-po-26-fevralya-dlya-vsekh-znakov-zodiaka.htm?from=index" >Гороскоп на неделю с 20 по 26 февраля для всех знаков зодиака</a>
+			</h3>
+		</div>
+						<div class="base-material-7days__horoscope_slider-item">
+            			<div class="base-material-7days__horoscope_logo">
+				<a href="/astro/horoscope/novolunie-vazhnykh-resheniy-chto-mozhno-i-nelzya-delat-20-fevralya-2023-goda.htm?from=index" >
+                    				<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/c45/986684/1474049/84.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/c45/986684/1474049/84.jpg" type="image/jpeg">
+					<img  src="//cdn.7days.ru/pic/c45/986684/1474049/84.jpg" alt="Новолуние важных решений: что можно и нельзя делать 20 февраля 2023 года" height="100" width="66" loading="lazy"/>
+				</picture>
+								</a>
+			</div>
+			<h3 class="base-material-7days__horoscope_text">
+				<a href="/astro/horoscope/novolunie-vazhnykh-resheniy-chto-mozhno-i-nelzya-delat-20-fevralya-2023-goda.htm?from=index" >Новолуние важных решений: что можно и нельзя делать 20 февраля 2023 года</a>
+			</h3>
+		</div>
+						<div class="base-material-7days__horoscope_slider-item">
+            			<div class="base-material-7days__horoscope_logo">
+				<a href="/astro/horoscope/goroskop-na-vykhodnye-18-i-19-fevralya-dlya-vsekh-znakov-zodiaka.htm?from=index" >
+                    				<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/473/986474/1473259/84.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/473/986474/1473259/84.jpg" type="image/jpeg">
+					<img  src="//cdn.7days.ru/pic/473/986474/1473259/84.jpg" alt="Гороскоп на выходные 18 и 19 февраля для всех знаков зодиака" height="100" width="66" loading="lazy"/>
+				</picture>
+								</a>
+			</div>
+			<h3 class="base-material-7days__horoscope_text">
+				<a href="/astro/horoscope/goroskop-na-vykhodnye-18-i-19-fevralya-dlya-vsekh-znakov-zodiaka.htm?from=index" >Гороскоп на выходные 18 и 19 февраля для всех знаков зодиака</a>
+			</h3>
+		</div>
+			</div>
+</div>
+<div class="base-material-7days__title center">
+	<a href="/promokodi/">Специальные предложения</a>
+</div>
+<div class="base-material-7days__shops">
+
+    <div class="base-material-7days__shops_slider">
+    			<div class="base-material-7days__shops_slider-item">
+		<a class="base-material-7days__shops_slider-img"  href="https://7days.ru/promokodi/mvideo-promokod" title="Промокоды М.Видео" target="_blank">
+            		<!-- genImageHTML -->
+		<img  src="//cdn.7days.ru/upload/images/d11/ae6dfe42c4420d5a105d729f8e030.jpg" alt="Промокоды М.Видео" width="120" height="80" loading="lazy" />
+				</a>
+	</div>
+				<div class="base-material-7days__shops_slider-item">
+		<a class="base-material-7days__shops_slider-img"  href="https://7days.ru/promokodi/promokod-svyaznoy" title="Промокоды Связной" target="_blank">
+            		<!-- genImageHTML -->
+		<img  src="//cdn.7days.ru/upload/images/0e0/cfdb58c99f11e98bb7cf2286ff35c.png" alt="Промокоды Связной" width="120" height="80" loading="lazy" />
+				</a>
+	</div>
+				<div class="base-material-7days__shops_slider-item">
+		<a class="base-material-7days__shops_slider-img"  href="https://7days.ru/promokodi/huawei-promokod" title="Huawei" target="_blank">
+            		<!-- genImageHTML -->
+		<img  src="//cdn.7days.ru/upload/images/f6c/43d5d3a0c60ee5532d7449fb80315.png" alt="Huawei" width="120" height="80" loading="lazy" />
+				</a>
+	</div>
+				<div class="base-material-7days__shops_slider-item">
+		<a class="base-material-7days__shops_slider-img"  href="https://7days.ru/promokodi/redmond-promokod-na-skidku" title="REDMOND" target="_blank">
+            		<!-- genImageHTML -->
+		<img  src="//cdn.7days.ru/upload/images/a74/1a5099c6d3916eae648aa3cd011af.png" alt="REDMOND" width="120" height="80" loading="lazy" />
+				</a>
+	</div>
+				<div class="base-material-7days__shops_slider-item">
+		<a class="base-material-7days__shops_slider-img"  href="https://7days.ru/promokodi/promokod-sbermarket" title="Сбермаркет" target="_blank">
+            		<!-- genImageHTML -->
+		<img  src="//cdn.7days.ru/upload/iblock/e8b/jm6w45txbodc0iqju36j8fit7g9rzc3c/Сбермаркет.png" alt="Сбермаркет" width="120" height="80" loading="lazy" />
+				</a>
+	</div>
+				<div class="base-material-7days__shops_slider-item">
+		<a class="base-material-7days__shops_slider-img"  href="https://7days.ru/promokodi/video-shoper-promokod" title="Video-Shoper " target="_blank">
+            		<!-- genImageHTML -->
+		<img  src="//cdn.7days.ru/upload/images/c57/4d58883ab62a2512d285315fee366.png" alt="Video-Shoper " width="120" height="80" loading="lazy" />
+				</a>
+	</div>
+				<div class="base-material-7days__shops_slider-item">
+		<a class="base-material-7days__shops_slider-img"  href="https://7days.ru/promokodi/promokod-globus" title="Промокоды Глобус" target="_blank">
+            		<!-- genImageHTML -->
+		<img  src="//cdn.7days.ru/upload/iblock/a94/7days_main_block@300x195nd9516hатАФ xw9576gww9553yzi9576tro9563rnk9576frf9488vby9576esb9557dgw9572uП 2.jpg" alt="Промокоды Глобус" width="120" height="80" loading="lazy" />
+				</a>
+	</div>
+				<div class="base-material-7days__shops_slider-item">
+		<a class="base-material-7days__shops_slider-img"  href="https://7days.ru/promokodi/perekrestok-promokod" title="Промокоды Впрок" target="_blank">
+            		<!-- genImageHTML -->
+		<img  src="//cdn.7days.ru/upload/iblock/b7b/7days_main_block@300x195yo9516bатАФ fy9576kit9553jth9576dcg9563scj9576sby9488wog9576sur9557lyw9572gП 3.jpg" alt="Промокоды Впрок" width="120" height="80" loading="lazy" />
+				</a>
+	</div>
+				<div class="base-material-7days__shops_slider-item">
+		<a class="base-material-7days__shops_slider-img"  href="https://7days.ru/promokodi/promokod-hoff" title="Промокоды Hoff" target="_blank">
+            		<!-- genImageHTML -->
+		<img  src="//cdn.7days.ru/upload/images/6a7/a6771f0835451f2292580a5b308f3.jpg" alt="Промокоды Hoff" width="120" height="80" loading="lazy" />
+				</a>
+	</div>
+				<div class="base-material-7days__shops_slider-item">
+		<a class="base-material-7days__shops_slider-img"  href="https://7days.ru/promokodi/promokod-yandex-market" title="Промокоды Яндекс.Маркет" target="_blank">
+            		<!-- genImageHTML -->
+		<img  src="//cdn.7days.ru/upload/images/884/b7fa3760fd18b0319ef0b6a53991d.jpg" alt="Промокоды Яндекс.Маркет" width="120" height="80" loading="lazy" />
+				</a>
+	</div>
+	</div><div class="base-material-7days__shops_select">
+        	<a class="base-material-7days__shops_select-item" href="https://7days.ru/promokodi/promokod-playtoday" title="PlayToday" target="_blank">
+		<div class="base-material-7days__shops_select-logo">
+					<!-- genImageHTML -->
+		<img  src="//cdn.7days.ru/upload/images/dc6/30a552f054e3a11c44baf1984d5d6.png" alt="PlayToday" width="300" height="200" loading="lazy" />
+				</div>
+		<div class="base-material-7days__shops_select-text">PlayToday</div>
+	</a>
+	    	<a class="base-material-7days__shops_select-item" href="https://7days.ru/promokodi/kupony-aliexpress" title="Купоны AliExpress" target="_blank">
+		<div class="base-material-7days__shops_select-logo">
+					<!-- genImageHTML -->
+		<img  src="//cdn.7days.ru/upload/images/f51/ed8058d473dabcb0db9ea7eaed40e.jpeg" alt="Купоны AliExpress" width="300" height="200" loading="lazy" />
+				</div>
+		<div class="base-material-7days__shops_select-text">Купоны AliExpress</div>
+	</a>
+	    	<a class="base-material-7days__shops_select-item" href="https://7days.ru/promokodi/kupony-foxford" title="Промокоды Foxford" target="_blank">
+		<div class="base-material-7days__shops_select-logo">
+					<!-- genImageHTML -->
+		<img  src="//cdn.7days.ru/upload/iblock/517/7days_main_block@300x195mf9516tатАФ hg9576qxb9553nyv9576amr9563xie9576hnf9488amh9576ovs9557zdx9572eП 5.jpg" alt="Промокоды Foxford" width="300" height="200" loading="lazy" />
+				</div>
+		<div class="base-material-7days__shops_select-text">Промокоды Foxford</div>
+	</a>
+	</div></div><h2 class="base-material-7days__title center">Сейчас обсуждают</h2>
+<div class="base-material-7days__now-discuss">
+    			<div class="base-material-7days__item back">
+        		<div class="base-material-7days__item_img no-mrg">
+			<a href="/news/effektno-obnazhilas-alina-zagitova-stala-kopiey-moniki-belluchchi.htm?from=index" >
+                				<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/1cf/981142/1439883/84.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/1cf/981142/1439883/84.jpg" type="image/jpeg">
+					<img  src="//cdn.7days.ru/pic/1cf/981142/1439883/84.jpg" alt="Эффектно обнажилась! Алина Загитова стала копией Моники Беллуччи" width="300" height="200" loading="lazy"/>
+				</picture>
+							</a>
+						<div class="base-material-7days__item_chat"><span>4</span></div>
+					</div>
+		<div class="base-material-7days__item_content-box">
+						<div><a class="base-material-7days__item_rubric" href="/news/stars/">Новости</a></div>
+						<h3><a class="base-material-7days__item_href" href="/news/effektno-obnazhilas-alina-zagitova-stala-kopiey-moniki-belluchchi.htm?from=index" >Эффектно обнажилась! Алина Загитова стала копией Моники Беллуччи</a></h3>
+			<a class="base-material-7days__item_button" href="/news/effektno-obnazhilas-alina-zagitova-stala-kopiey-moniki-belluchchi/comments.htm" >Перейти к обсуждению</a></div>
+	</div>
+				<div class="base-material-7days__item back">
+        		<div class="base-material-7days__item_img no-mrg">
+			<a href="/news/svoloch-slyshu-chashche-chem-privet-dmitriy-nazarov-vosstal-posle-uvolneniya.htm?from=index" >
+                				<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/a74/985562/1467137/84.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/a74/985562/1467137/84.jpg" type="image/jpeg">
+					<img  src="//cdn.7days.ru/pic/a74/985562/1467137/84.jpg" alt="«Сволочь» слышу чаще, чем «привет»: Дмитрий Назаров восстал после увольнения" width="300" height="200" loading="lazy"/>
+				</picture>
+							</a>
+						<div class="base-material-7days__item_chat"><span>3</span></div>
+					</div>
+		<div class="base-material-7days__item_content-box">
+						<div><a class="base-material-7days__item_rubric" href="/news/stars/">Новости</a></div>
+						<h3><a class="base-material-7days__item_href" href="/news/svoloch-slyshu-chashche-chem-privet-dmitriy-nazarov-vosstal-posle-uvolneniya.htm?from=index" >«Сволочь» слышу чаще, чем «привет»: Дмитрий Назаров восстал после увольнения</a></h3>
+			<a class="base-material-7days__item_button" href="/news/svoloch-slyshu-chashche-chem-privet-dmitriy-nazarov-vosstal-posle-uvolneniya/comments.htm" >Перейти к обсуждению</a></div>
+	</div>
+				<div class="base-material-7days__item back">
+        		<div class="base-material-7days__item_img no-mrg">
+			<a href="/news/u-menya-nichego-ne-ostalos-pugacheva-postavila-tochku-v-istorii-s-prodazhey-zamka-v-gryazi.htm?from=index" >
+                				<!-- genImageHTML -->
+				<picture>
+					<source srcset="//cdn.7days.ru/pic/973/985628/1467549/84.webp" type="image/webp">
+					<source srcset="//cdn.7days.ru/pic/973/985628/1467549/84.jpg" type="image/jpeg">
+					<img  src="//cdn.7days.ru/pic/973/985628/1467549/84.jpg" alt="«У меня ничего не осталось»: Пугачева поставила точку в истории с продажей замка в Грязи" width="300" height="200" loading="lazy"/>
+				</picture>
+							</a>
+						<div class="base-material-7days__item_chat"><span>3</span></div>
+					</div>
+		<div class="base-material-7days__item_content-box">
+						<div><a class="base-material-7days__item_rubric" href="/news/stars/">Новости</a></div>
+						<h3><a class="base-material-7days__item_href" href="/news/u-menya-nichego-ne-ostalos-pugacheva-postavila-tochku-v-istorii-s-prodazhey-zamka-v-gryazi.htm?from=index" >«У меня ничего не осталось»: Пугачева поставила точку в истории с продажей замка в Грязи</a></h3>
+			<a class="base-material-7days__item_button" href="/news/u-menya-nichego-ne-ostalos-pugacheva-postavila-tochku-v-istorii-s-prodazhey-zamka-v-gryazi/comments.htm" >Перейти к обсуждению</a></div>
+	</div>
+	</div>
+</div>		<script type="text/javascript">
+			// get
+			var _uidCookie = false;
+			try {
+				_uidCookie = $.cookie('7days_uid');
+			} catch (e) {
+				try {
+					_uidCookie = Cookies.get('7days_uid');
+				} catch (e) {}
+			}
+
+			var _uidStorage = false;
+			try { _uidStorage = localStorage.getItem('7days_uid'); } catch (e) {}
+
+			// found by priority and check
+			var _uid = false;
+			if (_uidCookie && isUUIDv4(_uidCookie)) {
+				_uid = _uidCookie;
+			}
+			if (!_uid && _uidStorage && isUUIDv4(_uidStorage)) {
+				_uid = _uidStorage;
+			}
+			if (!_uid) {
+				_uid = UUIDv4();
+			}
+
+			// set right if need
+			if (_uidCookie !== _uid) {
+				try {
+					$.cookie('7days_uid', _uid, {expires: 365 * 100, path: '/', domain: '.7days.ru'});
+				} catch (e) {
+					try {
+						Cookies.set('7days_uid', _uid, {expires: 365 * 100, path: '/', domain: '.7days.ru'});
+					} catch (e) {}
+				}
+			}
+			if (_uidStorage !== _uid) {
+				try { localStorage.setItem('7days_uid', _uid); } catch (e) {}
+			}
+		</script>
+		    </div> <!-- container-7days -->
+</div> <!-- wrapper-7days -->
+
+<div class="footer-7days " data-nosnippet>
+	<div class="container-7days">
+		<div class="footer-7days__wrapper">
+			<div class="footer-7days__wrapper_left-columns"><a class="footer-7days__logo" href="/"></a>
+				<nav class="footer-7days__menu none-mobile">
+					<div><a class="footer-7days__menu_item" href="//seven-days.ru/" rel="nofollow" >Издательство</a></div>
+					<div><a class="footer-7days__menu_item" href="/copyright.htm" rel="nofollow">Правовая информация</a></div>
+					<div><a class="footer-7days__menu_item" href="/advertising/" rel="nofollow">Рекламодателям</a></div>
+					<div><a class="footer-7days__menu_item" href="/contacts.htm" rel="nofollow">Контакты</a></div>
+					<div><a class="footer-7days__menu_item" href="/about.htm" rel="nofollow">О проекте</a></div>
+				</nav>
+				<div class="footer-7days__age none-mobile">16+</div>
+                
+<div class="footer-7days__social none-mobile">
+		<a class="footer-7days__social_item vk" href="//vk.com/7days_ru" rel="nofollow" title="Вконтакте"></a>
+	<a class="footer-7days__social_item ok" href="//www.odnoklassniki.ru/7days" rel="nofollow" title="Одноклассники"></a>
+    	    <a class="footer-7days__social_item mm" href="//my.mail.ru/community/7days_ru/" rel="nofollow" title="Мой Мир"></a>
+    <a class="footer-7days__social_item tube" href="//www.youtube.com/7dney" rel="nofollow" title="Youtube"></a>
+    <a class="footer-7days__social_item mt" href="//7days.mirtesen.ru/" rel="nofollow" title="МИРТЕСЕН"></a>
+</div>
+<div class="footer-7days__social none-mobile">
+	<a class="footer-7days__social_item rutube" href="https://rutube.ru/channel/23340004/" rel="nofollow" title="RUTUBE"></a>
+	<a class="footer-7days__social_item zen" href="https://zen.yandex.ru/7days.ru" rel="nofollow" title="Яндекс Дзен"></a>
+	<a class="footer-7days__social_item tg" href="https://t.me/stars7d" rel="nofollow" title="Telegram"></a>
+</div>
+<div class="footer-7days__social none-mobile">
+	<a class="footer-7days__social_item rss" href="/rss/all/" title="RSS"></a>
+</div>			</div>
+			<div class="footer-7days__wrapper_right-columns">
+				<nav class="footer-7days__full-menu"></nav>
+				<script src="//cdn.7days.ru/js/seo-hide/bottom-menu-hood-2021.1669891559.js"></script>
+				<div class="footer-7days__info">
+					<div class="footer-7days__info_item">
+						© АО «Издательство Семь Дней», 2008-2023. Все права защищены.
+					</div>
+					<div class="footer-7days__info_item">
+						Сетевое издание 7дней.ru зарегистрировано Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций (Роскомнадзор).
+					</div>
+					<div class="footer-7days__info_item">
+						Свидетельство Эл № ФС77-62276 от 03 июля 2015 г., учредитель ЗАО «Издательство СЕМЬ ДНЕЙ».
+					</div>
+					<div class="footer-7days__info_item">
+						Главный редактор: Пахомова Анжелика Михайловна<br>
+						Адрес редакции: 125993, г. Москва, Волоколамское ш., д. 4, корп. 24. Контакты: official@7dn.ru, +7(495) 742-44-41<br>
+						Согласно ФЗ от 29.12.2010 №436-ФЗ сайт 7DAYS.RU относится к категории информационной продукции для детей, достигших возраста шестнадцати лет.
+					</div>
+					<div class="footer-7days__info_item">
+						<a href="/agreements.htm">Пользовательское соглашение</a>
+					</div>
+				</div>
+                
+<div class="footer-7days__social visible-mobile">
+		<a class="footer-7days__social_item vk" href="//vk.com/7days_ru" rel="nofollow" title="Вконтакте"></a>
+	<a class="footer-7days__social_item ok" href="//www.odnoklassniki.ru/7days" rel="nofollow" title="Одноклассники"></a>
+    	    <a class="footer-7days__social_item mm" href="//my.mail.ru/community/7days_ru/" rel="nofollow" title="Мой Мир"></a>
+    <a class="footer-7days__social_item tube" href="//www.youtube.com/7dney" rel="nofollow" title="Youtube"></a>
+    <a class="footer-7days__social_item mt" href="//7days.mirtesen.ru/" rel="nofollow" title="МИРТЕСЕН"></a>
+</div>
+<div class="footer-7days__social visible-mobile">
+	<a class="footer-7days__social_item rutube" href="https://rutube.ru/channel/23340004/" rel="nofollow" title="RUTUBE"></a>
+	<a class="footer-7days__social_item zen" href="https://zen.yandex.ru/7days.ru" rel="nofollow" title="Яндекс Дзен"></a>
+	<a class="footer-7days__social_item tg" href="https://t.me/stars7d" rel="nofollow" title="Telegram"></a>
+</div>
+<div class="footer-7days__social visible-mobile">
+	<a class="footer-7days__social_item rss" href="/rss/all/" title="RSS"></a>
+</div>				<div class="footer-7days__age visible-mobile">16+</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<!-- ad_start code="AD_PLACE_13" template="MAIN" --> <!--BEGIN High media 7days.ru (High Media)-->
+<!-- A -->
+<!-- ad_end code="AD_PLACE_13" template="MAIN" -->
+
+
+<!-- refs #9364 -->
+
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 0,
+            "item": {
+                "@id": "https://7days.ru/",
+                "name": "\u0413\u043b\u0430\u0432\u043d\u0430\u044f"
+            }
+        }
+    ]
+}
+</script><script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "7\u0414\u043d\u0435\u0439.\u0440\u0443 - \u041d\u043e\u0432\u043e\u0441\u0442\u0438, \u0438\u043d\u0442\u0435\u0440\u0432\u044c\u044e, \u0444\u043e\u0442\u043e \u0438 \u0432\u0438\u0434\u0435\u043e \u0437\u0432\u0435\u0437\u0434",
+    "description": "\u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u0448\u043e\u0443-\u0431\u0438\u0437\u043d\u0435\u0441\u0430, \u0441\u0432\u0435\u0442\u0441\u043a\u0430\u044f \u0445\u0440\u043e\u043d\u0438\u043a\u0430, \u0438\u043d\u0442\u0435\u0440\u0432\u044c\u044e \u0441\u043e \u0437\u0432\u0451\u0437\u0434\u0430\u043c\u0438. \u0412\u0438\u0434\u0435\u043e- \u0438 \u0444\u043e\u0442\u043e\u0433\u0430\u043b\u0435\u0440\u0435\u0438. \u041c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u044b \u0436\u0443\u0440\u043d\u0430\u043b\u043e\u0432 \u00ab\u041a\u0430\u0440\u0430\u0432\u0430\u043d \u0438\u0441\u0442\u043e\u0440\u0438\u0439\u00bb \u0438 \u00ab\u041a\u0430\u0440\u0430\u0432\u0430\u043d \u0438\u0441\u0442\u043e\u0440\u0438\u0439. \u041a\u043e\u043b\u043b\u0435\u043a\u0446\u0438\u044f\u00bb. \u041e\u0431\u0437\u043e\u0440\u044b \u0444\u0438\u043b\u044c\u043c\u043e\u0432, \u0441\u0442\u0430\u0442\u044c\u0438 \u043e \u043f\u0443\u0442\u0435\u0448\u0435\u0441\u0442\u0432\u0438\u044f\u0445 \u0438 \u043c\u043e\u0434\u0435.",
+    "url": "https://7days.ru/",
+    "publisher": {
+        "@type": "Organization",
+        "name": "7 \u0414\u043d\u0435\u0439",
+        "telephone": "+7 495 742-44-41",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "\u0412\u043e\u043b\u043e\u043a\u043e\u043b\u0430\u043c\u0441\u043a\u043e\u0435 \u0448\u043e\u0441\u0441\u0435, \u0434. 4, \u043a\u043e\u0440\u043f\u0443\u0441 24",
+            "postalCode": "125080",
+            "addressLocality": "\u041c\u043e\u0441\u043a\u0432\u0430"
+        },
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://7days.ru/bitrix/templates/7days-redesign-2013-light/favicon-196x196.png"
+        },
+        "sameAs": "https://seven-days.ru/"
+    }
+}</script>
+
+</body>
+</html>

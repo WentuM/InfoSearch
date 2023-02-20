@@ -1,0 +1,280 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>CINEMA & ENTERTAINMENT</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<meta content="images/sharing.jpg" property="og:image" />
+		<meta content="768" property="og:image:height" />
+		<meta content="1024" property="og:image:width" />
+		<link rel="stylesheet" href="assets/css/main.css?5" />
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+		<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<header id="header">
+				<h1><a href="#intro">CINEMA & ENTERTAINMENT</a></h1>
+				<nav>
+					<ul>
+						<li><a href="#film">Film.ru</a></li>
+						<li><a href="#timeout">Time Out</a></li>
+						<li><a href="#kino-teatr">Кино-Театр.РУ</a></li>
+						<li><a href="#kinoafisha">Киноафиша</a></li>
+						<li><a href="#work">Реклама</a></li>
+						<li><a href="#contact">Контакты</a></li>
+					</ul>
+				</nav>
+			</header>
+
+		<!-- Intro -->
+			<section id="intro" class="main style1 dark fullscreen">
+				<div class="content">
+					<header>
+						<h2>CINEMA & ENTERTAINMENT</h2>
+						<img alt="CINEMA & ENTERTAINMENT" src="images/logo.png" />
+					</header>
+					<p>Первая сеть сайтов о кино и развлечении.<br />
+					В состав сети входит четыре ведущих тематических портала.</p>
+					<header>
+						<h2 class="counter-1">40 577 560</h2>
+						<h3>Уникальных посетителей за ноябрь 2021</h3>
+						<h2 class="counter-2">146 253 624</h2>
+						<h3>Просмотров страниц за ноябрь 2021</h3>
+					</header>
+					<footer>
+						<a href="#film" class="button style2 down">More</a>
+					</footer>
+				</div>
+			</section>
+
+		<!-- Film.ru -->
+			<section id="film" class="main style2 right dark fullscreen">
+				<div class="content box style2">
+					<header>
+						<h2><a href="https://www.film.ru/" target="_blank" title="Film.ru">Film.ru</a></h2>
+					</header>
+					<p>Ведущее российское Интернет-издание о кино, издаётся с декабря 1999 года. Кинопортал ежедневно предоставляет читателям материалы о мировом и отечественном кинематографе: рецензии и обзоры новинок кинопроката, справочную информацию по фильмам, сериалам и персоналиям российского и зарубежного кинематографа, интервью с ньюсмейкерами, новости фестивалей и премий, включая эксклюзивные репортажи и фотосъёмки со съёмочных площадок и международных кинофестивалей.</p>
+					<a class="audience" data-fancybox data-src="#audience-film" href="javascript:;" title="Аудитория">Аудитория</a>
+				</div>
+				<a href="#timeout" class="button style2 down anchored">Next</a>
+			</section>
+
+		<!-- Time Out -->
+			<section id="timeout" class="main style2 left dark fullscreen">
+				<div class="content box style2">
+					<header>
+						<h2><a href="https://www.timeout.ru/" target="_blank" title="Time Out">Time Out</a></h2>
+					</header>
+					<p>Международный бренд с полувековой историей. Издаётся в России с 2005 года. Печатная версия журнала Time Out выходит в 60 городах мира. Time Out Москва — это авторитетный путеводитель по всем развлечениям столицы: ресторанам, кинотеатрам, клубам, выставкам, театрам и городским событиям.</p>
+					<a class="audience" data-fancybox data-src="#audience-timeout" href="javascript:;" title="Аудитория">Аудитория</a>
+				</div>
+				<a href="#kino-teatr" class="button style2 down anchored">Next</a>
+			</section>
+
+		<!-- Кино-Театр.РУ -->
+			<section id="kino-teatr" class="main style2 right dark fullscreen">
+				<div class="content box style2">
+					<header>
+						<h2><a href="https://www.kino-teatr.ru/" target="_blank" title="Кино-Театр.РУ">Кино-Театр.РУ</a></h2>
+					</header>
+					<p>Крупнейшее независимое онлайн-издание о кино, театре и сериалах, созданное в 2006 году командой энтузиастов. Сайт включает одну из самых полных информационных баз об актёрах, кино и сериалах в Рунете, которой пользуются как зрители, так и продюсеры, режиссёры и кастинг-директора. Другое направление — новости кино, авторские колонки признанных критиков, рецензии, обзоры сериалов, интервью, светская хроника, нестандартные подборки, эксклюзивные репортажи со съёмочных площадок и кинофестивалей.</p>
+					<a class="audience" data-fancybox data-src="#audience-kino-teatr" href="javascript:;" title="Аудитория">Аудитория</a>
+				</div>
+				<a href="#kinoafisha" class="button style2 down anchored">Next</a>
+			</section>
+			
+		<!-- Киноафиша -->
+			<section id="kinoafisha" class="main style2 left dark fullscreen">
+				<div class="content box style2">
+					<header>
+						<h2><a href="https://www.kinoafisha.info/" target="_blank" title="Киноафиша">Киноафиша</a></h2>
+					</header>
+					<p>Международный портал, помогающий купить билеты и выбрать удобный сеанс в любом кинотеатре в 15 странах. Быть в курсе премьер и новостей, высказывать мнение о фильмах и общаться напрямую с кинотеатрами.</p>
+					<a class="audience" data-fancybox data-src="#audience-kinoafisha" href="javascript:;" title="Аудитория">Аудитория</a>
+				</div>
+				<a href="#work" class="button style2 down anchored">Next</a>
+			</section>
+			
+		<!-- Work -->
+			<section id="work" class="main style3 primary">
+				<div class="content">
+					<header>
+						<h2>Реклама</h2>
+						<p>Сквозные рекламные медиа-форматы на сайтах объединённой сети.</p>
+					</header>
+
+
+<h3>Десктоп</h3>
+Баннер 300x600: CTR — 0,3 %<br />
+Баннер 100%x250: CTR — 0,35 %<br />
+Брендирование сайтов: CTR — 0,4 %<br />
+<br />
+<h3>Мобайл</h3>
+Баннер 300х250: CTR — 0,2 %<br />
+Баннер FullScreen (Film.ru): CTR — 5 %<br />
+<br />
+<h3>Видео-инвентарь</h3>
+Pre-roll: CTR — 3,5 %<br />
+<br />
+<h3>Специальное предложение для онлайн-кинотеатров</h3>
+Брендированная кнопка «Смотреть онлайн» в карточках фильмов и редакционных материалах объединённой сети кинопорталов.<br />
+СTR от 3,5 %.<br />
+Расчёт коммерческого предложения по CPC.<br />
+Ёмкость инвентаря — до 6 000 000 переходов в месяц на страницы соответствующих фильмов онлайн-кинотеатра партнёра из карточек фильмов сети кинопорталов.
+
+
+					<!-- Gallery  -->
+						<!-- <div class="gallery">
+							<article class="from-left">
+								<a href="https://www.film.ru/top" class="image fit" target="_blank"><img src="images/thumbs/01.jpg" title="Лучшее за 20 лет" alt="Лучшее за 20 лет" /></a>
+							</article>
+							<article class="from-right">
+								<a href="https://www.film.ru/special/kill-bill/index.html" class="image fit" target="_blank"><img src="images/thumbs/02.jpg" title="Считаешь меня садистом?" alt="Считаешь меня садистом?" /></a>
+							</article>
+							<article class="from-left">
+								<a href="https://mospred.timeout.ru/" class="image fit" target="_blank"><img src="images/thumbs/03.jpg" title="Неженское дело" alt="Неженское дело" /></a>
+							</article>
+							<article class="from-right">
+								<a href="http://kupivip.timeout.ru/" class="image fit" target="_blank"><img src="images/thumbs/04.jpg" title="Модные эпохи" alt="Модные эпохи" /></a>
+							</article>
+							<article class="from-left">
+								<a href="images/fulls/05.jpg" class="image fit"><img src="images/thumbs/05.jpg" title="The sparkling shell" alt="" /></a>
+							</article>
+							<article class="from-right">
+								<a href="images/fulls/06.jpg" class="image fit"><img src="images/thumbs/06.jpg" title="Bent IX" alt="" /></a>
+							</article>
+						</div> -->
+
+				</div>
+			</section>
+
+		<!-- Contact -->
+			<section id="contact" class="main style3 secondary">
+				<div class="content">
+					<header>
+						<h2>Контакты</h2>
+					</header>
+					<h3>Влад Потехин</h3>
+					<p>Издатель Film.ru<br />
+					<a href="mailto:potehin@film.ru" title="Написать">potehin@film.ru</a></p>
+					<h3>Дмитрий Панфилов</h3>
+					<p>Издатель Time Out<br />
+					<a href="mailto:d.panfilov@cmedia-online.ru" title="Написать">d.panfilov@cmedia-online.ru</a></p>
+					<h3>Жан Просянов</h3>
+					<p>Главный редактор Кино-Театр.РУ<br />
+					<a href="mailto:zhanprosyanov@gmail.com" title="Написать">zhanprosyanov@gmail.com</a></p>
+					<h3>Константин Шилов</h3>
+					<p>Руководитель Киноафиша<br />
+					<a href="mailto:sky@kinoafisha.info" title="Написать">sky@kinoafisha.info</a></p>
+					<h3>Реклама</h3>
+					<p>Коммерческий директор объединенной сети<br />
+					Алина Алексеева<br />
+					<a href="mailto:a.alekseeva@bseller.ru " title="Написать">a.alekseeva@bseller.ru</a><br />
+					+7 (495) 269-01-17<br />
+					+7 (925) 086-26-21</p>
+					<div class="box">
+						<form method="post" action="contact-form.php">
+							<div class="fields">
+								<div class="field half"><input type="text" name="name" placeholder="Имя" /></div>
+								<div class="field half"><input type="email" name="email" placeholder="Email" /></div>
+								<div class="field"><textarea name="message" placeholder="Сообщение" rows="6"></textarea></div>
+							</div>
+							<ul class="actions special">
+								<li><input type="submit" value="Отправить" /></li>
+							</ul>
+						</form>
+					</div>
+				</div>
+			</section>
+
+		<!-- Audience -->
+			<div id="audience-film">
+				<header>
+					<h2>Аудитория Film.ru</h2>
+				</header>
+				<p>Ежемесячная активная аудитория от 13 до 18 миллионов уникальных посетителей.</p>
+				<p>От 30 до 45 миллионов просмотров страниц ресурса в месяц.</p>
+				<p>&#10026; Доля мужчин — 56 %<br />
+				&#10026; Доля женщин — 44 %</p>
+ 				<p>&#10026;  Младше 18 лет — 11 %<br />
+				&#10026; От 18 до 24 лет — 31 %<br />
+				&#10026; От 25 до 34 лет — 32 %<br />
+				&#10026; От 35 до 44 лет — 15 %<br />
+				&#10026; Старше 44 лет — 11 %</p>
+			</div>
+			<div id="audience-timeout">
+				<header>
+					<h2>Аудитория Time Out</h2>
+				</header>
+				<p>Ежемесячная активная аудитория от 1,3 до 2 миллионов уникальных посетителей.</p>
+				<p>От 2 до 4 миллионов просмотров страниц в месяц.</p>
+				<p>&#10026; Доля мужчин — 58 %<br />
+				&#10026; Доля женщин — 42 %</p>
+ 				<p>&#10026;  Младше 18 лет — 6 %<br />
+				&#10026; От 18 до 24 лет — 22 %<br />
+				&#10026; От 25 до 34 лет — 33 %<br />
+				&#10026; От 35 до 44 лет — 17 %<br />
+				&#10026; Старше 44 лет — 22 %</p>
+			</div>
+			<div id="audience-kino-teatr">
+				<header>
+					<h2>Аудитория Кино-Театр.РУ</h2>
+				</header>
+				<p>Ежемесячная активная аудитория от 17 до 23 миллионов уникальных посетителей.</p>
+				<p>От 70 до 110 миллионов просмотров страниц ресурса в месяц.</p>
+				<p>&#10026; Доля мужчин — 55 %<br />
+				&#10026; Доля женщин — 45 %</p>
+ 				<p>&#10026;  Младше 18 лет — 9 %<br />
+				&#10026; От 18 до 24 лет — 27 %<br />
+				&#10026; От 25 до 34 лет — 32 %<br />
+				&#10026; От 35 до 44 лет — 20 %<br />
+				&#10026; Старше 44 лет — 12 %</p>
+			</div>
+			<div id="audience-kinoafisha">
+				<header>
+					<h2>Аудитория Киноафиша</h2>
+				</header>
+				<p>Ежемесячная активная аудитория от 3 до 9 миллионов уникальных посетителей.</p>
+				<p>От 10 до 30 миллионов просмотров страниц ресурса в месяц.</p>
+				<p>&#10026; Доля мужчин — 40 %<br />
+				&#10026; Доля женщин — 60 %</p>
+ 				<p>&#10026;  Младше 18 лет — 6 %<br />
+				&#10026; От 18 до 24 лет — 17 %<br />
+				&#10026; От 25 до 34 лет — 36 %<br />
+				&#10026; От 35 до 44 лет — 26 %<br />
+				&#10026; Старше 44 лет — 15 %</p>
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.poptrox.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+			<script src="assets/js/jquery.numscroll.js"></script>
+			<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+			<script>
+				$(function(){
+					$(".counter-1").numScroll({
+						delay:1000,
+						number:40577560,
+						symbol:true,
+						time:5000
+					});
+					$(".counter-2").numScroll({
+						delay:1000,
+						number:146253624,
+						symbol:true,
+						time:7500
+					});
+				});
+			</script>
+
+	</body>
+</html>

@@ -1,0 +1,1235 @@
+<!DOCTYPE html>
+<html lang="ru-RU" class="no-js no-svg" prefix="og:http://ogp.me/ns#">
+<head>
+
+<script src="https://widget.svk-native.ru/js/loader.js"></script>
+<link rel="preconnect" href="https://mc.yandex.ru">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://top-fwz1.mail.ru">
+<link rel="preconnect" href="//st.top100.ru">
+<link rel="preconnect" href="//counter.rambler.ru">
+<link rel="preconnect" href="https://yandex.ru">
+<link rel="preconnect" href="//news.mirtesen.ru">
+<link rel="preconnect" href="https://www.smi.today">
+<link rel="prefetch" href="/wp-json/newsApi/v1/latest/" as="fetch">
+<link rel="dns-prefetch" href="https://mc.yandex.ru">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<link rel="dns-prefetch" href="https://top-fwz1.mail.ru">
+<link rel="dns-prefetch" href="//st.top100.ru">
+<link rel="dns-prefetch" href="//counter.rambler.ru">
+<link rel="dns-prefetch" href="https://yandex.ru">
+<link rel="dns-prefetch" href="//news.mirtesen.ru">
+<link rel="dns-prefetch" href="https://www.smi.today">
+<link rel="dns-prefetch" href="//web.webpushs.com">
+<link rel="preload" href="/wp-content/themes/osn/assets/js/jquery.cookie.js" as="script">
+
+
+ <meta charset="UTF-8">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<meta name="viewport" content="width=device-width">
+<base href="https://www.osnmedia.ru/">
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+
+<meta property="article:section" content="Политика">
+<meta property="article:author" content=" ">
+<meta property="article:tag" content="Владимир Путин">
+<meta property="article:tag" content="ядерное оружие">
+<meta property="article:tag" content="Спецоперация на Украине">
+ <script type="text/javascript"> (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(50344261, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true }); </script> <noscript><div><img src="https://mc.yandex.ru/watch/50344261" style="position:absolute; left:-9999px;" alt="" /></div></noscript> 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-140263959-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-140263959-3');
+</script>
+<link rel="DNS-prefetch" href="//fonts.googleapis.com">
+<link rel="DNS-prefetch" href="//fonts.gstatic.com">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+<noscript>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap0&display=swap" rel="stylesheet" type="text/css"/>
+</noscript>
+
+<script>window.yaContextCb=window.yaContextCb||[]</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+
+<script>
+setTimeout(function(){
+window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.render({
+    type: 'fullscreen',
+    blockId: 'R-A-467211-20'
+  })
+})
+},10000)
+</script>
+<link href="/wp-content/themes/osn/style.css?ver=3" rel="preload" as="style" onload="this.rel='stylesheet'">
+<style type="text/css">
+.rsHomeTempl .rsTmb { font-size:14px }
+.wp-audio-shortcode { margin-bottom: 15px !important; }
+@media screen and (min-width: 0px) and (max-width: 960px) {
+	.rsHomeTempl .rsTmb { 
+    font-size: 10px; }
+	.rsDefaultInv.rsWithThumbsHor .rsThumbsContainer {transform: translate3d(58.5px, 0px, 0px) !important;}
+}.royalSlider  { margin-bottom: 15px !important; }
+.news-bar {
+    max-width: 259px !important;
+}
+blockquote p { font-size: 1.2rem; }
+
+@media (min-width: 980px){
+.slide img.img {
+    max-height: 310px !important;
+        }
+}
+.superdate { margin-bottom: 5px !important; }
+@media (max-width: 979px){
+	header .header-bottom-short { height: 65px !important; }
+	.osnlogo { margin-top: 0px !important; }	
+}
+.viqeo-embed { margin-bottom: 15px; }
+</style>
+<noscript><link rel="stylesheet" href="/wp-content/themes/osn/style.css?ver=3"></noscript>
+<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<style type="text/css">			.heateorSssInstagramBackground{background:radial-gradient(circle at 30% 107%,#fdf497 0,#fdf497 5%,#fd5949 45%,#d6249f 60%,#285aeb 90%)}
+											.heateor_sss_horizontal_sharing .heateorSssSharing,.heateor_sss_standard_follow_icons_container .heateorSssSharing{
+							color: #fff;
+						border-width: 0px;
+			border-style: solid;
+			border-color: transparent;
+		}
+				.heateor_sss_horizontal_sharing .heateorSssTCBackground{
+			color:#666;
+		}
+				.heateor_sss_horizontal_sharing .heateorSssSharing:hover,.heateor_sss_standard_follow_icons_container .heateorSssSharing:hover{
+						border-color: transparent;
+		}
+		.heateor_sss_vertical_sharing .heateorSssSharing,.heateor_sss_floating_follow_icons_container .heateorSssSharing{
+							color: #fff;
+						border-width: 0px;
+			border-style: solid;
+			border-color: transparent;
+		}
+				.heateor_sss_vertical_sharing .heateorSssTCBackground{
+			color:#666;
+		}
+				.heateor_sss_vertical_sharing .heateorSssSharing:hover,.heateor_sss_floating_follow_icons_container .heateorSssSharing:hover{
+						border-color: transparent;
+		}
+		
+		@media screen and (max-width:783px) {.heateor_sss_vertical_sharing{display:none!important}}@media screen and (max-width:783px) {.heateor_sss_floating_follow_icons_container{display:none!important}}div.heateorSssSharingArrow{display:none}</style><meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+<title>Общественная служба новостей – ОСН. Актуальные новости России и мира</title>
+<meta name="description" content="Общественная служба новостей – ОСН. Актуальные новости России и мира" />
+<link rel="canonical" href="https://www.osnmedia.ru/" />
+<meta property="og:locale" content="ru_RU" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Общественная служба новостей" />
+<meta property="og:description" content="Общественная служба новостей – ОСН. Актуальные новости России и мира" />
+<meta property="og:url" content="https://www.osnmedia.ru/" />
+<meta property="og:site_name" content="Общественная служба новостей" />
+<meta name="twitter:card" content="summary_large_image" />
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","@id":"https://www.osnmedia.ru/","url":"https://www.osnmedia.ru/","name":"Общественная служба новостей – ОСН. Актуальные новости России и мира","isPartOf":{"@id":"https://www.osnmedia.ru/#website"},"about":{"@id":"https://www.osnmedia.ru/#organization"},"description":"Общественная служба новостей – ОСН. Актуальные новости России и мира","breadcrumb":{"@id":"https://www.osnmedia.ru/#breadcrumb"},"inLanguage":"ru-RU"},{"@type":"BreadcrumbList","@id":"https://www.osnmedia.ru/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная страница"}]},{"@type":"WebSite","@id":"https://www.osnmedia.ru/#website","url":"https://www.osnmedia.ru/","name":"Общественная служба новостей","description":"","publisher":{"@id":"https://www.osnmedia.ru/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.osnmedia.ru/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"ru-RU"},{"@type":"Organization","@id":"https://www.osnmedia.ru/#organization","name":"Общественная служба новостей – ОСН. Актуальные новости России и мира","url":"https://www.osnmedia.ru/","logo":{"@type":"ImageObject","inLanguage":"ru-RU","@id":"https://www.osnmedia.ru/#/schema/logo/image/","url":"https://www.osnmedia.ru/wp-content/uploads/2020/01/cropped-OSN-Mikrofon.jpg","contentUrl":"https://www.osnmedia.ru/wp-content/uploads/2020/01/cropped-OSN-Mikrofon.jpg","width":1357,"height":250,"caption":"Общественная служба новостей – ОСН. Актуальные новости России и мира"},"image":{"@id":"https://www.osnmedia.ru/#/schema/logo/image/"}}]}</script>
+
+<link rel="amphtml" href="https://www.osnmedia.ru/amp/" /><meta name="generator" content="AMP for WP 1.0.54.1" /><link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Общественная служба новостей &raquo; Лента" href="https://www.osnmedia.ru/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.osnmedia.ru\/wp-includes\/js\/wp-emoji-release.min.js"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='yith-infs-style-css' href='https://www.osnmedia.ru/wp-content/plugins/yith-infinite-scrolling-premium/assets/css/frontend.css' type='text/css' media='all' />
+<link rel='stylesheet' id='heateor_sss_frontend_css-css' href='https://www.osnmedia.ru/wp-content/plugins/sassy-social-share/public/css/sassy-social-share-public.css' type='text/css' media='all' />
+<link rel='stylesheet' id='heateor_sss_sharing_default_svg-css' href='https://www.osnmedia.ru/wp-content/plugins/sassy-social-share/admin/css/sassy-social-share-svg.css' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-lazyloadxt-fadein-css-css' href='//www.osnmedia.ru/wp-content/plugins/a3-lazy-load/assets/css/jquery.lazyloadxt.fadein.css' type='text/css' media='all' />
+<link rel='stylesheet' id='a3a3_lazy_load-css' href='//www.osnmedia.ru/wp-content/uploads/sass/a3_lazy_load.min.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.osnmedia.ru/wp-includes/js/jquery/jquery.min.js' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.osnmedia.ru/wp-includes/js/jquery/jquery-migrate.min.js' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://www.osnmedia.ru/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.osnmedia.ru/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.osnmedia.ru/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 5.9.5" />
+<noscript><style>.lazyload[data-src]{display:none !important;}</style></noscript><style>.lazyload{background-image:none !important;}.lazyload:before{background-image:none !important;}</style><meta name="google-site-verification" content="sd9j53B9ZYuyVqrZSoZkyfYGo7rE2zEhqQSmPaq8eyU" />
+</head>
+<body class="home blog wp-custom-logo">
+<script data-cfasync="false">var ewww_webp_supported=false;</script>
+<header class="short">
+<div class="container header-bottom-short">
+<p class="logo">
+
+<div href="." data-wpel-link="internal">
+<a href="." data-wpel-link="internal" style="display: inline-block;float: left;"><img class="osnlogo" src="https://www.osnmedia.ru/wp-content/uploads/2022/05/download-2.png" alt="ОСН" style=" margin-top: 10px; margin-left: 10px; height:25px;"></a> 
+<div style="display: inline-block;">
+<div class="hide-block" style="margin-left: 30px; display: inline-block;padding: 12px 20px;font-size: 14px;margin-top: 0px; color: #fff;">
+<div class="time noselect" id="time"><span style="font-weight: 600;">20 февраля 2023</span> / <span>Понедельник</span> / <span>13:25</span></div></div>
+</div>
+</div>
+ </p>
+
+
+<div class="search"></div>
+<div style="width:32px;display:inline-block;float:right;margin-top:18px;">
+<style>.menu-mobile-bar img, .logo-top { width:20px;height:25px; }</style>
+<a href="javascript;" onclick="return toggleHamburgerMenu()" class="menu-mobile-bar" style="width: 0px; padding-top: 5px;" data-wpel-link="internal">
+<img class="logo-top" style="width:20px;height:25px;" src="https://www.osnmedia.ru/wp-content/uploads/2022/08/menu.png" alt="Меню">
+</a>
+</div>
+</div>
+</header>
+<div class="container">
+<nav class="menu normal">
+<div class="menu-main-container"><ul id="menu-main" class="menu"><li id="menu-item-72" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-72"><a href="https://www.osnmedia.ru/category/politika/" data-wpel-link="internal">Политика</a></li>
+<li id="menu-item-71" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71"><a href="https://www.osnmedia.ru/category/obshhestvo/" data-wpel-link="internal">Общество</a></li>
+<li id="menu-item-74" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-74"><a href="https://www.osnmedia.ru/category/ekonomika/" data-wpel-link="internal">Экономика</a></li>
+<li id="menu-item-73" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-73"><a href="https://www.osnmedia.ru/category/proisshestviya/" data-wpel-link="internal">Происшествия</a></li>
+<li id="menu-item-70" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-70"><a href="https://www.osnmedia.ru/category/world/" data-wpel-link="internal">В мире</a></li>
+<li id="menu-item-4634" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4634"><a href="https://www.osnmedia.ru/category/opinions/" data-wpel-link="internal">Мнения</a></li>
+<li id="menu-item-971234" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-971234"><a href="https://www.osnmedia.ru/category/exclusive/" data-wpel-link="internal">Эксклюзив</a></li>
+<li id="menu-item-141108" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-141108"><a href="https://www.osnmedia.ru/category/sport/" data-wpel-link="internal">Спорт</a></li>
+<li id="menu-item-141109" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-141109"><a href="https://www.osnmedia.ru/category/kultura/" data-wpel-link="internal">Культура</a></li>
+<li id="menu-item-3800" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3800"><a href="https://www.osnmedia.ru/o-nas/" data-wpel-link="internal">О нас</a></li>
+<li id="menu-item-252466" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-252466"><a href="https://www.osnmedia.ru/press/" data-wpel-link="internal">Пресс-центр</a></li>
+<li id="menu-item-252282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-252282"><a href="https://www.osnmedia.ru/tv/" data-wpel-link="internal">ОСН ТВ</a></li>
+</ul></div> </nav>
+</div>
+<style>
+#hamburgerMenu {
+    font-size: 20px;
+    background: #c1272d;
+    position: fixed;
+/*    left: 0;*/
+    right: -100%;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 900;
+    padding: 20px;
+    padding-top: 50px;
+    transition: all .2s;
+    -ms-transform: translate(-100%, 0);
+    -webkit-transform: translate(-100%, 0);
+    transform: translate(-100%, 0);
+}
+  		#hamburgerMenu {
+    	 -ms-transform: translate(100%, 0) !important;
+    	 -webkit-transform: translate(100%, 0) !important;
+    	 transform: translate(100%, 0) !important; 
+	    }
+		#hamburgerMenu.visible {
+    	-ms-transform: translate(0, 0) !important;
+    	-webkit-transform: translate(0, 0) !important;
+    	transform: translate(0, 0) !important;
+		}
+@media (min-width: 980px){
+.slide img.img { float: left; width: 100%; margin-right: 15px; max-height: 300px; object-fit: cover; min-width: 500px; } 
+}
+</style>
+<div id="hamburgerMenu" class="menu">
+<a class="close" href="javascript;" onclick="return toggleHamburgerMenu();" data-wpel-link="internal"></a>
+<div class="menu-mobile-container"><ul id="menu-mobile" class="menu"><li id="menu-item-995485" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-995485"><a href="https://www.osnmedia.ru/tv/" data-wpel-link="internal">ОСН ТВ</a></li>
+<li id="menu-item-995469" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-995469"><a href="https://www.osnmedia.ru/category/politika/" data-wpel-link="internal">Политика</a></li>
+<li id="menu-item-995470" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-995470"><a href="https://www.osnmedia.ru/category/obshhestvo/" data-wpel-link="internal">Общество</a></li>
+<li id="menu-item-995471" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-995471"><a href="https://www.osnmedia.ru/category/ekonomika/" data-wpel-link="internal">Экономика</a></li>
+<li id="menu-item-995472" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-995472"><a href="https://www.osnmedia.ru/category/proisshestviya/" data-wpel-link="internal">Происшествия</a></li>
+<li id="menu-item-995473" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-995473"><a href="https://www.osnmedia.ru/category/world/" data-wpel-link="internal">В мире</a></li>
+<li id="menu-item-995474" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-995474"><a href="https://www.osnmedia.ru/category/opinions/" data-wpel-link="internal">Мнения</a></li>
+<li id="menu-item-995475" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-995475"><a href="https://www.osnmedia.ru/category/exclusive/" data-wpel-link="internal">Эксклюзив</a></li>
+<li id="menu-item-995476" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-995476"><a href="https://www.osnmedia.ru/category/sport/" data-wpel-link="internal">Спорт</a></li>
+<li id="menu-item-995477" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-995477"><a href="https://www.osnmedia.ru/category/kultura/" data-wpel-link="internal">Культура</a></li>
+<li id="menu-item-995479" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-995479"><a href="https://www.osnmedia.ru/o-nas/" data-wpel-link="internal">О нас</a></li>
+<li id="menu-item-995484" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-995484"><a href="https://www.osnmedia.ru/press/" data-wpel-link="internal">Пресс-центр</a></li>
+</ul></div> </div>
+<div style="margin: 0px; padding: 0px;width: 100%;" class="afterheader-player-position">
+<div class="osntv-afterheader">
+<div style="text-align: left; background-color: #f1f1f1; padding: 10px; margin: 0px 0px -20px 0px;color: #111;width: 100%; margin-top: -5px;  font-size: 14px; font-family: 'Roboto';letter-spacing: 1px; width: 100%;">
+<style>
+.header-samoe a { padding: 5px 6px; }
+.tv-title-small { background-color: #f1f1f1; color: #111; padding-top: 10px; padding-bottom: 10px; }
+	@media (min-width: 500px) {
+		.tv-title-small {  display: none !important; }
+	}
+	@media (max-width: 499px) {
+		.tv-title {  display: none !important; }
+	}
+</style>
+<div style="display: inline-block; text-align: center; /* min-width: 135px; */ min-width: 165px; border-right: 1px solid #111;">
+<div style="font-size: 18px;  margin-bottom: 14px;">Прямой эфир</div>
+<a href="https://www.osnmedia.ru/tv/" style="padding: 5px 10px; color: #fff !important; text-decoration: none !important; background-color: #c1272d; border-radius: 5px; font-size: 18px;margin-bottom: 5px;" data-wpel-link="internal">ОСН ТВ</a>
+</div>
+<div class="header-samoe" style="display: inline-block; text-align: center;margin: 0px auto; /* width: 304px; */ padding: 0px 25px; /* border-right: 1px solid #111; */">
+<div style="font-size: 18px; margin-bottom: 10px;">Самое интересное</div>
+<a href="https://www.tiktok.com/@osn.ru" target="blank" rel="nofollow external noopener noreferrer" data-wpel-link="external"><img alt="Tiktok" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAAtCAYAAADC+hltAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAQgSURBVHgBzZnNLiRdGMefpiWIUC8WPkIKiY3wFiGx0vVa2M47V6DdgJmVrZorMK5gZu7AXMHU2AkxPcGChVR8hQTTREh8zv/fquToLq3KlOr5JydVdU5V9c95Ps5zSkIikGVZOg5mkVvmcE9WQigp0UhH+1Rk3EGzJYSiAsvp6upKVldXC/qbmpqmMWPjOP2Cox3gVdGD7ezs+A2Zzc3NPH6XgCqTGHRwcJCDhoygz8QCRqjNzU2evgn6TCxg1MbGhhwdHenwMTPI/bGBUZlMRs7OzqaD3Bsr2Pn5uSwsLJhjY2PPwsUKRhEOJrVGR0c/waxPBkOk6SKMTk5O0mtra+mpqSmnurraTiQSmbu7u++AzZQUjGKk7u/v693d3enGxkapqqr6gO7Sg1E0LYOCAuA4ZuxfzN5cycHypLPBpNlYnB8mkrCKBay/v18MwwgFGJsp29ra2DLb29sGGlOGRAo2PDys9/b2aq2trRouMyELwFnA2WgW1s83gNOOj4+zDIDLy0sNaSM42ODgoHl7e5tCpJi4NPBCDdfeMMPbkhDCH+LgkGbVizrNQkvJvdM/UrIYEKJjGs0ElEQtD9A9N1w4HjX83g9fsIGBgRkAvZeY5GZ7tjmv7xEYIkcrLy9n7f6/lFiP0sXfAkU9zBjMx1KkACqZTEpXV5fU1tbm8tD19bVUVFRILGAwoQ6Hs/IHmXt6enpiAclXzpQwoZU/gDDOZWsFygE8A+IfOGuCDeef5ZWU5GzhOK52EoYzpWgWIAVR6ob8q6gMKvArzpaShT/7Qb22ymCegi0VHV3RBymB6GN6fqfiV19f01zF5AuGRdVxTzMSTFqxwcjqMW5MJZyKJmXPX+E2vySgCFZQtrBW2t3ddXCaeu4F7rexXFRfXFwUjDc0NDycY/09kRBgvuZaWVnRscUy8MPaM1DfvGsWgPliklYU1DWkDH/FT78BfgiZn5/X0GZcABVIQ+MS9kNcH+Vs+YEpM+aEKSqTyGNzgHv31A3cmK6vr6fd0oQv5gw+2kGfnp7K4uJiwbOdnZ1qPrQlhMr39vaclpYWU3yi05Prc5X4kcqampomdFWynyUxN63Ly8tZzHCl+gwjsa+vT009b23bDjxjudLUrVa/BX0IFUcWEaa5H+N8NTIyInV1dd4lV48JCaFculhaWrJFqR6fE0qfolBc/BUoR16wejzUYzc3NxPwNwMzocsLRfMNDQ2pUDTd25esHg8JFt8Pstj9/FdfXx84pFXR0VOpVD7UhPf1Jqx8tz+Tk5Mft7a23h0eHvomTU+sbtvb26Wjo0ONPsqR+5l6EdSTYBReymVmBulCJxwjkH7FKGNjfsqDoThLs2gfw/4nJDCYAmjK/f7Pd2Pqih/emA+//ClQYDBV7vKkJlcHLRsVjKrfQnSe9x95tD4AAAAASUVORK5CYII=" style="height: 20px; width:17px;" width="17" height="20"></a>
+
+
+<a href="https://www.youtube.com/@osnmediaru" target="_blank" rel="nofollow external noopener noreferrer" data-wpel-link="external"><img alt="YouTube" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC8AAAAhCAYAAABJLfLcAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAJwSURBVHgB1Zi/jtpAEMbHhh5fRQTFOW9g8Ueiiqyk5h2iFNSJ6HHgAagRTY401PAELpEAyWVEgy8FUBrRAs58q+yJEO5Op1vv4Z+0Ym/tW30znt2ZXYOeoFar2YfDwToej3Ycx5ZhGDn+vcEz7t+evW7TywhP+lueN5LjPHck23Q6DR6bwDgfqFQqLk/kcdfhZtEVwHoCNuSOHTkIgkAa+a/4Uqnk8Uvf6XpZsgEf2YAQfzyIZ+GfWfgPun5gQAlfwJQjLNyjdPDeNM2v6AjxiHN6+YJ7M9jRH/ArxPNu4lC6EHqFeF7NaRNvOY5jC/EcQ7eUMrLZrC09r2Q/d12XdIHEKcTzArBJAc1mkzzPo0KhQBqw5FapLJPW63Uaj8fUaDSSNAL5yTI58BMpASC+1+sJYxIiB88nVr/A8wij0Wik/CugSDRJA8ViUYSS6vWgRbwEIYRQQkipQKt4AM9DfKvVoteSJc3sdjvq9/s0HA7ptWgVD8EQDgNUoEX8bDajTqdDq9WKVALxESUExLbbbZrP56QaLmm2WZxIyuUyqQRhgRBBUxUiF4hk2MD7SpKV7/vU7XaVh8gZMbetUvEozBaLBWni4QwbkgI0CscZJJTHwHtKGfv9PpT1fEDpIsLdjTwGpk280CvEcxLxed8MKR1gp7lD5/TS6RulAHbykpPeT/QzcnC9Xv/iuhvHK5eukxjCeXP5tNlsRFWQOX3KicXP5/MDXgM3/CK+xjvSS/zfAF99s44JtwHfUX7hhbqRz4znZqtWqw6uRmQ7u6NHYstd+Df7wtjy0vw81+8T4fd/542wj2cymWgymYT0CH8Ao1QHb07+dmIAAAAASUVORK5CYII=" style="height: 20px; width:29px;" width="29" height="20"></a>
+<a href="https://t.me/osnmedia" style="font-size: 20px;" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer"><i class="fab fa-telegram" style="color: #333; font-size: 25px;"></i></a>
+
+<a href="https://vk.com/osnru" target="_blank" rel="nofollow noopener noreferrer" data-wpel-link="exclude"><img alt="VK" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAfCAYAAAClDZ5ZAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAPPSURBVHgB3Vi9VhNBFL67SUFnqPgr3HR0rgGOWrH6AiIVnQsPoOgDGPABOPgESXwARTobwY4C4tJpg7GCLtBZAPH71knOAtmZQXZzPHznzO5mcufnu/fOzL0jckvg8DE1NVXTCjlOY3d3d1ssMDMz45+fn7/UiGzv7e01xALT09N8VTudjpci0jk7O3sdRdFxUVXMoZTSOsTEfnECYgEMyn5CnQiKkYjv+3J6elouFAorGrE2SCzxw1UVx/KfwXVdljmD2NeePB/QopYIXOuuDBC0BrxgGOO+0IjRshvdHzERNGiJHsMyQChrcJ15aTJQfiu51mIiYH8ietyTAUFZowzlVnVyIPr+wm8+0CgSPTwMUJKcQRLAMBb4F50crPETu+hKss7WtaRYLPqSM6BlB2VNNC4FdDDf1Stt+cBebLIIzZ0rkUqlwjNtDZMMDaL1fudQTAR7cUsMWzAGeCo5gO6Ewh3qA8qyTpYuBaW/7fdf9xyhxj+JHkHW64QnN1z2MdZEU/4eyqkgCczxiVL6FfSIWCx4+nAoGYAKgSuFmNwWChe2p5OHTBsk5tNIxHPrfkCwLgaAyHO5OZ7BAm0ojvFdYBJWlqiAhFbRPSIMvMQQT6FTH+4QyM1wHffc0rlTEm7yByZqDOYgU8v7TGHIxC0Wu5MVCeICEbBn7GIKID0s0KrkCJBo06Wu0+YCEboXOnhnagSZ5QxcTIcySh150gGs79k0cC9XwCrrYhHWg8xHJlGSL5iPHGCHM3rAFSLKKqtiRgmkt6A1U85wU8DTnBV4wJpOqNCv8vDwcGd8fDwQw/4ODKEsjI2NycjIyP7R0dFvtGObMK0BlMRkqIHJxdkk3kNih0foexbjbHKcy386aa3omzDrN7HfLluYGDeLfXVGpKGG3ShOT+EyfIWQ5/kUiB02ID+P6LeTrCykSYP1MTTwA58LYgdq9yGKydUiWDwOh/BmiWBRbvu8F/DR3qS4ScjcGR0d/cz2YiKiBvo+MTFBqwWSHXpEEuPQNSNYdBPRA9PqSUMfD1BO0GYHCo8rXEMDYQLTL/7PGoxAUHh2zIv5loUbwBtJrGEjEYJkoK1XMoDbFqwf+v6iJC4WUsBMsqbuvuyIEM1mcx25wH0m/ZIzMA4v3pYsxpoV5fbWRAjGPSBUVq6Wm3XoZgiD2lgviwZRB2SrtMq1iHRBV6N18NnIy0IYo3vmbBtEY6sU5R+hotKQ30ySVCqc6SmPPrleVkEo0IkhwphzJGMwmMTAvAcLUEq8gMaEPPU3J1bvHog2QAjEOTKLnNWItf8A3xW2o9sYJgYAAAAASUVORK5CYII=" style="height: 20px; width:33px;" width="33" height="20"></a>
+<a href="https://ok.ru/group/59384385503283" target="_blank" rel="nofollow noopener noreferrer" data-wpel-link="exclude"><img alt="OK" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAvCAYAAAASP7HuAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAQuSURBVHgBpZi7UttAFIZXtqnjpCFcCuUJELcZOmyazKQCHiAhXTogDxCcdKnAdKmQyzSElGmC0mWGi80TRG6ADqdLZgDn/83KWVt7ZMk+MzuW9vad3T3n7JEdlUE8zyuOjY257Xa7yPfb29sGpJV2vDOoAwG5XG4TjxuO47j97QA3UO/f3d19BThUw8Lm5+cJqaAU1WAJAa6en5/vZYJxNfl8/gCPqyqjYJV7p6en27a2nK1yWBAFq9vCjhxY5+2vmJub24F2b9Ro4k1MTPy+urr6aVb2bCO2z8WqfkkzQOsWFAnwSAukVXp4l86zBaN5ZlprwWwFqKJkqd7f31fMwVSuUChsALpj6U8r3lIPBqZ6VqaN4sZGgfbvcegVJcjCwkJFALbOzs4eRy9dA4GGnjBXkASi6PbA0lTEIrwYDFtUEubyVQrBymq2emxlHIbOrq0zDvmHSiFQNhCa3BgsQVLHvkHShcEIpEldlUJw5gP7mSsLrR1yuVSRBMewIYyvx2DSnmPFm/QnlSC6/ZWtDdfQRQzGi4nXhaU//e9YAuqoc6zsEpjXTqGvsYpiC6KdCRFgA6y0hvMJobGL3VjGO6OEFLJ88yV2xSAQ1zGB5OBZJED0KJsVMdOHtmtqRHPHcYTwz9f99TEY9xgWVB4WyJuBCttSBDEt4MEDemzLOxJAIUBlKRfJSwOvr69b4+PjNRjGX4ayhHursxoo9hFntMZxUj9Hr4J3zyqjCPY6sKVnsEQ6dwllRlexTxNjjhD1g/7+5pxQ4qgDM/zE1f1ClAo61NSQAsXo4MyyOrtB/0XWNevA1LdA37WM8aHZPlbKvLCNwmhAAzK1Z0ykBTPSUEqY+J3egR5B/bYDLb6ohExKJ6E1lAtmwNiFFuo4Oa+fIi9d7dzLNoipfAEDL9BRhGkH9wgAKKoO1UNUURE4hQQ5aLWHAXWVQbK4gxafNtBVCdvJc2O6nUrNlNJGqQLUyZC7+4KE8hsSyyYeZ7RPjQJt08FhYOsAfYoqrRPCQvnF8lL9P/BB4LbxHKDsR75lSuIkdExtbSXAZzS8P5L4KPSHphQQUsEiwXlyXyoAxhJR1L+ln2IlA+fJpwGphw/BXau2jvMcP83JyckGzl0NDYtAyn57m7KaBijCkL+nBfUAp6enG5eXl9YO0pcnY14Z5/FdZRNeNSv4rZ+cnMQaczYQZBagQ2lGtN0ITUVYLhWcXVxcTIZFIMQ8DhAzJlwXT5T8wdEFGh8wvbC0IJh4J5HRv34CkDvzzASaK2MUP5RADNYRKBL9LiWorlbcjcH0J6krgaDpiq0NUWM94dZw9by9sOgvIgkkhSHWs10CwukfxWBYsp8VlBIYdBnRAxwxnJqaot8tR50wwYu0f4QhhfuD1O8zwxfKU72qDzjXqjiIkX5paclVIwjHc57++n9veCEpAenyDAAAAABJRU5ErkJggg==" style="height: 20px; width:12px;" width="12" height="20"></a>
+</div>
+<div style="display: none; text-align: center;  width: 85px; ">
+<a href="https://20idei.ru/?utm_source=medianet&amp;utm_medium=osn.ru&amp;utm_campaign=btnm" style="padding: 0px 2px 0px 5px; color: #fff !important; text-decoration: none !important; border-radius: 5px; font-size: 18px;margin-bottom: 5px; width: 85px;" target="_blank" data-wpel-link="external" rel="nofollow external noopener noreferrer">
+<style> .img20idei { width: 85px !important; margin-bottom: -8px; margin-left: 8px; } </style>
+<img class="img20idei lazyload" style="width: 85px !important; margin-bottom: -8px;" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFUAAABBAQMAAACafHqUAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAA9JREFUGBljGAWjYBSAAQADDAABfIR0cAAAAABJRU5ErkJggg==" data-src="https://www.osnmedia.ru/wp-content/uploads/2022/11/85x65px.jpg" loading="lazy"><noscript><img class="img20idei" style="width: 85px !important; margin-bottom: -8px;" src="https://www.osnmedia.ru/wp-content/uploads/2022/11/85x65px.jpg" data-eio="l"></noscript>
+</a>
+</div>
+</div>
+</div>
+<div style="display:none;"></div>
+<style>
+		.doubleGrid {
+			display: grid;
+			grid-template-columns: 1fr 1fr;
+		}
+		.doubleGrid > div {
+
+		}
+		.doubleGrid figure{
+			width:424px; /*container-width 280*/
+			overflow:hidden; /*hide bounds of image */
+			margin:0;   /*reset margin of figure tag*/
+		}
+		.doubleGrid figure img{
+			display:block; /*remove inline-block spaces*/
+			width:100%; /*make image streatch*/
+			height: 230px; /*168*/
+		}
+		.trippleGrid {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr;
+			margin-bottom: 20px;
+		}
+		.trippleGrid figure{
+			/* width:280px; */ /*container-width 280*/
+			overflow:hidden; /*hide bounds of image */
+			min-width: 150px;
+			margin:0;   /*reset margin of figure tag*/
+		}
+		.trippleGrid figure img{
+			display:block; /*remove inline-block spaces*/
+			width:100%; /*make image streatch*/
+			height: 180px;
+			padding: 15px 15px 15px 0px;
+			object-fit: cover;
+		}
+		@media (max-width: 480px) and (min-width: 320px)
+		{
+			.block1 .column-2 .flex-vert > * .rubr a {
+				max-width: 460px;
+			}
+			.trippleGrid figure img{
+				height: 150px;
+			}
+			.trippleGrid {
+				grid-template-columns: 1fr 1fr;
+			}
+		}
+		@media (min-width: 768px){
+			.flex-content { flex: 1;  padding: 0 0px 30px 0; }
+			main { max-width: 950px; }
+		}
+    
+.newsbar {
+    max-width: 259px !important;
+}
+</style>
+<div class="container">
+
+<h2 class="section-header homepage-header">
+<strong><span>Сегодня</span></strong>
+<div class="marque "><style>
+	.str_wrap {
+		white-space: nowrap;		
+	}
+	.str_wrap p {
+		display: inline-block; 
+		margin-right: 250px;		
+	}
+	.str_wrap p a{
+		color: #fff;		
+	}
+</style>
+<div class="str_wrap" id="marque">
+<p><a href="https://www.osnmedia.ru/world/zelenskij-vyrazil-svoj-vostorg-ot-priezda-bajdena-v-kiev/" data-wpel-link="internal">Зеленский выразил свой восторг от приезда Байдена в Киев</a></p>
+<p><a href="https://www.osnmedia.ru/proisshestviya/v-politsii-soobshhili-podrobnosti-o-popytke-rebenka-zarezat-ottsa-v-ufe/" data-wpel-link="internal">В полиции сообщили подробности о попытке ребенка зарезать отца в Уфе</a></p>
+<p><a href="https://www.osnmedia.ru/world/istorik-podberezkin-sprognoziroval-porazhenie-vsu-v-kontse-marta/" data-wpel-link="internal">Историк Подберезкин спрогнозировал поражение ВСУ в конце марта</a></p>
+<p><a href="https://www.osnmedia.ru/politika/zaharova-zadala-vopros-na-fone-vstrechi-bajdena-i-zelenskogo-v-kieve/" data-wpel-link="internal">Захарова задала вопрос на фоне встречи Байдена и Зеленского в Киеве</a></p>
+<p><a href="https://www.osnmedia.ru/obshhestvo/vedomosti-roskomnadzor-nachnet-obezvrezhivat-infobomby-s-pomoshhyu-veprya/" data-wpel-link="internal">«Ведомости»: Роскомнадзор начнет обезвреживать «инфобомбы» с помощью «Вепря»</a></p>
+<p><a href="https://www.osnmedia.ru/politika/premer-niderlandov-ryutte-priznal-neobhodimost-vystraivaniya-otnoshenij-s-rossiej/" data-wpel-link="internal">Премьер Нидерландов Рютте признал необходимость выстраивания отношений с Россией</a></p>
+<p><a href="https://www.osnmedia.ru/proisshestviya/bastrykin-zainteresovalsya-lozhnymi-obvineniyami-nizhegorodtsa-v-pedofilii/" data-wpel-link="internal">Бастрыкин заинтересовался ложными обвинениями нижегородца в педофилии</a></p>
+<p><a href="https://www.osnmedia.ru/world/v-kieve-obyavili-vozdushnuyu-trevogu-na-fone-vizita-bajdena/" data-wpel-link="internal">В Киеве объявили воздушную тревогу на фоне визита Байдена</a></p>
+<p><a href="https://www.osnmedia.ru/proisshestviya/studentka-iz-omska-otdala-moshennikam-pochti-300-tysyach-rublej/" data-wpel-link="internal">Студентка из Омска отдала мошенникам почти 300 тысяч рублей</a></p>
+<p><a href="https://www.osnmedia.ru/politika/markov-zayavil-chto-putin-dal-garantii-bezopasnogo-vizita-bajdena-v-kiev/" data-wpel-link="internal">Марков заявил, что Путин дал гарантии безопасного визита Байдена в Киев</a></p>
+<p><a href="https://www.osnmedia.ru/obshhestvo/v-rossii-vvedut-novyj-spisok-zapreshhayushhih-ekspluatatsiyu-avtomobilej-neispravnostej/" data-wpel-link="internal">В России введут новый список запрещающих эксплуатацию автомобилей неисправностей</a></p>
+<p><a href="https://www.osnmedia.ru/shou-biznes/muzha-anastasii-zavorotnyuk-razyskivayut-sudebnye-pristavy/" data-wpel-link="internal">Мужа Анастасии Заворотнюк разыскивают судебные приставы</a></p>
+<p><a href="https://www.osnmedia.ru/world/mid-knr-potreboval-ot-ssha-ostanovit-lozh-o-postavkah-kitajskogo-oruzhiya-v-rossiyu/" data-wpel-link="internal">МИД КНР потребовал от США остановить ложь о поставках китайского оружия в Россию</a></p>
+<p><a href="https://www.osnmedia.ru/politika/borrel-poprosil-kitaj-ne-postavlyat-oruzhie-rossii/" data-wpel-link="internal">Боррель попросил Китай не поставлять оружие России</a></p>
+<p><a href="https://www.osnmedia.ru/world/v-godovshhinu-s-nachala-konflikta-v-tsveta-flaga-ukrainy-podsvetyat-ejfelevu-bashnyu/" data-wpel-link="internal">В годовщину с начала конфликта в цвета флага Украины подсветят Эйфелеву башню</a></p>
+</div>
+</div>
+</h2>
+<div class="block1">
+<div class="column-1">
+<div class="slot-1">
+<h3>
+<div class="rubr"><a href="https://www.osnmedia.ru/category/politika/" data-wpel-link="internal">Политика</a></div> <a href="https://www.osnmedia.ru/politika/voennye-eksperty-kornev-i-leonkov-predrekli-zapusk-yadernogo-oruzhiya-posle-poslaniya-putina/" class="frontpage-title1" data-wpel-link="internal">Военные эксперты Корнев и Леонков предрекли запуск ядерного оружия после послания Путина</a>
+</h3>
+<a href="https://www.osnmedia.ru/politika/voennye-eksperty-kornev-i-leonkov-predrekli-zapusk-yadernogo-oruzhiya-posle-poslaniya-putina/" data-wpel-link="internal"><div class="image"><div style="background-image: linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0) 60%, transparent 60%), url(https://www.osnmedia.ru/wp-content/uploads/2022/05/andy-cat-PGEKTReynKk-unsplash-1-692x462.jpg);"></div></div></a>
+<div class="intro"><p>Военные эксперты Дмитрий Корнев и Алексей Леонков предрекли демонстративный запуск ядерного оружия 22 февраля, на следующий день после послания президента Владимира Путина Федеральному собранию. Об этом сообщает Царьград. «Возможно, что это давно ожидаемая демонстрация готовности СЯО (стратегического ядерного оружия), для тех, кто что-то недопонимает», – подчеркнул Леонков. Корнев отметил, что пуск ракеты совместят с учениями&hellip;</p>
+</div>
+</div>
+</div>
+<div class="column-2">
+<div class="flex-vert">
+<div class="">
+<div class="inner">
+<a href="https://www.osnmedia.ru/obshhestvo/kak-budet-rabotat-sistema-monitoringa-interneta-vepr/" data-wpel-link="internal"><div class="image"><div style="background-image: linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0) 50%, transparent 50%), url(https://www.osnmedia.ru/wp-content/uploads/2022/12/nBkSUhL2hFcvns23Jb6BrNOp2Z3z8Zj21iDEh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho2z3ksDH8xNrs1VgyB0GZrg-564x328.jpg);"></div></div></a>
+<h3>
+<div class="rubr"><a href="https://www.osnmedia.ru/category/obshhestvo/" data-wpel-link="internal"><span class="rubr-links">Общество</span></a></div> <a href="https://www.osnmedia.ru/obshhestvo/kak-budet-rabotat-sistema-monitoringa-interneta-vepr/" class="frontpage-title2-4" data-wpel-link="internal">Как будет работать система мониторинга Интернета «Вепрь»</a>
+</h3>
+</div>
+</div>
+<div class="">
+<div class="inner">
+<a href="https://www.osnmedia.ru/news/lev-leshhenko-zapretil-pet-molodym-artistam-patrioticheskie-pesni/" data-wpel-link="internal"><div class="image"><div style="background-image: linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0) 50%, transparent 50%), url(https://www.osnmedia.ru/wp-content/uploads/2020/03/leshhenko1-1-564x328.jpg);"></div></div></a>
+<h3>
+<div class="rubr"><a href="https://www.osnmedia.ru/category/shou-biznes/" data-wpel-link="internal"><span class="rubr-links">Шоу-бизнес</span></a></div> <a href="https://www.osnmedia.ru/news/lev-leshhenko-zapretil-pet-molodym-artistam-patrioticheskie-pesni/" class="frontpage-title2-4" data-wpel-link="internal">Лев Лещенко запретил петь молодым артистам патриотические песни</a>
+</h3>
+</div>
+</div>
+</div>
+</div>
+<div class="column-2">
+<div class="flex-vert">
+<div class="">
+<div class="inner">
+<a href="https://www.osnmedia.ru/obshhestvo/pochemu-ssha-sdayut-bahmut/" data-wpel-link="internal"><div class="image"><div style="background-image: linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0) 50%, transparent 50%), url(https://www.osnmedia.ru/wp-content/uploads/2022/12/Artemovsk-Bahmut-video-NTV-564x328.jpg);"></div></div></a>
+<h3>
+<div class="rubr"><a href="https://www.osnmedia.ru/category/obshhestvo/" data-wpel-link="internal"><span class="rubr-links">Общество</span></a></div> <a href="https://www.osnmedia.ru/obshhestvo/pochemu-ssha-sdayut-bahmut/" class="frontpage-title2-4" data-wpel-link="internal">Почему США сдают Бахмут</a>
+</h3>
+</div>
+</div>
+<div class="">
+<div class="inner">
+<a href="https://www.osnmedia.ru/proisshestviya/v-dtp-na-krymskom-mostu-pogibli-dva-cheloveka/" data-wpel-link="internal"><div class="image"><div style="background-image: linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0) 50%, transparent 50%), url(https://www.osnmedia.ru/wp-content/uploads/2022/07/Krymskij_most_13_sentyabrya_2019_goda_1.jpg);"></div></div></a>
+<h3>
+<div class="rubr"><a href="https://www.osnmedia.ru/category/proisshestviya/" data-wpel-link="internal"><span class="rubr-links">Происшествия</span></a></div> <a href="https://www.osnmedia.ru/proisshestviya/v-dtp-na-krymskom-mostu-pogibli-dva-cheloveka/" class="frontpage-title2-4" data-wpel-link="internal">В ДТП на Крымском мосту погибли два человека</a>
+</h3>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="flex-container">
+<aside class="flex-sidebar content">
+<style>
+		@media (min-width: 1250px) { .osntv-sidebar { max-width: 258px; } }
+		@media (min-width: 971px) and (max-width: 1249px) { .osntv-sidebar { max-width: 250px; } }
+		@media (min-width: 801px) and (max-width: 970px) { .osntv-sidebar { max-width: 200px; } }
+		/*@media (max-width: 800px) { .osntv-sidebar { display: none; } }*/
+	</style>
+<style>
+	.news-bar { font-family: Roboto; font-size: 14px; font-style: normal; background-color: #f1f1f1; padding: 20px; margin-right: 30px; color: #000; min-width: 250px; margin-bottom: 20px; padding: 0px;}
+	@media (min-width: 768px){ .news-bar, .news-bar-header { position: sticky; position: -webkit-sticky; position: -moz-sticky; position: -ms-sticky; position: -o-sticky; position: sticky;top: 0px;  
+				/* top: 190px; */ 
+				} }
+	@media (max-width: 767px){ .news-bar { margin-right: 0px; display: none; } }
+	@media (min-width: 1024px) and (max-width: 1231px) { 
+		main { /* max-width: 640px !important; */ }
+	}	
+	@media (min-width: 801px) and (max-width: 970px) { 
+		.news-bar { min-width: 200px !important; /* padding: 15px !important; */ font-size: 13px !important;} 
+		main { padding: 0 5px 5px 0 !important; /* max-width: 500px !important; */ }
+	}	
+	@media (max-width: 800px) { 
+		main { padding: 0 5px 5px 0 !important; /* max-width: 640px !important; */ }
+		/*.news-bar, aside.flex-sidebar { display: none !important; }*/
+	}		
+	.news-bar-header { color: #c1272d; padding-bottom: 20px; font-weight: 900; font-size: 18px; line-height: 24px; text-transform: uppercase; background-color: #f1f1f1; padding: 20px 20px 15px 20px; }	
+	.news-bar-article { padding: 10px 15px; }
+	.news-bar-article-datetime { width: 40px; float: left; display: block; margin-right: 5px; font-weight: 600; color: #999; font-size: 13px; }
+	.news-bar-article-title { display: block; margin-left: 45px; letter-spacing: 0.2px; line-height: 18px; }	
+	@media (max-width: 1120px){ .third-column { display: none !important;  } }
+	@media (max-width: 1160px){ .search-thumbnail img { width: 224px !important; height: 132px !important; } }	  @media (max-width: 767px){ .third-column { display: none !important;  } }
+	
+		.news-bar { height: calc(100vh - 0px); overflow-y: hidden; overflow-x: hidden; } 
+		.news-bar:hover { overflow-y: scroll; overflow-x: hidden; -webkit-overflow-scrolling: touch; -moz-overflow-scrolling: touch; -ms-overflow-scrolling: touch;	-o-overflow-scrolling: touch; overflow-scrolling: touch; } 
+		.news-bar:hover::-webkit-scrollbar { /* -webkit-appearance: none; */	width: 1px; }
+		.news-bar::-webkit-scrollbar-thumb { background-color: #333; width: 5px; }
+/*		
+.dropdown > ul::-webkit-scrollbar-thumb {
+	border-radius: 2px;
+	background-color: rgba(0,0,0,0.5);
+	-webkit-box-shadow: 0 0 1px rgba(255,255,255,0.5);
+}
+	*/	
+	}
+	@media (max-width: 768px){
+		.osn-player { display: none !important; }
+	}
+</style>
+<div style="margin: 0px; padding: 0px;width: 100%;position: sticky; top: 0px;" class="sidebar-player-position">
+<style>
+			@media (min-width: 969px){ .news-bar { top: 295px; } }
+			@media (max-width: 968px){ .news-bar { top: 340px; } }
+
+	    </style>
+<style>
+@media (min-width: 1250px) { .osntv-sidebar { max-width: 260px; } }
+@media (min-width: 971px) and (max-width: 1249px) { .osntv-sidebar { max-width: 250px; } }
+@media (min-width: 871px) and (max-width: 970px) { .osntv-sidebar { max-width: 200px; } }
+@media (max-width: 870px){ .osntv-sidebar {  display: none !important; } }	
+	
+@media (min-width: 1250px){
+.osntv-sidebar {
+    max-width: 260px;
+} }
+
+.osn-player .news-bar-article a { color: #fff; }
+.osn-player .news-bar-article { margin-bottom: 3px; }
+.osn-player .news-bar-article:nth-child(2n)  { background-color: rgb(119 119 119 / 30%) !important; }
+	
+</style>
+<div class="osntv-sidebar" style="position: sticky; top: 0px; z-index: 99999999; margin: 0px 0px 10px 0px; border-bottom: solid 5px #fff; /* border-top: solid 5px #fff; */ ">
+<a href="https://www.osnmedia.ru/osn-tv/" data-wpel-link="internal">
+<div class="tv-player-status" style="background-color: #222; padding: 0px; margin: 0px 0px 0px 0px;color: #fff;width: 100%; margin-top: -5px;  font-size: 13px; font-family: 'Roboto';letter-spacing: 1px;">
+</div>
+<div class="osn-player" style="background: linear-gradient(45deg, #202020, #484848); color: #fff; margin-top: 2px;">
+<div style="font-weight: 600; padding: 5px 10px; background-color: #C1272D; display: block; background: linear-gradient(45deg, #C1272D, #8f0b25); border-bottom: 2px solid #fff;"><a href="https://www.osnmedia.ru/tv/" style="color: #fff; font-size: 16px;">ОСН ТВ: Популярное</a></div>
+<div class="news-bar-article" style="font-size: 14px; min-height: 62px;">
+
+<a href="https://www.osnmedia.ru/video/sanktsii-protiv-seksa-kak-izmenilas-kultura-intima/" class="news-bar-article-title" style="margin:inherit;" data-wpel-link="internal"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgAQAAAABbAUdZAAAAAnRSTlMAAHaTzTgAAAAMSURBVAjXY2AY3AAAAKAAAWElfUcAAAAASUVORK5CYII=" style="width: 30px; height: 30px; float: left; margin-right: 11px; margin-bottom: 15px; margin-top: 2px; margin-top: 4px;" data-src="https://www.osnmedia.ru/wp-content/uploads/2022/06/play-button.png" loading="lazy" class="lazyload"><noscript><img src="https://www.osnmedia.ru/wp-content/uploads/2022/06/play-button.png" style="width: 30px; height: 30px; float: left; margin-right: 11px; margin-bottom: 15px; margin-top: 2px; margin-top: 4px;" data-eio="l"></noscript> <div style="margin-left: 40px;">
+Санкции против секса. Как изменилась культура интима? </div>
+</a>
+</div>
+<div class="news-bar-article" style="font-size: 14px; min-height: 62px;">
+
+<a href="https://www.osnmedia.ru/video/desyatyj-paket-sanktsij-podryvy-severnyh-potokov-i-poslanie-prezidenta/" class="news-bar-article-title" style="margin:inherit;" data-wpel-link="internal"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgAQAAAABbAUdZAAAAAnRSTlMAAHaTzTgAAAAMSURBVAjXY2AY3AAAAKAAAWElfUcAAAAASUVORK5CYII=" style="width: 30px; height: 30px; float: left; margin-right: 11px; margin-bottom: 15px; margin-top: 2px; margin-top: 4px;" data-src="https://www.osnmedia.ru/wp-content/uploads/2022/06/play-button.png" loading="lazy" class="lazyload"><noscript><img src="https://www.osnmedia.ru/wp-content/uploads/2022/06/play-button.png" style="width: 30px; height: 30px; float: left; margin-right: 11px; margin-bottom: 15px; margin-top: 2px; margin-top: 4px;" data-eio="l"></noscript> <div style="margin-left: 40px;">
+Десятый пакет санкций, подрывы «Северных потоков» и послание президента </div>
+</a>
+</div>
+<div class="news-bar-article" style="font-size: 14px; min-height: 62px;">
+
+<a href="https://www.osnmedia.ru/video/mozhet-li-2023-god-vernut-rossiyu-v-devyanostye/" class="news-bar-article-title" style="margin:inherit;" data-wpel-link="internal"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgAQAAAABbAUdZAAAAAnRSTlMAAHaTzTgAAAAMSURBVAjXY2AY3AAAAKAAAWElfUcAAAAASUVORK5CYII=" style="width: 30px; height: 30px; float: left; margin-right: 11px; margin-bottom: 15px; margin-top: 2px; margin-top: 4px;" data-src="https://www.osnmedia.ru/wp-content/uploads/2022/06/play-button.png" loading="lazy" class="lazyload"><noscript><img src="https://www.osnmedia.ru/wp-content/uploads/2022/06/play-button.png" style="width: 30px; height: 30px; float: left; margin-right: 11px; margin-bottom: 15px; margin-top: 2px; margin-top: 4px;" data-eio="l"></noscript> <div style="margin-left: 40px;">
+Может ли 2023 год вернуть Россию в «девяностые»? </div>
+</a>
+</div>
+<hr style="height: 5px; background-color: #fff;">
+<div class="tv-player-status" style="background-color: #222; padding: 0px; margin: 0px 0px 0px 0px;color: #fff;width: 100%; margin-top: -5px;  font-size: 13px; font-family: 'Roboto';letter-spacing: 1px; /* border-top: 2px solid #fff; */ ">
+<div style="font-weight: 600; padding: 6px 10px 6px 10px; background-color: #C1272D; display: inline-block;border-right: solid 3px #fff;color: #fff; font-size: 14px;">LIVE</div>
+<div style="padding: 5px 10px; display: inline-block;color: #fff;text-transform:uppercase;"><a href="https://www.osnmedia.ru/tv/" style="color: #fff; font-size: 14px;" data-wpel-link="internal">СМОТРЕТЬ ЭФИР 24/7</a></div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="news-bar">
+<div class="news-bar-header">Новости дня</div>
+
+<style>
+	.boldify {
+		font-weight: bold;
+	}
+</style>
+<div class="news-bar-article">
+<div style="display: none">
+</div>
+<div class="news-bar-article-datetime">13:23</div>
+<a href="https://www.osnmedia.ru/world/zelenskij-vyrazil-svoj-vostorg-ot-priezda-bajdena-v-kiev/" class="news-bar-article-title" data-wpel-link="internal">Зеленский выразил свой восторг от приезда Байдена в Киев</a>
+</div>
+<div class="news-bar-article">
+<div style="display: none">
+</div>
+<div class="news-bar-article-datetime">13:19</div>
+<a href="https://www.osnmedia.ru/proisshestviya/v-politsii-soobshhili-podrobnosti-o-popytke-rebenka-zarezat-ottsa-v-ufe/" class="news-bar-article-title" data-wpel-link="internal">В полиции сообщили подробности о попытке ребенка зарезать отца в Уфе</a>
+</div>
+ <div class="news-bar-article">
+<div style="display: none">
+ </div>
+<div class="news-bar-article-datetime">13:18</div>
+<a href="https://www.osnmedia.ru/world/istorik-podberezkin-sprognoziroval-porazhenie-vsu-v-kontse-marta/" class="news-bar-article-title" data-wpel-link="internal">Историк Подберезкин спрогнозировал поражение ВСУ в конце марта</a>
+</div>
+<div class="news-bar-article">
+<div style="display: none">
+</div>
+<div class="news-bar-article-datetime">13:16</div>
+<a href="https://www.osnmedia.ru/politika/zaharova-zadala-vopros-na-fone-vstrechi-bajdena-i-zelenskogo-v-kieve/" class="news-bar-article-title" data-wpel-link="internal">Захарова задала вопрос на фоне встречи Байдена и Зеленского в Киеве</a>
+</div>
+<div class="news-bar-article">
+<div style="display: none">
+</div>
+<div class="news-bar-article-datetime">13:16</div>
+<a href="https://www.osnmedia.ru/obshhestvo/vedomosti-roskomnadzor-nachnet-obezvrezhivat-infobomby-s-pomoshhyu-veprya/" class="news-bar-article-title" data-wpel-link="internal">«Ведомости»: Роскомнадзор начнет обезвреживать «инфобомбы» с помощью «Вепря»</a>
+</div>
+<div class="news-bar-article">
+<div style="display: none">
+</div>
+<div class="news-bar-article-datetime">13:15</div>
+<a href="https://www.osnmedia.ru/politika/premer-niderlandov-ryutte-priznal-neobhodimost-vystraivaniya-otnoshenij-s-rossiej/" class="news-bar-article-title" data-wpel-link="internal">Премьер Нидерландов Рютте признал необходимость выстраивания отношений с Россией</a>
+</div>
+<div class="news-bar-article">
+<div style="display: none">
+</div>
+<div class="news-bar-article-datetime">13:14</div>
+<a href="https://www.osnmedia.ru/proisshestviya/bastrykin-zainteresovalsya-lozhnymi-obvineniyami-nizhegorodtsa-v-pedofilii/" class="news-bar-article-title" data-wpel-link="internal">Бастрыкин заинтересовался ложными обвинениями нижегородца в педофилии</a>
+</div>
+<div class="news-bar-article">
+<div style="display: none">
+</div>
+<div class="news-bar-article-datetime">13:12</div>
+<a href="https://www.osnmedia.ru/world/v-kieve-obyavili-vozdushnuyu-trevogu-na-fone-vizita-bajdena/" class="news-bar-article-title" data-wpel-link="internal">В Киеве объявили воздушную тревогу на фоне визита Байдена</a>
+</div>
+<div class="news-bar-article">
+<div style="display: none">
+</div>
+<div class="news-bar-article-datetime">13:12</div>
+<a href="https://www.osnmedia.ru/proisshestviya/studentka-iz-omska-otdala-moshennikam-pochti-300-tysyach-rublej/" class="news-bar-article-title" data-wpel-link="internal">Студентка из Омска отдала мошенникам почти 300 тысяч рублей</a>
+</div>
+<div class="news-bar-article">
+<div style="display: none">
+</div>
+<div class="news-bar-article-datetime">13:11</div>
+<a href="https://www.osnmedia.ru/politika/markov-zayavil-chto-putin-dal-garantii-bezopasnogo-vizita-bajdena-v-kiev/" class="news-bar-article-title" data-wpel-link="internal">Марков заявил, что Путин дал гарантии безопасного визита Байдена в Киев</a>
+</div>
+<div class="news-bar-article">
+<div style="display: none">
+</div>
+<div class="news-bar-article-datetime">13:10</div>
+<a href="https://www.osnmedia.ru/obshhestvo/v-rossii-vvedut-novyj-spisok-zapreshhayushhih-ekspluatatsiyu-avtomobilej-neispravnostej/" class="news-bar-article-title" data-wpel-link="internal">В России введут новый список запрещающих эксплуатацию автомобилей неисправностей</a>
+</div>
+<div class="news-bar-article">
+<div style="display: none">
+</div>
+<div class="news-bar-article-datetime">13:10</div>
+<a href="https://www.osnmedia.ru/shou-biznes/muzha-anastasii-zavorotnyuk-razyskivayut-sudebnye-pristavy/" class="news-bar-article-title" data-wpel-link="internal">Мужа Анастасии Заворотнюк разыскивают судебные приставы</a>
+</div>
+<div class="news-bar-article">
+<div style="display: none">
+</div>
+<div class="news-bar-article-datetime">13:08</div>
+<a href="https://www.osnmedia.ru/world/mid-knr-potreboval-ot-ssha-ostanovit-lozh-o-postavkah-kitajskogo-oruzhiya-v-rossiyu/" class="news-bar-article-title" data-wpel-link="internal">МИД КНР потребовал от США остановить ложь о поставках китайского оружия в Россию</a>
+</div>
+<div class="news-bar-article">
+<div style="display: none">
+</div>
+<div class="news-bar-article-datetime">13:06</div>
+<a href="https://www.osnmedia.ru/politika/borrel-poprosil-kitaj-ne-postavlyat-oruzhie-rossii/" class="news-bar-article-title" data-wpel-link="internal">Боррель попросил Китай не поставлять оружие России</a>
+</div>
+<div class="news-bar-article">
+<div style="display: none">
+</div>
+<div class="news-bar-article-datetime">13:06</div>
+<a href="https://www.osnmedia.ru/world/v-godovshhinu-s-nachala-konflikta-v-tsveta-flaga-ukrainy-podsvetyat-ejfelevu-bashnyu/" class="news-bar-article-title" data-wpel-link="internal">В годовщину с начала конфликта в цвета флага Украины подсветят Эйфелеву башню</a>
+</div>
+<div class="news-bar-article">
+<div style="display: none">
+</div>
+<div class="news-bar-article-datetime">13:06</div>
+<a href="https://www.osnmedia.ru/shou-biznes/avatar-put-vody-stal-tretej-samoj-kassovoj-lentoj-v-mirovoj-istorii/" class="news-bar-article-title" data-wpel-link="internal">«Аватар: Путь воды» стал третьей самой кассовой лентой в мировой истории</a>
+</div>
+<div class="news-bar-article">
+<div style="display: none">
+</div>
+<div class="news-bar-article-datetime">13:05</div>
+<a href="https://www.osnmedia.ru/world/ukrainskij-aviaekspert-krivolap-zayavil-chto-vs-rf-mogut-primenit-dirizhabli-kamikadze/" class="news-bar-article-title" data-wpel-link="internal">Украинский авиаэксперт Криволап заявил, что ВС РФ могут применить дирижабли-камикадзе</a>
+</div>
+<div class="news-bar-article">
+<div style="display: none">
+</div>
+<div class="news-bar-article-datetime">13:05</div>
+<a href="https://www.osnmedia.ru/obshhestvo/20-fevralya-2023-pervyj-den-maslenitsy-chto-mozhno-i-chego-nelzya-delat/" class="news-bar-article-title" data-wpel-link="internal">20 февраля 2023 &#8211; Первый день Масленицы: Что можно и чего нельзя делать</a>
+</div>
+<div class="news-bar-article">
+<div style="display: none">
+</div>
+<div class="news-bar-article-datetime">13:04</div>
+<strong> <a href="https://www.osnmedia.ru/obshhestvo/kak-budet-rabotat-sistema-monitoringa-interneta-vepr/" class="news-bar-article-title" data-wpel-link="internal">Как будет работать система мониторинга Интернета «Вепрь»</a>
+</strong> </div>
+<div class="news-bar-article">
+<div style="display: none">
+</div>
+<div class="news-bar-article-datetime">13:03</div>
+<a href="https://www.osnmedia.ru/proisshestviya/dva-cheloveka-pogibli-v-dtp-v-nizhegorodskoj-oblasti/" class="news-bar-article-title" data-wpel-link="internal">Два человека погибли в ДТП в Нижегородской области</a>
+</div>
+</div>
+</aside> <main class="flex-content content">
+<h2 class="new-headline-red">
+<a href="https://www.osnmedia.ru/category/obshhestvo/" data-wpel-link="internal">
+Общество </a>
+</h2>
+<div class="trippleGrid">
+<div>
+<a href="https://www.osnmedia.ru/obshhestvo/vedomosti-roskomnadzor-nachnet-obezvrezhivat-infobomby-s-pomoshhyu-veprya/" data-wpel-link="internal">
+<figure><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjQAAAFIAQAAAABv+FmJAAAAAnRSTlMAAHaTzTgAAAAuSURBVHja7cExAQAAAMKg9U9tDQ+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAXA1xAAAHMU84+AAAAAElFTkSuQmCC" data-src="https://www.osnmedia.ru/wp-content/uploads/2022/05/glenn-carstens-peters-npxXWgQ33ZQ-unsplash-1-564x328.jpg" loading="lazy" class="lazyload"><noscript><img src="https://www.osnmedia.ru/wp-content/uploads/2022/05/glenn-carstens-peters-npxXWgQ33ZQ-unsplash-1-564x328.jpg" data-eio="l"></noscript></figure>
+<div class="mytab"><h4>«Ведомости»: Роскомнадзор начнет обезвреживать «инфобомбы» с помощью «Вепря»</h4>
+</div>
+</a>
+</div>
+<div>
+<a href="https://www.osnmedia.ru/obshhestvo/v-rossii-vvedut-novyj-spisok-zapreshhayushhih-ekspluatatsiyu-avtomobilej-neispravnostej/" data-wpel-link="internal">
+<figure><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjQAAAFIAQAAAABv+FmJAAAAAnRSTlMAAHaTzTgAAAAuSURBVHja7cExAQAAAMKg9U9tDQ+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAXA1xAAAHMU84+AAAAAElFTkSuQmCC" data-src="https://www.osnmedia.ru/wp-content/uploads/2023/02/osn17-9-564x328.jpg" loading="lazy" class="lazyload"><noscript><img src="https://www.osnmedia.ru/wp-content/uploads/2023/02/osn17-9-564x328.jpg" data-eio="l"></noscript></figure>
+<div class="mytab"><h4>В России введут новый список запрещающих эксплуатацию автомобилей неисправностей</h4>
+</div>
+</a>
+</div>
+  <div>
+<a href="https://www.osnmedia.ru/obshhestvo/20-fevralya-2023-pervyj-den-maslenitsy-chto-mozhno-i-chego-nelzya-delat/" data-wpel-link="internal">
+<figure><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjQAAAFIAQAAAABv+FmJAAAAAnRSTlMAAHaTzTgAAAAuSURBVHja7cExAQAAAMKg9U9tDQ+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAXA1xAAAHMU84+AAAAAElFTkSuQmCC" data-src="https://www.osnmedia.ru/wp-content/uploads/2023/02/Snimok-ekrana-2023-02-20-v-12.54.15-564x328.jpg" loading="lazy" class="lazyload"><noscript><img src="https://www.osnmedia.ru/wp-content/uploads/2023/02/Snimok-ekrana-2023-02-20-v-12.54.15-564x328.jpg" data-eio="l"></noscript></figure>
+<div class="mytab"><h4>20 февраля 2023 &#8211; Первый день Масленицы: Что можно и чего нельзя делать</h4>
+</div>
+</a>
+</div>
+<div>
+<a href="https://www.osnmedia.ru/obshhestvo/v-garazhe-na-yugo-vostoke-moskvy-nashli-tajnik-s-rpg-i-vzryvchatkoj/" data-wpel-link="internal">
+<figure><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjQAAAFIAQAAAABv+FmJAAAAAnRSTlMAAHaTzTgAAAAuSURBVHja7cExAQAAAMKg9U9tDQ+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAXA1xAAAHMU84+AAAAAElFTkSuQmCC" data-src="https://www.osnmedia.ru/wp-content/uploads/2022/05/shron-564x328.jpg" loading="lazy" class="lazyload"><noscript><img src="https://www.osnmedia.ru/wp-content/uploads/2022/05/shron-564x328.jpg" data-eio="l"></noscript></figure>
+<div class="mytab"><h4>В гараже на юго-востоке Москвы нашли тайник с РПГ и взрывчаткой</h4>
+</div>
+</a>
+</div>
+<div>
+<a href="https://www.osnmedia.ru/obshhestvo/dietolog-rusakova-nazvala-samye-vrednye-nachinki-dlya-blinov-na-maslenitsu/" data-wpel-link="internal">
+<figure><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjQAAAFIAQAAAABv+FmJAAAAAnRSTlMAAHaTzTgAAAAuSURBVHja7cExAQAAAMKg9U9tDQ+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAXA1xAAAHMU84+AAAAAElFTkSuQmCC" data-src="https://www.osnmedia.ru/wp-content/uploads/2023/02/osn16-9-564x328.jpg" loading="lazy" class="lazyload"><noscript><img src="https://www.osnmedia.ru/wp-content/uploads/2023/02/osn16-9-564x328.jpg" data-eio="l"></noscript></figure>
+<div class="mytab"><h4>Диетолог Русакова назвала самые вредные начинки для блинов на Масленицу</h4>
+</div>
+</a>
+</div>
+<div>
+<a href="https://www.osnmedia.ru/obshhestvo/v-okrestnostyah-artemovska-rossijskie-voennye-boryutsya-s-sodomiej-v-vsu/" data-wpel-link="internal">
+<figure><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjQAAAFIAQAAAABv+FmJAAAAAnRSTlMAAHaTzTgAAAAuSURBVHja7cExAQAAAMKg9U9tDQ+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAXA1xAAAHMU84+AAAAAElFTkSuQmCC" data-src="https://www.osnmedia.ru/wp-content/uploads/2022/10/7fc94f31c92d4b8ba8f82258aacb59e4-564x328.jpg" loading="lazy" class="lazyload"><noscript><img src="https://www.osnmedia.ru/wp-content/uploads/2022/10/7fc94f31c92d4b8ba8f82258aacb59e4-564x328.jpg" data-eio="l"></noscript></figure>
+<div class="mytab"><h4>В окрестностях Артемовска российские военные борются с содомией в ВСУ</h4>
+</div>
+</a>
+</div>
+ </div>
+<h2 class="new-headline-red">
+<a href="https://www.osnmedia.ru/category/politika/" data-wpel-link="internal">
+Политика </a>
+</h2>
+<div class="trippleGrid">
+<div>
+<a href="https://www.osnmedia.ru/politika/zaharova-zadala-vopros-na-fone-vstrechi-bajdena-i-zelenskogo-v-kieve/" data-wpel-link="internal">
+<figure><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjQAAAFIAQAAAABv+FmJAAAAAnRSTlMAAHaTzTgAAAAuSURBVHja7cExAQAAAMKg9U9tDQ+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAXA1xAAAHMU84+AAAAAElFTkSuQmCC" data-src="https://www.osnmedia.ru/wp-content/uploads/2022/06/Zaharova-5-564x328.jpg" loading="lazy" class="lazyload"><noscript><img src="https://www.osnmedia.ru/wp-content/uploads/2022/06/Zaharova-5-564x328.jpg" data-eio="l"></noscript></figure>
+<div class="mytab"><h4>Захарова задала вопрос на фоне встречи Байдена и Зеленского в Киеве</h4>
+</div>
+</a>
+</div>
+<div>
+<a href="https://www.osnmedia.ru/politika/premer-niderlandov-ryutte-priznal-neobhodimost-vystraivaniya-otnoshenij-s-rossiej/" data-wpel-link="internal">
+<figure><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjQAAAFIAQAAAABv+FmJAAAAAnRSTlMAAHaTzTgAAAAuSURBVHja7cExAQAAAMKg9U9tDQ+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAXA1xAAAHMU84+AAAAAElFTkSuQmCC" data-src="https://www.osnmedia.ru/wp-content/uploads/2022/05/niderlandy-2-564x328.jpg" loading="lazy" class="lazyload"><noscript><img src="https://www.osnmedia.ru/wp-content/uploads/2022/05/niderlandy-2-564x328.jpg" data-eio="l"></noscript></figure>
+<div class="mytab"><h4>Премьер Нидерландов Рютте признал необходимость выстраивания отношений с Россией</h4>
+</div>
+</a>
+</div>
+<div>
+<a href="https://www.osnmedia.ru/politika/markov-zayavil-chto-putin-dal-garantii-bezopasnogo-vizita-bajdena-v-kiev/" data-wpel-link="internal">
+<figure><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjQAAAFIAQAAAABv+FmJAAAAAnRSTlMAAHaTzTgAAAAuSURBVHja7cExAQAAAMKg9U9tDQ+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAXA1xAAAHMU84+AAAAAElFTkSuQmCC" data-src="https://www.osnmedia.ru/wp-content/uploads/2023/01/osn23-7-564x328.jpg" loading="lazy" class="lazyload"><noscript><img src="https://www.osnmedia.ru/wp-content/uploads/2023/01/osn23-7-564x328.jpg" data-eio="l"></noscript></figure>
+<div class="mytab"><h4>Марков заявил, что Путин дал гарантии безопасного визита Байдена в Киев</h4>
+</div>
+</a>
+</div>
+<div>
+<a href="https://www.osnmedia.ru/politika/borrel-poprosil-kitaj-ne-postavlyat-oruzhie-rossii/" data-wpel-link="internal">
+<figure><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjQAAAFIAQAAAABv+FmJAAAAAnRSTlMAAHaTzTgAAAAuSURBVHja7cExAQAAAMKg9U9tDQ+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAXA1xAAAHMU84+AAAAAElFTkSuQmCC" data-src="https://www.osnmedia.ru/wp-content/uploads/2022/09/50719195877_78e89e13f2_k-1-564x328.jpg" loading="lazy" class="lazyload"><noscript><img src="https://www.osnmedia.ru/wp-content/uploads/2022/09/50719195877_78e89e13f2_k-1-564x328.jpg" data-eio="l"></noscript></figure>
+<div class="mytab"><h4>Боррель попросил Китай не поставлять оружие России</h4>
+</div>
+</a>
+</div>
+<div>
+<a href="https://www.osnmedia.ru/politika/peskov-kreml-ne-isklyuchayut-vstrechu-putina-i-van-i-v-moskve/" data-wpel-link="internal">
+<figure><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjQAAAFIAQAAAABv+FmJAAAAAnRSTlMAAHaTzTgAAAAuSURBVHja7cExAQAAAMKg9U9tDQ+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAXA1xAAAHMU84+AAAAAElFTkSuQmCC" data-src="https://www.osnmedia.ru/wp-content/uploads/2023/02/8054742a5ad9a17707c378115ff6db3b-564x328.jpg" loading="lazy" class="lazyload"><noscript><img src="https://www.osnmedia.ru/wp-content/uploads/2023/02/8054742a5ad9a17707c378115ff6db3b-564x328.jpg" data-eio="l"></noscript></figure>
+<div class="mytab"><h4>Песков: Кремль не исключают встречу Путина и Ван И в Москве</h4>
+</div>
+</a>
+</div>
+<div>
+<a href="https://www.osnmedia.ru/politika/v-kremle-rasskazali-o-planah-putina-na-ponedelnik/" data-wpel-link="internal">
+<figure><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjQAAAFIAQAAAABv+FmJAAAAAnRSTlMAAHaTzTgAAAAuSURBVHja7cExAQAAAMKg9U9tDQ+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAXA1xAAAHMU84+AAAAAElFTkSuQmCC" data-src="https://www.osnmedia.ru/wp-content/uploads/2022/12/Putin-5-564x328.jpg" loading="lazy" class="lazyload"><noscript><img src="https://www.osnmedia.ru/wp-content/uploads/2022/12/Putin-5-564x328.jpg" data-eio="l"></noscript></figure>
+<div class="mytab"><h4>В Кремле рассказали о планах Путина на понедельник</h4>
+</div>
+</a>
+</div>
+</div>
+<h2 class="new-headline-red">
+<a href="https://www.osnmedia.ru/category/ekonomika/" data-wpel-link="internal">
+Экономика </a>
+</h2>
+<div class="trippleGrid">
+<div>
+<a href="https://www.osnmedia.ru/ekonomika/poroshenko-predlozhil-perekryt-vetku-nefteprovoda-druzhba/" data-wpel-link="internal">
+<figure><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjQAAAFIAQAAAABv+FmJAAAAAnRSTlMAAHaTzTgAAAAuSURBVHja7cExAQAAAMKg9U9tDQ+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAXA1xAAAHMU84+AAAAAElFTkSuQmCC" data-src="https://www.osnmedia.ru/wp-content/uploads/2022/06/samye-bogatye-strany6-564x328.jpg" loading="lazy" class="lazyload"><noscript><img src="https://www.osnmedia.ru/wp-content/uploads/2022/06/samye-bogatye-strany6-564x328.jpg" data-eio="l"></noscript></figure>
+<div class="mytab"><h4>Порошенко предложил перекрыть ветку нефтепровода «Дружба»</h4>
+</div>
+</a>
+</div>
+<div>
+<a href="https://www.osnmedia.ru/ekonomika/titov-predprinimateli-ozhidayut-ot-poslaniya-putina-obyavleniya-kursa-na-svobodu-biznesa/" data-wpel-link="internal">
+<figure><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjQAAAFIAQAAAABv+FmJAAAAAnRSTlMAAHaTzTgAAAAuSURBVHja7cExAQAAAMKg9U9tDQ+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAXA1xAAAHMU84+AAAAAElFTkSuQmCC" data-src="https://www.osnmedia.ru/wp-content/uploads/2021/12/720x527_uploads_2019_11_obshhestvo-Hq9GT1n7GO-vm2tN5WlejlYtBPhpRDvG_boris-titov-w0uY_uZEezb-bGTuII2bryJB90tHuVVp-564x328.jpg" loading="lazy" class="lazyload"><noscript><img src="https://www.osnmedia.ru/wp-content/uploads/2021/12/720x527_uploads_2019_11_obshhestvo-Hq9GT1n7GO-vm2tN5WlejlYtBPhpRDvG_boris-titov-w0uY_uZEezb-bGTuII2bryJB90tHuVVp-564x328.jpg" data-eio="l"></noscript></figure>
+<div class="mytab"><h4>Титов: предприниматели ожидают от послания Путина объявления курса на свободу бизнеса</h4>
+</div>
+</a>
+</div>
+<div>
+<a href="https://www.osnmedia.ru/ekonomika/predpriyatiya-osk-zayavili-o-defitsite-sredstv-na-postrojku-rybolovetskih-sudov/" data-wpel-link="internal">
+<figure><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjQAAAFIAQAAAABv+FmJAAAAAnRSTlMAAHaTzTgAAAAuSURBVHja7cExAQAAAMKg9U9tDQ+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAXA1xAAAHMU84+AAAAAElFTkSuQmCC" data-src="https://www.osnmedia.ru/wp-content/uploads/2023/02/00f17ea472c04290fc7fe1eded9fcb87-564x328.jpg" loading="lazy" class="lazyload"><noscript><img src="https://www.osnmedia.ru/wp-content/uploads/2023/02/00f17ea472c04290fc7fe1eded9fcb87-564x328.jpg" data-eio="l"></noscript></figure>
+<div class="mytab"><h4>Предприятия ОСК заявили о дефиците средств на постройку рыболовецких судов</h4>
+</div>
+</a>
+</div>
+<div>
+<a href="https://www.osnmedia.ru/ekonomika/kommersant-rossijskie-vlasti-otkazalis-ogranichivat-tseny-na-vazhnye-produkty/" data-wpel-link="internal">
+<figure><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA7oAAALHAQAAAACItANrAAAAAnRSTlMAAHaTzTgAAABqSURBVHja7cExAQAAAMKg9U9tDB+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4GFAeAAEVxazkAAAAAElFTkSuQmCC" data-src="https://www.osnmedia.ru/wp-content/uploads/2022/08/magazin-produkty-supermarket-unsplash.com-Dennis-Siqueira.jpg" loading="lazy" class="lazyload"><noscript><img src="https://www.osnmedia.ru/wp-content/uploads/2022/08/magazin-produkty-supermarket-unsplash.com-Dennis-Siqueira.jpg" data-eio="l"></noscript></figure>
+<div class="mytab"><h4>«Коммерсант»: Российские власти отказались ограничивать цены на важные продукты</h4>
+</div>
+</a>
+</div>
+<div>
+<a href="https://www.osnmedia.ru/ekonomika/ria-novosti-saudity-sdali-kitaj-rossii/" data-wpel-link="internal">
+<figure><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjQAAAFIAQAAAABv+FmJAAAAAnRSTlMAAHaTzTgAAAAuSURBVHja7cExAQAAAMKg9U9tDQ+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAXA1xAAAHMU84+AAAAAElFTkSuQmCC" data-src="https://www.osnmedia.ru/wp-content/uploads/2022/09/4fae0184-92ec-40c7-8235-b828c40624e5-564x328.jpeg" loading="lazy" class="lazyload"><noscript><img src="https://www.osnmedia.ru/wp-content/uploads/2022/09/4fae0184-92ec-40c7-8235-b828c40624e5-564x328.jpeg" data-eio="l"></noscript></figure>
+<div class="mytab"><h4>РИА Новости: Саудиты сдали Китай России</h4>
+</div>
+</a>
+</div>
+
+<div>
+<a href="https://www.osnmedia.ru/ekonomika/rbk-vlasti-obsuzhdayut-razovyj-sbor-s-kompanij-s-pribylyu-vyshe-milliarda/" data-wpel-link="internal">
+<figure><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjQAAAFIAQAAAABv+FmJAAAAAnRSTlMAAHaTzTgAAAAuSURBVHja7cExAQAAAMKg9U9tDQ+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAXA1xAAAHMU84+AAAAAElFTkSuQmCC" data-src="https://www.osnmedia.ru/wp-content/uploads/2023/02/viplat-564x328.jpg" loading="lazy" class="lazyload"><noscript><img src="https://www.osnmedia.ru/wp-content/uploads/2023/02/viplat-564x328.jpg" data-eio="l"></noscript></figure>
+<div class="mytab"><h4>РБК: Власти обсуждают разовый сбор с компаний с прибылью выше миллиарда</h4>
+</div>
+</a>
+</div>
+</div>
+<h2 class="new-headline-red">
+<a href="https://www.osnmedia.ru/category/world/" data-wpel-link="internal">
+В мире </a>
+</h2>
+<div class="trippleGrid">
+<div>
+<a href="https://www.osnmedia.ru/world/zelenskij-vyrazil-svoj-vostorg-ot-priezda-bajdena-v-kiev/" data-wpel-link="internal">
+<figure><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjQAAAFIAQAAAABv+FmJAAAAAnRSTlMAAHaTzTgAAAAuSURBVHja7cExAQAAAMKg9U9tDQ+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAXA1xAAAHMU84+AAAAAElFTkSuQmCC" data-src="https://www.osnmedia.ru/wp-content/uploads/2022/12/51729272694_3b86053032_k-1-564x328.jpg" loading="lazy" class="lazyload"><noscript><img src="https://www.osnmedia.ru/wp-content/uploads/2022/12/51729272694_3b86053032_k-1-564x328.jpg" data-eio="l"></noscript></figure>
+<div class="mytab"><h4>Зеленский выразил свой восторг от приезда Байдена в Киев</h4>
+</div>
+</a>
+</div>
+<div>
+<a href="https://www.osnmedia.ru/world/istorik-podberezkin-sprognoziroval-porazhenie-vsu-v-kontse-marta/" data-wpel-link="internal">
+<figure><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjQAAAFIAQAAAABv+FmJAAAAAnRSTlMAAHaTzTgAAAAuSURBVHja7cExAQAAAMKg9U9tDQ+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAXA1xAAAHMU84+AAAAAElFTkSuQmCC" data-src="https://www.osnmedia.ru/wp-content/uploads/2023/02/31073140938_1545c5f4ca_b-1-1-564x328.jpg" loading="lazy" class="lazyload"><noscript><img src="https://www.osnmedia.ru/wp-content/uploads/2023/02/31073140938_1545c5f4ca_b-1-1-564x328.jpg" data-eio="l"></noscript></figure>
+<div class="mytab"><h4>Историк Подберезкин спрогнозировал поражение ВСУ в конце марта</h4>
+</div>
+</a>
+</div>
+<div>
+<a href="https://www.osnmedia.ru/world/v-kieve-obyavili-vozdushnuyu-trevogu-na-fone-vizita-bajdena/" data-wpel-link="internal">
+<figure><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjQAAAFIAQAAAABv+FmJAAAAAnRSTlMAAHaTzTgAAAAuSURBVHja7cExAQAAAMKg9U9tDQ+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAXA1xAAAHMU84+AAAAAElFTkSuQmCC" data-src="https://www.osnmedia.ru/wp-content/uploads/2023/01/52272728303_3371ef96db_k-1-564x328.jpg" loading="lazy" class="lazyload"><noscript><img src="https://www.osnmedia.ru/wp-content/uploads/2023/01/52272728303_3371ef96db_k-1-564x328.jpg" data-eio="l"></noscript></figure>
+<div class="mytab"><h4>В Киеве объявили воздушную тревогу на фоне визита Байдена</h4>
+</div>
+</a>
+</div>
+<div>
+<a href="https://www.osnmedia.ru/world/mid-knr-potreboval-ot-ssha-ostanovit-lozh-o-postavkah-kitajskogo-oruzhiya-v-rossiyu/" data-wpel-link="internal">
+<figure><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjQAAAFIAQAAAABv+FmJAAAAAnRSTlMAAHaTzTgAAAAuSURBVHja7cExAQAAAMKg9U9tDQ+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAXA1xAAAHMU84+AAAAAElFTkSuQmCC" data-src="https://www.osnmedia.ru/wp-content/uploads/2023/02/3ca2c551bb764cb6fa0303ec2be4472e-564x328.jpg" loading="lazy" class="lazyload"><noscript><img src="https://www.osnmedia.ru/wp-content/uploads/2023/02/3ca2c551bb764cb6fa0303ec2be4472e-564x328.jpg" data-eio="l"></noscript></figure>
+<div class="mytab"><h4>МИД КНР потребовал от США остановить ложь о поставках китайского оружия в Россию</h4>
+</div>
+</a>
+</div>
+<div>
+<a href="https://www.osnmedia.ru/world/v-godovshhinu-s-nachala-konflikta-v-tsveta-flaga-ukrainy-podsvetyat-ejfelevu-bashnyu/" data-wpel-link="internal">
+<figure><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjQAAAFIAQAAAABv+FmJAAAAAnRSTlMAAHaTzTgAAAAuSURBVHja7cExAQAAAMKg9U9tDQ+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAXA1xAAAHMU84+AAAAAElFTkSuQmCC" data-src="https://www.osnmedia.ru/wp-content/uploads/2023/01/37495732691_1a6d444e9a_c-1-564x328.jpg" loading="lazy" class="lazyload"><noscript><img src="https://www.osnmedia.ru/wp-content/uploads/2023/01/37495732691_1a6d444e9a_c-1-564x328.jpg" data-eio="l"></noscript></figure>
+<div class="mytab"><h4>В годовщину с начала конфликта в цвета флага Украины подсветят Эйфелеву башню</h4>
+</div>
+</a>
+</div>
+<div>
+<a href="https://www.osnmedia.ru/world/ukrainskij-aviaekspert-krivolap-zayavil-chto-vs-rf-mogut-primenit-dirizhabli-kamikadze/" data-wpel-link="internal">
+<figure><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjQAAAFIAQAAAABv+FmJAAAAAnRSTlMAAHaTzTgAAAAuSURBVHja7cExAQAAAMKg9U9tDQ+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAXA1xAAAHMU84+AAAAAElFTkSuQmCC" data-src="https://www.osnmedia.ru/wp-content/uploads/2023/02/michael-kucharski-yvZSBCjOYug-unsplash-1-564x328.jpg" loading="lazy" class="lazyload"><noscript><img src="https://www.osnmedia.ru/wp-content/uploads/2023/02/michael-kucharski-yvZSBCjOYug-unsplash-1-564x328.jpg" data-eio="l"></noscript></figure>
+<div class="mytab"><h4>Украинский авиаэксперт Криволап заявил, что ВС РФ могут применить дирижабли-камикадзе</h4>
+</div>
+</a>
+</div>
+</div>
+<h2 class="new-headline-red">
+<a href="https://www.osnmedia.ru/category/proisshestviya/" data-wpel-link="internal">
+Происшествия </a>
+</h2>
+<div class="trippleGrid">
+<div>
+<a href="https://www.osnmedia.ru/proisshestviya/v-politsii-soobshhili-podrobnosti-o-popytke-rebenka-zarezat-ottsa-v-ufe/" data-wpel-link="internal">
+<figure><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjQAAAFIAQAAAABv+FmJAAAAAnRSTlMAAHaTzTgAAAAuSURBVHja7cExAQAAAMKg9U9tDQ+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAXA1xAAAHMU84+AAAAAElFTkSuQmCC" data-src="https://www.osnmedia.ru/wp-content/uploads/2021/09/Kuhonnyj-nozh-564x328.jpg" loading="lazy" class="lazyload"><noscript><img src="https://www.osnmedia.ru/wp-content/uploads/2021/09/Kuhonnyj-nozh-564x328.jpg" data-eio="l"></noscript></figure>
+<div class="mytab"><h4>В полиции сообщили подробности о попытке ребенка зарезать отца в Уфе</h4>
+</div>
+</a>
+</div>
+<div>
+<a href="https://www.osnmedia.ru/proisshestviya/bastrykin-zainteresovalsya-lozhnymi-obvineniyami-nizhegorodtsa-v-pedofilii/" data-wpel-link="internal">
+<figure><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjQAAAFIAQAAAABv+FmJAAAAAnRSTlMAAHaTzTgAAAAuSURBVHja7cExAQAAAMKg9U9tDQ+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAXA1xAAAHMU84+AAAAAElFTkSuQmCC" data-src="https://www.osnmedia.ru/wp-content/uploads/2023/02/Bastrykin-564x328.jpeg" loading="lazy" class="lazyload"><noscript><img src="https://www.osnmedia.ru/wp-content/uploads/2023/02/Bastrykin-564x328.jpeg" data-eio="l"></noscript></figure>
+<div class="mytab"><h4>Бастрыкин заинтересовался ложными обвинениями нижегородца в педофилии</h4>
+</div>
+</a>
+</div>
+<div>
+<a href="https://www.osnmedia.ru/proisshestviya/studentka-iz-omska-otdala-moshennikam-pochti-300-tysyach-rublej/" data-wpel-link="internal">
+<figure><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjQAAAFIAQAAAABv+FmJAAAAAnRSTlMAAHaTzTgAAAAuSURBVHja7cExAQAAAMKg9U9tDQ+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAXA1xAAAHMU84+AAAAAElFTkSuQmCC" data-src="https://www.osnmedia.ru/wp-content/uploads/2022/12/threatening_dark_gloomy_back-564x328.jpg" loading="lazy" class="lazyload"><noscript><img src="https://www.osnmedia.ru/wp-content/uploads/2022/12/threatening_dark_gloomy_back-564x328.jpg" data-eio="l"></noscript></figure>
+<div class="mytab"><h4>Студентка из Омска отдала мошенникам почти 300 тысяч рублей</h4>
+</div>
+</a>
+</div>
+<div>
+<a href="https://www.osnmedia.ru/proisshestviya/dva-cheloveka-pogibli-v-dtp-v-nizhegorodskoj-oblasti/" data-wpel-link="internal">
+<figure><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjQAAAFIAQAAAABv+FmJAAAAAnRSTlMAAHaTzTgAAAAuSURBVHja7cExAQAAAMKg9U9tDQ+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAXA1xAAAHMU84+AAAAAElFTkSuQmCC" data-src="https://www.osnmedia.ru/wp-content/uploads/2023/02/Znak-DTP-1-564x328.jpeg" loading="lazy" class="lazyload"><noscript><img src="https://www.osnmedia.ru/wp-content/uploads/2023/02/Znak-DTP-1-564x328.jpeg" data-eio="l"></noscript></figure>
+<div class="mytab"><h4>Два человека погибли в ДТП в Нижегородской области</h4>
+</div>
+</a>
+</div>
+<div>
+<a href="https://www.osnmedia.ru/proisshestviya/zhitel-novogo-urengoya-ustroil-debosh-na-aviarejse-iz-peterburga/" data-wpel-link="internal">
+<figure><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjQAAAFIAQAAAABv+FmJAAAAAnRSTlMAAHaTzTgAAAAuSURBVHja7cExAQAAAMKg9U9tDQ+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAXA1xAAAHMU84+AAAAAElFTkSuQmCC" data-src="https://www.osnmedia.ru/wp-content/uploads/2022/05/single-earth-s_JJxpm-lPI-unsplash-1-564x328.jpg" loading="lazy" class="lazyload"><noscript><img src="https://www.osnmedia.ru/wp-content/uploads/2022/05/single-earth-s_JJxpm-lPI-unsplash-1-564x328.jpg" data-eio="l"></noscript></figure>
+<div class="mytab"><h4>Житель Нового Уренгоя устроил дебош на авиарейсе из Петербурга</h4>
+</div>
+</a>
+</div>
+<div>
+<a href="https://www.osnmedia.ru/proisshestviya/starovojt-zayavil-o-prodolzhayushhihsya-udarov-vsu-po-kurskoj-oblasti/" data-wpel-link="internal">
+<figure><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjQAAAFIAQAAAABv+FmJAAAAAnRSTlMAAHaTzTgAAAAuSURBVHja7cExAQAAAMKg9U9tDQ+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAXA1xAAAHMU84+AAAAAElFTkSuQmCC" data-src="https://www.osnmedia.ru/wp-content/uploads/2023/02/photo_2023-02-08_09-45-44-2-564x328.jpg" loading="lazy" class="lazyload"><noscript><img src="https://www.osnmedia.ru/wp-content/uploads/2023/02/photo_2023-02-08_09-45-44-2-564x328.jpg" data-eio="l"></noscript></figure>
+<div class="mytab"><h4>Старовойт заявил о продолжающихся ударов ВСУ по Курской области</h4>
+</div>
+</a>
+</div>
+</div>
+<h2 class="new-headline-red">
+<a href="https://www.osnmedia.ru/category/sport/" data-wpel-link="internal">
+Спорт </a>
+</h2>
+<div class="trippleGrid">
+<div>
+<a href="https://www.osnmedia.ru/sport/shvejtsartsy-izvinilis-posle-izbieniya-rossijskogo-bolelshhika-iz-za-russkoj-rechi/" data-wpel-link="internal">
+<figure><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjQAAAFIAQAAAABv+FmJAAAAAnRSTlMAAHaTzTgAAAAuSURBVHja7cExAQAAAMKg9U9tDQ+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAXA1xAAAHMU84+AAAAAElFTkSuQmCC" data-src="https://www.osnmedia.ru/wp-content/uploads/2023/02/Bazel-1-564x328.jpg" loading="lazy" class="lazyload"><noscript><img src="https://www.osnmedia.ru/wp-content/uploads/2023/02/Bazel-1-564x328.jpg" data-eio="l"></noscript></figure>
+<div class="mytab"><h4>Швейцарцы извинились после избиения российского болельщика из-за русской речи</h4>
+</div>
+</a>
+</div>
+<div>
+<a href="https://www.osnmedia.ru/sport/v-bazele-obyasnili-reaktsiyu-fanatov-na-syna-press-attashe-tulskogo-arsenala/" data-wpel-link="internal">
+<figure><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjQAAAFIAQAAAABv+FmJAAAAAnRSTlMAAHaTzTgAAAAuSURBVHja7cExAQAAAMKg9U9tDQ+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAXA1xAAAHMU84+AAAAAElFTkSuQmCC" data-src="https://www.osnmedia.ru/wp-content/uploads/2023/02/bazel-564x328.jpg" loading="lazy" class="lazyload"><noscript><img src="https://www.osnmedia.ru/wp-content/uploads/2023/02/bazel-564x328.jpg" data-eio="l"></noscript></figure>
+ <div class="mytab"><h4>В «Базеле» объяснили реакцию фанатов на сына пресс-атташе тульского «Арсенала»</h4>
+</div>
+</a>
+</div>
+<div>
+<a href="https://www.osnmedia.ru/sport/zhurova-prizvala-razobratsya-s-izbieniem-syna-press-attashe-tulskogo-arsenala-v-bazele/" data-wpel-link="internal">
+<figure><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjQAAAFIAQAAAABv+FmJAAAAAnRSTlMAAHaTzTgAAAAuSURBVHja7cExAQAAAMKg9U9tDQ+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAXA1xAAAHMU84+AAAAAElFTkSuQmCC" data-src="https://www.osnmedia.ru/wp-content/uploads/2023/02/md-mahdi-lQpFRPrepQ8-unsplash-1-1-564x328.jpg" loading="lazy" class="lazyload"><noscript><img src="https://www.osnmedia.ru/wp-content/uploads/2023/02/md-mahdi-lQpFRPrepQ8-unsplash-1-1-564x328.jpg" data-eio="l"></noscript></figure>
+<div class="mytab"><h4>Журова призвала разобраться с избиением сына пресс-атташе тульского «Арсенала» в Базеле</h4>
+</div>
+</a>
+</div>
+<div>
+<a href="https://www.osnmedia.ru/sport/chempion-ufc-sterling-rasskazal-pochemu-ego-razdrazhayut-fanaty-s-kavkaza/" data-wpel-link="internal">
+<figure><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjQAAAFIAQAAAABv+FmJAAAAAnRSTlMAAHaTzTgAAAAuSURBVHja7cExAQAAAMKg9U9tDQ+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAXA1xAAAHMU84+AAAAAElFTkSuQmCC" data-src="https://www.osnmedia.ru/wp-content/uploads/2023/02/imgonline-com-ua-Resize-Rh5dChcinNy9rgs-1-564x328.jpg" loading="lazy" class="lazyload"><noscript><img src="https://www.osnmedia.ru/wp-content/uploads/2023/02/imgonline-com-ua-Resize-Rh5dChcinNy9rgs-1-564x328.jpg" data-eio="l"></noscript></figure>
+<div class="mytab"><h4>Чемпион UFC Стерлинг рассказал, почему его раздражают фанаты с Кавказа</h4>
+</div>
+</a>
+</div>
+<div>
+<a href="https://www.osnmedia.ru/sport/guberniev-podderzhal-ideyu-o-vozvrashhenii-rossijskih-sportsmenov-na-olimpiadu-bez-flaga-i-gimna/" data-wpel-link="internal">
+<figure><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjQAAAFIAQAAAABv+FmJAAAAAnRSTlMAAHaTzTgAAAAuSURBVHja7cExAQAAAMKg9U9tDQ+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAXA1xAAAHMU84+AAAAAElFTkSuQmCC" data-src="https://www.osnmedia.ru/wp-content/uploads/2022/02/Guberniev-1-564x328.jpg" loading="lazy" class="lazyload"><noscript><img src="https://www.osnmedia.ru/wp-content/uploads/2022/02/Guberniev-1-564x328.jpg" data-eio="l"></noscript></figure>
+<div class="mytab"><h4>Губерниев поддержал идею о возвращении российских спортсменов на Олимпиаду без флага и гимна</h4>
+</div>
+</a>
+</div>
+<div>
+<a href="https://www.osnmedia.ru/sport/syna-sotrudnika-tulskogo-arsenala-izbili-v-shvejtsarii-za-russkuyu-rech/" data-wpel-link="internal">
+<figure><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjQAAAFIAQAAAABv+FmJAAAAAnRSTlMAAHaTzTgAAAAuSURBVHja7cExAQAAAMKg9U9tDQ+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAXA1xAAAHMU84+AAAAAElFTkSuQmCC" data-src="https://www.osnmedia.ru/wp-content/uploads/2022/08/dan-burton-nRW4I8kuyd8-unsplash-1-564x328.jpg" loading="lazy" class="lazyload"><noscript><img src="https://www.osnmedia.ru/wp-content/uploads/2022/08/dan-burton-nRW4I8kuyd8-unsplash-1-564x328.jpg" data-eio="l"></noscript></figure>
+<div class="mytab"><h4>Сына сотрудника тульского «Арсенала» избили в Швейцарии за русскую речь</h4>
+</div>
+</a>
+</div>
+</div>
+<h2 class="new-headline-red">
+<a href="https://www.osnmedia.ru/category/kultura/" data-wpel-link="internal">
+Культура </a>
+</h2>
+<div class="trippleGrid">
+<div>
+<a href="https://www.osnmedia.ru/kultura/kontserty-gruppy-mumij-troll-otmeneny-vo-vseh-gorodah-rossii/" data-wpel-link="internal">
+<figure><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjQAAAFIAQAAAABv+FmJAAAAAnRSTlMAAHaTzTgAAAAuSURBVHja7cExAQAAAMKg9U9tDQ+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAXA1xAAAHMU84+AAAAAElFTkSuQmCC" data-src="https://www.osnmedia.ru/wp-content/uploads/2020/10/Lagutenko-iz-Mumij-Trollya-564x328.jpg" loading="lazy" class="lazyload"><noscript><img src="https://www.osnmedia.ru/wp-content/uploads/2020/10/Lagutenko-iz-Mumij-Trollya-564x328.jpg" data-eio="l"></noscript></figure>
+<div class="mytab"><h4>Концерты группы «Мумий Тролль» отменены во всех городах России</h4>
+</div>
+</a>
+</div>
+<div>
+<a href="https://www.osnmedia.ru/kultura/inna-vyhodtseva-priznalas-chto-sama-reshila-zhit-v-dome-prestarelyh/" data-wpel-link="internal">
+<figure><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjQAAAFIAQAAAABv+FmJAAAAAnRSTlMAAHaTzTgAAAAuSURBVHja7cExAQAAAMKg9U9tDQ+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAXA1xAAAHMU84+AAAAAElFTkSuQmCC" data-src="https://www.osnmedia.ru/wp-content/uploads/2022/10/inna-vyhodceva102803-564x328.jpg" loading="lazy" class="lazyload"><noscript><img src="https://www.osnmedia.ru/wp-content/uploads/2022/10/inna-vyhodceva102803-564x328.jpg" data-eio="l"></noscript></figure>
+<div class="mytab"><h4>Инна Выходцева призналась, что сама решила жить в доме престарелых</h4>
+</div>
+</a>
+</div>
+<div>
+<a href="https://www.osnmedia.ru/kultura/gruppa-ddt-vypustila-antivoennyj-klip-o-sudbe-rossii-i-spetsoperatsii/" data-wpel-link="internal">
+<figure><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjQAAAFIAQAAAABv+FmJAAAAAnRSTlMAAHaTzTgAAAAuSURBVHja7cExAQAAAMKg9U9tDQ+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAXA1xAAAHMU84+AAAAAElFTkSuQmCC" data-src="https://www.osnmedia.ru/wp-content/uploads/2022/12/8387790219_15290b705b_c-564x328.jpg" loading="lazy" class="lazyload"><noscript><img src="https://www.osnmedia.ru/wp-content/uploads/2022/12/8387790219_15290b705b_c-564x328.jpg" data-eio="l"></noscript></figure>
+<div class="mytab"><h4>Группа ДДТ выпустила антивоенный клип о судьбе России и спецоперации</h4>
+</div>
+</a>
+</div>
+<div>
+<a href="https://www.osnmedia.ru/kultura/renata-litvinova-spustya-god-vernulas-v-rossiyu/" data-wpel-link="internal">
+ <figure><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjQAAAFIAQAAAABv+FmJAAAAAnRSTlMAAHaTzTgAAAAuSURBVHja7cExAQAAAMKg9U9tDQ+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAXA1xAAAHMU84+AAAAAElFTkSuQmCC" data-src="https://www.osnmedia.ru/wp-content/uploads/2022/04/photo_2022-04-04_13-04-47-564x328.jpg" loading="lazy" class="lazyload"><noscript><img src="https://www.osnmedia.ru/wp-content/uploads/2022/04/photo_2022-04-04_13-04-47-564x328.jpg" data-eio="l"></noscript></figure>
+<div class="mytab"><h4>Рената Литвинова спустя год вернулась в Россию</h4>
+</div>
+</a>
+</div>
+<div>
+<a href="https://www.osnmedia.ru/kultura/kadyrov-porazil-reznika-svoim-poeticheskim-darom/" data-wpel-link="internal">
+<figure><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjQAAAFIAQAAAABv+FmJAAAAAnRSTlMAAHaTzTgAAAAuSURBVHja7cExAQAAAMKg9U9tDQ+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAXA1xAAAHMU84+AAAAAElFTkSuQmCC" data-src="https://www.osnmedia.ru/wp-content/uploads/2022/08/Kadyrov-564x328.jpg" loading="lazy" class="lazyload"><noscript><img src="https://www.osnmedia.ru/wp-content/uploads/2022/08/Kadyrov-564x328.jpg" data-eio="l"></noscript></figure>
+<div class="mytab"><h4>Кадыров поразил Резника своим поэтическим даром</h4>
+</div>
+</a>
+</div>
+<div>
+<a href="https://www.osnmedia.ru/obshhestvo/ne-tolko-artemovsk-sivkov-raskryl-na-kakom-napravlenii-ozhidaetsya-begstvo-soldat-vsu/" data-wpel-link="internal">
+<figure><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjQAAAFIAQAAAABv+FmJAAAAAnRSTlMAAHaTzTgAAAAuSURBVHja7cExAQAAAMKg9U9tDQ+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAXA1xAAAHMU84+AAAAAElFTkSuQmCC" data-src="https://www.osnmedia.ru/wp-content/uploads/2023/01/Artemovsk-udary-564x328.jpg" loading="lazy" class="lazyload"><noscript><img src="https://www.osnmedia.ru/wp-content/uploads/2023/01/Artemovsk-udary-564x328.jpg" data-eio="l"></noscript></figure>
+<div class="mytab"><h4>Не только Артемовск: Сивков раскрыл, на каком направлении ожидается бегство солдат ВСУ</h4>
+</div>
+</a>
+</div>
+</div>
+</main>
+</div>
+</div>
+</div>
+
+<footer>
+<div class="container">
+<div class="menu-bottom-container"><ul id="menu-bottom" class="menu"><li id="menu-item-308826" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-308826"><a href="https://www.osnmedia.ru/category/politika/" data-wpel-link="internal">Политика</a></li>
+<li id="menu-item-308827" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-308827"><a href="https://www.osnmedia.ru/category/obshhestvo/" data-wpel-link="internal">Общество</a></li>
+<li id="menu-item-308828" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-308828"><a href="https://www.osnmedia.ru/category/ekonomika/" data-wpel-link="internal">Экономика</a></li>
+<li id="menu-item-308829" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-308829"><a href="https://www.osnmedia.ru/category/proisshestviya/" data-wpel-link="internal">Происшествия</a></li>
+<li id="menu-item-308830" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-308830"><a href="https://www.osnmedia.ru/category/world/" data-wpel-link="internal">В мире</a></li>
+<li id="menu-item-962414" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-962414"><a href="https://www.osnmedia.ru/category/exclusive/" data-wpel-link="internal">Эксклюзив</a></li>
+<li id="menu-item-308831" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-308831"><a href="https://www.osnmedia.ru/category/opinions/" data-wpel-link="internal">Мнения</a></li>
+<li id="menu-item-308832" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-308832"><a href="https://www.osnmedia.ru/category/sport/" data-wpel-link="internal">Спорт</a></li>
+<li id="menu-item-308833" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-308833"><a href="https://www.osnmedia.ru/category/kultura/" data-wpel-link="internal">Культура</a></li>
+<li id="menu-item-308835" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-308835"><a href="https://www.osnmedia.ru/o-nas/" data-wpel-link="internal">О нас</a></li>
+<li id="menu-item-308836" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-308836"><a href="https://www.osnmedia.ru/press/" data-wpel-link="internal">Пресс-центр ОСН</a></li>
+<li id="menu-item-308837" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-308837"><a href="https://www.osnmedia.ru/tv/" data-wpel-link="internal">ОСН ТВ</a></li>
+<li id="menu-item-308839" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-308839"><a href="https://www.osnmedia.ru/category/news-of-companies/" data-wpel-link="internal">Новости компаний</a></li>
+</ul></div>
+<style>
+</style>
+<div style=" /* color:rgba(255, 255, 255, 1); */ color: rgb(167, 167, 167); font-size:13px; line-height: 16px;display: /* grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); */">
+
+<style>
+@media (max-width: 979px){
+footer .logo-footer {
+	margin: 8px 15px 25px 4px !important;
+    width: 85px !important;
+    float: left;
+} }
+</style>
+<div class="footer-box1">
+<div style="margin-bottom: 20px">
+<img class="logo-footer lazyload" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAqoAAAGQAQAAAABO93+RAAAAAnRSTlMAAHaTzTgAAAA4SURBVHja7cEBDQAAAMKg909tDwcUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/BuH8AABwIhh5QAAAABJRU5ErkJggg==" style="float:left;margin: 0px 20px 27px 0; height:50px; width: 85px !important; margin-top: 4px;" data-src="https://www.osnmedia.ru/wp-content/uploads/2022/10/logoWhite.png" loading="lazy"><noscript><img class="logo-footer" src="https://www.osnmedia.ru/wp-content/uploads/2022/10/logoWhite.png" style="float:left;margin: 0px 20px 27px 0; height:50px; width: 85px !important; margin-top: 4px;" data-eio="l"></noscript>
+<div style="padding: 0px 0px; line-height: 20px;">
+© 2023<br>
+Все права защищены
+</div>
+</div>
+<div style="clear:both;"></div>
+<div style="margin-bottom: 20px;">
+<div class="share-buttons share-transparent">
+<span style="font-size:13px;">&nbsp;&nbsp;Мы в соцсетях</span><br>
+
+<a href="https://ok.ru/group/59384385503283" data-wpel-link="exclude" rel="nofollow noopener noreferrer"><i class="fab fa-odnoklassniki"></i></a>
+<a href="https://vk.com/osnru" data-wpel-link="exclude" rel="nofollow noopener noreferrer"><i class="fab fa-vk"></i></a>
+
+<a href="https://www.tiktok.com/@osn.ru" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer"><i class="fab fa-tiktok"></i></a>
+<a href="https://www.youtube.com/@osnmediaru" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer"><i class="fab fa-youtube"></i></a>
+ <a href="https://t.me/osnmedia" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer"><i class="fab fa-telegram"></i></a>
+
+
+</div> </div>
+</div><div class="footer-box2">
+<p>Главный редактор: Сергей Сергеевич Касаткин<br>Шеф-редактор: Виталий Витальевич Рыжов. <br>Телефон редакции: +7 495 795-53-05<br>
+101000 г. Москва, Потаповский переулок, 16/5с1<br>E-mail: <a href="/cdn-cgi/l/email-protection#3e575058517e514d50535b5a575f104c4b"><span class="__cf_email__" data-cfemail="5831363e3718372b36353d3c3139762a2d">[email&#160;protected]</span></a> | <a href="https://www.osnmedia.ru/vakansii-osn/" data-wpel-link="internal">Вакансии</a></p>
+<p style="color: #fff;">Реклама, спецпроекты и иное сотрудничество на ОСН, osnmedia.ru, ОСН-ТВ и пресс-центре ОСН:<br><span style="color: #a7a7a7;">Email:</span> <a href="/cdn-cgi/l/email-protection#aec5cfdec5c1d8cfeec1ddc0c3cbcac7cf80dcdb"><span class="__cf_email__" data-cfemail="ef848e9f8480998eaf809c81828a8b868ec19d9a">[email&#160;protected]</span></a> <br>
+<span style="color: #a7a7a7;">Телефоны:</span> +7 495 004-56-11 , +7 903 777-11-14</p>
+<p>Свидетельство о регистрации СМИ (Информационное агентство "Общественная служба новостей") ЭЛ № ФС77-73623 выдано 14.09.2018 года выдано Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций (Роскомнадзор).<br>Мнение редакции может не совпадать с мнением авторов.<br>Редакция поддерживает и разделяет политику вакцинации населения.
+
+<div class="footerKit" style="">Скачать презентацию: <a href="https://www.osnmedia.ru/wp-content/uploads/2022/11/presentation-OSN-2022.pdf" style="color: #fff !important; font-weight: 600;" data-wpel-link="internal">Медиа-кит</a></div><br>При перепечатке или цитировании материалов сайта Оsnmedia.ru ссылка на источник обязательна, при использовании в Интернет-изданиях и на сайтах обязательна прямая гиперссылка на сайт Оsnmedia.ru. </p>
+<p><a href="https://www.osnmedia.ru/polzovatelskoe-soglashenie/" data-wpel-link="internal">Пользовательское соглашение</a> и <a href="https://www.osnmedia.ru/politiki-osn/" data-wpel-link="internal">Политика ОСН</a></p>
+<div style="padding: 10px 4px;">
+<img src="data:image/png;base64,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" style="width: 34px;margin-right: 20px; height: 34px;" width="34" height="34">
+
+<a href="https://www.liveinternet.ru/click;osn_mediaholding" target="_blank" data-wpel-link="external" rel="nofollow external noopener noreferrer"><img id="licnt56C9" width="31" height="31" style="border:0" title="LiveInternet" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7" alt="" /></a><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>(function(d,s){d.getElementById("licnt56C9").src=
+"https://counter.yadro.ru/hit;osn_mediaholding?t40.6;r"+escape(d.referrer)+
+((typeof(s)=="undefined")?"":";s"+s.width+"*"+s.height+"*"+
+(s.colorDepth?s.colorDepth:s.pixelDepth))+";u"+escape(d.URL)+
+";h"+escape(d.title.substring(0,150))+";"+Math.random()})
+(document,screen)</script>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script type='text/javascript' id='eio-lazy-load-js-before'>
+var eio_lazy_vars = {"exactdn_domain":"","skip_autoscale":0,"threshold":0};
+</script>
+<script type='text/javascript' src='https://www.osnmedia.ru/wp-content/plugins/ewww-image-optimizer/includes/lazysizes.min.js' id='eio-lazy-load-js'></script>
+<script type='text/javascript' id='yith-infinitescroll-js-extra'>
+/* <![CDATA[ */
+var yith_infs_script = {"shop":"","block_loader":"https:\/\/www.osnmedia.ru\/wp-content\/plugins\/yith-infinite-scrolling-premium\/assets\/images\/block-loader.gif","change_url":"1","use_cache":"1","elem_height":null};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.osnmedia.ru/wp-content/plugins/yith-infinite-scrolling-premium/assets/js/yith.infinitescroll.min.js' id='yith-infinitescroll-js'></script>
+<script type='text/javascript' id='yith-infinitescroll-js-after'>
+jQuery(document).ready(function ($) { // Должна быть поддержка jQuery
+  let adfoxes = [];
+    jQuery(document).on("yith_infs_adding_elem", function () {
+            // Вот здесь код вставки баннера. 
+            ym(50344261, 'hit', window.location.href);
+            //ga('send', 'pageview', window.location.href);
+            gtag('event', 'page_view', {
+            page_title: document.querySelector("title").innerText,
+              //  page_location: window.location.href,
+        //  page_path: '<Page Path>'
+        	});
+                    
+        });
+  String.prototype.hashCode = function(){
+    var hash = 0;
+    for (var i = 0; i < this.length; i++) {
+        var character = this.charCodeAt(i);
+        hash = ((hash<<5)-hash)+character;
+        hash = hash & hash; // Convert to 32bit integer
+    }
+    return hash;
+}
+   		newFox = 'adfox_'+window.location.pathname.hashCode();
+ 		if(!adfoxes.indexOf(newFox))
+ 		{
+			adfoxes.push(newFox);
+            jQuery('.postContent').closest( ".adfox-box" ).append('<div id="'+newFox+'"></div>');
+	            window.yaContextCb.push(()=>{
+	                Ya.adfoxCode.create({
+	                    ownerId: 328919,
+	                    containerId: newFox,
+	                    params: {
+	                        pp: 'g',
+	                        ps: 'fdir',
+	                        p2: 'hiks'
+	                    }
+	                })
+	            })
+ 		}
+
+});
+</script>
+<script type='text/javascript' id='yith-infs-js-extra'>
+/* <![CDATA[ */
+var yith_infs_premium = {"options":{"Main":{"navSelector":".navo","nextSelector":".prevlink > a","itemSelector":".postContent","contentSelector":"main","eventType":"scroll","buttonLabel":"Load More","buttonClass":"","presetLoader":"https:\/\/www.osnmedia.ru\/wp-content\/plugins\/yith-infinite-scrolling-premium\/assets\/images\/loader.gif","customLoader":"","loadEffect":"yith-infs-zoomIn"}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.osnmedia.ru/wp-content/plugins/yith-infinite-scrolling-premium/assets/js/yith-infs.min.js' id='yith-infs-js'></script>
+<script type='text/javascript' id='heateor_sss_sharing_js-js-before'>
+function heateorSssLoadEvent(e) {var t=window.onload;if (typeof window.onload!="function") {window.onload=e}else{window.onload=function() {t();e()}}};	var heateorSssSharingAjaxUrl = 'https://www.osnmedia.ru/wp-admin/admin-ajax.php', heateorSssCloseIconPath = 'https://www.osnmedia.ru/wp-content/plugins/sassy-social-share/public/../images/close.png', heateorSssPluginIconPath = 'https://www.osnmedia.ru/wp-content/plugins/sassy-social-share/public/../images/logo.png', heateorSssHorizontalSharingCountEnable = 0, heateorSssVerticalSharingCountEnable = 0, heateorSssSharingOffset = 236; var heateorSssMobileStickySharingEnabled = 0;var heateorSssCopyLinkMessage = "Link copied.";var heateorSssUrlCountFetched = [], heateorSssSharesText = 'Поделились', heateorSssShareText = 'Поделиться';function heateorSssPopup(e) {window.open(e,"popUpWindow","height=400,width=600,left=400,top=100,resizable,scrollbars,toolbar=0,personalbar=0,menubar=no,location=no,directories=no,status")};var heateorSssWhatsappShareAPI = "api";
+</script>
+<script type='text/javascript' src='https://www.osnmedia.ru/wp-content/plugins/sassy-social-share/public/js/sassy-social-share-public.js' id='heateor_sss_sharing_js-js'></script>
+<script type='text/javascript' id='jquery-lazyloadxt-js-extra'>
+/* <![CDATA[ */
+var a3_lazyload_params = {"apply_images":"1","apply_videos":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.osnmedia.ru/wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.extra.min.js' id='jquery-lazyloadxt-js'></script>
+<script type='text/javascript' src='//www.osnmedia.ru/wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.srcset.min.js' id='jquery-lazyloadxt-srcset-js'></script>
+<script type='text/javascript' id='jquery-lazyloadxt-extend-js-extra'>
+/* <![CDATA[ */
+var a3_lazyload_extend_params = {"edgeY":"500","horizontal_container_classnames":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.osnmedia.ru/wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.extend.js' id='jquery-lazyloadxt-extend-js'></script>
+<script type='text/javascript' src='https://www.osnmedia.ru/wp-content/themes/osn/assets/js/jquery.cookie.js' id='jquery-cookie-js'></script>
+<script type='text/javascript' src='https://www.osnmedia.ru/wp-content/themes/osn/assets/js/jquery.liMarquee.js' id='marque-js'></script>
+<script type='text/javascript' src='https://www.osnmedia.ru/wp-content/themes/osn/assets/js/main.js' id='osn-main-js'></script>
+<script type='text/javascript' src='https://www.osnmedia.ru/wp-content/themes/osn/assets/js/fontawesome-free-5.15.4-web/js/all.min.js' id='fontawesome-js'></script>
+
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "3062446", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = "https://top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div>
+<img src="https://top-fwz1.mail.ru/counter?id=3062446;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru" />
+</div></noscript>
+
+
+
+<script>
+    (function (w, d, c) {
+    (w[c] = w[c] || []).push(function() {
+        var options = {
+            project: 7157823,
+        };
+        try {
+            w.top100Counter = new top100(options);
+        } catch(e) { }
+    });
+    var n = d.getElementsByTagName("script")[0],
+    s = d.createElement("script"),
+    f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src =
+    (d.location.protocol == "https:" ? "https:" : "http:") +
+    "//st.top100.ru/top100/top100.js";
+
+    if (w.opera == "[object Opera]") {
+    d.addEventListener("DOMContentLoaded", f, false);
+} else { f(); }
+})(window, document, "_top100q");
+</script>
+<noscript>
+  <img src="//counter.rambler.ru/top100.cnt?pid=7157823" alt="Топ-100" />
+</noscript>
+
+
+</body>
+</html>

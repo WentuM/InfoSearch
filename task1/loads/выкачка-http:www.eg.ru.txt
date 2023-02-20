@@ -1,0 +1,2557 @@
+<!DOCTYPE html>
+
+
+<html lang="ru">
+
+
+<head>
+    <!--script data-cfasync='false' data-mrf-script="garda" data-mrf-dt="1" data-mrf-host="bc.marfeelcache.com" src="https://bc.marfeelcache.com/statics/marfeel/gardac-sync.js"></script-->
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <!--meta name="google-site-verification" content="pxvM5FB6ZmYcvfXN33fSoXK_HeXDaMJUanZLUNF-IHQ"/-->
+    <meta name="google-site-verification" content="S5XiivW7HwD5PtPJUoe6m_ykAP4f7U1VfFKuRx3DqTI"/>
+
+    <meta name="yandex-verification" content="f4f63e6be7c4e2ac"/>
+    <meta name='wmail-verification' content='acbd43d8f6b41cb1336b834986984896'/>
+    <meta name="pmail-verification" content="001d2036723fb635aa5d46d50cfadcef">
+    <meta property="aio_appid" content="AIO_57B5B1AA4E01D">
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <!--base href="https://www.eg.ru/"-->
+
+    <link rel="icon" href="//s1.cdn.eg.ru/upimg/icon/favicon.png" sizes="64x64" type="image/png"/>
+    <link rel="apple-touch-icon" href="//s1.cdn.eg.ru/upimg/icon/apple-touch-icon.png"/>
+    <link rel="apple-touch-icon" sizes="57x57" href="//s2.cdn.eg.ru/upimg/icon/apple-touch-icon-57x57.png"/>
+    <link rel="apple-touch-icon" sizes="72x72" href="//s3.cdn.eg.ru/upimg/icon/apple-touch-icon-72x72.png"/>
+    <link rel="apple-touch-icon" sizes="76x76" href="//s4.cdn.eg.ru/upimg/icon/apple-touch-icon-76x76.png"/>
+    <link rel="apple-touch-icon" sizes="114x114" href="//s4.cdn.eg.ru/upimg/icon/apple-touch-icon-114x114.png"/>
+    <link rel="apple-touch-icon" sizes="120x120" href="//s6.cdn.eg.ru/upimg/icon/apple-touch-icon-120x120.png"/>
+    <link rel="apple-touch-icon" sizes="144x144" href="//s7.cdn.eg.ru/upimg/icon/apple-touch-icon-144x144.png"/>
+    <link rel="apple-touch-icon" sizes="152x152" href="//s8.cdn.eg.ru/upimg/icon/apple-touch-icon-152x152.png"/>
+    <link rel="apple-touch-icon" sizes="180x180" href="//s1.cdn.eg.ru/upimg/icon/apple-touch-icon-180x180.png"/>
+    <title>Экспресс газета &#8212; новости, эксклюзив, истории</title>
+    <meta name="description" content="Главные новости и события дня в России и мире, в обществе и государстве, в политике и деньгах. Эксклюзивы о жизни звезд и фото светской хроники. Ответы на вопросы на сайте Экспресс газеты">
+    <link rel='canonical' href='https://www.eg.ru/'/>
+
+    <link rel="stylesheet" href="/assets/css/main2020.css"/>
+
+
+
+    <!--link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css"
+          integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous"/-->
+    <!--link rel="stylesheet" href="/assets/css/assets/css/fontawesome.min.css"/-->
+    <!--link rel="stylesheet" href="/assets/css/assets/css/regular.min.css"/>
+    <link rel="stylesheet" href="/assets/css/assets/css/brands.min.css"/-->
+    <!--script data-cfasync='false' data-mrf-script="garda" data-mrf-dt="1" data-mrf-host="bc.marfeelcache.com" src="https://bc.marfeelcache.com/statics/marfeel/gardac-sync.js"></script-->
+
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js"
+            integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="/assets/js/jquery.cookie.js"></script>
+
+
+    <script type="text/javascript" src="/assets/js/create.scroll.js?v=1"></script>
+    <script src="https://yastatic.net/pcode/adfox/loader.js"></script>
+
+
+    
+
+    
+
+
+    <style>
+
+
+
+
+        .article_content iframe, .article_content object {
+            margin-bottom: 20px;
+            max-width: 100%;
+        }
+
+        .mobilenow {display: none;}
+
+
+
+
+        .desknow {display: block;}
+
+
+
+        @media screen and (max-width: 700px) {
+            .mobilenow {display: block;}
+
+
+
+            .desknow {display: none;}
+        }
+
+
+
+        #menu-item-857819 {
+            color: #ec1c24;
+        }
+
+
+
+        .znamya715012 {
+            padding-bottom: 0px !important;
+        }
+
+
+
+        .main2019_footer-tags-secondary-list .main2019_footer-tags-primary-link {
+            color: #222;
+            font-size: 11px;
+            font-weight: 400;
+            line-height: 1.63;
+            text-transform: initial;
+        }
+
+
+
+        .main2019_footer-tags-primary-link {
+            font-size: 13px;}
+
+
+
+        @media screen and (min-width: 768px) {
+            .main2019_vertical-news, .main2019_top-news-item {
+                overflow: hidden;
+                height: 353px;
+            }
+
+
+
+            .main2019_border-bottom-3, .main2019_border-bottom {
+                padding-bottom: 7px;
+            }
+
+
+
+            .noborder.main2019_border-bottom-3:after {
+                border: none !important;
+            }
+
+
+
+            .noborder.main2019_border-bottom-3 {
+                margin-bottom: -20px;
+            }
+        }
+
+
+
+        .alert {
+            padding: 0px;
+            color: black;
+            position: absolute;
+            left: 55%; top: -42px;
+            width: 290px;
+            z-index: 999;
+        }
+
+
+
+        .box {
+            display: none;
+        }
+
+
+
+        /* Крестик */
+        .closebtn {
+            margin-left: 15px;
+            color: #888888;
+            font-weight: bold;
+            float: right;
+            font-size: 26px;
+            line-height: 20px;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+
+
+
+        .closebtn:hover {
+            color: black;
+        }
+
+    </style>
+
+    <!--script async src="https://cdn.onthe.io/io.js/RxF5ySnJzjgH"></script>
+    <script>
+        window._io_config = window._io_config || {};
+        window._io_config["0.2.0"] = window._io_config["0.2.0"] || [];
+        window._io_config["0.2.0"].push({
+            page_url: "https://www.eg.ru/",
+            page_url_canonical: "https://www.eg.ru/",
+            page_title: 'Экспресс газета - новости, эксклюзив, истории',
+            page_type: "main",
+            page_language: "ru",
+            user_status: "user"
+
+        });
+    </script-->
+
+
+</head>
+
+<body>
+
+<!--AdFox START-->
+<!--https://eg.ru-->
+<!--Площадка: eg.ru / * / *-->
+<!--Тип баннера: brand_eg-->
+<!--Расположение: <верх страницы>-->
+<div id="adfox_163239936582813484" style="max-height: 120px;"></div>
+<script>
+    if (window.innerWidth >= 950) {
+        window.yaContextCb.push(() => {
+            Ya.adfoxCode.create({
+                ownerId: 280016,
+                containerId: 'adfox_163239936582813484',
+                params: {
+                    pp: 'g',
+                    ps: 'dbzr',
+                    p2: 'hizh',
+                    puid1: ''
+                }
+            })
+        })
+    }
+</script>
+
+<div id='header' style="display: none;">
+</div>
+
+<div class="site-wrapper">
+    <div class="mobile-menu_wrapper">
+        <div class="page-wrapper">
+                        <!-- реклама над шапкой -->
+            <div class="row">  </div>
+            <div class="row">      <div class='znamya416430 znamya znamya_all'><!--AdFox START-->
+<!--https://eg.ru-->
+<!--Площадка: eg.ru / * / *-->
+<!--Тип баннера: eg_bg-->
+<!--Расположение: <верх страницы>-->
+<div id="adfox_154903977529317052" ></div>
+<script>
+     if (window.innerWidth >= 800) {
+    window.Ya.adfoxCode.create({
+        ownerId: 280016,
+        containerId: 'adfox_154903977529317052',
+        params: {
+            pp: 'g',
+            ps: 'dbzr',
+            p2: 'gfib'
+        }
+    });
+     }
+</script></div   ><!--znamya416430-->
+
+</div>
+            <!-- шапка -->
+
+            
+<div class="row posstatic" >
+
+
+    <div class="site-header_all">
+        <div class="site-header idheader" >
+
+
+        </div>
+        <div class="site-nav_wrapper zin250" >
+            <div class="site-nav_inner bgclw" >
+
+                <a  href="/" class="desknow logg1" ><img width="196" src="/wp-content/uploads/2021/12/logo2022080517.png" class="log1" alt="logo"></a>
+
+                <a  href="/" class="mobilenow logg2" ><img width="196" src="/wp-content/uploads/2022/01/logomob103129.png" class="log2"  alt="logo"></a>
+
+                <div class="menu-mobile_item text-center mobilenow log3" >
+
+                    <a rel="noreferrer" target="_blank" href="https://ok.ru/egazeta"
+                       class="menu-mobile_soc-link"><i
+                                class="fab fa-odnoklassniki" aria-hidden="true"></i></a>
+
+
+                    <a rel="noreferrer" target="_blank" href="https://vk.com/egonline"
+                       class="menu-mobile_soc-link"><i
+                                class="fab fa-vk" aria-hidden="true"></i></a>
+                    <a rel="noreferrer" target="_blank" href="https://twitter.com/ExpressGazeta"
+                       class="menu-mobile_soc-link"><i
+                                class="fab fa-twitter" aria-hidden="true"></i></a>
+                    <a rel="noreferrer" target="_blank" href="https://www.youtube.com/channel/UCkr3EyngKYzpKb366cP9NNQ"
+                       class="menu-mobile_soc-link"><i
+                                class="fab fa-youtube" aria-hidden="true"></i></a>
+
+
+
+                </div>
+
+
+                <a class="menu-mobile_soc-link site-nav_hamburger mobilenow ham2"  ><i class="fa fa-bars" aria-hidden="true"></i></a>
+
+                <nav id="menu-main-wrapper" class="site-nav nav2" itemscope=""
+                     itemtype="http://schema.org/SiteNavigationElement">
+
+
+                    <ul id="menu-main_menu" class="site-nav_list">
+
+
+                        <li id="menu-item-675743" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-675743"><a  itemprop="url"  href="//www.eg.ru/news/">Новости</a></li>
+<li id="menu-item-2165602" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2165602"><a  itemprop="url"  href="/showbusiness/">ЗВЕЗДЫ</a></li>
+<li id="menu-item-2165642" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2165642"><a  itemprop="url"  href="/politics/">РЕЗОНАНС</a></li>
+<li id="menu-item-2165662" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2165662"><a  itemprop="url"  href="/nostalgia/">НОСТАЛЬГИЯ</a></li>
+<li id="menu-item-2165672" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2165672"><a  itemprop="url"  href="/society/">ОБЩЕСТВО</a></li>
+<li id="menu-item-2165692" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2165692"><a  itemprop="url"  href="/relax/">РЕЛАКС</a></li>
+
+
+
+                        
+
+                    </ul>
+                </nav>
+
+
+
+
+
+
+
+                <div class="site-nav_search-block">
+                    <form name="search" action="/gsearch/" method="get">
+
+                        <input type="hidden" name="utm" value="ya">
+                        <input type="hidden" name="web" value="0">
+                        <input type="hidden" name="searchid" value="2407943">
+                        <input autofocus  type="text" name="text" class="site-nav_search-text" id="searchtext"
+                               placeholder="поиск по сайту">
+                    </form>
+                </div>
+
+
+                <div class="site-header_socials social2" >
+
+                    <a class="site-header_social-btn site-nav_hamburger wi16"  ><i class="fa fa-bars" aria-hidden="true"></i></a>
+
+                    <a rel="noreferrer"  href="https://vk.com/egonline" class="site-header_social-btn" target="_blank"><i
+                                class="fab fa-vk"
+                                aria-hidden="true"></i></a>
+
+                   <a rel="noreferrer" href="https://ok.ru/egazeta" class="site-header_social-btn" target="_blank"><i
+                                class="fab fa-odnoklassniki"
+                                aria-hidden="true"></i></a>
+
+
+
+
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+    
+</div>
+
+<div class="site-header_fixed" >
+
+        <div class="menu-mobile mms" >
+            <div class="menu-mobile_header">
+
+                <div class="menu-mobile_close"><i class="fa fa-close closeclass" aria-hidden="true" >&#10006;</i></div>
+            </div>
+            <ul class="menu-mobile_list">
+
+                <li id="m-menu-item-675743" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-675743"><a    href="//www.eg.ru/news/">Новости</a></li>
+<li id="m-menu-item-2165602" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2165602"><a    href="/showbusiness/">ЗВЕЗДЫ</a></li>
+<li id="m-menu-item-2165642" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2165642"><a    href="/politics/">РЕЗОНАНС</a></li>
+<li id="m-menu-item-2165662" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2165662"><a    href="/nostalgia/">НОСТАЛЬГИЯ</a></li>
+<li id="m-menu-item-2165672" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2165672"><a    href="/society/">ОБЩЕСТВО</a></li>
+<li id="m-menu-item-2165692" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2165692"><a    href="/relax/">РЕЛАКС</a></li>
+
+
+
+
+
+                    <li id="m-menu-item-776844" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-776844"><a   href="/tags/people/">Персоны</a></li>
+<li id="m-menu-item-723010" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-723010"><a   href="//www.eg.ru/advert/">Реклама</a></li>
+<li id="m-menu-item-723011" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-723011"><a   href="//www.eg.ru/contacts/">Контакты</a></li>
+
+                    <li class="menu-mobile_item text-center">
+                        <div class="menu-mobile_soc-text"></div>
+                        <a rel="noreferrer" target="_blank" href="https://ok.ru/egazeta"
+                           class="menu-mobile_soc-link"><i
+                                    class="fab fa-odnoklassniki" aria-hidden="true"></i></a>
+
+
+                        <a rel="noreferrer" target="_blank" href="https://vk.com/egonline"
+                           class="menu-mobile_soc-link"><i
+                                    class="fab fa-vk" aria-hidden="true"></i></a>
+                        <a rel="noreferrer" target="_blank" href="https://twitter.com/ExpressGazeta"
+                           class="menu-mobile_soc-link"><i
+                                    class="fab fa-twitter" aria-hidden="true"></i></a>
+                        <a rel="noreferrer" target="_blank" href="https://www.youtube.com/channel/UCkr3EyngKYzpKb366cP9NNQ"
+                           class="menu-mobile_soc-link"><i
+                                    class="fab fa-youtube" aria-hidden="true"></i></a>
+
+
+
+                    </li>
+
+            </ul>
+        </div>
+        <div class="site-header_overlay"></div>
+
+</div>
+
+
+
+
+            <div class="main2019_top desknow">
+                <div class="row">
+                    <div class="large-6 medium-12 small-12 column">
+                        <div class="main2019_main-content">
+
+                            <div class="row medium-collapse small-collapse large-uncollapse">
+
+
+                                                                        
+
+                                            <div class="large-12 medium-12 small-12 column">
+                                                <div class="main2019_first-top-news-item">
+                                                    <a class="main2019_top-news-image-link"
+                                                       href="https://www.eg.ru/showbusiness/3018762-pochemu-kirkorov-razvelsya-s-pugachevoy/">
+
+                                                        <img width="780" height="585" src="/wp-content/uploads/2023/02/filipp-kirkorov-alla-pugacheva-i-maksim-galkin060558-780x585.jpg" class="main2019_top-news-image wp-post-image" alt="Дело не в Галкине: спустя 18 лет Киркоров раскрыл истинную причину развода с Пугачевой" loading="lazy" srcset="/wp-content/uploads/2023/02/filipp-kirkorov-alla-pugacheva-i-maksim-galkin060558-240x180.jpg 240w,/wp-content/uploads/2023/02/filipp-kirkorov-alla-pugacheva-i-maksim-galkin060558-512x384.jpg 510w,/wp-content/uploads/2023/02/filipp-kirkorov-alla-pugacheva-i-maksim-galkin060558-780x585.jpg 780w" />                                                    </a>
+                                                    <span class="main2019_first-top-news-title-wrapper"
+                                                          style="bottom: -27px;">
+
+
+                                                        
+        <style>.main2019_top-news-section3018762 {left: 0;}</style>
+
+                                                                <a class="main2019_first-top-news-section main2019_top-news-section3018762" href="/showbusiness/">ЗВЕЗДЫ</a>                            </span>
+                                                    
+
+                                                </div>
+                                                <a style="    margin-top: 23px;
+    margin-bottom: 12px;" class="main2019_first-top-news-title" href="https://www.eg.ru/showbusiness/3018762-pochemu-kirkorov-razvelsya-s-pugachevoy/">Дело не в Галкине: спустя 18 лет Киркоров раскрыл истинную причину развода с Пугачевой</a>
+                                            </div>
+
+                                        
+
+                                        
+
+                                                                                
+
+                                        
+
+                                            <div class="large-6 medium-6 small-6 column">
+                                                <div class="main2019_top-news-item">
+                                                    <div class="main2019_top-news-image-wrapper">
+                                                        <a class="main2019_top-news-image-link"
+                                                           href="https://www.eg.ru/showbusiness/3019032-chto-sluchilos-s-lobodoy/">
+
+                                                            <img width="240" height="180" src="/wp-content/uploads/2023/02/svetlana-loboda-074507-240x180.jpg" class="main2019_top-news-image lazy wp-post-image" alt="Половины лица нет, грудь торчит: что случилось с неузнаваемой Лободой" loading="lazy" />                                                        </a>
+                                                        <a class="main2019_top-news-section main2019_top-news-section3019032" href="/showbusiness/">ЗВЕЗДЫ</a>
+
+                                                        
+        <style>.main2019_top-news-section3019032 {left: 0;}</style>
+
+        
+                                                    </div>
+                                                    <a class="main2019_top-news-title"
+                                                       href="https://www.eg.ru/showbusiness/3019032-chto-sluchilos-s-lobodoy/">Половины лица нет, грудь торчит: что случилось с неузнаваемой Лободой</a>
+                                                    <span class="main2019_top-news-lead hide-for-small">Певица выглядела странно</span>
+                                                                                                    </div>
+                                            </div>
+
+
+                                        
+
+                                                                                
+
+                                        
+
+                                            <div class="large-6 medium-6 small-6 column">
+                                                <div class="main2019_top-news-item">
+                                                    <div class="main2019_top-news-image-wrapper">
+                                                        <a class="main2019_top-news-image-link"
+                                                           href="https://www.eg.ru/showbusiness/3018712-vrach-o-sostoyanii-kostomarova-posle-amputaciy/">
+
+                                                            <img width="240" height="180" src="/wp-content/uploads/2023/02/roman-kostomarov053707-240x180.jpg" class="main2019_top-news-image lazy wp-post-image" alt="«Начался процесс распада всех органов»: врач о состоянии Костомарова после ампутаций" loading="lazy" />                                                        </a>
+                                                        <a class="main2019_top-news-section main2019_top-news-section3018712" href="/showbusiness/">ЗВЕЗДЫ</a>
+
+                                                        
+        <style>.main2019_top-news-section3018712 {left: 0;}</style>
+
+        
+                                                    </div>
+                                                    <a class="main2019_top-news-title"
+                                                       href="https://www.eg.ru/showbusiness/3018712-vrach-o-sostoyanii-kostomarova-posle-amputaciy/">«Начался процесс распада всех органов»: врач о состоянии Костомарова после ампутаций</a>
+                                                    <span class="main2019_top-news-lead hide-for-small">Спортсмену становится хуже</span>
+                                                                                                    </div>
+                                            </div>
+
+
+                                        
+
+                                                                                
+
+                                        
+
+                                            <div class="large-6 medium-6 small-6 column">
+                                                <div class="main2019_top-news-item">
+                                                    <div class="main2019_top-news-image-wrapper">
+                                                        <a class="main2019_top-news-image-link"
+                                                           href="https://www.eg.ru/showbusiness/3018132-prichiny-uhoda-nikolaeva-ot-proskuryakovoy/">
+
+                                                            <img width="240" height="180" src="/wp-content/uploads/2022/08/lgn50354523030346-240x180.jpg" class="main2019_top-news-image lazy wp-post-image" alt="Вскоре после сообщения о разводе: что не устраивает Игоря Николаева в молодой жене Юлии Проскуряковой" loading="lazy" />                                                        </a>
+                                                        <a class="main2019_top-news-section main2019_top-news-section3018132" href="/showbusiness/">ЗВЕЗДЫ</a>
+
+                                                        
+        <style>.main2019_top-news-section3018132 {left: 0;}</style>
+
+        
+                                                    </div>
+                                                    <a class="main2019_top-news-title"
+                                                       href="https://www.eg.ru/showbusiness/3018132-prichiny-uhoda-nikolaeva-ot-proskuryakovoy/">Бывшая жена ни при чем: всплыли истинные причины ухода Николаева от Проскуряковой</a>
+                                                    <span class="main2019_top-news-lead hide-for-small">Новости о распаде одной из самых гармоничных пар отечественного шоу-бизнеса застали поклонников врасплох</span>
+                                                                                                    </div>
+                                            </div>
+
+
+                                        
+
+                                                                                
+
+                                        
+
+                                            <div class="large-6 medium-6 small-6 column">
+                                                <div class="main2019_top-news-item">
+                                                    <div class="main2019_top-news-image-wrapper">
+                                                        <a class="main2019_top-news-image-link"
+                                                           href="https://www.eg.ru/showbusiness/3015272-kostomarovu-vystavyat-ogromnyy-schet/">
+
+                                                            <img width="240" height="180" src="/wp-content/uploads/2023/01/roman-kostomarov070504-240x180.jpg" class="main2019_top-news-image lazy wp-post-image" alt="Выступал с температурой и лечился прорубью: как Костомаров сам себя довел до реанимации" loading="lazy" />                                                        </a>
+                                                        <a class="main2019_top-news-section main2019_top-news-section3015272" href="/showbusiness/">ЗВЕЗДЫ</a>
+
+                                                        
+        <style>.main2019_top-news-section3015272 {left: 0;}</style>
+
+        
+                                                    </div>
+                                                    <a class="main2019_top-news-title"
+                                                       href="https://www.eg.ru/showbusiness/3015272-kostomarovu-vystavyat-ogromnyy-schet/">Пережившему ампутацию Костомарову выставят огромный счет</a>
+                                                    <span class="main2019_top-news-lead hide-for-small">Фигуристу придется заплатить крупную сумму.</span>
+                                                                                                    </div>
+                                            </div>
+
+
+                                        
+
+                                        
+
+                                <div class="large-12 medium-12 small-12 column">
+                                    <div class="row main2019_pos-relative">
+
+                                        
+
+                                    </div>
+                                </div>
+
+                            </div>
+
+
+                            
+
+                        </div>
+                    </div>
+
+                    <div class="large-3 medium-12 small-12 column items-text" style="background-color: #e8e8e8;">
+                        <div class="main2019_aside">
+
+                            <div class="main2019_news-of-day hide-for-medium-down">
+                                <div class="main2019_news-of-day-header">
+    <span class="main2019_news-of-day-header-title">Новости дня</span>
+</div>
+<style>
+
+    @media screen and (min-width: 800px) {
+    .items-text {
+        overflow: hidden;
+        position: relative;
+        height: 1235px;
+    }
+    .items-text:after {
+        content: "";
+        text-align: right;
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        left: 0;
+        height: 3.5em;
+        background: linear-gradient(to bottom, rgba(232, 232, 232, 0), white 100%);
+        pointer-events: none;
+    }
+    }
+
+    .onea {text-decoration: none;}
+    .onea:hover {text-decoration: underline;}
+</style>
+<div class="main2019_news-of-day-body " >
+
+
+    
+
+            <div class="main2019_news-of-day-item divnews" style="text-decoration: none;"><a class="onea" href="https://www.eg.ru/showbusiness/3019372-kuda-propala-rapuncel/">
+                
+                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  Куда пропала звезда «Дома-2» Ольга Рапунцель с детьми после сообщения о разводе</div>
+
+                </a>
+
+                <span style="font-size: 0.8em; margin-top: 10px;" >  Знаменитость переживает трудный период в жизни</span>
+            </div>
+
+
+
+            
+        
+
+            <div class="main2019_news-of-day-item divnews" style="text-decoration: none;"><a class="onea" href="https://www.eg.ru/showbusiness/3019412-narod-goryuet-po-rano-ushedshemu-bogomolovu/">
+                
+                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  «Как жаль»: народ горюет по рано ушедшему Богомолову</div>
+
+                </a>
+
+                <span style="font-size: 0.8em; margin-top: 10px;" >  Некоторым проектам режиссера приходится существовать без него</span>
+            </div>
+
+
+
+            
+        
+
+            <div class="main2019_news-of-day-item divnews" style="text-decoration: none;"><a class="onea" href="https://www.eg.ru/showbusiness/3019122-zvezda-uralskih-pelmeney-perenesla-operaciyu/">
+                
+                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  Теперь только на костылях: звезда «Уральских пельменей» Илана Юрьева перенесла операцию</div>
+
+                </a>
+
+                <span style="font-size: 0.8em; margin-top: 10px;" >  Печальные фото попали в Сеть</span>
+            </div>
+
+
+
+            
+        
+
+            <div class="main2019_news-of-day-item divnews" style="text-decoration: none;"><a class="onea" href="https://www.eg.ru/showbusiness/3019032-chto-sluchilos-s-lobodoy/">
+                
+                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  Половины лица нет, грудь торчит: что случилось с неузнаваемой Лободой</div>
+
+                </a>
+
+                <span style="font-size: 0.8em; margin-top: 10px;" >  Певица выглядела странно</span>
+            </div>
+
+
+
+            
+        
+
+            <div class="main2019_news-of-day-item divnews" style="text-decoration: none;"><a class="onea" href="https://www.eg.ru/showbusiness/3018962-shura-publichno-soznalsya-v-kraje/">
+                
+                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  «Ем хорошо, какаю много»: Шура публично сознался в краже из продуктового магазина</div>
+
+                </a>
+
+                <span style="font-size: 0.8em; margin-top: 10px;" >  Певец не стыдится своего поступка</span>
+            </div>
+
+
+
+            
+        
+
+            <div class="main2019_news-of-day-item divnews" style="text-decoration: none;"><a class="onea" href="https://www.eg.ru/showbusiness/3018862-pozornoe-povedenie-middlton-popalo-na-kamery/">
+                
+                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  Распустила руки прямо на людях: позорное поведение Миддлтон попало на камеры</div>
+
+                </a>
+
+                <span style="font-size: 0.8em; margin-top: 10px;" >  Принцесса не постыдилась публики</span>
+            </div>
+
+
+
+            <!--BANNER-->
+        
+
+            <div class="main2019_news-of-day-item divnews" style="text-decoration: none;"><a class="onea" href="https://www.eg.ru/showbusiness/3018852-chto-sluchilos-s-aktrisoy-tatyanoy-abramovoy/">
+                
+                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  Располнела и на всем экономит: что случилось с актрисой Татьяной Абрамовой</div>
+
+                </a>
+
+                <span style="font-size: 0.8em; margin-top: 10px;" >  Знаменитость не беспокоится о внешности</span>
+            </div>
+
+
+
+            
+        
+
+            <div class="main2019_news-of-day-item divnews" style="text-decoration: none;"><a class="onea" href="https://www.eg.ru/showbusiness/3018762-pochemu-kirkorov-razvelsya-s-pugachevoy/">
+                
+                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  Дело не в Галкине: спустя 18 лет Киркоров раскрыл истинную причину развода с Пугачевой</div>
+
+                </a>
+
+                <span style="font-size: 0.8em; margin-top: 10px;" >  Артист плохо обошелся с Примадонной</span>
+            </div>
+
+
+
+            
+        
+
+            <div class="main2019_news-of-day-item divnews" style="text-decoration: none;"><a class="onea" href="https://www.eg.ru/showbusiness/3018712-vrach-o-sostoyanii-kostomarova-posle-amputaciy/">
+                
+                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  «Начался процесс распада всех органов»: врач о состоянии Костомарова после ампутаций</div>
+
+                </a>
+
+                <span style="font-size: 0.8em; margin-top: 10px;" >  Спортсмену становится хуже</span>
+            </div>
+
+
+
+            
+        
+
+            <div class="main2019_news-of-day-item divnews" style="text-decoration: none;"><a class="onea" href="https://www.eg.ru/showbusiness/3018672-mihaylov-toskuet-po-zapadnym-gonoraram/">
+                
+                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  «Приходится сначала думать о том, как бы жить»: Михайлов открыто тоскует по западным гонорарам</div>
+
+                </a>
+
+                <span style="font-size: 0.8em; margin-top: 10px;" >  Артист внезапно начал критиковать Россию</span>
+            </div>
+
+
+
+            
+        
+
+            <div class="main2019_news-of-day-item divnews" style="text-decoration: none;"><a class="onea" href="https://www.eg.ru/showbusiness/3017312-muja-zavorotnyuk-zametili-na-ulice-s-drugoy/">
+                
+                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  Мужа Заворотнюк заметили на улице с другой: атмосфера романтики</div>
+
+                </a>
+
+                <span style="font-size: 0.8em; margin-top: 10px;" >  Петр Чернышев совместил приятное с полезным</span>
+            </div>
+
+
+
+            
+        
+</div>
+
+
+
+
+
+
+
+
+
+
+                            </div>
+
+                        </div>
+                    </div>
+
+
+                    <div class="large-3 medium-12 small-12 column">
+                        <div class="main2019_aside">
+
+                            <div class="main2019_editors ">
+                                <div class="main2019_editors-header">
+                                    <span class="main2019_editors-header-title">Сегодня читают</span>
+                                </div>
+                                <div class="main2019_editors-body">
+
+
+                                    
+                                <div class="main2019_editors-item">
+                                    <div class="main2019_editors-item-image-wrapper">
+                                        <a class="main2019_editors-item-image-link"
+                                           href="https://www.eg.ru/showbusiness/3013642-igor-nikolaev-pokidaet-rossiyu/">
+
+                                            <img width="512" height="384" src="/wp-content/uploads/2023/02/igor-nikolaev-2051542-512x384.jpg" class="main2019_editors-item-image lazy wp-post-image" alt="Лежит в реанимации, не может разговаривать: появились тревожные данные о реальном состоянии Николаева" loading="lazy" />                                        </a>
+                                        <a class="main2019_editors-item-section" href="/showbusiness/">ЗВЕЗДЫ</a>                                    </div>
+                                    <a
+                                        
+                                            class="main2019_editors-item-title"
+                                            href="https://www.eg.ru/showbusiness/3013642-igor-nikolaev-pokidaet-rossiyu/">
+                                        Игорь Николаев покидает Россию: вот что он сказал                                    </a>
+                                    <span class="main2019_editors-item-lead"
+
+                                        
+
+                                    >Певец сделал официальное заявление</span>
+
+                                </div>
+
+
+                            
+                                <div class="main2019_editors-item">
+                                    <div class="main2019_editors-item-image-wrapper">
+                                        <a class="main2019_editors-item-image-link"
+                                           href="https://www.eg.ru/showbusiness/3017312-muja-zavorotnyuk-zametili-na-ulice-s-drugoy/">
+
+                                            <img width="512" height="384" src="/wp-content/uploads/2023/02/anastasiya-zavorotnyuk-i-petr-chernyshev010228-512x384.jpg" class="main2019_editors-item-image lazy wp-post-image" alt="Мужа Заворотнюк заметили на улице с другой: атмосфера романтики" loading="lazy" />                                        </a>
+                                        <a class="main2019_editors-item-section" href="/showbusiness/">ЗВЕЗДЫ</a>                                    </div>
+                                    <a
+                                        
+                                            class="main2019_editors-item-title"
+                                            href="https://www.eg.ru/showbusiness/3017312-muja-zavorotnyuk-zametili-na-ulice-s-drugoy/">
+                                        Мужа Заворотнюк заметили на улице с другой: атмосфера романтики                                    </a>
+                                    <span class="main2019_editors-item-lead"
+
+                                        
+
+                                    >Петр Чернышев совместил приятное с полезным</span>
+
+                                </div>
+
+
+                            
+                                <div class="main2019_editors-item">
+                                    <div class="main2019_editors-item-image-wrapper">
+                                        <a class="main2019_editors-item-image-link"
+                                           href="https://www.eg.ru/showbusiness/3014302-chto-proishodit-s-paninym-i-lazarevoy/">
+
+                                            <img width="512" height="384" src="/wp-content/uploads/2022/04/tatyana-lazareva-053501-512x384.jpg" class="main2019_editors-item-image lazy wp-post-image" alt="Поплавская о поведении Лазаревой: «Зрелище, безусловно, печальное, если не сказать трагическое»" loading="lazy" />                                        </a>
+                                        <a class="main2019_editors-item-section" href="/showbusiness/">ЗВЕЗДЫ</a>                                    </div>
+                                    <a
+                                        
+                                            class="main2019_editors-item-title"
+                                            href="https://www.eg.ru/showbusiness/3014302-chto-proishodit-s-paninym-i-lazarevoy/">
+                                        «Стали на одно лицо»: что происходит с живущими вместе в Испании Паниным и Лазаревой                                    </a>
+                                    <span class="main2019_editors-item-lead"
+
+                                        
+
+                                    >Артисты давно покинули Россию </span>
+
+                                </div>
+
+
+                            
+                                <div class="main2019_editors-item">
+                                    <div class="main2019_editors-item-image-wrapper">
+                                        <a class="main2019_editors-item-image-link"
+                                           href="https://www.eg.ru/showbusiness/3018132-prichiny-uhoda-nikolaeva-ot-proskuryakovoy/">
+
+                                            <img width="512" height="384" src="/wp-content/uploads/2022/08/lgn50354523030346-512x384.jpg" class="main2019_editors-item-image lazy wp-post-image" alt="Вскоре после сообщения о разводе: что не устраивает Игоря Николаева в молодой жене Юлии Проскуряковой" loading="lazy" />                                        </a>
+                                        <a class="main2019_editors-item-section" href="/showbusiness/">ЗВЕЗДЫ</a>                                    </div>
+                                    <a
+                                        
+                                            class="main2019_editors-item-title"
+                                            href="https://www.eg.ru/showbusiness/3018132-prichiny-uhoda-nikolaeva-ot-proskuryakovoy/">
+                                        Бывшая жена ни при чем: всплыли истинные причины ухода Николаева от Проскуряковой                                    </a>
+                                    <span class="main2019_editors-item-lead"
+
+                                        
+
+                                    >Новости о распаде одной из самых гармоничных пар отечественного шоу-бизнеса застали поклонников врасплох</span>
+
+                                </div>
+
+
+
+                            
+                                <div class="main2019_editors-item">
+                                    <div class="main2019_editors-item-image-wrapper">
+                                        <a class="main2019_editors-item-image-link"
+                                           href="https://www.eg.ru/showbusiness/3017032-natasha-koroleva-ya-stala-mamoy/">
+
+                                            <img width="512" height="384" src="/wp-content/uploads/2023/02/novyy-proekt-9113713-512x384.jpg" class="main2019_editors-item-image lazy wp-post-image" alt="Показавшая огромный живот Наташа Королева: «Я стала мамой»" loading="lazy" />                                        </a>
+                                        <a class="main2019_editors-item-section" href="/showbusiness/">ЗВЕЗДЫ</a>                                    </div>
+                                    <a
+                                        
+                                            class="main2019_editors-item-title"
+                                            href="https://www.eg.ru/showbusiness/3017032-natasha-koroleva-ya-stala-mamoy/">
+                                        Показавшая огромный живот Наташа Королева: «Я стала мамой»                                    </a>
+                                    <span class="main2019_editors-item-lead"
+
+                                        
+
+                                    >Звезда счастлива</span>
+
+                                </div>
+
+
+
+                            
+
+                                </div>
+                            </div>
+                            
+
+                            <div class=" main2019_ad-240x400 hide-for-medium-down ">
+                                <div class='znamya141696 znamya znamya_all'><!--AdFox START-->
+<!--https://eg.ru-->
+<!--Площадка: eg.ru / * / *-->
+<!--Тип баннера: 2 (первый_главная)-->
+<!--Расположение: <верх страницы>-->
+<div id="adfox_157054197320815815"></div>
+<script>
+     if (window.innerWidth >= 800) {
+    window.Ya.adfoxCode.create({
+        ownerId: 280016,
+        containerId: 'adfox_157054197320815815',
+        params: {
+            pp: 'g',
+            ps: 'dbzr',
+            p2: 'gorq',
+            puid1: ''
+        }
+    });}
+</script></div   ><!--znamya141696-->
+
+                            </div>
+
+                            
+
+                        </div>
+                    </div>
+                </div>
+
+
+
+                <style> .whitebg {background-color: #ffffff;}
+    </style>    <div class="row main2019_pos-relative-large hide-for-medium-down" style="padding-bottom: 7px;">
+    <div class="large-6 medium-12 small-12 column">
+        <div class="row main2019_pos-relative-medium">
+            
+
+            <div class="large-6 medium-6 small-12 column main2019_border-bottom" style="background-color: #eee;">
+                <div class="main2019_vertical-news" style="height: 319px;padding-top: 17px;">
+                    <div class="main2019_vertical-news-image-wrapper"  >
+                        <a class="main2019_vertical-news-image-link"
+                           href="https://www.eg.ru/nostalgia/894046-jizn-ally-larionovoy/">
+
+                                                        <img width="240" height="180" src="/wp-content/uploads/2023/02/alla-larionova085129-240x180.jpg" class="main2019_vertical-news-image lazy wp-post-image lazy wp-post-image" alt="Алла Ларионова" loading="lazy" />
+                        </a>
+
+                        <span class="main2019_vertical-news-small-label">
+                                    <i class="far fa-user" aria-hidden="true"></i>
+                                </span>
+                        <a class="main2019_vertical-news-section whitebg" href="/nostalgia/">НОСТАЛЬГИЯ</a>                    </div>
+
+                        <a class="main2019_vertical-news-title"
+                           href="https://www.eg.ru/nostalgia/894046-jizn-ally-larionovoy/">Из всех любовников Аллы Ларионовой ее мужа Николая Рыбникова дико бесил старик Вертинский</a>
+
+
+                </div>
+                </div>
+
+
+                
+
+            <div class="large-6 medium-6 small-12 column main2019_border-bottom" style="background-color: #eee;">
+                <div class="main2019_vertical-news" style="height: 319px;padding-top: 17px;">
+                    <div class="main2019_vertical-news-image-wrapper"  >
+                        <a class="main2019_vertical-news-image-link"
+                           href="https://www.eg.ru/showbusiness/3009512-jiznennye-ustanovki-telejurnalista-irady-zeynalovoy/">
+
+                                                        <img width="240" height="180" src="/wp-content/uploads/2023/02/irada-zeynalova123435-240x180.jpg" class="main2019_vertical-news-image lazy wp-post-image lazy wp-post-image" alt="Ирада Зейналова" loading="lazy" />
+                        </a>
+
+                        <span class="main2019_vertical-news-small-label">
+                                    <i class="far fa-user" aria-hidden="true"></i>
+                                </span>
+                        <a class="main2019_vertical-news-section whitebg" href="/showbusiness/">ЗВЕЗДЫ</a>                    </div>
+
+                        <a class="main2019_vertical-news-title"
+                           href="https://www.eg.ru/showbusiness/3009512-jiznennye-ustanovki-telejurnalista-irady-zeynalovoy/">«Даже поплакать толком не может»: жизненные установки тележурналиста Ирады Зейналовой</a>
+
+
+                </div>
+                </div>
+
+
+                            </div>
+        </div>
+        <div class="large-6 medium-12 small-12 column">
+            <div class="row main2019_pos-relative-medium">
+                
+
+            <div class="large-6 medium-6 small-12 column main2019_border-bottom" style="background-color: #eee;">
+                <div class="main2019_vertical-news" style="height: 319px;padding-top: 17px;">
+                    <div class="main2019_vertical-news-image-wrapper"  >
+                        <a class="main2019_vertical-news-image-link"
+                           href="https://www.eg.ru/nostalgia/3006362-kak-jila-alla-larionova-posle-smerti-nikolaya-rybnikova/">
+
+                                                        <img width="240" height="180" src="/wp-content/uploads/2020/05/alla-larionova-i-nikolay-rybnikov095547-240x180.jpg" class="main2019_vertical-news-image lazy wp-post-image lazy wp-post-image" alt="Алла Ларионова и Николай Рыбников" loading="lazy" />
+                        </a>
+
+                        <span class="main2019_vertical-news-small-label">
+                                    <i class="far fa-user" aria-hidden="true"></i>
+                                </span>
+                        <a class="main2019_vertical-news-section whitebg" href="/nostalgia/">НОСТАЛЬГИЯ</a>                    </div>
+
+                        <a class="main2019_vertical-news-title"
+                           href="https://www.eg.ru/nostalgia/3006362-kak-jila-alla-larionova-posle-smerti-nikolaya-rybnikova/">«Одеваться приходилось на Вьетнамском рынке»: как жила Алла Ларионова после смерти Николая Рыбникова</a>
+
+
+                </div>
+                </div>
+
+
+                
+
+            <div class="large-6 medium-6 small-12 column main2019_border-bottom" style="background-color: #eee;">
+                <div class="main2019_vertical-news" style="height: 319px;padding-top: 17px;">
+                    <div class="main2019_vertical-news-image-wrapper"  >
+                        <a class="main2019_vertical-news-image-link"
+                           href="https://www.eg.ru/showbusiness/3009052-s-kem-jivet-yuriy-antonov-v-dome-za-milliony-dollarov/">
+
+                                                        <img width="240" height="180" src="/wp-content/uploads/2023/02/yuriy-antonov102623-240x180.jpg" class="main2019_vertical-news-image lazy wp-post-image lazy wp-post-image" alt="Юрий Антонов" loading="lazy" />
+                        </a>
+
+                        <span class="main2019_vertical-news-small-label">
+                                    <i class="far fa-user" aria-hidden="true"></i>
+                                </span>
+                        <a class="main2019_vertical-news-section whitebg" href="/showbusiness/">ЗВЕЗДЫ</a>                    </div>
+
+                        <a class="main2019_vertical-news-title"
+                           href="https://www.eg.ru/showbusiness/3009052-s-kem-jivet-yuriy-antonov-v-dome-za-milliony-dollarov/">«Жена в данном случае – это фикция»: с кем живет Юрий Антонов в доме за миллионы долларов</a>
+
+
+                </div>
+                </div>
+
+
+                            </div>
+        </div>
+    </div>
+    
+
+
+            </div>
+
+            <style>
+    .mobnews .divnews:nth-child(n+5)
+
+    {
+
+        display: none;
+    }
+
+    .mobnews1 .divnews {display: none;}
+    .mobnews1 .divnews:nth-child(n+5)
+
+    {
+
+        display: block;
+    }
+
+    .slick-slide img  {
+        filter: opacity(30%);
+    }
+    .slick-active img  {
+        filter: opacity(100%);
+    }
+.slick-slide a  {
+        color: #AAAAAA;
+    }
+    .slick-active a  {
+        color:#222;
+    }
+
+
+</style>
+
+<div class="main2019_news-of-day hide-for-large-up" style="padding: 15px;">
+    <div class="main2019_news-of-day-header">
+    <span class="main2019_news-of-day-header-title">Новости дня</span>
+</div>
+<style>
+
+    @media screen and (min-width: 800px) {
+    .items-text {
+        overflow: hidden;
+        position: relative;
+        height: 1235px;
+    }
+    .items-text:after {
+        content: "";
+        text-align: right;
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        left: 0;
+        height: 3.5em;
+        background: linear-gradient(to bottom, rgba(232, 232, 232, 0), white 100%);
+        pointer-events: none;
+    }
+    }
+
+    .onea {text-decoration: none;}
+    .onea:hover {text-decoration: underline;}
+</style>
+<div class="main2019_news-of-day-body mobnews " >
+
+
+    
+
+            <div class="main2019_news-of-day-item divnews" style="text-decoration: none;"><a class="onea" href="https://www.eg.ru/showbusiness/3019372-kuda-propala-rapuncel/">
+                
+                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  Куда пропала звезда «Дома-2» Ольга Рапунцель с детьми после сообщения о разводе</div>
+
+                </a>
+
+                <span style="font-size: 0.8em; margin-top: 10px;" >  Знаменитость переживает трудный период в жизни</span>
+            </div>
+
+
+
+            
+        
+
+            <div class="main2019_news-of-day-item divnews" style="text-decoration: none;"><a class="onea" href="https://www.eg.ru/showbusiness/3019412-narod-goryuet-po-rano-ushedshemu-bogomolovu/">
+                
+                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  «Как жаль»: народ горюет по рано ушедшему Богомолову</div>
+
+                </a>
+
+                <span style="font-size: 0.8em; margin-top: 10px;" >  Некоторым проектам режиссера приходится существовать без него</span>
+            </div>
+
+
+
+            
+        
+
+            <div class="main2019_news-of-day-item divnews" style="text-decoration: none;"><a class="onea" href="https://www.eg.ru/showbusiness/3019122-zvezda-uralskih-pelmeney-perenesla-operaciyu/">
+                
+                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  Теперь только на костылях: звезда «Уральских пельменей» Илана Юрьева перенесла операцию</div>
+
+                </a>
+
+                <span style="font-size: 0.8em; margin-top: 10px;" >  Печальные фото попали в Сеть</span>
+            </div>
+
+
+
+            
+        
+
+            <div class="main2019_news-of-day-item divnews" style="text-decoration: none;"><a class="onea" href="https://www.eg.ru/showbusiness/3019032-chto-sluchilos-s-lobodoy/">
+                
+                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  Половины лица нет, грудь торчит: что случилось с неузнаваемой Лободой</div>
+
+                </a>
+
+                <span style="font-size: 0.8em; margin-top: 10px;" >  Певица выглядела странно</span>
+            </div>
+
+
+
+            
+        
+
+            <div class="main2019_news-of-day-item divnews" style="text-decoration: none;"><a class="onea" href="https://www.eg.ru/showbusiness/3018962-shura-publichno-soznalsya-v-kraje/">
+                
+                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  «Ем хорошо, какаю много»: Шура публично сознался в краже из продуктового магазина</div>
+
+                </a>
+
+                <span style="font-size: 0.8em; margin-top: 10px;" >  Певец не стыдится своего поступка</span>
+            </div>
+
+
+
+            
+        
+
+            <div class="main2019_news-of-day-item divnews" style="text-decoration: none;"><a class="onea" href="https://www.eg.ru/showbusiness/3018862-pozornoe-povedenie-middlton-popalo-na-kamery/">
+                
+                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  Распустила руки прямо на людях: позорное поведение Миддлтон попало на камеры</div>
+
+                </a>
+
+                <span style="font-size: 0.8em; margin-top: 10px;" >  Принцесса не постыдилась публики</span>
+            </div>
+
+
+
+            <!--BANNER-->
+        
+
+            <div class="main2019_news-of-day-item divnews" style="text-decoration: none;"><a class="onea" href="https://www.eg.ru/showbusiness/3018852-chto-sluchilos-s-aktrisoy-tatyanoy-abramovoy/">
+                
+                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  Располнела и на всем экономит: что случилось с актрисой Татьяной Абрамовой</div>
+
+                </a>
+
+                <span style="font-size: 0.8em; margin-top: 10px;" >  Знаменитость не беспокоится о внешности</span>
+            </div>
+
+
+
+            
+        
+
+            <div class="main2019_news-of-day-item divnews" style="text-decoration: none;"><a class="onea" href="https://www.eg.ru/showbusiness/3018762-pochemu-kirkorov-razvelsya-s-pugachevoy/">
+                
+                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  Дело не в Галкине: спустя 18 лет Киркоров раскрыл истинную причину развода с Пугачевой</div>
+
+                </a>
+
+                <span style="font-size: 0.8em; margin-top: 10px;" >  Артист плохо обошелся с Примадонной</span>
+            </div>
+
+
+
+            
+        
+
+            <div class="main2019_news-of-day-item divnews" style="text-decoration: none;"><a class="onea" href="https://www.eg.ru/showbusiness/3018712-vrach-o-sostoyanii-kostomarova-posle-amputaciy/">
+                
+                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  «Начался процесс распада всех органов»: врач о состоянии Костомарова после ампутаций</div>
+
+                </a>
+
+                <span style="font-size: 0.8em; margin-top: 10px;" >  Спортсмену становится хуже</span>
+            </div>
+
+
+
+            
+        
+
+            <div class="main2019_news-of-day-item divnews" style="text-decoration: none;"><a class="onea" href="https://www.eg.ru/showbusiness/3018672-mihaylov-toskuet-po-zapadnym-gonoraram/">
+                
+                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  «Приходится сначала думать о том, как бы жить»: Михайлов открыто тоскует по западным гонорарам</div>
+
+                </a>
+
+                <span style="font-size: 0.8em; margin-top: 10px;" >  Артист внезапно начал критиковать Россию</span>
+            </div>
+
+
+
+            
+        
+
+            <div class="main2019_news-of-day-item divnews" style="text-decoration: none;"><a class="onea" href="https://www.eg.ru/showbusiness/3017312-muja-zavorotnyuk-zametili-na-ulice-s-drugoy/">
+                
+                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  Мужа Заворотнюк заметили на улице с другой: атмосфера романтики</div>
+
+                </a>
+
+                <span style="font-size: 0.8em; margin-top: 10px;" >  Петр Чернышев совместил приятное с полезным</span>
+            </div>
+
+
+
+            
+        
+</div>
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+<div class="main2019_news-of-day-header mobilenow" style="margin-left: 15px;">
+    <span class="main2019_news-of-day-header-title">Главное</span>
+</div>
+<div class="centerMC mobilenow" style="padding-bottom: 0px;">
+
+
+
+
+
+        
+
+        <div class="large-4 medium-12 small-12 column"
+             style="padding: 0px; margin-left:10px; margin-right:10px;background-color: #ffffff;">
+            <div class="main2019_top-news-item" style="padding: 0px;">
+                <div class="main2019_top-news-image-wrapper">
+                    <a class="main2019_top-news-image-link"
+                       href="https://www.eg.ru/showbusiness/3018762-pochemu-kirkorov-razvelsya-s-pugachevoy/">
+
+                        <img width="780" height="585" src="/wp-content/uploads/2023/02/filipp-kirkorov-alla-pugacheva-i-maksim-galkin060558-780x585.jpg" class="main2019_top-news-image wp-post-image" alt="Дело не в Галкине: спустя 18 лет Киркоров раскрыл истинную причину развода с Пугачевой" loading="lazy" srcset="/wp-content/uploads/2023/02/filipp-kirkorov-alla-pugacheva-i-maksim-galkin060558-240x180.jpg 240w,/wp-content/uploads/2023/02/filipp-kirkorov-alla-pugacheva-i-maksim-galkin060558-512x384.jpg 510w,/wp-content/uploads/2023/02/filipp-kirkorov-alla-pugacheva-i-maksim-galkin060558-780x585.jpg 780w" /> </a>
+
+
+
+
+                </div>
+                <a class="main2019_top-news-title"
+                   style="font-size: 1.1em; padding-left: 15px; padding-right: 15px;"
+                   href="https://www.eg.ru/showbusiness/3018762-pochemu-kirkorov-razvelsya-s-pugachevoy/">Дело не в Галкине: спустя 18 лет Киркоров раскрыл истинную причину развода с Пугачевой</a>
+
+            </div>
+        </div>
+
+
+
+
+    
+
+        <div class="large-4 medium-12 small-12 column"
+             style="padding: 0px; margin-left:10px; margin-right:10px;background-color: #ffffff;">
+            <div class="main2019_top-news-item" style="padding: 0px;">
+                <div class="main2019_top-news-image-wrapper">
+                    <a class="main2019_top-news-image-link"
+                       href="https://www.eg.ru/showbusiness/3019032-chto-sluchilos-s-lobodoy/">
+
+                        <img width="780" height="585" src="/wp-content/uploads/2023/02/svetlana-loboda-074507-780x585.jpg" class="main2019_top-news-image wp-post-image" alt="Половины лица нет, грудь торчит: что случилось с неузнаваемой Лободой" loading="lazy" srcset="/wp-content/uploads/2023/02/svetlana-loboda-074507-240x180.jpg 240w,/wp-content/uploads/2023/02/svetlana-loboda-074507-512x384.jpg 510w,/wp-content/uploads/2023/02/svetlana-loboda-074507-780x585.jpg 780w" /> </a>
+
+
+
+
+                </div>
+                <a class="main2019_top-news-title"
+                   style="font-size: 1.1em; padding-left: 15px; padding-right: 15px;"
+                   href="https://www.eg.ru/showbusiness/3019032-chto-sluchilos-s-lobodoy/">Половины лица нет, грудь торчит: что случилось с неузнаваемой Лободой</a>
+
+            </div>
+        </div>
+
+
+
+
+    
+
+        <div class="large-4 medium-12 small-12 column"
+             style="padding: 0px; margin-left:10px; margin-right:10px;background-color: #ffffff;">
+            <div class="main2019_top-news-item" style="padding: 0px;">
+                <div class="main2019_top-news-image-wrapper">
+                    <a class="main2019_top-news-image-link"
+                       href="https://www.eg.ru/showbusiness/3018712-vrach-o-sostoyanii-kostomarova-posle-amputaciy/">
+
+                        <img width="780" height="585" src="/wp-content/uploads/2023/02/roman-kostomarov053707-780x585.jpg" class="main2019_top-news-image wp-post-image" alt="«Начался процесс распада всех органов»: врач о состоянии Костомарова после ампутаций" loading="lazy" srcset="/wp-content/uploads/2023/02/roman-kostomarov053707-240x180.jpg 240w,/wp-content/uploads/2023/02/roman-kostomarov053707-512x384.jpg 510w,/wp-content/uploads/2023/02/roman-kostomarov053707-780x585.jpg 780w" /> </a>
+
+
+
+
+                </div>
+                <a class="main2019_top-news-title"
+                   style="font-size: 1.1em; padding-left: 15px; padding-right: 15px;"
+                   href="https://www.eg.ru/showbusiness/3018712-vrach-o-sostoyanii-kostomarova-posle-amputaciy/">«Начался процесс распада всех органов»: врач о состоянии Костомарова после ампутаций</a>
+
+            </div>
+        </div>
+
+
+
+
+    
+
+        <div class="large-4 medium-12 small-12 column"
+             style="padding: 0px; margin-left:10px; margin-right:10px;background-color: #ffffff;">
+            <div class="main2019_top-news-item" style="padding: 0px;">
+                <div class="main2019_top-news-image-wrapper">
+                    <a class="main2019_top-news-image-link"
+                       href="https://www.eg.ru/showbusiness/3018132-prichiny-uhoda-nikolaeva-ot-proskuryakovoy/">
+
+                        <img width="780" height="585" src="/wp-content/uploads/2022/08/lgn50354523030346-780x585.jpg" class="main2019_top-news-image wp-post-image" alt="Вскоре после сообщения о разводе: что не устраивает Игоря Николаева в молодой жене Юлии Проскуряковой" loading="lazy" srcset="/wp-content/uploads/2022/08/lgn50354523030346-240x180.jpg 240w,/wp-content/uploads/2022/08/lgn50354523030346-512x384.jpg 510w,/wp-content/uploads/2022/08/lgn50354523030346-780x585.jpg 780w" /> </a>
+
+
+
+
+                </div>
+                <a class="main2019_top-news-title"
+                   style="font-size: 1.1em; padding-left: 15px; padding-right: 15px;"
+                   href="https://www.eg.ru/showbusiness/3018132-prichiny-uhoda-nikolaeva-ot-proskuryakovoy/">Бывшая жена ни при чем: всплыли истинные причины ухода Николаева от Проскуряковой</a>
+
+            </div>
+        </div>
+
+
+
+
+    
+
+        <div class="large-4 medium-12 small-12 column"
+             style="padding: 0px; margin-left:10px; margin-right:10px;background-color: #ffffff;">
+            <div class="main2019_top-news-item" style="padding: 0px;">
+                <div class="main2019_top-news-image-wrapper">
+                    <a class="main2019_top-news-image-link"
+                       href="https://www.eg.ru/showbusiness/3015272-kostomarovu-vystavyat-ogromnyy-schet/">
+
+                        <img width="780" height="585" src="/wp-content/uploads/2023/01/roman-kostomarov070504-780x585.jpg" class="main2019_top-news-image wp-post-image" alt="Выступал с температурой и лечился прорубью: как Костомаров сам себя довел до реанимации" loading="lazy" srcset="/wp-content/uploads/2023/01/roman-kostomarov070504-240x180.jpg 240w,/wp-content/uploads/2023/01/roman-kostomarov070504-512x384.jpg 510w,/wp-content/uploads/2023/01/roman-kostomarov070504-780x585.jpg 780w" /> </a>
+
+
+
+
+                </div>
+                <a class="main2019_top-news-title"
+                   style="font-size: 1.1em; padding-left: 15px; padding-right: 15px;"
+                   href="https://www.eg.ru/showbusiness/3015272-kostomarovu-vystavyat-ogromnyy-schet/">Пережившему ампутацию Костомарову выставят огромный счет</a>
+
+            </div>
+        </div>
+
+
+
+
+        
+</div>
+
+<div class="main2019_news-of-day hide-for-large-up" style="padding: 15px;">
+    <div class="main2019_news-of-day-header">
+    <span class="main2019_news-of-day-header-title">Новости дня</span>
+</div>
+<style>
+
+    @media screen and (min-width: 800px) {
+    .items-text {
+        overflow: hidden;
+        position: relative;
+        height: 1235px;
+    }
+    .items-text:after {
+        content: "";
+        text-align: right;
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        left: 0;
+        height: 3.5em;
+        background: linear-gradient(to bottom, rgba(232, 232, 232, 0), white 100%);
+        pointer-events: none;
+    }
+    }
+
+    .onea {text-decoration: none;}
+    .onea:hover {text-decoration: underline;}
+</style>
+<div class="main2019_news-of-day-body mobnews1 " >
+
+
+    
+
+            <div class="main2019_news-of-day-item divnews" style="text-decoration: none;"><a class="onea" href="https://www.eg.ru/showbusiness/3019372-kuda-propala-rapuncel/">
+                
+                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  Куда пропала звезда «Дома-2» Ольга Рапунцель с детьми после сообщения о разводе</div>
+
+                </a>
+
+                <span style="font-size: 0.8em; margin-top: 10px;" >  Знаменитость переживает трудный период в жизни</span>
+            </div>
+
+
+
+            
+        
+
+            <div class="main2019_news-of-day-item divnews" style="text-decoration: none;"><a class="onea" href="https://www.eg.ru/showbusiness/3019412-narod-goryuet-po-rano-ushedshemu-bogomolovu/">
+                
+                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  «Как жаль»: народ горюет по рано ушедшему Богомолову</div>
+
+                </a>
+
+                <span style="font-size: 0.8em; margin-top: 10px;" >  Некоторым проектам режиссера приходится существовать без него</span>
+            </div>
+
+
+
+            
+        
+
+            <div class="main2019_news-of-day-item divnews" style="text-decoration: none;"><a class="onea" href="https://www.eg.ru/showbusiness/3019122-zvezda-uralskih-pelmeney-perenesla-operaciyu/">
+                
+                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  Теперь только на костылях: звезда «Уральских пельменей» Илана Юрьева перенесла операцию</div>
+
+                </a>
+
+                <span style="font-size: 0.8em; margin-top: 10px;" >  Печальные фото попали в Сеть</span>
+            </div>
+
+
+
+            
+        
+
+            <div class="main2019_news-of-day-item divnews" style="text-decoration: none;"><a class="onea" href="https://www.eg.ru/showbusiness/3019032-chto-sluchilos-s-lobodoy/">
+                
+                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  Половины лица нет, грудь торчит: что случилось с неузнаваемой Лободой</div>
+
+                </a>
+
+                <span style="font-size: 0.8em; margin-top: 10px;" >  Певица выглядела странно</span>
+            </div>
+
+
+
+            
+        
+
+            <div class="main2019_news-of-day-item divnews" style="text-decoration: none;"><a class="onea" href="https://www.eg.ru/showbusiness/3018962-shura-publichno-soznalsya-v-kraje/">
+                
+                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  «Ем хорошо, какаю много»: Шура публично сознался в краже из продуктового магазина</div>
+
+                </a>
+
+                <span style="font-size: 0.8em; margin-top: 10px;" >  Певец не стыдится своего поступка</span>
+            </div>
+
+
+
+            
+        
+
+            <div class="main2019_news-of-day-item divnews" style="text-decoration: none;"><a class="onea" href="https://www.eg.ru/showbusiness/3018862-pozornoe-povedenie-middlton-popalo-na-kamery/">
+                
+                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  Распустила руки прямо на людях: позорное поведение Миддлтон попало на камеры</div>
+
+                </a>
+
+                <span style="font-size: 0.8em; margin-top: 10px;" >  Принцесса не постыдилась публики</span>
+            </div>
+
+
+
+            <div class='article_content ' style='margin-left: 0px; margin-right: 0px; padding-right: 0px;' ><div class='znamya2251112 znamya znamya_all'><!--AdFox START-->
+<!--https://eg.ru-->
+<!--Площадка: eg.ru / * / *-->
+<!--Тип баннера: Video_rotaciya_m-->
+<!--Расположение: верх страницы-->
+<div id="adfox_165340880923069244"></div>
+<script>
+    if (window.innerWidth < 800) { 
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 280016,
+            containerId: 'adfox_165340880923069244',
+            params: {
+                pp: 'g',
+                ps: 'dbzr',
+                p2: 'gxxl',
+                puid1: ''
+            }
+        })
+    })}
+</script></div   ><!--znamya2251112-->
+
+</div>
+        
+
+            <div class="main2019_news-of-day-item divnews" style="text-decoration: none;"><a class="onea" href="https://www.eg.ru/showbusiness/3018852-chto-sluchilos-s-aktrisoy-tatyanoy-abramovoy/">
+                
+                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  Располнела и на всем экономит: что случилось с актрисой Татьяной Абрамовой</div>
+
+                </a>
+
+                <span style="font-size: 0.8em; margin-top: 10px;" >  Знаменитость не беспокоится о внешности</span>
+            </div>
+
+
+
+            
+        
+
+            <div class="main2019_news-of-day-item divnews" style="text-decoration: none;"><a class="onea" href="https://www.eg.ru/showbusiness/3018762-pochemu-kirkorov-razvelsya-s-pugachevoy/">
+                
+                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  Дело не в Галкине: спустя 18 лет Киркоров раскрыл истинную причину развода с Пугачевой</div>
+
+                </a>
+
+                <span style="font-size: 0.8em; margin-top: 10px;" >  Артист плохо обошелся с Примадонной</span>
+            </div>
+
+
+
+            
+        
+
+            <div class="main2019_news-of-day-item divnews" style="text-decoration: none;"><a class="onea" href="https://www.eg.ru/showbusiness/3018712-vrach-o-sostoyanii-kostomarova-posle-amputaciy/">
+                
+                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  «Начался процесс распада всех органов»: врач о состоянии Костомарова после ампутаций</div>
+
+                </a>
+
+                <span style="font-size: 0.8em; margin-top: 10px;" >  Спортсмену становится хуже</span>
+            </div>
+
+
+
+            
+        
+
+            <div class="main2019_news-of-day-item divnews" style="text-decoration: none;"><a class="onea" href="https://www.eg.ru/showbusiness/3018672-mihaylov-toskuet-po-zapadnym-gonoraram/">
+                
+                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  «Приходится сначала думать о том, как бы жить»: Михайлов открыто тоскует по западным гонорарам</div>
+
+                </a>
+
+                <span style="font-size: 0.8em; margin-top: 10px;" >  Артист внезапно начал критиковать Россию</span>
+            </div>
+
+
+
+            
+        
+
+            <div class="main2019_news-of-day-item divnews" style="text-decoration: none;"><a class="onea" href="https://www.eg.ru/showbusiness/3017312-muja-zavorotnyuk-zametili-na-ulice-s-drugoy/">
+                
+                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  Мужа Заворотнюк заметили на улице с другой: атмосфера романтики</div>
+
+                </a>
+
+                <span style="font-size: 0.8em; margin-top: 10px;" >  Петр Чернышев совместил приятное с полезным</span>
+            </div>
+
+
+
+            
+        
+</div>
+
+
+
+
+
+
+
+
+
+
+</div>
+
+<div class="main2019_editors-header mobilenow" style="margin-left: 15px;">
+    <span class="main2019_editors-header-title">Сегодня читают </span>
+</div>
+<div class="main2019_editors-body centerMC mobilenow">
+
+
+    
+        <div class="large-4 medium-12 small-12 column"
+             style="padding: 0px; margin-left:10px; margin-right:10px;background-color: #ffffff;">
+            <div class="main2019_top-news-item" style="padding: 0px;">
+                <div class="main2019_top-news-image-wrapper">
+                    <a class="main2019_top-news-image-link"
+                       href="https://www.eg.ru/showbusiness/3013642-igor-nikolaev-pokidaet-rossiyu/">
+
+                        <img width="780" height="585" src="/wp-content/uploads/2023/02/igor-nikolaev-2051542-780x585.jpg" class="main2019_top-news-image wp-post-image" alt="Лежит в реанимации, не может разговаривать: появились тревожные данные о реальном состоянии Николаева" loading="lazy" srcset="/wp-content/uploads/2023/02/igor-nikolaev-2051542-240x180.jpg 240w,/wp-content/uploads/2023/02/igor-nikolaev-2051542-512x384.jpg 510w,/wp-content/uploads/2023/02/igor-nikolaev-2051542-780x585.jpg 780w" /> </a>
+
+
+                </div>
+                <a class="main2019_top-news-title"
+                   style="font-size: 1.1em; padding-left: 15px; padding-right: 15px;"
+                   href="https://www.eg.ru/showbusiness/3013642-igor-nikolaev-pokidaet-rossiyu/">Игорь Николаев покидает Россию: вот что он сказал</a>
+                <!--span class="main2019_top-news-lead hide-for-small">Врачи не верили в ее беременность</span-->
+            </div>
+        </div>
+
+
+    
+        <div class="large-4 medium-12 small-12 column"
+             style="padding: 0px; margin-left:10px; margin-right:10px;background-color: #ffffff;">
+            <div class="main2019_top-news-item" style="padding: 0px;">
+                <div class="main2019_top-news-image-wrapper">
+                    <a class="main2019_top-news-image-link"
+                       href="https://www.eg.ru/showbusiness/3017312-muja-zavorotnyuk-zametili-na-ulice-s-drugoy/">
+
+                        <img width="780" height="585" src="/wp-content/uploads/2023/02/anastasiya-zavorotnyuk-i-petr-chernyshev010228-780x585.jpg" class="main2019_top-news-image wp-post-image" alt="Мужа Заворотнюк заметили на улице с другой: атмосфера романтики" loading="lazy" srcset="/wp-content/uploads/2023/02/anastasiya-zavorotnyuk-i-petr-chernyshev010228-240x180.jpg 240w,/wp-content/uploads/2023/02/anastasiya-zavorotnyuk-i-petr-chernyshev010228-512x384.jpg 510w,/wp-content/uploads/2023/02/anastasiya-zavorotnyuk-i-petr-chernyshev010228-780x585.jpg 780w" /> </a>
+
+
+                </div>
+                <a class="main2019_top-news-title"
+                   style="font-size: 1.1em; padding-left: 15px; padding-right: 15px;"
+                   href="https://www.eg.ru/showbusiness/3017312-muja-zavorotnyuk-zametili-na-ulice-s-drugoy/">Мужа Заворотнюк заметили на улице с другой: атмосфера романтики</a>
+                <!--span class="main2019_top-news-lead hide-for-small">Врачи не верили в ее беременность</span-->
+            </div>
+        </div>
+
+
+    
+        <div class="large-4 medium-12 small-12 column"
+             style="padding: 0px; margin-left:10px; margin-right:10px;background-color: #ffffff;">
+            <div class="main2019_top-news-item" style="padding: 0px;">
+                <div class="main2019_top-news-image-wrapper">
+                    <a class="main2019_top-news-image-link"
+                       href="https://www.eg.ru/showbusiness/3014302-chto-proishodit-s-paninym-i-lazarevoy/">
+
+                        <img width="780" height="585" src="/wp-content/uploads/2022/04/tatyana-lazareva-053501-780x585.jpg" class="main2019_top-news-image wp-post-image" alt="Поплавская о поведении Лазаревой: «Зрелище, безусловно, печальное, если не сказать трагическое»" loading="lazy" srcset="/wp-content/uploads/2022/04/tatyana-lazareva-053501-240x180.jpg 240w,/wp-content/uploads/2022/04/tatyana-lazareva-053501-512x384.jpg 510w,/wp-content/uploads/2022/04/tatyana-lazareva-053501-780x585.jpg 780w" /> </a>
+
+
+                </div>
+                <a class="main2019_top-news-title"
+                   style="font-size: 1.1em; padding-left: 15px; padding-right: 15px;"
+                   href="https://www.eg.ru/showbusiness/3014302-chto-proishodit-s-paninym-i-lazarevoy/">«Стали на одно лицо»: что происходит с живущими вместе в Испании Паниным и Лазаревой</a>
+                <!--span class="main2019_top-news-lead hide-for-small">Врачи не верили в ее беременность</span-->
+            </div>
+        </div>
+
+
+    
+        <div class="large-4 medium-12 small-12 column"
+             style="padding: 0px; margin-left:10px; margin-right:10px;background-color: #ffffff;">
+            <div class="main2019_top-news-item" style="padding: 0px;">
+                <div class="main2019_top-news-image-wrapper">
+                    <a class="main2019_top-news-image-link"
+                       href="https://www.eg.ru/showbusiness/3018132-prichiny-uhoda-nikolaeva-ot-proskuryakovoy/">
+
+                        <img width="780" height="585" src="/wp-content/uploads/2022/08/lgn50354523030346-780x585.jpg" class="main2019_top-news-image wp-post-image" alt="Вскоре после сообщения о разводе: что не устраивает Игоря Николаева в молодой жене Юлии Проскуряковой" loading="lazy" srcset="/wp-content/uploads/2022/08/lgn50354523030346-240x180.jpg 240w,/wp-content/uploads/2022/08/lgn50354523030346-512x384.jpg 510w,/wp-content/uploads/2022/08/lgn50354523030346-780x585.jpg 780w" /> </a>
+
+
+                </div>
+                <a class="main2019_top-news-title"
+                   style="font-size: 1.1em; padding-left: 15px; padding-right: 15px;"
+                   href="https://www.eg.ru/showbusiness/3018132-prichiny-uhoda-nikolaeva-ot-proskuryakovoy/">Бывшая жена ни при чем: всплыли истинные причины ухода Николаева от Проскуряковой</a>
+                <!--span class="main2019_top-news-lead hide-for-small">Врачи не верили в ее беременность</span-->
+            </div>
+        </div>
+
+
+    
+        <div class="large-4 medium-12 small-12 column"
+             style="padding: 0px; margin-left:10px; margin-right:10px;background-color: #ffffff;">
+            <div class="main2019_top-news-item" style="padding: 0px;">
+                <div class="main2019_top-news-image-wrapper">
+                    <a class="main2019_top-news-image-link"
+                       href="https://www.eg.ru/showbusiness/3017032-natasha-koroleva-ya-stala-mamoy/">
+
+                        <img width="780" height="585" src="/wp-content/uploads/2023/02/novyy-proekt-9113713-780x585.jpg" class="main2019_top-news-image wp-post-image" alt="Показавшая огромный живот Наташа Королева: «Я стала мамой»" loading="lazy" srcset="/wp-content/uploads/2023/02/novyy-proekt-9113713-240x180.jpg 240w,/wp-content/uploads/2023/02/novyy-proekt-9113713-512x384.jpg 510w,/wp-content/uploads/2023/02/novyy-proekt-9113713-780x585.jpg 780w" /> </a>
+
+
+                </div>
+                <a class="main2019_top-news-title"
+                   style="font-size: 1.1em; padding-left: 15px; padding-right: 15px;"
+                   href="https://www.eg.ru/showbusiness/3017032-natasha-koroleva-ya-stala-mamoy/">Показавшая огромный живот Наташа Королева: «Я стала мамой»</a>
+                <!--span class="main2019_top-news-lead hide-for-small">Врачи не верили в ее беременность</span-->
+            </div>
+        </div>
+
+
+    
+</div>
+
+
+
+            <!--main_top_end-->
+            <div class="main2019_bottom ">
+                <div class="row">
+                    
+
+        <div class="large-6 medium-12 small-12 column">
+            <div class="main2019_horizontal-news main2019_horizontal-right">
+                <a class="main2019_horizontal-news-image-wrapper" href="https://www.eg.ru/showbusiness/3017082-andreeva-vyshla-k-lyudyam-slovno-oborvanka/">
+                    <img width="240" height="180" src="/wp-content/uploads/2022/04/ekaterina-andreeva-115740-240x180.jpg" class="main2019_horizontal-news-image lazy wp-post-image" alt="Екатерина Андреева дала в нос звезде экрана у всех на глазах" loading="lazy" />                </a>
+                <div class="main2019_horizontal-news-text-wrapper">
+                    <a class="main2019_horizontal-news-title" href="https://www.eg.ru/showbusiness/3017082-andreeva-vyshla-k-lyudyam-slovno-oborvanka/">Шапка-ушанка, шарф на попе и пальто с чужого плеча: Андреева вышла к людям словно оборванка</a>
+                    <span class="main2019_horizontal-news-lead">Зрелище не для слабонервных</span>
+                </div>
+                <a class="main2019_horizontal-news-section" href="/showbusiness/">ЗВЕЗДЫ</a>            </div>
+        </div>
+
+    
+
+        <div class="large-6 medium-12 small-12 column">
+            <div class="main2019_horizontal-news main2019_horizontal-right">
+                <a class="main2019_horizontal-news-image-wrapper" href="https://www.eg.ru/showbusiness/3016952-presnyakovu-rasskazali-ob-izmenah-podolskoy/">
+                    <img width="240" height="180" src="/wp-content/uploads/2023/02/natalya-podolskaya-i-vladimir-presnyakov104931-240x180.jpg" class="main2019_horizontal-news-image lazy wp-post-image" alt="Легко отделалась: Преснякову рассказали об изменах после слухов о беременности Подольской" loading="lazy" />                </a>
+                <div class="main2019_horizontal-news-text-wrapper">
+                    <a class="main2019_horizontal-news-title" href="https://www.eg.ru/showbusiness/3016952-presnyakovu-rasskazali-ob-izmenah-podolskoy/">Легко отделалась: Преснякову рассказали об изменах после слухов о беременности Подольской</a>
+                    <span class="main2019_horizontal-news-lead">Ребенок спас артистку</span>
+                </div>
+                <a class="main2019_horizontal-news-section" href="/showbusiness/">ЗВЕЗДЫ</a>            </div>
+        </div>
+
+    
+                </div>
+                <div class='znamya2722562 znamya znamya_all'><!--AdFox START-->
+<!--https://eg.ru-->
+<!--Площадка: eg.ru / * / *-->
+<!--Тип баннера: Interscroller_mobile-->
+<!--Расположение: верх страницы-->
+<div id="adfox_166781244971369271"></div>
+<script>
+    if (window.innerWidth < 801) {
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 280016,
+            containerId: 'adfox_166781244971369271',
+            params: {
+                pp: 'g',
+                ps: 'dbzr',
+                p2: 'hlba',
+                puid1: ''
+            }
+        })
+    })
+    }
+</script></div   ><!--znamya2722562-->
+
+                <div class="row main2019_pos-relative-large">
+                    <div class="large-6 medium-12 small-12 column">
+                        <div class="row main2019_pos-relative-medium">
+                                    <div class="large-6 medium-6 small-12 column main2019_border-bottom">
+            <div class="main2019_vertical-news">
+                <div class="main2019_vertical-news-image-wrapper">
+                    <a class="main2019_vertical-news-image-link" href="https://www.eg.ru/showbusiness/3016422-kirkorovu-otrezali-jivot-vmeste-s-pupkom/">
+                        <img width="240" height="180" src="/wp-content/uploads/2022/03/8888064044-240x180.jpg" class="main2019_vertical-news-image lazy wp-post-image" alt="Роковой конфликт: стало известно, кто сломал Киркорову жизнь" loading="lazy" />
+                    </a>
+                    <span class="main2019_vertical-news-small-label">
+                                    <i class="far fa-user" aria-hidden="true"></i>
+                                </span>
+                    <a class="main2019_vertical-news-section" href="/showbusiness/">ЗВЕЗДЫ</a>                </div>
+                <a class="main2019_vertical-news-title" href="https://www.eg.ru/showbusiness/3016422-kirkorovu-otrezali-jivot-vmeste-s-pupkom/">«Шрам, как после кесарева»: Киркорову отрезали живот и сделали волосатую дырку в районе желудка</a>
+                <span class="main2019_vertical-news-lead" >Новый пуп оказался слишком высоко</span>
+            </div>
+        </div>
+
+
+            <div class="large-6 medium-6 small-12 column main2019_border-bottom">
+            <div class="main2019_vertical-news">
+                <div class="main2019_vertical-news-image-wrapper">
+                    <a class="main2019_vertical-news-image-link" href="https://www.eg.ru/showbusiness/3016312-sladkaya-jizn-pribednyayushcheysya-ahedjakovoy/">
+                        <img width="240" height="180" src="/wp-content/uploads/2022/06/lgn50353968071553-240x180.jpg" class="main2019_vertical-news-image lazy wp-post-image" alt="«Это погром»: Ахеджакова выступила с заявлением после сообщения о бегства из России" loading="lazy" />
+                    </a>
+                    <span class="main2019_vertical-news-small-label">
+                                    <i class="far fa-user" aria-hidden="true"></i>
+                                </span>
+                    <a class="main2019_vertical-news-section" href="/showbusiness/">ЗВЕЗДЫ</a>                </div>
+                <a class="main2019_vertical-news-title" href="https://www.eg.ru/showbusiness/3016312-sladkaya-jizn-pribednyayushcheysya-ahedjakovoy/">«Не надо цену себе набивать»: сладкая жизнь прибедняющейся Ахеджаковой</a>
+                <span class="main2019_vertical-news-lead" >Артистка рыдает который день</span>
+            </div>
+        </div>
+
+
+                            </div>
+                    </div>
+                    <div class="large-6 medium-12 small-12 column">
+                        <div class="row main2019_pos-relative-medium">
+                                    <div class="large-6 medium-6 small-12 column main2019_border-bottom">
+            <div class="main2019_vertical-news">
+                <div class="main2019_vertical-news-image-wrapper">
+                    <a class="main2019_vertical-news-image-link" href="https://www.eg.ru/showbusiness/3016762-vera-brejneva-zasvetila-mohnatuyu-grud/">
+                        <img width="240" height="180" src="/wp-content/uploads/2023/02/vera-brejneva094912-240x180.jpg" class="main2019_vertical-news-image lazy wp-post-image" alt="Вера Брежнева в распахнутой шубе засветила мохнатую грудь: все ахнули" loading="lazy" />
+                    </a>
+                    <span class="main2019_vertical-news-small-label">
+                                    <i class="far fa-user" aria-hidden="true"></i>
+                                </span>
+                    <a class="main2019_vertical-news-section" href="/showbusiness/">ЗВЕЗДЫ</a>                </div>
+                <a class="main2019_vertical-news-title" href="https://www.eg.ru/showbusiness/3016762-vera-brejneva-zasvetila-mohnatuyu-grud/">Вера Брежнева в распахнутой шубе засветила мохнатую грудь: все в зале ахнули</a>
+                <span class="main2019_vertical-news-lead" >Артистка появилась на публике</span>
+            </div>
+        </div>
+
+
+            <div class="large-6 medium-6 small-12 column main2019_border-bottom">
+            <div class="main2019_vertical-news">
+                <div class="main2019_vertical-news-image-wrapper">
+                    <a class="main2019_vertical-news-image-link" href="https://www.eg.ru/showbusiness/3017612-izvestnyy-sportsmen-popytalsya-oplodotvorit-madonnu/">
+                        <img width="240" height="180" src="/wp-content/uploads/2023/02/pevica-madonna021530-240x180.jpg" class="main2019_vertical-news-image lazy wp-post-image" alt="«Чувак, у меня овуляция, давай быстро»: известный спортсмен попытался оплодотворить Мадонну за 20 миллионов" loading="lazy" />
+                    </a>
+                    <span class="main2019_vertical-news-small-label">
+                                    <i class="far fa-user" aria-hidden="true"></i>
+                                </span>
+                    <a class="main2019_vertical-news-section" href="/showbusiness/">ЗВЕЗДЫ</a>                </div>
+                <a class="main2019_vertical-news-title" href="https://www.eg.ru/showbusiness/3017612-izvestnyy-sportsmen-popytalsya-oplodotvorit-madonnu/">«Чувак, у меня овуляция, давай быстро»: известный спортсмен попытался оплодотворить Мадонну за 20 миллионов</a>
+                <span class="main2019_vertical-news-lead" >64-летняя певица меняет ухажеров как перчатки</span>
+            </div>
+        </div>
+
+
+                            </div>
+                    </div>
+                </div>
+
+
+
+
+
+                <div class="large-6 medium-12 small-12 column">
+                </div>
+                <div class="row">
+                    
+
+        <div class="large-6 medium-12 small-12 column">
+            <div class="main2019_horizontal-news main2019_horizontal-right">
+                <a class="main2019_horizontal-news-image-wrapper" href="https://www.eg.ru/showbusiness/3018512-valieva-opozorilas-na-publike/">
+                    <img width="240" height="180" src="/wp-content/uploads/2022/11/kamila-valieva055020-240x180.jpg" class="main2019_horizontal-news-image lazy wp-post-image" alt="Пишет песни для Лепса и мечтает работать с Газмановым: что известно об артисте, с которым встречается 16-летняя Валиева" loading="lazy" />                </a>
+                <div class="main2019_horizontal-news-text-wrapper">
+                    <a class="main2019_horizontal-news-title" href="https://www.eg.ru/showbusiness/3018512-valieva-opozorilas-na-publike/">Камила Валиева крупно опозорилась на публике</a>
+                    <span class="main2019_horizontal-news-lead">Спортсменка явно не угадала с образом.</span>
+                </div>
+                <a class="main2019_horizontal-news-section" href="/showbusiness/">ЗВЕЗДЫ</a>            </div>
+        </div>
+
+    
+
+        <div class="large-6 medium-12 small-12 column">
+            <div class="main2019_horizontal-news main2019_horizontal-right">
+                <a class="main2019_horizontal-news-image-wrapper" href="https://www.eg.ru/showbusiness/3018292-izurdovannaya-vera-alentova/">
+                    <img width="240" height="180" src="/wp-content/uploads/2022/08/vera-alentova085935-240x180.jpg" class="main2019_horizontal-news-image lazy wp-post-image" alt="Вера Алентова" loading="lazy" />                </a>
+                <div class="main2019_horizontal-news-text-wrapper">
+                    <a class="main2019_horizontal-news-title" href="https://www.eg.ru/showbusiness/3018292-izurdovannaya-vera-alentova/">Коллега по сцене показала изурдованную Веру Алентову</a>
+                    <span class="main2019_horizontal-news-lead">Дарья Повереннова опубликовала снимки, на которых предстает 80-летняя знаменитость</span>
+                </div>
+                <a class="main2019_horizontal-news-section" href="/showbusiness/">ЗВЕЗДЫ</a>            </div>
+        </div>
+
+                    </div>
+                <div class="row main2019_pos-relative-large">
+                    <div class="large-6 medium-12 small-12 column">
+                        <div class="row main2019_pos-relative-medium">
+                                    <div class="large-6 medium-6 small-12 column main2019_border-bottom">
+            <div class="main2019_vertical-news">
+                <div class="main2019_vertical-news-image-wrapper">
+                    <a class="main2019_vertical-news-image-link" href="https://www.eg.ru/society/3018382-sposob-poluchat-srazu-dve-pensii/">
+                        <img width="240" height="180" src="/wp-content/uploads/2023/01/pensionery033421-240x180.jpg" class="main2019_vertical-news-image lazy wp-post-image" alt="Налог на имущество и НДФЛ: от каких обязательств освобождены пенсионеры" loading="lazy" />
+                    </a>
+                    <span class="main2019_vertical-news-small-label">
+                                    <i class="far fa-user" aria-hidden="true"></i>
+                                </span>
+                    <a class="main2019_vertical-news-section" href="/society/">ОБЩЕСТВО</a>                </div>
+                <a class="main2019_vertical-news-title" href="https://www.eg.ru/society/3018382-sposob-poluchat-srazu-dve-pensii/">Юрист раскрыл способ получать сразу две пенсии</a>
+                <span class="main2019_vertical-news-lead" >Эта возможность доступна сразу несколькими категориям граждан</span>
+            </div>
+        </div>
+
+
+            <div class="large-6 medium-6 small-12 column main2019_border-bottom">
+            <div class="main2019_vertical-news">
+                <div class="main2019_vertical-news-image-wrapper">
+                    <a class="main2019_vertical-news-image-link" href="https://www.eg.ru/showbusiness/3018262-inna-vyhodceva-smirilas-s-sudboy/">
+                        <img width="240" height="180" src="/wp-content/uploads/2023/02/inna-vyhodceva013254-240x180.jpg" class="main2019_vertical-news-image lazy wp-post-image" alt="«Вы меня такую не захотите видеть»: звезда фильма «Москва слезам не верит» Инна Выходцева молит о помощи" loading="lazy" />
+                    </a>
+                    <span class="main2019_vertical-news-small-label">
+                                    <i class="far fa-user" aria-hidden="true"></i>
+                                </span>
+                    <a class="main2019_vertical-news-section" href="/showbusiness/">ЗВЕЗДЫ</a>                </div>
+                <a class="main2019_vertical-news-title" href="https://www.eg.ru/showbusiness/3018262-inna-vyhodceva-smirilas-s-sudboy/">«Мой выбор»: загремевшая в дом престарелых Инна Выходцева смирилась с горькой судьбой</a>
+                <span class="main2019_vertical-news-lead" >После скандала звезда фильма «Москва слезам не верит» сменила тон</span>
+            </div>
+        </div>
+
+
+                            </div>
+                    </div>
+                    <div class="large-6 medium-12 small-12 column">
+                        <div class="row main2019_pos-relative-medium">
+                                    <div class="large-6 medium-6 small-12 column main2019_border-bottom">
+            <div class="main2019_vertical-news">
+                <div class="main2019_vertical-news-image-wrapper">
+                    <a class="main2019_vertical-news-image-link" href="https://www.eg.ru/showbusiness/3018242-malahov-predyavil-malysha/">
+                        <img width="240" height="180" src="/wp-content/uploads/2022/02/4444015118-240x180.jpg" class="main2019_vertical-news-image lazy wp-post-image" alt="Андрей Малахов показал свою сосульку" loading="lazy" />
+                    </a>
+                    <span class="main2019_vertical-news-small-label">
+                                    <i class="far fa-user" aria-hidden="true"></i>
+                                </span>
+                    <a class="main2019_vertical-news-section" href="/showbusiness/">ЗВЕЗДЫ</a>                </div>
+                <a class="main2019_vertical-news-title" href="https://www.eg.ru/showbusiness/3018242-malahov-predyavil-malysha/">Счастливый Андрей Малахов предъявил малыша</a>
+                <span class="main2019_vertical-news-lead" >В своем Telegram-канале ведущий опубликовал снимки, которые мгновенно вызвали переполох</span>
+            </div>
+        </div>
+
+
+            <div class="large-6 medium-6 small-12 column main2019_border-bottom">
+            <div class="main2019_vertical-news">
+                <div class="main2019_vertical-news-image-wrapper">
+                    <a class="main2019_vertical-news-image-link" href="https://www.eg.ru/showbusiness/3018142-chto-svyazyvalo-sadalskogo-s-sobchakom/">
+                        <img width="240" height="180" src="/wp-content/uploads/2021/11/bezymyannyy054630-240x180.jpg" class="main2019_vertical-news-image lazy wp-post-image" alt="Помолодевшего Садальского спутали с Авериным" loading="lazy" />
+                    </a>
+                    <span class="main2019_vertical-news-small-label">
+                                    <i class="far fa-user" aria-hidden="true"></i>
+                                </span>
+                    <a class="main2019_vertical-news-section" href="/showbusiness/">ЗВЕЗДЫ</a>                </div>
+                <a class="main2019_vertical-news-title" href="https://www.eg.ru/showbusiness/3018142-chto-svyazyvalo-sadalskogo-s-sobchakom/">В ногах у политика и его жены: что связывало Садальского с Собчаком</a>
+                <span class="main2019_vertical-news-lead" >Артист показал архивное фото</span>
+            </div>
+        </div>
+
+
+                            </div>
+                    </div>
+                </div>
+
+
+            </div>
+            <footer class="main2019_footer">
+                
+
+
+    <div class="row">
+
+
+
+    
+
+
+
+        
+
+            
+
+                
+
+                
+                    <div class="large-4 hide-for-medium-down column">
+    <div class="main2019_footer-collection">
+        <div class="main2019_footer-collection-header">
+            <span class="main2019_footer-collection-header-title">САМОЕ
+
+                ЧИТАЕМОЕ                
+                
+                 </span>
+        </div>
+        <div class="main2019_footer-collection-body">
+            
+                <div class="main2019_footer-collection-item">
+                    <a class="main2019_footer-collection-item-image-link" href="https://www.eg.ru/showbusiness/3013642-igor-nikolaev-pokidaet-rossiyu/">
+
+
+                                                <img width="80" height="80" src="/wp-content/uploads/2023/02/igor-nikolaev-2051542-80x80.jpg" class="main2019_footer-collection-item-image lazy wp-post-image" alt="Лежит в реанимации, не может разговаривать: появились тревожные данные о реальном состоянии Николаева" loading="lazy" />                    </a>
+                    <a class="main2019_footer-collection-item-title" href="https://www.eg.ru/showbusiness/3013642-igor-nikolaev-pokidaet-rossiyu/">Игорь Николаев покидает Россию: вот что он сказал</a>
+                    <div class="main2019_footer-collection-item-meta">
+
+                        <span class="main2019_footer-collection-item-meta-comments"><i
+                                    class="far fa-comment-alt"></i>4</span>
+
+                    </div>
+                </div>
+
+
+            
+                <div class="main2019_footer-collection-item">
+                    <a class="main2019_footer-collection-item-image-link" href="https://www.eg.ru/showbusiness/3010362-sergey-lazarev-sdelal-zayavlenie-o-svadbe/">
+
+
+                                                <img width="80" height="80" src="/wp-content/uploads/2023/02/whatsapp-image-2023-02-09-at-194452031822-80x80.jpeg" class="main2019_footer-collection-item-image lazy wp-post-image" alt="Прошел долгий путь: 39-летний Сергей Лазарев сделал заявление о свадьбе" loading="lazy" />                    </a>
+                    <a class="main2019_footer-collection-item-title" href="https://www.eg.ru/showbusiness/3010362-sergey-lazarev-sdelal-zayavlenie-o-svadbe/">Прошел долгий путь: 39-летний Сергей Лазарев сделал заявление о свадьбе</a>
+                    <div class="main2019_footer-collection-item-meta">
+
+                        <span class="main2019_footer-collection-item-meta-comments"><i
+                                    class="far fa-comment-alt"></i>10</span>
+
+                    </div>
+                </div>
+
+
+            
+                <div class="main2019_footer-collection-item">
+                    <a class="main2019_footer-collection-item-image-link" href="https://www.eg.ru/showbusiness/3000982-plyunuvshiy-v-rossiyu-smolyaninov-perevoplotilsya-v-grudastuyu-ukrainku/">
+
+
+                                                <img width="80" height="80" src="/wp-content/uploads/2023/02/whatsapp-image-2023-02-09-at-194452042359-80x80.jpeg" class="main2019_footer-collection-item-image lazy wp-post-image" alt="«Тихо шифером шурша»: плюнувший в Россию Смольянинов перевоплотился в грудастую украинку" loading="lazy" />                    </a>
+                    <a class="main2019_footer-collection-item-title" href="https://www.eg.ru/showbusiness/3000982-plyunuvshiy-v-rossiyu-smolyaninov-perevoplotilsya-v-grudastuyu-ukrainku/">«Тихо шифером шурша»: плюнувший в Россию Смольянинов перевоплотился в грудастую украинку</a>
+                    <div class="main2019_footer-collection-item-meta">
+
+                        <span class="main2019_footer-collection-item-meta-comments"><i
+                                    class="far fa-comment-alt"></i>43</span>
+
+                    </div>
+                </div>
+
+
+            
+        </div>
+    </div>
+</div>
+
+                
+
+                    
+
+    
+
+
+
+        
+
+            
+
+                
+
+                
+                    <div class="large-4 hide-for-medium-down column">
+    <div class="main2019_footer-collection">
+        <div class="main2019_footer-collection-header">
+            <span class="main2019_footer-collection-header-title">САМОЕ
+
+                ОБСУЖДАЕМОЕ                
+                
+                 </span>
+        </div>
+        <div class="main2019_footer-collection-body">
+            
+                <div class="main2019_footer-collection-item">
+                    <a class="main2019_footer-collection-item-image-link" href="https://www.eg.ru/showbusiness/3000982-plyunuvshiy-v-rossiyu-smolyaninov-perevoplotilsya-v-grudastuyu-ukrainku/">
+
+
+                                                <img width="80" height="80" src="/wp-content/uploads/2023/02/whatsapp-image-2023-02-09-at-194452042359-80x80.jpeg" class="main2019_footer-collection-item-image lazy wp-post-image" alt="«Тихо шифером шурша»: плюнувший в Россию Смольянинов перевоплотился в грудастую украинку" loading="lazy" />                    </a>
+                    <a class="main2019_footer-collection-item-title" href="https://www.eg.ru/showbusiness/3000982-plyunuvshiy-v-rossiyu-smolyaninov-perevoplotilsya-v-grudastuyu-ukrainku/">«Тихо шифером шурша»: плюнувший в Россию Смольянинов перевоплотился в грудастую украинку</a>
+                    <div class="main2019_footer-collection-item-meta">
+
+                        <span class="main2019_footer-collection-item-meta-comments"><i
+                                    class="far fa-comment-alt"></i>43</span>
+
+                    </div>
+                </div>
+
+
+            
+                <div class="main2019_footer-collection-item">
+                    <a class="main2019_footer-collection-item-image-link" href="https://www.eg.ru/showbusiness/3011332-jenatyy-shaman-lishil-pokoya-alenu-vodonaevu/">
+
+
+                                                <img width="80" height="80" src="/wp-content/uploads/2023/02/whatsapp-image-2023-02-09-at-194452065926-80x80.jpeg" class="main2019_footer-collection-item-image lazy wp-post-image" alt="«Хочется знать, что он чувствует»: как женатый SHAMAN лишил покоя Алену Водонаеву" loading="lazy" />                    </a>
+                    <a class="main2019_footer-collection-item-title" href="https://www.eg.ru/showbusiness/3011332-jenatyy-shaman-lishil-pokoya-alenu-vodonaevu/">«Хочется знать, что он чувствует»: как женатый SHAMAN лишил покоя Алену Водонаеву</a>
+                    <div class="main2019_footer-collection-item-meta">
+
+                        <span class="main2019_footer-collection-item-meta-comments"><i
+                                    class="far fa-comment-alt"></i>16</span>
+
+                    </div>
+                </div>
+
+
+            
+                <div class="main2019_footer-collection-item">
+                    <a class="main2019_footer-collection-item-image-link" href="https://www.eg.ru/showbusiness/3003612-nemolyaeva-pobila-ahedjakovu/">
+
+
+                                                <img width="80" height="80" src="/wp-content/uploads/2023/02/whatsapp-image-2023-02-08-at-160335021205-80x80.jpeg" class="main2019_footer-collection-item-image lazy wp-post-image" alt="«Это потеря»: близкий друг откровенно о ликвидированной Ахеджаковой" loading="lazy" />                    </a>
+                    <a class="main2019_footer-collection-item-title" href="https://www.eg.ru/showbusiness/3003612-nemolyaeva-pobila-ahedjakovu/">Немоляева публично побила изгнанную Ахеджакову</a>
+                    <div class="main2019_footer-collection-item-meta">
+
+                        <span class="main2019_footer-collection-item-meta-comments"><i
+                                    class="far fa-comment-alt"></i>15</span>
+
+                    </div>
+                </div>
+
+
+            
+        </div>
+    </div>
+</div>
+<!-- profile tmp/cached-egpopular730201921.html 0.041682004928589  -->
+                
+
+                    
+
+    
+
+
+
+        
+
+            
+
+                
+                    <div class="large-4 hide-for-medium-down column">
+    <div class="main2019_footer-collection">
+        <div class="main2019_footer-collection-header">
+            <span class="main2019_footer-collection-header-title">САМОЕ СВЕЖЕЕ</span>
+        </div>
+        <div class="main2019_footer-collection-body">
+
+            
+                        <div class="main2019_footer-collection-item">
+                            <a class="main2019_footer-collection-item-image-link"
+                               href="https://www.eg.ru/showbusiness/3019372-kuda-propala-rapuncel/">
+
+
+                                                                <img width="80" height="80" src="/wp-content/uploads/2023/02/olga-rapuncel-092524-80x80.jpg" class="main2019_footer-collection-item-image lazy wp-post-image" alt="Куда пропала звезда «Дома-2» Ольга Рапунцель с детьми после сообщения о разводе" loading="lazy" />                            </a>
+                            <a class="main2019_footer-collection-item-title"
+                               href="https://www.eg.ru/showbusiness/3019372-kuda-propala-rapuncel/">Куда пропала звезда «Дома-2» Ольга Рапунцель с детьми после сообщения о разводе</a>
+                            <div class="main2019_footer-collection-item-meta">
+
+                                <span class="main2019_footer-collection-item-meta-comments"><i
+                                            class="far fa-comment-alt"></i>0</span>
+
+                            </div>
+                        </div>
+
+
+                                                
+                        <div class="main2019_footer-collection-item">
+                            <a class="main2019_footer-collection-item-image-link"
+                               href="https://www.eg.ru/showbusiness/3019412-narod-goryuet-po-rano-ushedshemu-bogomolovu/">
+
+
+                                                                <img width="80" height="80" src="/wp-content/uploads/2022/07/5052245044359-80x80.png" class="main2019_footer-collection-item-image lazy wp-post-image" alt="Т«Как жаль»: народ горюет по рано ушедшему Богомолову" loading="lazy" />                            </a>
+                            <a class="main2019_footer-collection-item-title"
+                               href="https://www.eg.ru/showbusiness/3019412-narod-goryuet-po-rano-ushedshemu-bogomolovu/">«Как жаль»: народ горюет по рано ушедшему Богомолову</a>
+                            <div class="main2019_footer-collection-item-meta">
+
+                                <span class="main2019_footer-collection-item-meta-comments"><i
+                                            class="far fa-comment-alt"></i>0</span>
+
+                            </div>
+                        </div>
+
+
+                                                
+                        <div class="main2019_footer-collection-item">
+                            <a class="main2019_footer-collection-item-image-link"
+                               href="https://www.eg.ru/showbusiness/3019122-zvezda-uralskih-pelmeney-perenesla-operaciyu/">
+
+
+                                                                <img width="80" height="80" src="/wp-content/uploads/2022/09/lgn60997794033708-80x80.jpg" class="main2019_footer-collection-item-image lazy wp-post-image" alt="Теперь только на костылях: звезда &quot;Уральских пельменей&quot; Илана Юрьева перенесла операцию" loading="lazy" />                            </a>
+                            <a class="main2019_footer-collection-item-title"
+                               href="https://www.eg.ru/showbusiness/3019122-zvezda-uralskih-pelmeney-perenesla-operaciyu/">Теперь только на костылях: звезда «Уральских пельменей» Илана Юрьева перенесла операцию</a>
+                            <div class="main2019_footer-collection-item-meta">
+
+                                <span class="main2019_footer-collection-item-meta-comments"><i
+                                            class="far fa-comment-alt"></i>0</span>
+
+                            </div>
+                        </div>
+
+
+                                                                                                                                    
+
+        </div>
+    </div>
+</div>
+
+
+                
+
+                
+
+                    
+
+    
+
+</div>
+
+
+
+
+    <div class="row">
+        <div class="column">
+            <div class="main2019_footer-bottom pttt15" >
+                <div class="main2019_footer-bottom-logo ">
+                    <a class="main2019_footer-bottom-logo-link" href="/">
+                        <img loading="lazy" src="/assets/images/logo.png" class=" lazy main2019_footer-bottom-logo-image" alt="alt text">
+                    </a>
+                    <span class="main2019_footer-bottom-logo-caption">© ООО «Норд Групп» 2022
+
+Возрастная категория сайта: 18+</span>
+                </div>
+                <ul class="main2019_footer-bottom-nav " >
+
+                    <li  class="main2019_footer-bottom-nav-item dinline"> <a class="main2019_footer-bottom-nav-link"  href="/contacts/">Контакты</a></li>
+<li  class="main2019_footer-bottom-nav-item dinline"> <a class="main2019_footer-bottom-nav-link"  href="/advert/">Реклама</a></li>
+                </ul>
+                <div  class="main2019_footer-bottom-disclaimer hide-for-medium-only hide-for-small-only mtt15">Сетевое издание Экспресс газета - Online зарегистрировано Роскомнадзором, свидетельство Эл № ФС77-81010 от 25 мая 2021 года. Учредитель Общество с ограниченной ответственностью "Медиа Ресурс".
+Редакция  ООО «Норд Групп»
+Главный редактор Никитин Сергей Львович.
+eg@eg.ru 
+телефон редакции: (495) ‎789-42-70
+127422, Москва, ул. Тимирязевская, 1
+
+Исключительные права на материалы, размещенные в сетевом издании Экспресс газета - Online  (www.eg.ru), в соответствии с законодательством Российской Федерации об охране результатов интеллектуальной деятельности принадлежат ООО «Норд Групп» ©, и  не подлежат использованию другими лицами в какой бы то ни было форме без письменного разрешения правообладателя.
+Приобретение прав:  ‎(495) 789-42-68 (borisova@eg.ru)
+Сообщения и комментарии читателей сетевого издания размещаются без предварительного редактирования. Редакция оставляет за собой право удалить их с сайта или отредактировать, если указанные сообщения и комментарии являются злоупотреблением свободой массовой информации или нарушением иных требований закона.                </div>
+                <div class="main2019_footer-bottom-socials-n-counters">
+                    <div class="main2019_footer-bottom-socials">
+                        <a rel='noreferrer' target="_blank" href="https://ok.ru/egazeta" class="main2019_footer-bottom-social"><i class="fab fa-odnoklassniki" aria-hidden="true"></i></a>
+        <a rel='noreferrer' target="_blank" href="https://t.me/egonline" class="main2019_footer-bottom-social"><i class="fab fa-telegram" aria-hidden="true"></i></a>
+
+
+            <a rel='noreferrer' href="https://vk.com/egonline" class="main2019_footer-bottom-social"><i class="fab fa-vk" aria-hidden="true"></i></a>
+            <a rel='noreferrer'   target="_blank" 
+ href="https://twitter.com/ExpressGazeta" class="main2019_footer-bottom-social"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+
+                    </div>
+                    <div class="main2019_footer-bottom-counters">
+                        <div class='znamya796678 znamya znamya_all'><!--LiveInternet counter--><script> 
+new Image().src = "https://counter.yadro.ru/hit;Forvard_Media?r"+ 
+escape(document.referrer)+((typeof(screen)=="undefined")?"": 
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth? 
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+ 
+";h"+escape(document.title.substring(0,150))+ 
+";"+Math.random();</script><!--/LiveInternet--> 
+
+<!-- Yandex.Metrika counter -->
+<script   >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(10525402, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        trackHash:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/10525402" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+
+<!-- Top.Mail.Ru counter -->
+<script  >
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "199954", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = "https://top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "tmr-code");
+</script>
+<noscript><div><img src="https://top-fwz1.mail.ru/counter?id=199954;js=na" style="position:absolute;left:-9999px;" alt="Top.Mail.Ru" /></div></noscript>
+<!-- /Top.Mail.Ru counter -->
+
+<style>
+    .main2019_thereisaquestion {display:none;}
+    </style>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-863669-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<!--LiveInternet counter--><img id="licntAFB9" width="88" height="31" style="border:0" 
+title="LiveInternet: показано число просмотров и посетителей за 24 часа"
+src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7"
+alt=""/></a>
+<div id="adfox_1660206516636927"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 280016,
+            containerId: 'adfox_1660206516636927',
+            params: {
+                pp: 'g',
+                ps: 'dbzr',
+                p2: 'huht',
+                puid1: ''
+            }
+        })
+    })
+</script>
+<!--AdFox START-->
+<!--https://eg.ru-->
+<!--Площадка: eg.ru / * / *-->
+<!--Тип баннера: Cookie_4-->
+<!--Расположение: верх страницы-->
+<div id="adfox_16630527065068604"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 280016,
+            containerId: 'adfox_16630527065068604',
+            params: {
+                pp: 'g',
+                ps: 'dbzr',
+                p2: 'hvjj',
+                puid1: ''
+            }
+        })
+    })
+</script>
+
+
+
+
+
+
+
+
+</div   ><!--znamya796678-->
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+    <script>
+
+
+
+
+        setTimeout(function(){
+            window.location.reload(1);ym(10525402,'reachGoal','refresh');
+        }, Math.floor(1000*(Math.random() * (100 - 80 + 1) + 80)));
+
+        // window.onbeforeunload = function () {    window.scrollTo(0, 0);    }
+
+    </script>
+
+    
+<!-- tns-counter.ru -->
+
+
+<script >
+    (function (win, doc, cb) {
+        (win[cb] = win[cb] || []).push(function () {
+            try {
+                tnsCounterEg_ru = new TNS.TnsCounter({
+                    'account': 'eg_ru',
+                    'tmsec': 'eg_main-page'
+                });
+            } catch (e) {
+            }
+        });
+
+        var tnsscript = doc.createElement('script');
+        tnsscript.type = 'text/javascript';
+        tnsscript.async = true;
+        tnsscript.src = ('https:' == doc.location.protocol ? 'https:' : 'ht' + 'tp:') +
+            '//www.tns-counter.ru/tcounter.js';
+        var s = doc.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(tnsscript, s);
+    })(window, this.document, 'tnscounter_callback');
+</script>
+<noscript>
+    <img src="//www.tns-counter.ru/V13a****eg_ru/ru/UTF-8/tmsec=eg_main-page/" width="0" height="0" alt=""/>
+</noscript>
+<!--/ tns-counter.ru -->
+
+
+
+
+
+    <div id="adfox_164922826793384235"></div>
+
+            </footer>
+
+        </div>
+    </div>
+</div>
+<script type="text/javascript" src="/assets/js/slick.min.js"></script>
+<script type="text/javascript" src="/assets/js/app2023.js"></script>
+<script>
+
+    function eg_agree() {
+
+        $.cookie('egagreement', '1', {expires: 3650, path: '/'});
+        $('#agreement').hide();
+    }
+
+    function egblockquote() {
+        $('blockquote:not([class]').addClass('egblockquote');
+    }
+
+
+
+</script>
+<script>
+    (function ($) {
+        const params = {
+            arrows: false,
+            dots: false,
+            variableWidth: true,
+            infinite: false
+        };
+        // $('.main2019_thereisaquestion-body').slick(params);
+        //$('.main2019_promocodes').slick(params);
+        //$('.main2019_footer-tags').slick(params);
+
+
+        $('.centerMC').slick({
+            centerMode: true,
+            centerPadding: '40px',
+            slidesToShow: 1,
+            responsive: [
+                {
+                    breakpoint: 768,
+                    settings: {
+                        arrows: false,
+                        centerMode: true,
+                        centerPadding: '40px',
+                        slidesToShow: 1
+                    }
+                },
+                {
+                    breakpoint: 480,
+                    settings: {
+                        arrows: false,
+                        centerMode: true,
+                        centerPadding: '40px',
+                        slidesToShow: 1
+                    }
+                }
+            ]
+        });
+
+
+    })(jQuery);
+</script>
+<script>
+
+    function isVisible(elem) {
+
+        var coords = elem.getBoundingClientRect();
+
+        var windowHeight = document.documentElement.clientHeight;
+
+        // верхняя граница elem в пределах видимости ИЛИ нижняя граница видима
+        var topVisible = coords.top > 0 && coords.top < windowHeight;
+        var bottomVisible = coords.bottom < windowHeight && coords.bottom > 0;
+
+        return topVisible || bottomVisible;
+    }
+
+
+    function showVisible() {
+        var imgs = document.querySelectorAll('[loading=lazy],.lazy')
+        for (var i = 0; i < imgs.length; i++) {
+
+            var img = imgs[i];
+
+            var realsrc = img.dataset.src;
+            if (!realsrc) continue;
+
+            if (isVisible(img)) {
+                img.src = realsrc;
+                img.removeAttribute('data-src');
+            }
+        }
+
+    }
+
+    window.onscroll = showVisible;
+    showVisible();
+</script>
+
+
+
+</body>
+</html><!-- profile all 0.00034785270690918  -->

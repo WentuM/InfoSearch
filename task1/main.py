@@ -1,7 +1,5 @@
 from string import Formatter
 import requests
-index_file = open("index.txt", "w", encoding="utf-8")
-vikachka_file = open("выкачка.txt", "w", encoding="utf-8")
 
 BASE_URL = 'https://www.liveinternet.ru/rating/today.tsv?;page={page}'
 HEADERS = {
@@ -10,6 +8,10 @@ HEADERS = {
 }
 
 LOADS_PACKAGE_NAME = 'loads'
+TASK1_PACKAGE_NAME = 'task1'
+
+index_file = open(TASK1_PACKAGE_NAME + '/' + "index.txt", "w", encoding="utf-8")
+
 
 def print_hi(name):
     sites_count = 0
@@ -29,7 +31,11 @@ def print_hi(name):
         try:
             for url in urls:
                 page_response = requests.get(url, headers=HEADERS)
+                filename = TASK1_PACKAGE_NAME + '/' + LOADS_PACKAGE_NAME + '/' + "выкачка-" + url.replace('/',
+                                                                                                          '') + ".txt"
+                vikachka_file = open(filename, "w", encoding="utf-8")
                 vikachka_file.write(page_response.text)
+                vikachka_file.close()
                 index_file.write(str(sites_count) + '.' + url + "\n")
                 sites_count += 1
 
@@ -37,11 +43,11 @@ def print_hi(name):
             continue
 
     index_file.close()
-    vikachka_file.close()
+
 
 def get_url_for_page(page: int) -> str:
     return Formatter().format(BASE_URL, page=str(page))
 
+
 if __name__ == '__main__':
     print_hi('PyCharm')
-

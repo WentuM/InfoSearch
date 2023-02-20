@@ -1,0 +1,1587 @@
+<!DOCTYPE html>
+<html prefix="og:http://ogp.me/ns# article:http://ogp.me/ns/article#" lang="ru">
+<head>
+<meta charset="utf-8">
+<title>Военное обозрение</title>
+<meta name="description" content="Военное обозрение - обзор военно-политической обстановки в мире, а также описание военной техники и оружия.">
+<meta name="keywords" content="военное обозрение, военный сайт, оружие, России, вооружение, война, новости, армия РФ, вооруженные силы, военный флот, военная авиация, офицеры, ВМФ, армия России, ВВС, моряк, министерство обороны, военная техника">
+<meta name="generator" content="DataLife Engine (http://dle-news.ru)">
+<link rel="search" type="application/opensearchdescription+xml" href="https://topwar.ru/index.php?do=opensearch" title="Военное обозрение">
+<link rel="canonical" href="https://topwar.ru/">
+<link rel="alternate" type="application/rss+xml" title="Военное обозрение" href="https://topwar.ru/rss.xml">
+<meta name="yandex-verification" content="4e344f2b6a44882a" />
+<meta name="HandheldFriendly" content="true">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="initial-scale=1.0, width=device-width">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="mobile-web-app-capable" content="yes">
+<meta property="yandex_recommendations_kill" content="1" />
+<link rel="preload" as="style" href="/templates/topwar/css/core.css?1676888965">
+<link rel="preload" as="style" href="/templates/topwar/css/styles.css?1676888965">
+<link rel="preconnect" href="https://topwar.ru/" fetchpriority="high">
+<link rel="alternate" hreflang="x-default" href="https://topwar.ru/" />
+<link rel="alternate" hreflang="ru" href="https://topwar.ru/" />
+<link rel="alternate" hreflang="en" href="https://en.topwar.ru/" />
+<link rel="alternate" hreflang="de" href="https://de.topwar.ru/" />
+<link rel="alternate" hreflang="es" href="https://es.topwar.ru/" />
+<link rel="alternate" hreflang="fr" href="https://fr.topwar.ru/" />
+<link rel="alternate" hreflang="ja" href="https://ja.topwar.ru/" />
+<link rel="alternate" hreflang="pt" href="https://pt.topwar.ru/" />
+<link rel="alternate" hreflang="hi" href="https://hi.topwar.ru/" />
+<link rel="alternate" hreflang="tr" href="https://tr.topwar.ru/" />
+<link rel="alternate" hreflang="it" href="https://it.topwar.ru/" />
+<link rel="alternate" hreflang="ko" href="https://ko.topwar.ru/" />
+<link rel="alternate" hreflang="ar" href="https://ar.topwar.ru/" />
+<link rel="alternate" hreflang="bn" href="https://bn.topwar.ru/" />
+<link rel="alternate" hreflang="id" href="https://id.topwar.ru/" />
+<link rel="alternate" hreflang="jw" href="https://jw.topwar.ru/" />
+<link rel="alternate" hreflang="vi" href="https://vi.topwar.ru/" />
+<link rel="alternate" hreflang="pl" href="https://pl.topwar.ru/" />
+<link rel="alternate" hreflang="ro" href="https://ro.topwar.ru/" />
+<link rel="alternate" hreflang="nl" href="https://nl.topwar.ru/" />
+<link rel="alternate" hreflang="fa" href="https://fa.topwar.ru/" />
+<link rel="alternate" hreflang="iw" href="https://iw.topwar.ru/" />
+<link rel="alternate" hreflang="sv" href="https://sv.topwar.ru/" />
+<link rel="alternate" hreflang="cs" href="https://cs.topwar.ru/" />
+<link rel="alternate" hreflang="el" href="https://el.topwar.ru/" />
+<link rel="alternate" hreflang="fi" href="https://fi.topwar.ru/" />
+<link rel="alternate" hreflang="sr" href="https://sr.topwar.ru/" />
+<link rel="alternate" hreflang="hu" href="https://hu.topwar.ru/" />
+<link rel="alternate" hreflang="zh" href="https://zh-cn.topwar.ru/" />
+<link rel="dns-prefetch" href="https://yandex.ru">
+<link rel="dns-prefetch" href="https://mc.yandex.ru">
+<link rel="dns-prefetch" href="https://ads.betweendigital.com">
+<link rel="dns-prefetch" href="https://www.google-analytics.com">
+<link rel="manifest" href="/manifest.json">
+<link rel="shortcut icon" href="/templates/topwar/images/favicon.ico">
+<link rel="apple-touch-icon" sizes="57x57" href="/templates/topwar/images/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/templates/topwar/images/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/templates/topwar/images/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/templates/topwar/images/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/templates/topwar/images/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/templates/topwar/images/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/templates/topwar/images/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/templates/topwar/images/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/templates/topwar/images/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/templates/topwar/images/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="512x512" href="/templates/topwar/images/android-icon-512x512.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/templates/topwar/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/templates/topwar/images/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/templates/topwar/images/favicon-16x16.png">
+<meta name="msapplication-TileImage" content="/templates/topwar/images/ms-icon-144x144.png">
+<meta name="msapplication-TileColor" content="#f7f7f7">
+<meta name="theme-color" content="#f7f7f7">
+<link rel="preload" href="/templates/topwar/fonts/icon.woff2" as="font" type="font/woff2" crossorigin>
+<link href="/templates/topwar/css/core.css?1676888965" type="text/css" rel="stylesheet">
+<link href="/templates/topwar/css/styles.css?1676888965" type="text/css" rel="stylesheet">
+<link href="/templates/topwar/css/short.css?1676888965" type="text/css" rel="stylesheet">
+<script>window.yaContextCb=window.yaContextCb||[]</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+</head>
+<body>
+<div class="page wrp">
+<header class="header font">
+<div class="h-date item c-muted" style="display: none;">
+<i class="i__time c-red"></i>
+<span class="fw-b">13:29</span>
+<span>20 февраля</span>
+<a href="/2023/02/20/" class="item-link"></a>
+</div>
+<a class="logotype" href="/" title="Военное обозрение">
+<span class="sr-only">Военное обозрение</span>
+<svg><use xlink:href="/templates/topwar/images/logo.svg#logo_light"></svg>
+</a>
+<div class="h-tools">
+<button id="menu-call" class="mobilemenu btn-reset" aria-label="Mobile menu" style="display: none;"><span class="butterbrod"><i></i><i></i><i></i></span></button>
+<a class="h-tools-item fw-b" id="login-link" href="#loginmodal" data-toggle="modal" rel="nofollow" role="button" aria-label="Login">
+<i class="i__login"></i><span>Войти</span>
+</a>
+<a class="h-tools-item fw-b" id="reg-link" href="/index.php?do=register">
+<i class="i__reg"></i><span>Регистрация</span>
+</a>
+</div>
+</header>
+<div class="headmenu bg-red font">
+<a class="hm-home" style="display: none;" href="/"><i class="i__home"></i></a>
+<div class="h-menu">
+<div class="h-langs" style="display: none;"><div class="langs">
+<a href="#" onclick="doGTranslate('ru|ru');return false;" title="Русский" class="gflag nturl"><i style="background-position: 0 0;"></i></a>
+<a href="#" onclick="doGTranslate('ru|zh-CN');return false;" title="Китайский (упрощенный)" class="gflag nturl"><i style="background-position: -24px 0;"></i></a>
+<a href="#" onclick="doGTranslate('ru|en');return false;" title="Английский" class="gflag nturl"><i style="background-position: -48px 0;"></i></a>
+<a href="#" onclick="doGTranslate('ru|de');return false;" title="Немецкий" class="gflag nturl"><i style="background-position: -72px 0;"></i></a>
+<a href="#" onclick="doGTranslate('ru|fr');return false;" title="Французский" class="gflag nturl"><i style="background-position: -120px 0;"></i></a>
+<a href="#" onclick="doGTranslate('ru|es');return false;" title="Испанский" class="gflag nturl"><i style="background-position: -96px 0;"></i></a>
+<a href="#" onclick="doGTranslate('ru|it');return false;" title="Итальянский" class="gflag nturl"><i style="background-position: -144px 0;"></i></a>
+</div></div>
+<button type="button" class="menu_close modal-close btn-reset" style="display: none;"><i class="i__cross"></i></button>
+<div class="h-menu-scrl">
+<nav class="h-menu-sep hmenu-main">
+<a href="/news/" target="_self">Новости</a>
+<a href="/armament/" target="_self">Вооружение</a>
+<a href="/history/" target="_self">История</a>
+<a href="/opinions/" target="_self">Мнения</a>
+<a href="/analytics/" target="_self">Аналитика</a>
+<a href="/media/" target="_self">Видео</a>
+<a href="/newposts/" target="_self">Новое на сайте</a>
+</nav>
+</div>
+</div>
+<a href="/index.php?do=search" style="display: none;" onclick="$('#search_dialog').modal('show');return false;" class="hm-search" title="Поиск по сайту"><i class="i__search"></i></a>
+</div>
+<div class="post__group post__bigscreens">
+<article class="post item c-white bg-dark">
+<div class="post-img fit-cover">
+<img src="/uploads/posts/2023-02/tank-zsu-e1675663428373.jpg" alt="Американский эксперт: Наступление ВСУ на юге вряд ли состоится, Украина больше не имеет преимущества в людских ресурсах" width="100%" decoding="async">
+</div>
+<div class="post-cont">
+<div class="post-meta fs-0875 fw-b">
+<time class="meta__time" datetime="2023-02-20T10:44" style="display:none;">Сегодня, 10:44</time>
+<div class="meta__views"><i class="i__views"></i>6 535</div>
+<div class="meta__coms"><i class="i__com"></i>25</div>
+</div>
+<h2 class="post-title font fs-1375">
+<a class="item-link" href="https://topwar.ru/211331-amerikanskij-jekspert-nastuplenie-vsu-na-juge-vrjad-li-sostoitsja-ukraina-bolshe-ne-imeet-preimuschestva-v-ljudskih-resursah.html">Американский эксперт: Наступление ВСУ на юге вряд ли состоится, Украина больше не имеет преимущества в людских ресурсах</a>
+</h2>
+</div>
+</article><article class="post item c-white bg-dark">
+<div class="post-img fit-cover">
+<img src="/uploads/posts/2023-02/1676887450_snimok.jpg" alt="На Украине объявили воздушную тревогу на фоне приезда президента США Байдена в Киев" width="100%" decoding="async">
+</div>
+<div class="post-cont">
+<div class="post-meta fs-0875 fw-b">
+<time class="meta__time" datetime="2023-02-20T13:01" style="display:none;">Сегодня, 13:01</time>
+<div class="meta__views"><i class="i__views"></i>0</div>
+<div class="meta__coms"><i class="i__com"></i>38</div>
+</div>
+<h2 class="post-title font fs-1375">
+<a class="item-link" href="https://topwar.ru/211346-na-ukraine-objavili-vozdushnuju-trevogu-na-fone-priezda-prezidenta-ssha-bajdena-v-kiev.html">На Украине объявили воздушную тревогу на фоне приезда президента США Байдена в Киев</a>
+</h2>
+</div>
+</article>
+</div>
+<div class="pad-cont">
+<div class="post__group post__last post__c4 c4-to-list">
+<article class="post item">
+<div class="post-cont font">
+<time class="c-muted fw-b fs-0875" datetime="2023-02-20T13:02">Сегодня, 13:02</time>
+<h2 class="post-title fs-11">
+<a class="item-link" href="https://topwar.ru/211345-francuzskoe-komandovanie-podtverdilo-vyvod-vojsk-iz-burkina-faso.html">Французское командование подтвердило вывод войск из Буркина-Фасо</a>
+</h2>
+</div>
+</article><article class="post item">
+<div class="post-cont font">
+<time class="c-muted fw-b fs-0875" datetime="2023-02-20T13:01">Сегодня, 13:01</time>
+<h2 class="post-title fs-11">
+<a class="item-link" href="https://topwar.ru/211346-na-ukraine-objavili-vozdushnuju-trevogu-na-fone-priezda-prezidenta-ssha-bajdena-v-kiev.html">На Украине объявили воздушную тревогу на фоне приезда президента США Байдена в Киев</a>
+</h2>
+</div>
+</article><article class="post item">
+<div class="post-cont font">
+<time class="c-muted fw-b fs-0875" datetime="2023-02-20T12:50">Сегодня, 12:50</time>
+<h2 class="post-title fs-11">
+<a class="item-link" href="https://topwar.ru/211342-v-rezultate-obstrela-vsu-belgorodskoj-oblasti-pogibla-zhenschina.html">В результате обстрела ВСУ Белгородской области погибла женщина</a>
+</h2>
+</div>
+</article><article class="post item">
+<div class="post-cont font">
+<time class="c-muted fw-b fs-0875" datetime="2023-02-20T12:44">Сегодня, 12:44</time>
+<h2 class="post-title fs-11">
+<a class="item-link" href="https://topwar.ru/211341-komandujuschij-oboronoj-bahmuta-general-syrskij-poluchil-prjamoe-ukazanie-iz-ofisa-zelenskogo-ne-dopustit-okruzhenija-goroda.html">Командующий обороной Бахмута генерал Сырский получил прямое указание из офиса Зеленского не допустить окружения города</a>
+</h2>
+</div>
+</article>
+</div>
+<div class="post__group-sep d-none d-lg-block"></div>
+<div class="post__group post__rss d-none d-lg-flex">
+<div class="post">
+<div class="post-title fs-1375 fw-b font">
+<a href="https://politobzor.net/" rel="nofollow" target="_blank">Политика</a>
+</div>
+<div class="scroll_posts">
+<div class="scrollcont" id="apolitobzor">
+<div class="post_linelink">
+<a class="d-flex text-dark font" href="https://politobzor.net/259424-kedmi-nuland-progovorilas-o-planah-ssha-lishit-rf-vseh-krymskih-kozyrej.html?utm_source=topwar.ru" target="_blank" title="">
+<span class="post_linelink_time">12:27</span>
+<div>Кедми: Нуланд проговорилась о планах США лишить РФ всех крымских козырей</div>
+</a>
+</div><div class="post_linelink">
+<a class="d-flex text-dark font" href="https://politobzor.net/259423-london-parizh-o-nevnjatnyh-itogah-poezdki-zelenskogo.html?utm_source=topwar.ru" target="_blank" title="">
+<span class="post_linelink_time">12:27</span>
+<div>Лондон – Париж: о невнятных итогах поездки Зеленского</div>
+</a>
+</div><div class="post_linelink">
+<a class="d-flex text-dark font" href="https://politobzor.net/259422-daily-express-jadernyj-trojanskij-kon-putina-dlja-zapada-razozlil-ukrainu.html?utm_source=topwar.ru" target="_blank" title="">
+<span class="post_linelink_time">12:10</span>
+<div>Daily Express: ядерный «троянский конь» Путина для Запада разозлил Украину</div>
+</a>
+</div><div class="post_linelink">
+<a class="d-flex text-dark font" href="https://politobzor.net/259421-petrovskij-ne-iskljucheno-chto-v-kiev-tajno-priezzhaet-bajden.html?utm_source=topwar.ru" target="_blank" title="">
+<span class="post_linelink_time">12:10</span>
+<div>Петровский: Не исключено, что в Киев тайно приезжает Байден</div>
+</a>
+</div><div class="post_linelink">
+<a class="d-flex text-dark font" href="https://politobzor.net/259420-amerikancev-v-turcii-posle-zemletrjasenija-interesujut-tolko-dividendy.html?utm_source=topwar.ru" target="_blank" title="">
+<span class="post_linelink_time">11:54</span>
+<div>Американцев в Турции после землетрясения интересуют только дивиденды</div>
+</a>
+</div><div class="post_linelink">
+<a class="d-flex text-dark font" href="https://politobzor.net/259419-na-kreml-kivat-vskryta-podnogotnaja-protestov-v-moldavii.html?utm_source=topwar.ru" target="_blank" title="">
+<span class="post_linelink_time">11:12</span>
+<div>«На Кремль кивать»: вскрыта подноготная протестов в Молдавии</div>
+</a>
+</div><div class="post_linelink">
+<a class="d-flex text-dark font" href="https://politobzor.net/259418-izuchenie-vzryvov-na-severnyh-potokah-zapadnye-vlasti-v-rot-vody-nabrali.html?utm_source=topwar.ru" target="_blank" title="">
+<span class="post_linelink_time">10:59</span>
+<div>Изучение взрывов на «Северных потоках» – западные власти в рот воды набрали</div>
+</a>
+</div><div class="post_linelink">
+<a class="d-flex text-dark font" href="https://politobzor.net/259417-veselovskij-zelenskij-popal-v-cugcvang-matom-budet-otvet-rossii.html?utm_source=topwar.ru" target="_blank" title="">
+<span class="post_linelink_time">10:55</span>
+<div>Веселовский: Зеленский попал в цугцванг, матом будет ответ России</div>
+</a>
+</div><div class="post_linelink">
+<a class="d-flex text-dark font" href="https://politobzor.net/259416-kot-zapad-s-ukrainoj-gotovjat-provokaciju-s-jadernym-momentom-v-chernobyle.html?utm_source=topwar.ru" target="_blank" title="">
+<span class="post_linelink_time">10:09</span>
+<div>Кот: Запад с Украиной готовят провокацию с «ядерным моментом» в Чернобыле</div>
+</a>
+</div><div class="post_linelink">
+<a class="d-flex text-dark font" href="https://politobzor.net/259415-satanovskij-o-pobede-rossii-u-nas-pojavilsja-tot-samyj-kozyrnoj-tuz.html?utm_source=topwar.ru" target="_blank" title="">
+<span class="post_linelink_time">09:45</span>
+<div>Сатановский о победе России: "У нас появился тот самый козырной туз"</div>
+</a>
+</div><div class="post_linelink">
+<a class="d-flex text-dark font" href="https://politobzor.net/259414-bajden-v-polshe-prezident-ssha-prigrozit-putinu-v-prjamom-jefire.html?utm_source=topwar.ru" target="_blank" title="">
+<span class="post_linelink_time">08:17</span>
+<div>Байден в Польше: президент США пригрозит Путину в прямом эфире</div>
+</a>
+</div><div class="post_linelink">
+<a class="d-flex text-dark font" href="https://politobzor.net/259413-kak-zapad-hochet-otorvat-serbiju-ot-rossii.html?utm_source=topwar.ru" target="_blank" title="">
+<span class="post_linelink_time">03:11</span>
+<div>Как Запад хочет оторвать Сербию от России</div>
+</a>
+</div><div class="post_linelink">
+<a class="d-flex text-dark font" href="https://politobzor.net/259412-gervala-obvinila-serbiju-v-torgovle-oruzhiem-i-kontrabande-v-polzu-rf.html?utm_source=topwar.ru" target="_blank" title="">
+<span class="post_linelink_time">02:34</span>
+<div>Гервала обвинила Сербию в торговле оружием и контрабанде в пользу РФ</div>
+</a>
+</div><div class="post_linelink">
+<a class="d-flex text-dark font" href="https://politobzor.net/259411-ukraina-vorovskie-skandaly-vokrug-reznikova-i-zelja-jedelvejs.html?utm_source=topwar.ru" target="_blank" title="">
+<span class="post_linelink_time">01:00</span>
+<div>Украина: воровские скандалы вокруг Резникова и Зеля-«эдельвейс»</div>
+</a>
+</div><div class="post_linelink">
+<a class="d-flex text-dark font" href="https://politobzor.net/259410-ocherednye-medijnye-prodelki-anglosaksov-v-kyrgyzstane.html?utm_source=topwar.ru" target="_blank" title="">
+<span class="post_linelink_time">00:43</span>
+<div>Очередные медийные проделки англосаксов в Кыргызстане</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="post">
+<div class="post-title fs-1375 fw-b font">
+<a href="https://finobzor.ru/" rel="nofollow" target="_blank">Экономика</a>
+</div>
+<div class="scroll_posts">
+<div class="scrollcont" id="afinobzor">
+<div class="post_linelink">
+<a class="d-flex text-dark font" href="https://finobzor.ru/124254-neftjanoj-proekt-bolgarii-i-grecii-zastavit-rossiju-smejatsja-a-es-plakat.html?utm_source=topwar.ru" target="_blank" title="">
+<span class="post_linelink_time">12:47</span>
+<div>Нефтяной проект Болгарии и Греции заставит Россию смеяться, а ЕС плакать</div>
+</a>
+</div><div class="post_linelink">
+<a class="d-flex text-dark font" href="https://finobzor.ru/124253-titov-biznes-zhdet-ot-poslanija-putina-kursa-na-svobodu-predprinimatelstva.html?utm_source=topwar.ru" target="_blank" title="">
+<span class="post_linelink_time">12:15</span>
+<div>Титов: бизнес ждет от послания Путина курса на свободу предпринимательства</div>
+</a>
+</div><div class="post_linelink">
+<a class="d-flex text-dark font" href="https://finobzor.ru/124252-nazvany-naibolee-privlekatelnye-dlja-trudovyh-migrantov-regiony-rf.html?utm_source=topwar.ru" target="_blank" title="">
+<span class="post_linelink_time">12:12</span>
+<div>Названы наиболее привлекательные для трудовых мигрантов регионы РФ</div>
+</a>
+</div><div class="post_linelink">
+<a class="d-flex text-dark font" href="https://finobzor.ru/124251-komu-kazahstan-budet-prodavat-neft-v-2023-godu.html?utm_source=topwar.ru" target="_blank" title="">
+<span class="post_linelink_time">12:10</span>
+<div>Кому Казахстан будет продавать нефть в 2023 году?</div>
+</a>
+</div><div class="post_linelink">
+<a class="d-flex text-dark font" href="https://finobzor.ru/124250-ni-bajden-ispugalsja-razrushitelnyh-kontrsankcij-rossii-protiv-ssha.html?utm_source=topwar.ru" target="_blank" title="">
+<span class="post_linelink_time">11:21</span>
+<div>NI: Байден испугался разрушительных контрсанкций России против США</div>
+</a>
+</div><div class="post_linelink">
+<a class="d-flex text-dark font" href="https://finobzor.ru/124249-kitaj-predostavit-finansovym-strukturam-iz-eajes-bolee-shirokie-vozmozhnosti.html?utm_source=topwar.ru" target="_blank" title="">
+<span class="post_linelink_time">11:05</span>
+<div>Китай предоставит финансовым структурам из ЕАЭС более широкие возможности</div>
+</a>
+</div><div class="post_linelink">
+<a class="d-flex text-dark font" href="https://finobzor.ru/124248-gaz-v-evrope-otkazyvaetsja-dorozhat-es-ne-hvataet-sprosa.html?utm_source=topwar.ru" target="_blank" title="">
+<span class="post_linelink_time">10:12</span>
+<div>Газ в Европе отказывается дорожать: ЕС не хватает спроса</div>
+</a>
+</div><div class="post_linelink">
+<a class="d-flex text-dark font" href="https://finobzor.ru/124247-mirovaja-prodovolstvennaja-bezopasnost-okazalas-polnostju-v-rukah-rf-i-knr.html?utm_source=topwar.ru" target="_blank" title="">
+<span class="post_linelink_time">09:04</span>
+<div>Мировая продовольственная безопасность оказалась полностью в руках РФ и КНР</div>
+</a>
+</div><div class="post_linelink">
+<a class="d-flex text-dark font" href="https://finobzor.ru/124246-de-zapad-ne-ustojal-pered-trojanskim-konem-putina-i-vozmutil-kiev.html?utm_source=topwar.ru" target="_blank" title="">
+<span class="post_linelink_time">21:52</span>
+<div>DE: Запад не устоял перед «троянским конем» Путина и возмутил Киев</div>
+</a>
+</div><div class="post_linelink">
+<a class="d-flex text-dark font" href="https://finobzor.ru/124245-putin-schelknul-britaniju-po-nosu-i-teper-naslazhdaetsja-neftjanym-bumom.html?utm_source=topwar.ru" target="_blank" title="">
+<span class="post_linelink_time">19:52</span>
+<div>Путин щелкнул Британию по носу и теперь наслаждается нефтяным бумом</div>
+</a>
+</div><div class="post_linelink">
+<a class="d-flex text-dark font" href="https://finobzor.ru/124244-kakie-riski-prineset-rossijanam-cifrovoj-rubl.html?utm_source=topwar.ru" target="_blank" title="">
+<span class="post_linelink_time">19:42</span>
+<div>Какие риски принесет россиянам цифровой рубль</div>
+</a>
+</div><div class="post_linelink">
+<a class="d-flex text-dark font" href="https://finobzor.ru/124243-gazprom-nacelilsja-na-srednjuju-azii-po-dvum-prichinam.html?utm_source=topwar.ru" target="_blank" title="">
+<span class="post_linelink_time">19:13</span>
+<div>«Газпром» нацелился на Среднюю Азию по двум причинам</div>
+</a>
+</div><div class="post_linelink">
+<a class="d-flex text-dark font" href="https://finobzor.ru/124242-jekonomicheskij-perl-harbor-vsplyla-postydnaja-pravda-o-severnom-potoke.html?utm_source=topwar.ru" target="_blank" title="">
+<span class="post_linelink_time">18:40</span>
+<div>«Экономический Перл-Харбор»: всплыла постыдная правда о «Северном потоке»</div>
+</a>
+</div><div class="post_linelink">
+<a class="d-flex text-dark font" href="https://finobzor.ru/124241-evropa-poluchila-podarok-no-pridet-vremja-vozvraschatsja-v-realnost-bez-gaza.html?utm_source=topwar.ru" target="_blank" title="">
+<span class="post_linelink_time">17:16</span>
+<div>Европа получила подарок, но придет время возвращаться в реальность без газа</div>
+</a>
+</div><div class="post_linelink">
+<a class="d-flex text-dark font" href="https://finobzor.ru/124240-povyshenie-pensionnogo-vozrasta-obernulos-obostreniem-socialnogo-krizisa.html?utm_source=topwar.ru" target="_blank" title="">
+<span class="post_linelink_time">16:55</span>
+<div>Повышение пенсионного возраста обернулось обострением социального кризиса</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<article class="post__story item c-white bg-dark pad-cont" title="Сюжет">
+<div class="post-img fit-cover">
+<img src="/uploads/posts/2023-02/kalibrovka.jpg" alt="Почему удары по объектам энергетической инфраструктуры Украины лишены смысла?" width="100%" loading="lazy" decoding="async">
+</div>
+<div class="post-cont">
+<h2 class="post-title font fs-1375">
+<a class="item-link" href="https://topwar.ru/211166-pochemu-rossijskie-udary-po-obektam-infrastruktury-ukrainy-lisheny-smysla.html">Почему удары по объектам энергетической инфраструктуры Украины лишены смысла?</a>
+</h2>
+<div class="post-text"><a class="item-link" href="https://topwar.ru/211166-pochemu-rossijskie-udary-po-obektam-infrastruktury-ukrainy-lisheny-smysla.html">Почему ракетные удары по объектам украинской энергетической инфраструктуры неэффективны? Какую цель они преследуют?...</a></div>
+</div>
+</article>
+<div class="pad-cont-not_bottom str">
+
+<div id="id-C-A-128930-46"></div>
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.renderWidget({
+    renderTo: 'id-C-A-128930-46',
+    blockId: 'C-A-128930-46',
+	nativeAdditionalClasses: typeof night_mode !== 'undefined' ? ['night']: []
+  })        
+})</script>
+</div>
+<div class="pad-cont bg-grey d-none d-lg-block">
+<div class="post__group post__list post__c4 c4-to-list  on__views">
+<article class="post item">
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" href="https://topwar.ru/211284-v-vozdushnom-komandovanii-vsu-snova-nedovolny-smenoj-taktiki-rossijskih-raketnyh-udarov.html">В Воздушном командовании ВСУ снова недовольны сменой тактики российских ракетных ударов</a>
+</h2>
+<div class="post-meta fs-0875 c-muted fw-b">
+<time class="meta__time" datetime="2023-02-19T08:44" style="display: none;">Вчера, 08:44</time>
+<div class="meta__views"><i class="i__views"></i>499 751</div>
+<div class="meta__coms"><i class="i__com"></i>72</div>
+</div>
+</div>
+</article><article class="post item">
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" href="https://topwar.ru/211290-istochniki-soobschajut-o-perebroske-podrazdelenij-chvk-vagner-na-zaporozhskoe-i-ugledarskoe-napravlenie.html">Источники сообщают о переброске подразделений ЧВК «Вагнер» на Запорожское и Угледарское направления</a>
+</h2>
+<div class="post-meta fs-0875 c-muted fw-b">
+<time class="meta__time" datetime="2023-02-19T14:09" style="display: none;">Вчера, 14:09</time>
+<div class="meta__views"><i class="i__views"></i>342 513</div>
+<div class="meta__coms"><i class="i__com"></i>100</div>
+</div>
+</div>
+</article><article class="post item">
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" href="https://topwar.ru/211124-perspektivnyj-udarnyj-aviakompleks-ishodja-iz-opyta-svo.html">Перспективный ударный авиакомплекс, исходя из опыта СВО</a>
+</h2>
+<div class="post-meta fs-0875 c-muted fw-b">
+<time class="meta__time" datetime="2023-02-19T03:53" style="display: none;">Вчера, 03:53</time>
+<div class="meta__views"><i class="i__views"></i>133 598</div>
+<div class="meta__coms"><i class="i__com"></i>159</div>
+</div>
+</div>
+</article><article class="post item">
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" href="https://topwar.ru/211194-samohodnye-orudija-2s34-hosta-uchastvujut-v-specoperacii.html">Самоходные орудия 2С34 «Хоста» участвуют в Спецоперации</a>
+</h2>
+<div class="post-meta fs-0875 c-muted fw-b">
+<time class="meta__time" datetime="2023-02-19T03:53" style="display: none;">Вчера, 03:53</time>
+<div class="meta__views"><i class="i__views"></i>83 370</div>
+<div class="meta__coms"><i class="i__com"></i>55</div>
+</div>
+</div>
+</article>
+</div>
+<br>
+<div class="post__group post__list post__c4 c4-to-list  on__views">
+<article class="post item">
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" href="https://topwar.ru/211286-komandir-vostoka-hodakovskij-esli-my-hotim-vzjat-ugledar-nuzhno-vospolzovatsja-opytom-mariupolja.html">Командир «Востока» Ходаковский: Если мы хотим взять Угледар, нужно воспользоваться опытом Мариуполя</a>
+</h2>
+<div class="post-meta fs-0875 c-muted fw-b">
+<time class="meta__time" datetime="2023-02-19T10:29" style="display: none;">Вчера, 10:29</time>
+<div class="meta__views"><i class="i__views"></i>31 402</div>
+<div class="meta__coms"><i class="i__com"></i>158</div>
+</div>
+</div>
+</article><article class="post item">
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" href="https://topwar.ru/211300-ramzan-kadyrov-zajavil-o-namerenii-sostavit-konkurenciju-evgeniju-prigozhinu-sozdav-sobstvennuju-chvk.html">Рамзан Кадыров заявил о намерении составить конкуренцию Евгению Пригожину, создав собственную ЧВК</a>
+</h2>
+<div class="post-meta fs-0875 c-muted fw-b">
+<time class="meta__time" datetime="2023-02-19T18:01" style="display: none;">Вчера, 18:01</time>
+<div class="meta__views"><i class="i__views"></i>24 224</div>
+<div class="meta__coms"><i class="i__com"></i>196</div>
+</div>
+</div>
+</article><article class="post item">
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" href="https://topwar.ru/211296-raketami-kalibr-porazhen-punkt-dislokacii-383-go-polka-bespilotnoj-aviacii-vsu-v-rajone-hmelnickogo-minoborony.html">Ракетами «Калибр» поражён пункт дислокации 383-го полка беспилотной авиации ВСУ в районе Хмельницкого - Минобороны</a>
+</h2>
+<div class="post-meta fs-0875 c-muted fw-b">
+<time class="meta__time" datetime="2023-02-19T16:08" style="display: none;">Вчера, 16:08</time>
+<div class="meta__views"><i class="i__views"></i>53 918</div>
+<div class="meta__coms"><i class="i__com"></i>35</div>
+</div>
+</div>
+</article><article class="post item">
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" href="https://topwar.ru/211166-pochemu-rossijskie-udary-po-obektam-infrastruktury-ukrainy-lisheny-smysla.html">Почему удары по объектам энергетической инфраструктуры Украины лишены смысла?</a>
+</h2>
+<div class="post-meta fs-0875 c-muted fw-b">
+<time class="meta__time" datetime="2023-02-20T04:49" style="display: none;">Сегодня, 04:49</time>
+<div class="meta__views"><i class="i__views"></i>19 545</div>
+<div class="meta__coms"><i class="i__com"></i>156</div>
+</div>
+</div>
+</article>
+</div>
+</div>
+<div class="pad-cont post__list">
+<div class="post__group post__c3  on__views">
+<article class="post item">
+<div class="post-img fit-cover">
+<img src="/uploads/posts/2022-12/sisu-5.jpg" alt="Предсказуемый результат: первые потери украинских бронетранспортеров Sisu XA-180" width="100%" loading="lazy" decoding="async">
+</div>
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" href="https://topwar.ru/206932-predskazuemyj-rezultat-pervye-poteri-ukrainskih-bronetransporterov-sisu-xa-180.html">Предсказуемый результат: первые потери украинских бронетранспортеров Sisu XA-180</a>
+</h2>
+<div class="post-meta fs-0875 c-muted fw-b">
+<time class="meta__time" datetime="2022-12-19T04:46" style="display: none;">19 декабря 2022</time>
+<div class="meta__views"><i class="i__views"></i>317 313</div>
+<div class="meta__coms"><i class="i__com"></i>40</div>
+</div>
+</div>
+</article><article class="post item">
+<div class="post-img fit-cover">
+<img src="/uploads/posts/2022-12/1_15cm_sfh93_1.jpg" alt="Германские орудия калибра 15, 17 и 21-см Первой мировой войны" width="100%" loading="lazy" decoding="async">
+</div>
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" href="https://topwar.ru/206816-germanskie-orudija-kalibra-15-17-i-21-sm-pervoj-mirovoj-vojny.html">Германские орудия калибра 15, 17 и 21-см Первой мировой войны</a>
+</h2>
+<div class="post-meta fs-0875 c-muted fw-b">
+<time class="meta__time" datetime="2022-12-17T04:49" style="display: none;">17 декабря 2022</time>
+<div class="meta__views"><i class="i__views"></i>23 166</div>
+<div class="meta__coms"><i class="i__com"></i>30</div>
+</div>
+</div>
+</article><article class="post item">
+<div class="post-img fit-cover">
+<img src="/uploads/posts/2022-12/auf1-4.jpg" alt="Самоходная артиллерийская установка AMX AuF1 (Франция)" width="100%" loading="lazy" decoding="async">
+</div>
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" href="https://topwar.ru/206729-samohodnaja-artillerijskaja-ustanovka-amx-auf1-francija.html">Самоходная артиллерийская установка AMX AuF1 (Франция)</a>
+</h2>
+<div class="post-meta fs-0875 c-muted fw-b">
+<time class="meta__time" datetime="2022-12-17T04:46" style="display: none;">17 декабря 2022</time>
+<div class="meta__views"><i class="i__views"></i>27 499</div>
+<div class="meta__coms"><i class="i__com"></i>33</div>
+</div>
+</div>
+</article>
+</div>
+<div class="post__scrolling">
+<div class="post__group post__c4 on__time off__views">
+<article class="post item">
+<div class="post-img fit-cover">
+<img src="/uploads/posts/2023-02/0_cbfb5_93aa7525_orig.webp" alt="Крылья по-ирански: новая реальность российского воздушного флота" width="100%" loading="lazy" decoding="async">
+</div>
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" href="https://topwar.ru/211207-krylja-po-iranski-novaja-realnost-rossijskogo-vozdushnogo-flota.html">Крылья по-ирански: новая реальность российского воздушного флота</a>
+</h2>
+<div class="post-meta fs-0875 c-muted fw-b">
+<time class="meta__time" datetime="2023-02-20T04:51" style="display: none;">Сегодня, 04:51</time>
+<div class="meta__views"><i class="i__views"></i>43 791</div>
+<div class="meta__coms"><i class="i__com"></i>34</div>
+</div>
+</div>
+</article><article class="post item">
+<div class="post-img fit-cover">
+<img src="/uploads/posts/2023-02/1588179616_1542713032_photo_27_1510552268.webp" alt="Почему такие лёгкие БМП?" width="100%" loading="lazy" decoding="async">
+</div>
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" href="https://topwar.ru/210485-pochemu-takie-legkie-bmp.html">Почему такие лёгкие БМП?</a>
+</h2>
+<div class="post-meta fs-0875 c-muted fw-b">
+<time class="meta__time" datetime="2023-02-20T04:51" style="display: none;">Сегодня, 04:51</time>
+<div class="meta__views"><i class="i__views"></i>26 733</div>
+<div class="meta__coms"><i class="i__com"></i>80</div>
+</div>
+</div>
+</article><article class="post item">
+<div class="post-img fit-cover">
+<img src="/uploads/posts/2023-02/1676622279_pervaja.jpg" alt="Военно-воздушные силы Финляндии" width="100%" loading="lazy" decoding="async">
+</div>
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" href="https://topwar.ru/211157-voenno-vozdushnye-sily-finljandii.html">Военно-воздушные силы Финляндии</a>
+</h2>
+<div class="post-meta fs-0875 c-muted fw-b">
+<time class="meta__time" datetime="2023-02-20T04:51" style="display: none;">Сегодня, 04:51</time>
+<div class="meta__views"><i class="i__views"></i>15 100</div>
+<div class="meta__coms"><i class="i__com"></i>10</div>
+</div>
+</div>
+</article><article class="post item">
+<div class="post-img fit-cover">
+<img src="/uploads/posts/2023-02/1676655505_bpla-1.jpg" alt="Великобритания разрабатывает БПЛА специально для Украины" width="100%" loading="lazy" decoding="async">
+</div>
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" href="https://topwar.ru/211215-velikobritanija-razrabatyvaet-bpla-specialno-dlja-ukrainy.html">Великобритания разрабатывает БПЛА специально для Украины</a>
+</h2>
+<div class="post-meta fs-0875 c-muted fw-b">
+<time class="meta__time" datetime="2023-02-20T04:51" style="display: none;">Сегодня, 04:51</time>
+<div class="meta__views"><i class="i__views"></i>9 262</div>
+<div class="meta__coms"><i class="i__com"></i>5</div>
+</div>
+</div>
+</article>
+</div>
+</div>
+</div>
+<div class="pad-cont bg-grey">
+<div class="post__grid d-lg-flex">
+<div class="post__grid-item post__bigscreens order-lg-last">
+<article class="post item c-white bg-dark">
+<div class="post-img fit-cover">
+<img src="/uploads/posts/2023-02/1435327509_1105267201.jpg" alt="Критическая уязвимость: самоходные минометы в спецоперации" width="100%" loading="lazy" decoding="async">
+</div>
+<div class="post-cont">
+<div class="post-meta fs-0875 fw-b">
+<time class="meta__time" datetime="2023-02-16T04:17" style="display:none;">16 февраля 2023</time>
+<div class="meta__views"><i class="i__views"></i>130 415</div>
+<div class="meta__coms"><i class="i__com"></i>189</div>
+</div>
+<h2 class="post-title font fs-1375">
+<a class="item-link" href="https://topwar.ru/210946-kriticheskaja-ujazvimost-samohodnye-minomety-na-specoperacii.html">Критическая уязвимость: самоходные минометы в спецоперации</a>
+</h2>
+</div>
+</article>
+</div>
+<div class="post__grid-list  on__views">
+<article class="post item">
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" href="https://topwar.ru/210790-russkij-fotolitograf-nevozmozhnoe-vozmozhno.html">Русский фотолитограф – невозможное возможно</a>
+</h2>
+<div class="post-meta fs-0875 c-muted fw-b">
+<time class="meta__time" datetime="2023-02-14T03:51" style="display: none;">14 февраля 2023</time>
+<div class="meta__views"><i class="i__views"></i>491 353</div>
+<div class="meta__coms"><i class="i__com"></i>200</div>
+</div>
+</div>
+</article><article class="post item">
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" href="https://topwar.ru/210637-slomat-lico-boevomu-sokolu-ili-gadjuke-prosto-ili-ne-ochen.html">«Сломать лицо» «Боевому соколу» или «Гадюке» - просто или не очень?</a>
+</h2>
+<div class="post-meta fs-0875 c-muted fw-b">
+<time class="meta__time" datetime="2023-02-11T04:18" style="display: none;">11 февраля 2023</time>
+<div class="meta__views"><i class="i__views"></i>217 908</div>
+<div class="meta__coms"><i class="i__com"></i>144</div>
+</div>
+</div>
+</article><article class="post item">
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" href="https://topwar.ru/210854-beregovye-raketnye-kompleksy-bastion-v-specoperacii-i-na-sluzhbe.html">Береговые ракетные комплексы «Бастион» в Спецоперации и на службе</a>
+</h2>
+<div class="post-meta fs-0875 c-muted fw-b">
+<time class="meta__time" datetime="2023-02-14T03:51" style="display: none;">14 февраля 2023</time>
+<div class="meta__views"><i class="i__views"></i>506 860</div>
+<div class="meta__coms"><i class="i__com"></i>6</div>
+</div>
+</div>
+</article><article class="post item">
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" href="https://topwar.ru/210781-spasibo-cru-za-nash-vozdushnyj-schit.html">Спасибо, ЦРУ, за наш воздушный щит!</a>
+</h2>
+<div class="post-meta fs-0875 c-muted fw-b">
+<time class="meta__time" datetime="2023-02-13T04:26" style="display: none;">13 февраля 2023</time>
+<div class="meta__views"><i class="i__views"></i>134 476</div>
+<div class="meta__coms"><i class="i__com"></i>30</div>
+</div>
+</div>
+</article>
+</div>
+</div>
+</div>
+<div class="pad-cont post__list">
+<div class="post__group post__c3  on__views">
+<article class="post item">
+<div class="post-img fit-cover">
+<img src="/uploads/posts/2023-01/konservativnaja-r.png" alt="Образ России в творчестве представителей «Консервативной революции»" width="100%" loading="lazy" decoding="async">
+</div>
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" href="https://topwar.ru/208081-obraz-rossii-v-tvorchestve-predstavitelej-konservativnoj-revoljucii.html">Образ России в творчестве представителей «Консервативной революции»</a>
+</h2>
+<div class="post-meta fs-0875 c-muted fw-b">
+<time class="meta__time" datetime="2023-01-07T04:57" style="display: none;">7 января 2023</time>
+<div class="meta__views"><i class="i__views"></i>19 466</div>
+<div class="meta__coms"><i class="i__com"></i>30</div>
+</div>
+</div>
+</article><article class="post item">
+<div class="post-img fit-cover">
+<img src="/uploads/posts/2023-01/193887-main.jpg" alt="Как советская Ставка готовила кавказский котёл" width="100%" loading="lazy" decoding="async">
+</div>
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" href="https://topwar.ru/208953-kak-sovetskaja-stavka-gotovila-kavkazskij-kotel.html">Как советская Ставка готовила кавказский котёл</a>
+</h2>
+<div class="post-meta fs-0875 c-muted fw-b">
+<time class="meta__time" datetime="2023-01-19T04:38" style="display: none;">19 января 2023</time>
+<div class="meta__views"><i class="i__views"></i>21 792</div>
+<div class="meta__coms"><i class="i__com"></i>10</div>
+</div>
+</div>
+</article><article class="post item">
+<div class="post-img fit-cover">
+<img src="/uploads/posts/2023-01/1messing.jpg" alt="Вольф Мессинг: телепат, фокусник или лжец" width="100%" loading="lazy" decoding="async">
+</div>
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" href="https://topwar.ru/208436-volf-messing-telepat-fokusnik-ili-lzhec.html">Вольф Мессинг: телепат, фокусник или лжец</a>
+</h2>
+<div class="post-meta fs-0875 c-muted fw-b">
+<time class="meta__time" datetime="2023-01-17T04:39" style="display: none;">17 января 2023</time>
+<div class="meta__views"><i class="i__views"></i>25 448</div>
+<div class="meta__coms"><i class="i__com"></i>49</div>
+</div>
+</div>
+</article>
+</div>
+<div class="post__scrolling">
+<div class="post__group post__c4 on__time off__views">
+<article class="post item">
+<div class="post-img fit-cover">
+<img src="/uploads/posts/2023-02/388710-main.jpg" alt="Разгром 2-й немецкой армии" width="100%" loading="lazy" decoding="async">
+</div>
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" href="https://topwar.ru/211049-razgrom-2-j-nemeckoj-armii.html">Разгром 2-й немецкой армии</a>
+</h2>
+<div class="post-meta fs-0875 c-muted fw-b">
+<time class="meta__time" datetime="2023-02-20T04:50" style="display: none;">Сегодня, 04:50</time>
+<div class="meta__views"><i class="i__views"></i>2 387</div>
+<div class="meta__coms"><i class="i__com"></i>1</div>
+</div>
+</div>
+</article><article class="post item">
+<div class="post-img fit-cover">
+<img src="/uploads/posts/2023-02/statuja-aristida-muzei-vatikana-oblozhka_cr_cr.jpg" alt="Справедливый Аристид. Нетипичный политик Афин и Древней Греции" width="100%" loading="lazy" decoding="async">
+</div>
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" href="https://topwar.ru/210778-spravedlivyj-aristid-netipichnyj-politik-afin-i-drevnej-grecii.html">Справедливый Аристид. Нетипичный политик Афин и Древней Греции</a>
+</h2>
+<div class="post-meta fs-0875 c-muted fw-b">
+<time class="meta__time" datetime="2023-02-20T04:50" style="display: none;">Сегодня, 04:50</time>
+<div class="meta__views"><i class="i__views"></i>1 124</div>
+<div class="meta__coms"><i class="i__com"></i>10</div>
+</div>
+</div>
+</article><article class="post item">
+<div class="post-img fit-cover">
+<img src="/uploads/posts/2023-02/battle_of_athos_1807.jpg" alt="Как Александр I погубил русский Средиземноморский флот и отдал французам Архипелагскую губернию" width="100%" loading="lazy" decoding="async">
+</div>
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" href="https://topwar.ru/211121-kak-aleksandr-pogubil-russkij-sredizemnomorskij-flot-i-otdal-francuzam-arhipelagskuju-guberniju.html">Как Александр I погубил русский Средиземноморский флот и отдал французам Архипелагскую губернию</a>
+</h2>
+<div class="post-meta fs-0875 c-muted fw-b">
+<time class="meta__time" datetime="2023-02-19T03:52" style="display: none;">Вчера, 03:52</time>
+<div class="meta__views"><i class="i__views"></i>12 653</div>
+<div class="meta__coms"><i class="i__com"></i>38</div>
+</div>
+</div>
+</article><article class="post item">
+<div class="post-img fit-cover">
+<img src="/uploads/posts/2023-02/1_-001.jpg" alt="Доспехи из «Жития двух Офф»" width="100%" loading="lazy" decoding="async">
+</div>
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" href="https://topwar.ru/210770-dospehi-iz-zhitija-dvuh-off.html">Доспехи из «Жития двух Офф»</a>
+</h2>
+<div class="post-meta fs-0875 c-muted fw-b">
+<time class="meta__time" datetime="2023-02-19T03:52" style="display: none;">Вчера, 03:52</time>
+<div class="meta__views"><i class="i__views"></i>5 179</div>
+<div class="meta__coms"><i class="i__com"></i>75</div>
+</div>
+</div>
+</article>
+</div>
+</div>
+</div>
+<div class="pad-cont bg-grey">
+<div class="post__group post__list post__c4 c4-to-list  on__views">
+<article class="post item">
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" href="https://topwar.ru/210275-dospehi-dvuh-korolej-i-odnogo-imperatora.html">Доспехи двух королей и одного императора</a>
+</h2>
+<div class="post-meta fs-0875 c-muted fw-b">
+<time class="meta__time" datetime="2023-02-11T04:17" style="display: none;">11 февраля 2023</time>
+<div class="meta__views"><i class="i__views"></i>72 534</div>
+<div class="meta__coms"><i class="i__com"></i>152</div>
+</div>
+</div>
+</article><article class="post item">
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" href="https://topwar.ru/210791-ego-pomnjat-kak-drakulu-pravda-i-lozh-o-svjatom-vladimire-tretem.html">Его помнят как Дракулу – правда и ложь о Святом Владе III</a>
+</h2>
+<div class="post-meta fs-0875 c-muted fw-b">
+<time class="meta__time" datetime="2023-02-14T03:50" style="display: none;">14 февраля 2023</time>
+<div class="meta__views"><i class="i__views"></i>63 625</div>
+<div class="meta__coms"><i class="i__com"></i>73</div>
+</div>
+</div>
+</article><article class="post item">
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" href="https://topwar.ru/210797-varvarskie-koroli-jermanarih-i-ego-derzhava.html">Варварские короли. Эрманарих и его держава</a>
+</h2>
+<div class="post-meta fs-0875 c-muted fw-b">
+<time class="meta__time" datetime="2023-02-15T04:43" style="display: none;">15 февраля 2023</time>
+<div class="meta__views"><i class="i__views"></i>38 001</div>
+<div class="meta__coms"><i class="i__com"></i>108</div>
+</div>
+</div>
+</article><article class="post item">
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" href="https://topwar.ru/210636-upuschennyj-shans-rossii-cargradskaja-operacija-ekateriny-velikoj.html">Упущенный шанс России: Царьградская операция Екатерины Великой</a>
+</h2>
+<div class="post-meta fs-0875 c-muted fw-b">
+<time class="meta__time" datetime="2023-02-12T04:42" style="display: none;">12 февраля 2023</time>
+<div class="meta__views"><i class="i__views"></i>40 736</div>
+<div class="meta__coms"><i class="i__com"></i>56</div>
+</div>
+</div>
+</article>
+</div>
+</div>
+<div class="pad-cont-not_bottom str">
+<div id="id-C-A-128930-45"></div>
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.renderWidget({
+    renderTo: 'id-C-A-128930-45',
+    blockId: 'C-A-128930-45',
+	nativeAdditionalClasses: typeof night_mode !== 'undefined' ? ['night']: []
+  })        
+})</script></div>
+<div class="pad-cont post__list">
+<div class="post__group post__c4 c4-to-c1">
+<article class="post item">
+<div class="post-img fit-cover">
+<img src="https://warfiles.ru/uploads/posts/2023-02/1676885328_267b31a35892bf08cb2342e2c89c3b76.jpg" alt="Комплекс «Ирония» зафиксировал удар авиабомбами ФАБ-500 по ВСУ в Авдеевке" loading="lazy" decoding="async">
+</div>
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" target="_blank" href="https://warfiles.ru/247980-kompleks-ironija-zafiksiroval-udar-aviabombami-fab-500-po-vsu-v-avdeevke.html">Комплекс «Ирония» зафиксировал удар авиабомбами ФАБ-500 по ВСУ в Авдеевке</a>
+</h2>
+</div>
+</article><article class="post item">
+<div class="post-img fit-cover">
+<img src="https://warfiles.ru/uploads/posts/2023-02/1676881947_photo_2023-02-20_11-31-38.jpg" alt="Корнилов: Россия побеждает в войне боеприпасов, но расслабляться нельзя" loading="lazy" decoding="async">
+</div>
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" target="_blank" href="https://warfiles.ru/247979-kornilov-rossija-pobezhdaet-v-vojne-boepripasov-no-rasslabljatsja-nelzja.html">Корнилов: Россия побеждает в войне боеприпасов, но расслабляться нельзя</a>
+</h2>
+</div>
+</article><article class="post item">
+<div class="post-img fit-cover">
+<img src="https://warfiles.ru/uploads/posts/2023-02/1676877645_torpeda.jpg" alt="Что за ядерное оружие ищет НАТО на российских кораблях" loading="lazy" decoding="async">
+</div>
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" target="_blank" href="https://warfiles.ru/247978-chto-za-jadernoe-oruzhie-ischet-nato-na-rossijskih-korabljah.html">Что за ядерное оружие ищет НАТО на российских кораблях</a>
+</h2>
+</div>
+</article><article class="post item">
+<div class="post-img fit-cover">
+<img src="https://warfiles.ru/uploads/posts/2023-02/1676877059_1122071_full.webp" alt="Коллекция Пелоси пополнилась браслетом из гильз «смерти русского солдата»" loading="lazy" decoding="async">
+</div>
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" target="_blank" href="https://warfiles.ru/247977-kollekcija-pelosi-popolnilas-brasletom-iz-gilz-smerti-russkogo-soldata.html">Коллекция Пелоси пополнилась браслетом из гильз «смерти русского солдата»</a>
+</h2>
+</div>
+</article>
+</div>
+</div>
+<div class="pad-cont-not_bottom bg-grey">
+<div class="post__group post__list post__c4 c4-to-list">
+<article class="post item">
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" target="_blank" href="https://vsluh.net/1019-amerikanskie-uchenye-dodumalis-zapuskat-drony-zombi-iz-ptic.html">Американские учёные додумались делать «дроны-зомби» из птиц</a>
+</h2>
+</div>
+</article><article class="post item">
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" target="_blank" href="https://vsluh.net/1018-aviakompanija-dronamics-sobrala-40-mln-na-avtonomnyj-gruzovoj-bespilotnik.html">Авиакомпания Dronamics собрала 40 млн $ на автономный грузовой беспилотник</a>
+</h2>
+</div>
+</article><article class="post item">
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" target="_blank" href="https://vsluh.net/1017-rossijskaja-zamena-sojuzu-zaplanirovana-na-24-fevralja.html">Российская замена «Союзу» запланирована на 24 февраля</a>
+</h2>
+</div>
+</article><article class="post item">
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" target="_blank" href="https://vsluh.net/1016-meta-razrabatyvaet-jazykovoj-bot-s-iskusstvennym-intellektom-kotoryj-mozhet-ispolzovat-vneshnie-programmnye-instrumenty.html">Meta разрабатывает языковой бот с искусственным интеллектом, который может использовать внешние программные инструменты</a>
+</h2>
+</div>
+</article>
+</div>
+</div>
+<div class="pad-cont bg-grey">
+<div class="post__group post__list post__c4 c4-to-list">
+<article class="post item">
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" target="_blank" href="https://bibimot.ru/4982-mia-411-dyshit-v-zatylok-bajkalu-lms-901.html">МИА-411 «дышит в затылок» «Байкалу» ЛМС-901</a>
+</h2>
+</div>
+</article><article class="post item">
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" target="_blank" href="https://bibimot.ru/4980-shiny-pirelli-kak-italjancy-rossiju-obuvajut.html">Шины Pirelli: как итальянцы Россию «обувают»</a>
+</h2>
+</div>
+</article><article class="post item">
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" target="_blank" href="https://bibimot.ru/4981-rossijskij-minivjen-s-sovetskimi-kornjami-vaz-2120-nadezhda.html">Российский минивэн с советскими корнями – ВАЗ-2120 «Надежда»</a>
+</h2>
+</div>
+</article><article class="post item">
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" target="_blank" href="https://bibimot.ru/4977-jeto-14-samyh-vysokotehnologichnyh-domov-na-kolesah.html">Это 14 самых высокотехнологичных домов на колесах</a>
+</h2>
+</div>
+</article>
+</div>
+</div>
+<div class="pad-cont bg-dark media-block c-white">
+<div class="section-title font">
+<a class="fs-1375 uppercase fw-b c-inherit" href="/media/">Видео</a>
+</div>
+<div class="post__scrolling">
+<div class="post__group post__list post__c4">
+<article class="post item post-video">
+<div class="post-img fit-cover">
+<img src="/uploads/posts/2023-02/zelenskij2.jpg" alt="Зеленский: Сейчас идёт битва Давида с Голиафом" width="100%" loading="lazy" decoding="async">
+</div>
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" href="https://topwar.ru/211306-zelenskij-sejchas-idet-bitva-davida-s-goliafom.html">Зеленский: Сейчас идёт битва Давида с Голиафом</a>
+</h2>
+</div>
+</article><article class="post item post-video">
+<div class="post-img fit-cover">
+<img src="/uploads/posts/2023-02/1676625668_2.jpg" alt="Профессор Питтсбургского университета: Раскольническая ПЦУ – это американская методичка" width="100%" loading="lazy" decoding="async">
+</div>
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" href="https://topwar.ru/211161-professor-pittsburgskogo-universiteta-raskolnicheskaja-pcu-jeto-amerikanskaja-metodichka.html">Профессор Питтсбургского университета: Раскольническая ПЦУ – это американская методичка</a>
+</h2>
+</div>
+</article><article class="post item post-video">
+<div class="post-img fit-cover">
+<img src="/uploads/posts/2023-02/1676547191_4.jpg" alt="Экс-кандидат в президенты Болгарии: На техногенную причину землетрясения в Турции может указать поведение Эрдогана" width="100%" loading="lazy" decoding="async">
+</div>
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" href="https://topwar.ru/211094-jeks-prezident-bolgarii-na-tehnogennuju-prichinu-zemletrjasenija-v-turcii-mozhet-ukazat-povedenie-jerdogana.html">Экс-кандидат в президенты Болгарии: На техногенную причину землетрясения в Турции может указать поведение Эрдогана</a>
+</h2>
+</div>
+</article><article class="post item post-video">
+<div class="post-img fit-cover">
+<img src="/uploads/posts/2023-02/1676533649_1.jpg" alt="Глава ЧВК «Вагнер» рассказал о важности Артемовска для всей СВО" width="100%" loading="lazy" decoding="async">
+</div>
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" href="https://topwar.ru/211071-glava-chvk-vagner-rasskazal-o-vazhnosti-artemovska-dlja-vsej-svo.html">Глава ЧВК «Вагнер» рассказал о важности Артемовска для всей СВО</a>
+</h2>
+</div>
+</article>
+</div>
+</div>
+<div class="post__group post__bigscreens">
+<article class="post item c-white bg-dark post-video">
+<div class="post-img fit-cover">
+<img src="/uploads/posts/2023-01/1674636171_3.jpg" alt="Польский эксперт: США хотят уничтожить Россию прежде, чем возьмутся за Китай" width="100%" loading="lazy" decoding="async">
+</div>
+<div class="post-cont">
+<div class="post-meta fs-0875 fw-b">
+<time class="meta__time" datetime="2023-01-25T12:16" style="display:none;">25 января 2023</time>
+<div class="meta__views"><i class="i__views"></i>46 722</div>
+<div class="meta__coms"><i class="i__com"></i>33</div>
+</div>
+<h2 class="post-title font fs-1375">
+<a class="item-link" href="https://topwar.ru/209505-polskij-jekspert-ssha-hotjat-unichtozhit-rossiju-prezhde-chem-vozmutsja-za-kitaj.html">Польский эксперт: США хотят уничтожить Россию прежде, чем возьмутся за Китай</a>
+</h2>
+</div>
+</article><article class="post item c-white bg-dark post-video">
+<div class="post-img fit-cover">
+<img src="/uploads/posts/2023-01/1674568548_5.jpg" alt="Пистолет Лебедева компактный: Российская копия «Глока» или полноценная замена ПМ" width="100%" loading="lazy" decoding="async">
+</div>
+<div class="post-cont">
+<div class="post-meta fs-0875 fw-b">
+<time class="meta__time" datetime="2023-01-24T18:21" style="display:none;">24 января 2023</time>
+<div class="meta__views"><i class="i__views"></i>71 139</div>
+<div class="meta__coms"><i class="i__com"></i>35</div>
+</div>
+<h2 class="post-title font fs-1375">
+<a class="item-link" href="https://topwar.ru/209453-pistolet-lebedeva-kompaktnyj-rossijskaja-kopija-gloka-ili-polnocennaja-zamena-pm.html">Пистолет Лебедева компактный: Российская копия «Глока» или полноценная замена ПМ</a>
+</h2>
+</div>
+</article>
+</div>
+</div>
+<div class="pad-cont post__list">
+<div class="post__group post__c3  on__views">
+<article class="post item">
+<div class="post-img fit-cover">
+<img src="/uploads/posts/2023-02/9_-amx-10-p-01.jpg" alt="Cовсем другая БМП" width="100%" loading="lazy" decoding="async">
+</div>
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" href="https://topwar.ru/210890-covsem-drugaja-bmp.html">Cовсем другая БМП</a>
+</h2>
+<div class="post-meta fs-0875 c-muted fw-b">
+<time class="meta__time" datetime="2023-02-16T04:15" style="display: none;">16 февраля 2023</time>
+<div class="meta__views"><i class="i__views"></i>56 685</div>
+<div class="meta__coms"><i class="i__com"></i>201</div>
+</div>
+</div>
+</article><article class="post item">
+<div class="post-img fit-cover">
+<img src="/uploads/posts/2023-02/stavka-cb-2021-nov.jpg" alt="Банк России: на переправе ставки не меняют" width="100%" loading="lazy" decoding="async">
+</div>
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" href="https://topwar.ru/210889-bank-rossii-na-pereprave-stavki-ne-menjajut.html">Банк России: на переправе ставки не меняют</a>
+</h2>
+<div class="post-meta fs-0875 c-muted fw-b">
+<time class="meta__time" datetime="2023-02-15T04:42" style="display: none;">15 февраля 2023</time>
+<div class="meta__views"><i class="i__views"></i>8 401</div>
+<div class="meta__coms"><i class="i__com"></i>17</div>
+</div>
+</div>
+</article><article class="post item">
+<div class="post-img fit-cover">
+<img src="/uploads/posts/2023-02/s-558fa662e73c1286ca33da7396a9ea1a8b1062f9.webp" alt="«Мертвые сраму не имут». А живые" width="100%" loading="lazy" decoding="async">
+</div>
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" href="https://topwar.ru/210887-mertvye-srama-ne-imut-a-zhivye.html">«Мертвые сраму не имут». А живые</a>
+</h2>
+<div class="post-meta fs-0875 c-muted fw-b">
+<time class="meta__time" datetime="2023-02-15T04:43" style="display: none;">15 февраля 2023</time>
+<div class="meta__views"><i class="i__views"></i>72 965</div>
+<div class="meta__coms"><i class="i__com"></i>76</div>
+</div>
+</div>
+</article>
+</div>
+<div class="post__scrolling">
+<div class="post__group post__c4 on__time off__views">
+<article class="post item">
+<div class="post-img fit-cover">
+<img src="/uploads/posts/2023-02/kalibrovka.jpg" alt="Почему удары по объектам энергетической инфраструктуры Украины лишены смысла?" width="100%" loading="lazy" decoding="async">
+</div>
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" href="https://topwar.ru/211166-pochemu-rossijskie-udary-po-obektam-infrastruktury-ukrainy-lisheny-smysla.html">Почему удары по объектам энергетической инфраструктуры Украины лишены смысла?</a>
+</h2>
+<div class="post-meta fs-0875 c-muted fw-b">
+<time class="meta__time" datetime="2023-02-20T04:49" style="display: none;">Сегодня, 04:49</time>
+<div class="meta__views"><i class="i__views"></i>19 545</div>
+<div class="meta__coms"><i class="i__com"></i>156</div>
+</div>
+</div>
+</article><article class="post item">
+<div class="post-img fit-cover">
+<img src="/uploads/posts/2023-02/1676576679_20.jpg" alt="Сказки Старого Маугли. Про желтых земляных червяков" width="100%" loading="lazy" decoding="async">
+</div>
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" href="https://topwar.ru/211123-skazki-starogo-maugli-pro-zheltyh-zemljanyh-chervjakov.html">Сказки Старого Маугли. Про желтых земляных червяков</a>
+</h2>
+<div class="post-meta fs-0875 c-muted fw-b">
+<time class="meta__time" datetime="2023-02-20T04:49" style="display: none;">Сегодня, 04:49</time>
+<div class="meta__views"><i class="i__views"></i>2 471</div>
+<div class="meta__coms"><i class="i__com"></i>6</div>
+</div>
+</div>
+</article><article class="post item">
+<div class="post-img fit-cover">
+<img src="/uploads/posts/2023-02/ira-atom-1280maxresdefault.jpg" alt="Шах и бомба. От начала и не до конца" width="100%" loading="lazy" decoding="async">
+</div>
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" href="https://topwar.ru/211108-shah-i-bomba-ot-nachala-i-ne-do-konca.html">Шах и бомба. От начала и не до конца</a>
+</h2>
+<div class="post-meta fs-0875 c-muted fw-b">
+<time class="meta__time" datetime="2023-02-20T04:48" style="display: none;">Сегодня, 04:48</time>
+<div class="meta__views"><i class="i__views"></i>1 046</div>
+<div class="meta__coms"><i class="i__com"></i>4</div>
+</div>
+</div>
+</article><article class="post item">
+<div class="post-img fit-cover">
+<img src="/uploads/posts/2023-02/55334722_0_0_1601_901_1920x0_80_0_0_3c6f5444ca2a026371dacce2e78f9fbb.jpg" alt="«Решающий момент»: НАТО ждет новую кровь на Украине" width="100%" loading="lazy" decoding="async">
+</div>
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" href="https://topwar.ru/211118-reshajuschij-moment-nato-zhdet-novuju-krov-na-ukraine.html">«Решающий момент»: НАТО ждет новую кровь на Украине</a>
+</h2>
+<div class="post-meta fs-0875 c-muted fw-b">
+<time class="meta__time" datetime="2023-02-19T03:52" style="display: none;">Вчера, 03:52</time>
+<div class="meta__views"><i class="i__views"></i>26 778</div>
+<div class="meta__coms"><i class="i__com"></i>58</div>
+</div>
+</div>
+</article>
+</div>
+</div>
+</div>
+<div class="pad-cont bg-grey">
+<div class="post__group post__list post__c4 c4-to-list  on__views">
+<article class="post item">
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" href="https://topwar.ru/211219-poslednij-boj-nashego-alekseja-kuznecova.html">Последний бой нашего Алексея Кузнецова</a>
+</h2>
+<div class="post-meta fs-0875 c-muted fw-b">
+<time class="meta__time" datetime="2023-02-18T03:07" style="display: none;">18 февраля 2023</time>
+<div class="meta__views"><i class="i__views"></i>53 036</div>
+<div class="meta__coms"><i class="i__com"></i>60</div>
+</div>
+</div>
+</article><article class="post item">
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" href="https://topwar.ru/210890-covsem-drugaja-bmp.html">Cовсем другая БМП</a>
+</h2>
+<div class="post-meta fs-0875 c-muted fw-b">
+<time class="meta__time" datetime="2023-02-16T04:15" style="display: none;">16 февраля 2023</time>
+<div class="meta__views"><i class="i__views"></i>56 685</div>
+<div class="meta__coms"><i class="i__com"></i>201</div>
+</div>
+</div>
+</article><article class="post item">
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" href="https://topwar.ru/211031-vsu-10-ja-gorno-shturmovaja-zachem-im-krasivoe-imja-jedelvejs.html">ВСУ, 10-я горно-штурмовая. Зачем им красивое имя «Эдельвейс»</a>
+</h2>
+<div class="post-meta fs-0875 c-muted fw-b">
+<time class="meta__time" datetime="2023-02-17T04:28" style="display: none;">17 февраля 2023</time>
+<div class="meta__views"><i class="i__views"></i>36 783</div>
+<div class="meta__coms"><i class="i__com"></i>84</div>
+</div>
+</div>
+</article><article class="post item">
+<div class="post-cont">
+<h2 class="post-title font fs-11">
+<a class="item-link" href="https://topwar.ru/211048-ot-jeskadry-netu-proku-esli-seli-ves-nz.html">От эскадры нету проку, если съели весь НЗ</a>
+</h2>
+<div class="post-meta fs-0875 c-muted fw-b">
+<time class="meta__time" datetime="2023-02-18T03:10" style="display: none;">18 февраля 2023</time>
+<div class="meta__views"><i class="i__views"></i>15 571</div>
+<div class="meta__coms"><i class="i__com"></i>61</div>
+</div>
+</div>
+</article>
+</div>
+</div>
+<div class="pad-cont">
+<div class="section-title font fs-1375 uppercase fw-b c-muted">Выбор читателей</div>
+<div class="post__grid d-lg-flex">
+<div class="post__grid-item post__bigscreens post__rate">
+<article class="post item c-white bg-dark">
+<div class="post-img fit-cover">
+<img src="/uploads/posts/2023-02/1435327509_1105267201.jpg" alt="Критическая уязвимость: самоходные минометы в спецоперации" width="100%" loading="lazy" decoding="async">
+</div>
+<div class="post-cont">
+<h2 class="post-title font fs-1375">
+<a class="item-link" href="https://topwar.ru/210946-kriticheskaja-ujazvimost-samohodnye-minomety-na-specoperacii.html">Критическая уязвимость: самоходные минометы в спецоперации</a>
+</h2>
+</div>
+</article>
+</div>
+<div class="post__grid-list post__rate">
+<article class="post item">
+<div class="post-cont font">
+<time class="c-muted fw-b fs-0875" datetime="2023-02-11T04:16">11 февраля 2023</time>
+<h2 class="post-title fs-11">
+<a class="item-link" href="https://topwar.ru/210616-kak-rossija-mozhet-zavershit-svo.html">Как Россия может завершить СВО</a>
+</h2>
+</div>
+</article><article class="post item">
+<div class="post-cont font">
+<time class="c-muted fw-b fs-0875" datetime="2023-02-15T04:43">15 февраля 2023</time>
+<h2 class="post-title fs-11">
+<a class="item-link" href="https://topwar.ru/210866-cheljabinskij-incident-bej-svoih-chtoby-chuzhie-bojalis.html">Челябинский инцидент: бей своих, чтобы чужие боялись</a>
+</h2>
+</div>
+</article><article class="post item">
+<div class="post-cont font">
+<time class="c-muted fw-b fs-0875" datetime="2023-02-11T04:18">11 февраля 2023</time>
+<h2 class="post-title fs-11">
+<a class="item-link" href="https://topwar.ru/210637-slomat-lico-boevomu-sokolu-ili-gadjuke-prosto-ili-ne-ochen.html">«Сломать лицо» «Боевому соколу» или «Гадюке» - просто или не очень?</a>
+</h2>
+</div>
+</article><article class="post item">
+<div class="post-cont font">
+<time class="c-muted fw-b fs-0875" datetime="2023-02-12T04:29">12 февраля 2023</time>
+<h2 class="post-title fs-11">
+<a class="item-link" href="https://topwar.ru/210628-armija-postukrainskogo-buduschego.html">Армия постукраинского будущего</a>
+</h2>
+</div>
+</article>
+</div>
+</div>
+</div>
+<div class="exchange_fullstory content__visibility">
+<div id="id-C-A-128930-49"></div>
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.renderWidget({
+    renderTo: 'id-C-A-128930-49',
+    blockId: 'C-A-128930-49',
+	nativeAdditionalClasses: typeof night_mode !== 'undefined' ? ['night']: []
+  })        
+})</script></div>
+<footer id="footer" class="c-white bg-dark">
+<div class="footer fs-0875">
+<div class="foot-left">
+<p class="copyright font fs-1 fw-b uppercase c-muted">© 2010-2023 «Военное обозрение»</p>
+
+<p class="copyright__license">Свидетельство о регистрации СМИ ЭЛ № ФС77-76970, выдано 11.10.2019 г. Федеральной службой
+по надзору в сфере связи, информационных технологий и массовых коммуникаций (Роскомнадзор)</p>
+<p class="copyright__rules"><a href="/copying.html" target="_self">Правила использования и копирования информации с
+сайта</a></p>
+<p class="copyright__rules" style="margin-bottom: 0;">Сайт использует IP адреса, cookie и данные геолокации
+пользователей сайта, условия использования содержатся в <a href="/privacy.html" target="_self">политике по защите
+персональных данных</a>.</p>
+
+</div>
+<div class="foot-right">
+<div class="footer-col" style="display: none;">
+<p class="font fw-b fs-1 uppercase c-muted">Пользователю</p>
+<nav class="fmenu">
+<a href="/" target="_self">Главная</a>
+<a href="/reklama.html" target="_self">Реклама на сайте</a>
+<a href="/index.php?do=feedback&user=2" target="_self">Контакты</a>
+<a href="/about.html" target="_self">Об издании</a>
+<a href="/rules.html" target="_self">Правила</a>
+<a href="/rss.xml" target="_self">RSS</a>
+</nav>
+</div>
+<div class="footer-col" style="display: none;">
+<p class="font fw-b fs-1 uppercase c-muted">Мы в соц.сетях</p>
+<nav class="fmenu soc_links">
+<a href="https://vk.cc/7UBJnh" target="_blank" rel="nofollow noopener noreferrer" class="soc_dzen" title="Яндекс.Дзен"><i class="i__dzen"></i></a>
+<a href="http://vk.com/topwar" target="_blank" rel="nofollow noopener noreferrer" title="вКонтакте" class="soc_vk"><i class="i__vk"></i></a>
+<a href="http://www.odnoklassniki.ru/topwar" target="_blank" rel="nofollow noopener noreferrer" title="Одноклассники" class="soc_ok"><i class="i__ok"></i></a>
+<a href="https://t.me/topwar_official" target="_blank" rel="nofollow noopener noreferrer" title="Telegram" class="soc_telegram"><i class="i__telegram"></i></a>
+</nav>
+<div class="foot-langs" style="display: none;"><div class="langs">
+<a href="#" onclick="doGTranslate('ru|ru');return false;" title="Русский" class="gflag nturl"><i style="background-position: 0 0;"></i></a>
+<a href="#" onclick="doGTranslate('ru|zh-CN');return false;" title="Китайский (упрощенный)" class="gflag nturl"><i style="background-position: -24px 0;"></i></a>
+<a href="#" onclick="doGTranslate('ru|en');return false;" title="Английский" class="gflag nturl"><i style="background-position: -48px 0;"></i></a>
+<a href="#" onclick="doGTranslate('ru|de');return false;" title="Немецкий" class="gflag nturl"><i style="background-position: -72px 0;"></i></a>
+<a href="#" onclick="doGTranslate('ru|fr');return false;" title="Французский" class="gflag nturl"><i style="background-position: -120px 0;"></i></a>
+<a href="#" onclick="doGTranslate('ru|es');return false;" title="Испанский" class="gflag nturl"><i style="background-position: -96px 0;"></i></a>
+<a href="#" onclick="doGTranslate('ru|it');return false;" title="Итальянский" class="gflag nturl"><i style="background-position: -144px 0;"></i></a>
+</div></div>
+</div>
+</div>
+</div>
+<div class="foot">
+<div class="foot-left">
+<span class="age_rate font fw-b c-muted">18+</span>
+<div class="uppercase c-muted">Мнение редакции "Военного обозрения" может не совпадать с точкой
+зрения авторов публикаций</div>
+<span class="gplay-foot" style="display: none;">
+<a href="https://play.google.com/store/apps/details?id=ru.topwar.app">
+<img src="/templates/topwar/images/google-play-badge.png" alt="Get in on Google Play" style="width: 121px; height: 36px; vertical-align: top;" loading="lazy" decoding="async">
+</a>
+</span>
+</div>
+<div class="foot-right">
+<a class="ca" href="https://centroarts.com" target="_blank" rel="noreferrer">
+<i class="i__ca"></i>
+<span>Дизайн разработан <span class="uppercase">Centroarts</span></span>
+</a>
+<div class="count" style="display: none;">
+<a href="//www.liveinternet.ru/click" target="_blank"><img src="//counter.yadro.ru/logo?16.3" title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня" alt="" style="border:0" width="88" height="31" /></a>
+
+</div>
+<a class="upper" href="/"><i class="i__upper"></i></a>
+</div>
+</div>
+</footer>
+</div>
+<a class="upper" id="upper_left" style="display: none;" href="/"><i class="i__upper"></i></a>
+<div class="modal fade login_modal" id="loginmodal" tabindex="-1" role="dialog" aria-hidden="true" style="display: none;">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="login-head">
+<a class="logotype" href="/" title="Военное обозрение">
+<svg><use xlink:href="/templates/topwar/images/logo.svg#logo_light"></svg>
+</a>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<i class="i__cross"></i>
+</button>
+</div>
+<div class="modal-body fonts">
+<form class="login-form" method="post">
+<div class="form-group">
+<label class="c-muted fs-075" for="login_name">Имя пользователя</label>
+<input class="form-control" type="text" name="login_name" id="login_name" required autocomplete="username">
+</div>
+<div class="form-group">
+<label class="c-muted fs-075" for="login_password">Пароль</label>
+<input class="form-control" type="password" name="login_password" id="login_password" required autocomplete="current-password">
+</div>
+<input name="login" type="hidden" id="login" value="submit" autocomplete="off">
+<button class="btn btn-lg w-100" onclick="submit();" type="submit" title="Войти">Войти</button>
+<ul class="login-form-foot fs-0875">
+<li><a href="https://topwar.ru/index.php?do=lostpassword">Я забыл пароль</a></li>
+<li><a href="https://topwar.ru/index.php?do=register">Регистрация</a></li>
+</ul>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade modal-search" id="search_dialog" tabindex="-1" role="dialog" style="display: none;">
+<div class="modal-dialog" role="document">
+<button type="button" class="close modal-close" data-dismiss="modal" aria-label="Close"><i class="i__cross"></i></button>
+<div class="modal-content">
+<div class="modal-body">
+<form method="post">
+<div class="searchfield">
+<input name="story" type="search" placeholder="Поиск по сайту..." autocomplete="off">
+<button type="submit" class="c-red" title="Search">
+<i class="i__search"></i>
+<span class="sr-only">Искать</span>
+</button>
+</div>
+ <input type="hidden" name="do" value="search" autocomplete="off">
+<input type="hidden" name="subaction" value="search" autocomplete="off">
+</form>
+</div>
+</div>
+</div>
+</div>
+<div id="adfoxBranding"></div>
+<div class="branding bg__ground"></div>
+<link href="/engine/editor/css/default.css?v=41bea" rel="stylesheet" type="text/css">
+<script src="/engine/classes/js/jquery.js?v=41bea"></script>
+<script src="/engine/classes/js/jqueryui.js?v=41bea" defer></script>
+<script src="/engine/classes/js/dle_js.js?v=41bea" defer></script>
+<script src="/engine/classes/js/lazyload.js?v=41bea" defer></script>
+<script>
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = '27645ddaf5321c2753cac669b4a2b34392467d5d';
+var dle_group      = 5;
+var dle_skin       = 'topwar';
+var dle_wysiwyg    = '0';
+var quick_wysiwyg  = '0';
+var dle_min_search = '4';
+var dle_act_lang   = ["Да", "Нет", "Ввод", "Отмена", "Сохранить", "Удалить", "Загрузка. Пожалуйста, подождите..."];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+var dle_confirm    = 'Подтверждение';
+var dle_prompt     = 'Ввод информации';
+var dle_req_field  = ["Заполните поле с именем", "Заполните поле с сообщением", "Заполните поле с темой сообщения"];
+var dle_del_agree  = 'Вы действительно хотите удалить? Данное действие невозможно будет отменить';
+var dle_spam_agree = 'Вы действительно хотите отметить пользователя как спамера? Это приведёт к удалению всех его комментариев';
+var dle_c_title    = 'Отправка жалобы';
+var dle_complaint  = 'Укажите текст Вашей жалобы для администрации:';
+var dle_mail       = 'Ваш e-mail:';
+var dle_big_text   = 'Выделен слишком большой участок текста.';
+var dle_orfo_title = 'Укажите комментарий для администрации к найденной ошибке на странице:';
+var dle_p_send     = 'Отправить';
+var dle_p_send_ok  = 'Уведомление успешно отправлено';
+var dle_save_ok    = 'Изменения успешно сохранены. Обновить страницу?';
+var dle_reply_title= 'Ответ на комментарий';
+var dle_tree_comm  = '0';
+var dle_del_news   = 'Удалить статью';
+var dle_sub_agree  = 'Вы действительно хотите подписаться на комментарии к данной публикации?';
+var dle_captcha_type  = '1';
+var dle_share_interesting  = ["Поделиться ссылкой на выделенный текст", "Twitter", "Facebook", "Вконтакте", "Прямая ссылка:", "Нажмите правой клавишей мыши и выберите «Копировать ссылку»"];
+var DLEPlayerLang     = {prev: 'Предыдущий',next: 'Следующий',play: 'Воспроизвести',pause: 'Пауза',mute: 'Выключить звук', unmute: 'Включить звук', settings: 'Настройки', enterFullscreen: 'На полный экран', exitFullscreen: 'Выключить полноэкранный режим', speed: 'Скорость', normal: 'Обычная', quality: 'Качество', pip: 'Режим PiP'};
+var allow_dle_delete_news   = false;
+
+//-->
+</script>
+<script src="/templates/topwar/js/bootstrap.min.js?1676888965"></script>
+
+
+<script>
+	var dle_device = '{dle_device};'
+	
+	$(function() {
+		
+		
+		$('.upper').click(function(){
+			$('html, body').animate({scrollTop:0}, 'slow');
+			return false;
+		});
+		
+
+		
+		$(function() {
+		    var up = $("#upper_left");
+		    
+			$(window).scroll(function() {
+				var scroll = $(window).scrollTop();
+				if (scroll >= 200) {
+					up.addClass("active");
+				} else {
+					up.removeClass("active");
+				};
+				
+			});
+		});
+		$('.dropdown-form').click(function(e) {
+			e.stopPropagation();
+		});
+		
+		$('#menu-call, .menu_close').on('click', function(){
+			$('.h-menu').toggleClass('open');
+			setTimeout(function() {
+				$('html').toggleClass('hm');
+			}, 50);
+			return false;
+		});
+		
+
+	
+	});
+	
+
+
+</script>
+<script src="/templates/topwar/js/app.js?1&1676888965" defer></script>
+<script>
+if ('serviceWorker' in navigator) {
+window.addEventListener('load', function() {
+	navigator.serviceWorker.register('/service-worker.js');
+});
+}
+</script>
+<script>
+function doGTranslate(lang_pair) {if(lang_pair.value)lang_pair=lang_pair.value;if(lang_pair=='')return;var lang=lang_pair.split('|')[1];var plang=location.hostname.split('.')[0];if(plang.length !=2 && plang.toLowerCase() != 'zh-cn' && plang.toLowerCase() != 'zh-tw')plang='ru';location.href=location.protocol+'//'+(lang == 'ru' ? '' : lang+'.')+location.hostname.replace('www.', '').replace(RegExp('^' + plang + '\\.'), '')+location.pathname+location.search;}
+</script>
+<script>
+	var isElementVisible = function (id)
+	{
+
+	target = document.querySelector('#' + id);
+
+	// Все позиции элемента
+	var targetPosition = {
+		top: window.pageYOffset + target.getBoundingClientRect().top,
+		left: window.pageXOffset + target.getBoundingClientRect().left,
+		right: window.pageXOffset + target.getBoundingClientRect().right,
+		bottom: window.pageYOffset + target.getBoundingClientRect().bottom
+		},
+		// Получаем позиции окна
+		windowPosition = {
+		top: window.pageYOffset,
+		left: window.pageXOffset,
+		right: window.pageXOffset + document.documentElement.clientWidth,
+		bottom: window.pageYOffset + document.documentElement.clientHeight
+		};
+
+	if (targetPosition.bottom > windowPosition.top && // Если позиция нижней части элемента больше позиции верхней чайти окна, то элемент виден сверху
+		targetPosition.top < windowPosition.bottom && // Если позиция верхней части элемента меньше позиции нижней чайти окна, то элемент виден снизу
+		targetPosition.right > windowPosition.left && // Если позиция правой стороны элемента больше позиции левой части окна, то элемент виден слева
+		targetPosition.left < windowPosition.right) { // Если позиция левой стороны элемента меньше позиции правой чайти окна, то элемент виден справа
+		// Если элемент полностью видно, то запускаем следующий код
+
+		return true 
+		} else {
+
+			return false
+		};
+	};
+</script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-27412214-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-27412214-1');
+</script>
+
+
+<script type="text/javascript">
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   var z = null;m[i].l=1*new Date();
+   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(3153130, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/3153130" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
+<script>
+new Image().src = "//counter.yadro.ru/hit;vo-media?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,150))+
+";"+Math.random();</script>
+
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "3080429", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = "https://top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div>
+<img src="https://top-fwz1.mail.ru/counter?id=3080429;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru" />
+</div></noscript>
+
+
+
+<script>
+
+/**
+ * Аукционная новость в блоках
+ * @param site
+ */
+auction = function (site) {
+    var api = {'finobzor': 4, 'politobzor': 2}
+
+    if ($('#a' + site).size() == 0)
+        return
+
+    $.get('//auction.vo-media.ru/rotator/' + api[site] + '?json', function (res) {
+
+        if (res.is_winner !== undefined) {
+            var d = new Date();
+            var min = d.getMinutes() < 10 ? '0' + d.getMinutes() : d.getMinutes();
+            var hours = d.getHours() < 10 ? '0' + d.getHours() : d.getHours();
+
+            $('#a' + site).prepend('<div class="post_linelink">' +
+                '<a target="_blank" class="d-flex text-dark font" href="' + res.link_auction + '?utm_source=topwar.ru&utm_campaign=auction&utm_medium=main_page">' +
+                '<span class="post_linelink_time">' + hours + ':' + min + '</span><div>' + res.title + '</div></a></div>');
+            setTimeout(function () {
+                $('#a' + site).find('.hidden').attr('class', 'show');
+                setTimeout(function () {
+                    setWidgetScrollHeight();
+                }, 500);
+            }, 1500);
+
+        }
+    })
+}
+
+setWidgetScrollHeight = function () {
+    $('.postFeed').each(function () {
+        sum = 0;
+        var that = this;
+        $(this).find('ul li:lt(5)').each(function () {
+            sum += $(this).outerHeight();
+        });
+        $(this).find('ul').height(sum);
+    });
+}
+
+$(function() {
+	auction('politobzor');
+	auction('finobzor');
+});
+</script>
+</body>
+</html>
+

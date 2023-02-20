@@ -1,0 +1,2370 @@
+<!DOCTYPE html>
+
+
+<html lang="ru">
+
+
+<head>
+
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+    <meta name="google-site-verification" content="S5XiivW7HwD5PtPJUoe6m_ykAP4f7U1VfFKuRx3DqTI"/>
+
+    <meta name="yandex-verification" content="f4f63e6be7c4e2ac"/>
+    <meta name='wmail-verification' content='acbd43d8f6b41cb1336b834986984896'/>
+    <meta name="pmail-verification" content="001d2036723fb635aa5d46d50cfadcef">
+    <meta property="aio_appid" content="AIO_57B5B1AA4E01D">
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <!--base href="https://gorodche.ru/"-->
+
+    <link rel="icon" href="/favicon.ico">
+
+    <title>ГородЧе</title>
+    <meta name="description" content="Главные новости и события дня в России и мире, в обществе и государстве, в политике и деньгах. Эксклюзивы о жизни звезд и фото светской хроники. Ответы на вопросы на сайте ГородЧе">
+    <link rel='canonical' href='https://www.gorodche.ru/'/>
+
+    <link rel="stylesheet" href="/assets/css/main2020.css?v=2022"/>
+
+
+
+    <!--link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css"
+          integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous"/-->
+    <!--link rel="stylesheet" href="/assets/css/assets/css/fontawesome.min.css"/-->
+    <!--link rel="stylesheet" href="/assets/css/assets/css/regular.min.css"/>
+    <link rel="stylesheet" href="/assets/css/assets/css/brands.min.css"/-->
+    <!--script data-cfasync='false' data-mrf-script="garda" data-mrf-dt="1" data-mrf-host="bc.marfeelcache.com" src="https://bc.marfeelcache.com/statics/marfeel/gardac-sync.js"></script-->
+
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js"
+            integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="/assets/js/jquery.cookie.js"></script>
+
+
+    <script type="text/javascript" src="//gorodche.ru/assets/js/create.scroll.js?v=1"></script>
+    <script src="https://yastatic.net/pcode/adfox/loader.js"></script>
+
+
+
+
+
+    
+
+
+    <style>
+
+
+
+
+        .article_content iframe, .article_content object {
+            margin-bottom: 20px;
+            max-width: 100%;
+        }
+
+        .mobilenow {display: none;}
+
+
+
+
+        .desknow {display: block;}
+
+
+
+        @media screen and (max-width: 700px) {
+            .mobilenow {display: block;}
+
+
+
+            .desknow {display: none;}
+        }
+
+
+
+        #menu-item-857819 {
+            color: #ec1c24;
+        }
+
+
+
+        .znamya715012 {
+            padding-bottom: 0px !important;
+        }
+
+
+
+        .main2019_footer-tags-secondary-list .main2019_footer-tags-primary-link {
+            color: #222;
+            font-size: 11px;
+            font-weight: 400;
+            line-height: 1.63;
+            text-transform: initial;
+        }
+
+
+
+        .main2019_footer-tags-primary-link {
+            font-size: 13px;}
+
+
+
+        @media screen and (min-width: 768px) {
+            .main2019_vertical-news, .main2019_top-news-item {
+                overflow: hidden;
+                height: 353px;
+            }
+
+
+
+            .main2019_border-bottom-3, .main2019_border-bottom {
+                padding-bottom: 7px;
+            }
+
+
+
+            .noborder.main2019_border-bottom-3:after {
+                border: none !important;
+            }
+
+
+
+            .noborder.main2019_border-bottom-3 {
+                margin-bottom: -20px;
+            }
+        }
+
+
+
+        .alert {
+            padding: 0px;
+            color: black;
+            position: absolute;
+            left: 55%; top: -42px;
+            width: 290px;
+            z-index: 999;
+        }
+
+
+
+        .box {
+            display: none;
+        }
+
+
+
+        /* Крестик */
+        .closebtn {
+            margin-left: 15px;
+            color: #888888;
+            font-weight: bold;
+            float: right;
+            font-size: 26px;
+            line-height: 20px;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+
+
+
+        .closebtn:hover {
+            color: black;
+        }
+
+    </style>
+
+
+
+
+</head>
+
+<body>
+
+
+
+<div id='header' style="display: none;">
+</div>
+
+<div class="site-wrapper">
+    <div class="mobile-menu_wrapper">
+        <div class="page-wrapper">
+                        <!-- реклама над шапкой -->
+            <div class="row">  </div>
+            <div class="row">      <div class='znamya416430 znamya znamya_desctop'> <div id="adfox_163774980171693952"></div>
+<script>
+    
+     if (window.innerWidth < 800) {p2='htjm';} else {p2='htov';}
+
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 216729,
+            containerId: 'adfox_163774980171693952',
+            params: {
+                pp: 'g',
+                ps: 'bmgo',
+                p2: p2,
+                puid1: ''
+            }
+        })
+    })
+    
+</script>
+</div   ><div  class='znamya416430 znamya znamya_mobile'> <!--no--></div   ><!--znamya416430-->
+
+</div>
+
+
+            <!-- шапка -->
+
+            <style>
+    .menu-item { white-space: nowrap; font-family: AstraSans !important; font-size: 16px !important; color: white;letter-spacing: 0.15em;}
+    #menu-main_menu li:nth-child(n+7)
+
+    {
+
+        display: none;
+    }
+
+
+    .main2019_editors-header.mobilenow , .main2019_news-of-day-header.mobilenow  {text-align: right; margin-right: 15px;}
+
+    .main2019_news-of-day-item {border-bottom: none !important;}
+
+    @media screen and (max-width: 700px) {
+        .main2019_news-of-day-header {text-align: right;}
+
+        .fa-bars:before {
+            width: 36px;
+            height: 36px;
+            display: block;
+
+            padding-left: 6px;
+            padding-top: 10px;
+        }
+    }
+
+
+
+
+</style>
+<div class="row" style="position: static; ">
+
+
+    <div class="site-header_all">
+        <div class="site-header" style="display: none;">
+
+
+        </div>
+        <div class="site-nav_wrapper" style="    z-index: 250;
+    position: relative;">
+
+
+            <div class="site-nav_inner" style="background-color: #515b63; color: white; ">
+
+                <span style="height: 60px; width: 196px !important;" href="/" class="desknow" ><img width="196" src="/wp-content/uploads/2021/12/logo2022080517.png" style="height: 60px; min-width: 196px !important;"></span> 
+
+                <span style="height: 60px; width: 138px !important;" href="/" class="mobilenow" ><img width="196" src="/assets/logomob103129.png" style="height: 60px; min-width: 138px !important;"></span> 
+
+                <li class="menu-mobile_item text-center mobilenow" style="overflow: hidden; max-height: 47px; border-bottom: none;">
+
+                    <a rel="noreferrer" target=_blank target="_blank" href="https://t.me/gorodche"
+                       class="menu-mobile_soc-link"><i
+                                class="fab fa-odnoklassniki" aria-hidden="true"></i></a>
+
+
+                    <a rel="noreferrer" target=_blank target="_blank" href="https://vk.com/news_gorodche"
+                       class="menu-mobile_soc-link"><i
+                                class="fab fa-vk" aria-hidden="true"></i></a>
+                    <!--a rel="noreferrer" target=_blank target="_blank" href="https://twitter.com/ExpressGazeta"
+                       class="menu-mobile_soc-link"><i
+                                class="fab fa-twitter" aria-hidden="true"></i></a-->
+                    <!--a rel="noreferrer" target=_blank target="_blank" href="https://www.youtube.com/channel/UCkr3EyngKYzpKb366cP9NNQ"
+                       class="menu-mobile_soc-link"><i
+                                class="fab fa-youtube" aria-hidden="true"></i></a-->
+
+
+
+                </li>
+
+
+                <a class="menu-mobile_soc-link site-nav_hamburger mobilenow" style="    margin-right: 20px;
+    margin-top: -19px; " ><i class="fa fa-bars" aria-hidden="true"></i></a>
+
+                <nav style="max-width: 758px; width: 758px;" id="menu-main-wrapper" class="site-nav" itemscope=""
+                     itemtype="http://schema.org/SiteNavigationElement">
+
+
+                    <ul id="menu-main_menu" class="site-nav_list">
+
+
+                        <li id="menu-item-2803922" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2803922"><a  itemprop="url"  href="//www.gorodche.ru/news/">Новости</a></li>
+<li id="menu-item-675738" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-675738"><a  itemprop="url"  href="//www.gorodche.ru/society/">Общество</a></li>
+<li id="menu-item-2260332" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2260332"><a  itemprop="url"  href="//www.gorodche.ru/home/">Дом и семья</a></li>
+<li id="menu-item-675739" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-675739"><a  itemprop="url"  href="//www.gorodche.ru/celebrity/">Звезды</a></li>
+<li id="menu-item-2803892" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2803892"><a  itemprop="url"  href="//www.gorodche.ru/lifestyle/">Стиль жизни</a></li>
+
+
+
+
+
+                    </ul>
+                </nav>
+
+
+
+                <!--a class="site-nav_logo-mobile" href="/">EG.RU</a>
+                <div class="site-nav_sharing-mobile">
+                    <a href="/"><img width=150 class="lazy" data-src="/assets/images/lolgo-360.png"></a>
+
+
+                </div-->
+                <script>
+
+                        function setFocus1(){
+
+                            $("#searchtext").focus();
+
+
+                        }
+                </script>
+
+
+                <div class="site-nav_search-block">
+                    <form name="search" action="/gsearch/" method="get">
+
+                        <input type="hidden" name="utm" value="ya">
+                        <input type="hidden" name="web" value="0">
+                        <input type="hidden" name="searchid" value="2407943">
+                        <input autofocus  type="text" name="text" class="site-nav_search-text" id="searchtext"
+                               placeholder="поиск по сайту">
+                    </form>
+                </div>
+
+
+                <div class="site-header_socials" style=" max-width: 179px;   flex-basis: 12.3333%;">
+
+                    <a class="site-header_social-btn site-nav_hamburger" style="width: 16px;" ><i class="fa fa-bars" aria-hidden="true"></i></a>
+
+                    <a rel="noreferrer" target=_blank href="https://vk.com/news_gorodche" class="site-header_social-btn" target="_blank"><i
+                                class="fab fa-vk"
+                                aria-hidden="true"></i></a>
+
+                   <a rel="noreferrer" target=_blank href="https://t.me/gorodche" class="site-header_social-btn" target="_blank"><i
+                                class="fab fa-odnoklassniki"
+                                aria-hidden="true"></i></a>
+
+
+
+
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+    
+</div>
+
+<div class="site-header_fixed" >
+    <noindex>
+        <div class="menu-mobile" style="z-index: 300; background-color: black; color:white; display: none;">
+            <div class="menu-mobile_header">
+
+                <div class="menu-mobile_close"><i class="fa fa-close" aria-hidden="true" style="color: #ccc; font-style: normal;">&#10006;</i></div>
+            </div>
+            <ul class="menu-mobile_list">
+
+                <li id="menu-item-2803922" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2803922"><a    href="//www.gorodche.ru/news/">Новости</a></li>
+<li id="menu-item-675738" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-675738"><a    href="//www.gorodche.ru/society/">Общество</a></li>
+<li id="menu-item-2260332" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2260332"><a    href="//www.gorodche.ru/home/">Дом и семья</a></li>
+<li id="menu-item-675739" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-675739"><a    href="//www.gorodche.ru/celebrity/">Звезды</a></li>
+<li id="menu-item-2803892" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2803892"><a    href="//www.gorodche.ru/lifestyle/">Стиль жизни</a></li>
+
+
+
+
+
+                    <li id="menu-item-3308262" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3308262"><a   href="//www.gorodche.ru/events/">События</a></li>
+                    </li>
+                <noindex><li id="menu-item-3630542" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3630542"><a  rel="nofollow"  href="/specprojects/">Спецпроекты</a></li></noindex>
+                <li id="menu-item-723011" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-723011"><a   href="/contacts/">Контакты</a></li>
+
+                <li class="menu-mobile_item text-center">
+                        <div class="menu-mobile_soc-text"></div>
+                        <a rel="noreferrer" target=_blank target="_blank" href="https://t.me/gorodche"
+                           class="menu-mobile_soc-link"><i
+                                    class="fab fa-odnoklassniki" aria-hidden="true"></i></a>
+
+
+                        <a rel="noreferrer" target=_blank target="_blank" href="https://vk.com/news_gorodche"
+                           class="menu-mobile_soc-link"><i
+                                    class="fab fa-vk" aria-hidden="true"></i></a>
+                        <!--a rel="noreferrer" target=_blank target="_blank" href="https://twitter.com/ExpressGazeta"
+                           class="menu-mobile_soc-link"><i
+                                    class="fab fa-twitter" aria-hidden="true"></i></a>
+                        <a rel="noreferrer" target=_blank target="_blank" href="https://www.youtube.com/channel/UCkr3EyngKYzpKb366cP9NNQ"
+                           class="menu-mobile_soc-link"><i
+                                    class="fab fa-youtube" aria-hidden="true"></i></a-->
+
+
+
+                    </li>
+
+            </ul>
+        </div>
+        <div class="site-header_overlay"></div>
+    </noindex>
+</div>
+
+
+
+            <div class="main2019_top desknow">
+                <div class="row">
+
+                    <div class="large-3 medium-12 small-12 column items-text" style="background-color: #ffffff;">
+                        <div class="main2019_aside">
+
+                            <div class="main2019_news-of-day hide-for-medium-down">
+
+                                <div class="main2019_news-of-day-header">
+    <a href="/tag/cherepovec/" class="main2019_news-of-day-header-title">Череповец</a>
+</div>
+
+<div class="main2019_news-of-day-body " >
+
+
+    
+
+            <a class="main2019_news-of-day-item" href="https://www.gorodche.ru/society/4069142-pod-cherepovcom-lje-medrabotnik-ukrala-u-pensionerki-dengi-i-vernula-ih-pered-sudom/">
+                                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  Под Череповцом лже-медработник украла у пенсионерки деньги и вернула их перед судом</div>
+                <span class="main2019_news-of-day-headline">  Путем манипуляций преступнице достались 27000 рублей</span>
+            </a>
+
+
+
+        
+
+            <a class="main2019_news-of-day-item" href="https://www.gorodche.ru/news/4068702-inspektory-dps-cherepovca-pokazali-navyki-ekstremalnogo-vojdeniya/">
+                                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  Инспекторы ДПС Череповца показали навыки экстремального вождения</div>
+                <span class="main2019_news-of-day-headline">  Площадку подготовили на закрытой территории</span>
+            </a>
+
+
+
+        
+
+            <a class="main2019_news-of-day-item" href="https://www.gorodche.ru/news/4068592-rektor-chgu-ekaterina-celikova-voshla-v-jyuri-proekta-umnicy-i-umniki/">
+                                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  Ректор ЧГУ Екатерина Целикова вошла в жюри проекта «Умницы и умники»</div>
+                <span class="main2019_news-of-day-headline">  Новый выпуск был посвящен Пушкину</span>
+            </a>
+
+
+
+        
+
+            <a class="main2019_news-of-day-item" href="https://www.gorodche.ru/news/4068312-mer-zayavil-o-planah-likvidacii-svalki-v-120000-kvadratnyh-metrov/">
+                                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  Мэр заявил о планах ликвидации свалки в 120000 квадратных метров</div>
+                <span class="main2019_news-of-day-headline">  Она незаконно существует не одно 10-летие</span>
+            </a>
+
+
+
+        
+
+            <a class="main2019_news-of-day-item" href="https://www.gorodche.ru/news/4066402-cherepovchanin-zabil-sojitelya-materi-i-sbrosil-ego-s-lestnicy/">
+                                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  Череповчанин забил сожителя матери и сбросил его с лестницы</div>
+                <span class="main2019_news-of-day-headline">  30-летнему рецидивисту грозит до 15 лет колонии</span>
+            </a>
+
+
+
+        
+</div>
+
+
+
+
+
+
+
+
+
+
+<div class="main2019_news-of-day-header">
+    <a href="/tag/vologodskaya-oblast/" class="main2019_news-of-day-header-title">Вологодская область</a>
+</div>
+
+<div class="main2019_news-of-day-body " >
+
+
+    
+
+            <a class="main2019_news-of-day-item" href="https://www.gorodche.ru/society/4068792-sledstvennyy-komitet-nachal-proverku-po-tragedii-pod-syamjey/">
+                                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  Следственный комитет начал проверку по трагедии под Сямжей</div>
+                <span class="main2019_news-of-day-headline">  При пожаре там погиб хозяин дома</span>
+            </a>
+
+           
+
+        
+
+            <a class="main2019_news-of-day-item" href="https://www.gorodche.ru/news/4068252-eshche-odin-chelovek-pogib-pri-pojare-v-vologodskoy-oblasti/">
+                                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  Еще один человек погиб при пожаре в Вологодской области</div>
+                <span class="main2019_news-of-day-headline">  Под Сямжей вспыхнул жилой дом</span>
+            </a>
+
+           
+
+        
+
+            <a class="main2019_news-of-day-item" href="https://www.gorodche.ru/news/4066232-vologodskiy-recidivist-ubil-cheloveka-i-vyzval-emu-skoruyu/">
+                                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  Вологодский рецидивист убил человека и вызвал ему скорую</div>
+                <span class="main2019_news-of-day-headline">  Это убийство стало для него уже вторым</span>
+            </a>
+
+           
+
+        
+
+            <a class="main2019_news-of-day-item" href="https://www.gorodche.ru/news/4065182-mujchina-pogib-pri-pojare-v-jilom-dome-pod-vologdoy/">
+                                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  Мужчина погиб при пожаре в жилом доме под Вологдой</div>
+                <span class="main2019_news-of-day-headline">  Инцидент произошёл вчера в посёлке Кипелово</span>
+            </a>
+
+           
+
+        
+</div>
+
+
+
+
+
+
+
+
+
+
+
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <div class="large-6 medium-12 small-12 column" style="max-height: 1355px;">
+
+
+
+                        <div class="main2019_main-content">
+
+
+                            <div class="row medium-collapse small-collapse large-uncollapse">
+                                <div class="main2019_news-of-day-header">
+                                    <span class="main2019_news-of-day-header-title">Новое</span>
+                                </div>
+
+                                <div class="large-6 medium-12 small-12 column " style="background-color: #ffffff;">
+                                    <div class="main2019_aside">
+
+                                        <div class="main2019_news-of-day hide-for-medium-down">
+                                            
+
+<div class="main2019_news-of-day-body " >
+
+
+    
+
+            <a class="main2019_news-of-day-item" href="https://www.gorodche.ru/home/4069382-kak-pobedit-bessonnicu-bez-tabletok/">
+                                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  Как победить бессонницу без таблеток</div>
+                <span class="main2019_news-of-day-headline">  Нормализовать режим сна вполне реально</span>
+            </a>
+
+            
+        
+
+            <a class="main2019_news-of-day-item" href="https://www.gorodche.ru/news/4068712-edinyy-zakon-o-tishine-namereny-prinyat-v-gosdume/">
+                                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  Единый закон о тишине намерены принять в Госдуме</div>
+                <span class="main2019_news-of-day-headline">  Законопроект внесут на рассмотрение в ближайшее время</span>
+            </a>
+
+            
+        
+
+            <a class="main2019_news-of-day-item" href="https://www.gorodche.ru/home/4065592-5-veshchey-kotorye-vydayut-neradivogo-dachnika-s-golovoy-proverte-svoy-sadovyy-uchastok/">
+                                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  5 вещей, которые выдают нерадивого дачника с головой: проверьте свой садовый участок</div>
+                <span class="main2019_news-of-day-headline">  Это не мусор и не сорняки</span>
+            </a>
+
+            
+        
+
+            <a class="main2019_news-of-day-item" href="https://www.gorodche.ru/home/4068302-farshirovannye-bliny-na-maslenoy-nedele-3-recepta/">
+                                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  Фаршированные блины на масленой неделе: 3 рецепта</div>
+                <span class="main2019_news-of-day-headline">  Заменят полноценный прием пищи</span>
+            </a>
+
+            
+        
+</div>
+
+
+
+
+
+
+
+
+
+
+
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <div class="large-6 medium-12 small-12 column " style="background-color: #ffffff;">
+                                    <div class="main2019_aside">
+
+                                        <div class="main2019_news-of-day hide-for-medium-down">
+                                            
+
+<div class="main2019_news-of-day-body " >
+
+
+    
+
+            <a class="main2019_news-of-day-item" href="https://www.gorodche.ru/lifestyle/4066012-lunnyy-kalendar-dlya-ogorodnikov-na-21-fevralya-2023-goda-chto-delat-kategoricheski-zapreshcheno/">
+                                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  Лунный календарь для огородников на 21 февраля 2023 года: что делать категорически запрещено</div>
+                <span class="main2019_news-of-day-headline">  Какие действия могут навредить посадкам</span>
+            </a>
+
+            
+        
+
+            <a class="main2019_news-of-day-item" href="https://www.gorodche.ru/lifestyle/4065542-goroskop-na-20-fevralya-rabotayte-v-spokoynom-rejime-chtoby-ne-nadelat-oshibok/">
+                                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  Гороскоп на 20 февраля: работайте в спокойном режиме, чтобы не наделать ошибок</div>
+                <span class="main2019_news-of-day-headline">  Займитесь решением мелких вопросов</span>
+            </a>
+
+            
+        
+
+            <a class="main2019_news-of-day-item" href="https://www.gorodche.ru/lifestyle/4066132-pochemu-segodnya-nujno-zatochit-vse-noji-v-dome-narodnye-primety-na-21-fevralya-2023-goda/">
+                                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  Почему сегодня нужно заточить все ножи в доме: народные приметы на 21 февраля 2023 года</div>
+                <span class="main2019_news-of-day-headline">  И что будет, если этого не сделать</span>
+            </a>
+
+            
+        
+
+            <a class="main2019_news-of-day-item" href="https://www.gorodche.ru/lifestyle/4065872-karera-mojet-okazatsya-pod-ugrozoy-lunnyy-kalendar-na-21-fevralya-2023-goda/">
+                                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  Карьера может оказаться под угрозой: лунный календарь на 21 февраля 2023 года</div>
+                <span class="main2019_news-of-day-headline">  Как избежать неприятностей</span>
+            </a>
+
+            
+        
+</div>
+
+
+
+
+
+
+
+
+
+
+
+                                        </div>
+
+                                    </div>
+                                </div>
+
+
+
+                                                                        
+
+
+
+                                            <div class="large-12 medium-12 small-12 column">
+
+
+
+                                                <div class="main2019_first-top-news-item">
+                                                    <a class="main2019_top-news-image-link"
+                                                       href="https://www.gorodche.ru/home/4060952-posadite-eti-rasteniya-pod-yabloney-i-mojete-zabyt-o-vreditelyah-kotorye-portyat-plody-na-dereve/">
+
+                                                        <img width="780" height="438" src="/wp-content/uploads/2023/02/yablonya3111539-780x438.jpg" class="main2019_top-news-image wp-post-image" alt="яблоня" loading="lazy" srcset="/wp-content/uploads/2023/02/yablonya3111539-240x135.jpg 240w,/wp-content/uploads/2023/02/yablonya3111539-512x288.jpg 510w,/wp-content/uploads/2023/02/yablonya3111539-780x438.jpg 780w" />                                                    </a>
+                                                    <span class="main2019_first-top-news-title-wrapper"
+                                                          style="bottom: -27px;">
+
+
+                                                        
+        <style>.main2019_top-news-section4060952 {left: 0;}</style>
+
+                                                                <a class="main2019_first-top-news-section main2019_top-news-section4060952" href="/home/">Дом и семья</a>                            </span>
+                                                    
+
+                                                </div>
+                                                <a style="    margin-top: 23px;
+    margin-bottom: 12px;" class="main2019_first-top-news-title" href="https://www.gorodche.ru/home/4060952-posadite-eti-rasteniya-pod-yabloney-i-mojete-zabyt-o-vreditelyah-kotorye-portyat-plody-na-dereve/">Посадите эти растения под яблоней и можете забыть о вредителях, которые портят плоды на дереве</a>
+                                            </div>
+
+                                        
+
+                                        
+
+                                                                                
+
+                                        
+
+                                            <div class="large-6 medium-6 small-6 column">
+                                                <div class="main2019_top-news-item">
+                                                    <div class="main2019_top-news-image-wrapper">
+                                                        <a class="main2019_top-news-image-link"
+                                                           href="https://www.gorodche.ru/lifestyle/4061052-kakie-imena-schitayut-samymi-krasivymi-v-mire-dlya-malchikov-i-devochek/">
+
+                                                            <img width="240" height="135" data-src="/wp-content/uploads/2023/02/7sqh6g8r0so-1121140-240x135.jpg" class="main2019_top-news-image lazy wp-post-image" alt="" loading="lazy" />                                                        </a>
+                                                        <a class="main2019_top-news-section main2019_top-news-section4061052" href="/lifestyle/">Стиль жизни</a>
+
+                                                        
+        <style>.main2019_top-news-section4061052 {left: 0;}</style>
+
+        
+                                                    </div>
+                                                    <a class="main2019_top-news-title"
+                                                       href="https://www.gorodche.ru/lifestyle/4061052-kakie-imena-schitayut-samymi-krasivymi-v-mire-dlya-malchikov-i-devochek/">Какие имена считают самыми красивыми в мире для мальчиков и девочек</a>
+                                                    <span class="main2019_top-news-lead hide-for-small">Часто в выборе имени для малыша мы ориентируемся на то, как оно звучит, приятно ли оно нам на слух</span>
+                                                                                                    </div>
+                                            </div>
+
+
+                                        
+
+                                                                                
+
+                                        
+
+                                            <div class="large-6 medium-6 small-6 column">
+                                                <div class="main2019_top-news-item">
+                                                    <div class="main2019_top-news-image-wrapper">
+                                                        <a class="main2019_top-news-image-link"
+                                                           href="https://www.gorodche.ru/home/4060752-skolko-let-mojet-projit-koshka-eksperty-ozvuchili-rezultaty-issledovaniy/">
+
+                                                            <img width="240" height="135" data-src="/wp-content/uploads/2023/02/kot-glazki034232-240x135.jpg" class="main2019_top-news-image lazy wp-post-image" alt="кот глазки" loading="lazy" />                                                        </a>
+                                                        <a class="main2019_top-news-section main2019_top-news-section4060752" href="/home/">Дом и семья</a>
+
+                                                        
+        <style>.main2019_top-news-section4060752 {left: 0;}</style>
+
+        
+                                                    </div>
+                                                    <a class="main2019_top-news-title"
+                                                       href="https://www.gorodche.ru/home/4060752-skolko-let-mojet-projit-koshka-eksperty-ozvuchili-rezultaty-issledovaniy/">Сколько лет может прожить кошка: эксперты озвучили результаты исследований</a>
+                                                    <span class="main2019_top-news-lead hide-for-small">Продолжительность жизни зависит от многих факторов</span>
+                                                                                                    </div>
+                                            </div>
+
+
+                                        
+
+                                        
+
+                                <div class="large-12 medium-12 small-12 column">
+                                    <div class="row main2019_pos-relative">
+
+                                        
+
+                                    </div>
+                                </div>
+
+                            </div>
+
+
+                            
+
+                        </div>
+                    </div>
+
+
+
+
+                    <div class="large-3 medium-12 small-12 column">
+                        <div class="main2019_aside">
+
+                            <div class="main2019_editors ">
+                                <div class="main2019_editors-header">
+                                    <span class="main2019_editors-header-title">Сегодня читают</span>
+                                </div>
+                                <div class="main2019_editors-body">
+
+
+                                    
+                                <div class="main2019_editors-item">
+                                    <div class="main2019_editors-item-image-wrapper">
+                                        <a class="main2019_editors-item-image-link"
+                                           href="https://www.gorodche.ru/society/4065042-polshu-postavit-na-koleni-i-vernut-v-kamennyy-vek-za-1-chas/">
+
+                                            <img width="512" height="288" data-src="/wp-content/uploads/2023/02/629633b-1669162608065028-512x288.jpg" class="main2019_editors-item-image lazy wp-post-image" alt="" loading="lazy" />                                        </a>
+                                        <a class="main2019_editors-item-section" href="/society/">Общество</a>                                    </div>
+                                    <a
+                                        
+                                            class="main2019_editors-item-title"
+                                            href="https://www.gorodche.ru/society/4065042-polshu-postavit-na-koleni-i-vernut-v-kamennyy-vek-za-1-chas/">
+                                        «Польшу поставить на колени и вернуть в каменный век за 1 час»                                    </a>
+                                    <span class="main2019_editors-item-lead"
+
+                                        
+
+                                    >"Для этого не надо вводить войска"</span>
+
+                                </div>
+
+
+                            
+                                <div class="main2019_editors-item">
+                                    <div class="main2019_editors-item-image-wrapper">
+                                        <a class="main2019_editors-item-image-link"
+                                           href="https://www.gorodche.ru/lifestyle/4064562-stilisty-zayavili-sumki-bolshe-ne-nujny-novyy-trend-vesny-2023-foto/">
+
+                                            <img width="512" height="288" data-src="/wp-content/uploads/2023/02/karmany062554-512x288.jpg" class="main2019_editors-item-image lazy wp-post-image" alt="" loading="lazy" />                                        </a>
+                                        <a class="main2019_editors-item-section" href="/lifestyle/">Стиль жизни</a>                                    </div>
+                                    <a
+                                        
+                                            class="main2019_editors-item-title"
+                                            href="https://www.gorodche.ru/lifestyle/4064562-stilisty-zayavili-sumki-bolshe-ne-nujny-novyy-trend-vesny-2023-foto/">
+                                        Стилисты заявили: сумки больше не нужны! Новый тренд весны 2023 (фото)                                    </a>
+                                    <span class="main2019_editors-item-lead"
+
+                                        
+
+                                    >Женщина теперь в этом будет носить кошелек и косметичку</span>
+
+                                </div>
+
+
+                            
+                                <div class="main2019_editors-item">
+                                    <div class="main2019_editors-item-image-wrapper">
+                                        <a class="main2019_editors-item-image-link"
+                                           href="https://www.gorodche.ru/home/4062172-kak-s-pomoshchyu-krahmala-ubrat-rjavye-podteki-v-unitaze-za-30-minut/">
+
+                                            <img width="512" height="288" data-src="/wp-content/uploads/2023/02/unitaz-1045815-512x288.jpg" class="main2019_editors-item-image lazy wp-post-image" alt="" loading="lazy" />                                        </a>
+                                        <a class="main2019_editors-item-section" href="/home/">Дом и семья</a>                                    </div>
+                                    <a
+                                        
+                                            class="main2019_editors-item-title"
+                                            href="https://www.gorodche.ru/home/4062172-kak-s-pomoshchyu-krahmala-ubrat-rjavye-podteki-v-unitaze-za-30-minut/">
+                                        Как с помощью крахмала убрать ржавые подтеки в унитазе за 30 минут                                    </a>
+                                    <span class="main2019_editors-item-lead"
+
+                                        
+
+                                    >И унитаз снова станет белым</span>
+
+                                </div>
+
+
+                            
+                                <div class="main2019_editors-item">
+                                    <div class="main2019_editors-item-image-wrapper">
+                                        <a class="main2019_editors-item-image-link"
+                                           href="https://www.gorodche.ru/society/4065842-turciya-vygnala-grecheskih-spasateley/">
+
+                                            <img width="512" height="288" data-src="/wp-content/uploads/2023/02/73e5f4ca-be41-4a1c-b247-78e227e6f5d0122348-512x288.jpg" class="main2019_editors-item-image lazy wp-post-image" alt="" loading="lazy" />                                        </a>
+                                        <a class="main2019_editors-item-section" href="/society/">Общество</a>                                    </div>
+                                    <a
+                                        
+                                            class="main2019_editors-item-title"
+                                            href="https://www.gorodche.ru/society/4065842-turciya-vygnala-grecheskih-spasateley/">
+                                        Турция выгнала греческих спасателей                                    </a>
+                                    <span class="main2019_editors-item-lead"
+
+                                        
+
+                                    >Потому что они коммунисты</span>
+
+                                </div>
+
+
+                            
+                                <div class="main2019_editors-item">
+                                    <div class="main2019_editors-item-image-wrapper">
+                                        <a class="main2019_editors-item-image-link"
+                                           href="https://www.gorodche.ru/lifestyle/4061052-kakie-imena-schitayut-samymi-krasivymi-v-mire-dlya-malchikov-i-devochek/">
+
+                                            <img width="512" height="288" data-src="/wp-content/uploads/2023/02/7sqh6g8r0so-1121140-512x288.jpg" class="main2019_editors-item-image lazy wp-post-image" alt="" loading="lazy" />                                        </a>
+                                        <a class="main2019_editors-item-section" href="/lifestyle/">Стиль жизни</a>                                    </div>
+                                    <a
+                                        
+                                            class="main2019_editors-item-title"
+                                            href="https://www.gorodche.ru/lifestyle/4061052-kakie-imena-schitayut-samymi-krasivymi-v-mire-dlya-malchikov-i-devochek/">
+                                        Какие имена считают самыми красивыми в мире для мальчиков и девочек                                    </a>
+                                    <span class="main2019_editors-item-lead"
+
+                                        
+
+                                    >Часто в выборе имени для малыша мы ориентируемся на то, как оно звучит, приятно ли оно нам на слух</span>
+
+                                </div>
+
+
+                            
+                                <div class="main2019_editors-item">
+                                    <div class="main2019_editors-item-image-wrapper">
+                                        <a class="main2019_editors-item-image-link"
+                                           href="https://www.gorodche.ru/celebrity/4062392-keti-perri-i-orlando-blum-ne-mogut-podelit-zony-vliyaniya/">
+
+                                            <img width="512" height="288" data-src="/wp-content/uploads/2023/02/perri-2-1065803-512x288.jpg" class="main2019_editors-item-image lazy wp-post-image" alt="" loading="lazy" />                                        </a>
+                                        <a class="main2019_editors-item-section" href="/celebrity/">Звезды</a>                                    </div>
+                                    <a
+                                        
+                                            class="main2019_editors-item-title"
+                                            href="https://www.gorodche.ru/celebrity/4062392-keti-perri-i-orlando-blum-ne-mogut-podelit-zony-vliyaniya/">
+                                        Кэти Перри и Орландо Блум не могут поделить зоны влияния                                    </a>
+                                    <span class="main2019_editors-item-lead"
+
+                                        
+
+                                    >Иногда доходит до «драки»</span>
+
+                                </div>
+
+
+                            
+                                <div class="main2019_editors-item">
+                                    <div class="main2019_editors-item-image-wrapper">
+                                        <a class="main2019_editors-item-image-link"
+                                           href="https://www.gorodche.ru/society/4066062-psihiatr-sozdal-ustroystvo-fotografiruyushchee-mysli/">
+
+                                            <img width="512" height="288" data-src="/wp-content/uploads/2023/02/a14d7783-5858-409d-8812-bc05c2cfac1f-kopiya024104-512x288.jpg" class="main2019_editors-item-image lazy wp-post-image" alt="" loading="lazy" />                                        </a>
+                                        <a class="main2019_editors-item-section" href="/society/">Общество</a>                                    </div>
+                                    <a
+                                        
+                                            class="main2019_editors-item-title"
+                                            href="https://www.gorodche.ru/society/4066062-psihiatr-sozdal-ustroystvo-fotografiruyushchee-mysli/">
+                                        Психиатр создал устройство, фотографирующее мысли                                    </a>
+                                    <span class="main2019_editors-item-lead"
+
+                                        
+
+                                    >Рассказываем, как его сделать</span>
+
+                                </div>
+
+
+                            
+
+                                </div>
+                            </div>
+                            
+
+                            <div class=" main2019_ad-240x400 hide-for-medium-down ">
+                                <div class='znamya141696 znamya znamya_all'><!--AdFox START-->
+<!--fmgorodche-->
+<!--Площадка: gorodche.ru / * / *-->
+<!--Тип баннера: Che_main_240-->
+<!--Расположение: верх страницы-->
+<div id="adfox_165832051944037305"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 216729,
+            containerId: 'adfox_165832051944037305',
+            params: {
+                pp: 'g',
+                ps: 'bmgo',
+                p2: 'htgd'
+            }
+        })
+    })
+</script>
+
+</div   ><!--znamya141696-->
+
+                            </div>
+
+                            
+
+                        </div>
+                    </div>
+                </div>
+
+
+
+                <style> .whitebg {background-color: #ffffff;}
+    </style>    <div class="row main2019_pos-relative-large hide-for-medium-down" style="padding-bottom: 7px;">
+    <div class="large-6 medium-12 small-12 column">
+        <div class="row main2019_pos-relative-medium">
+            
+
+            <div class="large-6 medium-6 small-12 column main2019_border-bottom" style="background-color: #eee;">
+                <div class="main2019_vertical-news" style="height: 254px;
+                padding-top: 17px;">
+                    <div class="main2019_vertical-news-image-wrapper"  >
+                        <a class="main2019_vertical-news-image-link"
+                           href="https://www.gorodche.ru/home/4068302-farshirovannye-bliny-na-maslenoy-nedele-3-recepta/">
+
+                                                        <img width="240" height="135" data-src="/wp-content/uploads/2023/02/blinchiki-s-forshmakom-1063325-240x135.jpg" class="main2019_vertical-news-image lazy wp-post-image lazy wp-post-image" alt="блинчики с форшмаком (1)" loading="lazy" />
+                        </a>
+
+                        <span class="main2019_vertical-news-small-label">
+                                    <i class="far fa-user" aria-hidden="true"></i>
+                                </span>
+                        <a class="main2019_vertical-news-section whitebg" href="/home/">Дом и семья</a>                    </div>
+
+                        <a class="main2019_vertical-news-title"
+                           href="https://www.gorodche.ru/home/4068302-farshirovannye-bliny-na-maslenoy-nedele-3-recepta/">Фаршированные блины на масленой неделе: 3 рецепта</a>
+
+
+                </div>
+                </div>
+
+
+                
+
+            <div class="large-6 medium-6 small-12 column main2019_border-bottom" style="background-color: #eee;">
+                <div class="main2019_vertical-news" style="height: 254px;
+                padding-top: 17px;">
+                    <div class="main2019_vertical-news-image-wrapper"  >
+                        <a class="main2019_vertical-news-image-link"
+                           href="https://www.gorodche.ru/lifestyle/4066012-lunnyy-kalendar-dlya-ogorodnikov-na-21-fevralya-2023-goda-chto-delat-kategoricheski-zapreshcheno/">
+
+                                                        <img width="240" height="135" data-src="/wp-content/uploads/2023/02/zima-ryabina014756-240x135.jpg" class="main2019_vertical-news-image lazy wp-post-image lazy wp-post-image" alt="зима рябина" loading="lazy" />
+                        </a>
+
+                        <span class="main2019_vertical-news-small-label">
+                                    <i class="far fa-user" aria-hidden="true"></i>
+                                </span>
+                        <a class="main2019_vertical-news-section whitebg" href="/lifestyle/">Стиль жизни</a>                    </div>
+
+                        <a class="main2019_vertical-news-title"
+                           href="https://www.gorodche.ru/lifestyle/4066012-lunnyy-kalendar-dlya-ogorodnikov-na-21-fevralya-2023-goda-chto-delat-kategoricheski-zapreshcheno/">Лунный календарь для огородников на 21 февраля 2023 года: что делать категорически запрещено</a>
+
+
+                </div>
+                </div>
+
+
+                            </div>
+        </div>
+        <div class="large-6 medium-12 small-12 column">
+            <div class="row main2019_pos-relative-medium">
+                
+
+            <div class="large-6 medium-6 small-12 column main2019_border-bottom" style="background-color: #eee;">
+                <div class="main2019_vertical-news" style="height: 254px;
+                padding-top: 17px;">
+                    <div class="main2019_vertical-news-image-wrapper"  >
+                        <a class="main2019_vertical-news-image-link"
+                           href="https://www.gorodche.ru/news/4068252-eshche-odin-chelovek-pogib-pri-pojare-v-vologodskoy-oblasti/">
+
+                                                        <img width="240" height="135" data-src="/wp-content/uploads/2023/02/dom-pod-syamjey055313-240x135.jpg" class="main2019_vertical-news-image lazy wp-post-image lazy wp-post-image" alt="Дом под Сямжей" loading="lazy" />
+                        </a>
+
+                        <span class="main2019_vertical-news-small-label">
+                                    <i class="far fa-user" aria-hidden="true"></i>
+                                </span>
+                        <a class="main2019_vertical-news-section whitebg" href="/news/">Новости</a>                    </div>
+
+                        <a class="main2019_vertical-news-title"
+                           href="https://www.gorodche.ru/news/4068252-eshche-odin-chelovek-pogib-pri-pojare-v-vologodskoy-oblasti/">Еще один человек погиб при пожаре в Вологодской области</a>
+
+
+                </div>
+                </div>
+
+
+                
+
+            <div class="large-6 medium-6 small-12 column main2019_border-bottom" style="background-color: #eee;">
+                <div class="main2019_vertical-news" style="height: 254px;
+                padding-top: 17px;">
+                    <div class="main2019_vertical-news-image-wrapper"  >
+                        <a class="main2019_vertical-news-image-link"
+                           href="https://www.gorodche.ru/lifestyle/4065542-goroskop-na-20-fevralya-rabotayte-v-spokoynom-rejime-chtoby-ne-nadelat-oshibok/">
+
+                                                        <img width="240" height="135" data-src="/wp-content/uploads/2023/02/20-fevralya-2110258-240x135.jpg" class="main2019_vertical-news-image lazy wp-post-image lazy wp-post-image" alt="" loading="lazy" />
+                        </a>
+
+                        <span class="main2019_vertical-news-small-label">
+                                    <i class="far fa-user" aria-hidden="true"></i>
+                                </span>
+                        <a class="main2019_vertical-news-section whitebg" href="/lifestyle/">Стиль жизни</a>                    </div>
+
+                        <a class="main2019_vertical-news-title"
+                           href="https://www.gorodche.ru/lifestyle/4065542-goroskop-na-20-fevralya-rabotayte-v-spokoynom-rejime-chtoby-ne-nadelat-oshibok/">Гороскоп на 20 февраля: работайте в спокойном режиме, чтобы не наделать ошибок</a>
+
+
+                </div>
+                </div>
+
+
+                            </div>
+        </div>
+    </div>
+    
+
+
+
+
+
+
+            </div>
+
+            <style>
+    .mobnews a:nth-child(n+5) {
+        display: none;
+    }
+
+
+
+    .mobnews1 a {display: none;}
+
+
+
+    .mobnews1 a:nth-child(n+5) {
+        display: block;
+    }
+
+
+
+    .slick-slide img {
+        filter: opacity(30%);
+    }
+
+
+
+    .slick-active img {
+        filter: opacity(100%);
+    }
+
+
+
+    .slick-slide a {
+        color: #AAAAAA;
+    }
+
+
+
+    .slick-active a {
+        color: #222;
+    }
+
+
+</style>
+
+<div class="main2019_news-of-day hide-for-large-up" style="padding: 15px;">
+    <div class="main2019_news-of-day-header">
+    <a href="/tag/cherepovec/" class="main2019_news-of-day-header-title">Череповец</a>
+</div>
+
+<div class="main2019_news-of-day-body " >
+
+
+    
+
+            <a class="main2019_news-of-day-item" href="https://www.gorodche.ru/society/4069142-pod-cherepovcom-lje-medrabotnik-ukrala-u-pensionerki-dengi-i-vernula-ih-pered-sudom/">
+                                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  Под Череповцом лже-медработник украла у пенсионерки деньги и вернула их перед судом</div>
+                <span class="main2019_news-of-day-headline">  Путем манипуляций преступнице достались 27000 рублей</span>
+            </a>
+
+
+
+        
+
+            <a class="main2019_news-of-day-item" href="https://www.gorodche.ru/news/4068702-inspektory-dps-cherepovca-pokazali-navyki-ekstremalnogo-vojdeniya/">
+                                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  Инспекторы ДПС Череповца показали навыки экстремального вождения</div>
+                <span class="main2019_news-of-day-headline">  Площадку подготовили на закрытой территории</span>
+            </a>
+
+
+
+        
+
+            <a class="main2019_news-of-day-item" href="https://www.gorodche.ru/news/4068592-rektor-chgu-ekaterina-celikova-voshla-v-jyuri-proekta-umnicy-i-umniki/">
+                                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  Ректор ЧГУ Екатерина Целикова вошла в жюри проекта «Умницы и умники»</div>
+                <span class="main2019_news-of-day-headline">  Новый выпуск был посвящен Пушкину</span>
+            </a>
+
+
+
+        
+
+            <a class="main2019_news-of-day-item" href="https://www.gorodche.ru/news/4068312-mer-zayavil-o-planah-likvidacii-svalki-v-120000-kvadratnyh-metrov/">
+                                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  Мэр заявил о планах ликвидации свалки в 120000 квадратных метров</div>
+                <span class="main2019_news-of-day-headline">  Она незаконно существует не одно 10-летие</span>
+            </a>
+
+
+
+        
+
+            <a class="main2019_news-of-day-item" href="https://www.gorodche.ru/news/4066402-cherepovchanin-zabil-sojitelya-materi-i-sbrosil-ego-s-lestnicy/">
+                                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  Череповчанин забил сожителя матери и сбросил его с лестницы</div>
+                <span class="main2019_news-of-day-headline">  30-летнему рецидивисту грозит до 15 лет колонии</span>
+            </a>
+
+
+
+        
+</div>
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+<div class="main2019_news-of-day-header mobilenow" style="margin-left: 15px;">
+    <span class="main2019_news-of-day-header-title">Новое</span>
+</div>
+<div class="centerMC mobilenow" style="padding-bottom: 0px;">
+
+
+    
+
+            <div class="large-4 medium-12 small-12 column"
+                 style="padding: 0px; margin-left:10px; margin-right:10px;background-color: #ffffff;">
+                <div class="main2019_top-news-item" style="padding: 0px;">
+                    <div class="main2019_top-news-image-wrapper">
+                        <a class="main2019_top-news-image-link"
+                           href="https://www.gorodche.ru/home/4069382-kak-pobedit-bessonnicu-bez-tabletok/">
+
+                            <img width="780" height="438" src="/wp-content/uploads/2023/02/spit-1094120-780x438.jpg" class="main2019_top-news-image wp-post-image" alt="спит (1)" loading="lazy" srcset="/wp-content/uploads/2023/02/spit-1094120-240x135.jpg 240w,/wp-content/uploads/2023/02/spit-1094120-512x288.jpg 510w,/wp-content/uploads/2023/02/spit-1094120-780x438.jpg 780w" /> </a>
+
+
+                    </div>
+                    <a class="main2019_top-news-title"
+                       style="font-size: 1.1em; padding-left: 15px; padding-right: 15px;"
+                       href="https://www.gorodche.ru/home/4069382-kak-pobedit-bessonnicu-bez-tabletok/">Как победить бессонницу без таблеток</a>
+                    <!--span class="main2019_top-news-lead hide-for-small">Врачи не верили в ее беременность</span-->
+                </div>
+            </div>
+
+
+        
+
+            <div class="large-4 medium-12 small-12 column"
+                 style="padding: 0px; margin-left:10px; margin-right:10px;background-color: #ffffff;">
+                <div class="main2019_top-news-item" style="padding: 0px;">
+                    <div class="main2019_top-news-image-wrapper">
+                        <a class="main2019_top-news-image-link"
+                           href="https://www.gorodche.ru/news/4068712-edinyy-zakon-o-tishine-namereny-prinyat-v-gosdume/">
+
+                            <img width="780" height="438" src="/wp-content/uploads/2023/02/shum075354-780x438.jpg" class="main2019_top-news-image wp-post-image" alt="" loading="lazy" srcset="/wp-content/uploads/2023/02/shum075354-240x135.jpg 240w,/wp-content/uploads/2023/02/shum075354-512x288.jpg 510w,/wp-content/uploads/2023/02/shum075354-780x438.jpg 780w" /> </a>
+
+
+                    </div>
+                    <a class="main2019_top-news-title"
+                       style="font-size: 1.1em; padding-left: 15px; padding-right: 15px;"
+                       href="https://www.gorodche.ru/news/4068712-edinyy-zakon-o-tishine-namereny-prinyat-v-gosdume/">Единый закон о тишине намерены принять в Госдуме</a>
+                    <!--span class="main2019_top-news-lead hide-for-small">Врачи не верили в ее беременность</span-->
+                </div>
+            </div>
+
+
+        
+
+            <div class="large-4 medium-12 small-12 column"
+                 style="padding: 0px; margin-left:10px; margin-right:10px;background-color: #ffffff;">
+                <div class="main2019_top-news-item" style="padding: 0px;">
+                    <div class="main2019_top-news-image-wrapper">
+                        <a class="main2019_top-news-image-link"
+                           href="https://www.gorodche.ru/home/4065592-5-veshchey-kotorye-vydayut-neradivogo-dachnika-s-golovoy-proverte-svoy-sadovyy-uchastok/">
+
+                            <img width="780" height="438" src="/wp-content/uploads/2023/02/sad-lestnica113445-780x438.jpg" class="main2019_top-news-image wp-post-image" alt="сад лестница" loading="lazy" srcset="/wp-content/uploads/2023/02/sad-lestnica113445-240x135.jpg 240w,/wp-content/uploads/2023/02/sad-lestnica113445-512x288.jpg 510w,/wp-content/uploads/2023/02/sad-lestnica113445-780x438.jpg 780w" /> </a>
+
+
+                    </div>
+                    <a class="main2019_top-news-title"
+                       style="font-size: 1.1em; padding-left: 15px; padding-right: 15px;"
+                       href="https://www.gorodche.ru/home/4065592-5-veshchey-kotorye-vydayut-neradivogo-dachnika-s-golovoy-proverte-svoy-sadovyy-uchastok/">5 вещей, которые выдают нерадивого дачника с головой: проверьте свой садовый участок</a>
+                    <!--span class="main2019_top-news-lead hide-for-small">Врачи не верили в ее беременность</span-->
+                </div>
+            </div>
+
+
+        
+
+            <div class="large-4 medium-12 small-12 column"
+                 style="padding: 0px; margin-left:10px; margin-right:10px;background-color: #ffffff;">
+                <div class="main2019_top-news-item" style="padding: 0px;">
+                    <div class="main2019_top-news-image-wrapper">
+                        <a class="main2019_top-news-image-link"
+                           href="https://www.gorodche.ru/home/4068302-farshirovannye-bliny-na-maslenoy-nedele-3-recepta/">
+
+                            <img width="780" height="438" src="/wp-content/uploads/2023/02/blinchiki-s-forshmakom-1063325-780x438.jpg" class="main2019_top-news-image wp-post-image" alt="блинчики с форшмаком (1)" loading="lazy" srcset="/wp-content/uploads/2023/02/blinchiki-s-forshmakom-1063325-240x135.jpg 240w,/wp-content/uploads/2023/02/blinchiki-s-forshmakom-1063325-512x288.jpg 510w,/wp-content/uploads/2023/02/blinchiki-s-forshmakom-1063325-780x438.jpg 780w" /> </a>
+
+
+                    </div>
+                    <a class="main2019_top-news-title"
+                       style="font-size: 1.1em; padding-left: 15px; padding-right: 15px;"
+                       href="https://www.gorodche.ru/home/4068302-farshirovannye-bliny-na-maslenoy-nedele-3-recepta/">Фаршированные блины на масленой неделе: 3 рецепта</a>
+                    <!--span class="main2019_top-news-lead hide-for-small">Врачи не верили в ее беременность</span-->
+                </div>
+            </div>
+
+
+        
+
+            <div class="large-4 medium-12 small-12 column"
+                 style="padding: 0px; margin-left:10px; margin-right:10px;background-color: #ffffff;">
+                <div class="main2019_top-news-item" style="padding: 0px;">
+                    <div class="main2019_top-news-image-wrapper">
+                        <a class="main2019_top-news-image-link"
+                           href="https://www.gorodche.ru/lifestyle/4066012-lunnyy-kalendar-dlya-ogorodnikov-na-21-fevralya-2023-goda-chto-delat-kategoricheski-zapreshcheno/">
+
+                            <img width="780" height="438" src="/wp-content/uploads/2023/02/zima-ryabina014756-780x438.jpg" class="main2019_top-news-image wp-post-image" alt="зима рябина" loading="lazy" srcset="/wp-content/uploads/2023/02/zima-ryabina014756-240x135.jpg 240w,/wp-content/uploads/2023/02/zima-ryabina014756-512x288.jpg 510w,/wp-content/uploads/2023/02/zima-ryabina014756-780x438.jpg 780w" /> </a>
+
+
+                    </div>
+                    <a class="main2019_top-news-title"
+                       style="font-size: 1.1em; padding-left: 15px; padding-right: 15px;"
+                       href="https://www.gorodche.ru/lifestyle/4066012-lunnyy-kalendar-dlya-ogorodnikov-na-21-fevralya-2023-goda-chto-delat-kategoricheski-zapreshcheno/">Лунный календарь для огородников на 21 февраля 2023 года: что делать категорически запрещено</a>
+                    <!--span class="main2019_top-news-lead hide-for-small">Врачи не верили в ее беременность</span-->
+                </div>
+            </div>
+
+
+        
+
+            <div class="large-4 medium-12 small-12 column"
+                 style="padding: 0px; margin-left:10px; margin-right:10px;background-color: #ffffff;">
+                <div class="main2019_top-news-item" style="padding: 0px;">
+                    <div class="main2019_top-news-image-wrapper">
+                        <a class="main2019_top-news-image-link"
+                           href="https://www.gorodche.ru/lifestyle/4065542-goroskop-na-20-fevralya-rabotayte-v-spokoynom-rejime-chtoby-ne-nadelat-oshibok/">
+
+                            <img width="780" height="438" src="/wp-content/uploads/2023/02/20-fevralya-2110258-780x438.jpg" class="main2019_top-news-image wp-post-image" alt="" loading="lazy" srcset="/wp-content/uploads/2023/02/20-fevralya-2110258-240x135.jpg 240w,/wp-content/uploads/2023/02/20-fevralya-2110258-512x288.jpg 510w,/wp-content/uploads/2023/02/20-fevralya-2110258-780x438.jpg 780w" /> </a>
+
+
+                    </div>
+                    <a class="main2019_top-news-title"
+                       style="font-size: 1.1em; padding-left: 15px; padding-right: 15px;"
+                       href="https://www.gorodche.ru/lifestyle/4065542-goroskop-na-20-fevralya-rabotayte-v-spokoynom-rejime-chtoby-ne-nadelat-oshibok/">Гороскоп на 20 февраля: работайте в спокойном режиме, чтобы не наделать ошибок</a>
+                    <!--span class="main2019_top-news-lead hide-for-small">Врачи не верили в ее беременность</span-->
+                </div>
+            </div>
+
+
+        
+
+            <div class="large-4 medium-12 small-12 column"
+                 style="padding: 0px; margin-left:10px; margin-right:10px;background-color: #ffffff;">
+                <div class="main2019_top-news-item" style="padding: 0px;">
+                    <div class="main2019_top-news-image-wrapper">
+                        <a class="main2019_top-news-image-link"
+                           href="https://www.gorodche.ru/lifestyle/4066132-pochemu-segodnya-nujno-zatochit-vse-noji-v-dome-narodnye-primety-na-21-fevralya-2023-goda/">
+
+                            <img width="780" height="438" src="/wp-content/uploads/2023/02/tochilo030541-780x438.jpg" class="main2019_top-news-image wp-post-image" alt="точило" loading="lazy" srcset="/wp-content/uploads/2023/02/tochilo030541-240x135.jpg 240w,/wp-content/uploads/2023/02/tochilo030541-512x288.jpg 510w,/wp-content/uploads/2023/02/tochilo030541-780x438.jpg 780w" /> </a>
+
+
+                    </div>
+                    <a class="main2019_top-news-title"
+                       style="font-size: 1.1em; padding-left: 15px; padding-right: 15px;"
+                       href="https://www.gorodche.ru/lifestyle/4066132-pochemu-segodnya-nujno-zatochit-vse-noji-v-dome-narodnye-primety-na-21-fevralya-2023-goda/">Почему сегодня нужно заточить все ножи в доме: народные приметы на 21 февраля 2023 года</a>
+                    <!--span class="main2019_top-news-lead hide-for-small">Врачи не верили в ее беременность</span-->
+                </div>
+            </div>
+
+
+        
+
+            <div class="large-4 medium-12 small-12 column"
+                 style="padding: 0px; margin-left:10px; margin-right:10px;background-color: #ffffff;">
+                <div class="main2019_top-news-item" style="padding: 0px;">
+                    <div class="main2019_top-news-image-wrapper">
+                        <a class="main2019_top-news-image-link"
+                           href="https://www.gorodche.ru/lifestyle/4065872-karera-mojet-okazatsya-pod-ugrozoy-lunnyy-kalendar-na-21-fevralya-2023-goda/">
+
+                            <img width="780" height="438" src="/wp-content/uploads/2023/02/biznesmen125937-780x438.jpg" class="main2019_top-news-image wp-post-image" alt="бизнесмен" loading="lazy" srcset="/wp-content/uploads/2023/02/biznesmen125937-240x135.jpg 240w,/wp-content/uploads/2023/02/biznesmen125937-512x288.jpg 510w,/wp-content/uploads/2023/02/biznesmen125937-780x438.jpg 780w" /> </a>
+
+
+                    </div>
+                    <a class="main2019_top-news-title"
+                       style="font-size: 1.1em; padding-left: 15px; padding-right: 15px;"
+                       href="https://www.gorodche.ru/lifestyle/4065872-karera-mojet-okazatsya-pod-ugrozoy-lunnyy-kalendar-na-21-fevralya-2023-goda/">Карьера может оказаться под угрозой: лунный календарь на 21 февраля 2023 года</a>
+                    <!--span class="main2019_top-news-lead hide-for-small">Врачи не верили в ее беременность</span-->
+                </div>
+            </div>
+
+
+            
+</div>
+
+<div class="main2019_news-of-day hide-for-large-up" style="padding: 15px;">
+    <div class="main2019_news-of-day-header">
+    <a href="/tag/vologodskaya-oblast/" class="main2019_news-of-day-header-title">Вологодская область</a>
+</div>
+
+<div class="main2019_news-of-day-body " >
+
+
+    
+
+            <a class="main2019_news-of-day-item" href="https://www.gorodche.ru/society/4068792-sledstvennyy-komitet-nachal-proverku-po-tragedii-pod-syamjey/">
+                                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  Следственный комитет начал проверку по трагедии под Сямжей</div>
+                <span class="main2019_news-of-day-headline">  При пожаре там погиб хозяин дома</span>
+            </a>
+
+           
+
+        
+
+            <a class="main2019_news-of-day-item" href="https://www.gorodche.ru/news/4068252-eshche-odin-chelovek-pogib-pri-pojare-v-vologodskoy-oblasti/">
+                                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  Еще один человек погиб при пожаре в Вологодской области</div>
+                <span class="main2019_news-of-day-headline">  Под Сямжей вспыхнул жилой дом</span>
+            </a>
+
+           
+
+        
+
+            <a class="main2019_news-of-day-item" href="https://www.gorodche.ru/news/4066232-vologodskiy-recidivist-ubil-cheloveka-i-vyzval-emu-skoruyu/">
+                                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  Вологодский рецидивист убил человека и вызвал ему скорую</div>
+                <span class="main2019_news-of-day-headline">  Это убийство стало для него уже вторым</span>
+            </a>
+
+           
+
+        
+
+            <a class="main2019_news-of-day-item" href="https://www.gorodche.ru/news/4065182-mujchina-pogib-pri-pojare-v-jilom-dome-pod-vologdoy/">
+                                <div class="main2019_news-of-day-headline" style="font-size: 1em; font-weight: 600;">  Мужчина погиб при пожаре в жилом доме под Вологдой</div>
+                <span class="main2019_news-of-day-headline">  Инцидент произошёл вчера в посёлке Кипелово</span>
+            </a>
+
+           
+
+        
+</div>
+
+
+
+
+
+
+
+
+
+
+</div>
+
+<div class="main2019_editors-header mobilenow" style="margin-left: 15px;">
+    <span class="main2019_editors-header-title">Сегодня читают </span>
+</div>
+<div class="main2019_editors-body centerMC mobilenow">
+
+
+    
+        <div class="large-4 medium-12 small-12 column"
+             style="padding: 0px; margin-left:10px; margin-right:10px;background-color: #ffffff;">
+            <div class="main2019_top-news-item" style="padding: 0px;">
+                <div class="main2019_top-news-image-wrapper">
+                    <a class="main2019_top-news-image-link"
+                       href="https://www.gorodche.ru/home/4060952-posadite-eti-rasteniya-pod-yabloney-i-mojete-zabyt-o-vreditelyah-kotorye-portyat-plody-na-dereve/">
+
+                        <img width="780" height="438" src="/wp-content/uploads/2023/02/yablonya3111539-780x438.jpg" class="main2019_top-news-image wp-post-image" alt="яблоня" loading="lazy" srcset="/wp-content/uploads/2023/02/yablonya3111539-240x135.jpg 240w,/wp-content/uploads/2023/02/yablonya3111539-512x288.jpg 510w,/wp-content/uploads/2023/02/yablonya3111539-780x438.jpg 780w" /> </a>
+
+
+                </div>
+                <a class="main2019_top-news-title"
+                   style="font-size: 1.1em; padding-left: 15px; padding-right: 15px;"
+                   href="https://www.gorodche.ru/home/4060952-posadite-eti-rasteniya-pod-yabloney-i-mojete-zabyt-o-vreditelyah-kotorye-portyat-plody-na-dereve/">Посадите эти растения под яблоней и можете забыть о вредителях, которые портят плоды на дереве</a>
+                <!--span class="main2019_top-news-lead hide-for-small">Врачи не верили в ее беременность</span-->
+            </div>
+        </div>
+
+
+    
+        <div class="large-4 medium-12 small-12 column"
+             style="padding: 0px; margin-left:10px; margin-right:10px;background-color: #ffffff;">
+            <div class="main2019_top-news-item" style="padding: 0px;">
+                <div class="main2019_top-news-image-wrapper">
+                    <a class="main2019_top-news-image-link"
+                       href="https://www.gorodche.ru/lifestyle/4061052-kakie-imena-schitayut-samymi-krasivymi-v-mire-dlya-malchikov-i-devochek/">
+
+                        <img width="780" height="438" src="/wp-content/uploads/2023/02/7sqh6g8r0so-1121140-780x438.jpg" class="main2019_top-news-image wp-post-image" alt="" loading="lazy" srcset="/wp-content/uploads/2023/02/7sqh6g8r0so-1121140-240x135.jpg 240w,/wp-content/uploads/2023/02/7sqh6g8r0so-1121140-512x288.jpg 510w,/wp-content/uploads/2023/02/7sqh6g8r0so-1121140-780x438.jpg 780w" /> </a>
+
+
+                </div>
+                <a class="main2019_top-news-title"
+                   style="font-size: 1.1em; padding-left: 15px; padding-right: 15px;"
+                   href="https://www.gorodche.ru/lifestyle/4061052-kakie-imena-schitayut-samymi-krasivymi-v-mire-dlya-malchikov-i-devochek/">Какие имена считают самыми красивыми в мире для мальчиков и девочек</a>
+                <!--span class="main2019_top-news-lead hide-for-small">Врачи не верили в ее беременность</span-->
+            </div>
+        </div>
+
+
+    
+        <div class="large-4 medium-12 small-12 column"
+             style="padding: 0px; margin-left:10px; margin-right:10px;background-color: #ffffff;">
+            <div class="main2019_top-news-item" style="padding: 0px;">
+                <div class="main2019_top-news-image-wrapper">
+                    <a class="main2019_top-news-image-link"
+                       href="https://www.gorodche.ru/home/4060752-skolko-let-mojet-projit-koshka-eksperty-ozvuchili-rezultaty-issledovaniy/">
+
+                        <img width="780" height="438" src="/wp-content/uploads/2023/02/kot-glazki034232-780x438.jpg" class="main2019_top-news-image wp-post-image" alt="кот глазки" loading="lazy" srcset="/wp-content/uploads/2023/02/kot-glazki034232-240x135.jpg 240w,/wp-content/uploads/2023/02/kot-glazki034232-512x288.jpg 510w,/wp-content/uploads/2023/02/kot-glazki034232-780x438.jpg 780w" /> </a>
+
+
+                </div>
+                <a class="main2019_top-news-title"
+                   style="font-size: 1.1em; padding-left: 15px; padding-right: 15px;"
+                   href="https://www.gorodche.ru/home/4060752-skolko-let-mojet-projit-koshka-eksperty-ozvuchili-rezultaty-issledovaniy/">Сколько лет может прожить кошка: эксперты озвучили результаты исследований</a>
+                <!--span class="main2019_top-news-lead hide-for-small">Врачи не верили в ее беременность</span-->
+            </div>
+        </div>
+
+
+    
+        <div class="large-4 medium-12 small-12 column"
+             style="padding: 0px; margin-left:10px; margin-right:10px;background-color: #ffffff;">
+            <div class="main2019_top-news-item" style="padding: 0px;">
+                <div class="main2019_top-news-image-wrapper">
+                    <a class="main2019_top-news-image-link"
+                       href="https://www.gorodche.ru/society/4065042-polshu-postavit-na-koleni-i-vernut-v-kamennyy-vek-za-1-chas/">
+
+                        <img width="780" height="438" src="/wp-content/uploads/2023/02/629633b-1669162608065028-780x438.jpg" class="main2019_top-news-image wp-post-image" alt="" loading="lazy" srcset="/wp-content/uploads/2023/02/629633b-1669162608065028-240x135.jpg 240w,/wp-content/uploads/2023/02/629633b-1669162608065028-512x288.jpg 510w,/wp-content/uploads/2023/02/629633b-1669162608065028-780x438.jpg 780w" /> </a>
+
+
+                </div>
+                <a class="main2019_top-news-title"
+                   style="font-size: 1.1em; padding-left: 15px; padding-right: 15px;"
+                   href="https://www.gorodche.ru/society/4065042-polshu-postavit-na-koleni-i-vernut-v-kamennyy-vek-za-1-chas/">«Польшу поставить на колени и вернуть в каменный век за 1 час»</a>
+                <!--span class="main2019_top-news-lead hide-for-small">Врачи не верили в ее беременность</span-->
+            </div>
+        </div>
+
+
+    
+        <div class="large-4 medium-12 small-12 column"
+             style="padding: 0px; margin-left:10px; margin-right:10px;background-color: #ffffff;">
+            <div class="main2019_top-news-item" style="padding: 0px;">
+                <div class="main2019_top-news-image-wrapper">
+                    <a class="main2019_top-news-image-link"
+                       href="https://www.gorodche.ru/lifestyle/4064562-stilisty-zayavili-sumki-bolshe-ne-nujny-novyy-trend-vesny-2023-foto/">
+
+                        <img width="780" height="438" src="/wp-content/uploads/2023/02/karmany062554-780x438.jpg" class="main2019_top-news-image wp-post-image" alt="" loading="lazy" srcset="/wp-content/uploads/2023/02/karmany062554-240x135.jpg 240w,/wp-content/uploads/2023/02/karmany062554-512x288.jpg 510w,/wp-content/uploads/2023/02/karmany062554-780x438.jpg 780w" /> </a>
+
+
+                </div>
+                <a class="main2019_top-news-title"
+                   style="font-size: 1.1em; padding-left: 15px; padding-right: 15px;"
+                   href="https://www.gorodche.ru/lifestyle/4064562-stilisty-zayavili-sumki-bolshe-ne-nujny-novyy-trend-vesny-2023-foto/">Стилисты заявили: сумки больше не нужны! Новый тренд весны 2023 (фото)</a>
+                <!--span class="main2019_top-news-lead hide-for-small">Врачи не верили в ее беременность</span-->
+            </div>
+        </div>
+
+
+    
+        <div class="large-4 medium-12 small-12 column"
+             style="padding: 0px; margin-left:10px; margin-right:10px;background-color: #ffffff;">
+            <div class="main2019_top-news-item" style="padding: 0px;">
+                <div class="main2019_top-news-image-wrapper">
+                    <a class="main2019_top-news-image-link"
+                       href="https://www.gorodche.ru/home/4062172-kak-s-pomoshchyu-krahmala-ubrat-rjavye-podteki-v-unitaze-za-30-minut/">
+
+                        <img width="780" height="438" src="/wp-content/uploads/2023/02/unitaz-1045815-780x438.jpg" class="main2019_top-news-image wp-post-image" alt="" loading="lazy" srcset="/wp-content/uploads/2023/02/unitaz-1045815-240x135.jpg 240w,/wp-content/uploads/2023/02/unitaz-1045815-512x288.jpg 510w,/wp-content/uploads/2023/02/unitaz-1045815-780x438.jpg 780w" /> </a>
+
+
+                </div>
+                <a class="main2019_top-news-title"
+                   style="font-size: 1.1em; padding-left: 15px; padding-right: 15px;"
+                   href="https://www.gorodche.ru/home/4062172-kak-s-pomoshchyu-krahmala-ubrat-rjavye-podteki-v-unitaze-za-30-minut/">Как с помощью крахмала убрать ржавые подтеки в унитазе за 30 минут</a>
+                <!--span class="main2019_top-news-lead hide-for-small">Врачи не верили в ее беременность</span-->
+            </div>
+        </div>
+
+
+    
+        <div class="large-4 medium-12 small-12 column"
+             style="padding: 0px; margin-left:10px; margin-right:10px;background-color: #ffffff;">
+            <div class="main2019_top-news-item" style="padding: 0px;">
+                <div class="main2019_top-news-image-wrapper">
+                    <a class="main2019_top-news-image-link"
+                       href="https://www.gorodche.ru/society/4065842-turciya-vygnala-grecheskih-spasateley/">
+
+                        <img width="780" height="438" src="/wp-content/uploads/2023/02/73e5f4ca-be41-4a1c-b247-78e227e6f5d0122348-780x438.jpg" class="main2019_top-news-image wp-post-image" alt="" loading="lazy" srcset="/wp-content/uploads/2023/02/73e5f4ca-be41-4a1c-b247-78e227e6f5d0122348-240x135.jpg 240w,/wp-content/uploads/2023/02/73e5f4ca-be41-4a1c-b247-78e227e6f5d0122348-512x288.jpg 510w,/wp-content/uploads/2023/02/73e5f4ca-be41-4a1c-b247-78e227e6f5d0122348-780x438.jpg 780w" /> </a>
+
+
+                </div>
+                <a class="main2019_top-news-title"
+                   style="font-size: 1.1em; padding-left: 15px; padding-right: 15px;"
+                   href="https://www.gorodche.ru/society/4065842-turciya-vygnala-grecheskih-spasateley/">Турция выгнала греческих спасателей</a>
+                <!--span class="main2019_top-news-lead hide-for-small">Врачи не верили в ее беременность</span-->
+            </div>
+        </div>
+
+
+    
+        <div class="large-4 medium-12 small-12 column"
+             style="padding: 0px; margin-left:10px; margin-right:10px;background-color: #ffffff;">
+            <div class="main2019_top-news-item" style="padding: 0px;">
+                <div class="main2019_top-news-image-wrapper">
+                    <a class="main2019_top-news-image-link"
+                       href="https://www.gorodche.ru/lifestyle/4061052-kakie-imena-schitayut-samymi-krasivymi-v-mire-dlya-malchikov-i-devochek/">
+
+                        <img width="780" height="438" src="/wp-content/uploads/2023/02/7sqh6g8r0so-1121140-780x438.jpg" class="main2019_top-news-image wp-post-image" alt="" loading="lazy" srcset="/wp-content/uploads/2023/02/7sqh6g8r0so-1121140-240x135.jpg 240w,/wp-content/uploads/2023/02/7sqh6g8r0so-1121140-512x288.jpg 510w,/wp-content/uploads/2023/02/7sqh6g8r0so-1121140-780x438.jpg 780w" /> </a>
+
+
+                </div>
+                <a class="main2019_top-news-title"
+                   style="font-size: 1.1em; padding-left: 15px; padding-right: 15px;"
+                   href="https://www.gorodche.ru/lifestyle/4061052-kakie-imena-schitayut-samymi-krasivymi-v-mire-dlya-malchikov-i-devochek/">Какие имена считают самыми красивыми в мире для мальчиков и девочек</a>
+                <!--span class="main2019_top-news-lead hide-for-small">Врачи не верили в ее беременность</span-->
+            </div>
+        </div>
+
+
+    
+        <div class="large-4 medium-12 small-12 column"
+             style="padding: 0px; margin-left:10px; margin-right:10px;background-color: #ffffff;">
+            <div class="main2019_top-news-item" style="padding: 0px;">
+                <div class="main2019_top-news-image-wrapper">
+                    <a class="main2019_top-news-image-link"
+                       href="https://www.gorodche.ru/celebrity/4062392-keti-perri-i-orlando-blum-ne-mogut-podelit-zony-vliyaniya/">
+
+                        <img width="780" height="438" src="/wp-content/uploads/2023/02/perri-2-1065803-780x438.jpg" class="main2019_top-news-image wp-post-image" alt="" loading="lazy" srcset="/wp-content/uploads/2023/02/perri-2-1065803-240x135.jpg 240w,/wp-content/uploads/2023/02/perri-2-1065803-512x288.jpg 510w,/wp-content/uploads/2023/02/perri-2-1065803-780x438.jpg 780w" /> </a>
+
+
+                </div>
+                <a class="main2019_top-news-title"
+                   style="font-size: 1.1em; padding-left: 15px; padding-right: 15px;"
+                   href="https://www.gorodche.ru/celebrity/4062392-keti-perri-i-orlando-blum-ne-mogut-podelit-zony-vliyaniya/">Кэти Перри и Орландо Блум не могут поделить зоны влияния</a>
+                <!--span class="main2019_top-news-lead hide-for-small">Врачи не верили в ее беременность</span-->
+            </div>
+        </div>
+
+
+    
+        <div class="large-4 medium-12 small-12 column"
+             style="padding: 0px; margin-left:10px; margin-right:10px;background-color: #ffffff;">
+            <div class="main2019_top-news-item" style="padding: 0px;">
+                <div class="main2019_top-news-image-wrapper">
+                    <a class="main2019_top-news-image-link"
+                       href="https://www.gorodche.ru/society/4066062-psihiatr-sozdal-ustroystvo-fotografiruyushchee-mysli/">
+
+                        <img width="780" height="438" src="/wp-content/uploads/2023/02/a14d7783-5858-409d-8812-bc05c2cfac1f-kopiya024104-780x438.jpg" class="main2019_top-news-image wp-post-image" alt="" loading="lazy" srcset="/wp-content/uploads/2023/02/a14d7783-5858-409d-8812-bc05c2cfac1f-kopiya024104-240x135.jpg 240w,/wp-content/uploads/2023/02/a14d7783-5858-409d-8812-bc05c2cfac1f-kopiya024104-512x288.jpg 510w,/wp-content/uploads/2023/02/a14d7783-5858-409d-8812-bc05c2cfac1f-kopiya024104-780x438.jpg 780w" /> </a>
+
+
+                </div>
+                <a class="main2019_top-news-title"
+                   style="font-size: 1.1em; padding-left: 15px; padding-right: 15px;"
+                   href="https://www.gorodche.ru/society/4066062-psihiatr-sozdal-ustroystvo-fotografiruyushchee-mysli/">Психиатр создал устройство, фотографирующее мысли</a>
+                <!--span class="main2019_top-news-lead hide-for-small">Врачи не верили в ее беременность</span-->
+            </div>
+        </div>
+
+
+    
+</div>
+
+
+
+            <!--main_top_end 888 -->
+            <div class="main2019_bottom ">
+                <div class="row">
+                    
+
+        <div class="large-6 medium-12 small-12 column">
+            <div class="main2019_horizontal-news main2019_horizontal-right">
+                <a class="main2019_horizontal-news-image-wrapper" href="https://www.gorodche.ru/society/3823382-a-vot-i-generalnye-partnery-odnogo-iz-samyh-glavnyh-sobytiy-etogo-goda/">
+                    <img width="240" height="135" data-src="/wp-content/uploads/2022/10/z3kittsfu2a095229-240x135.jpg" class="main2019_horizontal-news-image lazy wp-post-image" alt="" loading="lazy" />                </a>
+                <div class="main2019_horizontal-news-text-wrapper">
+                    <a class="main2019_horizontal-news-title" href="https://www.gorodche.ru/society/3823382-a-vot-i-generalnye-partnery-odnogo-iz-samyh-glavnyh-sobytiy-etogo-goda/">А вот и Генеральные партнёры одного из самых главных событий этого года!</a>
+                    <span class="main2019_horizontal-news-lead">Этап выдвижения номинантов</span>
+                </div>
+                <a class="main2019_horizontal-news-section" href="/society/">Общество</a>            </div>
+        </div>
+
+    
+
+        <div class="large-6 medium-12 small-12 column">
+            <div class="main2019_horizontal-news main2019_horizontal-right">
+                <a class="main2019_horizontal-news-image-wrapper" href="https://www.gorodche.ru/home/4066812-vsego-1-polovinka-etogo-frukta-sdelaet-vannu-beloy/">
+                    <img width="240" height="135" data-src="/wp-content/uploads/2023/02/vanna053245-240x135.jpg" class="main2019_horizontal-news-image lazy wp-post-image" alt="" loading="lazy" />                </a>
+                <div class="main2019_horizontal-news-text-wrapper">
+                    <a class="main2019_horizontal-news-title" href="https://www.gorodche.ru/home/4066812-vsego-1-polovinka-etogo-frukta-sdelaet-vannu-beloy/">Всего 1 половинка этого фрукта сделает ванну белой</a>
+                    <span class="main2019_horizontal-news-lead">И уберет даже известковый налет</span>
+                </div>
+                <a class="main2019_horizontal-news-section" href="/home/">Дом и семья</a>            </div>
+        </div>
+
+    
+                </div>
+                <div class="row main2019_pos-relative-large">
+                    <div class="large-6 medium-12 small-12 column">
+                        <div class="row main2019_pos-relative-medium">
+                                    <div class="large-6 medium-6 small-12 column main2019_border-bottom">
+            <div class="main2019_vertical-news">
+                <div class="main2019_vertical-news-image-wrapper">
+                    <a class="main2019_vertical-news-image-link" href="https://www.gorodche.ru/home/4067802-v-roskachestve-rasskazali-kakie-rolly-vredny-dlya-zdorovya/">
+                        <img width="240" height="135" data-src="/wp-content/uploads/2023/02/rolly-1082658-240x135.jpg" class="main2019_vertical-news-image lazy wp-post-image" alt="" loading="lazy" />
+                    </a>
+
+                    <a class="main2019_vertical-news-section" href="/home/">Дом и семья</a>                </div>
+                <a class="main2019_vertical-news-title" href="https://www.gorodche.ru/home/4067802-v-roskachestve-rasskazali-kakie-rolly-vredny-dlya-zdorovya/">В Роскачестве рассказали, какие роллы вредны для здоровья</a>
+                <span class="main2019_vertical-news-lead" >Особенно роллы опасны для детей и беременных женщин</span>
+            </div>
+        </div>
+
+
+            <div class="large-6 medium-6 small-12 column main2019_border-bottom">
+            <div class="main2019_vertical-news">
+                <div class="main2019_vertical-news-image-wrapper">
+                    <a class="main2019_vertical-news-image-link" href="https://www.gorodche.ru/lifestyle/4067592-stilisty-nazvali-glavnuyu-yubku-na-vesnu-2023-i-rasskazali-s-chem-ee-nosit-foto/">
+                        <img width="240" height="135" data-src="/wp-content/uploads/2023/02/yubka073029-240x135.jpg" class="main2019_vertical-news-image lazy wp-post-image" alt="" loading="lazy" />
+                    </a>
+
+                    <a class="main2019_vertical-news-section" href="/lifestyle/">Стиль жизни</a>                </div>
+                <a class="main2019_vertical-news-title" href="https://www.gorodche.ru/lifestyle/4067592-stilisty-nazvali-glavnuyu-yubku-na-vesnu-2023-i-rasskazali-s-chem-ee-nosit-foto/">Стилисты назвали главную юбку на весну 2023. И рассказали с чем ее носить (фото)</a>
+                <span class="main2019_vertical-news-lead" >Она была в моде в 1950-х гг</span>
+            </div>
+        </div>
+
+
+                            </div>
+                    </div>
+                    <div class="large-6 medium-12 small-12 column">
+                        <div class="row main2019_pos-relative-medium">
+                                    <div class="large-6 medium-6 small-12 column main2019_border-bottom">
+            <div class="main2019_vertical-news">
+                <div class="main2019_vertical-news-image-wrapper">
+                    <a class="main2019_vertical-news-image-link" href="https://www.gorodche.ru/celebrity/4068092-nastoyashchaya-besovshchina-aleksey-panin-i-verka-serdyuchka-v-ispanii-na-scene-ustroili-shabash/">
+                        <img width="240" height="135" data-src="/wp-content/uploads/2023/02/panin094533-240x135.jpg" class="main2019_vertical-news-image lazy wp-post-image" alt="" loading="lazy" />
+                    </a>
+
+                    <a class="main2019_vertical-news-section" href="/celebrity/">Звезды</a>                </div>
+                <a class="main2019_vertical-news-title" href="https://www.gorodche.ru/celebrity/4068092-nastoyashchaya-besovshchina-aleksey-panin-i-verka-serdyuchka-v-ispanii-na-scene-ustroili-shabash/">«Настоящая бесовщина». Алексей Панин и Верка Сердючка в Испании на сцене устроили шабаш</a>
+                <span class="main2019_vertical-news-lead" >Вакханалия вместо концерта</span>
+            </div>
+        </div>
+
+
+            <div class="large-6 medium-6 small-12 column main2019_border-bottom">
+            <div class="main2019_vertical-news">
+                <div class="main2019_vertical-news-image-wrapper">
+                    <a class="main2019_vertical-news-image-link" href="https://www.gorodche.ru/home/4066242-kak-prigotovit-chay-s-lavrovym-listom-dlya-ukrepleniya-immuniteta-i-pohudeniya/">
+                        <img width="240" height="135" data-src="/wp-content/uploads/2023/02/lavrushka042537-240x135.jpg" class="main2019_vertical-news-image lazy wp-post-image" alt="" loading="lazy" />
+                    </a>
+
+                    <a class="main2019_vertical-news-section" href="/home/">Дом и семья</a>                </div>
+                <a class="main2019_vertical-news-title" href="https://www.gorodche.ru/home/4066242-kak-prigotovit-chay-s-lavrovym-listom-dlya-ukrepleniya-immuniteta-i-pohudeniya/">Как приготовить чай с лавровым листом для укрепления иммунитета и похудения</a>
+                <span class="main2019_vertical-news-lead" >Пряность помогает не только худеть</span>
+            </div>
+        </div>
+
+
+                            </div>
+                    </div>
+                </div>
+
+
+                
+
+                <div class="large-6 medium-12 small-12 column">
+                </div>
+                <div class="row">
+                    
+
+        <div class="large-6 medium-12 small-12 column">
+            <div class="main2019_horizontal-news main2019_horizontal-right">
+                <a class="main2019_horizontal-news-image-wrapper" href="https://www.gorodche.ru/news/4067492-razbogatel-na-bitkoinah-jil-v-taylande-i-zarezan-sokamernikami-tragicheskaya-sudba-syna-osnovatelya-mmm-sergeya-mavrodi/">
+                    <img width="240" height="135" data-src="/wp-content/uploads/2023/02/20180326-gaf-rm18-001073654-240x135.jpg" class="main2019_horizontal-news-image lazy wp-post-image" alt="" loading="lazy" />                </a>
+                <div class="main2019_horizontal-news-text-wrapper">
+                    <a class="main2019_horizontal-news-title" href="https://www.gorodche.ru/news/4067492-razbogatel-na-bitkoinah-jil-v-taylande-i-zarezan-sokamernikami-tragicheskaya-sudba-syna-osnovatelya-mmm-sergeya-mavrodi/">Разбогател на биткоинах, жил в Тайланде и зарезан сокамерниками: трагическая судьба сына основателя МММ Сергея Мавроди</a>
+                    <span class="main2019_horizontal-news-lead">Печальные новости пришли из Тайланда</span>
+                </div>
+                <a class="main2019_horizontal-news-section" href="/news/">Новости</a>            </div>
+        </div>
+
+    
+
+        <div class="large-6 medium-12 small-12 column">
+            <div class="main2019_horizontal-news main2019_horizontal-right">
+                <a class="main2019_horizontal-news-image-wrapper" href="https://www.gorodche.ru/home/4066792-holodnye-deserty-kotorye-ne-navredyat-figure/">
+                    <img width="240" height="135" data-src="/wp-content/uploads/2023/02/shokoladn-krem-1052628-240x135.jpg" class="main2019_horizontal-news-image lazy wp-post-image" alt="шоколадн. крем (1)" loading="lazy" />                </a>
+                <div class="main2019_horizontal-news-text-wrapper">
+                    <a class="main2019_horizontal-news-title" href="https://www.gorodche.ru/home/4066792-holodnye-deserty-kotorye-ne-navredyat-figure/">Холодные десерты, которые не навредят фигуре</a>
+                    <span class="main2019_horizontal-news-lead">Вкусные, а главное полезные</span>
+                </div>
+                <a class="main2019_horizontal-news-section" href="/home/">Дом и семья</a>            </div>
+        </div>
+
+                    </div>
+                <div class="row main2019_pos-relative-large">
+                    <div class="large-6 medium-12 small-12 column">
+                        <div class="row main2019_pos-relative-medium">
+                                    <div class="large-6 medium-6 small-12 column main2019_border-bottom">
+            <div class="main2019_vertical-news">
+                <div class="main2019_vertical-news-image-wrapper">
+                    <a class="main2019_vertical-news-image-link" href="https://www.gorodche.ru/society/4066182-v-kanade-hotyat-razreshit-evtanaziyu-detey/">
+                        <img width="240" height="135" data-src="/wp-content/uploads/2023/02/efcdae45-be33-43fc-b06f-62b0f6a4fd68033328-240x135.jpg" class="main2019_vertical-news-image lazy wp-post-image" alt="" loading="lazy" />
+                    </a>
+
+                    <a class="main2019_vertical-news-section" href="/society/">Общество</a>                </div>
+                <a class="main2019_vertical-news-title" href="https://www.gorodche.ru/society/4066182-v-kanade-hotyat-razreshit-evtanaziyu-detey/">В Канаде хотят разрешить эвтаназию детей</a>
+                <span class="main2019_vertical-news-lead" >Достаточно будет согласия ребенка</span>
+            </div>
+        </div>
+
+
+            <div class="large-6 medium-6 small-12 column main2019_border-bottom">
+            <div class="main2019_vertical-news">
+                <div class="main2019_vertical-news-image-wrapper">
+                    <a class="main2019_vertical-news-image-link" href="https://www.gorodche.ru/society/4066062-psihiatr-sozdal-ustroystvo-fotografiruyushchee-mysli/">
+                        <img width="240" height="135" data-src="/wp-content/uploads/2023/02/a14d7783-5858-409d-8812-bc05c2cfac1f-kopiya024104-240x135.jpg" class="main2019_vertical-news-image lazy wp-post-image" alt="" loading="lazy" />
+                    </a>
+
+                    <a class="main2019_vertical-news-section" href="/society/">Общество</a>                </div>
+                <a class="main2019_vertical-news-title" href="https://www.gorodche.ru/society/4066062-psihiatr-sozdal-ustroystvo-fotografiruyushchee-mysli/">Психиатр создал устройство, фотографирующее мысли</a>
+                <span class="main2019_vertical-news-lead" >Рассказываем, как его сделать</span>
+            </div>
+        </div>
+
+
+                            </div>
+                    </div>
+                    <div class="large-6 medium-12 small-12 column">
+                        <div class="row main2019_pos-relative-medium">
+                                    <div class="large-6 medium-6 small-12 column main2019_border-bottom">
+            <div class="main2019_vertical-news">
+                <div class="main2019_vertical-news-image-wrapper">
+                    <a class="main2019_vertical-news-image-link" href="https://www.gorodche.ru/celebrity/4065492-selena-gomes-v-rannem-vozraste-stolknulas-s-jestokim-zverem/">
+                        <img width="240" height="135" data-src="/wp-content/uploads/2023/02/gomes-1101549-240x135.jpg" class="main2019_vertical-news-image lazy wp-post-image" alt="" loading="lazy" />
+                    </a>
+
+                    <a class="main2019_vertical-news-section" href="/celebrity/">Звезды</a>                </div>
+                <a class="main2019_vertical-news-title" href="https://www.gorodche.ru/celebrity/4065492-selena-gomes-v-rannem-vozraste-stolknulas-s-jestokim-zverem/">Селена Гомес в раннем возрасте столкнулась с «жестоким зверем»</a>
+                <span class="main2019_vertical-news-lead" >Ей удалось спастись, но не у всех детей это получается</span>
+            </div>
+        </div>
+
+
+            <div class="large-6 medium-6 small-12 column main2019_border-bottom">
+            <div class="main2019_vertical-news">
+                <div class="main2019_vertical-news-image-wrapper">
+                    <a class="main2019_vertical-news-image-link" href="https://www.gorodche.ru/celebrity/4065442-liam-nison-vydvinul-ultimatum-scenaristam-zvezdnyh-voyn/">
+                        <img width="240" height="135" data-src="/wp-content/uploads/2023/02/nison-2100948-240x135.jpg" class="main2019_vertical-news-image lazy wp-post-image" alt="" loading="lazy" />
+                    </a>
+
+                    <a class="main2019_vertical-news-section" href="/celebrity/">Звезды</a>                </div>
+                <a class="main2019_vertical-news-title" href="https://www.gorodche.ru/celebrity/4065442-liam-nison-vydvinul-ultimatum-scenaristam-zvezdnyh-voyn/">Лиам Нисон выдвинул ультиматум сценаристам «Звездных войн»</a>
+                <span class="main2019_vertical-news-lead" >Актер вернется к роли Квай-Гон Джинна только при одном условии</span>
+            </div>
+        </div>
+
+
+                            </div>
+                    </div>
+                </div>
+
+
+                <style> .whitebg {background-color: #ffffff;}
+    </style>    <div class="row main2019_pos-relative-large hide-for-medium-down" style="padding-bottom: 7px;">
+    <div class="large-6 medium-12 small-12 column">
+        <div class="row main2019_pos-relative-medium">
+            
+
+            <div class="large-6 medium-6 small-12 column main2019_border-bottom" style="background-color: #eee;">
+                <div class="main2019_vertical-news" style="height: 254px;
+                padding-top: 17px;">
+                    <div class="main2019_vertical-news-image-wrapper"  >
+                        <a class="main2019_vertical-news-image-link"
+                           href="https://www.gorodche.ru/events/3989162-i-budet-fevral-afisha-sobytiy-v-cherepovce/">
+
+                                                        <img width="240" height="135" data-src="/wp-content/uploads/2023/01/4f02fb74-64b8-5ec9-9074-57230bd08c63091721-240x135.jpg" class="main2019_vertical-news-image lazy wp-post-image lazy wp-post-image" alt="" loading="lazy" />
+                        </a>
+
+                        <span class="main2019_vertical-news-small-label">
+                                    <i class="far fa-user" aria-hidden="true"></i>
+                                </span>
+                        <a class="main2019_vertical-news-section whitebg" href="/events/">События</a>                    </div>
+
+                        <a class="main2019_vertical-news-title"
+                           href="https://www.gorodche.ru/events/3989162-i-budet-fevral-afisha-sobytiy-v-cherepovce/">И будет февраль: афиша событий в Череповце</a>
+
+
+                </div>
+                </div>
+
+
+                
+
+            <div class="large-6 medium-6 small-12 column main2019_border-bottom" style="background-color: #eee;">
+                <div class="main2019_vertical-news" style="height: 254px;
+                padding-top: 17px;">
+                    <div class="main2019_vertical-news-image-wrapper"  >
+                        <a class="main2019_vertical-news-image-link"
+                           href="https://www.gorodche.ru/events/3954792-ostaemsya-zimovat-koncerty-etoy-zimy-v-cherepovce/">
+
+                                                        <img width="240" height="135" data-src="/wp-content/uploads/2022/12/kak-stat-interesnym-sobesednikom-10070704-240x135.jpg" class="main2019_vertical-news-image lazy wp-post-image lazy wp-post-image" alt="" loading="lazy" />
+                        </a>
+
+                        <span class="main2019_vertical-news-small-label">
+                                    <i class="far fa-user" aria-hidden="true"></i>
+                                </span>
+                        <a class="main2019_vertical-news-section whitebg" href="/events/">События</a>                    </div>
+
+                        <a class="main2019_vertical-news-title"
+                           href="https://www.gorodche.ru/events/3954792-ostaemsya-zimovat-koncerty-etoy-zimy-v-cherepovce/">Остаемся зимовать: концерты этой зимы в Череповце</a>
+
+
+                </div>
+                </div>
+
+
+                            </div>
+        </div>
+        <div class="large-6 medium-12 small-12 column">
+            <div class="row main2019_pos-relative-medium">
+                
+
+            <div class="large-6 medium-6 small-12 column main2019_border-bottom" style="background-color: #eee;">
+                <div class="main2019_vertical-news" style="height: 254px;
+                padding-top: 17px;">
+                    <div class="main2019_vertical-news-image-wrapper"  >
+                        <a class="main2019_vertical-news-image-link"
+                           href="https://www.gorodche.ru/events/3891842-vysokoskorostnoy-internet-mts-poyavilsya-na-beregah-drevnego-torgovogo-puti/">
+
+                                                        <img width="240" height="135" data-src="/wp-content/uploads/2022/11/img-1606023356-240x135.jpg" class="main2019_vertical-news-image lazy wp-post-image lazy wp-post-image" alt="" loading="lazy" />
+                        </a>
+
+                        <span class="main2019_vertical-news-small-label">
+                                    <i class="far fa-user" aria-hidden="true"></i>
+                                </span>
+                        <a class="main2019_vertical-news-section whitebg" href="/events/">События</a>                    </div>
+
+                        <a class="main2019_vertical-news-title"
+                           href="https://www.gorodche.ru/events/3891842-vysokoskorostnoy-internet-mts-poyavilsya-na-beregah-drevnego-torgovogo-puti/">Высокоскоростной интернет МТС появился на берегах древнего торгового пути</a>
+
+
+                </div>
+                </div>
+
+
+                
+
+            <div class="large-6 medium-6 small-12 column main2019_border-bottom" style="background-color: #eee;">
+                <div class="main2019_vertical-news" style="height: 254px;
+                padding-top: 17px;">
+                    <div class="main2019_vertical-news-image-wrapper"  >
+                        <a class="main2019_vertical-news-image-link"
+                           href="https://www.gorodche.ru/events/3885432-dve-vystavki-vtorjenie-dinozavrov-i-planeta-jivyh-babochek-budut-rabotat-v-trc-iyun-v-cherepovce-s-26-noyabrya-po-18-dekabrya/">
+
+                                                        <img width="240" height="135" data-src="/wp-content/uploads/2022/11/bezymyannyy123122534-240x135.png" class="main2019_vertical-news-image lazy wp-post-image lazy wp-post-image" alt="" loading="lazy" />
+                        </a>
+
+                        <span class="main2019_vertical-news-small-label">
+                                    <i class="far fa-user" aria-hidden="true"></i>
+                                </span>
+                        <a class="main2019_vertical-news-section whitebg" href="/events/">События</a>                    </div>
+
+                        <a class="main2019_vertical-news-title"
+                           href="https://www.gorodche.ru/events/3885432-dve-vystavki-vtorjenie-dinozavrov-i-planeta-jivyh-babochek-budut-rabotat-v-trc-iyun-v-cherepovce-s-26-noyabrya-po-18-dekabrya/">Две выставки «Вторжение динозавров» и «Планета живых бабочек» будут работать в ТРЦ «ИЮНЬ» в Череповце с 26 ноября по 18 декабря.</a>
+
+
+                </div>
+                </div>
+
+
+                            </div>
+        </div>
+    </div>
+    
+            </div>
+            <footer class="main2019_footer">
+                
+
+
+    
+
+
+
+
+    <div class="row">
+        <div class="column">
+            <div class="main2019_footer-bottom" style="padding-top: 15px;">
+                <div class="main2019_footer-bottom-logo ">
+                    <a class="main2019_footer-bottom-logo-link" href="/">
+                        <img data-src="/wp-content/uploads/2021/12/logo2022080517.png" class=" lazy main2019_footer-bottom-logo-image" alt="alt text">
+                    </a>
+                    <span class="main2019_footer-bottom-logo-caption">© ООО «Норд Групп» 2020-2022
+
+Возрастная категория сайта: 18+</span>
+                </div>
+                <ul class="main2019_footer-bottom-nav " >
+
+                    <li style="display: inline;" class="main2019_footer-bottom-nav-item"> <a class="main2019_footer-bottom-nav-link"  href="/contacts/">Контакты</a></li>
+                </ul>
+                <div style="margin-top: 15px;" class="main2019_footer-bottom-disclaimer hide-for-medium-only hide-for-small-only">Сетевое издание Портал «ГородЧе» (18+) зарегистрировано Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций (Роскомнадзор). Свидетельство о регистрации СМИ: ЭЛ № 77 - 78204 от 6 апреля 2020 года. Учредитель: Общество с ограниченной ответственностью "Север медиа". Адрес редакции 162612, Вологодская обл., г. Череповец, ул. Гоголя, д. 43, телефон редакции +7(8202)28-20-40, bau_76@mail.ru. Редакция ООО «Норд Групп», главный редактор Богомолов А. Ю.
+
+Материалы, обозначенные знаком Р публикуются на правах рекламы
+
+Исключительные права на материалы, размещенные в сетевом издании ГородЧе  (www.gorodche.ru) принадлежат ООО «Норд Групп» ©, и  не подлежат использованию другими лицами в какой бы то ни было форме без письменного разрешения правообладателя.
+Сообщения и комментарии читателей сетевого издания размещаются без предварительного редактирования. Редакция оставляет за собой право удалить их с сайта или отредактировать, если указанные сообщения и комментарии являются злоупотреблением свободой массовой информации или нарушением иных требований закона.                </div>
+                <div class="main2019_footer-bottom-socials-n-counters">
+                    <div class="main2019_footer-bottom-socials">
+                        <a rel='noreferrer' target="_blank" href="https://t.me/gorodche" class="main2019_footer-bottom-social"><i class="fab fa-telegram" aria-hidden="true"></i></a>
+
+
+            <a rel='noreferrer' href="https://vk.com/news_gorodche" class="main2019_footer-bottom-social"><i class="fab fa-vk" aria-hidden="true"></i></a>
+
+                    </div>
+                    <div class="main2019_footer-bottom-counters">
+                        <div class='znamya796678 znamya znamya_all'><!--LiveInternet counter--><script type="text/javascript">
+new Image().src = "//counter.yadro.ru/hit;Forvard_Media?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+""+screen.height+""+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,150))+
+";"+Math.random();</script><!--/LiveInternet-->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(23684320, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        trackHash:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/23684320" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-53198444-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+
+
+
+<style>
+    .main2019_thereisaquestion {display:none;}
+    </style>
+
+<script>
+(function() {
+  var script = document.createElement('script');
+  script.src = 'https://unpkg.com/web-vitals/dist/web-vitals.iife.js';
+  script.onload = function() {
+    // When loading `web-vitals` using a classic script, all the public
+    // methods can be found on the `webVitals` global namespace.
+    webVitals.getCLS(console.log);
+    webVitals.getFID(console.log);
+    webVitals.getLCP(console.log);
+  }
+  document.head.appendChild(script);
+}())
+</script>
+
+<!-- Top.Mail.Ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "3262081", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = "https://top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "tmr-code");
+</script>
+<noscript><div><img src="https://top-fwz1.mail.ru/counter?id=3262081;js=na" style="position:absolute;left:-9999px;" alt="Top.Mail.Ru" /></div></noscript>
+<!-- /Top.Mail.Ru counter -->
+
+
+
+
+
+
+
+
+
+
+
+</div   ><!--znamya796678-->
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+ 
+<style>
+
+    .bottom__cookie-block {
+        width: 100%;
+        min-height: 48px;
+        background-color: #aaaaaa;
+        color:white;
+        font-weight: bold;
+        padding: 10px;
+        display: block;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        z-index: 100000;
+        text-align: center;
+        font-size:10px;
+        -webkit-transform: translateZ(0)
+    }
+</style>
+
+
+    <script>
+
+
+
+
+        setTimeout(function(){
+            ym(23684320,'reachGoal','refresh');
+            window.location.reload(1);
+        }, Math.floor(1000*(Math.random() * (100 - 80 + 1) + 110)));
+
+        // window.onbeforeunload = function () {    window.scrollTo(0, 0);    }
+
+    </script>
+
+    
+<!-- tns-counter.ru -->
+
+
+<script type="text/javascript">
+    (function (win, doc, cb) {
+        (win[cb] = win[cb] || []).push(function () {
+            try {
+                tnsCounterEg_ru = new TNS.TnsCounter({
+                    'account': 'eg_ru',
+                    'tmsec': 'eg_main-page'
+                });
+            } catch (e) {
+            }
+        });
+
+        var tnsscript = doc.createElement('script');
+        tnsscript.type = 'text/javascript';
+        tnsscript.async = true;
+        tnsscript.src = ('https:' == doc.location.protocol ? 'https:' : 'ht' + 'tp:') +
+            '//www.tns-counter.ru/tcounter.js';
+        var s = doc.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(tnsscript, s);
+    })(window, this.document, 'tnscounter_callback');
+</script>
+<noscript>
+    <img src="//www.tns-counter.ru/V13a****eg_ru/ru/UTF-8/tmsec=eg_main-page/" width="0" height="0" alt=""/>
+</noscript>
+<!--/ tns-counter.ru -->
+
+
+    <script>
+        $(document).ready(function () {
+
+            jQuery.fn.outerHTML = function () {
+
+                return jQuery("<div />").append(this.eq(0).clone()).html()
+            }, function (l) {
+                l(".site-nav_hamburger, #menu-main-duplicator-trigger").on("click", function () {
+
+                    if (window.innerWidth >= 800) {
+                        yaCounter23684320.reachGoal('hamburger_desc');
+                    };
+
+                    l(".menu-mobile, .site-header_overlay").toggleClass("open"), l("body").toggleClass("menu-open"), $('.menu-mobile').toggle();
+
+                }), l(".menu-mobile_close, .site-header_overlay").on("click", function () {
+                    l(".menu-mobile, .site-header_overlay").removeClass("open"), l("body").removeClass("menu-open"),$('.menu-mobile').toggle();
+                }), l(".site-nav_search-trigger").on("click", function () {
+                    l(this).toggleClass("open"), l(".site-nav_search-block").toggleClass("open")
+                });
+                var n = l(".site-nav_wrapper"), o = l(".site-nav_inner"), i = l(".menu-mobile");
+                l(window).on("scroll", function () {
+
+
+
+                    var e = 1 * l(document).scrollTop();
+                    console.log(o);
+                    1 * n.offset().top < e ? (o.addClass("fixed"), o.css({top: 0 + "px"}), i.css({top: e * 0 + "px"})) : (o.removeClass("fixed"), i.css({top: 0}), o.css({top: 0 + "px"}))
+                }), function () {
+                    var o, e, n, i = l("#menu-main_menu").children(".menu-item"), s = [], r = [], t = 0,
+                        a = l(".site-nav_duplicator-wrapper");
+                    for (o = 0; o < i.length; o++) n = (e = l(i[o]).children("a")).text(), r[o] = 11.6 * n.length + 23, s[o] = e.outerHTML(), t += r[o];
+                    l(window).on("resize", function () {
+                        var e = l("#menu-main-wrapper").width() - 50, n = 0;
+                        if (e>950) {e=950};
+                        if (e < t) {
+                            for (o = 0; o < i.length; o++) (n += r[o]) < e ? i.eq(o).removeClass("hidden") : i.eq(o).addClass("hidden");
+                            a.removeClass("hidden")
+                        } else i.removeClass("hidden"), a.addClass("hidden")
+                    }), l(window).resize(), setTimeout(function () {
+                        l(window).resize()
+                    }, 300)
+                }()
+            }(jQuery);
+
+
+
+
+
+                // Get current page URL
+
+                const path = location.pathname.split('/');
+                dir=path[1];
+
+                ids=new Array(2260332,675739,675738,2803892,2803922);
+                
+                idsnames=new Array('home','celebrity','society','lifestyle','news');
+
+
+                var index;
+                for (index = 0; index < ids.length; ++index) {
+
+
+
+                if (dir==idsnames[index]) {
+
+                    $('.menu-item-'+ids[index]).css('color', '#f8931a');
+                    $('.menu-item-'+ids[index]+' a').css('color', '#f8931a');
+                    hasN=/\d/;
+                    if (!(hasN.test(location.pathname)))  {
+                        $('.menu-item-'+ids[index]+' a').css('cursor', 'default');
+                        $('.menu-item-'+ids[index]+' a').removeAttr("href");
+                    }
+
+                }}
+
+
+
+
+        });
+    </script>
+
+
+            </footer>
+
+        </div>
+    </div>
+</div>
+<script type="text/javascript" src="//gorodche.ru/assets/js/slick.min.js"></script>
+<script type="text/javascript" src="//gorodche.ru/assets/js/app.js?v=23"></script>
+<script>
+
+    function eg_agree() {
+
+        $.cookie('egagreement', '1', {expires: 3650, path: '/'});
+        $('#agreement').hide();
+    }
+
+    function egblockquote() {
+        $('blockquote:not([class]').addClass('egblockquote');
+    }
+
+
+
+</script>
+<script>
+    (function ($) {
+        const params = {
+            arrows: false,
+            dots: false,
+            variableWidth: true,
+            infinite: false
+        };
+        // $('.main2019_thereisaquestion-body').slick(params);
+        //$('.main2019_promocodes').slick(params);
+        //$('.main2019_footer-tags').slick(params);
+
+
+        $('.centerMC').slick({
+            centerMode: true,
+            centerPadding: '40px',
+            slidesToShow: 1,
+            responsive: [
+                {
+                    breakpoint: 768,
+                    settings: {
+                        arrows: false,
+                        centerMode: true,
+                        centerPadding: '40px',
+                        slidesToShow: 1
+                    }
+                },
+                {
+                    breakpoint: 480,
+                    settings: {
+                        arrows: false,
+                        centerMode: true,
+                        centerPadding: '40px',
+                        slidesToShow: 1
+                    }
+                }
+            ]
+        });
+
+
+    })(jQuery);
+</script>
+<script>
+
+    function isVisible(elem) {
+
+        var coords = elem.getBoundingClientRect();
+
+        var windowHeight = document.documentElement.clientHeight;
+
+        // верхняя граница elem в пределах видимости ИЛИ нижняя граница видима
+        var topVisible = coords.top > 0 && coords.top < windowHeight;
+        var bottomVisible = coords.bottom < windowHeight && coords.bottom > 0;
+
+        return topVisible || bottomVisible;
+    }
+
+
+    function showVisible() {
+        var imgs = document.querySelectorAll('[loading=lazy],.lazy')
+        for (var i = 0; i < imgs.length; i++) {
+
+            var img = imgs[i];
+
+            var realsrc = img.dataset.src;
+            if (!realsrc) continue;
+
+            if (isVisible(img)) {
+                img.src = realsrc;
+                img.removeAttribute('data-src');
+            }
+        }
+
+    }
+
+    window.onscroll = showVisible;
+    showVisible();
+</script>
+
+
+
+</body>
+</html><!-- profile all 0.00089621543884277  -->

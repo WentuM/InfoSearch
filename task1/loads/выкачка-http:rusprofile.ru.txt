@@ -1,0 +1,2113 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1" />
+    <meta name="format-detection" content="telephone=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Проверка и анализ российских юридических лиц и предпринимателей</title>
+<meta name="description" content="Сервис проверки и анализа российских юридических лиц и предпринимателей. Только актуальные данные из официальных источников." />
+<meta property="og:title" content="Проверка и анализ российских юридических лиц и предпринимателей" />
+<meta property="og:description" content="Сервис проверки и анализа российских юридических лиц и предпринимателей. Только актуальные данные из официальных источников." />
+<meta property="og:url" content="https://www.rusprofile.ru/" />
+<meta property="og:image" content="https://www.rusprofile.ru/images/open-graph-200.png" />
+<link rel="canonical" href="https://www.rusprofile.ru/" />
+    <link rel="icon" href="/favicon.ico">
+    <link rel="icon" href="/images/favicon.png" type="image/png">
+    <link rel="apple-touch-icon" href="/images/apple-touch-icon-180.png">
+    <link rel="manifest" href="/manifest.json" crossorigin="use-credentials">
+
+    <!--[if lte IE 9]><script type="text/javascript" src="/assets/ie.js"></script><![endif]-->
+    <!--[if gte IE 10]>-->
+                        <link type="text/css" rel="stylesheet" href="/assets/main.css?v=a693e125a0a8bc486516853a4c79ff73" />
+    
+    <link type="text/css" rel="stylesheet" href="/assets/page_index.css?v=9816d3d207d27f9847a1c2b4252c2809" />
+        <link rel="preload" as="font" type="font/woff2" href="/assets/rubik-v12-latin_cyrillic-regular.woff2?8c96f923b2b50dde8c5181e45ce5bbde" crossorigin/>
+    <link rel="preload" as="font" type="font/woff2" href="/assets/rubik-v12-latin_cyrillic-medium.woff2?89e57e6367dbc96dec1559620948cdbc" crossorigin/>
+    <link rel="preload" as="font" type="font/woff2" href="/assets/rubik-v12-latin_cyrillic-light.woff2?68237004646f9567d91ea5da16f0cad0" crossorigin/>
+    <link rel="preload" as="font" type="font/woff2" href="/assets/rubik-v12-latin_cyrillic-bold.woff2?b975983b0862888ad4e84d05f6c17817" crossorigin/>
+    <link rel="preload" as="font" type="font/woff" href="/assets/icomoon.woff?34f520c146e54108af6d01d2a95160eb" crossorigin/>
+    <script type="text/javascript">
+        window.RPF = {
+            store: {
+                app: {
+                    iconsVer: 'f7ed2e01f5fda2fbe7e721a75de92a12'
+                }
+            }
+        };
+        window.parseAdSourceCodeQueye = [];
+        window.parseAdSourceCode = function (data,point){
+            window.parseAdSourceCodeQueye.push({data: data, point: point})
+        }
+    </script>
+
+        <!--<![endif]-->
+            <meta name="subscribed" content="false">
+    </head>
+<body class="index-page advantage-alt info-page" data-spy="scroll" data-offset="300" data-target="#navbar">
+    <div id="main_info" class="overhidden" data-ts="0" data-sitekey="6LcVtAoUAAAAANmhRWZA123B9Sgm43V-VLQvOTKx" data-invisible-sitekey="6LdHErQUAAAAAF4JW3aqrhhuRFfXq8JB1LAWs3Ov" data-user="false" data-dynamic_mod_disabled="0" data-dynamic_mod_disabled_text=""  data-metrika="" data-registered_now="0" data-has_personal_info="" data-skip_personal_info="0" data-pi_skip_steps="" data-shared_uid=""></div>
+    <div id="wrapper">
+                    <script>
+                RPF.screenlimit1 = 767;
+                RPF.screenlimit2 = 1199;
+            </script>
+                
+                
+                    <header class="header">
+    <div class="container">
+        <div class="menu-trigger" id="menu-trigger">
+            <div class="bar1"></div><div class="bar2"></div><div class="bar3"></div>
+                    </div>
+        <strong class="header-logo"><a href="/">Rusprofile.ru - информация о российских юридических лицах и предпринимателях</a></strong>
+        <div class="head-menu">
+            <div class="links">
+                <a href="/search-advanced" class="show-mobile" rel="nofollow">Расширенный поиск</a>
+                <a href="/features">Возможности</a>
+                <a href="/subscribe">Тарифы</a>
+                <a href="/about">О проекте</a>
+                <a href="/jobs">Работа</a>
+                <a href="/articles">Новости</a>
+            </div>
+            <div class="header-login-tools">
+                <div type="button" class="mw-login login-tools__user">
+            <span class="login-tools__user-icon not-logged">
+                                                                
+    <i class="ico ico-m" data-ico="user">
+        <svg><use xlink:href="/images/icons/icons.svg?vf7ed2e01f5fda2fbe7e721a75de92a12#user"></use></svg>
+    </i>
+
+                            </span>
+            <span class="login-tools__user-text">Личный кабинет</span>
+        </div>
+        </div>
+        </div>
+    </div>
+</header>
+        
+                
+                                            <section class="main-section info-page-bg-alt" id="main-section">
+        <div class="container">
+            <div class="main-section__wrap">
+                <h1>Быстрая и удобная проверка <span>контрагентов</span></h1>
+                <div class="flex">
+                    <p class="strong main-section-subtitle">
+                        Помогаем быстро и эффективно оценить надежность контрагента: защитите бизнес от штрафов, доначислений налогов и недобросовестных партнеров
+                    </p>
+                    <p>
+                        Каждый день более <strong>700 000</strong> человек принимают бизнес-решения на основе данных Rusprofile.ru
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="illustrate-hero illustrate-hero-l lazyload" data-bg="/images/index-page/top_left.png"></div>
+        <div class="illustrate-hero illustrate-hero-r lazyload" data-bg="/images/illustrations/nb.png"></div>
+    </section>
+    <div class="nav_rail">
+        <nav id="navbar" class="js-sticky">
+            <a href="#main-section" class="quetip queimg list-group-item" data-quetip="Поиск по названию, адресу, ФИО, ОГРН или ИНН партнера">
+                                
+    <i class="ico" data-ico="lens">
+        <svg><use xlink:href="/images/icons/icons.svg?vf7ed2e01f5fda2fbe7e721a75de92a12#lens"></use></svg>
+    </i>
+
+            </a>
+            <a href="#advantages-rating" class="quetip queimg list-group-item" data-quetip="Оценка контрагентов">
+                                            
+    <i class="ico" data-ico="rate">
+        <svg><use xlink:href="/images/icons/features-list.svg?v8aa24993ab196df78b8b90a0860e5b9a#rate"></use></svg>
+    </i>
+
+            </a>
+            <a href="#advantages-scales" class="quetip queimg list-group-item" data-quetip="Судебные процессы и долги">
+                                            
+    <i class="ico" data-ico="scales">
+        <svg><use xlink:href="/images/icons/features-list.svg?v8aa24993ab196df78b8b90a0860e5b9a#scales"></use></svg>
+    </i>
+
+            </a>
+            <a href="#advantages-connections" class="quetip queimg list-group-item" data-quetip="Связи между компаниями">
+                                            
+    <i class="ico" data-ico="links">
+        <svg><use xlink:href="/images/icons/features-list.svg?v8aa24993ab196df78b8b90a0860e5b9a#links"></use></svg>
+    </i>
+
+            </a>
+            <a href="#advantages-sources" class="quetip queimg list-group-item" data-quetip="Госзакупки">
+                                            
+    <i class="ico" data-ico="portfolio">
+        <svg><use xlink:href="/images/icons/features-list.svg?v8aa24993ab196df78b8b90a0860e5b9a#portfolio"></use></svg>
+    </i>
+
+            </a>
+            <a href="#advantages-onlooking" class="quetip queimg list-group-item" data-quetip="Отслеживание изменений">
+                                            
+    <i class="ico" data-ico="ding">
+        <svg><use xlink:href="/images/main_page/icons.svg?va3e0964a4b633b169bb73093f96e505d#ding"></use></svg>
+    </i>
+
+            </a>
+            <a href="#advantages-search-clients" class="quetip queimg list-group-item" data-quetip="Подбор контрагентов">
+                                            
+    <i class="ico" data-ico="select_counterparties-outline">
+        <svg><use xlink:href="/images/main_page/icons.svg?va3e0964a4b633b169bb73093f96e505d#select_counterparties-outline"></use></svg>
+    </i>
+
+            </a>
+
+        </nav>
+    </div>
+    <section class="main-search btn-outside gradient-block">
+        <div class="container">
+            <div class="main-search-wrap">
+                <form id="indexsearchform" action="/search" class="main-search-form index-search-form" method="GET" onsubmit="return (this.elements.namedItem('query').value.trim().length > 2)">
+                    <div class="input-holder">
+                                        
+    <i class="ico" data-ico="search">
+        <svg><use xlink:href="/images/icons/icons.svg?vf7ed2e01f5fda2fbe7e721a75de92a12#search"></use></svg>
+    </i>
+
+                        <input name="query" class="index-search-input" type="text" placeholder="Искать по названию, адресу, руководителю, учредителям, ОГРН и ИНН" data-prefix="Поиск" maxlength="100" autocomplete="off">
+                        <span class="finded-count"></span>
+                    </div>
+                    <input type="hidden" class="search_inactive" name="search_inactive" value="0">
+                    <button type="submit" class="search-btn waves-effect waves-light">
+                        <span>Найти</span>
+                                        
+    <i class="ico" data-ico="search">
+        <svg><use xlink:href="/images/icons/icons.svg?vf7ed2e01f5fda2fbe7e721a75de92a12#search"></use></svg>
+    </i>
+
+                    </button>
+                </form>
+                <div class="search-drop"></div>
+            </div>
+
+            <div class="main-search-counterparties">
+                <a href="/search-advanced" rel="nofollow" class="btn counterparties-btn" data-goal-param="interactions, main-advanced_search">
+                    <span>Расширенный поиск</span>
+                </a>
+            </div>
+        </div>
+    </section>
+    <section class="nav-titles info-page-bg-alt">
+        <div class="container">
+            <ul class="menu-list cols-6">
+                <li>
+                    <a href="#advantages-rating" class="menu-item">
+                                                                
+    <i class="ico ico-xl" data-ico="rate">
+        <svg><use xlink:href="/images/icons/features-list.svg?v8aa24993ab196df78b8b90a0860e5b9a#rate"></use></svg>
+    </i>
+
+                        <span>
+                            Оценка <br>контрагентов
+                        </span>
+                    </a>
+                </li>
+                <li>
+                    <a href="#advantages-scales" class="menu-item">
+                                                                
+    <i class="ico ico-xl" data-ico="scales">
+        <svg><use xlink:href="/images/icons/features-list.svg?v8aa24993ab196df78b8b90a0860e5b9a#scales"></use></svg>
+    </i>
+
+                        <span>
+                            Судебные <br> процессы и долги
+                        </span>
+
+                    </a>
+                </li>
+                <li>
+                    <a href="#advantages-connections" class="menu-item">
+                                                                
+    <i class="ico ico-xl" data-ico="links">
+        <svg><use xlink:href="/images/icons/features-list.svg?v8aa24993ab196df78b8b90a0860e5b9a#links"></use></svg>
+    </i>
+
+                        <span>
+                            Связи между компаниями
+                        </span>
+                    </a>
+                </li>
+                <li>
+                    <a href="#advantages-sources" class="menu-item">
+                                                                
+    <i class="ico ico-xl" data-ico="portfolio">
+        <svg><use xlink:href="/images/icons/features-list.svg?v8aa24993ab196df78b8b90a0860e5b9a#portfolio"></use></svg>
+    </i>
+
+                        <span>
+                            Госзакупки
+                        </span>
+                    </a>
+                </li>
+                <li>
+                    <a href="#advantages-onlooking" class="menu-item">
+                                                                
+    <i class="ico ico-xl" data-ico="ding">
+        <svg><use xlink:href="/images/main_page/icons.svg?va3e0964a4b633b169bb73093f96e505d#ding"></use></svg>
+    </i>
+
+                        <span>
+                            Отслеживание изменений
+                        </span>
+                    </a>
+                </li>
+                <li>
+                    <a href="#advantages-search-clients" class="menu-item">
+                                                                
+    <i class="ico ico-xl" data-ico="select_counterparties-outline">
+        <svg><use xlink:href="/images/main_page/icons.svg?va3e0964a4b633b169bb73093f96e505d#select_counterparties-outline"></use></svg>
+    </i>
+
+                        <span>
+                            Подбор <br>контрагентов
+                        </span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </section>
+
+    <section class="advantages text-r advantages-rating" id="advantages-rating">
+        <div class="container centered-wrp">
+            <div class="advantages-wrp">
+
+                <div class="advantages-title">
+                                                
+    <i class="ico" data-ico="rate">
+        <svg><use xlink:href="/images/icons/features-list.svg?v8aa24993ab196df78b8b90a0860e5b9a#rate"></use></svg>
+    </i>
+
+                    <div class="page-title">Удобная оценка <span>контрагентов</span></div>
+                </div>
+                <div class="advantages-body  pad-t-more">
+
+                    <div class="cards">
+                        <div class="card-one lazyload"></div>
+                        <div class="card-two lazyload"></div>
+                    </div>
+                    <ul>
+                        <li>Все ключевые сведения на одной странице</li>
+                        <li>Подробный рейтинг надежности компании</li>
+                        <li>38 источников данных, подробные сведения по каждому</li>
+                        <li>Ежедневное обновление информации</li>
+                        <li>Маркеры риска по данным ФНС</li>
+                        <li>Банкротства из ЕФРСБ</li>
+                        <li>Финансовое положение компании</li>
+                        <li>История изменений</li>
+                        <li>Контактные данные юрлиц</li>
+                    </ul>
+                    <a href="/features" class="advantages-link">Возможности сервиса<span class="arr"></span></a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="advantages text-l advantages-scales info-page-bg-alt" id="advantages-scales">
+        <div class="container centered-wrp">
+            <div class="advantages-wrp">
+
+                <div class="advantages-title">
+                                                
+    <i class="ico" data-ico="scales">
+        <svg><use xlink:href="/images/icons/features-list.svg?v8aa24993ab196df78b8b90a0860e5b9a#scales"></use></svg>
+    </i>
+
+                    <div class="page-title">Анализируйте судебные процессы и задолженности</div>
+                </div>
+                <div class="advantages-body">
+
+                    <div class="cards">
+                        <div class="card-one lazyload"></div>
+                        <div class="card-two lazyload"></div>
+                    </div>
+                    <ul>
+                        <li>Все текущие и завершенные дела с участием компании</li>
+                        <li>Почему, с кем и на какие суммы судится</li>
+                        <li>Результаты арбитражных процессов</li>
+                        <li>Исполнительные производства в отношении компании</li>
+                        <li>Причины, суммы и статус требований</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="illustrate-hero illustrate-hero-middle lazyload" data-bg="/images/index-page/illustrate-middle.png"></div>
+
+    </section>
+
+    <section class="advantages text-r advantages-connections" id="advantages-connections">
+        <div class="container centered-wrp">
+            <div class="advantages-wrp">
+
+                <div class="advantages-title">
+                                                
+    <i class="ico" data-ico="links">
+        <svg><use xlink:href="/images/icons/features-list.svg?v8aa24993ab196df78b8b90a0860e5b9a#links"></use></svg>
+    </i>
+
+                    <div class="page-title">Проверяйте связи <br> между компаниями</div>
+                </div>
+                <div class="advantages-body">
+
+                    <div class="cards">
+                        <div class="card-one lazyload"></div>
+                        <div class="card-two lazyload"></div>
+                    </div>
+                    <ul>
+                        <li>Имеет ли контрагент отношение к вашим конкурентам</li>
+                        <li>Создавались ли дочерние организации, и каково их финансовое положение</li>
+                        <li>Заметны ли признаки подготовки компании к банкротству</li>
+                        <li>Имеются ли признаки оптимизации налогов</li>
+                        <li>Есть ли за учредителем шлейф проблемных юридических лиц</li>
+                    </ul>
+                    <a href="/subscribe" class="advantages-link">Тарифы на полный доступ<span class="arr"></span></a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="advantages text-l advantages-sources info-page-bg-alt" id="advantages-sources">
+        <div class="container centered-wrp">
+            <div class="advantages-wrp">
+
+                <div class="advantages-title">
+                                                
+    <i class="ico" data-ico="portfolio">
+        <svg><use xlink:href="/images/icons/features-list.svg?v8aa24993ab196df78b8b90a0860e5b9a#portfolio"></use></svg>
+    </i>
+
+                    <div class="page-title">Используйте данные о госзакупках</div>
+                </div>
+                <div class="advantages-body">
+                    <div class="cards">
+                        <div class="card-one lazyload"></div>
+                        <div class="card-two lazyload"></div>
+                    </div>
+                    <ul>
+                        <li>Какие у вас могут быть конкуренты по тендеру, и на каких условиях они ранее участвовали в госзакупках</li>
+                        <li>Присутствует ли контрагент в реестре недобросовестных поставщиков</li>
+                        <li>Был ли у поставщика опыт в исполнении госконтрактов</li>
+                        <li>Есть ли признаки сговора участников закупок</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="advantages text-r advantages-onlooking" id="advantages-onlooking">
+        <div class="container centered-wrp">
+            <div class="advantages-wrp">
+                <div class="advantages-title">
+                                                            
+    <i class="ico ico-l" data-ico="ding">
+        <svg><use xlink:href="/images/main_page/icons.svg?va3e0964a4b633b169bb73093f96e505d#ding"></use></svg>
+    </i>
+
+                    <div class="page-title">Автоматизируйте наблюдение <br>за контрагентами</div>
+                </div>
+                <div class="advantages-body">
+                    <div class="cards">
+                        <div class="card-one lazyload"></div>
+                        <div class="card-two lazyload"></div>
+                    </div>
+                    <ul>
+                        <li>Узнавайте о значимых событиях в интересных вам компаниях</li>
+                        <li>Получайте уведомления по электронной почте</li>
+                        <li>Полная история обновлений в личном кабинете</li>
+                        <li>Отслеживайте все изменения или только самые важные</li>
+                    </ul>
+                    <a href="#" id="js-open-auth" class="advantages-link">Попробовать бесплатно<span class="arr"></span></a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="advantages text-l advantages-search-clients info-page-bg-alt" id="advantages-search-clients">
+        <div class="container centered-wrp">
+            <div class="advantages-wrp">
+                <div class="advantages-title">
+                                                            
+    <i class="ico ico-l" data-ico="select_counterparties-outline">
+        <svg><use xlink:href="/images/main_page/icons.svg?va3e0964a4b633b169bb73093f96e505d#select_counterparties-outline"></use></svg>
+    </i>
+
+                    <div class="page-title">Найдите клиентов для вашего <br>бизнеса</div>
+                </div>
+                <div class="advantages-body">
+                    <div class="cards">
+                        <div class="card-one lazyload"></div>
+                        <div class="card-two lazyload"></div>
+                    </div>
+                    <div class="subheader">Получите список подходящих вам компаний по:</div>
+                    <ul>
+                        <li>региону</li>
+                        <li>основному и дополнительному видам деятельности</li>
+                        <li>объему выручки</li>
+                        <li>участию в госзакупках</li>
+                        <li>наличию контактных данных</li>
+                        <li>организационно-правовой форме</li>
+                        <li>другим значимым для вас критериям</li>
+                    </ul>
+                    <a href="/search-advanced" rel="nofollow" class="advantages-link" data-goal-param="interactions, main-advanced_search">Расширенный поиск<span class="arr"></span></a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="advantages advantages-official info-page-bg-alt" id="advantages-official">
+        <div class="advantages-official-first">
+            <div class="container">
+                <div class="advantages-title">
+                                                            
+    <i class="ico ico-l" data-ico="curt">
+        <svg><use xlink:href="/images/main_page/icons.svg?va3e0964a4b633b169bb73093f96e505d#curt"></use></svg>
+    </i>
+
+                    <div class="page-title-h2">Официальная информация</div>
+                </div>
+
+                <ul class="menu-list cols-7 advantages-official-items">
+                    <li>
+                        <div class="advantages-official-items-logo" data-item="4"></div>
+                        ФНС
+                    </li>
+                    <li>
+                        <div class="advantages-official-items-logo" data-item="3"></div>
+                        Верховный <br>
+                        суд
+                    </li>
+                    <li>
+                        <div class="advantages-official-items-logo" data-item="5"></div>
+                        Федеральное казначейство
+                    </li>
+                    <li>
+                        <div class="advantages-official-items-logo" data-item="6"></div>
+                        ФССП
+                    </li>
+                    <li>
+                        <div class="advantages-official-items-logo" data-item="2"></div>
+                        ФАС
+                    </li>
+                    <li>
+                        <div class="advantages-official-items-logo" data-item="1"></div>
+                        Генеральная прокуратура
+                    </li>
+                    <li>
+                        <div class="advantages-official-items-logo" data-item="0"></div>
+                        ФСГС
+                    </li>
+                </ul>
+                <div class="page-title-h4">Обновляются ежедневно:</div>
+                <ul class="menu-list cols-3 advantages-official-updates">
+                    <li>
+                        <strong>Арбитражные дела</strong>
+                        <span>Верховный суд</span>
+                    </li>
+                    <li>
+                        <strong>Недобросовестные поставщики</strong>
+                        <span>ФАС</span>
+                    </li>
+                    <li>
+                        <strong>Проверки</strong>
+                        <span>Генеральная прокуратура</span>
+                    </li>
+                    <li>
+                        <strong>Государственные и муниципальные организации</strong>
+                        <span>Федеральное казначейство</span>
+                    </li>
+                    <li>
+                        <strong>Открытые и завершенные исполнительные производства</strong>
+                        <span>ФССП</span>
+                    </li>
+                    <li>
+                        <strong>Госзакупки <span class="nowrap">по 223, 44 и 94&nbsp;ФЗ</span></strong>
+                        <span>Федеральное казначейство</span>
+                    </li>
+                    <li>
+                        <strong>Связи между организациями</strong>
+                        <span>ЕГРЮЛ, ЕГРИП</span>
+                    </li>
+                    <li>
+                        <strong>Основные сведения по ЮЛ и ИП</strong>
+                        <span>ЕГРЮЛ, ЕГРИП</span>
+                    </li>
+                    <li>
+                        <strong>Банкротства</strong>
+                        <span>ЕФРСБ</span>
+                    </li>
+                </ul>
+            </div>
+            <div class="illustrate-hero illustrate-hero-official-l lazyload" data-bg="/images/illustrations/block-official.png"></div>
+            <div class="illustrate-hero illustrate-hero-official-r lazyload" data-bg="/images/illustrations/block-official.png"></div>
+        </div>
+        <div class="advantages-official-second">
+            <div class="container">
+                <div class="page-title-h4">Обновляются по мере появления изменений:</div>
+                <ul class="menu-list cols-3 advantages-official-updates">
+                    <li>
+                        <strong>Дисквалифицированные лица, Массовые адреса</strong>
+                        <span>Специальные реестры ФНС</span>
+                    </li>
+                    <li>
+                        <strong>Открытые и завершенные исполнительные производства</strong>
+                        <span>Специальные реестры ФНС</span>
+                    </li>
+                    <li>
+                        <strong>Реестр малых и средних предприятий</strong>
+                        <span>Специальные реестры ФНС</span>
+                    </li>
+                    <li>
+                        <strong>Численность сотрудников организаций</strong>
+                        <span>Специальные реестры ФНС</span>
+                    </li>
+                    <li>
+                        <strong>Специальные <span class="nowrap">налоговые режимы</span></strong>
+                        <span>Специальные реестры ФНС</span>
+                    </li>
+                    <li>
+                        <strong>Уплаченные налоги и взносы, недоимки и задолженности</strong>
+                        <span>Специальные реестры ФНС</span>
+                    </li>
+                    <li>
+                        <strong>Доходы и расходы организаций</strong>
+                        <span>Специальные реестры ФНС</span>
+                    </li>
+                    <li>
+                        <strong>Бухгалтерская отчетность</strong>
+                        <span>ФНС, Росстат</span>
+                    </li>
+                    <li>
+                        <strong>Лицензии</strong>
+                        <span>ФНС, профильные ведомства</span>
+                    </li>
+                </ul>
+
+                <div class="try-block">
+                    <a href="/sources" class="relative">Источники данных<span class="arr"></span></a>
+                </div>
+            </div>
+            <div class="illustrate-hero illustrate-hero-official-b lazyload" data-bg="/images/illustrations/block-official.png"></div>
+        </div>
+    </section>
+
+
+    <section class="section-users">
+        <div class="container has-padding">
+            <div class="cols-two">
+                <div class="page-title page-title-h3">
+                    Rusprofile используют <br>для проверки контрагентов более 200 тысяч<br> организаций
+                </div>
+                <div class="section-users-img">
+                                <img data-srcset="/images/index-page/responsive/companyLogo.png 1x, /images/index-page/responsive/companyLogo@2x.png 2x, /images/index-page/responsive/companyLogo@3x.png 3x, /images/index-page/responsive/companyLogo@4x.png 4x"
+         data-origin="/images/index-page/responsive/companyLogo.png"
+         src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs%3D"
+         class="lazyload"
+                                       height="358"
+                                           width="531"
+                               alt="Rusprofile используют для проверки контрагентов более 200 тысяч организаций"/>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+            <section class="section-news info-page-bg-alt">
+            <div class="container">
+                <div class="page-title page-title-h3">Новости и статьи</div>
+                <div class="section-news-items">
+                                            <div class="box">
+                            <a href="https://vc.ru/finance/598172-pochemu-nuzhno-slushat-buhgalterov-zhertva-finansovoy-piramidy-finiko" rel="nofollow" target="_blank" class="section-news-title">Почему нужно слушать бухгалтеров: жертва финансовой пирамиды «Финико»                
+    <i class="ico" data-ico="outside-link">
+        <svg><use xlink:href="/images/icons/icons.svg?vf7ed2e01f5fda2fbe7e721a75de92a12#outside-link"></use></svg>
+    </i>
+</a>
+                            <div class="section-news-bottom">
+                                <time datetime="2023-02-13 14:00:00">13 февраля 2023
+                                    •
+                                    <a href="/articles?type=media">Статья в СМИ</a>
+                                </time>
+                                <div>
+                                                                            <img data-src="/storage/51eb09a3d68ba167db8328be21ceb6ac/7e5e8b2d850e89a700ad55131858a65e.jpg"
+         data-origin="/storage/51eb09a3d68ba167db8328be21ceb6ac/7e5e8b2d850e89a700ad55131858a65e.jpg"
+         src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs%3D"
+         class="lazyload"
+                                     height="32"
+                width="32"
+                              alt="Почему нужно слушать бухгалтеров: жертва финансовой пирамиды «Финико»"/>
+
+                                                                    </div>
+                            </div>
+                        </div>
+                                            <div class="box">
+                            <a href="https://www.e-xecutive.ru/management/practices/1995810-11-polozhenii-v-dogovore-postavki-kotorye-zaschityat-pokupatelya" rel="nofollow" target="_blank" class="section-news-title">11 положений в договоре поставки, которые защитят покупателя                
+    <i class="ico" data-ico="outside-link">
+        <svg><use xlink:href="/images/icons/icons.svg?vf7ed2e01f5fda2fbe7e721a75de92a12#outside-link"></use></svg>
+    </i>
+</a>
+                            <div class="section-news-bottom">
+                                <time datetime="2023-02-13 14:00:00">13 февраля 2023
+                                    •
+                                    <a href="/articles?type=media">Статья в СМИ</a>
+                                </time>
+                                <div>
+                                                                            <img data-src="/storage/51ea02d12a4211fe31a3b5757f9bbc4f/3714d0e7746de62ad6b89525dfa5d3f2.png"
+         data-origin="/storage/51ea02d12a4211fe31a3b5757f9bbc4f/3714d0e7746de62ad6b89525dfa5d3f2.png"
+         src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs%3D"
+         class="lazyload"
+                                     height="32"
+                width="32"
+                              alt="11 положений в договоре поставки, которые защитят покупателя"/>
+
+                                                                    </div>
+                            </div>
+                        </div>
+                                            <div class="box">
+                            <a href="https://vc.ru/legal/585595-kak-izbezhat-reputacionnyh-poter-na-reklame" rel="nofollow" target="_blank" class="section-news-title">Как избежать репутационных потерь на рекламе                
+    <i class="ico" data-ico="outside-link">
+        <svg><use xlink:href="/images/icons/icons.svg?vf7ed2e01f5fda2fbe7e721a75de92a12#outside-link"></use></svg>
+    </i>
+</a>
+                            <div class="section-news-bottom">
+                                <time datetime="2023-01-18 13:58:00">18 января 2023
+                                    •
+                                    <a href="/articles?type=media">Статья в СМИ</a>
+                                </time>
+                                <div>
+                                                                            <img data-src="/storage/51e90acd69f2448a633b9f16b15c134b/b212eaa02cd8223842dad61f1613c3c6.jpg"
+         data-origin="/storage/51e90acd69f2448a633b9f16b15c134b/b212eaa02cd8223842dad61f1613c3c6.jpg"
+         src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs%3D"
+         class="lazyload"
+                                     height="32"
+                width="32"
+                              alt="Как избежать репутационных потерь на рекламе"/>
+
+                                                                    </div>
+                            </div>
+                        </div>
+                                            <div class="box">
+                            <a href="https://www.retail.ru/articles/6-polozheniy-dogovora-arendy-kotorye-mogut-vyzyvat-konflikt-interesov/" rel="nofollow" target="_blank" class="section-news-title">Договор между арендодателем и арендатором: права и обязанности                
+    <i class="ico" data-ico="outside-link">
+        <svg><use xlink:href="/images/icons/icons.svg?vf7ed2e01f5fda2fbe7e721a75de92a12#outside-link"></use></svg>
+    </i>
+</a>
+                            <div class="section-news-bottom">
+                                <time datetime="2023-01-17 13:57:00">17 января 2023
+                                    •
+                                    <a href="/articles?type=media">Статья в СМИ</a>
+                                </time>
+                                <div>
+                                                                            <img data-src="/storage/51e80d4c85addc1fc9641165cdac9578/500b0017ea22b1c0d4dd0d90f15a3604.png"
+         data-origin="/storage/51e80d4c85addc1fc9641165cdac9578/500b0017ea22b1c0d4dd0d90f15a3604.png"
+         src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs%3D"
+         class="lazyload"
+                                     height="32"
+                width="32"
+                              alt="Договор между арендодателем и арендатором: права и обязанности"/>
+
+                                                                    </div>
+                            </div>
+                        </div>
+                                            <div class="box">
+                            <a href="https://www.e-xecutive.ru/management/practices/1995748-11-polozhenii-v-dogovore-postavki-kotorye-zaschityat-postavschika" rel="nofollow" target="_blank" class="section-news-title">11 положений в договоре поставки, которые защитят поставщика                
+    <i class="ico" data-ico="outside-link">
+        <svg><use xlink:href="/images/icons/icons.svg?vf7ed2e01f5fda2fbe7e721a75de92a12#outside-link"></use></svg>
+    </i>
+</a>
+                            <div class="section-news-bottom">
+                                <time datetime="2022-12-26 13:55:00">26 декабря 2022
+                                    •
+                                    <a href="/articles?type=media">Статья в СМИ</a>
+                                </time>
+                                <div>
+                                                                            <img data-src="/storage/51e601811293a59832f3182253fb1a1b/30c8577f4fc926e3dbe26acaa63fcd1a.png"
+         data-origin="/storage/51e601811293a59832f3182253fb1a1b/30c8577f4fc926e3dbe26acaa63fcd1a.png"
+         src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs%3D"
+         class="lazyload"
+                                     height="32"
+                width="32"
+                              alt="11 положений в договоре поставки, которые защитят поставщика"/>
+
+                                                                    </div>
+                            </div>
+                        </div>
+                                            <div class="box">
+                            <a href="https://pro.rbc.ru/demo/63a18dc49a79478df9a6b182" rel="nofollow" target="_blank" class="section-news-title">Как избежать проблем с ФНС и потерю денег: составляем договор подряда                
+    <i class="ico" data-ico="outside-link">
+        <svg><use xlink:href="/images/icons/icons.svg?vf7ed2e01f5fda2fbe7e721a75de92a12#outside-link"></use></svg>
+    </i>
+</a>
+                            <div class="section-news-bottom">
+                                <time datetime="2022-12-25 13:56:00">25 декабря 2022
+                                    •
+                                    <a href="/articles?type=media">Статья в СМИ</a>
+                                </time>
+                                <div>
+                                                                            <img data-src="/storage/51e707e4c28f3589152f513116967b6a/40aadc71b1f122453322b754871cee87.png"
+         data-origin="/storage/51e707e4c28f3589152f513116967b6a/40aadc71b1f122453322b754871cee87.png"
+         src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs%3D"
+         class="lazyload"
+                                     height="32"
+                width="32"
+                              alt="Как избежать проблем с ФНС и потерю денег: составляем договор подряда"/>
+
+                                                                    </div>
+                            </div>
+                        </div>
+                                        <button class="arrow prev hidden">                
+    <i class="ico" data-ico="slider-arrow">
+        <svg><use xlink:href="/images/icons/icons.svg?vf7ed2e01f5fda2fbe7e721a75de92a12#slider-arrow"></use></svg>
+    </i>
+</button>
+                    <button class="arrow next hidden">                
+    <i class="ico" data-ico="slider-arrow">
+        <svg><use xlink:href="/images/icons/icons.svg?vf7ed2e01f5fda2fbe7e721a75de92a12#slider-arrow"></use></svg>
+    </i>
+</button>
+                </div>
+                <div class="try-block">
+                    <a href="/articles" class="relative">Все материалы<span class="arr"></span></a>
+                </div>
+            </div>
+        </section>
+        <section class="section-team section-text">
+        <div class="container has-padding-l text-block">
+            <div class="page-title page-title-h3">Вакансии в Rusprofile</div>
+            <div class="img-cols-block img-half-size cols-centered">
+                <div class="img-cols-block-img tablet-img-top">
+                                <img data-srcset="/images/page_team/responsive/image51.jpg 1x, /images/page_team/responsive/image51@2x.jpg 2x, /images/page_team/responsive/image51@3x.jpg 3x, /images/page_team/responsive/image51@4x.jpg 4x"
+         data-origin="/images/page_team/responsive/image51.jpg"
+         src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs%3D"
+         class="lazyload"
+                                       height="348"
+                                            alt="Работа в команде Rusprofile"/>
+
+                </div>
+                <div class="text">
+                    <p>
+                        У нас небольшая команда без бюрократии и основатели, которые ценят мнение каждого.
+                        Комфортный офис в Москва-Сити и частичная удаленка. А ещё — честные зарплаты и премии.
+                    </p>
+                    <p>Мы всегда в поиске талантливых специалистов.</p>
+                </div>
+                <ul class="unstyled">
+                                            <li>
+                            <a href="/jobs#jobs-5" class="btn-white-two">Продуктовая команда</a>
+                        </li>
+                                            <li>
+                            <a href="/jobs#jobs-4" class="btn-white-two">Работа для инженеров</a>
+                        </li>
+                                    </ul>
+            </div>
+        </div>
+    </section>
+    <div class="relative info-page-bg-alt">
+        <section class="gradient-block try-block">
+            <div class="try-block-title">Профессиональный доступ к Rusprofile — максимум возможностей</div>
+            <a href="/subscribe" class="btn btn-green-big">Подключить</a>
+            <div class="illustrate-hero lazyload" data-bg="/images/illustrations/illustrate-footer_clear.png"></div>
+        </section>
+
+        <section class="has-padding section-capability">
+            <div class="illustrate-hero illustrate-hero-bottom lazyload" data-bg="/images/illustrations/illustrate-footer_clear.png"></div>
+            <div class="container">
+                <div class="capability-columns">
+                    <div class="capability-col">
+                        <div class="capability-col-item subs-box">
+                            <div class="capability-item__header">Найти организацию по виду деятельности ОКВЭД</div>
+                            <div class="capability-item__expand okved-expand">
+                                <div class="okved-toggler"><span class="okved-tab active">Рубрикатор</span> / <span class="okved-tab fakelink">Популярные</span></div>
+                                <div class="okved-tabbody active">
+                                    <table class="okved-table">
+                                        <tr>
+                                            <th>код <br>оквэд</th>
+                                            <th>вид <br>деятельности</th>
+                                        </tr>
+                                                                                    <tr>
+                                                <td><span class="num">01</span></td>
+                                                <td><a href="/codes/10000">Растениеводство и животноводство, охота и предоставление соответствующих услуг в этих областях</a></td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td><span class="num">02</span></td>
+                                                <td><a href="/codes/20000">Лесоводство и лесозаготовки</a></td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td><span class="num">03</span></td>
+                                                <td><a href="/codes/30000">Рыболовство и рыбоводство</a></td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td><span class="num">05</span></td>
+                                                <td><a href="/codes/50000">Добыча угля</a></td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td><span class="num">06</span></td>
+                                                <td><a href="/codes/60000">Добыча нефти и природного газа</a></td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td><span class="num">07</span></td>
+                                                <td><a href="/codes/70000">Добыча металлических руд</a></td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td><span class="num">08</span></td>
+                                                <td><a href="/codes/80000">Добыча прочих полезных ископаемых</a></td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td><span class="num">09</span></td>
+                                                <td><a href="/codes/90000">Предоставление услуг в области добычи полезных ископаемых</a></td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td><span class="num">10</span></td>
+                                                <td><a href="/codes/100000">Производство пищевых продуктов</a></td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td><span class="num">11</span></td>
+                                                <td><a href="/codes/110000">Производство напитков</a></td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td><span class="num">12</span></td>
+                                                <td><a href="/codes/120000">Производство табачных изделий</a></td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td><span class="num">13</span></td>
+                                                <td><a href="/codes/130000">Производство текстильных изделий</a></td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td><span class="num">14</span></td>
+                                                <td><a href="/codes/140000">Производство одежды</a></td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td><span class="num">15</span></td>
+                                                <td><a href="/codes/150000">Производство кожи и изделий из кожи</a></td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td><span class="num">16</span></td>
+                                                <td><a href="/codes/160000">Обработка древесины и производство изделий из дерева и пробки, кроме мебели, производство изделий из соломки и материалов для плетения</a></td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td><span class="num">17</span></td>
+                                                <td><a href="/codes/170000">Производство бумаги и бумажных изделий</a></td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td><span class="num">18</span></td>
+                                                <td><a href="/codes/180000">Деятельность полиграфическая и копирование носителей информации</a></td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td><span class="num">19</span></td>
+                                                <td><a href="/codes/190000">Производство кокса и нефтепродуктов</a></td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td><span class="num">20</span></td>
+                                                <td><a href="/codes/200000">Производство химических веществ и химических продуктов</a></td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td><span class="num">21</span></td>
+                                                <td><a href="/codes/210000">Производство лекарственных средств и материалов, применяемых в медицинских целях</a></td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td><span class="num">22</span></td>
+                                                <td><a href="/codes/220000">Производство резиновых и пластмассовых изделий</a></td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td><span class="num">23</span></td>
+                                                <td><a href="/codes/230000">Производство прочей неметаллической минеральной продукции</a></td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td><span class="num">24</span></td>
+                                                <td><a href="/codes/240000">Производство металлургическое</a></td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td><span class="num">25</span></td>
+                                                <td><a href="/codes/250000">Производство готовых металлических изделий, кроме машин и оборудования</a></td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td><span class="num">26</span></td>
+                                                <td><a href="/codes/260000">Производство компьютеров, электронных и оптических изделий</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">27</span></td>
+                                                <td><a href="/codes/270000">Производство электрического оборудования</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">28</span></td>
+                                                <td><a href="/codes/280000">Производство машин и оборудования, не включенных в другие группировки</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">29</span></td>
+                                                <td><a href="/codes/290000">Производство автотранспортных средств, прицепов и полуприцепов</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">30</span></td>
+                                                <td><a href="/codes/300000">Производство прочих транспортных средств и оборудования</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">31</span></td>
+                                                <td><a href="/codes/310000">Производство мебели</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">32</span></td>
+                                                <td><a href="/codes/320000">Производство прочих готовых изделий</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">33</span></td>
+                                                <td><a href="/codes/330000">Ремонт и монтаж машин и оборудования</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">35</span></td>
+                                                <td><a href="/codes/350000">Обеспечение электрической энергией, газом и паром кондиционирование воздуха</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">36</span></td>
+                                                <td><a href="/codes/360000">Забор, очистка и распределение воды</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">37</span></td>
+                                                <td><a href="/codes/370000">Сбор и обработка сточных вод</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">38</span></td>
+                                                <td><a href="/codes/380000">Сбор, обработка и утилизация отходов обработка вторичного сырья</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">39</span></td>
+                                                <td><a href="/codes/390000">Предоставление услуг в области ликвидации последствий загрязнений и прочих услуг, связанных с удалением отходов</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">41</span></td>
+                                                <td><a href="/codes/410000">Строительство зданий</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">42</span></td>
+                                                <td><a href="/codes/420000">Строительство инженерных сооружений</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">43</span></td>
+                                                <td><a href="/codes/430000">Работы строительные специализированные</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">45</span></td>
+                                                <td><a href="/codes/450000">Торговля оптовая и розничная автотранспортными средствами и мотоциклами и их ремонт</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">46</span></td>
+                                                <td><a href="/codes/460000">Торговля оптовая, кроме оптовой торговли автотранспортными средствами и мотоциклами</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">47</span></td>
+                                                <td><a href="/codes/470000">Торговля розничная, кроме торговли автотранспортными средствами и мотоциклами</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">49</span></td>
+                                                <td><a href="/codes/490000">Деятельность сухопутного и трубопроводного транспорта</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">50</span></td>
+                                                <td><a href="/codes/500000">Деятельность водного транспорта</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">51</span></td>
+                                                <td><a href="/codes/510000">Деятельность воздушного и космического транспорта</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">52</span></td>
+                                                <td><a href="/codes/520000">Складское хозяйство и вспомогательная транспортная деятельность</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">53</span></td>
+                                                <td><a href="/codes/530000">Деятельность почтовой связи и курьерская деятельность</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">55</span></td>
+                                                <td><a href="/codes/550000">Деятельность по предоставлению мест для временного проживания</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">56</span></td>
+                                                <td><a href="/codes/560000">Деятельность по предоставлению продуктов питания и напитков</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">58</span></td>
+                                                <td><a href="/codes/580000">Деятельность издательская</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">59</span></td>
+                                                <td><a href="/codes/590000">Производство кинофильмов, видеофильмов и телевизионных программ, издание звукозаписей и нот</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">60</span></td>
+                                                <td><a href="/codes/600000">Деятельность в области телевизионного и радиовещания</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">61</span></td>
+                                                <td><a href="/codes/610000">Деятельность в сфере телекоммуникаций</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">62</span></td>
+                                                <td><a href="/codes/620000">Разработка компьютерного программного обеспечения, консультационные услуги в данной области и другие сопутствующие услуги</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">63</span></td>
+                                                <td><a href="/codes/630000">Деятельность в области информационных технологий</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">64</span></td>
+                                                <td><a href="/codes/640000">Деятельность по предоставлению финансовых услуг, кроме услуг по страхованию и пенсионному обеспечению</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">65</span></td>
+                                                <td><a href="/codes/650000">Страхование, перестрахование, деятельность негосударственных пенсионных фондов, кроме обязательного социального обеспечения</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">66</span></td>
+                                                <td><a href="/codes/660000">Деятельность вспомогательная в сфере финансовых услуг и страхования</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">68</span></td>
+                                                <td><a href="/codes/680000">Операции с недвижимым имуществом</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">69</span></td>
+                                                <td><a href="/codes/690000">Деятельность в области права и бухгалтерского учета</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">70</span></td>
+                                                <td><a href="/codes/700000">Деятельность головных офисов консультирование по вопросам управления</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">71</span></td>
+                                                <td><a href="/codes/710000">Деятельность в области архитектуры и инженерно-технического проектирования технических испытаний, исследований и анализа</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">72</span></td>
+                                                <td><a href="/codes/720000">Научные исследования и разработки</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">73</span></td>
+                                                <td><a href="/codes/730000">Деятельность рекламная и исследование конъюнктуры рынка</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">74</span></td>
+                                                <td><a href="/codes/740000">Деятельность профессиональная научная и техническая прочая</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">75</span></td>
+                                                <td><a href="/codes/750000">Деятельность ветеринарная</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">77</span></td>
+                                                <td><a href="/codes/770000">Аренда и лизинг</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">78</span></td>
+                                                <td><a href="/codes/780000">Деятельность по трудоустройству и подбору персонала</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">79</span></td>
+                                                <td><a href="/codes/790000">Деятельность туристических агентств и прочих организаций, предоставляющих услуги в сфере туризма</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">80</span></td>
+                                                <td><a href="/codes/800000">Деятельность по обеспечению безопасности и проведению расследований</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">81</span></td>
+                                                <td><a href="/codes/810000">Деятельность по обслуживанию зданий и территорий</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">82</span></td>
+                                                <td><a href="/codes/820000">Деятельность административно-хозяйственная, вспомогательная деятельность по обеспечению функционирования организации, деятельность по предоставлению прочих вспомогательных услуг для бизнеса</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">84</span></td>
+                                                <td><a href="/codes/840000">Деятельность органов государственного управления по обеспечению военной безопасности, обязательному социальному обеспечению</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">85</span></td>
+                                                <td><a href="/codes/850000">Образование</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">86</span></td>
+                                                <td><a href="/codes/860000">Деятельность в области здравоохранения</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">87</span></td>
+                                                <td><a href="/codes/870000">Деятельность по уходу с обеспечением проживания</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">88</span></td>
+                                                <td><a href="/codes/880000">Предоставление социальных услуг без обеспечения проживания</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">90</span></td>
+                                                <td><a href="/codes/900000">Деятельность творческая, деятельность в области искусства и организации развлечений</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">91</span></td>
+                                                <td><a href="/codes/910000">Деятельность библиотек, архивов, музеев и прочих объектов культуры</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">92</span></td>
+                                                <td><a href="/codes/920000">Деятельность по организации и проведению азартных игр и заключению пари, по организации и проведению лотерей</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">93</span></td>
+                                                <td><a href="/codes/930000">Деятельность в области спорта, отдыха и развлечений</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">94</span></td>
+                                                <td><a href="/codes/940000">Деятельность общественных организаций</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">95</span></td>
+                                                <td><a href="/codes/950000">Ремонт компьютеров, предметов личного потребления и хозяйственно-бытового назначения</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">96</span></td>
+                                                <td><a href="/codes/960000">Деятельность по предоставлению прочих персональных услуг</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">97</span></td>
+                                                <td><a href="/codes/970000">Деятельность домашних хозяйств с наемными работниками</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">98</span></td>
+                                                <td><a href="/codes/980000">Деятельность недифференцированная частных домашних хозяйств по производству товаров и предоставлению услуг для собственного потребления</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">99</span></td>
+                                                <td><a href="/codes/990000">Деятельность экстерриториальных организаций и органов</a></td>
+                                            </tr>
+                                                                            </table>
+                                    <div class="section__more-link antispoiler">
+                                        <span class="fakelink">Показать все</span>
+                                    </div>
+                                </div>
+
+                                <div class="okved-tabbody">
+                                    <table class="okved-table">
+                                        <tr>
+                                            <th>код <br>оквэд</th>
+                                            <th>вид <br>деятельности</th>
+                                        </tr>
+                                                                                    <tr>
+                                                <td><span class="num">46.9</span></td>
+                                                <td><a href="/codes/469000">Торговля оптовая неспециализированная</a></td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td><span class="num">41.2</span></td>
+                                                <td><a href="/codes/412000">Строительство жилых и нежилых зданий</a></td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td><span class="num">52.29</span></td>
+                                                <td><a href="/codes/522900">Деятельность вспомогательная прочая, связанная с перевозками</a></td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td><span class="num">43.99</span></td>
+                                                <td><a href="/codes/439900">Работы строительные специализированные прочие, не включенные в другие группировки</a></td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td><span class="num">46.73</span></td>
+                                                <td><a href="/codes/467300">Торговля оптовая лесоматериалами, строительными материалами и санитарно-техническим оборудованием</a></td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td><span class="num">82.99</span></td>
+                                                <td><a href="/codes/829900">Деятельность по предоставлению прочих вспомогательных услуг для бизнеса, не включенная в другие группировки</a></td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td><span class="num">43.21</span></td>
+                                                <td><a href="/codes/432100">Производство электромонтажных работ</a></td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td><span class="num">52.1</span></td>
+                                                <td><a href="/codes/521000">Деятельность по складированию и хранению</a></td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td><span class="num">43.39</span></td>
+                                                <td><a href="/codes/433900">Производство прочих отделочных и завершающих работ</a></td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td><span class="num">43.29</span></td>
+                                                <td><a href="/codes/432900">Производство прочих строительно-монтажных работ</a></td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td><span class="num">73.11</span></td>
+                                                <td><a href="/codes/731100">Деятельность рекламных агентств</a></td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td><span class="num">43.31</span></td>
+                                                <td><a href="/codes/433100">Производство штукатурных работ</a></td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td><span class="num">43.22</span></td>
+                                                <td><a href="/codes/432200">Производство санитарно-технических работ, монтаж отопительных систем и систем кондиционирования воздуха</a></td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td><span class="num">70.22</span></td>
+                                                <td><a href="/codes/702200">Консультирование по вопросам коммерческой деятельности и управления</a></td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td><span class="num">43.33</span></td>
+                                                <td><a href="/codes/433300">Работы по устройству покрытий полов и облицовке стен</a></td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td><span class="num">43.32</span></td>
+                                                <td><a href="/codes/433200">Работы столярные и плотничные</a></td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td><span class="num">43.91</span></td>
+                                                <td><a href="/codes/439100">Производство кровельных работ</a></td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td><span class="num">52.24</span></td>
+                                                <td><a href="/codes/522400">Транспортная обработка грузов</a></td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td><span class="num">68.2</span></td>
+                                                <td><a href="/codes/682000">Аренда и управление собственным или арендованным недвижимым имуществом</a></td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td><span class="num">43.34</span></td>
+                                                <td><a href="/codes/433400">Производство малярных и стекольных работ</a></td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td><span class="num">43.11</span></td>
+                                                <td><a href="/codes/431100">Разборка и снос зданий</a></td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td><span class="num">49.41</span></td>
+                                                <td><a href="/codes/494100">Деятельность автомобильного грузового транспорта</a></td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td><span class="num">47.19</span></td>
+                                                <td><a href="/codes/471900">Торговля розничная прочая в неспециализированных магазинах</a></td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td><span class="num">49.4</span></td>
+                                                <td><a href="/codes/494000">Деятельность автомобильного грузового транспорта и услуги по перевозкам</a></td>
+                                            </tr>
+                                                                                    <tr>
+                                                <td><span class="num">47.9</span></td>
+                                                <td><a href="/codes/479000">Торговля розничная вне магазинов, палаток, рынков</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">45.2</span></td>
+                                                <td><a href="/codes/452000">Техническое обслуживание и ремонт автотранспортных средств</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">46.49</span></td>
+                                                <td><a href="/codes/464900">Торговля оптовая прочими бытовыми товарами</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">43.12</span></td>
+                                                <td><a href="/codes/431200">Подготовка строительной площадки</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">69.1</span></td>
+                                                <td><a href="/codes/691000">Деятельность в области права</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">56.1</span></td>
+                                                <td><a href="/codes/561000">Деятельность ресторанов и услуги по доставке продуктов питания</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">42.99</span></td>
+                                                <td><a href="/codes/429900">Строительство прочих инженерных сооружений, не включенных в другие группировки</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">46.4</span></td>
+                                                <td><a href="/codes/464000">Торговля оптовая непродовольственными потребительскими товарами</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">47.11</span></td>
+                                                <td><a href="/codes/471100">Торговля розничная преимущественно пищевыми продуктами, включая напитки, и табачными изделиями в неспециализированных магазинах</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">46.19</span></td>
+                                                <td><a href="/codes/461900">Деятельность агентов по оптовой торговле универсальным ассортиментом товаров</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">43.12.3</span></td>
+                                                <td><a href="/codes/431230">Производство земляных работ</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">46.69</span></td>
+                                                <td><a href="/codes/466900">Торговля оптовая прочими машинами и оборудованием</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">46.73.6</span></td>
+                                                <td><a href="/codes/467360">Торговля оптовая прочими строительными материалами и изделиями</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">43.3</span></td>
+                                                <td><a href="/codes/433000">Работы строительные отделочные</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">68.1</span></td>
+                                                <td><a href="/codes/681000">Покупка и продажа собственного недвижимого имущества</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">46.74</span></td>
+                                                <td><a href="/codes/467400">Торговля оптовая скобяными изделиями, водопроводным и отопительным оборудованием и принадлежностями</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">56.10.1</span></td>
+                                                <td><a href="/codes/561010">Деятельность ресторанов и кафе с полным ресторанным обслуживанием, кафетериев, ресторанов быстрого питания и самообслуживания</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">43.99.1</span></td>
+                                                <td><a href="/codes/439910">Работы гидроизоляционные</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">62.09</span></td>
+                                                <td><a href="/codes/620900">Деятельность, связанная с использованием вычислительной техники и информационных технологий, прочая</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">62.02</span></td>
+                                                <td><a href="/codes/620200">Деятельность консультативная и работы в области компьютерных технологий</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">46.71</span></td>
+                                                <td><a href="/codes/467100">Торговля оптовая твердым, жидким и газообразным топливом и подобными продуктами</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">42.11</span></td>
+                                                <td><a href="/codes/421100">Строительство автомобильных дорог и автомагистралей</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">43.2</span></td>
+                                                <td><a href="/codes/432000">Производство электромонтажных, санитарно-технических и прочих строительно-монтажных работ</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">82.92</span></td>
+                                                <td><a href="/codes/829200">Деятельность по упаковыванию товаров</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">47.1</span></td>
+                                                <td><a href="/codes/471000">Торговля розничная в неспециализированных магазинах</a></td>
+                                            </tr>
+                                                                                    <tr class="spoiler overhidden">
+                                                <td><span class="num">69.2</span></td>
+                                                <td><a href="/codes/692000">Деятельность по оказанию услуг в области бухгалтерского учета, по проведению финансового аудита, по налоговому консультированию</a></td>
+                                            </tr>
+                                                                            </table>
+                                    <div class="section__more-link antispoiler">
+                                        <span class="fakelink">Показать все</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="capability-col">
+                        <div class="capability-col-item subs-box">
+                            <div class="capability-item__header">Найти предпринимателя по алфавитному указателю</div>
+                            <div class="capability-item__expand">
+                                <ul class="letter-list">
+                                                                                                                        <li>
+                                                                                                    <a href="/ip/А">А</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/ip/Б">Б</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/ip/В">В</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/ip/Г">Г</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/ip/Д">Д</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/ip/Е">Е</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/ip/Ё">Ё</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/ip/Ж">Ж</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/ip/З">З</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/ip/И">И</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/ip/Й">Й</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/ip/К">К</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/ip/Л">Л</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/ip/М">М</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/ip/Н">Н</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/ip/О">О</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/ip/П">П</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/ip/Р">Р</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/ip/С">С</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/ip/Т">Т</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/ip/У">У</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/ip/Ф">Ф</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/ip/Х">Х</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/ip/Ц">Ц</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/ip/Ч">Ч</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/ip/Ш">Ш</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/ip/Щ">Щ</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    Ъ
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/ip/Ы">Ы</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    Ь
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/ip/Э">Э</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/ip/Ю">Ю</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/ip/Я">Я</a>
+                                                                                            </li>
+                                                                                                            </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="capability-col">
+                        <div class="capability-col-item subs-box">
+                            <div class="capability-item__header">Найти физическое лицо по алфавитному указателю</div>
+                            <div class="capability-item__expand">
+                                <ul class="letter-list">
+                                                                                                                        <li>
+                                                                                                    <a href="/person/А">А</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/person/Б">Б</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/person/В">В</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/person/Г">Г</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/person/Д">Д</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/person/Е">Е</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/person/Ё">Ё</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/person/Ж">Ж</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/person/З">З</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/person/И">И</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/person/Й">Й</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/person/К">К</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/person/Л">Л</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/person/М">М</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/person/Н">Н</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/person/О">О</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/person/П">П</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/person/Р">Р</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/person/С">С</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/person/Т">Т</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/person/У">У</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/person/Ф">Ф</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/person/Х">Х</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/person/Ц">Ц</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/person/Ч">Ч</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/person/Ш">Ш</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/person/Щ">Щ</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    Ъ
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/person/Ы">Ы</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    Ь
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/person/Э">Э</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/person/Ю">Ю</a>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                    <a href="/person/Я">Я</a>
+                                                                                            </li>
+                                                                                                            </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="capability-col datetimes">
+                        <div class="capability-col-item subs-box">
+                            <div class="capability-item__header">Найти организацию по дате присвоения ОГРН</div>
+                            <div class="capability-item__expand">
+                                <ul class="letter-list">
+                                                                            <li><a href="/date/2022-02-20">2022</a></li>
+                                                                            <li><a href="/date/2021-02-20">2021</a></li>
+                                                                            <li><a href="/date/2020-02-20">2020</a></li>
+                                                                            <li><a href="/date/2019-02-20">2019</a></li>
+                                                                            <li><a href="/date/2018-02-20">2018</a></li>
+                                                                            <li><a href="/date/2017-02-20">2017</a></li>
+                                                                            <li><a href="/date/2016-02-20">2016</a></li>
+                                                                            <li><a href="/date/2015-02-20">2015</a></li>
+                                                                            <li><a href="/date/2014-02-20">2014</a></li>
+                                                                            <li><a href="/date/2013-02-20">2013</a></li>
+                                                                            <li><a href="/date/2012-02-20">2012</a></li>
+                                                                            <li><a href="/date/2011-02-20">2011</a></li>
+                                                                            <li><a href="/date/2010-02-20">2010</a></li>
+                                                                            <li><a href="/date/2009-02-20">2009</a></li>
+                                                                            <li><a href="/date/2008-02-20">2008</a></li>
+                                                                            <li><a href="/date/2007-02-20">2007</a></li>
+                                                                            <li><a href="/date/2006-02-20">2006</a></li>
+                                                                            <li><a href="/date/2005-02-20">2005</a></li>
+                                                                            <li><a href="/date/2004-02-20">2004</a></li>
+                                                                            <li><a href="/date/2003-02-20">2003</a></li>
+                                                                            <li><a href="/date/2002-02-06">2002</a></li>
+                                                                    </ul>
+                                <ul class="letter-list months">
+                                                                            <li><a href="/date/2023-01-20">Январь 2023</a></li>
+                                                                            <li><a href="/date/2022-12-20">Декабрь 2022</a></li>
+                                                                            <li><a href="/date/2022-11-20">Ноябрь 2022</a></li>
+                                                                            <li><a href="/date/2022-10-20">Октябрь 2022</a></li>
+                                                                            <li><a href="/date/2022-09-20">Сентябрь 2022</a></li>
+                                                                            <li><a href="/date/2022-08-20">Август 2022</a></li>
+                                                                            <li><a href="/date/2022-07-20">Июль 2022</a></li>
+                                                                            <li><a href="/date/2022-06-20">Июнь 2022</a></li>
+                                                                            <li><a href="/date/2022-05-20">Май 2022</a></li>
+                                                                            <li><a href="/date/2022-04-20">Апрель 2022</a></li>
+                                                                            <li><a href="/date/2022-03-20">Март 2022</a></li>
+                                                                            <li><a href="/date/2022-02-20">Февраль 2022</a></li>
+                                                                    </ul>
+                                <ul class="letter-list days">
+                                                                            <li>
+                                                                                            19.02
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date/2023-02-18">18.02</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date/2023-02-17">17.02</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date/2023-02-16">16.02</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date/2023-02-15">15.02</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date/2023-02-14">14.02</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date/2023-02-13">13.02</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date/2023-02-12">12.02</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date/2023-02-11">11.02</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date/2023-02-10">10.02</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date/2023-02-09">09.02</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date/2023-02-08">08.02</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date/2023-02-07">07.02</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date/2023-02-06">06.02</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date/2023-02-05">05.02</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date/2023-02-04">04.02</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date/2023-02-03">03.02</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date/2023-02-02">02.02</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date/2023-02-01">01.02</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date/2023-01-31">31.01</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date/2023-01-30">30.01</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date/2023-01-29">29.01</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date/2023-01-28">28.01</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date/2023-01-27">27.01</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date/2023-01-26">26.01</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date/2023-01-25">25.01</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date/2023-01-24">24.01</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date/2023-01-23">23.01</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date/2023-01-22">22.01</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date/2023-01-21">21.01</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date/2023-01-20">20.01</a>
+                                                                                    </li>
+                                                                    </ul>
+                                <p><span class="nowdate">19 февраля 2023</span> Зарегистрировано организаций: <span>0</span></p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="capability-col datetimes">
+                        <div class="capability-col-item subs-box">
+                            <div class="capability-item__header">Найти индивидуального предпринимателя по дате присвоения ОГРНИП</div>
+                            <div class="capability-item__expand">
+                                <ul class="letter-list">
+                                                                            <li><a href="/date-ip/2022-02-20">2022</a></li>
+                                                                            <li><a href="/date-ip/2021-02-20">2021</a></li>
+                                                                            <li><a href="/date-ip/2020-02-20">2020</a></li>
+                                                                            <li><a href="/date-ip/2019-02-20">2019</a></li>
+                                                                            <li><a href="/date-ip/2018-02-20">2018</a></li>
+                                                                            <li><a href="/date-ip/2017-02-20">2017</a></li>
+                                                                            <li><a href="/date-ip/2016-02-20">2016</a></li>
+                                                                            <li><a href="/date-ip/2015-02-20">2015</a></li>
+                                                                            <li><a href="/date-ip/2014-02-20">2014</a></li>
+                                                                            <li><a href="/date-ip/2013-02-20">2013</a></li>
+                                                                            <li><a href="/date-ip/2012-02-20">2012</a></li>
+                                                                            <li><a href="/date-ip/2011-02-19">2011</a></li>
+                                                                            <li><a href="/date-ip/2010-02-20">2010</a></li>
+                                                                            <li><a href="/date-ip/2009-02-20">2009</a></li>
+                                                                            <li><a href="/date-ip/2008-02-20">2008</a></li>
+                                                                            <li><a href="/date-ip/2007-02-20">2007</a></li>
+                                                                            <li><a href="/date-ip/2006-02-20">2006</a></li>
+                                                                            <li><a href="/date-ip/2005-02-20">2005</a></li>
+                                                                            <li><a href="/date-ip/2004-02-20">2004</a></li>
+                                                                            <li><a href="/date-ip/2003-01-01">2003</a></li>
+                                                                            <li><a href="/date-ip/2001-04-26">2002</a></li>
+                                                                            <li><a href="/date-ip/2001-02-20">2001</a></li>
+                                                                    </ul>
+                                <ul class="letter-list months">
+                                                                            <li><a href="/date-ip/2023-01-20">Январь 2023</a></li>
+                                                                            <li><a href="/date-ip/2022-12-20">Декабрь 2022</a></li>
+                                                                            <li><a href="/date-ip/2022-11-20">Ноябрь 2022</a></li>
+                                                                            <li><a href="/date-ip/2022-10-20">Октябрь 2022</a></li>
+                                                                            <li><a href="/date-ip/2022-09-20">Сентябрь 2022</a></li>
+                                                                            <li><a href="/date-ip/2022-08-20">Август 2022</a></li>
+                                                                            <li><a href="/date-ip/2022-07-20">Июль 2022</a></li>
+                                                                            <li><a href="/date-ip/2022-06-20">Июнь 2022</a></li>
+                                                                            <li><a href="/date-ip/2022-05-20">Май 2022</a></li>
+                                                                            <li><a href="/date-ip/2022-04-20">Апрель 2022</a></li>
+                                                                            <li><a href="/date-ip/2022-03-20">Март 2022</a></li>
+                                                                            <li><a href="/date-ip/2022-02-20">Февраль 2022</a></li>
+                                                                    </ul>
+                                <ul class="letter-list days">
+                                                                            <li>
+                                                                                            19.02
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date-ip/2023-02-18">18.02</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date-ip/2023-02-17">17.02</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date-ip/2023-02-16">16.02</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date-ip/2023-02-15">15.02</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date-ip/2023-02-14">14.02</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date-ip/2023-02-13">13.02</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date-ip/2023-02-12">12.02</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date-ip/2023-02-11">11.02</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date-ip/2023-02-10">10.02</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date-ip/2023-02-09">09.02</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date-ip/2023-02-08">08.02</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date-ip/2023-02-07">07.02</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date-ip/2023-02-06">06.02</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date-ip/2023-02-05">05.02</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date-ip/2023-02-04">04.02</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date-ip/2023-02-03">03.02</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date-ip/2023-02-02">02.02</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date-ip/2023-02-01">01.02</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date-ip/2023-01-31">31.01</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date-ip/2023-01-30">30.01</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date-ip/2023-01-29">29.01</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date-ip/2023-01-28">28.01</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date-ip/2023-01-27">27.01</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date-ip/2023-01-26">26.01</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date-ip/2023-01-25">25.01</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date-ip/2023-01-24">24.01</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date-ip/2023-01-23">23.01</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date-ip/2023-01-22">22.01</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date-ip/2023-01-21">21.01</a>
+                                                                                    </li>
+                                                                            <li>
+                                                                                            <a href="/date-ip/2023-01-20">20.01</a>
+                                                                                    </li>
+                                                                    </ul>
+                                <p><span class="nowdate">19 февраля 2023</span> Зарегистрировано индивидуальных предпринимателей: <span>0</span></p>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+    </div>
+
+
+
+                            
+                    <footer class="footer lazyload">
+    <div class="container">
+        <div class="footer-inner ">
+            <a href="/" class="footer-logo" title="Rusprofile.ru - информация о российских юридических лицах и предпринимателях">
+                <span class="text">Rusprofile.ru - информация о российских юридических лицах и предпринимателях</span>
+            </a>
+            <nav>
+                <span><a href="/about">О проекте</a></span>
+                <span><a href="/team">Команда</a></span>
+                <span><a href="/jobs"  data-notice="2">Вакансии</a></span>
+                <span><a href="/articles">Новости и статьи</a></span>
+                <span><a href="/sources">Источники данных</a></span>
+                <span><a href="/egrul-fns">Выписка из ЕГРЮЛ</a></span>
+                <span><a href="/codes/">Организации</a></span>
+                <span><a href="/ip/">Предприниматели</a></span>
+            </nav>
+            <div class="footer-bottom">
+                <div class="footer-bottom-part">
+                    <span class="copy">
+                        Rusprofile.ru
+                        <span class="new-line">
+                            © 2013-2023
+                        </span>
+                    </span>
+
+                                            <a href="https://sk.ru/" target="_blank" rel="nofollow" class="footer-partner"></a>
+                                    </div>
+                <nav>
+                    <span style="order: 1;"><a href="/support/rules.html" class="tablet-wrap">Пользовательское соглашение</a></span>
+                    <span style="order: 3;"><a href="/support/terms.html">Основания размещения информации</a></span>
+                    <span style="order: 2;"><a href="/support/privacy.html" class="tablet-wrap">Политика конфиденциальности</a></span>
+                    <span style="order: 4;"><a href="https://baturin.ru?rp" rel="nofollow" target="_blank">Дизайн B-G</a> © 2018</span>
+                    <span style="order: 5;"><a href="/support/contact" data-open-mw-support data-after-sbm="feedback_click">Обратная связь</a></span>
+                </nav>
+
+
+
+                            </div>
+        </div>
+    </div>
+    <div class="illustrate-hero illustrate-hero-footer-l"></div>
+    <div class="illustrate-hero illustrate-hero-footer-r"></div>
+</footer>
+
+        <a href="/support/contact" id="feedback-bbl" data-open-mw-support class="feedback-bbl min hidden" data-after-sbm="">
+    <span class="ico ico-m">
+        <svg width="24" height="26" viewBox="0 0 24 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M21 0.990784H3C1.3125 0.990784 0 2.35016 0 3.99078V17.4908C0 19.1783 1.3125 20.4908 3 20.4908H7.5V24.4283C7.5 24.897 8.01562 25.1783 8.39062 24.897L14.25 20.4908H21C22.6406 20.4908 24 19.1783 24 17.4908V3.99078C24 2.35016 22.6406 0.990784 21 0.990784ZM13.5 13.3658C13.5 13.6002 13.3125 13.7408 13.125 13.7408H6.375C6.14062 13.7408 6 13.6002 6 13.3658V12.6158C6 12.4283 6.14062 12.2408 6.375 12.2408H13.125C13.3125 12.2408 13.5 12.4283 13.5 12.6158V13.3658ZM18 8.86578C18 9.10016 17.8125 9.24078 17.625 9.24078H6.375C6.14062 9.24078 6 9.10016 6 8.86578V8.11578C6 7.92828 6.14062 7.74078 6.375 7.74078H17.625C17.8125 7.74078 18 7.92828 18 8.11578V8.86578Z" fill="white"/>
+        </svg>
+    </span>
+    </a>
+        
+                    <div id="prohibition-wrp"></div>
+            </div>
+
+    <script>var rp_user_id = undefined;</script>
+
+
+            
+
+        <script>
+            _searchParams = {"delay":"100","minDelay":"500"};        </script>
+            <script>
+                RPF.main_page = true;
+        RPF.PHText = {
+            desktop: 'Искать по названию, адресу, руководителю, учредителям, ОГРН и ИНН',
+            tablet: 'Искать по названию, адресу, ФИО, ОГРН и ИНН',
+            mobile: 'Название, адрес, руководитель'
+        };
+    </script>
+
+                    <script>
+                
+                RPF.iconsVer = 'f7ed2e01f5fda2fbe7e721a75de92a12';
+                RPF.screenlimit1 = 767;
+                RPF.screenlimit2 = 1199;
+                                                                                                RPF.store.user = {"id":null,"mail":null,"name":null,"confirmed":false,"token":null,"has_pro":false};
+                RPF.hit_time = 1676889549;                                                                                                                                                                RPF.rpf5558 = 1;                                                                                                                RPF.rpf6253 = Boolean();
+                                                                                                            </script>
+
+                <script src="/assets/main.js?v=a927802ceb945b8f16bc78f23a9c4e57" async></script>
+        <script>
+                        window.allow_quetip_mask = 1;
+                                    if (typeof(window.yaParams) === 'undefined' || !window.yaParams) { window.yaParams = {}; }
+            window.yaParams['PaidAccess'] = 0;
+            window.yaParams['PaidAccessType'] = 0;
+            window.yaParams['PaidAccessTariffTerm'] = 0;
+                                    window.yaParams['NoAd'] = 1;
+                                </script>
+
+        <!-- Google Tag Manager --
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NQJPVZZ');</script>
+-- End Google Tag Manager -->
+    
+    <!-- Google Tag Manager (noscript) --
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NQJPVZZ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+-- End Google Tag Manager (noscript) -->
+
+    <div>                <link rel="dns-prefetch" href="https://mc.yandex.ru/">
+<link rel="preload" href="https://mc.yandex.ru/metrika/tag.js" as="script">
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+const isOurSite = window.location.hostname.match(/\.rusprofile\.ru$/);
+const isTestSite = window.location.hostname.indexOf('test') !== -1;
+const isStaffDevice = document.cookie.match(/(?:^|; )rpf5830-is-staff=1(?:$|;)/);
+if (isOurSite && (!isStaffDevice || isTestSite)) {
+(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(39561835, "init", { id:39561835, clickmap:false, trackLinks:false, accurateTrackBounce:true, webvisor:true, trackHash:false, userParams: { UserID: window.rp_user_id }, params: window.yaParams||{}}); 
+}
+</script> <noscript><div><img src="https://mc.yandex.ru/watch/39561835" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!--LiveInternet counter-->
+<script type="text/javascript">
+<!--
+new Image().src = "//counter.yadro.ru/hit?r" +
+escape(document.referrer) + ((typeof (screen) == "undefined") ? "" :
+";s" + screen.width + "*" + screen.height + "*" + (screen.colorDepth ?
+screen.colorDepth : screen.pixelDepth)) + ";u" + escape(document.URL) +
+";h" + escape(document.title.substring(0, 80)) +
+";" + Math.random();//-->
+</script>
+<!--/LiveInternet-->
+
+<script id="ngtm_gsc" type="text/javascript" async src="//l.getsitecontrol.com/l4693d4m.js"></script>
+
+<script>
+
+    (function() {
+
+        window.gsc=window.gsc||function(){
+
+            (gsc.q=gsc.q||[]).push(arguments)
+
+        };
+
+        var yaParams = window.yaParams||{};
+
+        var gscParams = {};
+
+        var keys = ['PaidAccess', 'PaidAccessType', 'UserID'];
+
+        var gscParamsEmpty = true;
+
+        for (var i=0; i<keys.length; i++) {
+
+            var key = keys[i];
+
+            if (yaParams.hasOwnProperty(key)) {
+
+                gscParams[key] = yaParams[key];
+
+                gscParamsEmpty = false;
+
+            }
+
+        }
+
+        if (RPF && RPF.rp_user_age) {
+            gscParams['UserAge'] = Math.floor(RPF.rp_user_age/86400);
+        }
+
+        if (typeof page_description !== 'undefined' && page_description.paid_subscription_expires) {
+
+            gscParams['PaidSubscriptionExpires'] = page_description.paid_subscription_expires;
+
+            gscParamsEmpty = false;
+
+        }
+
+        gscParams['UserIDMod10'] = gscParams['UserID'] % 10;
+                if ('ym' in window) {
+                    ym(39561835, 'getClientID', function(clientId) { gscParams['ClientID'] = clientId; } );
+            }
+
+
+        if (!gscParamsEmpty) {
+
+            gsc('params', gscParams);
+
+        }
+
+    }());
+
+</script>
+<script type="text/javascript">
+    window.ga4 = window.ga4 || {
+        measurementId: 'G-CBJ78TZ8LE',
+        _onLoadCallbacks: [],
+        onLoad(callback) {
+            this._onLoadCallbacks.push(callback);
+        }
+    };
+</script>
+
+<!--
+<link rel="dns-prefetch" href="https://www.googletagmanager.com/">
+<link rel="preload" href="https://www.googletagmanager.com/gtm.js?id=GTM-NQJPVZZ" as="script">
+-->            </div>
+    <div id="v-root"></div>
+    <svg id="svg_defs"><defs></defs></svg></body>
+</html>

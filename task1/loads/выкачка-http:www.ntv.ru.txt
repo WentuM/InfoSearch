@@ -1,0 +1,3590 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "//www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="//www.w3.org/1999/xhtml" xml:lang="en" lang="ru" prefix="ya: //webmaster.yandex.ru/vocabularies/">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+  
+  <title>НТВ.Ru // Новости, видео, передачи телеканала НТВ, онлайн-вещание НТВ, программа передач</title>
+  <script  type="text/javascript">
+    var AIR = {}; AIR.player = true;
+    if (window.outerWidth < 970) {
+      var mImg = {}, w = window.outerWidth, hVideo = Math.ceil(w*16/9), node = document.createElement('style'); node.innerHTML = "#bigstorieslist li, #bigstorieslist .vdo { height: "+hVideo+"px; }";
+      var w1 = (w-40)/2, h1 = Math.ceil(w1*9/16); mImg.width = w*9/10; mImg.height = Math.ceil(mImg.width*9/16); node.innerHTML += "#newcontent { height: "+(h1+20)+"px; }";
+      document.head.appendChild(node);
+    }
+  </script>
+  <meta property="fb:pages" content="100144730045043" />
+  <meta name="ermp-site-verification" value="f614e964-a709-4a8a-805e-fa0f6709e284">
+  <!-- Yandex.Metrika counter --> <script type="text/javascript" > (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(7414054, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, trackHash:true, ecommerce:"dataLayer",triggerEvent: true }); </script> <noscript><div><img src="https://mc.yandex.ru/watch/7414054" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+  <!-- Yandex.Metrika counter --> <script type="text/javascript" > (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(49480549, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, trackHash:true }); </script> <!-- /Yandex.Metrika counter -->
+
+  
+  <script async src="https://yandex.ru/ads/system/header-bidding.js"></script>
+  <script>
+    var adfoxBiddersMap = { 
+      myTarget: "867892", 
+      betweenDigital: "867894", 
+      adriver: "1267778", 
+      "adfox_roden-media": "1591857", 
+      adfox_mttech: "1551425",
+      "adfox_yandex_premium-publisher-network": "2023818",
+      adfox_adsmart: "1639577",
+      getintent: "1620836",
+    };
+
+    var adUnits = [
+      {
+        codeType: "instream",
+        code: "videocontainer_hb",
+        bids: [
+          { bidder: "adfox_roden-media", params: { p1: "codta", p2: "gjlz" }, adBreakTypes: ["preroll", "midroll", "postroll"] },
+          { bidder: "adfox_mttech", params: { p1: "comze", p2: "gdol" }, adBreakTypes: ["preroll", "midroll", "postroll"] },
+          { bidder: "adfox_yandex_premium-publisher-network", params: { p1: "cvmuk", p2: "htbz" }, adBreakTypes: ["preroll", "midroll", "postroll"] }
+        ],
+      },
+    ];
+    var userTimeout = 1000;
+
+    window.YaHeaderBiddingSettings = { 
+      biddersMap: adfoxBiddersMap, 
+      adUnits: adUnits, 
+      timeout: userTimeout
+    };
+  </script>
+  <script>
+    window.Ya || (window.Ya = {});
+    window.yaContextCb = window.yaContextCb || [];
+    window.Ya.adfoxCode || (window.Ya.adfoxCode = {});
+    window.Ya.adfoxCode.hbCallbacks || (window.Ya.adfoxCode.hbCallbacks = []);
+  </script>
+  <script src="https://yandex.ru/ads/system/context.js" async></script>
+  <script type="text/javascript" src="//static.wi-fi.ru/mtt/banners/libs/1.7.4/all.js"></script>
+
+
+  
+  <meta http-equiv="x-dns-prefetch-control" content="on" />
+  <meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+  <meta http-equiv="Content-Language" content="ru" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="telegram:channel" content="@ntvnews" />
+  <meta name="msvalidate.01" content="7CE27288088CB29130CE54218DE04196" />
+  <meta name="yandex-verification" content="847f9c4f6d1da5e1" />
+  <meta name="yandex-verification" content="ff7d80f7b0440a46" />
+  <meta name="description" content="НТВ новости события программа" />
+  <meta NAME="keywords" content="НТВ,новости,события,программа,Европа, артисты, Белгородская область, банки, вооружение, Германия, дипломатия, армия и флот РФ, болезни, Facebook, выборы, войны и вооруженные конфликты, армии мира, Байден, ДТП, Instagram, дети и подростки, ДНР, беженцы" />
+  
+  <meta property="og:url" content="https://www.ntv.ru/" />
+<meta property="og:image" content="https://www.ntv.ru/images/logo1024.png" />
+<meta property="og:image:width" content="1024" /><meta property="og:image:height" content="1024" />
+<meta property="og:site_name" content="НТВ.Ru // Новости, видео, передачи телеканала НТВ, онлайн-вещание НТВ, программа передач" />
+<meta property="og:type" content="website" />
+<meta property="fb:app_id" content="398092463538505" />
+<link rel="canonical" href="https://www.ntv.ru/" />
+<meta name="apple-itunes-app" content="app-id=720725187" />
+  <link rel="shortcut icon" href="//ntv-static.cdnvideo.ru/favicon.ico" type="image/x-icon" />
+  <link rel="mask-icon" href="//ntv-static.cdnvideo.ru/images/logo5.svg" color="#000" />
+  <link rel="apple-touch-icon" sizes="57x57" href="//ntv-static.cdnvideo.ru/images/favicons/apple-touch-icon-57x57.png" />
+  <link rel="apple-touch-icon" sizes="60x60" href="//ntv-static.cdnvideo.ru/images/favicons/apple-touch-icon-60x60.png" />
+  <link rel="apple-touch-icon" sizes="72x72" href="//ntv-static.cdnvideo.ru/images/favicons/apple-touch-icon-72x72.png" />
+  <link rel="apple-touch-icon" sizes="76x76" href="//ntv-static.cdnvideo.ru/images/favicons/apple-touch-icon-76x76.png" />
+  <link rel="apple-touch-icon" sizes="114x114" href="//ntv-static.cdnvideo.ru/images/favicons/apple-touch-icon-114x114.png" />
+  <link rel="apple-touch-icon" sizes="120x120" href="//ntv-static.cdnvideo.ru/images/favicons/apple-touch-icon-120x120.png" />
+  <link rel="apple-touch-icon" sizes="144x144" href="//ntv-static.cdnvideo.ru/images/favicons/apple-touch-icon-144x144.png" />
+  <link rel="apple-touch-icon" sizes="152x152" href="//ntv-static.cdnvideo.ru/images/favicons/apple-touch-icon-152x152.png" />
+  <link rel="apple-touch-icon" sizes="180x180" href="//ntv-static.cdnvideo.ru/images/favicons/apple-touch-icon-180x180.png" />
+  <link rel="icon" type="image/png" href="//ntv-static.cdnvideo.ru/images/favicons/favicon-32x32.png" sizes="32x32" />
+  <link rel="icon" type="image/png" href="//ntv-static.cdnvideo.ru/images/favicons/favicon-194x194.png" sizes="194x194" />
+  <link rel="icon" type="image/png" href="//ntv-static.cdnvideo.ru/images/favicons/favicon-96x96.png" sizes="96x96" />
+  <link rel="icon" type="image/png" href="//ntv-static.cdnvideo.ru/images/favicons/android-chrome-192x192.png" sizes="192x192" />
+  <link rel="icon" type="image/png" href="//ntv-static.cdnvideo.ru/images/favicons/favicon-16x16.png" sizes="16x16" />
+  <!--link rel="manifest" href="//ntv-static.cdnvideo.ru/images/favicons/android-chrome-manifest.json" />
+  <link rel="manifest" href="https://my.ntv.ru/gcm/manifest.json" /-->
+  <link rel="manifest" href="/push/manifest.json?v20200618" />
+  <meta name="msapplication-TileColor" content="#23b144" />
+  <meta name="msapplication-TileImage" content="//ntv-static.cdnvideo.ru/images/favicons/mstile-144x144.png" />
+  <meta name="theme-color" content="#259c39" />
+  <meta name="robots" content="max-image-preview:large, max-video-preview:30" />
+  <link rel="alternate" type="application/rss+xml" title="НТВ. Новости" href="https://www.ntv.ru/exp/newsrss.jsp" />
+  <link rel="alternate" type="application/rss+xml" title="НТВ. Телепрограмма" href="https://www.ntv.ru/exp/schedulerss.jsp" />
+  <link rel="alternate" type="application/rss+xml" title="НТВ. Фильмы на неделе" href="https://www.ntv.ru/exp/moviesrss.jsp" />
+  <link rel="alternate" type="application/rss+xml" title="НТВ. Сериалы" href="https://www.ntv.ru/exp/soaprss.jsp" />
+  <link rel="preconnect" href="//ntv-static.cdnvideo.ru/" crossorigin />
+  <link rel="preconnect" href="//fonts.googleapis.com/" crossorigin />
+  <link rel="preconnect" href="//ads.betweendigital.com" crossorigin />
+  <link rel="preconnect" href="//ad.mail.ru/" crossorigin />
+
+  
+<link rel="stylesheet" type="text/css" href='//ntv-static.cdnvideo.ru/css/webpack-minification/public/08feb2017-min.css?v20221111' />
+<link rel="stylesheet" type="text/css" href='//ntv-static.cdnvideo.ru/css/webpack-minification/public/second-min.css?v20221111' />
+<link id="s1300" rel="stylesheet" media="(min-width: 1300px)" href='//ntv-static.cdnvideo.ru/css/webpack-minification/public/s1300px-min.css?v20221111' />
+<link id="s970" rel="stylesheet" media="(max-width: 1299px)" href='//ntv-static.cdnvideo.ru/css/webpack-minification/public/s970px-min.css?v20221111' />
+<link id="s400" rel="stylesheet" media="(max-width: 969px)" href='//ntv-static.cdnvideo.ru/css/webpack-minification/public/s400px-min.css?v20221111' />
+
+
+  
+<link rel="stylesheet" type="text/css" href="//ntv-static.cdnvideo.ru/css/print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="//ntv-static.cdnvideo.ru/css/thickbox.css" />
+<link rel="stylesheet" type="text/css" href="//ntv-static.cdnvideo.ru/css/popups.css" />
+<link rel="stylesheet" type="text/css" href="//ntv-static.cdnvideo.ru/exp/facebook/facebook.css" />
+
+
+
+<link rel="stylesheet" type="text/css" href='//ntv-static.cdnvideo.ru/css/webpack-minification/public/vps-min.css?v20221111' />
+<link rel="stylesheet" type="text/css" href="//ntv-static.cdnvideo.ru/css/kvp.css">
+
+
+
+
+  <script type="text/javascript" src="//ntv-static.cdnvideo.ru/js/all.js?v20200528"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+  <script type="text/javascript" src="//ntv-static.cdnvideo.ru/js/jquery.scrollTo.min.js"></script>
+  
+  <!--script type="text/javascript" src="//ntv-static.cdnvideo.ru/js/jquery.cfelement.js"></script>
+  <script-- defer type="text/javascript" src="//ntv-static.cdnvideo.ru/exp/social/social_share.js?v20200824"></script-->
+  <!--script type="text/javascript" src="//ntv-static.cdnvideo.ru/exp/facebook/facebook.js"></script-->
+  <script type="text/javascript" src="//ntv-static.cdnvideo.ru/js/jquery.easing.1.3.js"></script>
+  <script type="text/javascript" src="//ntv-static.cdnvideo.ru/js/scripts.js?v20220312"></script>
+  
+
+  <script type="text/javascript" src="//vk.com/js/api/openapi.js?121"></script>
+
+
+
+
+  <script type="text/javascript" src="//ntv-static.cdnvideo.ru/js/jquery.cfelement.js"></script>
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+<script type="text/javascript" src="//ntv-static.cdnvideo.ru/js/player5.js?update=20201228"></script>
+<script type="text/javascript" src="//ntv-static.cdnvideo.ru/js/tns_counter.js?v2"></script>
+
+<script type="text/javascript" src="//ntv-static.cdnvideo.ru/js/jquery.lazy.min.js"></script>
+<script async type="text/javascript" src="//ntv-static.cdnvideo.ru/push/analytics-helper_v2.js"></script>
+<script async type="text/javascript" src="//ntv-static.cdnvideo.ru/push/push_loader_v2.js?v20200618.3"></script>
+<script async src="https://an.yandex.ru/system/widget.js"></script>
+</head>
+<body class="firstpage">
+
+<!-- GPM_Ntv.ru_D_Branding --> 
+<div id="adfox_158712796103179977"></div>
+<div id="adfox_160553551388831372"></div>
+
+<script>
+(function() {
+  if (window.navigator.userAgent.toLowerCase().indexOf("lighthouse") == -1 &&
+  window.location.pathname.indexOf("/novosti/2568864") == -1 && window.location.pathname.indexOf("/video/2019502") == -1
+  && window.location.pathname.indexOf("/air/putin2021") == -1 && window.location.pathname.indexOf("/kompania/rabota") == -1) {
+  
+    var brandingWidth = document.getElementsByTagName("body")[0].offsetWidth;
+    var sw = "narrow";
+    if ((brandingWidth >= 1200 && brandingWidth < 1300)  || brandingWidth >= 1700) { sw = "wide"; }
+    var brandingPageNumber = 1;
+    var brandingPageNumberCookie = getCookieValue("brandingPageNumber");
+    if(brandingPageNumberCookie != null) { 
+        brandingPageNumber = parseInt(brandingPageNumberCookie);
+        brandingPageNumber++;
+    }
+    createOneCookie("brandingPageNumber", brandingPageNumber);
+
+     window.yaContextCb.push(()=>{
+        Ya.adfoxCode.createAdaptive({
+        ownerId: 277740,
+        containerId: 'adfox_158712796103179977',
+        params: {
+            p1: 'cjwxv',
+            p2: 'gdyh',
+            pk: sw
+        },
+        onRender: function() {
+
+          var cssId = 'brndCss';
+          if (!document.getElementById(cssId))
+          {
+              var head  = document.getElementsByTagName('head')[0];
+              var link  = document.createElement('link');
+              link.id   = cssId;
+              link.rel  = 'stylesheet';
+              link.type = 'text/css';
+              link.href = '/css/branding.css?20200827';
+              link.media = 'all';
+              head.appendChild(link);
+          }
+          
+        },
+        onStub: function() {
+          console.log ("Branding onStub");
+        }
+    }, ['desktop'], {
+        tabletWidth: 970,
+        phoneWidth: 969,
+        isAutoReloads: false
+        })
+    })
+
+  window.yaContextCb.push(()=>{
+        Ya.adfoxCode.createAdaptive({
+        ownerId: 277740,
+        containerId: 'adfox_160553551388831372',
+        params: {
+            p1: 'cncnk',
+            p2: 'gdyj',
+            pk: brandingPageNumber
+        }
+    }, ['desktop'], {
+        tabletWidth: 970,
+        phoneWidth: 969,
+        isAutoReloads: false
+        })
+    })
+  }
+})();
+</script>
+
+<script>
+
+    var BNRS = {};
+    BNRS.wdth = document.getElementsByTagName("body")[0].offsetWidth;
+    BNRS.b240x1 = 0;
+    BNRS.b240x2 = 0;
+  BNRS.show = 1;
+  BNRS.keywords = $('meta[name=keywords]').attr("content");
+  var tmparr =  unique(BNRS.keywords.split(/,|, | /));
+  tmparr.splice(10, tmparr.length);
+  BNRS.keywords = tmparr.join(" ");
+
+  if(jQuery.browser.mobile &&
+      window.navigator.userAgent.toLowerCase().indexOf("lighthouse") == -1 &&
+      (window.location.pathname.indexOf("air/tomb2021") == -1 &&
+      window.location.pathname !== "/" && 
+      window.location.pathname.indexOf("/air/ntv") === -1 && 
+      window.location.pathname.indexOf("/serial/Pes/texts/88181") == -1 && 
+      window.location.pathname.indexOf("/novosti/2568864") == -1 &&
+      window.location.pathname.indexOf("/video/2019502") == -1 &&
+      window.location.pathname.indexOf("/air/putin2021") == -1 &&
+      window.location.pathname != "/peredacha/25let/internal/70441/" && window.location.pathname.indexOf("/peredacha/Superstar") == -1) && 
+      BNRS.show == 1) {
+
+    var abProcess = 'a';
+    var abCookie = getCookieValue("abTestCookie");
+    if(abCookie == null) { 
+        var abProcess = Math.random() > 0.01 ? 'a' : 'b';
+        createCookie("abTestCookie", abProcess);
+    } else {
+        abProcess = abCookie;
+        if(abProcess != 'b') abProcess = 'a';
+    }
+
+    if(abProcess == 'a') {
+      console.info ("abTestCookie A");
+      //default
+
+      window.MTT.fullscreen({
+        adfox: {
+          ownerId: 277740,
+          params: {
+            p1: 'ccokf',
+            p2: 'gdxc'
+          },
+          onClose: () => {
+              var fs = document.getElementsByClassName("mtt-fullscreen")[0];
+              fs.remove();
+          },
+        },
+        adfoxHeaderBidding: {
+          units: [
+            {
+              sizes: [[240, 400],[300, 250],[300, 600]],
+              bids: [
+                { bidder: "myTarget", params: { placementId: "811787" }},
+                { bidder: "betweenDigital", params: { placementId: "3923245" }},
+                { bidder: "adriver", params: { placementId: "40:GPM_ntv_M_Fullscreen" }},
+                { bidder: "adfox_adsmart", params: { p1: "cqqao", p2: "ul" }},
+                { bidder: "getintent", params: { placementId: "215_GPM_Ntv.ru_M_Fullscreen_240x400" } },
+              ]
+            }
+          ]
+        }
+        }).run({
+        banner: {
+          skipButtonTimer: 3,
+        },
+      });
+
+    }
+
+    ym(7414054, 'userParams', { "ab" : abProcess}); 
+    ym(49480549, 'userParams', { "ab" : abProcess});
+
+  }
+
+</script>
+
+<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "916045", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div style="position:absolute;left:-10000px;">
+<img src="//top-fwz1.mail.ru/counter?id=916045;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+<style>#dragcomm {display:none!important;}</style>
+<div id="fb-root" class="fb-root"></div>
+<script type="text/javascript"> 
+<!-- 
+ window.rb_innerhtml=1;
+ var _adsPreview = -1;
+ 
+var rtmpStream = 'rtmp://ntv.cdnvideo.ru/ntv/airstream0013_hd?e=1677494301&md5=rbaGVGS353vV2xS_fbFLsw';
+var hlsURL = 'https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8?filter.tracks=v2v1v3v4v5a1l1t1';
+var dashURL = 'https://ntv-mpd-orig.cdnvideo.ru/ntv0_hd/index.mpd?filter.tracks=v2v1v3v4v5a1l1t1';
+var loHlsURL = 'https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8?filter.tracks=v3v4v5a1l1t1';
+var loDashURL = 'https://ntv-mpd-orig.cdnvideo.ru/ntv0_hd/index.mpd?filter.tracks=v3v4v5a1l1t1';
+
+
+var serverTimeZ = 1676889501;
+var orbitaMskHourOffsetZ = 0
+;
+var clientTimeZ = Math.floor(Date.now() / 1000);
+var orbita = "1";
+
+ var serialHlsURL = '//ntv-hls-orig.cdnvideo.ru/th_serial/index.m3u8';
+var serialDashURL = '//ntv-mpd-orig.cdnvideo.ru/th_serial/index.mpd';
+var styleHlsURL = '//ntv-hls-orig.cdnvideo.ru/th_style/index.m3u8';
+var styleDashURL = '//ntv-mpd-orig.cdnvideo.ru/th_style/index.mpd';
+var pravoHlsURL = '//ntv-hls-orig.cdnvideo.ru/th_pravo/index.m3u8';
+var pravoDashURL = '//ntv-mpd-orig.cdnvideo.ru/th_pravo/index.mpd';
+var hitHlsURL = '//ntv-hls-orig.cdnvideo.ru/th_hit/index.m3u8';
+var hitDashURL = '//ntv-mpd-orig.cdnvideo.ru/th_hit/index.mpd';
+var hdHlsURL = '//ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8?filter.tracks=v3v4v5a1l1t1';
+var hdDashURL = '//ntv-mpd-orig.cdnvideo.ru/ntv0_hd/index.mpd?filter.tracks=v3v4v5a1l1t1';
+
+  VK.init({apiId: 2396313, onlyWidgets: true});
+// -->
+</script>
+
+
+
+<div id="newcontentout">
+  <div id="newcontent">
+    <div id="newplayer">
+      <div id="airDiv"></div>
+      <ul id="ecntrl"><li><a href="javascript:void(0)" id="b_play" class="play">play/pause</a></li><li><a href="javascript:void(0)" id="b_mute" class="mute">volume</a></li><li><a href="/air/ntv/" id="b_size">size</a></li></ul>
+      <div id="tophead"><div class="title"></div><div class="topbox"></div><div id="contract"></div></div>
+      <ul id="channels"><li class="ch1"><div id="efirplace">ТВ-Эфир</div></li><li class="ch2"><big>Стиль</big></li><li class="ch3"><big>Право</big></li><li  class="ch4"><big>Сериал</big></li></ul>
+    </div>
+  </div>
+</div>
+
+
+<div id="flamur1" style="margin:auto;">
+  <div id="adfox_155299263075599967"></div>
+</div>
+
+<script type="text/javascript">
+    // <![CDATA[
+  var b240x1 = 0, b240x2 = 0;
+
+  $(function() {
+
+    var mURL = window.location.pathname.split( '/' );
+    var menu = $('#adMenu li a');
+
+    switch (mURL[1]) {
+      case "air":
+        menu.eq(0).addClass('sel');
+        break;
+      case "novosti":
+        menu.eq(1).addClass('sel');
+        break;
+      case "cards":
+        menu.eq(2).addClass('sel');
+        break;
+      case "video":
+        menu.eq(3).addClass('sel');
+        break;
+      case "peredacha":
+        menu.eq(4).addClass('sel');
+        break;
+      case "serial":
+        menu.eq(5).addClass('sel');
+        break;
+      case "programma":
+        menu.eq(6).addClass('sel');
+        break;
+      default:
+    }
+
+    $('#newplayer').prepend('<div class="close"></div>');
+    
+    $('#airDiv').css({  
+      background: "url('"+AIR.Splash+"') no-repeat",
+      backgroundSize: "cover"
+    });
+
+      printUserGreeting();
+
+    var w = checkWidth();
+    if (w) {  
+
+    } else if (BNRS.show == 1) { 
+        console.info("keywords: " + BNRS.keywords);
+        if(console) {console.log("[NTV][GPM_Ntv.ru_D_970x250-Top][ccokb:gdyl]");}
+          window.yaContextCb.push(()=>{
+        Ya.adfoxCode.createAdaptive({
+            ownerId: 277740,
+            containerId: 'adfox_155299263075599967',
+            params: {
+                p1: 'ccokb',
+                p2: 'gdyl',
+                pk: BNRS.keywords,
+                pke: '1'
+            },
+            onRender: function() {
+
+              if ($('#mainPG.peredachaPG').length > 0) {
+                var m = $('#flamur1');
+                var mH = Math.ceil(m.height() + 100); //100 - top menu + carusel
+                var css = '.bgBefore { top: '+mH+'px; }',
+                    head = document.head || document.getElementsByTagName('head')[0],
+                    style = document.createElement('style');  
+                style.type = 'text/css';
+                if (style.styleSheet){
+                  style.styleSheet.cssText = css;
+                } else {
+                  style.appendChild(document.createTextNode(css));
+                }
+                head.appendChild(style);
+              }
+              
+              if ($('#dragcomm').length > 0) {
+                var m = $('#flamur1');
+                var mH = Math.ceil(m.height());
+                var vH = $('#dragcomm').offset().top;
+                $('#dragcomm').css('top', vH + mH +'px');
+              }
+
+            },
+            onStub: function() {
+              console.log ("ONSTUB!!!");
+            }
+        }, ['desktop', 'tablet'], {
+            tabletWidth: 1300,
+            phoneWidth: 969,
+            isAutoReloads: false
+        })
+    })
+
+      $('#flamur1').show();
+
+    }
+  });
+    // ]]>
+</script>
+
+<div id="bg250"></div>
+  
+<script language="JavaScript" type="text/javascript">
+	var img = new Image();
+	img.src = '//www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g,'%2a') + '*ntv_ru/ru/UTF-8/tmsec=ntv_total/' + Math.round(Math.random() * 1000000000);
+</script> 
+<noscript> 
+	<img src="//www.tns-counter.ru/V13a****ntv_ru/ru/UTF-8/tmsec=ntv_total/" width="1" height="1" alt="">
+</noscript> 
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "15334878" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="//b.scorecardresearch.com/p?c1=2&c2=15334878&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<script type="text/javascript"> 
+<!-- 
+ 
+ var liveOnlineUser = 0;
+
+
+
+
+ 
+
+// -->
+</script> 
+
+
+
+
+<style>
+@media (max-width: 1299px) and (min-width: 970px) {
+  .adMenu ul.mainmenu li a {
+    font-size: 13px;
+  }
+}
+
+@media (max-width: 969px) and (max-height: 500px) {
+  .adMenu ul.mainmenu li a {
+    font-size: 13px;
+  }
+  .adMenu ul.mainmenu li {
+   padding: 5px 0 5px 50px;
+  }
+}
+@media (max-width: 969px) and (max-height: 360px) {
+  .adMenu ul.mainmenu li {
+   padding: 5px 0 0 50px;
+  }
+}
+
+@media screen and (min-width: 1300px) { 
+  ul#applist {
+    padding-left: 0;
+    width: 70px;
+  }
+  ul#applist li:first-child .app {
+    width: 48px;
+    height: 29px;
+    background: no-repeat url('https://ntv-static.cdnvideo.ru/images/app/icon_apps.svg');
+    margin: 8px 10px 0 11px;
+  }
+  .adMenu ul.mainmenu li:last-child a {
+      left: 25px; 
+  }
+}
+
+.header__link {
+  display: block;
+  color: #FFFFFF;
+  user-select: none;
+}
+.header__link--more{
+  font-size: 14px;
+  line-height: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-decoration: none;
+  cursor: pointer;
+  padding-right: 20px;
+  position: relative;
+}
+.header__link--more:hover,
+.header__link--more.on {
+  color: #82929e;
+}
+.header__link--more:hover:after {
+  border-left: 2px solid #82929e;
+  border-top: 2px solid #82929e
+}
+.header__link--more.on:after {
+  border-left: 2px solid #82929e;
+  border-top: 2px solid #82929e;
+  top: -webkit-calc(50% - 2px);
+  top: calc(50% - 2px);
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+.header__link--more:after {
+  border-left: 2px solid #fff;
+  border-top: 2px solid #fff;
+  content: "";
+  display: block;
+  height: 5px;
+  left: -webkit-calc(100% - 10px);
+  left: calc(100% - 10px);
+  position: absolute;
+  top: -webkit-calc(50% - 5px);
+  top: calc(50% - 5px);
+  -webkit-transform: rotate(225deg);
+  transform: rotate(225deg);
+  width: 5px;
+}
+.header__more {
+  display: none;
+  background-color: #343945;
+  box-sizing: border-box;
+  color: #82929e;
+  min-width: 180px;
+  padding: 15px;
+  position: absolute;
+  top: -webkit-calc(100% + 12px);
+  top: calc(100% + 12px);
+}
+.header__link--more.on .header__more {
+  display: block;
+}
+.header__more a {
+  height: auto;
+  line-height: 19px!important;
+}
+.header__more a:not(:last-child) {
+  margin-bottom: 10px;
+}
+.fade-enter-active,.fade-leave-active {
+  -webkit-transition: opacity .3s;
+  transition: opacity .3s;
+}
+.fade-enter,.fade-leave-to {
+  opacity: 0;
+}
+@media screen and (max-width:1299px) {
+  .header__more a {
+    line-height: 15px;
+  }
+  .header__link {
+    font-size: 13px;
+  }
+}
+@media screen and (max-width:969px) {
+  .adMenu ul.mainmenu {
+    padding-bottom: 480px;
+  }
+  .header__link--more {
+    cursor: auto;
+    padding-right: 0;
+    position: static;
+  }
+  .header__more {
+    display: block;
+    background-color: transparent;
+    border-top: 1px solid #333841;
+    padding: 25px 0 0;
+    position: static;
+    margin-right: 40px;
+  }
+  .header__more a {
+    line-height: 27px;
+  }
+  .header__more .header__link:not(:last-child) {
+    margin-bottom: 25px;
+  }
+  .header__more-link {
+    display: none;
+  }
+}
+@media screen and (max-width: 969px) and (max-height: 500px) {
+  .header__more {
+    padding: 10px 0 0;
+  }
+  .header__more .header__link:not(:last-child) {
+    margin-bottom: 5px;
+  }
+}
+</style>
+<div class="adMenuOut" id="adMenuOut">
+  <div class="adMenu" id="adMenu">
+    <div class="content">
+      <div id="logo"><a href="/" title="НТВ"></a></div>
+      <ul class="mainmenu">
+        <li id="topairplace"><a href="/air/">Эфир</a></li><li><a href="/novosti/">Новости</a></li><li><a href="/cards/">Статьи</a></li><li><a href="/video/">Видео</a></li><li><a href="/peredacha/">Передачи</a></li><li><a href="/serial/">Сериалы</a></li><li><a href="/programma/">Телепрограмма</a></li>
+        <li>
+          <div class="header__link header__link--more">
+            <span class="header__more-link">Еще</span>
+              <div style="" class="header__more">
+                <a class="header__link" href="/msk/">Сегодня в Москве</a>
+                <a class="header__link" href="/economics/">Экономика</a>
+              </div>
+          </div>
+        </li>
+        <li class="mbnr"><div id="adfox_157666669052113267"></div></li><li><a>18+</a></li>
+      </ul>
+
+  <script>
+    console.log("*** Placement:GPM_Ntv.ru_D_Button [cmler][gdyi].Status:READ ***");
+    window.yaContextCb.push(()=>{
+      Ya.adfoxCode.createAdaptive({
+        ownerId: 277740,
+        containerId: "adfox_157666669052113267",
+        params: { p1: "cmler", p2: "gdyi" },
+        onLoad: function (data) {
+          console.log("*** Placement:GPM_Ntv.ru_D_Button [cmler][gdyi]. Status:LOADED:" + data + "***");
+        },
+        onRender: function () {
+          console.log("*** Placement:GPM_Ntv.ru_D_Button [cmler][gdyi]. Status:RENDERED ***");
+        },
+        onError: function (error) {
+          console.log("*** Placement:GPM_Ntv.ru_D_Button [cmler][gdyi]. Status:ERROR:" + error + "***");
+        },
+        onStub: function () {
+          console.log("*** Placement:GPM_Ntv.ru_D_Button [cmler][gdyi]. Status:EMPTY ***");
+        },
+      },
+      ["desktop", "tablet"],
+      { tabletWidth: 1300, phoneWidth: 969, isAutoReloads: false })
+    })
+  </script>
+  
+
+  <script>
+    var more = document.querySelector('.header__link--more');
+    more.addEventListener('click', function() {
+      more.classList.toggle('on');
+    });
+  </script>
+      <ul id="applist">
+        <li><a href="/app/" title="Приложения НТВ" class="app"></a></li>
+      </ul>
+      <ul id="sharelist">
+        <li><a href="https://zen.yandex.ru/ntv.ru" title="НТВ в Яндекс Дзен">Яндекс Дзен</a></li>
+
+        <li><a href="https://www.facebook.com/ntvofficial" title="НТВ в Facebook">facebook</a></li>
+        <li><a href="https://instagram.com/ntvru/" title="НТВ в Instagram">instagram</a></li>
+        <li><a href="https://www.ntv.ru/official_accounts/" title="Официальные аккаунты НТВ">...</a></li>
+      </ul>
+      
+      <div id="topsearchplace" class="topsearchstyle"><a href="javascript:void(0);">найти</a></div>
+
+
+
+      <div id="topenter">              
+        <div id="m_user"><ul></ul></div>
+      </div>
+
+    </div>
+  </div>
+</div>
+    
+<div id="srslt">
+  <div class="content">
+    <h3>Что вам найти?</h3>
+    <form action="//www.ntv.ru/finder/" method="get" id="topsrch"><input id="inpsrch" type="search" autocomplete="off" placeholder="Найти" value="" size="15" name="keytext" /><a href="javascript:void(0);" id="fndbtn3" onclick="javascript:if($('#inpsrch').attr('value').length != null && $('#inpsrch').attr('value').length >= 3) $('#topsrch').submit();">Найти</a></form>
+    <div id="resultplace" class="result_style"></div>
+  </div>
+</div>
+    
+  
+<script  type="text/javascript">
+// <![CDATA[
+  AIR.id = 543881;
+  AIR.tnsVcId = 0;
+  AIR.Splash = "//ntv-static.cdnvideo.ru/home/schedule/2016/20160404/chp_new_grapfic_1024-2_avg.jpg";
+  AIR.Title = "<big>ТВ-Эфир</big><small>ЧП</small>";
+  AIR.Name = "ЧП";
+  AIR.adfox = "ЧП";
+  AIR.Current = "";
+  AIR.Special = "off";
+  AIR.SpecialUrl = "/1991";
+
+  AIR.onAir = true;
+
+
+  $(function() {
+      function ScheduleInfoLoader() {
+          var nextSheduleAirTime = 600000;
+          var lastTimeout = null;
+
+          function wait() {
+              var waitTimeout = Math.max(3000, nextSheduleAirTime)
+              console.log("Reload after: " + waitTimeout);
+              lastTimeout = setTimeout(function() {
+                  $.getJSON( "/esi/page/current/")
+                     .done(function(data) {
+                        $('#efirplace').html(data.lid);
+                        nextSheduleAirTime = data.wait - data.ts * 1000 + 1000; //1s 
+                        if($("#airDiv").length) {
+                           $("#airDiv").find("img").attr("src",data.img_live);
+                        }
+                        // replace AIR
+                        AIR.onAir = data.on;
+                        AIR.Title = data.lid;
+                        AIR.Name = data.name;
+                        wait();
+                     });
+              }, waitTimeout);
+          }
+
+          this.start = function() {
+              wait();
+          }
+
+          this.stop = function() {
+              if(lastTimeout) clearTimeout(lastTimeout);
+          }
+      }
+
+      if($('#newplayer:visible').length == 1) {
+          var scheduleInfoLoader = new ScheduleInfoLoader();
+          scheduleInfoLoader.start();
+
+          $( "body" ).on( "click", "#newplayer .close", function( event ) {
+              scheduleInfoLoader.stop();
+          });
+      }
+  });
+
+// ]]> 
+</script>
+
+
+<script  type="text/javascript">
+// <![CDATA[
+
+//if (window.outerWidth < 970) {
+
+        var PM = readCookie("playermute");
+        var PP = readCookie("playerplay");
+        var airClose = readCookie("airClose");   
+        
+        if(window.navigator.userAgent.toLowerCase().indexOf("lighthouse") > -1 || document.location.href.indexOf("/air/ntv") > 0 || document.location.href.indexOf("/air/putin2021") > 0 || document.location.href.indexOf("/2021") > 0 || !AIR.player) airClose = 1;
+
+        var setPlay = true;
+        if (airClose == 1 || window.outerWidth < 970) setPlay = false;
+
+        //var setPlay = !(PP == "n");
+        var setMute = !(PM == "n");
+        //var setMute = true;
+
+        var efir = {
+            title: AIR.Name,
+            src:{
+              lowDASH:loDashURL.replace('v3v4v5a1l1t1', 'v5a1'),
+              highDASH:dashURL.replace('v2v1v3v4v5a1l1t1', 'v5a1'),
+              highHLS:hlsURL.replace('v2v1v3v4v5a1l1t1', 'v5a1'),
+              lowHLS:loHlsURL.replace('v3v4v5a1l1t1', 'v5a1'),
+            },
+            splash: "https://ntv-static.cdnvideo.ru/live/live1.jpg?_"+Math.floor(Date.now() / 1000),
+            adPuids: "puid1=64&puid2=4&puid4=1&puid9=2&puid5=7&puid6=43&puid7=1&puid8=14&content_id=p4045&eid1=p4045",
+            autoPlay: setPlay,
+            big:false,
+            noad:false,
+            controls:false,
+            mute:setMute,
+            lookValue:liveOnlineUser,
+            playbackCalls:{
+                onStart:function(){
+                    ym(7414054, 'reachGoal', 'airMiniPlayerLive');
+                    sendTNSAir('start');
+                },
+                onResume:function(){
+                  setTimeout(function () {
+                    setCntrl();
+                  }, 100);
+                },
+                onPause:function(){
+                  sendTNSAir('pause');
+                  setTimeout(function () {
+                    setCntrl();
+                  }, 100);
+                },
+                onMuteChanged:function(){
+                  setCntrl();
+                },
+                onAdStart:function(){
+                  console.info("ADstart");
+                  $('#tophead').addClass("adair");
+                },
+                onAdEnd:function(){
+                  console.info("ADend");
+                  $('#tophead').removeClass("adair");
+                }
+            },
+              tns:{
+              uid:"4:0:0",
+              serverTime: serverTimeZ
+            }
+        };
+
+        function initPutchVideo() {
+          
+          $('#ecntrl').hide();
+          var video = document.createElement('video');
+          var source1 = document.createElement('source');
+          var source2 = document.createElement('source');
+          source1.src = '/video/balet.webm';
+          source2.src = 'https://img2.ntv.ru/video/balet.mov';
+          video.appendChild(source1);
+          video.appendChild(source2);
+          video.style = "max-width: 100%;max-height:100%;";
+          video.loop = 1;
+          video.autoplay = 1;
+          video.muted = 1;
+          $('#airDiv').append(video);
+          var link = document.createElement('a');
+          link.href = AIR.SpecialUrl;
+          link.target = '_blank';
+           $('#airDiv').append(link);
+           link.style="position:absolute;width:100%;height:100%;left:0;top:0"
+        }
+
+        var specialplayer = {
+            src:{
+                lowDASH:"https:"+hdDashURL,
+                highDASH:"",
+                highHLS:"",
+                lowHLS:"https:"+hdHlsURL
+            },
+            splash: "//img2.ntv.ru/1991/images/1200%D1%85630.jpg",
+            adPuids: "",
+            autoPlay: setPlay,
+            big:false,
+            noad:true,
+            controls:false,
+            mute:setMute,
+            lookValue:liveOnlineUser,
+            playbackCalls:{
+                onStart:function(){
+                    ym(7414054, 'reachGoal', 'airMiniPlayerLive');
+                    sendTNSAir('start');
+                },
+                onResume:function(){
+                  setTimeout(function () {
+                    setCntrl();
+                  }, 100);
+                },
+                onPause:function(){
+                  sendTNSAir('pause');
+                  setTimeout(function () {
+                    setCntrl();
+                  }, 100);
+                },
+                onMuteChanged:function(){
+                  setCntrl();
+                },
+                onAdStart:function(){},
+                onAdEnd:function(){}
+            }
+        };
+
+        var styleplayer = {
+            title: 'Квартирный вопрос <sup>12+</sup>',
+            src:{
+                lowDASH:"https:"+styleDashURL,
+                highDASH:"",
+                highHLS:"",
+                lowHLS:"https:"+styleHlsURL
+            },
+            splash: "https://ntv-static.cdnvideo.ru/live/livestyle.jpg?_"+Math.floor(Date.now() / 1000),
+            adPuids: "",
+            autoPlay: setPlay,
+            big:false,
+            noad:true,
+            controls:false,
+            mute:setMute,
+            lookValue:liveOnlineUser,
+            playbackCalls:{
+                onStart:function(){
+                    ym(7414054, 'reachGoal', 'airMiniPlayerLive');
+                    sendTNSAir('start');
+                },
+                onResume:function(){
+                  setTimeout(function () {
+                    setCntrl();
+                  }, 100);
+                },
+                onPause:function(){
+                  sendTNSAir('pause');
+                  setTimeout(function () {
+                    setCntrl();
+                  }, 100);
+                },
+                onMuteChanged:function(){
+                  setCntrl();
+                },
+                onAdStart:function(){},
+                onAdEnd:function(){}
+            },
+              tns:{
+              uid:"4:0:0",
+              serverTime: serverTimeZ
+            }
+        };
+
+        var pravoplayer = {
+            title: 'ДНК <sup>16+</sup>',
+            src:{
+                lowDASH:"https:"+pravoDashURL,
+                highDASH:"",
+                highHLS:"",
+                lowHLS:"https:"+pravoHlsURL
+            },
+            splash: "https://ntv-static.cdnvideo.ru/live/livepravo.jpg?_"+Math.floor(Date.now() / 1000),
+            adPuids: "",
+            autoPlay: setPlay,
+            big:false,
+            noad:true,
+            controls:false,
+            mute:setMute,
+            lookValue:liveOnlineUser,
+            playbackCalls:{
+                onStart:function(){
+                    ym(7414054, 'reachGoal', 'airMiniPlayerLive');
+                    sendTNSAir('start');
+                },
+                onResume:function(){
+                  setTimeout(function () {
+                    setCntrl();
+                  }, 100);
+                },
+                onPause:function(){
+                  sendTNSAir('pause');
+                  setTimeout(function () {
+                    setCntrl();
+                  }, 100);
+                },
+                onMuteChanged:function(){
+                  setCntrl();
+                },
+                onAdStart:function(){},
+                onAdEnd:function(){}
+            },
+              tns:{
+              uid:"4:0:0",
+              serverTime: serverTimeZ
+            }
+        };
+
+        var serialplayer = {
+            title: 'Возвращение Мухтара — 2 (324 серия) <sup>16+</sup>',
+            src:{
+                lowDASH:"https:"+serialDashURL,
+                highDASH:"",
+                highHLS:"",
+                lowHLS:"https:"+serialHlsURL
+            },
+            splash: "https://ntv-static.cdnvideo.ru/live/liveserial.jpg?_"+Math.floor(Date.now() / 1000),
+            adPuids: "",
+            autoPlay: setPlay,
+            big:false,
+            noad:true,
+            controls:false,
+            mute:setMute,
+            lookValue:liveOnlineUser,
+            playbackCalls:{
+                onStart:function(){
+                    ym(7414054, 'reachGoal', 'airMiniPlayerLive');
+                    sendTNSAir('start');
+                },
+                onResume:function(){
+                  setTimeout(function () {
+                    setCntrl();
+                  }, 100);
+                },
+                onPause:function(){
+                  sendTNSAir('pause');
+                  setTimeout(function () {
+                    setCntrl();
+                  }, 100);
+                },
+                onMuteChanged:function(){
+                  setCntrl();
+                },
+                onAdStart:function(){},
+                onAdEnd:function(){}
+            },
+              tns:{
+              uid:"4:0:0",
+              serverTime: serverTimeZ
+            }
+        };
+
+        var matchiframe = "",
+            matchUrl = "",
+            mobli = "",
+            specialTitle = "";
+        
+        if (AIR.Special == "on") {
+
+          specialTitle = "Путч'91";
+          
+          $('#channels').prepend('<li class="ch0"><big>'+specialTitle+'</big></li>'); 
+          var node = document.createElement('style');
+          node.innerHTML = "#channels li.ch0.sel, #channels li.ch0:hover { background: -moz-linear-gradient(top, rgba(15,32,130,1) 0%, rgba(15,32,130,0.75) 100%); background: -webkit-linear-gradient(top, rgba(15,32,130,1) 35%, rgba(15,32,130,0.75) 100%); background: linear-gradient(top, rgba(15,32,130,1) 35%, rgba(15,32,130,0.75) 100%); } #channels li.ch1.sel, #channels li.ch1:hover { border-top-left-radius: 0; -webkit-border-top-left-radius: 0; -moz-border-top-left-radius: 0; }";
+          document.body.appendChild(node);
+        }
+        
+        
+        if (matchiframe != "") {
+          $('#channels').append('<li class="ch5" id="matchtv"><big>Матч!</big><small></small></li>');
+        }
+
+        var airTheme = readCookie("airTheme");
+
+        airTheme = "Special";
+
+        if (AIR.Special != "on" && airTheme == "Special" ) { airTheme = "Efir"; }
+
+        var cel = $( "#channels li" );
+        cel.removeClass("sel");
+
+        $('#efirplace').html(AIR.Title);
+
+        if ((airTheme == null || airTheme == "") && AIR.Special == "on") airTheme = "Special";
+        else if (airTheme == null || airTheme == "") airTheme = "Efir";
+
+        switch (airTheme) {
+
+          case "Efir":
+            if (window.outerWidth >= 970 && airClose != 1) var airplayer = streamPlayerInit(efir);
+            $('.matchUrl').remove();
+            $('.ch1').addClass("sel");
+            $('#b_size').attr('href', '/air/ntv/');
+            $('#efirplace small').html(efir.title);
+            AIR.Current = "EFIR";
+          break;
+          case "Special":
+            if (window.outerWidth >= 970 && airClose != 1) {
+              initPutchVideo();
+            }
+            $('.ch0').addClass("sel");
+            $('#efirplace small').html("");
+            AIR.Current = "SPECIAL";
+          break;
+          case "Style":
+            if (window.outerWidth >= 970 && airClose != 1) var airplayer = streamPlayerInit(styleplayer);
+            $('.ch2').addClass("sel");
+            $('#b_size').attr('href', '/air/ntvstyle/');
+            $('#efirplace small').html(styleplayer.title);
+            AIR.Current = "STYLE";
+          break;
+          case "Law":
+            if (window.outerWidth >= 970 && airClose != 1) var airplayer = streamPlayerInit(pravoplayer);
+            $('.ch3').addClass("sel");
+            $('#b_size').attr('href', '/air/ntvlaw/');
+            $('#efirplace small').html(pravoplayer.title);
+            AIR.Current = "LAW";
+          break;
+          case "Series":
+            if (window.outerWidth >= 970 && airClose != 1) var airplayer = streamPlayerInit(serialplayer);
+            $('.ch4').addClass("sel");
+            $('#b_size').attr('href', '/air/ntvseries/');
+            $('#efirplace small').html(serialplayer.title);
+            AIR.Current = "SERIAL";
+          break;
+          case "Matchtv":
+            $('#airDiv').html(matchiframe);
+            $('#newplayer').append('<div class="matchUrl"><a href="'+matchUrl+'"></a></div>');
+            $('#newplayer').addClass("match");
+            $('.ch5').addClass("sel");
+            $('#efirplace small').html();
+            AIR.Current = "MATCHTV";
+          break;
+        }
+
+        if (AIR.Current != "MATCHTV" && AIR.Current != "SPECIAL" && window.outerWidth >= 970 && airClose != 1) {
+          document.getElementById('airDiv').appendChild(airplayer.dom);
+          airplayer.dom.style.width="100%";
+          airplayer.dom.style.height="100%";
+        }
+
+        $(function() {
+
+          var m = checkWidth();
+          
+          if (m) {
+
+            var addSpec = "";
+            if (AIR.Special == "on") {
+              addSpec = '<li class="s_special"><a href="'+AIR.SpecialUrl+'"><big style="background-position: 0 0; background-image: url(//img2.ntv.ru/1991/images/1200%D1%85630.jpg);">'+specialTitle+'</big><span class="txt"><b>'+specialTitle+'</b></span></a></li>';
+            }
+            
+            $('#newcontent').prepend('<ul id="mspisok">'+addSpec+'<li class="s_efir"><span class="txt"></span></li>'
+               +''
+               +'<li class="s_style"><a href="/air/ntvstyle/?from=mobile"><big style="background-image: url('+'https://ntv-static.cdnvideo.ru'+'/live/livestyle.jpg?_'+Math.floor(Date.now() / 1000)+');"></big><span class="txt"><b>НТВ Стиль</b>'+(styleplayer.title ? styleplayer.title : 'Канал о стиле жизни')+'</span></a></li>'
+               +'<li class="s_law"><a href="/air/ntvlaw/?from=mobile"><big style="background-image: url('+'https://ntv-static.cdnvideo.ru'+'/live/livepravo.jpg?_'+Math.floor(Date.now() / 1000)+');"></big><span class="txt"><b>НТВ Право</b>'+(pravoplayer.title ? pravoplayer.title : 'Документально-познавательный канал судебно-правовой тематики')+'</span></a></li>'
+               +'<li class="s_series"><a href="/air/ntvseries/?from=mobile"><big style="background-image: url('+'https://ntv-static.cdnvideo.ru'+'/live/liveserial.jpg?_'+Math.floor(Date.now() / 1000)+');"></big><span class="txt"><b>НТВ Сериал</b>'+(serialplayer.title ? serialplayer.title : 'Круглосуточный телеканал лучших сериалов и телевизионных фильмов')+'</span></a></li>'+mobli+'</ul>');
+
+            var w = document.getElementsByTagName("body")[0].offsetWidth;
+            var h = Math.ceil(w*9/16);
+            
+            var w1 = (w-40)/2;
+            var h1 = Math.ceil(w1*9/16);
+      
+            var node = document.createElement('style');
+            node.innerHTML = "#vid { position: absolute; left: 0; top: 0; } .peredachaPG:after, .bgBefore { width: "+w+"px; height: "+h+"px; } .topPGblockcontent { min-height: "+h+"px; }";
+            document.body.appendChild(node);
+      
+            $('#newplayer').css({
+              width: w1,
+              height: h1
+            });
+      
+            $('#mspisok li').css({
+              height: h1
+            });
+      
+            $('#mspisok li span.txt').css({
+              width: (w1-20),
+              height: (h1-20)
+            });
+            
+            $('.s_efir').prepend($('#newplayer'));
+            $('.s_efir span.txt').prepend($('#efirplace'));
+            $('#newcontent').addClass('open');
+            $('.s_efir .playerBody video').remove();
+            $( ".s_efir #airDiv" ).wrap( "<a href=\"/air/ntv/\"><big></big></a>" );
+      
+            $('#mspisok li a big').css({
+              width: w1,
+              height: h1
+            });
+      
+          	$('#mspisok').slick({
+          	  infinite: false,
+          	  slidesToShow: 1,
+          	  slidesToScroll: 1,
+          	  arrows: false,
+          	  centerPadding: '20px',
+          	  centerMode: true
+          	});
+            
+          }
+
+        });
+
+ // ]]> 
+</script>
+
+
+
+
+    <style>
+    @media screen and (min-width: 970px) {
+
+      .topairOut {
+        position: relative;
+        z-index: 15;
+      }
+
+      .topair {
+        position: static;
+      }
+      .adMenuOut {
+        z-index: 16;
+      }
+     
+    }
+    </style>
+    <div class="topairOut">
+    <div class="topair topcheck"><div class="content"><div class="topairin"><div class="airitem theme"><a href="/theme/66724/" title="Землетрясение в Турции и Сирии — 2023.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">Землетрясение в Турции и Сирии — 2023</a></div><div class="airitem theme"><a href="/theme/66004/" title="Специальная военная операция России.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">Специальная военная операция России</a></div><div class="airitem theme"><a href="/theme/46504/" title="Санкции против РФ и ответные меры.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">Санкции против РФ и ответные меры</a></div><div class="airitem theme"><a href="/theme/63864/" title="Борьба с коронавирусом.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">Борьба с коронавирусом</a></div></div></div></div>
+    </div>
+    <script type="text/javascript">
+      $(function() {
+  
+  			var m = checkWidth();
+  			if (m) {
+
+          $( ".airitem a" ).wrapInner( "<div class='inner'></div>");
+
+          $('.topairin').slick({
+            dots: false,
+            arrows: false,
+            slidesToShow: 1,
+            infinite: true,
+            centerMode: true,
+            centerPadding: '40px',
+            speed: 300,
+            autoplay: true,
+            autoplaySpeed: 5000
+          });
+
+          if($('.airitem').length == 1){
+            $('.topairin').slick('slickSetOption', 'centerMode', false);
+          }
+
+          $('.topairin').on('swipe', function(event, slick, direction) {
+            $('.topairin').slick('slickSetOption', {
+              'autoplay': false
+            }, false);
+          });
+
+  			} else {
+  
+          var w = 0;
+          var o = $('.topairin').width();
+          $( ".airitem" ).each(function() {
+            w +=  $(this).innerWidth() + 11;
+            console.info($(this).innerWidth());
+          });
+          
+          if (w > o) {
+            $('.topairin').slick({
+              dots: false,
+              arrows: false,
+              infinite: false,
+              speed: 300,
+              slidesToShow: 1,
+              autoplay: true,
+              autoplaySpeed: 5000,
+              centerMode: false,
+              variableWidth: true
+            });
+          } else {
+            $('.topairin').width(w).css({
+              'margin':'10px auto 0 auto',
+              'visibility':'visible'
+            });
+          }
+  
+  			}
+  
+      });
+    </script>
+
+
+
+
+<div id="xblock" class="xcontent"><div class="xpopup_overlay" id="sc_center"></div></div>
+
+<div id="fb_blck">
+    <!-- -->
+    <div id ="login-panel-on">
+        <div id="user-setting">
+            <div id="timeline-status" class="history-link hlink lborder">
+                <div class="hist">Вести историю</div>
+                <div id="timeline_btn" class="timeline_btn" onclick="tl_toggle_status()"></div>
+            </div>
+            <div id="delete_app" class="history-link hlink lborder" onclick="tl_delete_app()" title="Удалить приложение и всю историю его активности"><div>Удалить приложение</div></div>
+        </div>
+    </div>
+    <!-- history items -->
+    <div class="clear_block"></div>
+    <div id="history-items" class="history-items" style="display:none;">
+        <div id="history-header" class="history-header">
+            <div id="history-header-txt">История активности:</div>
+        </div>   
+    </div>
+</div>
+<!-- Generated header at 30 ms -->
+
+
+
+  <div class="topnewscar"><div class="content"><ul>
+    <li class="visible">
+      <a href="/novosti/2748657/?from=mailtopfeed">
+        <time>13:38</time>
+        Ни политических свобод, ни благополучия: чего добился Киев за 9 лет после Майдана
+        
+      </a>
+    </li>
+    
+    <li class="visible">
+      <a href="/novosti/2748669/?from=mailtopfeed">
+        <time>13:35</time>
+        Байден анонсировал выделение нового пакета военной помощи Украине
+        
+      </a>
+    </li>
+    
+    <li class="visible">
+      <a href="/novosti/2748670/?from=mailtopfeed">
+        <time>13:29</time>
+        Заместитель председателя Банка России Руслан Вестеровский перейдет в Сбербанк
+        
+      </a>
+    </li>
+    
+    <li class="visible">
+      <a href="/novosti/2748662/?from=mailtopfeed">
+        <time>13:25</time>
+        Компания Ericsson намерена сократить 1400 рабочих мест в Швеции 
+        
+      </a>
+    </li>
+    
+    <li class="visible">
+      <a href="/novosti/2748666/?from=mailtopfeed">
+        <time>13:24</time>
+        Вице-премьер Абрамченко рассказала о ликвидации десятков мусорных свалок
+        
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748664/?from=mailtopfeed">
+        <time>13:16</time>
+        Дело о покушении на убийство возбудили в Москве после взрыва подарочной коробки
+        
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748665/?from=mailtopfeed">
+        <time>13:10</time>
+        Зеленский опубликовал официальное фото с Байденом в Киеве
+        
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748661/?from=mailtopfeed">
+        <time>13:06</time>
+        Песков рекомендовал властям Молдавии быть острожными с заявлениями о Приднестровье
+        
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748652/?from=mailtopfeed">
+        <time>13:03</time>
+        Bloomberg: G7 и ЕС обсуждают систему отслеживания оборота алмазов, чтобы ограничить торговлю камнями из России
+        
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748659/?from=mailtopfeed">
+        <time>12:53</time>
+        Фигурантов дела о покушении на журналиста Владимира Соловьёва обвинили в терроризме
+        
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748660/?from=mailtopfeed">
+        <time>12:52</time>
+        Байден прибыл в Киев
+        
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748658/?from=mailtopfeed">
+        <time>12:48</time>
+        Песков объяснил рост уровня доверия Путину среди россиян
+        
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748656/?from=mailtopfeed">
+        <time>12:31</time>
+        Коробку со взрывчаткой девушке в Новой Москве мог отправить отвергнутый ухажер
+        
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748655/?from=mailtopfeed">
+        <time>12:30</time>
+        Послание Путина парламенту пройдет без иностранных гостей, но с участниками СВО
+        <small>Послание президента — 2023</small>
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748650/?from=mailtopfeed">
+        <time>12:25</time>
+        В алтайском селе мать заживо сожгла маленькую дочь на глазах у сына
+        
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748649/?from=mailtopfeed">
+        <time>12:21</time>
+        Блинкен: Швеция и Финляндия вскоре вступят в НАТО
+        
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748653/?from=mailtopfeed">
+        <time>12:14</time>
+        В Южном Медведкове открылась новая поликлиника
+        
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748651/?from=mailtopfeed">
+        <time>12:12</time>
+        Парламентская делегация Израиля прибыла в Киев 
+        
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748192/?from=mailtopfeed">
+        <time>11:55</time>
+        Москвичи больше остальных россиян потратят на подарки к 23 Февраля
+        
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748648/?from=mailtopfeed">
+        <time>11:50</time>
+        На борту разбившегося в Кузбассе вертолета находились сноубордисты 
+        
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748647/?from=mailtopfeed">
+        <time>11:49</time>
+        Силовые ведомства Курской области переведены на усиленный режим работы
+        
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748642/?from=mailtopfeed">
+        <time>11:47</time>
+        Роскомнадзор готовится запустить систему «Вепрь» для выявления потенциальных угроз в сети
+        
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748604/?from=mailtopfeed">
+        <time>11:37</time>
+        Доходное место Старого Света: коррупция в европейских институтах достигла небывалых масштабов
+        
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748646/?from=mailtopfeed">
+        <time>11:37</time>
+        СМИ: у Костомарова может начаться отек мозга
+        
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748645/?from=mailtopfeed">
+        <time>11:29</time>
+        Заболеваемость COVID-19 в России за неделю увеличилась еще на 20%
+        <small>Борьба с коронавирусом</small>
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748632/?from=mailtopfeed">
+        <time>11:21</time>
+        Минтранс потребовал подготовить инфраструктуру для электросамокатов в регионах
+        
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748631/?from=mailtopfeed">
+        <time>11:20</time>
+        Минсельхоз и Минпромторг не поддержали госрегулирование торговых наценок на продукты
+        
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748644/?from=mailtopfeed">
+        <time>11:16</time>
+        Датская Maersk продала логистические активы в России
+        
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748637/?from=mailtopfeed">
+        <time>11:08</time>
+        «Окончательно охамели»: зачем Украина копирует нацистскую Германию
+        
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748643/?from=mailtopfeed">
+        <time>11:05</time>
+        СМИ: в центре Киева перекрыли улицы из-за визита иностранных делегаций 
+        
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748636/?from=mailtopfeed">
+        <time>10:59</time>
+        «Рособоронэкспорт» представил больше 200 образцов вооружения на форуме в Абу-Даби
+        
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748627/?from=mailtopfeed">
+        <time>10:56</time>
+        Россия и Китай возобновили соглашение о безвизовых групповых туристических поездках
+        
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748641/?from=mailtopfeed">
+        <time>10:55</time>
+        Высота сугробов в Москве впервые за зиму достигла 38 сантиметров
+        
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748638/?from=mailtopfeed">
+        <time>10:53</time>
+        Зеленский вспомнил о подарке Путина Берлускони и решил тоже передать ему водку
+        
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748640/?from=mailtopfeed">
+        <time>10:48</time>
+        Вертолет Ми-8 разбился в Кузбассе 
+        
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748639/?from=mailtopfeed">
+        <time>10:44</time>
+        Коробка взорвалась в холле дома в Новой Москве, пострадала девушка
+        
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748608/?from=mailtopfeed">
+        <time>10:42</time>
+        Жители Амстердама не верят в победу Киева и призывают жить с Россией в мире
+        
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748630/?from=mailtopfeed">
+        <time>10:42</time>
+        В ЕК назвали «спекуляцией» расследование Херша по «Северным потокам»
+        
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748634/?from=mailtopfeed">
+        <time>10:41</time>
+        Марк Цукерберг запускает платную верификацию в соцсетях
+        
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748633/?from=mailtopfeed">
+        <time>10:32</time>
+        СВР: большая часть поставленного НАТО Киеву вооружения уничтожена 
+        
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748625/?from=mailtopfeed">
+        <time>10:26</time>
+        Охранник столичного универмага жестоко избил посетителя: видео
+        
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748635/?from=mailtopfeed">
+        <time>10:26</time>
+        Один человек погиб и один ранен при обстреле белгородского села
+        <small>Специальная военная операция России</small>
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748607/?from=mailtopfeed">
+        <time>10:24</time>
+        Жители Вашингтона требуют остановить поставки оружия на Украину
+        
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748629/?from=mailtopfeed">
+        <time>10:20</time>
+        Установлена личность мужчины, бросившего двухлетнего ребенка в снег
+        
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748628/?from=mailtopfeed">
+        <time>10:20</time>
+        Актер Шон Пенн предложил США ввести войска на Украину
+        
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748626/?from=mailtopfeed">
+        <time>10:12</time>
+        Разовый сбор в бюджет может затронуть компании с прибылью выше 1 млрд рублей
+        
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748624/?from=mailtopfeed">
+        <time>10:07</time>
+        Бастрыкин назвал число уголовных дел о дискредитации российской армии
+        
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748601/?from=mailtopfeed">
+        <time>09:51</time>
+        В Белгородской области пострадавшие от обстрелов ВСУ переезжают в новые квартиры
+        
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748623/?from=mailtopfeed">
+        <time>09:48</time>
+        Уничтожение украинской ДРГ в бетонной канаве попало на видео 
+        <small>Специальная военная операция России</small>
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748622/?from=mailtopfeed">
+        <time>09:41</time>
+        Собянин рассказал о благоустройстве Воробьёвской набережной и Аллеи Славы
+        
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748620/?from=mailtopfeed">
+        <time>09:34</time>
+        Financial Times: Западу не удалось настроить страны Африки и Латинской Америки против России
+        
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748606/?from=mailtopfeed">
+        <time>09:30</time>
+        НТВ покажет послание президента Федеральному собранию в прямом эфире
+        <small>Послание президента — 2023</small>
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748621/?from=mailtopfeed">
+        <time>09:27</time>
+        Глава Минобороны Германии назвал ближайшие недели решающими для ВСУ 
+        <small>Специальная военная операция России</small>
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748618/?from=mailtopfeed">
+        <time>09:26</time>
+        Mash: в Уфе 10-летний сын порезал отца из-за отказа играть ночью
+        
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748619/?from=mailtopfeed">
+        <time>09:16</time>
+        На Москве-реке стартовали испытания электросудна «Пресня»
+        
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748605/?from=mailtopfeed">
+        <time>09:14</time>
+        Боевая машина «Ведьмочка» охотится на командные пункты ВСУ, танки и пехоту
+        <small>Специальная военная операция России</small>
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748617/?from=mailtopfeed">
+        <time>09:08</time>
+        Марочко: польские наемницы прибыли под Кременную в ЛНР
+        <small>Специальная военная операция России</small>
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748615/?from=mailtopfeed">
+        <time>09:02</time>
+        Более миллиона москвичей стали волонтерами за девять лет
+        
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748600/?from=mailtopfeed">
+        <time>09:00</time>
+        Морпехи-тихоокеанцы штурмуют район дач на севере Угледара
+        <small>Специальная военная операция России</small>
+      </a>
+    </li>
+    
+    <li>
+      <a href="/novosti/2748614/?from=mailtopfeed">
+        <time>08:53</time>
+        В ДНР рассказали о серьезном сопротивлении ВСУ у Артёмовска
+        <small>Специальная военная операция России</small>
+      </a>
+    </li>
+    
+  </ul></div></div>
+
+<div class="topnewsblock"> 
+<div class="content">
+
+
+            <div class="item item50 wimg">
+          
+                 <a href="/novosti/2748660/?from=top">
+                  <div class="halfpic"><img class="lazyload" data-original="https://ntv-static.cdnvideo.ru/home/news/2023/20230220/biden.jpg" width="100%" height="100%" alt="" /></div>
+                  
+
+                  
+
+                  <h3>Байден прибыл в Киев</h3>
+                  
+                </a>
+          
+            </div>
+       
+            <div class="item item50 wimg">
+          
+                 <a href="/novosti/2748649/?from=top">
+                  <div class="halfpic"><img class="lazyload" data-original="https://ntv-static.cdnvideo.ru/home/news/2023/20230220/blink.jpg" width="100%" height="100%" alt="" /></div>
+                  
+
+                  
+
+                  <h3>Блинкен: Швеция и Финляндия вскоре вступят в НАТО</h3>
+                  
+                </a>
+          
+            </div>
+       
+            <div class="item item50 wimg">
+          
+                 <a href="/novosti/2748633/?from=top">
+                  <div class="halfpic"><img class="lazyload" data-original="https://ntv-static.cdnvideo.ru/home/news/2023/20230220/nato_patriot.jpg" width="100%" height="100%" alt="" /></div>
+                  
+
+                  
+
+                  <h3>СВР: большая часть поставленного НАТО Киеву вооружения уничтожена </h3>
+                  
+                </a>
+          
+            </div>
+       
+            <div class="item item50 wimg">
+          
+                 <a href="/novosti/2748659/?from=top">
+                  <div class="halfpic"><img class="lazyload" data-original="https://ntv-static.cdnvideo.ru/home/news/2023/20230220/solov.jpg" width="100%" height="100%" alt="" /></div>
+                  
+
+                  
+
+                  <h3>Фигурантов дела о покушении на журналиста Владимира Соловьёва обвинили в терроризме</h3>
+                  
+                </a>
+          
+            </div>
+       
+            <div class="item item50 wimg">
+          
+                 <a href="/novosti/2748600/?from=top">
+                  <div class="halfpic"><img class="lazyload" data-original="https://ntv-static.cdnvideo.ru/home/news/2023/20230220/8_skidan_.jpg" width="100%" height="100%" alt="" /></div>
+                  <small>Специальная военная операция России</small>
+
+                  
+
+                  <h3>Морпехи-тихоокеанцы штурмуют район дач на севере Угледара</h3>
+                  
+                </a>
+          
+            </div>
+       
+            <div class="item item50 wimg">
+          
+                 <a href="/novosti/2748628/?from=top">
+                  <div class="halfpic"><img class="lazyload" data-original="https://ntv-static.cdnvideo.ru/home/news/2023/20230220/shoen38.jpg" width="100%" height="100%" alt="" /></div>
+                  
+
+                  
+
+                  <h3>Актер Шон Пенн предложил США ввести войска на Украину</h3>
+                  
+                </a>
+          
+            </div>
+       
+            <div class="item item50 wimg">
+          
+                 <a href="/novosti/2748637/?from=top">
+                  <div class="halfpic"><img class="lazyload" data-original="https://ntv-static.cdnvideo.ru/home/news/2023/20230220/10_konevich.jpg" width="100%" height="100%" alt="" /></div>
+                  
+
+                  
+
+                  <h3>«Окончательно охамели»: зачем Украина копирует нацистскую Германию</h3>
+                  
+                </a>
+          
+            </div>
+       
+            <div class="item item50 wimg">
+          
+                 <a href="/novosti/2748362/?from=top">
+                  <div class="halfpic"><img class="lazyload" data-original="https://ntv-static.cdnvideo.ru/home/news/2023/20230219/sim_zel.jpg" width="100%" height="100%" alt="" /></div>
+                  <small>Специальная военная операция России</small>
+
+                  
+
+                  <h3>«Ядерный удар»: Симоньян назвала способ остановить кукловодов Зеленского</h3>
+                  
+                </a>
+          
+            </div>
+       
+            <div class="item item50 wimg">
+          
+                 <a href="/novosti/2748646/?from=top">
+                  <div class="halfpic"><img class="lazyload" data-original="https://ntv-static.cdnvideo.ru/home/news/2023/20230220/kostomarov.jpg" width="100%" height="100%" alt="" /></div>
+                  
+
+                  
+
+                  <h3>СМИ: у Костомарова может начаться отек мозга</h3>
+                  
+                </a>
+          
+            </div>
+       
+            <div class="item item50 wimg">
+          
+                 <a href="/novosti/2748516/?from=top">
+                  <div class="halfpic"><img class="lazyload" data-original="https://ntv-static.cdnvideo.ru/home/news/2023/20230219/maska77.jpg" width="100%" height="100%" alt="" /></div>
+                  <small>Шоу «Маска»</small>
+
+                  
+
+                  <h3>Первое разоблачение четвертого сезона «Маски»: никто из жюри не смог угадать Дикобраза</h3>
+                  
+                </a>
+          
+            </div>
+       
+            <div class="item item50 video wimg">
+          
+                 <a href="/video/click2186446/?from=top">
+                  <div class="halfpic"><img  data-key="2186446" data-video_src="/promo/snippets/2023/20230220/10_200223_F_hqdS2ucp5BKTB0BDSg_snippet.mp4" class="video_snippets lazyload" data-original="https://ntv-static.cdnvideo.ru/home/promo/2023/20230220/10f_main.jpg" width="100%" height="100%" alt="" /></div>
+                  <small>Сегодня</small>
+
+                  
+
+                  <h3>20&nbsp;февраля 2023&nbsp;года. 10:00</h3>
+                  
+                </a>
+          
+            </div>
+       
+            <div class="item item50 video wimg">
+          
+                 <a href="/video/click2185602/?from=top">
+                  <div class="halfpic"><img  data-key="2185602" data-video_src="/promo/snippets/2023/20230217/01098145_hd_hqzG8k07EvDU6r4wEA_snippet.mp4" class="video_snippets lazyload" data-original="https://ntv-static.cdnvideo.ru/home/promo/2023/20230217/__main.jpg" width="100%" height="100%" alt="" /></div>
+                  <small>Звезды сошлись</small>
+
+                  
+
+                  <h3>Копейка рубль бережет!</h3>
+                  
+                </a>
+          
+            </div>
+       
+
+</div>
+</div>
+
+<div class="col3list">
+  <div class="content">
+     <div id="imp_carousel">
+        <ul>
+      
+                <li class="perminute">
+                <h2><a href="/peredacha/zaminutu/">#ЗаМинуту</a></h2>
+                <a class="inurl" href="/video/click2186447/">
+                  <img class="lazyload" data-original="https://ntv-static.cdnvideo.ru/home/news/2023/20230220/_20.02.2023_.mp4.00_09_36_05.Still001.jpg" width="100%" />
+                  <p class="inurl_p"><span>Сегодня. Главное: 20&nbsp;февраля, утро</span></p>
+                </a>
+                </li>
+           
+                <li class="perminute">
+                <h2>&nbsp;</h2>
+                <a class="inurl" href="/video/click2185551/">
+                  <img class="lazyload" data-original="https://ntv-static.cdnvideo.ru/home/news/2023/20230217/vecher.jpg" width="100%" />
+                  <p class="inurl_p"><span>Сегодня. Главное: 17&nbsp;февраля, вечер</span></p>
+                </a>
+                </li>
+           
+                <li class="perminute">
+                <h2>&nbsp;</h2>
+                <a class="inurl" href="/video/click2185542/">
+                  <img class="lazyload" data-original="https://ntv-static.cdnvideo.ru/home/news/2023/20230217/zmn.jpg" width="100%" />
+                  <p class="inurl_p"><span>&laquo;Чернобыль в&nbsp;Огайо&raquo;&nbsp;&#151; экологическая катастрофа в&nbsp;США</span></p>
+                </a>
+                </li>
+           
+                <li class="perminute">
+                <h2><a href="/peredacha/zaminutu/">#ЗаМинуту</a></h2>
+                <a class="inurl" href="/video/click2185407/">
+                  <img class="lazyload" data-original="https://ntv-static.cdnvideo.ru/home/news/2023/20230217/ddjst.jpg" width="100%" />
+                  <p class="inurl_p"><span>Сегодня. Главное: 17&nbsp;февраля, утро</span></p>
+                </a>
+                </li>
+           
+                <li class="perminute">
+                <h2>&nbsp;</h2>
+                <a class="inurl" href="/video/click2185203/">
+                  <img class="lazyload" data-original="https://ntv-static.cdnvideo.ru/home/news/2023/20230216/djst.jpg" width="100%" />
+                  <p class="inurl_p"><span>Сегодня. Главное: 16&nbsp;февраля, вечер</span></p>
+                </a>
+                </li>
+           
+                <li class="perminute">
+                <h2>&nbsp;</h2>
+                <a class="inurl" href="/video/click2185102/">
+                  <img class="lazyload" data-original="https://ntv-static.cdnvideo.ru/home/news/2023/20230216/arc.jpg" width="100%" />
+                  <p class="inurl_p"><span>&laquo;Приразломная&raquo;&nbsp;&#151; уникальный Арктический проект</span></p>
+                </a>
+                </li>
+           
+                <li class="perminute">
+                <h2><a href="/peredacha/zaminutu/">#ЗаМинуту</a></h2>
+                <a class="inurl" href="/video/click2185048/">
+                  <img class="lazyload" data-original="https://ntv-static.cdnvideo.ru/home/news/2023/20230216/hit.jpg" width="100%" />
+                  <p class="inurl_p"><span>Сегодня. Главное: 16&nbsp;февраля, утро</span></p>
+                </a>
+                </li>
+           
+                <li class="perminute">
+                <h2>&nbsp;</h2>
+                <a class="inurl" href="/video/click2184905/">
+                  <img class="lazyload" data-original="https://ntv-static.cdnvideo.ru/home/news/2023/20230215/med.jpg" width="100%" />
+                  <p class="inurl_p"><span>Сегодня. Главное: 15&nbsp;февраля, вечер</span></p>
+                </a>
+                </li>
+           
+                <li class="perminute">
+                <h2>&nbsp;</h2>
+                <a class="inurl" href="/video/click2184874/">
+                  <img class="lazyload" data-original="https://ntv-static.cdnvideo.ru/home/news/2023/20230215/zam-turc.jpg" width="100%" />
+                  <p class="inurl_p"><span>Аресты и&nbsp;проверки: в&nbsp;Турции оценивают ущерб от землетрясения </span></p>
+                </a>
+                </li>
+           
+            <li class="indetail">
+<style> .symbol9:before { background-image:url('https://ntv-static.cdnvideo.ru/home/news/2023/20230207/neft-price.svg'); }</style>
+              <h2><a href="/cards/">Статьи</a></h2>
+              <a class="inurl" href="/cards/5441/" title="Новый потолок — как работают санкции против российских нефтепродуктов.&#13;&#13;С 5 февраля начало действовать эмбарго на морские поставки нефтепродуктов в Евросоюз, кроме того, Запад ввел новый «ценовой потолок» в отношении российского экспорта. Теперь компаниям из стран, присоединившихся к санкциям, будет запрещено оказывать услуги, связанные с морской перевозкой российских нефтепродуктов в третьи страны, по ценам выше установленного лимита. Введено два вида ограничений: первые коснутся тех нефтепродуктов, которые торгуются с премией эталонной марке нефти, например, дизель или керосин — и в этом случае «потолок» составит $100. Вторые относятся к продуктам, которые продаются со скидкой (такие, как мазут) — им определен максимум в $45.&#13;&#13;Европейский союз, Индия, Китай, нефть, санкции, экспорт.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">    
+              <div>
+              <h3 class="symbol symbol9">
+                Новый потолок — как работают санкции против российских нефтепродуктов
+                
+              </h3>
+              <p>С 5 февраля начало действовать эмбарго на морские поставки нефтепродуктов в Евросоюз, кроме того, Запад ввел новый «ценовой потолок» в отношении российского экспорта. Теперь компаниям из стран, присоединившихся к санкциям, будет запрещено оказывать услуги, связанные с морской перевозкой российских нефтепродуктов в третьи страны, по ценам выше установленного лимита. Введено два вида ограничений: первые коснутся тех нефтепродуктов, которые торгуются с премией эталонной марке нефти, например, дизель или керосин — и в этом случае «потолок» составит $100. Вторые относятся к продуктам, которые продаются со скидкой (такие, как мазут) — им определен максимум в $45.</p>
+              </div></a></li>
+            <li class="indetail">
+<style> .symbol10:before { background-image:url('https://ntv-static.cdnvideo.ru/home/news/2023/20230207/gosdolg.svg'); }</style>
+              <h2>&nbsp;</h2>
+              <a class="inurl" href="/cards/5421/" title="С потолка постучали. Чем разрешится ситуация с государственным долгом США?&#13;&#13;Госдолг США в очередной раз уперся в «потолок». Это традиционный повод вспомнить о том, насколько велики заимствования Вашингтона и порассуждать о гипотетическом дефолте Соединенных Штатов. Давайте разберемся, грозит ли он крупнейшей экономике мира, почему это не только экономический, но и политический вопрос и откуда вообще взялся этот потолок?&#13;&#13;США, экономика и бизнес.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">    
+              <div>
+              <h3 class="symbol symbol10">
+                С потолка постучали. Чем разрешится ситуация с государственным долгом США?
+                
+              </h3>
+              <p>Госдолг США в очередной раз уперся в «потолок». Это традиционный повод вспомнить о том, насколько велики заимствования Вашингтона и порассуждать о гипотетическом дефолте Соединенных Штатов. Давайте разберемся, грозит ли он крупнейшей экономике мира, почему это не только экономический, но и политический вопрос и откуда вообще взялся этот потолок? </p>
+              </div></a></li>
+            <li class="indetail">
+<style> .symbol11:before { background-image:url('https://ntv-static.cdnvideo.ru/home/news/2022/20221225/gaz.svg'); }</style>
+              <h2>&nbsp;</h2>
+              <a class="inurl" href="/cards/5401/" title="Газовый потолок — что дальше?&#13;&#13;Европа установила «потолок» цен на газ. Ограничения, в отличие от похожих мер, связанных с нефтью, коснутся не только России, но и всех участников рынка. Брюссель рассчитывает, что это позволит стабилизировать скачущую стоимость топлива. Эксперты пессимистично отмечают, что число проблем может только вырасти. Чего стоит ждать, почему эти меры вообще могут не сработать и кто из европейцев остался недоволен этой попыткой вылезти из энергетического кризиса — в нашем материале.&#13;&#13;Газпром, Европейский союз, газ, санкции.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">    
+              <div>
+              <h3 class="symbol symbol11">
+                Газовый потолок — что дальше?
+                
+              </h3>
+              <p>Европа установила «потолок» цен на газ. Ограничения, в отличие от похожих мер, связанных с нефтью, коснутся не только России, но и всех участников рынка. Брюссель рассчитывает, что это позволит стабилизировать скачущую стоимость топлива. Эксперты пессимистично отмечают, что число проблем может только вырасти. Чего стоит ждать, почему эти меры вообще могут не сработать и кто из европейцев остался недоволен этой попыткой вылезти из энергетического кризиса — в нашем материале. </p>
+              </div></a></li>
+            <li class="indetail">
+<style> .symbol12:before { background-image:url('https://ntv-static.cdnvideo.ru/home/news/2022/20221209/usa_eur.svg'); }</style>
+              <h2><a href="/cards/">Статьи</a></h2>
+              <a class="inurl" href="/cards/5381/" title="Евросоюз против США: стоит ли ждать торговой войны между союзниками?&#13;&#13;В последние недели одной из главных экономических тем остается конфликт, вспыхнувший между США и Евросоюзом. Власти США приняли Акт о снижении инфляции, который подразумевает субсидии американским компаниям. В Европе этот шаг посчитали недружественным, нарушающим правила свободной торговли и более того — ставящим под угрозу промышленность ЕС.&#13;&#13;Европейский союз, США, экономика и бизнес.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">    
+              <div>
+              <h3 class="symbol symbol12">
+                Евросоюз против США: стоит ли ждать торговой войны между союзниками?
+                
+              </h3>
+              <p>В последние недели одной из главных экономических тем остается конфликт, вспыхнувший между США и Евросоюзом. Власти США приняли Акт о снижении инфляции, который подразумевает субсидии американским компаниям. В Европе этот шаг посчитали недружественным, нарушающим правила свободной торговли и более того — ставящим под угрозу промышленность ЕС. </p>
+              </div></a></li>
+            <li class="indetail">
+<style> .symbol13:before { background-image:url('https://ntv-static.cdnvideo.ru/home/news/2022/20221209/neft-price.svg'); }</style>
+              <h2>&nbsp;</h2>
+              <a class="inurl" href="/cards/5361/" title="Ценовой потолок.&#13;&#13;Евросоюз, а вместе с ним «Большая семерка» и Австралия официально объявили о введении предельной стоимости российской нефти. По мнению Запада, подобные ограничения, с одной стороны, лишат Москву средств для финансирования СВО, а с другой — не оставят мировые рынки без российской нефти, потому что ее все еще будет выгодно продавать. Как работает санкционный механизм, какие варианты его обхода есть и что будет делать Россия?&#13;&#13;нефть, санкции, энергетика.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">    
+              <div>
+              <h3 class="symbol symbol13">
+                Ценовой потолок
+                
+              </h3>
+              <p>Евросоюз, а вместе с ним «Большая семерка» и Австралия официально объявили о введении предельной стоимости российской нефти. По мнению Запада, подобные ограничения, с одной стороны, лишат Москву средств для финансирования СВО, а с другой — не оставят мировые рынки без российской нефти, потому что ее все еще будет выгодно продавать. Как работает санкционный механизм, какие варианты его обхода есть и что будет делать Россия? </p>
+              </div></a></li>
+            <li class="indetail">
+<style> .symbol14:before { background-image:url('https://ntv-static.cdnvideo.ru/home/news/2022/20221130/yandex.svg'); }</style>
+              <h2>&nbsp;</h2>
+              <a class="inurl" href="/cards/5341/" title="Яндекс.Деление.&#13;&#13;IT-гигант объявил о разделении бизнеса на российский и международный. Что это даст «Яндексу»?&#13;&#13;Кудрин, Яндекс, санкции, цифровая экономика.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">    
+              <div>
+              <h3 class="symbol symbol14">
+                Яндекс.Деление
+                
+              </h3>
+              <p>IT-гигант объявил о разделении бизнеса на российский и международный. Что это даст «Яндексу»? </p>
+              </div></a></li>
+            <li class="indetail">
+<style> .symbol15:before { background-image:url('https://ntv-static.cdnvideo.ru/home/news/2022/20221115/ipoteka.svg'); }</style>
+              <h2><a href="/cards/">Статьи</a></h2>
+              <a class="inurl" href="/cards/5321/" title="Ипотека «от застройщика» — в чем подвох?&#13;&#13;Центробанк даст бой банкам и застройщикам, которые предлагают ипотеку со сверхнизким или даже нулевым процентом. «Нас беспокоит ипотека от застройщика, когда предлагают якобы даже нулевую ставку. Но при этом наш анализ показывает, что стоимость квартиры по таким продуктам завышается на 20–30%», — сказала глава ЦБ Эльвира Набиуллина, выступая в Госдуме. Ограничительные меры от ЦБ вступят в силу в следующем году.&#13;&#13;Центробанк, банки, ипотека, недвижимость.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">    
+              <div>
+              <h3 class="symbol symbol15">
+                Ипотека «от застройщика» — в чем подвох?
+                
+              </h3>
+              <p>Центробанк даст бой банкам и застройщикам, которые предлагают ипотеку со сверхнизким или даже нулевым процентом. «Нас беспокоит ипотека от застройщика, когда предлагают якобы даже нулевую ставку. Но при этом наш анализ показывает, что стоимость квартиры по таким продуктам завышается на 20–30%», — сказала глава ЦБ Эльвира Набиуллина, выступая в Госдуме. Ограничительные меры от ЦБ вступят в силу в следующем году.</p>
+              </div></a></li>
+            <li class="indetail">
+<style> .symbol16:before { background-image:url('https://ntv-static.cdnvideo.ru/home/news/2022/20221111/rinok.svg'); }</style>
+              <h2>&nbsp;</h2>
+              <a class="inurl" href="/cards/5301/" title="Рынок закрывается? США признали Россию страной с нерыночной экономикой.&#13;&#13; Министерство торговли США перестало считать Россию страной с рыночной экономикой. Чем это нам грозит?&#13;&#13;санкции.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">    
+              <div>
+              <h3 class="symbol symbol16">
+                Рынок закрывается? США признали Россию страной с нерыночной экономикой 
+                
+              </h3>
+              <p> Министерство торговли США перестало считать Россию страной с рыночной экономикой. Чем это нам грозит?</p>
+              </div></a></li>
+            <li class="indetail">
+<style> .symbol17:before { background-image:url('https://ntv-static.cdnvideo.ru/home/news/2022/20221109/fcbk27.svg'); }</style>
+              <h2>&nbsp;</h2>
+              <a class="inurl" href="/cards/5281/" title="Метаморфозы Meta: почему Цукерберг уволил 11 тысяч сотрудников.&#13;&#13;11 тысяч человек лишились своих мест в компании Марка Цукерберга. Почему создатель Facebook (соцсеть заблокирована в РФ) был вынужден пойти на самое масштабное сокращение в истории компании? И что теперь ждет Meta*?
+*компания запрещена в России как экстремистская.&#13;&#13;Facebook.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">    
+              <div>
+              <h3 class="symbol symbol17">
+                Метаморфозы Meta: почему Цукерберг уволил 11 тысяч сотрудников
+                
+              </h3>
+              <p>11 тысяч человек лишились своих мест в компании Марка Цукерберга. Почему создатель Facebook (соцсеть заблокирована в РФ) был вынужден пойти на самое масштабное сокращение в истории компании? И что теперь ждет Meta*?
+*компания запрещена в России как экстремистская</p>
+              </div></a></li><li class="perminute">
+                <h2><a href="/peredacha/koroche/">#короче</a></h2>
+                <a class="inurl" href="/video/click2129264/">
+                  <img class="lazyload" data-original="https://ntv-static.cdnvideo.ru/home/news/2022/20220729/Koroche.jpg" width="100%" />
+                  <p class="inurl_p"><span>Няня</span></p>
+                </a>
+               </li>
+           <li class="perminute">
+                <h2>&nbsp;</h2>
+                <a class="inurl" href="/video/click2128352/">
+                  <img class="lazyload" data-original="https://ntv-static.cdnvideo.ru/home/news/2022/20220725/koroche.jpg" width="100%" />
+                  <p class="inurl_p"><span>Бифштекс с&nbsp;кровью</span></p>
+                </a>
+               </li>
+           <li class="perminute">
+                <h2>&nbsp;</h2>
+                <a class="inurl" href="/video/click2127138/">
+                  <img class="lazyload" data-original="https://ntv-static.cdnvideo.ru/home/news/2022/20220719/krch_137.jpg" width="100%" />
+                  <p class="inurl_p"><span>Жертвы квартирного вопроса </span></p>
+                </a>
+               </li>
+           <li class="perminute">
+                <h2><a href="/peredacha/koroche/">#короче</a></h2>
+                <a class="inurl" href="/video/click2126577/">
+                  <img class="lazyload" data-original="https://ntv-static.cdnvideo.ru/home/news/2022/20220715/krch140722.jpg" width="100%" />
+                  <p class="inurl_p"><span>Банда в&nbsp;масках</span></p>
+                </a>
+               </li>
+           <li class="perminute">
+                <h2>&nbsp;</h2>
+                <a class="inurl" href="/video/click2125829/">
+                  <img class="lazyload" data-original="https://ntv-static.cdnvideo.ru/home/news/2022/20220711/krch_136.jpg" width="100%" />
+                  <p class="inurl_p"><span>Подарок для жертвы</span></p>
+                </a>
+               </li>
+           <li class="perminute">
+                <h2>&nbsp;</h2>
+                <a class="inurl" href="/video/click2124989/">
+                  <img class="lazyload" data-original="https://ntv-static.cdnvideo.ru/home/news/2022/20220706/krch_135.jpg" width="100%" />
+                  <p class="inurl_p"><span>Отравители</span></p>
+                </a>
+               </li>
+           <li class="perminute">
+                <h2><a href="/peredacha/koroche/">#короче</a></h2>
+                <a class="inurl" href="/video/click2124095/">
+                  <img class="lazyload" data-original="https://ntv-static.cdnvideo.ru/home/news/2022/20220630/krc.jpg" width="100%" />
+                  <p class="inurl_p"><span>Урод</span></p>
+                </a>
+               </li>
+           <li class="perminute">
+                <h2>&nbsp;</h2>
+                <a class="inurl" href="/video/click2122872/">
+                  <img class="lazyload" data-original="https://ntv-static.cdnvideo.ru/home/news/2022/20220624/Korocht.jpg" width="100%" />
+                  <p class="inurl_p"><span>Брянские волки</span></p>
+                </a>
+               </li>
+           <li class="perminute">
+                <h2>&nbsp;</h2>
+                <a class="inurl" href="/video/click2122107/">
+                  <img class="lazyload" data-original="https://ntv-static.cdnvideo.ru/home/news/2022/20220621/koroche200622.jpg" width="100%" />
+                  <p class="inurl_p"><span>Новгородская пленница </span></p>
+                </a>
+               </li>
+           <li class="wecantell">
+                <h2><a href="/peredacha/mytakvidim/">#МыТакВидим</a></h2>
+                <a class="inurl" href="/video/click1810984/" style="background-image: url('https://ntv-static.cdnvideo.ru/home/news/20191230/mtv.jpg');" title="С&nbsp;наступающим!"><p>С&nbsp;наступающим!</p></a>
+               </li>
+           
+            <li class="indetail">
+<style> .symbol28:before { background-image:url('https://ntv-static.cdnvideo.ru/home/news/20191230/star.svg'); }</style>
+              <h2><a href="/cards/">Статьи</a></h2>
+              <a class="inurl" href="/cards/n2272021/" title="Звездные скандалы — 2019.&#13;&#13;Уходящий год был богат на громкие скандалы в жизни российских звезд. Программа «Новые русские сенсации» вспомнила самые яркие из них.  .&#13;&#13;скандалы, знаменитости, Волочкова, эксклюзив, Собчак Ксения, Джигурда, шоу-бизнес, Анастасия Заворотнюк.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">    
+              <div>
+              <h3 class="symbol symbol28">
+                Звездные скандалы — 2019
+              </h3>
+              <p>Уходящий год был богат на громкие скандалы в жизни российских звезд. Программа «Новые русские сенсации» вспомнила самые яркие из них.  </p>
+              </div></a></li>
+            <li class="indetail">
+<style> .symbol29:before { background-image:url('https://ntv-static.cdnvideo.ru/home/news/20191226/kot.svg'); }</style>
+              <h2>&nbsp;</h2>
+              <a class="inurl" href="/cards/n2270785/" title="Составлен рейтинг самых популярных котов десятилетия.&#13;&#13;Названы 15 самых популярных котов, которые становились героями новостей за последние 10 лет.&#13;&#13;Интернет, кошки, социология и статистика.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">    
+              <div>
+              <h3 class="symbol symbol29">
+                Составлен рейтинг самых популярных котов десятилетия
+              </h3>
+              <p>Названы 15 самых популярных котов, которые становились героями новостей за последние 10 лет.</p>
+              </div></a></li>
+            <li class="indetail">
+<style> .symbol30:before { background-image:url('https://ntv-static.cdnvideo.ru/home/news/20191122/alkogol.svg'); }</style>
+              <h2><a href="/cards/">Статьи</a></h2>
+              <a class="inurl" href="/cards/n2257660/" title="Анализы на алкоголь и лишение прав без суда: что ждет российских водителей.&#13;&#13;Получить водительское удостоверение в России станет сложнее. Теперь для этого надо будет сдать анализы на алкоголь и наркотики. За медицинскими справками выстроились огромные очереди, ведь они скоро подорожают. Но это только начало. Готовятся поправки в закон, согласно которым ГИБДД сможет лишать водительских прав без суда, получив от медиков сведения об изменениях в здоровье водителей.&#13;&#13;ГИБДД, Минздрав, автомобили, законодательство.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">    
+              <div>
+              <h3 class="symbol symbol30">
+                Анализы на алкоголь и лишение прав без суда: что ждет российских водителей
+              </h3>
+              <p>Получить водительское удостоверение в России станет сложнее. Теперь для этого надо будет сдать анализы на алкоголь и наркотики. За медицинскими справками выстроились огромные очереди, ведь они скоро подорожают. Но это только начало. Готовятся поправки в закон, согласно которым ГИБДД сможет лишать водительских прав без суда, получив от медиков сведения об изменениях в здоровье водителей.</p>
+              </div></a></li>
+            <li class="indetail">
+<style> .symbol31:before { background-image:url('https://ntv-static.cdnvideo.ru/home/news/20191114/moshenniki.svg'); }</style>
+              <h2>&nbsp;</h2>
+              <a class="inurl" href="/cards/n2254587/" title="Не говори «да»: стоит ли бояться крадущих голоса мошенников.&#13;&#13;Сообщения о телефонных звонках с предложением пройти некий соцопрос поступают все чаще. Есть мнение, что так аферисты пытаются получить образец вашего голоса, в первую очередь их интересует слово «да». Когда в России заработала единая биометрическая система, слухи стали выглядеть пугающе: сболтнешь лишнего — и потеряешь деньги на банковском счете. Что это — новый вид мошенничества или городская легенда?&#13;&#13;Интернет, банки, кражи и ограбления, мошенничество, технологии.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">    
+              <div>
+              <h3 class="symbol symbol31">
+                Не говори «да»: стоит ли бояться крадущих голоса мошенников
+              </h3>
+              <p>Сообщения о телефонных звонках с предложением пройти некий соцопрос поступают все чаще. Есть мнение, что так аферисты пытаются получить образец вашего голоса, в первую очередь их интересует слово «да». Когда в России заработала единая биометрическая система, слухи стали выглядеть пугающе: сболтнешь лишнего — и потеряешь деньги на банковском счете. Что это — новый вид мошенничества или городская легенда?</p>
+              </div></a></li>
+            <li class="indetail">
+<style> .symbol32:before { background-image:url('https://ntv-static.cdnvideo.ru/home/news/20191111/evomorales.svg'); }</style>
+              <h2>&nbsp;</h2>
+              <a class="inurl" href="/cards/n2253664/" title="Отставка и бегство Эво Моралеса: хроника событий.&#13;&#13;Лидер Боливии Эво Моралес подал в отставку спустя почти 14 лет правления. С конца октября страну будоражили массовые беспорядки, которые унесли жизни трех человек. Теперь власть перешла к оппозиционеру Жанин Аньес, а самого Моралеса хотят арестовать. По некоторым данным, он пытался сбежать с семьей в Аргентину.&#13;&#13;Аргентина, Боливия, беспорядки, митинги и протесты, назначения и отставки, оппозиция.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">    
+              <div>
+              <h3 class="symbol symbol32">
+                Отставка и бегство Эво Моралеса: хроника событий
+              </h3>
+              <p>Лидер Боливии Эво Моралес подал в отставку спустя почти 14 лет правления. С конца октября страну будоражили массовые беспорядки, которые унесли жизни трех человек. Теперь власть перешла к оппозиционеру Жанин Аньес, а самого Моралеса хотят арестовать. По некоторым данным, он пытался сбежать с семьей в Аргентину.</p>
+              </div></a></li>
+            <li class="indetail">
+<style> .symbol33:before { background-image:url('https://ntv-static.cdnvideo.ru/home/news/20191108/bad.svg'); }</style>
+              <h2><a href="/cards/">Статьи</a></h2>
+              <a class="inurl" href="/cards/n2250743/" title="Мифы и правда о БАДах и иммуномодуляторах.&#13;&#13;Женьшень, эхинацея, препараты из оленьих рогов и чудо-растений — все они, как обещает реклама, способны взбодрить организм и подстегнуть иммунитет. Звучит заманчиво, стоит дорого, но что об этих веществах и возможности усиливать иммунитет в целом знает наука? .&#13;&#13;грипп и ОРВИ, здоровье, медицина, наука и открытия.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">    
+              <div>
+              <h3 class="symbol symbol33">
+                Мифы и правда о БАДах и иммуномодуляторах
+              </h3>
+              <p>Женьшень, эхинацея, препараты из оленьих рогов и чудо-растений — все они, как обещает реклама, способны взбодрить организм и подстегнуть иммунитет. Звучит заманчиво, стоит дорого, но что об этих веществах и возможности усиливать иммунитет в целом знает наука? </p>
+              </div></a></li>
+            <li class="indetail">
+<style> .symbol34:before { background-image:url('https://ntv-static.cdnvideo.ru/home/news/20191107/lekarstva_2_.svg'); }</style>
+              <h2>&nbsp;</h2>
+              <a class="inurl" href="/cards/n2250280/" title="Наркотики в безобидных лекарствах: почему приболевшие водители рискуют правами.&#13;&#13;Успокоительные и обезболивающие продаются без рецепта и превращают приболевших водителей в официальных наркоманов. В Минздраве давно обсуждают маркировку для медпрепаратов, после которых нельзя садиться за руль. Такой знак на упаковках может появиться вместе с ужесточением наказания за вождение под воздействием лекарств.&#13;&#13;Главная дорога. Лаборатория, автомобили, болезни, наркотики и наркомания.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">    
+              <div>
+              <h3 class="symbol symbol34">
+                Наркотики в безобидных лекарствах: почему приболевшие водители рискуют правами
+              </h3>
+              <p>Успокоительные и обезболивающие продаются без рецепта и превращают приболевших водителей в официальных наркоманов. В Минздраве давно обсуждают маркировку для медпрепаратов, после которых нельзя садиться за руль. Такой знак на упаковках может появиться вместе с ужесточением наказания за вождение под воздействием лекарств.</p>
+              </div></a></li>
+            <li class="indetail">
+<style> .symbol35:before { background-image:url('https://ntv-static.cdnvideo.ru/home/news/20190805/zkh.svg'); }</style>
+              <h2>&nbsp;</h2>
+              <a class="inurl" href="/cards/n2249600/" title="Какие перемены ждут россиян с 1 ноября.&#13;&#13;С завтрашнего дня в России стартует переход на так называемый устойчивый Интернет, можно будет оформить ДТП без бланков, вступят в силу ограничения при выдаче микрокредитов, а туристическим фирмам запретят заниматься паломническими турами.&#13;&#13;ДТП, Интернет, гражданство, законодательство, кредиты, паспорта.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">    
+              <div>
+              <h3 class="symbol symbol35">
+                Какие перемены ждут россиян с 1 ноября
+              </h3>
+              <p>С завтрашнего дня в России стартует переход на так называемый устойчивый Интернет, можно будет оформить ДТП без бланков, вступят в силу ограничения при выдаче микрокредитов, а туристическим фирмам запретят заниматься паломническими турами.</p>
+              </div></a></li><li class="wecantell">
+                <h2><a href="/peredacha/mytakvidim/">#МыТакВидим</a></h2>
+                <a class="inurl" href="/video/click1777522/" style="background-image: url('https://ntv-static.cdnvideo.ru/home/news/20190917/mtv.jpg');" title="Кокорин и&nbsp;Мамаев вышли на свободу"><p>Кокорин и&nbsp;Мамаев вышли на свободу</p></a>
+               </li>
+           
+            <li class="indetail">
+<style> .symbol37:before { background-image:url('https://ntv-static.cdnvideo.ru/home/news/20190904/shkola.svg'); }</style>
+              <h2><a href="/cards/">Статьи</a></h2>
+              <a class="inurl" href="/cards/n2228780/" title="Сколько стоят сборы в школу в разных странах мира.&#13;&#13;В России в среднем собрать ребенка в школу стоит от 10 до 25 тысяч рублей (145–370 долларов). Как с этим обстоят дела в США, Швейцарии, Китае, Японии и Аргентине?&#13;&#13;дети и подростки, образование, школы.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">    
+              <div>
+              <h3 class="symbol symbol37">
+                Сколько стоят сборы в школу в разных странах мира
+              </h3>
+              <p>В России в среднем собрать ребенка в школу стоит от 10 до 25 тысяч рублей (145–370 долларов). Как с этим обстоят дела в США, Швейцарии, Китае, Японии и Аргентине?</p>
+              </div></a></li><li class="wecantell">
+                <h2><a href="/peredacha/mytakvidim/">#МыТакВидим</a></h2>
+                <a class="inurl" href="/video/click1769220/" style="background-image: url('https://ntv-static.cdnvideo.ru/home/news/20190823/fedor.jpg');" title="Робот Boston Dynamics не выдержал конкуренции с&nbsp;Фёдором"><p>Робот Boston Dynamics не выдержал конкуренции с&nbsp;Фёдором</p></a>
+               </li>
+           <li class="wecantell">
+                <h2><a href="/peredacha/mytakvidim/">#МыТакВидим</a></h2>
+                <a class="inurl" href="/video/click1768261/" style="background-image: url('https://ntv-static.cdnvideo.ru/home/news/20190820/mitak.jpg');" title="Шапокляк против &laquo;либералов&raquo;"><p>Шапокляк против &laquo;либералов&raquo;</p></a>
+               </li>
+           <li class="wecantell">
+                <h2>&nbsp;</h2>
+                <a class="inurl" href="/video/click1765781/" style="background-image: url('https://ntv-static.cdnvideo.ru/home/news/20190812/pogoda.jpg');" title="Вот оно какое наше <nobr>лето-2019</nobr>!"><p>Вот оно какое наше <nobr>лето-2019</nobr>!</p></a>
+               </li>
+           <li class="wecantell">
+                <h2>&nbsp;</h2>
+                <a class="inurl" href="/video/click1764503/" style="background-image: url('https://ntv-static.cdnvideo.ru/home/news/20190807/skrip.jpg');" title="Британская полиция не нашла &laquo;руки Кремля&raquo; в&nbsp;деле Скрипалей"><p>Британская полиция не нашла &laquo;руки Кремля&raquo; в&nbsp;деле Скрипалей</p></a>
+               </li>
+           <li class="wecantell">
+                <h2><a href="/peredacha/mytakvidim/">#МыТакВидим</a></h2>
+                <a class="inurl" href="/video/click1760080/" style="background-image: url('https://ntv-static.cdnvideo.ru/home/news/20190723/Jhonson_MTV.jpg');" title="Бориску на царство!"><p>Бориску на царство!</p></a>
+               </li>
+           <li class="wecantell">
+                <h2>&nbsp;</h2>
+                <a class="inurl" href="/video/click1745962/" style="background-image: url('https://ntv-static.cdnvideo.ru/home/news/20190611/lada.jpg');" title="Рогозина на &laquo;Жигулях&raquo; запустили в&nbsp;космос"><p>Рогозина на &laquo;Жигулях&raquo; запустили в&nbsp;космос</p></a>
+               </li>
+           <li class="wecantell">
+                <h2>&nbsp;</h2>
+                <a class="inurl" href="/video/click1725307/" style="background-image: url('https://ntv-static.cdnvideo.ru/home/news/20190419/crk.jpg');" title="Порошенко vs Зеленский. Файт!"><p>Порошенко vs Зеленский. Файт!</p></a>
+               </li>
+           
+         </ul>
+     </div>
+  </div>
+</div>
+
+<!-- Generated at 115 ms -->
+    
+<!-- Generated at 118 ms -->
+
+
+
+
+
+<div class="adtags">
+  <div class="content">
+    <h2><a href="/theme/">Главные темы</a></h2>
+
+<div class="acol">
+  <div class="acolin" style="background-image: url(https://ntv-static.cdnvideo.ru/home/news/2023/20230220/belgorod.jpg);">
+    <h3><a href="/theme/66004" title="Специальная военная операция России.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ" alt="Специальная военная операция России.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">Специальная военная операция России</a></h3>
+		<ul>
+      <li><a href="/novosti/2748635/" title="Один человек погиб и один ранен при обстреле белгородского села.&#13;&#13;ВСУ вновь обстреляли село Новая Таволжанка в Белгородской области, погибла женщина. Об этом сообщил губернатор региона Вячеслав Гладков.&#13;&#13;Белгородская область, Украина, армии мира, войны и вооруженные конфликты.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ" alt="Один человек погиб и один ранен при обстреле белгородского села.&#13;&#13;ВСУ вновь обстреляли село Новая Таволжанка в Белгородской области, погибла женщина. Об этом сообщил губернатор региона Вячеслав Гладков.&#13;&#13;Белгородская область, Украина, армии мира, войны и вооруженные конфликты.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">Один человек погиб и один ранен при обстреле белгородского села</a></li>
+			<li><a href="/novosti/2748623/" title="Уничтожение украинской ДРГ в бетонной канаве попало на видео.&#13;&#13;Минобороны РФ поделилось редкими кадрами уничтожения украинской диверсионно-разведывательной группы (ДРГ) из пяти человек, которые прятались от российских военных в канаве. .&#13;&#13;Минобороны РФ, Украина, войны и вооруженные конфликты.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"
+				alt="Уничтожение украинской ДРГ в бетонной канаве попало на видео.&#13;&#13;Минобороны РФ поделилось редкими кадрами уничтожения украинской диверсионно-разведывательной группы (ДРГ) из пяти человек, которые прятались от российских военных в канаве. .&#13;&#13;Минобороны РФ, Украина, войны и вооруженные конфликты.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">Уничтожение украинской ДРГ в бетонной канаве попало на видео 
+					</a></li>
+			<li><a href="/novosti/2748621/" title="Глава Минобороны Германии назвал ближайшие недели решающими для ВСУ.&#13;&#13;Предстоящие недели станут решающими для Украины, заявил в интервью СМИ министр обороны ФРГ Борис Писториус.  .&#13;&#13;войны и вооруженные конфликты, Германия, Украина.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"
+				alt="Глава Минобороны Германии назвал ближайшие недели решающими для ВСУ.&#13;&#13;Предстоящие недели станут решающими для Украины, заявил в интервью СМИ министр обороны ФРГ Борис Писториус.  .&#13;&#13;войны и вооруженные конфликты, Германия, Украина.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">Глава Минобороны Германии назвал ближайшие недели решающими для ВСУ 
+					</a></li>
+			
+      <li><a href="/theme/66004">Все новости по теме</a></li>
+		</ul>
+  </div>
+</div>
+
+<div class="acol">
+  <div class="acolin" style="background-image: url(https://ntv-static.cdnvideo.ru/home/news/2023/20230219/turk.jpg);">
+    <h3><a href="/theme/66724" title="Землетрясение в Турции и Сирии — 2023.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ" alt="Землетрясение в Турции и Сирии — 2023.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">Землетрясение в Турции и Сирии — 2023</a></h3>
+		<ul>
+      <li><a href="/novosti/2748560/" title="Число жертв землетрясения в Турции превысило 41 тысячу человек.&#13;&#13;Власти Турции обнародовали новые данные о погибших и пострадавших в результате стихийного бедствия.&#13;&#13;Сирия, Турция, землетрясения, поисковые операции, стихийные бедствия.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ" alt="Число жертв землетрясения в Турции превысило 41 тысячу человек.&#13;&#13;Власти Турции обнародовали новые данные о погибших и пострадавших в результате стихийного бедствия.&#13;&#13;Сирия, Турция, землетрясения, поисковые операции, стихийные бедствия.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">Число жертв землетрясения в Турции превысило 41 тысячу человек</a></li>
+			<li><a href="/novosti/2748459/" title="Из-под завалов в Турции вытащили живыми троих человек спустя 13 дней.&#13;&#13;Киргизские спасатели нашли семью под руинами дома через 13 дней после землетрясения в Турции, трое из пяти человек живы.&#13;&#13;Сирия, Турция, землетрясения, поисковые операции, стихийные бедствия.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"
+				alt="Из-под завалов в Турции вытащили живыми троих человек спустя 13 дней.&#13;&#13;Киргизские спасатели нашли семью под руинами дома через 13 дней после землетрясения в Турции, трое из пяти человек живы.&#13;&#13;Сирия, Турция, землетрясения, поисковые операции, стихийные бедствия.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">Из-под завалов в Турции вытащили живыми троих человек спустя 13 дней
+					</a></li>
+			<li><a href="/novosti/2748404/" title="В Турции произошло землетрясение магнитудой 5, 2.&#13;&#13;Новые мощные подземные толчки произошли в турецких провинциях, пострадавших от разрушительного землетрясения 6 февраля.&#13;&#13;Турция, землетрясения, стихийные бедствия.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"
+				alt="В Турции произошло землетрясение магнитудой 5, 2.&#13;&#13;Новые мощные подземные толчки произошли в турецких провинциях, пострадавших от разрушительного землетрясения 6 февраля.&#13;&#13;Турция, землетрясения, стихийные бедствия.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">В Турции произошло землетрясение магнитудой 5,2
+					</a></li>
+			
+      <li><a href="/theme/66724">Все новости по теме</a></li>
+		</ul>
+  </div>
+</div>
+
+<div class="acol">
+  <div class="acolin">
+    <h3><a href="/theme/66744" title="Послание президента — 2023.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ" alt="Послание президента — 2023.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">Послание президента — 2023</a></h3>
+		<ul>
+      <li><a href="/novosti/2748655/" title="Послание Путина парламенту пройдет без иностранных гостей, но с участниками СВО.&#13;&#13;На оглашение послания президента РФ Владимира Путина Федеральному собранию не приглашали иностранных гостей, однако там будут присутствовать участники СВО. Об этом заявил Дмитрий Песков.&#13;&#13;Песков, Путин.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ" alt="Послание Путина парламенту пройдет без иностранных гостей, но с участниками СВО.&#13;&#13;На оглашение послания президента РФ Владимира Путина Федеральному собранию не приглашали иностранных гостей, однако там будут присутствовать участники СВО. Об этом заявил Дмитрий Песков.&#13;&#13;Песков, Путин.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">Послание Путина парламенту пройдет без иностранных гостей, но с участниками СВО</a></li>
+			<li><a href="/novosti/2748606/" title="НТВ покажет послание президента Федеральному собранию в прямом эфире.&#13;&#13;Темам, связанным со специальной военной операцией, будет уделено особое внимание во время послания Владимира Путина Федеральному собранию. Об этом сообщил пресс-секретарь президента РФ Дмитрий Песков.&#13;&#13;Песков, Путин, Украина, войны и вооруженные конфликты.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"
+				alt="НТВ покажет послание президента Федеральному собранию в прямом эфире.&#13;&#13;Темам, связанным со специальной военной операцией, будет уделено особое внимание во время послания Владимира Путина Федеральному собранию. Об этом сообщил пресс-секретарь президента РФ Дмитрий Песков.&#13;&#13;Песков, Путин, Украина, войны и вооруженные конфликты.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">НТВ покажет послание президента Федеральному собранию в прямом эфире
+					</a></li>
+			<li><a href="/novosti/2748520/" title="Песков: в послании Федеральному собранию Путин уделит много внимания СВО.&#13;&#13;Президент России Владимир Путин в послании Федеральному собранию уделит много внимания теме специальной военной операции (СВО), сообщил пресс-секретарь главы государства Дмитрий Песков.&#13;&#13;войны и вооруженные конфликты, Песков, Путин, Украина.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"
+				alt="Песков: в послании Федеральному собранию Путин уделит много внимания СВО.&#13;&#13;Президент России Владимир Путин в послании Федеральному собранию уделит много внимания теме специальной военной операции (СВО), сообщил пресс-секретарь главы государства Дмитрий Песков.&#13;&#13;войны и вооруженные конфликты, Песков, Путин, Украина.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">Песков: в послании Федеральному собранию Путин уделит много внимания СВО
+					</a></li>
+			
+      <li><a href="/theme/66744">Все новости по теме</a></li>
+		</ul>
+  </div>
+</div>
+
+<div class="acol">
+  <div class="acolin" style="background-image: url(https://ntv-static.cdnvideo.ru/home/news/2023/20230219/usa.jpg);">
+    <h3><a href="/theme/46504" title="Санкции против РФ и ответные меры.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ" alt="Санкции против РФ и ответные меры.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">Санкции против РФ и ответные меры</a></h3>
+		<ul>
+      <li><a href="/novosti/2748556/" title="Bloomberg узнал детали новых санкций США против РФ.&#13;&#13;Власти США в рамках нового пакета санкций против России планируют ввести рестрикции в отношении оборонного и энергетического секторов РФ, финансовых учреждений и нескольких физлиц. Об этом пишет Bloomberg со ссылкой на источники.&#13;&#13;США, санкции.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ" alt="Bloomberg узнал детали новых санкций США против РФ.&#13;&#13;Власти США в рамках нового пакета санкций против России планируют ввести рестрикции в отношении оборонного и энергетического секторов РФ, финансовых учреждений и нескольких физлиц. Об этом пишет Bloomberg со ссылкой на источники.&#13;&#13;США, санкции.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">Bloomberg узнал детали новых санкций США против РФ</a></li>
+			<li><a href="/novosti/2748552/" title="Express: Россия зарабатывает миллиарды на нефти, несмотря на санкции.&#13;&#13;Санкции Западных стран против российской нефтяной промышленности не оказали влияния на доходы госбюджета РФ, сообщает издание Express.&#13;&#13;деньги, нефть, экономика и бизнес.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"
+				alt="Express: Россия зарабатывает миллиарды на нефти, несмотря на санкции.&#13;&#13;Санкции Западных стран против российской нефтяной промышленности не оказали влияния на доходы госбюджета РФ, сообщает издание Express.&#13;&#13;деньги, нефть, экономика и бизнес.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">Express: Россия зарабатывает миллиарды на нефти, несмотря на санкции
+					</a></li>
+			<li><a href="/novosti/2748359/" title="Главы МИД G7 договорились об усилении санкций против России.&#13;&#13;Главы МИД стран Группы семи (G7) во время переговоров в Мюнхене договорились сохранять и усиливать введенные из-за конфликта на Украине антироссийские санкции. Об этом сказано в заявлении, распространенном японским министерством иностранных дел.&#13;&#13;G7/G8, Украина, санкции.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"
+				alt="Главы МИД G7 договорились об усилении санкций против России.&#13;&#13;Главы МИД стран Группы семи (G7) во время переговоров в Мюнхене договорились сохранять и усиливать введенные из-за конфликта на Украине антироссийские санкции. Об этом сказано в заявлении, распространенном японским министерством иностранных дел.&#13;&#13;G7/G8, Украина, санкции.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">Главы МИД G7 договорились об усилении санкций против России
+					</a></li>
+			
+      <li><a href="/theme/46504">Все новости по теме</a></li>
+		</ul>
+  </div>
+</div>
+
+  </div>
+</div>
+
+
+  <div class="airsoon">
+    <div class="content">
+      <h2>Скоро в эфире</h2>
+      <div class="carairsoon">
+<div class="citem"><a href="/video/2184957/" id="p2184957" title="Каждый день для него&nbsp;&#151; новое приключение. &laquo;Акушер&raquo;&nbsp;&#151; сегодня в&nbsp;20:00&nbsp;на НТВ.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"><img  data-key="2184957" data-video_src="/promo/snippets/2023/20230216/AKUSHER__11_12__16__efir_20_02_segodnya_20_00_HD__Hr__40_00_hqrSuzqhu2FiX1uF1e_snippet.mp4" class="video_snippets lazyload" data-original="https://ntv-static.cdnvideo.ru/home/promo/2023/20230216/A11_main.jpg" width="100%" height="100%" alt="Каждый день для него&nbsp;&#151; новое приключение. &laquo;Акушер&raquo;&nbsp;&#151; сегодня в&nbsp;20:00&nbsp;на НТВ.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ" title="Каждый день для него&nbsp;&#151; новое приключение. &laquo;Акушер&raquo;&nbsp;&#151; сегодня в&nbsp;20:00&nbsp;на НТВ.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ" /><h3>Акушер</h3><p>Каждый день для него&nbsp;&#151; новое приключение. &laquo;Акушер&raquo;&nbsp;&#151; сегодня в&nbsp;20:00&nbsp;на НТВ</p></a></div>
+<div class="citem"><a href="/video/2185713/" id="p2185713" title="Супруги ищут биологическую семью мужа, чтобы узнать правду о&nbsp;наследственных заболеваниях. Новый выпуск ток-шоу &laquo;ДНК&raquo;&nbsp;&#151; сегодня на НТВ.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"><img  data-key="2185713" data-video_src="/promo/snippets/2023/20230218/DNK_16__efir_20_02_segodnya_17_50_HD_Hr__1_min_hqTsqLOga3btL2X7sL_snippet.mp4" class="video_snippets lazyload" data-original="https://ntv-static.cdnvideo.ru/home/promo/2023/20230218/D20_main.jpg" width="100%" height="100%" alt="Супруги ищут биологическую семью мужа, чтобы узнать правду о&nbsp;наследственных заболеваниях. Новый выпуск ток-шоу &laquo;ДНК&raquo;&nbsp;&#151; сегодня на НТВ.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ" title="Супруги ищут биологическую семью мужа, чтобы узнать правду о&nbsp;наследственных заболеваниях. Новый выпуск ток-шоу &laquo;ДНК&raquo;&nbsp;&#151; сегодня на НТВ.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ" /><h3>ДНК</h3><p>Супруги ищут биологическую семью мужа, чтобы узнать правду о&nbsp;наследственных заболеваниях. Новый выпуск <nobr>ток-шоу</nobr> &laquo;ДНК&raquo;&nbsp;&#151; сегодня на НТВ</p></a></div>
+<div class="citem"><a href="/video/2186302/" id="p2186302" title="Девушка хочет забрать младших сестер после того, как их мать призналась в&nbsp;убийстве сына. &laquo;За гранью&raquo;&nbsp;&#151; сегодня в&nbsp;16:45&nbsp;на НТВ.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"><img  data-key="2186302" data-video_src="/promo/snippets/2023/20230219/ZG_16____20_02____16_45__HD__Hr___1_hqRtx6ut6kYUsr5m2w_snippet.mp4" class="video_snippets lazyload" data-original="https://ntv-static.cdnvideo.ru/home/promo/2023/20230219/zg_main.jpg" width="100%" height="100%" alt="Девушка хочет забрать младших сестер после того, как их мать призналась в&nbsp;убийстве сына. &laquo;За гранью&raquo;&nbsp;&#151; сегодня в&nbsp;16:45&nbsp;на НТВ.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ" title="Девушка хочет забрать младших сестер после того, как их мать призналась в&nbsp;убийстве сына. &laquo;За гранью&raquo;&nbsp;&#151; сегодня в&nbsp;16:45&nbsp;на НТВ.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ" /><h3>За гранью</h3><p>Девушка хочет забрать младших сестер после того, как их мать призналась в&nbsp;убийстве сына. &laquo;За гранью&raquo;&nbsp;&#151; сегодня в&nbsp;16:45&nbsp;на НТВ</p></a></div>
+<div class="citem"><a href="/video/2185346/" id="p2185346" title="Послание Владимира Путина Федеральному собранию и&nbsp;специальный выпуск ток-шоу &laquo;Место встречи&raquo;&nbsp;&#151; в&nbsp;прямом эфире во вторник на НТВ.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"><img  data-key="2185346" data-video_src="/promo/snippets/2023/20230217/MESTO_VSTRECHI___POSLANIE_PREZIDENTA_RF_V__PUTINA_FED__SOBRANIYU_efir_21_02_21_FEVRALYA_11_00_MSK_HD_Hr__35_00_hqNCTXoY6zihTiVGWd_snippet.mp4" class="video_snippets lazyload" data-original="https://ntv-static.cdnvideo.ru/home/promo/2023/20230217/MV_main.jpg" width="100%" height="100%" alt="Послание Владимира Путина Федеральному собранию и&nbsp;специальный выпуск ток-шоу &laquo;Место встречи&raquo;&nbsp;&#151; в&nbsp;прямом эфире во вторник на НТВ.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ" title="Послание Владимира Путина Федеральному собранию и&nbsp;специальный выпуск ток-шоу &laquo;Место встречи&raquo;&nbsp;&#151; в&nbsp;прямом эфире во вторник на НТВ.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ" /><h3>Место встречи</h3><p>Послание Владимира Путина Федеральному собранию и&nbsp;специальный выпуск <nobr>ток-шоу</nobr> &laquo;Место встречи&raquo;&nbsp;&#151; в&nbsp;прямом эфире во вторник на НТВ</p></a></div>
+<div class="citem"><a href="/video/2185347/" id="p2185347" title="Послание президента Федеральному собранию&nbsp;&#151; во вторник в&nbsp;полдень на НТВ.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"><img  data-key="2185347" data-video_src="/promo/snippets/2023/20230217/POSLANIE_PREZIDENTA_RF_V__PUTINA_FEDERAL_NOMU_SOBRANIYU_efir_21_02_21_FEVRALYA_12_00_MSK_HD_Hr__15_00_hqxLMnhthimMLeG9tQ_snippet.mp4" class="video_snippets lazyload" data-original="https://ntv-static.cdnvideo.ru/home/promo/2023/20230217/PO_main.jpg" width="100%" height="100%" alt="Послание президента Федеральному собранию&nbsp;&#151; во вторник в&nbsp;полдень на НТВ.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ" title="Послание президента Федеральному собранию&nbsp;&#151; во вторник в&nbsp;полдень на НТВ.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ" /><h3>Послание президента Владимира Путина Федеральному собранию</h3><p>Послание президента Федеральному собранию&nbsp;&#151; во вторник в&nbsp;полдень на НТВ</p></a></div>
+<div class="citem"><a href="/video/2184675/" id="p2184675" title="Сага о&nbsp;мужестве, доблести и&nbsp;чести &laquo;Отставник&raquo;&nbsp;&#151; 23&nbsp;февраля на НТВ.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"><img  data-key="2184675" data-video_src="/promo/snippets/2023/20230215/OTSTAVNIK_obshch__16__e_fir_23_02_23_FEVRALIA_do_14_20_HD_KHr_45_00_mxf_hq6E9RKf8fppT3GsZR_snippet.mp4" class="video_snippets lazyload" data-original="https://ntv-static.cdnvideo.ru/home/promo/2023/20230215/ots-_main.jpg" width="100%" height="100%" alt="Сага о&nbsp;мужестве, доблести и&nbsp;чести &laquo;Отставник&raquo;&nbsp;&#151; 23&nbsp;февраля на НТВ.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ" title="Сага о&nbsp;мужестве, доблести и&nbsp;чести &laquo;Отставник&raquo;&nbsp;&#151; 23&nbsp;февраля на НТВ.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ" /><h3>Отставник</h3><p>Сага о&nbsp;мужестве, доблести и&nbsp;чести &laquo;Отставник&raquo;&nbsp;&#151; 23&nbsp;февраля на НТВ</p></a></div>
+<div class="citem"><a href="/video/2184677/" id="p2184677" title="Премьера документального фильма Алексея Поборцева &laquo;Три танкиста&raquo;&nbsp;&#151; 23&nbsp;февраля в&nbsp;23:40.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"><img  data-key="2184677" data-video_src="/promo/snippets/2023/20230217/TRI_TANKISTA_16__efir_23_02_23_FEVRALYA_23_40_HD_Hr__55_00_na_zamenu_hqlsiTwOORi29xiVSw_snippet.mp4" class="video_snippets lazyload" data-original="https://ntv-static.cdnvideo.ru/home/promo/2023/20230215/tri_main.jpg" width="100%" height="100%" alt="Премьера документального фильма Алексея Поборцева &laquo;Три танкиста&raquo;&nbsp;&#151; 23&nbsp;февраля в&nbsp;23:40.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ" title="Премьера документального фильма Алексея Поборцева &laquo;Три танкиста&raquo;&nbsp;&#151; 23&nbsp;февраля в&nbsp;23:40.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ" /><h3>Три танкиста</h3><p>Премьера документального фильма Алексея Поборцева &laquo;Три танкиста&raquo;&nbsp;&#151; 23&nbsp;февраля в&nbsp;23:40</p></a></div>
+<div class="citem"><a href="/video/2184964/" id="p2184964" title="Дмитрий Власкин в&nbsp;остросюжетном сериале &laquo;Приказа умирать не было&raquo;&nbsp;&#151; премьера&nbsp;&#151; 24&nbsp;февраля на НТВ.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"><img  data-key="2184964" data-video_src="/promo/snippets/2023/20230216/PRIKAZA_UMIRAT__NE_BYLO_obshch___2_16__efir_24_02_24_FEVRALYA_13_15_HD__Hr__45_00_hq5C9RkLFLSZhr9ulO_snippet.mp4" class="video_snippets lazyload" data-original="https://ntv-static.cdnvideo.ru/home/promo/2023/20230216/prikaz_main.jpg" width="100%" height="100%" alt="Дмитрий Власкин в&nbsp;остросюжетном сериале &laquo;Приказа умирать не было&raquo;&nbsp;&#151; премьера&nbsp;&#151; 24&nbsp;февраля на НТВ.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ" title="Дмитрий Власкин в&nbsp;остросюжетном сериале &laquo;Приказа умирать не было&raquo;&nbsp;&#151; премьера&nbsp;&#151; 24&nbsp;февраля на НТВ.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ" /><h3>Приказа умирать не было</h3><p>Дмитрий Власкин в&nbsp;остросюжетном сериале &laquo;Приказа умирать не было&raquo;&nbsp;&#151; премьера&nbsp;&#151; 24&nbsp;февраля на НТВ</p></a></div>
+<div class="citem"><a href="/video/2185716/" id="p2185716" title="Ко Дню защитника Отечества: необычные истории обычных героев. &laquo;Когда придет весна&raquo;&nbsp;&#151; 24&nbsp;февраля в&nbsp;00:00&nbsp;на НТВ.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"><img  data-key="2185716" data-video_src="/promo/snippets/2023/20230218/KOGDA_PRIDET_VESNA_16__efir_24_02_24_FEVRALYA_00_00_HD_Hr__1_min_05_sek_hqd5ORHwulgDeWkYw3_snippet.mp4" class="video_snippets lazyload" data-original="https://ntv-static.cdnvideo.ru/home/promo/2023/20230218/KO_main.jpg" width="100%" height="100%" alt="Ко Дню защитника Отечества: необычные истории обычных героев. &laquo;Когда придет весна&raquo;&nbsp;&#151; 24&nbsp;февраля в&nbsp;00:00&nbsp;на НТВ.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ" title="Ко Дню защитника Отечества: необычные истории обычных героев. &laquo;Когда придет весна&raquo;&nbsp;&#151; 24&nbsp;февраля в&nbsp;00:00&nbsp;на НТВ.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ" /><h3>Когда придет весна</h3><p>Ко Дню защитника Отечества: необычные истории обычных героев. &laquo;Когда придет весна&raquo;&nbsp;&#151; 24&nbsp;февраля в&nbsp;00:00&nbsp;на НТВ</p></a></div>
+<div class="citem"><a href="/video/2184678/" id="p2184678" title="Русские своих не бросают! Алексей Чадов в&nbsp;боевике &laquo;Своя война: шторм в&nbsp;пустыне&raquo;&nbsp;&#151; премьера на НТВ&nbsp;&#151; в&nbsp;субботу в&nbsp;20:20.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"><img  data-key="2184678" data-video_src="/promo/snippets/2023/20230215/SVOIA_VOI_NA__SHTORM_V_PUSTYNE_obshch___1_16__e_fir_25_02_25_FEVRALIA_20_20_HD_KHr_01_10_00_hqA7nODRS3eDFfaiRa_snippet.mp4" class="video_snippets lazyload" data-original="https://ntv-static.cdnvideo.ru/home/promo/2023/20230215/svo__main.jpg" width="100%" height="100%" alt="Русские своих не бросают! Алексей Чадов в&nbsp;боевике &laquo;Своя война: шторм в&nbsp;пустыне&raquo;&nbsp;&#151; премьера на НТВ&nbsp;&#151; в&nbsp;субботу в&nbsp;20:20.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ" title="Русские своих не бросают! Алексей Чадов в&nbsp;боевике &laquo;Своя война: шторм в&nbsp;пустыне&raquo;&nbsp;&#151; премьера на НТВ&nbsp;&#151; в&nbsp;субботу в&nbsp;20:20.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ" /><h3>Своя война: Шторм в пустыне</h3><p>Русские своих не бросают! Алексей Чадов в&nbsp;боевике &laquo;Своя война: шторм в&nbsp;пустыне&raquo;&nbsp;&#151; премьера на НТВ&nbsp;&#151; в&nbsp;субботу в&nbsp;20:20</p></a></div>
+<div class="citem"><a href="/video/2184960/" id="p2184960" title="Искрометная комедия &laquo;Афоня&raquo;&nbsp;&#151; в&nbsp;субботу в&nbsp;13:00&nbsp;на НТВ.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"><img  data-key="2184960" data-video_src="/promo/snippets/2023/20230216/AFONYA_0__efir_25_02_SB_13_00_HD__Hr__40_00_hqv7VT32MniO8k3qHF_snippet.mp4" class="video_snippets lazyload" data-original="https://ntv-static.cdnvideo.ru/home/promo/2023/20230216/AF_main.jpg" width="100%" height="100%" alt="Искрометная комедия &laquo;Афоня&raquo;&nbsp;&#151; в&nbsp;субботу в&nbsp;13:00&nbsp;на НТВ.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ" title="Искрометная комедия &laquo;Афоня&raquo;&nbsp;&#151; в&nbsp;субботу в&nbsp;13:00&nbsp;на НТВ.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ" /><h3>Афоня</h3><p>Искрометная комедия &laquo;Афоня&raquo;&nbsp;&#151; в&nbsp;субботу в&nbsp;13:00&nbsp;на НТВ</p></a></div>
+<div class="citem"><a href="/video/2182700/" id="p2182700" title="Праздничный розыгрыш призов&nbsp;&#151; 26&nbsp;февраля в&nbsp;08:20&nbsp;в лотерейном шоу &laquo;У нас выигрывают!&raquo;.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"><img  data-key="2182700" data-video_src="/promo/snippets/2023/20230208/LOTEREYa_U_NAS_VYiIGRYiVAYuT__s_12_02_PO_26_02_12__yephir_26_phevralya_08_20_ND_Hr__20_00_hqdkqQc560dI4QFwQG_snippet.mp4" class="video_snippets lazyload" data-original="https://ntv-static.cdnvideo.ru/home/promo/2023/20230208/loto_main.jpg" width="100%" height="100%" alt="Праздничный розыгрыш призов&nbsp;&#151; 26&nbsp;февраля в&nbsp;08:20&nbsp;в лотерейном шоу &laquo;У нас выигрывают!&raquo;.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ" title="Праздничный розыгрыш призов&nbsp;&#151; 26&nbsp;февраля в&nbsp;08:20&nbsp;в лотерейном шоу &laquo;У нас выигрывают!&raquo;.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ" /><h3>У нас выигрывают!</h3><p>Праздничный розыгрыш призов&nbsp;&#151; 26&nbsp;февраля в&nbsp;08:20&nbsp;в лотерейном шоу &laquo;У нас выигрывают!&raquo;</p></a></div>
+  </div>
+  </div>
+</div>
+
+
+  <link rel="stylesheet" type="text/css" href="/css/addvote.css" />
+  <div class="content">
+  <ul id="imp_survey_carousel">
+
+
+
+</ul>
+</div>
+  <script type="text/javascript">
+  // <![CDATA[
+   $(function() {
+
+    	var $main = $('#imp_survey_carousel'),
+    	  	$cours = $main.children();
+    	$cours.sort(function() {return Math.random() - .5; });
+    	$main.append($cours);
+
+
+     $('#imp_survey_carousel').slick({
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        autoplay: true,
+        autoplaySpeed: 5000,
+        pauseOnHover:true,
+        arrows: true,
+        adaptiveHeight: true,
+        responsive: [
+          {
+            breakpoint: 969,
+            settings: {
+              autoplay: false
+            }
+          }
+        ]
+     });
+
+   });
+  // ]]>
+  </script>
+
+<!-- Generated at 155 ms -->
+
+
+
+
+		<div class="tag4new">
+    <h2>Теги</h2>
+    
+
+<div id="flamur9" class="flamur9">
+  <div class="flamur9in">
+  <div id="adfox_15529136651199965"></div>
+  <script>
+    window.MTT.wrapper({
+      adfox: {
+        ownerId: 277740,
+        onRender: function () {
+          if (window.screen.width >= 969) {
+            var flamin = $(".flamur9in");
+            if (flamin.width() <= 240) {
+              if ($(".advsmall").length > 0) {
+                $(".advsmall").remove();
+                flamin.attr("style", "");
+              }
+              flamin.css("margin-top", "40px");
+              flamin.append('<div class="advsmall"><a href="/kompania/adv/">Реклама на НТВ</a></div>');
+            }
+          }
+        },
+        onStub: function () {
+          console.info("300x600 onStub");
+        },
+        paramsAdaptive: {
+          desktop: {
+            p1: "cmmiz",
+            p2: "gdyk",
+            pk: AIR.adfox,
+            pke: "1",
+          },
+          tablet: {
+            p1: "cmmiz",
+            p2: "gdyk",
+            pk: AIR.adfox,
+            pke: "1",
+          },
+        },
+      },
+      adfoxHeaderBidding: {
+        units: [
+          {
+            sizes: [[300, 600],[240, 400]],
+            bids: [
+              { bidder: "myTarget", params: { placementId: "828060" } },
+              { bidder: "betweenDigital", params: { placementId: "3954968" } },
+              { bidder: "adriver", params: { placementId: "40:GPM_Ntv.ru_D_Sidebar-player_300x600" }},
+              { bidder: "adfox_adsmart", params: { p1: "cshei", p2: "hhro" } },
+              { bidder: "getintent", params: { placementId: "215_GPM_Ntv.ru_D_Sidebar-player_300x600" } },
+            ],
+          },
+        ],
+      },
+      banner: {
+        refresh: {
+          checkVisibility: true,
+          seconds: 30
+        }
+      },
+      containerId: "adfox_15529136651199965",
+    });
+  </script>
+
+  </div>
+</div>
+
+    <div>
+			
+			<div class="tag5">
+				<h3><a href="/tag/6086" title="Украина.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ" alt="Украина.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">Украина</a></h3>
+				<ul>
+					<li><a href="/novosti/2748657/" alt="Ни политических свобод, ни благополучия: чего добился Киев за 9 лет после Майдана.&#13;&#13;Ровно 9 лет назад в этот день в Киеве началось кровопролитие. Участники так называемого Евромайдана перешли в наступление на правоохранителей, применили огнестрельное оружие. В это время президент Янукович вел 6-часовые переговоры с министрами иностранных дел Польши, Германии и Франции. Те говорили, что будут гарантами мира на Украине и убеждали главу государства не вести жесткую линию в отношении активистов Майдана. Итог известен.&#13;&#13;Запад, памятные даты, перевороты, Украина.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"
+							title="Ни политических свобод, ни благополучия: чего добился Киев за 9 лет после Майдана.&#13;&#13;Ровно 9 лет назад в этот день в Киеве началось кровопролитие. Участники так называемого Евромайдана перешли в наступление на правоохранителей, применили огнестрельное оружие. В это время президент Янукович вел 6-часовые переговоры с министрами иностранных дел Польши, Германии и Франции. Те говорили, что будут гарантами мира на Украине и убеждали главу государства не вести жесткую линию в отношении активистов Майдана. Итог известен.&#13;&#13;Запад, памятные даты, перевороты, Украина.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"><img
+							src="https://ntv-static.cdnvideo.ru/home/news/2023/20230220/13_sobol_main.jpg" width="240" height="135"
+							alt="Ни политических свобод, ни благополучия: чего добился Киев за 9 лет после Майдана.&#13;&#13;Ровно 9 лет назад в этот день в Киеве началось кровопролитие. Участники так называемого Евромайдана перешли в наступление на правоохранителей, применили огнестрельное оружие. В это время президент Янукович вел 6-часовые переговоры с министрами иностранных дел Польши, Германии и Франции. Те говорили, что будут гарантами мира на Украине и убеждали главу государства не вести жесткую линию в отношении активистов Майдана. Итог известен.&#13;&#13;Запад, памятные даты, перевороты, Украина.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"
+							title="Ни политических свобод, ни благополучия: чего добился Киев за 9 лет после Майдана.&#13;&#13;Ровно 9 лет назад в этот день в Киеве началось кровопролитие. Участники так называемого Евромайдана перешли в наступление на правоохранителей, применили огнестрельное оружие. В это время президент Янукович вел 6-часовые переговоры с министрами иностранных дел Польши, Германии и Франции. Те говорили, что будут гарантами мира на Украине и убеждали главу государства не вести жесткую линию в отношении активистов Майдана. Итог известен.&#13;&#13;Запад, памятные даты, перевороты, Украина.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ" /></a><a
+						href="/novosti/2748657/" alt="Ни политических свобод, ни благополучия: чего добился Киев за 9 лет после Майдана.&#13;&#13;Ровно 9 лет назад в этот день в Киеве началось кровопролитие. Участники так называемого Евромайдана перешли в наступление на правоохранителей, применили огнестрельное оружие. В это время президент Янукович вел 6-часовые переговоры с министрами иностранных дел Польши, Германии и Франции. Те говорили, что будут гарантами мира на Украине и убеждали главу государства не вести жесткую линию в отношении активистов Майдана. Итог известен.&#13;&#13;Запад, памятные даты, перевороты, Украина.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"
+							title="Ни политических свобод, ни благополучия: чего добился Киев за 9 лет после Майдана.&#13;&#13;Ровно 9 лет назад в этот день в Киеве началось кровопролитие. Участники так называемого Евромайдана перешли в наступление на правоохранителей, применили огнестрельное оружие. В это время президент Янукович вел 6-часовые переговоры с министрами иностранных дел Польши, Германии и Франции. Те говорили, что будут гарантами мира на Украине и убеждали главу государства не вести жесткую линию в отношении активистов Майдана. Итог известен.&#13;&#13;Запад, памятные даты, перевороты, Украина.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">Ни политических свобод, ни благополучия: чего добился Киев за 9 лет после Майдана</a></li>
+					<li><a href="/novosti/2748669/" alt="Байден анонсировал выделение нового пакета военной помощи Украине.&#13;&#13;Белый дом опубликовал заявление президент США Джо Байдена, приуроченное к его визиту в Киев.&#13;&#13;Байден, США, Украина, вооружение.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"
+							title="Байден анонсировал выделение нового пакета военной помощи Украине.&#13;&#13;Белый дом опубликовал заявление президент США Джо Байдена, приуроченное к его визиту в Киев.&#13;&#13;Байден, США, Украина, вооружение.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">Байден анонсировал выделение нового пакета военной помощи Украине</a></li>
+					<li><a href="/novosti/2748665/" alt="Зеленский опубликовал официальное фото с Байденом в Киеве.&#13;&#13;Президент Украины Владимир Зеленский опубликовал официальное фото с президентом США Джо Байденом в Киеве.&#13;&#13;Байден, Зеленский, Киев, Украина, фото.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"
+							title="Зеленский опубликовал официальное фото с Байденом в Киеве.&#13;&#13;Президент Украины Владимир Зеленский опубликовал официальное фото с президентом США Джо Байденом в Киеве.&#13;&#13;Байден, Зеленский, Киев, Украина, фото.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">Зеленский опубликовал официальное фото с Байденом в Киеве</a></li>
+					<li><a href="/novosti/2748660/" alt="Байден прибыл в Киев.&#13;&#13;Президент США Джо Байден прибыл в Киев, сообщают СМИ.&#13;&#13;Байден, Киев, США, Украина.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"
+							title="Байден прибыл в Киев.&#13;&#13;Президент США Джо Байден прибыл в Киев, сообщают СМИ.&#13;&#13;Байден, Киев, США, Украина.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">Байден прибыл в Киев</a></li>
+					<li><a href="/novosti/2748651/" alt="Парламентская делегация Израиля прибыла в Киев.&#13;&#13;Парламентская делегация Израиля прибыла в Киев, из-за чего в центре города перекрыли несколько улиц, сообщил посол Украины в Израиле Евгений Корнийчук.  .&#13;&#13;Израиль, Киев, Украина.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"
+							title="Парламентская делегация Израиля прибыла в Киев.&#13;&#13;Парламентская делегация Израиля прибыла в Киев, из-за чего в центре города перекрыли несколько улиц, сообщил посол Украины в Израиле Евгений Корнийчук.  .&#13;&#13;Израиль, Киев, Украина.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">Парламентская делегация Израиля прибыла в Киев </a></li>
+					
+					<!-- 1 news Generated at 342 ms -->
+				</ul>
+			</div>
+			
+			<div class="tag5">
+				<h3><a href="/tag/7766" title="войны и вооруженные конфликты.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ" alt="войны и вооруженные конфликты.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">войны и вооруженные конфликты</a></h3>
+				<ul>
+					<li><a
+						href="/novosti/2748647/" alt="Силовые ведомства Курской области переведены на усиленный режим работы.&#13;&#13;Силовые ведомства Курской области переведены на усиленный режим работы из-за риска провокаций. Об этом сообщил на оперативном совещании администрации губернатор региона Роман Старовойт.&#13;&#13;Курская область, Украина, войны и вооруженные конфликты.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"
+							title="Силовые ведомства Курской области переведены на усиленный режим работы.&#13;&#13;Силовые ведомства Курской области переведены на усиленный режим работы из-за риска провокаций. Об этом сообщил на оперативном совещании администрации губернатор региона Роман Старовойт.&#13;&#13;Курская область, Украина, войны и вооруженные конфликты.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">Силовые ведомства Курской области переведены на усиленный режим работы</a></li>
+					<li><a href="/novosti/2748637/" alt="«Окончательно охамели»: зачем Украина копирует нацистскую Германию.&#13;&#13;Киевские власти продолжают собирать со всего Запада оружие и уже не стесняются неприкрытого нацизма даже на официальном уровне. Верховная Рада намерена уже в ближайшее время отменить День Победы. В документе, который рассмотрит парламент, празднование 9 Мая названо «рудиментом». Авторы законопроекта — депутаты националистической партии «Свобода», «Голоса» и правящей партии Зеленского — «Слуга народа».&#13;&#13;войны и вооруженные конфликты, День Победы, история, национальная рознь, Украина.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"
+							title="«Окончательно охамели»: зачем Украина копирует нацистскую Германию.&#13;&#13;Киевские власти продолжают собирать со всего Запада оружие и уже не стесняются неприкрытого нацизма даже на официальном уровне. Верховная Рада намерена уже в ближайшее время отменить День Победы. В документе, который рассмотрит парламент, празднование 9 Мая названо «рудиментом». Авторы законопроекта — депутаты националистической партии «Свобода», «Голоса» и правящей партии Зеленского — «Слуга народа».&#13;&#13;войны и вооруженные конфликты, День Победы, история, национальная рознь, Украина.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">«Окончательно охамели»: зачем Украина копирует нацистскую Германию</a></li>
+					<li><a href="/novosti/2748608/" alt="Жители Амстердама не верят в победу Киева и призывают жить с Россией в мире.&#13;&#13;Антивоенные митинги в Европе не прекращаются.&#13;&#13;Нидерланды, войны и вооруженные конфликты, митинги и протесты.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"
+							title="Жители Амстердама не верят в победу Киева и призывают жить с Россией в мире.&#13;&#13;Антивоенные митинги в Европе не прекращаются.&#13;&#13;Нидерланды, войны и вооруженные конфликты, митинги и протесты.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">Жители Амстердама не верят в победу Киева и призывают жить с Россией в мире</a></li>
+					<li><a href="/novosti/2748635/" alt="Один человек погиб и один ранен при обстреле белгородского села.&#13;&#13;ВСУ вновь обстреляли село Новая Таволжанка в Белгородской области, погибла женщина. Об этом сообщил губернатор региона Вячеслав Гладков.&#13;&#13;Белгородская область, Украина, армии мира, войны и вооруженные конфликты.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"
+							title="Один человек погиб и один ранен при обстреле белгородского села.&#13;&#13;ВСУ вновь обстреляли село Новая Таволжанка в Белгородской области, погибла женщина. Об этом сообщил губернатор региона Вячеслав Гладков.&#13;&#13;Белгородская область, Украина, армии мира, войны и вооруженные конфликты.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">Один человек погиб и один ранен при обстреле белгородского села</a></li>
+					<li><a href="/novosti/2748624/" alt="Бастрыкин назвал число уголовных дел о дискредитации российской армии.&#13;&#13;Следственный комитет возбудил более 150 уголовных дел из-за высказываний, дискредитирующих Вооруженные силы России. Их фигурантами стали 136 человек, рассказал председатель СК России Александр Бастрыкин. .&#13;&#13;армия и флот РФ, войны и вооруженные конфликты, приговоры, Следственный комитет, суды.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"
+							title="Бастрыкин назвал число уголовных дел о дискредитации российской армии.&#13;&#13;Следственный комитет возбудил более 150 уголовных дел из-за высказываний, дискредитирующих Вооруженные силы России. Их фигурантами стали 136 человек, рассказал председатель СК России Александр Бастрыкин. .&#13;&#13;армия и флот РФ, войны и вооруженные конфликты, приговоры, Следственный комитет, суды.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">Бастрыкин назвал число уголовных дел о дискредитации российской армии</a></li>
+					
+					<!-- 1 news Generated at 350 ms -->
+				</ul>
+			</div>
+			
+			<div class="tag5">
+				<h3><a href="/tag/6306" title="Москва.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ" alt="Москва.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">Москва</a></h3>
+				<ul>
+					<li><a href="/novosti/2748664/" alt="Дело о покушении на убийство возбудили в Москве после взрыва подарочной коробки.&#13;&#13;СК возбудил уголовное дело о покушении на убийство после взрыва коробки в руках девушки в ТиНАО.&#13;&#13;взрывы, Москва.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"
+							title="Дело о покушении на убийство возбудили в Москве после взрыва подарочной коробки.&#13;&#13;СК возбудил уголовное дело о покушении на убийство после взрыва коробки в руках девушки в ТиНАО.&#13;&#13;взрывы, Москва.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"><img
+							src="https://ntv-static.cdnvideo.ru/home/news/2023/20230220/procuratura_main.jpg" width="240" height="135"
+							alt="Дело о покушении на убийство возбудили в Москве после взрыва подарочной коробки.&#13;&#13;СК возбудил уголовное дело о покушении на убийство после взрыва коробки в руках девушки в ТиНАО.&#13;&#13;взрывы, Москва.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"
+							title="Дело о покушении на убийство возбудили в Москве после взрыва подарочной коробки.&#13;&#13;СК возбудил уголовное дело о покушении на убийство после взрыва коробки в руках девушки в ТиНАО.&#13;&#13;взрывы, Москва.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ" /></a><a
+						href="/novosti/2748664/" alt="Дело о покушении на убийство возбудили в Москве после взрыва подарочной коробки.&#13;&#13;СК возбудил уголовное дело о покушении на убийство после взрыва коробки в руках девушки в ТиНАО.&#13;&#13;взрывы, Москва.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"
+							title="Дело о покушении на убийство возбудили в Москве после взрыва подарочной коробки.&#13;&#13;СК возбудил уголовное дело о покушении на убийство после взрыва коробки в руках девушки в ТиНАО.&#13;&#13;взрывы, Москва.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">Дело о покушении на убийство возбудили в Москве после взрыва подарочной коробки</a></li>
+					<li><a href="/novosti/2748656/" alt="Коробку со взрывчаткой девушке в Новой Москве мог отправить отвергнутый ухажер.&#13;&#13;Девушка, пострадавшая от взрыва коробки в доме в Новой Москве, могла получить ее от знакомого, которому раньше отказала в отношениях.&#13;&#13;взрывы, Москва.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"
+							title="Коробку со взрывчаткой девушке в Новой Москве мог отправить отвергнутый ухажер.&#13;&#13;Девушка, пострадавшая от взрыва коробки в доме в Новой Москве, могла получить ее от знакомого, которому раньше отказала в отношениях.&#13;&#13;взрывы, Москва.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">Коробку со взрывчаткой девушке в Новой Москве мог отправить отвергнутый ухажер</a></li>
+					<li><a href="/novosti/2748653/" alt="В Южном Медведкове открылась новая поликлиника.&#13;&#13;В столичном районе Южное Медведково открыли новую детскую поликлинику.&#13;&#13;медицина, Москва, Собянин Сергей.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"
+							title="В Южном Медведкове открылась новая поликлиника.&#13;&#13;В столичном районе Южное Медведково открыли новую детскую поликлинику.&#13;&#13;медицина, Москва, Собянин Сергей.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">В Южном Медведкове открылась новая поликлиника</a></li>
+					<li><a href="/novosti/2748192/" alt="Москвичи больше остальных россиян потратят на подарки к 23 Февраля.&#13;&#13;В этом году расходы москвичей на подарки ко Дню Защитника Отечества — самые высокие среди жителей всех регионов России.&#13;&#13;Москва, 23 Февраля.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"
+							title="Москвичи больше остальных россиян потратят на подарки к 23 Февраля.&#13;&#13;В этом году расходы москвичей на подарки ко Дню Защитника Отечества — самые высокие среди жителей всех регионов России.&#13;&#13;Москва, 23 Февраля.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">Москвичи больше остальных россиян потратят на подарки к 23 Февраля</a></li>
+					<li><a href="/novosti/2748641/" alt="Высота сугробов в Москве впервые за зиму достигла 38 сантиметров.&#13;&#13;В столице высота снежного покрова достигла максимума с начала зимы.&#13;&#13;Москва, погода, снег.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"
+							title="Высота сугробов в Москве впервые за зиму достигла 38 сантиметров.&#13;&#13;В столице высота снежного покрова достигла максимума с начала зимы.&#13;&#13;Москва, погода, снег.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">Высота сугробов в Москве впервые за зиму достигла 38 сантиметров</a></li>
+					
+					<!-- 1 news Generated at 359 ms -->
+				</ul>
+			</div>
+			
+			<div class="tag5">
+				<h3><a href="/tag/96064" title="санкции.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ" alt="санкции.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">санкции</a></h3>
+				<ul>
+					<li><a href="/novosti/2748652/" alt="Bloomberg: G7 и ЕС обсуждают систему отслеживания оборота алмазов, чтобы ограничить торговлю камнями из России.&#13;&#13;G7 может выступить с заявлением по этому поводу уже на этой неделе, к годовщине начала спецоперации на Украине.  .&#13;&#13;G7/G8, Европейский союз, алмазы, санкции, экономика и бизнес.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"
+							title="Bloomberg: G7 и ЕС обсуждают систему отслеживания оборота алмазов, чтобы ограничить торговлю камнями из России.&#13;&#13;G7 может выступить с заявлением по этому поводу уже на этой неделе, к годовщине начала спецоперации на Украине.  .&#13;&#13;G7/G8, Европейский союз, алмазы, санкции, экономика и бизнес.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"><img
+							src="https://ntv-static.cdnvideo.ru/home/news/2023/20230220/diamonds_main.jpg" width="240" height="135"
+							alt="Bloomberg: G7 и ЕС обсуждают систему отслеживания оборота алмазов, чтобы ограничить торговлю камнями из России.&#13;&#13;G7 может выступить с заявлением по этому поводу уже на этой неделе, к годовщине начала спецоперации на Украине.  .&#13;&#13;G7/G8, Европейский союз, алмазы, санкции, экономика и бизнес.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"
+							title="Bloomberg: G7 и ЕС обсуждают систему отслеживания оборота алмазов, чтобы ограничить торговлю камнями из России.&#13;&#13;G7 может выступить с заявлением по этому поводу уже на этой неделе, к годовщине начала спецоперации на Украине.  .&#13;&#13;G7/G8, Европейский союз, алмазы, санкции, экономика и бизнес.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ" /></a><a
+						href="/novosti/2748652/" alt="Bloomberg: G7 и ЕС обсуждают систему отслеживания оборота алмазов, чтобы ограничить торговлю камнями из России.&#13;&#13;G7 может выступить с заявлением по этому поводу уже на этой неделе, к годовщине начала спецоперации на Украине.  .&#13;&#13;G7/G8, Европейский союз, алмазы, санкции, экономика и бизнес.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"
+							title="Bloomberg: G7 и ЕС обсуждают систему отслеживания оборота алмазов, чтобы ограничить торговлю камнями из России.&#13;&#13;G7 может выступить с заявлением по этому поводу уже на этой неделе, к годовщине начала спецоперации на Украине.  .&#13;&#13;G7/G8, Европейский союз, алмазы, санкции, экономика и бизнес.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">Bloomberg: G7 и ЕС обсуждают систему отслеживания оборота алмазов, чтобы ограничить торговлю камнями из России</a></li>
+					<li><a href="/novosti/2748556/" alt="Bloomberg узнал детали новых санкций США против РФ.&#13;&#13;Власти США в рамках нового пакета санкций против России планируют ввести рестрикции в отношении оборонного и энергетического секторов РФ, финансовых учреждений и нескольких физлиц. Об этом пишет Bloomberg со ссылкой на источники.&#13;&#13;США, санкции.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"
+							title="Bloomberg узнал детали новых санкций США против РФ.&#13;&#13;Власти США в рамках нового пакета санкций против России планируют ввести рестрикции в отношении оборонного и энергетического секторов РФ, финансовых учреждений и нескольких физлиц. Об этом пишет Bloomberg со ссылкой на источники.&#13;&#13;США, санкции.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">Bloomberg узнал детали новых санкций США против РФ</a></li>
+					<li><a href="/novosti/2748555/" alt="Украина попросила сервис Spotify удалить песни российских исполнителей.&#13;&#13;Власти Украины попросили шведский стриминговый сервис Spotify удалить песни российских артистов. Об этом заявил глава офиса президента Украины Андрей Ермак в интервью The Sunday Times.&#13;&#13;войны и вооруженные конфликты, музыка и музыканты, санкции, Украина.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"
+							title="Украина попросила сервис Spotify удалить песни российских исполнителей.&#13;&#13;Власти Украины попросили шведский стриминговый сервис Spotify удалить песни российских артистов. Об этом заявил глава офиса президента Украины Андрей Ермак в интервью The Sunday Times.&#13;&#13;войны и вооруженные конфликты, музыка и музыканты, санкции, Украина.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">Украина попросила сервис Spotify удалить песни российских исполнителей</a></li>
+					<li><a href="/novosti/2748359/" alt="Главы МИД G7 договорились об усилении санкций против России.&#13;&#13;Главы МИД стран Группы семи (G7) во время переговоров в Мюнхене договорились сохранять и усиливать введенные из-за конфликта на Украине антироссийские санкции. Об этом сказано в заявлении, распространенном японским министерством иностранных дел.&#13;&#13;G7/G8, Украина, санкции.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"
+							title="Главы МИД G7 договорились об усилении санкций против России.&#13;&#13;Главы МИД стран Группы семи (G7) во время переговоров в Мюнхене договорились сохранять и усиливать введенные из-за конфликта на Украине антироссийские санкции. Об этом сказано в заявлении, распространенном японским министерством иностранных дел.&#13;&#13;G7/G8, Украина, санкции.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">Главы МИД G7 договорились об усилении санкций против России</a></li>
+					<li><a href="/novosti/2748325/" alt="Глава ЕК: санкции против РФ начали обсуждать еще в декабре 2021 года.&#13;&#13;Евросоюз и США начали обсуждать санкции против России еще в декабре 2021 года, за две месяца до начала спецоперации РФ на Украине, заявила глава Еврокомиссии Урсула фон дер Ляйен на Мюнхенской конференции по безопасности.&#13;&#13;Еврокомиссия, санкции.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ"
+							title="Глава ЕК: санкции против РФ начали обсуждать еще в декабре 2021 года.&#13;&#13;Евросоюз и США начали обсуждать санкции против России еще в декабре 2021 года, за две месяца до начала спецоперации РФ на Украине, заявила глава Еврокомиссии Урсула фон дер Ляйен на Мюнхенской конференции по безопасности.&#13;&#13;Еврокомиссия, санкции.&#13;&#13;НТВ.Ru: новости, видео, программы телеканала НТВ">Глава ЕК: санкции против РФ начали обсуждать еще в декабре 2021 года</a></li>
+					
+					<!-- 1 news Generated at 366 ms -->
+				</ul>
+			</div>
+			
+  </div>
+</div>
+		
+<script type="text/javascript">
+// <![CDATA[
+
+  var vPageTheme = new Object(); vPageTheme[2501] = 0; vPageTheme[2561] = 0;
+
+  $( "#logo a" ).click(function( event ) {
+    event.preventDefault();
+    $( "#newplayer" ).show();
+    createOneCookie('airClose', 0);
+  });
+
+  $(function() {
+
+  var metr = $( ".topnewsblock .item50.noimg h3" ).width();
+  $( ".topnewsblock .item50.noimg h3 span" ).each(function( index ) {
+
+    if ($(this).width() > metr) {
+      $(this).addClass('hyp');
+    }
+
+  });
+
+  $( ".topnewsblock .item" ).each(function( index ) {
+
+    var itemheight = $(this).height();
+
+    if ($(this).hasClass('wimg')) {
+
+      var e1  = $(this).find('a');
+      var e2  = $(this).find('.halfpic');
+      var e3  = $(this).find('small');
+      var e4  = $(this).find('h3');
+      
+      var h1  = e1.height();
+      var h2  = e2.outerHeight(true);
+      var h3  = e3.outerHeight(true);
+      var h4  = e4.height();
+
+      if (typeof h2 == "undefined") h2 = 0;
+      if (typeof h3 == "undefined") h3 = 0;
+      if (typeof h4 == "undefined") h4 = 0;
+
+      var tmp1 = h2 + h3; // картинка плюс тег
+      var tmp2 = h1 - tmp1; // общая минус картинка с тегом
+
+      if (tmp2 < h4) {
+        e3.hide();
+      }
+
+    }
+  });
+
+   $(".morevideoslinked").click(function() {
+       var url  = "/rest/video/top_theme_linked.jsp";
+       var el = $(this);
+       var tkey = el.attr("tkey");
+       var container = $("#vlcontainer"+tkey);
+       var pn = vPageTheme[tkey] + 1;               
+       $.get(url, {"page" : pn,"themeId": tkey}, function(data) {
+         vPageTheme[tkey] = pn;
+         container.append(data);
+         val = jQuery.trim(data);
+         if(!(val && val.length > 0) || val.indexOf("<!-- END OF LIST -->") >= 0) el.hide();
+       }); 
+  });
+
+  });
+
+	var w = checkWidth();
+
+  if (w) {
+
+    $( "li.perminute a p" ).wrapInner( "<span></span>");
+    $( "li.wecantell a p" ).wrapInner( "<span></span>");
+
+    var cardW = $('#imp_carousel').width();
+    var carImgH = $('li.perminute a img').height();
+    var carPH = cardW - carImgH - 20;
+    var item16x9 = cardW*9/16;
+    if (!mImg) {
+      var innerWWidth = window.innerWidth;
+      var mImg = {};
+      mImg.width = innerWWidth*9/10; mImg.height = Math.ceil(mImg.width*9/16);
+    }
+    
+    var css = 'li.wecantell, li.perminute { height: '+(cardW+90)+'px !important; } li.wecantell a.inurl, li.perminute a.inurl { height: '+cardW+'px !important; } .topnewsblock .item100 .inner { height: '+item16x9+'px; } .topnewsblock .item50 .inner { height: '+item16x9+'px; } li.perminute a img, .carairsoon .citem img { width: '+mImg.width+'px; height: '+mImg.height+'px; }',
+        head = document.head || document.getElementsByTagName('head')[0],
+        style = document.createElement('style');
+
+    head.appendChild(style);
+
+    if (style.styleSheet){
+      style.styleSheet.cssText = css;
+    } else {
+      style.appendChild(document.createTextNode(css));
+    }
+
+    $('.topnewscar').append('<a href="javascript:void(0)" id="morenews" class="morenews">показать ещё</a>');
+
+    function topnewscar() {
+      $( ".topnewscar ul li" ).each(function(index) {
+        if ( !$(this).hasClass("visible") ) {
+         $( this ).addClass( "visible" );
+          if (index%5 == 4) return false;
+        }
+      });
+    }
+
+    $( "#morenews" ).click(function( event ) {
+      topnewscar();  
+    });
+
+  } else {
+
+    //$( ".topnewscar" ).insertAfter( $( ".topnewsblock" ) );
+
+  	$('.topnewscar ul').slick({
+  	  infinite: true,
+  	  slidesToShow: 6,
+  	  slidesToScroll: 6,
+      responsive: [
+        {
+          breakpoint: 1299,
+          settings: {
+            slidesToShow: 6,
+            slidesToScroll: 6
+          }
+        }
+      ]
+  	});
+
+  }
+	
+	$('.carairsoon').slick({
+	  infinite: true,
+	  slidesToShow: 4,
+	  slidesToScroll: 4,
+    responsive: [
+      {
+        breakpoint: 969,
+        settings: {
+          slidesToShow: 1,
+          slidesToScroll: 1
+        }
+      }
+    ]
+	});
+
+  $('.carairsoon').on('afterChange', function(event, slick, currentSlide, nextSlide) {
+    var e = document.createEvent('Event'); 
+    e.initEvent("scroll", true, true);  
+    window.dispatchEvent(e);
+  });
+
+  $('#imp_carousel ul').slick({
+    infinite: false,
+    slidesToShow: 3,
+    slidesToScroll: 3, 
+    responsive: [
+      {
+        breakpoint: 970,
+        settings: {
+          infinite: false,
+          slidesToShow: 1,
+          slidesToScroll: 1
+        }
+      }
+    ]
+  });	
+
+  $('#imp_carousel ul').on('afterChange', function(event, slick, currentSlide, nextSlide) {
+    var e = document.createEvent('Event'); 
+    e.initEvent("scroll", true, true);  
+    window.dispatchEvent(e);
+  });
+
+var cwPage = 1,
+    cwPerPage = 12;
+
+var slider = $('.keepWatching ul');
+
+String.prototype.toHHMMSS = function () {
+    var sec_num = parseInt(this, 10); // don't forget the second param
+    var hours   = Math.floor(sec_num / 3600);
+    var minutes = Math.floor((sec_num - (hours * 3600)) / 60);
+    var seconds = sec_num - (hours * 3600) - (minutes * 60);
+
+    if (hours   < 10) {hours   = "0"+hours;}
+    if (minutes < 10) {minutes = "0"+minutes;}
+    if (seconds < 10) {seconds = "0"+seconds;}
+    if (hours != "00") return hours+':'+minutes+':'+seconds;
+    else return minutes+':'+seconds;
+    
+}
+
+Date.prototype.getWeekNumber = function(){
+  var d = new Date(Date.UTC(this.getFullYear(), this.getMonth(), this.getDate()));
+  var dayNum = d.getUTCDay() || 7;
+  d.setUTCDate(d.getUTCDate() + 4 - dayNum);
+  var yearStart = new Date(Date.UTC(d.getUTCFullYear(),0,1));
+  return Math.ceil((((d - yearStart) / 86400000) + 1)/7)
+};
+
+function createSlick() {
+  if ($('.keepWatchingOut').length == 0) {
+    
+    $('<div class="keepWatchingOut"><div class="content"><div class="keepSort"><ul><li>Вы не досмотрели</li></ul></div><div class="keepWatching"><ul></ul></div></div></div>').insertAfter( ".topairOut" );
+    
+    var slider = $('.keepWatching ul');
+    
+    slider.slick({
+      infinite: false,
+      slidesToShow: 4,
+      slidesToScroll: 4,
+      responsive: [
+        {
+          breakpoint: 1299,
+          settings: {
+            slidesToShow: 4,
+    				slidesToScroll: 4,
+            centerMode: false
+          }
+        },
+        {
+          breakpoint: 969,
+          settings: {
+            slidesToShow: 1,
+    				slidesToScroll: 1,
+    				//arrows: false,
+            variableWidth: true
+          }
+        }
+      ]
+    });
+
+    slider.on('afterChange', function(event, slick, currentSlide, nextSlide) {
+      
+      if (currentSlide > 0 && currentSlide >= slick.slideCount - 8) {
+
+        cwPage++;
+        var v = window.ExternalWatchController.get(null, cwPerPage, cwPerPage*(cwPage-1));
+
+        v.then(function(it) {
+          if (it.length > 0) {
+            addDataToSlick(it);        
+          }
+        });
+        
+      }
+
+    });
+  
+    
+  }
+}
+
+function addDataToSlick(i) {
+
+    var slider = $('.keepWatching ul');
+
+    var ids = "", videos = "";
+
+    for(var k in i) {
+  
+      ids += i[k].id_video+((k < i.length-1)?",":"");
+  
+      var viewed = "0", tv = "0";
+  
+      if (typeof(i[k].view_length) !== "undefined") {
+        viewed = Math.ceil(i[k].view_length * 100 / i[k].total_length);
+        tv = Math.ceil(i[k].view_length);
+      }
+  
+      var d = new Date(i[k].date);
+      var week = d.getWeekNumber();
+      var month = d.getMonth()+1;
+  
+      videos += '<li data-keepvideo="'+i[k].id_video+'" data-week="'+week+'" data-month="'+month+'" data-viewed="'+viewed+'" data-tv="'+tv+'"></li>';
+
+    }
+
+    var addLi = 4-i.length;
+    
+    for (var j = 0; j < addLi; j++) {
+      videos += '<li></li>';
+    }
+
+    slider.slick('slickAdd', videos);
+
+     $.ajax("/api/video/",{ data : {"ids" : ids}, 
+         async: false, type : "GET", dataType : "json",
+         success : function(items) {
+             if(items.data && items.data.length > 0) {
+                $.each(items.data, function (i, item) {
+                  var pname = "", viewed = "", tv = 0;
+                  var ts = new Date(item.ts).toLocaleTimeString('ru-RU', {hour: '2-digit', minute:'2-digit', hour12: false});
+                  var tl = item.tt;
+                  if (item.program !== undefined) pname = "<strong>"+item.program.name+"</strong>";
+                  var keepitem = slider.find("[data-keepvideo='" + item.id + "']");
+                  viewed = " style=\"width: "+keepitem.attr("data-viewed")+"%\"";
+                  if (keepitem.attr("data-tv") != 0) tv = "?ts="+keepitem.attr("data-tv");
+                  else tv = "";
+                  keepitem.append( '<a href="/video/'+item.id+'/'+tv+'"><figure><img '+(item.snippet ? 'data-key="'+item.id+'" data-video_src="'+item.snippet+'" class="video_snippets_new"' : '') +'src="'+item.preview+'"><div class="tl"'+viewed+'></div></figure><time>'+tl.toString().toHHMMSS()+'</time>'+pname+'<em>'+item.title+'</em></a><div class="trash" title="Не буду досматривать"></div>');
+                });
+             }
+        }
+     });
+
+}
+
+var v = window.ExternalWatchController.get(null, cwPerPage, cwPerPage*(cwPage-1));
+v.then(function(it) {
+  if (it.length > 0) {
+    createSlick();
+    addDataToSlick(it);
+  }
+});
+
+$(document).on('click','li .trash',function(e) {
+  var i = parseInt($( this ).parent("li").attr("data-keepvideo"));
+  window.ExternalWatchController.deleteById(i);
+  $( this ).closest( '.slick-slide' ).remove();
+});
+
+if (w) {
+  
+  String.prototype.toSmallTime = function () {
+      var sec_num = parseInt(this, 10); // don't forget the second param
+      var hours   = Math.floor(sec_num / 3600);
+      var minutes = Math.floor((sec_num - (hours * 3600)) / 60);
+      var seconds = sec_num - (hours * 3600) - (minutes * 60);
+      if (hours != "0") return hours+' ч.';
+      else if (minutes != "0") return minutes+' мин.';
+      else return seconds+' сек.';
+  }
+
+  String.prototype.toBigTime = function () {
+      var sec_num = parseInt(this, 10); // don't forget the second param
+      var hours   = Math.floor(sec_num / 3600);
+      var minutes = Math.floor((sec_num - (hours * 3600)) / 60);
+      var seconds = sec_num - (hours * 3600) - (minutes * 60);
+      if (hours != "0") {
+        return hours+' '+((hours == 1 || (hours > 19 && hours % 10 == 1)) ? 'час' : ((hours > 1 && hours < 5) || (hours > 19 && hours % 10 > 1 && hours % 10 < 5)) ? 'часа' : 'часов')+' назад';
+      }
+      else if (minutes != "0") {
+        return minutes+' '+((minutes == 1 || (minutes > 19 && minutes % 10 == 1)) ? 'минуту' : ((minutes > 1 && minutes < 5) || (minutes > 19 && minutes % 10 > 1 && minutes % 10 < 5)) ? 'минуты' : 'минут')+' назад';
+      }
+      else {
+        return seconds+' '+((seconds == 1 || (seconds > 19 && seconds % 10 == 1)) ? 'секунду' : ((seconds > 1 && seconds < 5) || (seconds > 19 && seconds % 10 > 1 && seconds % 10 < 5)) ? 'секунды' : 'секунд')+' назад';
+      }
+  }
+
+  var storiestimer;
+
+  $.ajax("/m/v11/storis/", {
+    type : "GET", dataType : "json", success : function(items) {
+      var currentVideo = 0;
+      var sizeList = items.data.storieslist.length;
+      if(sizeList > 0) {
+
+/* share */
+
+    async function testWebShare() {
+
+      try {
+        await navigator.share({
+          title: $('#storiesshare').text(),
+          url: $('#storiesshare').data('url')
+        });
+        console.info($('#storiesshare').text());
+      } catch (error) {
+        console.info('Error sharing: ' + error);
+      }
+
+    }
+        
+/* end share*/
+
+        var vh = $('<div id="hcheck" style="height:100vh"></div>"').appendTo('body').height();
+        $('#hcheck').remove();
+  
+        var w = window.outerWidth, hBrowser = window.innerHeight, hVideo = Math.ceil(w*16/9), delta = (vh-hVideo)/2, node = document.createElement('style'); node.innerHTML = "#bigstorieslist li { margin-top: "+delta+"px; } .storiestimeline { top: "+(((delta > 0)?(delta+10):"10"))+"px; } #storiesmute { top: "+((delta > 0)?(delta+55):"55")+"px !important; } #storiesshare { top: "+((delta > 0)?(delta+19):"19")+"px; } .storiesclose { top: "+((delta > 0)?(delta+20):"20")+"px; } .bigstory time { top: "+(((delta < 0)?(-delta+28):"28"))+"px; } .storymore { bottom: "+(((delta < 0)?(-delta+40):"40"))+"px !important; } #bigstorieslist .slick-arrow { bottom: "+(((delta < 0)?(-delta+80):"80"))+"px !important; top: "+(((delta > 0)?(delta+90):"90"))+"px !important; }";
+        document.head.appendChild(node);
+
+        var noVideoAds = true,
+        sharebtn = '';
+        
+        if (navigator.share !== undefined) {
+          sharebtn = "<div id=\"storiesshare\" data-url=\"\"></div>";
+        }
+
+        var storieslist = $('#stories');
+        if (storieslist.length == 0) {
+          $('<div id="stories"><div class="content"><ul id="storieslist"></ul></div></div>').insertAfter( ".topnewscar" );
+          $('body').append('<div id="bigstorieslist">'+sharebtn+'<div class="storiesclose"></div><ul></ul></div>');
+        }
+        var timeline = "";  
+        var witem = 100/sizeList-1;
+        
+        $.each(items.data.storieslist, function (i, item) {
+
+          var ts = (Date.now() - item.ts)/1000;
+          var link = "";
+          if (typeof item.link != "undefined") link = '<a target="_blank" class="storymore" href="'+item.link+'">подробнее</a>';
+          $('#storieslist').append('<li class="story" id="ss'+item.id+'" data-stat="'+item.stat_callback+'" data-length="'+item.video_length+'" data-title="'+item.title+'" data-key="'+item.id+'" data-video="'+item.video+'" data-slash="'+item.img+'" style="background-image: url('+item.img.replace('.jpg', '_sm.jpg').replace('www.', 'img2.')+')"><time>'+ts.toString().toSmallTime()+'</time></li>');
+          $('#bigstorieslist ul').append('<li class="bigstory" id="bs'+item.id+'" data-key="'+item.id+'" style="background-image: url('+item.img+')"><time>'+ts.toString().toBigTime()+'</time><div class="vdo"></div>'+link+'</li>');
+          timeline += '<div style="width:'+witem+'%;" class="tl" id="tl'+item.id+'"><span></span></div>';
+        });
+        $('#bigstorieslist').append('<div class="storiestimeline">'+timeline+'</div><div id="storiesmute"></div>');
+
+        var slider = $('#storieslist');
+        var bigslider = $('#bigstorieslist ul');
+        
+        slider.slick({
+          infinite: false,
+          slidesToShow: 1,
+          slidesToScroll: 3,
+          arrows: false,
+          variableWidth: true
+        });
+
+        bigslider.slick({
+          infinite: false,
+          slidesToShow: 1,
+          slidesToScroll: 1,
+          touchMove: false,
+          arrows: true
+        });
+
+        bigslider.on('beforeChange', function(slick, objectSlide, currentSlide, nextSlide) {
+
+            for (i = nextSlide-1; i >= 0; i--) { $('.tl span').eq(i).width('100%'); }
+            var cur = $('.story').eq(currentSlide).data("key");
+            var length = $('.story').eq(nextSlide).data("length");
+            var idx = $('.story').eq(nextSlide).data("key");
+            var vd = $('.story').eq(nextSlide).data("video");
+            var im = $('.story').eq(nextSlide).data("slash");
+            var stat = $('.story').eq(nextSlide).data("stat");
+            var title = $('.story').eq(nextSlide).data("title");
+
+            $('#storiesshare').text(title);
+            $('#storiesshare').attr('data-url','https://www.ntv.ru/stories/amp/'+idx+'/');
+            
+            if (nextSlide >= currentSlide) {
+              //var pidx = $('.story').eq(currentSlide).data("key");
+              //$('#tl'+pidx+' span').width('100%');
+            } else {
+              var pidx = $('.story').eq(currentSlide).data("key");
+              $('#tl'+pidx+' span').width(0);
+            }
+
+            currentVideo = nextSlide;
+
+            if ($('#bs'+cur+' .vdo').is(':empty')) {
+              $('#bs'+idx+' .vdo').append('<video id="storiesvideo" width="100%" height="100%" poster="'+im+'" src="'+vd+'" playsinline></video>');
+            } else {
+              $('#storiesvideo').unbind();
+              var v = $('#storiesvideo').detach();
+              $('#bs'+idx+' .vdo').append(v);
+                $('#storiesvideo').attr({
+                  'poster': im,
+                    'src': vd
+                });
+            }
+
+            try {
+              $('#storiesvideo').get(0).play();
+              $('#storiesmute').addClass('on');
+            } catch(e) {
+              $('#storiesvideo').get(0).mute();
+              $('#storiesvideo').get(0).play();
+
+            }
+
+            $.get(stat);
+
+            window.clearTimeout(storiestimer);
+            storiestimer = window.setTimeout(function() {
+                            
+              if ($('#bigstorieslist').is(":visible")) {
+
+                dataLayer.push({
+                  'event': 'stories',
+                  'video_id': idx
+                });
+
+                $('#storiesvideo').bind("timeupdate", function() {
+                  $('#tl'+idx+' span').width(Math.round(this.currentTime*100/length)+'%');
+                });
+                
+                $('#storiesvideo').on("ended", function() {
+                  loadNextVideo();
+                });
+                  
+
+              }
+            }, 1000);
+
+        });
+
+        $( '#storiesshare' ).on( "click", function() {
+          testWebShare();
+        });
+
+        $( '#storiesmute' ).on( "click", function() {
+
+          if ($('#storiesvideo').prop('muted') && !$(this).hasClass('on')) {
+            $(this).addClass('on');
+            $('#storiesvideo').prop('muted', false);
+          } else {
+            $(this).removeClass('on');
+            $('#storiesvideo').prop('muted', true);                    
+          }
+
+        });
+
+        $("#bigstorieslist .slick-arrow").swipe( {
+
+          tap:function(event, target) {
+            //console.info("You taped " + target );  
+          },
+          swipe:function(event, direction, distance, duration, fingerCount, fingerData) {
+
+            switch (direction) {
+              case "left":
+                bigslider.slick('slickNext');
+                break;
+              case "right":
+                bigslider.slick('slickPrev');
+                break;
+              case "down":
+                  onCloseStories();
+                break;
+              default:
+                break;
+            }
+          },
+           threshold:50
+        });
+
+        var prev = 0;
+
+        function onCloseStories() {
+          window.clearTimeout(storiestimer);
+          $('#storiesmute').removeClass('on');
+          $('#storiesvideo').prop('muted', true);
+          $('.bigstory .vdo').empty();
+          $('#bigstorieslist').fadeOut();
+        }
+        
+        function onVoDPause() {}
+        function onVoDResume() {}
+        function osc_check() {}
+        function osp_check() {}
+        function loadNextVideo() {
+
+          if (currentVideo == sizeList-1) {
+            onCloseStories();
+          } else {
+            bigslider.slick('slickNext');
+            var curr = bigslider.slick('slickCurrentSlide');
+          }
+                    
+        }
+
+        $(document).on('click','li.story',function(e) {
+          $('.tl span').width(0);
+          $('#bigstorieslist').show();
+          bigslider.get(0).slick.setPosition();
+          bigslider.slick('slickGoTo', $(this).index());
+          prev = $(this).index();
+        });
+
+        $(document).on('click','.storiesclose',function(e) {
+          onCloseStories();
+        });
+
+      }
+    }
+  });
+
+}
+
+// ]]>
+</script>
+<!-- Generated at 367 ms -->
+
+<style>
+.bottomsoc {
+  background: linear-gradient(196.78deg, #4CC6FD 12.06%, #4087F8 89.01%);
+}
+
+.bottomsoc a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 12px;
+  line-height: 16px;
+}
+
+.bottomsoc__wrapp {
+  margin: 0 auto;
+  padding: 45px 20px 75px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  box-sizing: border-box;
+}
+
+.bottomsoc__col {
+  position: relative;
+  z-index: 10;
+}
+
+.bottomsoc__col--left {
+  margin-right: 150px;
+}
+
+.bottomsoc__list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex; 
+}
+
+.bottomsoc__col--right .bottomsoc__list {
+  width: auto;
+}
+
+.bottomsoc__title  {
+  margin: 0 0 34px;
+}
+
+.bottomsoc__title a {
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  
+  font-weight: 400;
+  background: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1LjU2MyIgaGVpZ2h0PSIxMC45MzgiIHZpZXdCb3g9IjAgMCA1LjU2MyAxMC45MzgiPiA8ZGVmcz4gPHN0eWxlPiAuY2xzLTEgeyBmaWxsOiBub25lOyBzdHJva2U6ICNmZmY7IHN0cm9rZS13aWR0aDogMS41cHg7IGZpbGwtcnVsZTogZXZlbm9kZDsgb3BhY2l0eTogMC41OyB9IDwvc3R5bGU+IDwvZGVmcz4gPHBhdGggaWQ9ImFycm93IiBjbGFzcz0iY2xzLTEiIGQ9Ik05NzgsNDg2bDQsNS00LDUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC05NzcuNDA2IC00ODUuNTMxKSIvPiA8L3N2Zz4=') no-repeat right;
+  padding-right: 20px;
+  background-position: right center;
+}
+
+.bottomsoc__item:not(:last-child) {
+  margin-right: 70px;
+}
+
+.bottomsoc__col--right .bottomsoc__item:first-child {
+  margin-right: 50px;
+}
+
+.bottomsoc__item a {
+  display: block;
+  position: relative;
+  text-align: center;
+  width: 36px;
+  height: 36px;
+  background-image: url('https://ntv-static.cdnvideo.ru/images/soc/vk.svg');
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.bottomsoc__item a span {
+  position: absolute;
+  top: calc(100% + 15px);
+  left: 50%;
+  transform: translateX(-50%);
+  white-space: nowrap; 
+}
+
+.bottomsoc__item.odn a {
+  background-image: url('https://ntv-static.cdnvideo.ru/images/soc/odn.svg');
+}
+
+.bottomsoc__item.tg a {
+  background-image: url('https://ntv-static.cdnvideo.ru/images/soc/tg.svg');
+}
+
+.bottomsoc__item.dzen a {
+  background-image: url('https://ntv-static.cdnvideo.ru/images/soc/dzen.svg');
+}
+
+.bottomsoc__item.rutube a {
+  background-image: url('https://ntv-static.cdnvideo.ru/images/soc/rutube.svg');
+}
+.bottomsoc__item.ntv a {
+  background-image: url('https://ntv-static.cdnvideo.ru/images/app/ntv.png');
+}
+.bottomsoc__item.today a {
+  background-image: url('https://ntv-static.cdnvideo.ru/images/app/segodnya.png');
+}
+
+@media screen and (max-width: 970px) {
+  .bottomsoc__wrapp {
+    flex-direction: column;
+    padding: 40px 20px 50px;
+  }
+
+  .bottomsoc__col--left {
+    margin-bottom: 40px;
+    margin-right: 0;
+  }
+
+  .bottomsoc__title  {
+    margin: 0 0 24px;
+  }
+
+  .bottomsoc__item a span {
+    display: none;
+  }
+  .bottomsoc__item:not(:last-child) {
+    margin-right: 25px;
+  }
+  .bottomsoc__col--right .bottomsoc__item:first-child {
+    margin-right: 25px;
+  }
+}
+
+</style>
+<div class="bottomsoc">
+  <div class="bottomsoc__wrapp">
+    <div class="bottomsoc__col bottomsoc__col--left">
+        <h3 class="bottomsoc__title">
+          <a href="/official_accounts/">Официальные аккаунты НТВ</a>
+        </h3>
+      <ul class="bottomsoc__list">
+        <li class="bottomsoc__item vk"><a href="https://vk.com/ntv"><span>VK</span></a></li>
+        <li class="bottomsoc__item odn"><a href="https://odnoklassniki.ru/ntv/"><span>Одноклассники</span></a></li>
+        <li class="bottomsoc__item tg"><a href="https://www.telegram.me/ntvnews"><span>Telegram</span></a></li>
+        <li class="bottomsoc__item dzen"><a href="https://zen.yandex.ru/ntv.ru"><span>Яндекс Дзен</span></a></li>
+        <li class="bottomsoc__item rutube"><a href="https://rutube.ru/channel/23178409/"><span>RuTube</span></a></li>
+      </ul>
+    </div>
+    <div class="bottomsoc__col bottomsoc__col--right">
+      <h3 class="bottomsoc__title">
+        <a href="/app/">Приложения НТВ</a>
+      </h3>
+      <ul class="bottomsoc__list">
+      <li class="bottomsoc__item ntv"><a href="/app/" title="Приложение НТВ"><span>НТВ</span></a></li>
+      <li class="bottomsoc__item today"><a href="/app/" title="Приложение Сегодня"><span>Сегодня</span></a></li></ul>
+    </div>
+  
+  </div>
+</div>
+
+
+<div class="btmp">
+  <div class="content">
+
+    <ul class="btmmenu">
+        <li><a href="/kompania/novosti/">Новости компании</a></li>
+        <li><a href="/kompania/istoriya/">История</a></li>
+        <li><a href="/kompania/veschanie/">Вещание</a></li>
+        <li><a href="/kompania/rabota/">Вакансии</a></li>
+        <li><a href="/kompania/logo/">Логотип</a></li>
+        <li><a href="/kompania/adv/">Реклама</a></li>
+        <li><a href="/kompania/channels/">Тематические каналы</a></li>
+    </ul>
+
+    <div id="btm_srch">
+        <form method="get" action="/finder/" name="search">
+            <input type="hidden" name="urlFilter" value="news">
+            <input id="binpsrch" type="search" name="keytext" size="20" value="" placeholder="Что-то ищете?" ><a href="javascript:void(0);" class="sbtn" onclick="javascript:if(document.search.keytext.value != null && document.search.keytext.value.length &gt;= 3) document.search.submit();">&rarr;</a>
+        </form>
+    </div>
+
+  </div>
+
+</div>
+
+
+<div class="flamur7out">
+<div id="flamur7">
+<!-- Бывший рекламный контейнер, внутренности выпилили -->
+</div>
+</div>
+<!-- ________________________NTV ADS START__________________________ -->
+<script type="text/javascript"> 
+<!--
+  $(function() {
+      var o = document.createElement('vid' + 'eo');
+      if(isFInst && (!o || !o.canPlayType || !o.canPlayType('video/mp4; codecs="avc1.640029, mp4a.40.2"'))) {
+          var _tmr = window._tmr || (window._tmr = []);
+          _tmr.push({ id: "916045", type: "reachGoal", goal: "html5_media_support" });
+          try {
+             ym(7414054, 'reachGoal', 'html5_media_support');
+          } catch (e) {}
+      }
+  });
+// -->
+</script> 
+<!-- _________________________NTV ADS END___________________________ -->
+
+
+<div class="footer">
+
+    <div class="contentftr">
+      
+        <div id="copyright">
+              <div class="logoftr"><a href="/"></a></div>
+            <div class="cpr1">
+            &copy; AO &laquo;Телекомпания НТВ&raquo;, 1993-2023. Все права защищены.<br />
+            При любом использовании материалов НТВ ссылка (для сайтов - гиперссылка на <a href="//www.ntv.ru/">www.ntv.ru</a>) обязательна.<br />
+            Используя настоящий сайт, вы обязуетесь выполнять условия данного <a href="//www.ntv.ru/kompania/index.jsp?what=AgreementNTV">соглашения</a><br/>
+            </div>
+            <div id="rest"><i>18+</i></div>
+
+<div class="cpout">
+
+            <div class="cpr2">СМИ сетевое издание «NTV.RU» зарегистрировано в Федеральной службе по надзору в сфере связи, информационных технологий и массовых коммуникаций (Роскомнадзор). Свидетельство о регистрации средства массовой информации <a href="/docs/77-69486.pdf">Эл № ФС 77-69486</a> от 25.04.2017 г.</div>
+
+            <div class="cpr3">
+              <dl>
+              <dt>Название:</dt>
+              <dd>NTV.RU</dd>
+              <dt>Учредитель (соучредители) СМИ сетевого издания «NTV.RU»:</dt><dd>Акционерное общество «Телекомпания НТВ».</dd>
+              <dt>Главный редактор СМИ сетевого издания «NTV.RU»:</dt><dd>Демков К. С.</dd>
+              <dt>Номер телефона редакции СМИ сетевого издания «NTV.RU»:</dt><dd>+7 (495) 287-72-00</dd>
+              <dt>Адрес электронной почты редакции СМИ сетевого издания «NTV.RU»:</dt>
+              <dd><a href="mailto:www@ntv.ru">www@ntv.ru</a>.</dd>
+              </dl>
+            </div>
+
+</div>
+
+        </div>
+
+        <div id="btm_menu">
+            <a aria-label="Сбербанк" href="http://www.sberbank.ru/?erid=Pb3XmBtzt74cWLif9UGh6nLw5GDAoNB5kvESDcU" class="sberrr" target="_blank"></a>
+            <div id="x8831">
+                <a target="_blank" href="http://www.gazprom-media.com"><img width="88" height="31" border="0" alt="Газпром-медиа" src="https://ntv-static.cdnvideo.ru/img/gm1.gif" /></a>
+                <a target="_blank" href="http://www.ntvmir.ntv.ru"><img width="88" height="31" border="0" alt="НТВ МИР" src="https://ntv-static.cdnvideo.ru/files/ntv/home/ntvmir.gif" /></a>
+                <script type="text/javascript">document.write("<a href='http://www.liveinternet.ru/click' target=_blank><img src='//counter.yadro.ru/hit?t44.1;r" + escape(document.referrer) + ((typeof(screen)=="undefined")?"":";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)) + ";u" + escape(document.URL) +";h"+escape(document.title.substring(0,80)) +  ";" + Math.random() + "' border=0 width=31 height=31 alt='' title='LiveInternet'><\/a>")</script>
+                <a href="http://top100.rambler.ru/navi/354787/" target="_blank"><img src="//counter.rambler.ru/top100.cnt?pid=3139459" alt="Rambler's Top100"width="88" height="31" border="0" /></a>
+                <a href="http://top.mail.ru/jump?from=916045"><img src="//top-fwz1.mail.ru/counter?id=916045;t=282;l=1" style="border:0;" height="31" width="38" alt="Рейтинг@Mail.ru" /></a>
+              </div>
+        </div>
+
+  
+    <div id="appcenter"></div></div>
+</div>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MCPFRG"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-MCPFRG');
+</script>
+<!-- End Google Tag Manager -->
+
+<!-- begin of Top100 code -->
+<script id="top100Counter" async type="text/javascript" src="//counter.rambler.ru/top100.jcn?354787"></script>
+<noscript>
+<img src="//counter.rambler.ru/top100.cnt?354787" alt="" width="1" height="1" border="0" />
+</noscript>
+<!-- end of Top100 code -->
+
+<script>
+    
+
+  $(function() {
+    $("img.lazyload").lazyload();
+  });
+
+</script>
+
+
+<style>
+#btm_menu .sberrr {
+  display: block;
+  width: 180px;
+  height: 30px;
+  background-image: url('https://ntv-static.cdnvideo.ru/img/sberlogo_new.svg');
+  background-size: contain;
+  margin: 0 auto 20px;
+}
+</style>
+</body>
+</html>
+<!-- Generated at 367 ms -->	

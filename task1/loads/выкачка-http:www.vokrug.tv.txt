@@ -1,0 +1,790 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" >
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="description" content="Ведущий онлайн-телегид Рунета. Новости и анонсы. Интервью со звёздами. Телепрограмма. Видео- и фотогалереи. Энциклопедия ТВ и кино."/><title>Вокруг ТВ – ведущий онлайн-телегид Рунета. Новости, телепрограмма, видео, энциклопедия ТВ и звезд</title>
+<meta http-equiv="x-preconnect-control" content="on">
+<link rel="preconnect" href="//pagead2.googlesyndication.com" crossorigin>
+<link rel="preconnect" href="//an.yandex.ru" crossorigin>
+<link rel="preconnect" href="//banners.adfox.ru" crossorigin>
+<link rel="preconnect" href="//ad.mail.ru" crossorigin>
+<link rel="preconnect" href="//dmg.digitaltarget.ru" crossorigin>
+<link rel="preconnect" href="//www.google-analytics.com" crossorigin><link rel="preconnect" href="//yastatic.net" crossorigin>
+<script>
+var isMobile = false; //initiate as false
+// device detection
+if(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|Android|Silk|lge |maemo|midp|mmp|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(navigator.userAgent) 
+|| /1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(navigator.userAgent.substr(0,4))) isMobile = true;
+var deviceDetector=function(){var b=navigator.userAgent.toLowerCase(),a=function(a){void 0!==a&&(b=a.toLowerCase());return/(ipad|tablet|(android(?!.*mobile))|(windows(?!.*phone)(.*touch))|kindle|playbook|silk|(puffin(?!.*(IP|AP|WP))))/.test(b)?"tablet":/(mobi|ipod|phone|blackberry|opera mini|fennec|minimo|symbian|psp|nintendo ds|archos|skyfire|puffin|blazer|bolt|gobrowser|iris|maemo|semc|teashark|uzard)/.test(b)?"phone":"desktop"};return{device:a(),detect:a,isMobile:"desktop"!=a()?!0:!1,userAgent:b}}();
+if(deviceDetector.device == 'desktop'||deviceDetector.device == 'tablet')isMobile=false;
+</script>
+
+
+
+
+<meta name="yandex-verification" content="cd1141c2fb95c42f" />
+<meta http-equiv="x-preconnect-control" content="on">
+<link rel="preload" 
+href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&subset=cyrillic&display=swap" as="style" 
+onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" 
+href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&subset=cyrillic&display=swap"></noscript>
+<link rel="icon" href="https://www.vokrug.tv/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="https://www.vokrug.tv/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="https://www.vokrug.tv/css/reset.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="https://www.vokrug.tv/css/style.css?1674241131" type="text/css" media="screen" />
+<link rel="stylesheet" href="/css/materialdesignicons.min.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="https://www.vokrug.tv/css/flexslider.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="https://www.vokrug.tv/js/fancybox/jquery.fancybox.min.css">
+<script src="https://www.vokrug.tv/js/swiper-bundle.min.js"></script>
+<link rel="stylesheet" href="https://www.vokrug.tv/css/swiper-bundle.min.css">
+<!--link rel="stylesheet" href="/css/slicknav.css" type="text/css" media="screen" /-->
+<script type="text/javascript" src="/js/jquery.js"></script>
+<!--script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/jquery.lazyload.js"></script-->
+<script type="text/javascript" src="https://www.vokrug.tv/js/combined_new.js?1674240558"></script>
+<script type="text/javascript" src="https://www.vokrug.tv/js/fancybox/jquery.fancybox.min.js"></script>
+<!--script type="text/javascript" src="https://svk-native.ru/js/bounce-catcher/vokrug.tv.10676.js"></script>
+<script type="text/javascript" src="/js/jquery.mobile.customized.min.js"></script>
+<script type="text/javascript" src="/js/jquery.easing.1.3.js"></script> 
+<script type="text/javascript" src="/js/jquery.flexslider.js"></script>
+<script type="text/javascript" src="/js/jquery.slicknav.min.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="/js/jquery.matchHeight.js"></script>
+<script type="text/javascript" src="/js/iframeResizer.min.js"></script-->
+<script async src="https://widget.svk-native.ru/js/loader.js"></script>
+<script>window.yaContextCb = window.yaContextCb || []</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+<script>
+window.addEventListener('load', function() {
+	try{iFrameResize({log:false, checkOrigin: false}, '#adfox_154202266787953629 iframe');}catch(e){}
+});
+</script>
+<script type="text/javascript" src="https://www.vokrug.tv/js/js.js?1663613955"></script>
+<link rel="canonical" href="https://www.vokrug.tv/" />
+<!--[if IE]>
+<script src="/js/html5.min.js"></script>
+<![endif]-->
+<meta name="google-site-verification" content="C_-0rOJaP6KE3KLcf6QE8W-tDEeMRylQJbhL3TGRdJY" />
+<!-- Google Analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-7040837-1', 'auto');
+      ga('send', 'pageview');
+    
+</script>
+<!-- Google Analytics -->
+<!-- DMPKit Tag Manager -->
+<script>
+(function (w, d, s, l, h, m) {
+w[l] = w[l] || [];
+var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dmpkitdl' ? '&l=' + l : '';
+j.async = true;
+j.src = '//' + m + '/tm.js?id=' + h + dl;
+f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dmpkitdl', '88a8406d-8194-471b-8df0-377d3c08761a', 'tm.vokrug.tv');
+</script>
+<!-- End DMPKit Tag Manager -->
+
+<link rel="preconnect" href="//s3.wi-fi.ru" crossorigin>
+<script type="text/javascript" src="https://s3.wi-fi.ru/mtt/configs/sites/vtv.js" async nocache></script>
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-528B9DN"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><div id="GPM_vokrugtv_D_Branding"></div>
+<script>
+$(document).ready(function(){
+	var cc='';
+	if(typeof $.cookie('_ym_uid')!='undefined'){
+		cc=$.cookie('_ym_uid');
+	}
+	$.get("https://px.adhigh.net/p/cm/gpm?u="+cc+"&source=www.vokrug.tv");
+});
+</script>
+<div class="branding-block" id="bigbg"></div><div class="sponsor-false-bg" style=""></div>
+<div id="wrapper">
+<div id="sponsor" class="clearfix">
+				<div class="sponsor-wrapper clearfix">
+            <div id="sponsor-carousel" class="flexslider">
+                <ul class="slides">
+<li>
+	<a href="https://kion.ru/home?utm_source=vokrugtv&utm_medium=banner&utm_campaign=is0_mts_kion_alwayson_q1_2023_abc&utm_content=banner_knopka_package_trg_notarget_rf_crt_1_&utm_term=banner_c_web_notarget_banner_rf__jm20x-3pw3gn_" target="_blank" onclick="$.get('https://ads.adfox.ru/277740/goLink?p1=cisze&p2=frfe&p5=nrjfz&pr=10662')">
+		<img class="lazy2" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" data-original="https://www.vokrug.tv/pic/top/vtv266_1676283227.jpg?1676283227" style="height:100px;" alt="" /><div style="background-image: url('https://ads.adfox.ru/277740/getCode?p1=cisze&p2=frfe&pfc=eynqh&pfb=nrjfz&pr=10662&ptrc=b');width:1px;height:1px;position:relative"></div>		<span>KION</span>
+	</a></li><li>
+	<a href="https://okko.tv/subscription/67888?utm_source=vokrug_tv&utm_medium=button_header&utm_campaign=sbrm_vokrug_tv_spec&utm_content=subscription-optimum&utm_term=subscription-optimum " target="_blank" onclick="$.get('https://ads.adfox.ru/277740/goLink?p1=cisze&p2=frfe&p5=nldtt&pr=18507')">
+		<img class="lazy2" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" data-original="https://www.vokrug.tv/pic/top/vtv281_1673540590.jpg?1674237897" style="height:100px;" alt="" /><div style="background-image: url('https://ads.adfox.ru/277740/getCode?p1=cisze&p2=frfe&pfc=ewezi&pfb=nldtt&pr=18507&ptrc=b');width:1px;height:1px;position:relative"></div>		<span>Смотрите фильмы за 1Р </span>
+	</a></li><li>
+	<a href="/product/show/16565714851/" onclick="$.get('/product/show/16565714851/')">
+		<img class="lazy2" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" data-original="https://www.vokrug.tv/pic/top/vtv301_1676649357.jpg?1676649357" style="height:100px;" alt="" />		<span>Содержанки 4 сезон</span>
+	</a>	<div id="adfox_163533874375827876"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 277740,
+            containerId: 'adfox_163533874375827876',
+            params: {
+                p1: 'cisze',
+                p2: 'frfe',
+                pfc: 'durci',
+                pfb: 'kjbpi',
+                
+            }
+        })
+    })
+</script></li><li>
+	<a href="/product/show/16376836201/" onclick="$.get('/product/show/16376836201/')">
+		<img class="lazy2" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" data-original="https://www.vokrug.tv/pic/top/vtv269_1676036684.jpg?1676036684" style="height:100px;" alt="" />		<span>Маска 4 сезон</span>
+	</a></li><li>
+	<a href="/product/show/16672268641/" onclick="$.get('/product/show/16672268641/')">
+		<img class="lazy2" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" data-original="https://www.vokrug.tv/pic/top/vtv304_1675761078.jpg?1675761079" style="height:100px;" alt="" />		<span>Конфетка 1 сезон</span>
+	</a></li><li>
+	<a href="/product/show/16637398931/" onclick="$.get('/product/show/16637398931/')">
+		<img class="lazy2" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" data-original="https://www.vokrug.tv/pic/top/vtv307_1676649750.jpg?1676649750" style="height:100px;" alt="" />		<span>Почка 2 сезон</span>
+	</a></li></ul>
+			</div>
+        </div>
+    </div><header id="header" class="headerslide" style="position:relative;">
+<div class="wrapper banner" style="display:none">
+</div>
+<div class="wrapper"><div class="search-block"><div class="search-form"><form action="/search/" method="get"><a class="close" href="javascript:;"><i class="mdi mdi-close"></i></a><input type="text" name="q" value="" /><button type="submit" value="true" name="submit"><i class="mdi mdi-magnify"></i></button><a class="open" href="javascript:;"><i class="mdi mdi-magnify"></i></a></form></div><span class="label">поиск</span></div><div class="logo"><a href="/"><img src="/images/logo.png" alt="" /></a><a href="https://www.vokrug.tv/article/show/16172075711/" class="pruwincool"><img class="lazy2" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" data-original="/i/12years.png" alt="" style="padding-left: 10px; position: absolute; margin-top: -8px;height:54px;width:93px">
+</a></div><div class="toggle-menu"><a href="#"><i class="mdi mdi-reorder-horizontal"></i></a></div><div class="mobile-wrapper">
+<div class="user-block clearfix"><a class="user-link" href="javascript:;" onclick="$('#login-form').show();">
+<span class="label">войти</span><span class="open"><i class="mdi mdi-account-outline" aria-hidden="true"></i></span>
+</a>
+</div>
+<nav><div class="nav">
+                        <ul>
+                            <li><a href="/article/1/">Новости</a></li>
+                            <li><a href="/article/exclusive/">ЭКСКЛЮЗИВЫ</a></li>
+                            <li><a href="/article/24/">Обзоры</a></li>
+                            <li><a href="/show/4/">Телешоу</a></li>
+                            <li><a href="/show/1/">Сериалы</a></li>
+                            <!--li><a href="/show/7/">Фильмы</a></li-->
+                            <!--li><a href="/tv/">Телепрограмма</a></li-->
+                            <!--<li><a href="/faces/">Голосования</a></li>-->
+                            <!--li><a href="/tvp/">ТЕЛЕПРОГРАММА</a></li-->
+<li><a href="/video/tag/520/">ВИДЕО</a></li>
+                            <li class="tv"><a href="/kino/">Вокруг кино</a></li>
+                        </ul>
+                    </div>
+                    <div class="sub-nav" style="display:none">
+                        <ul>
+                            <!--li><a href="">Конкурсы</a></li>
+                            <li><a href="">Тесты</a></li-->
+                        </ul>
+                    </div>
+</nav>
+</div>
+<script src="/js/flipclock/flipclock.js"></script>
+<div id="GPM_vokrugtv_D_Button"></div>
+<div class="line"></div>
+</div>
+</header>
+<main id="center" class="clearfix">
+<div class="wrapper">
+<div class="clearfix">
+<!--AdFox START-->
+<!--mttech-->
+<!--Площадка: GPM_vokrug.tv / Все страницы / GPM_vokrug.tv_D_970x240-Top-->
+<!--Категория: <не задана>-->
+<!--Тип баннера: D_Billboard-->
+<div id="adfox_165027678146147353"></div>
+<script>
+if(!isMobile)window.yaContextCb.push(()=>{Ya.adfoxCode.create({ownerId:277740,containerId:'adfox_165027678146147353',params:{p1:'ccoxy',p2:'gdyl',}})})
+</script><div class="main-common"><div class="main-slider"><div id="main-slider" class="flexslider"><ul class="slides">
+<li data-thumb="https://www.vokrug.tv/pic/bigbanners/7/f/6/8/7f68820c731d385976acfe1c5f57fd2b.jpg">
+<a href="https://www.vokrug.tv/article/show/16768028191/"><img class="lazy2" data-original="https://www.vokrug.tv/pic/bigbanners/7/f/6/8/7f68820c731d385976acfe1c5f57fd2b.jpg" alt="Гороскоп на неделю с 20 по 26 февраля " /></a>
+<a href="https://www.vokrug.tv/article/show/16768028191/"><p class="flex-caption">Гороскоп на неделю с 20 по 26 февраля </p></a>
+</li><li data-thumb="https://www.vokrug.tv/pic/bigbanners/4/0/3/a/403a5c47578c2a890eda07c12b8b2a7e.jpg">
+<a href="https://www.vokrug.tv/article/show/16766583751/"><img class="lazy2" data-original="https://www.vokrug.tv/pic/bigbanners/4/0/3/a/403a5c47578c2a890eda07c12b8b2a7e.jpg" alt="Рецензия на фильм &laquo;Праведник&raquo;: военная драма о &laquo;русском Шиндлере&raquo; и еврейских скрипках" /></a>
+<a href="https://www.vokrug.tv/article/show/16766583751/"><p class="flex-caption">Рецензия на фильм «Праведник»: военная драма о «русском Шиндлере» и еврейских скрипках</p></a>
+</li><li data-thumb="https://www.vokrug.tv/pic/bigbanners/c/0/5/e/c05edd7718f24a3ddc73c523b85cb8b2.jpg">
+<a href="https://www.vokrug.tv/article/show/16767242161/"><img class="lazy2" data-original="https://www.vokrug.tv/pic/bigbanners/c/0/5/e/c05edd7718f24a3ddc73c523b85cb8b2.jpg" alt="Рецензия на фильм &laquo;Непослушная&raquo;: Александр Петров показывает 50 оттенков серого в Битцевском лесу (18+)" /></a>
+<a href="https://www.vokrug.tv/article/show/16767242161/"><p class="flex-caption">Рецензия на фильм «Непослушная»: Александр Петров показывает 50 оттенков серого в Битцевском лесу (18+)</p></a>
+</li><li data-thumb="https://www.vokrug.tv/pic/bigbanners/4/b/7/4/4b74cc81e14ee8fb2bba4c348483c8e3.jpg">
+<a href="https://www.vokrug.tv/article/show/16765052671/"><img class="lazy2" data-original="https://www.vokrug.tv/pic/bigbanners/4/b/7/4/4b74cc81e14ee8fb2bba4c348483c8e3.jpg" alt="&laquo;Шаляпин &mdash; не легкомысленный невротик, который ради прихоти бросил жену&raquo;: актриса Мария Смольникова рассказала о роли Иолы Торнаги в сериале" /></a>
+<a href="https://www.vokrug.tv/article/show/16765052671/"><p class="flex-caption">«Шаляпин — не легкомысленный невротик, который ради прихоти бросил жену»: актриса Мария Смольникова рассказала о роли Иолы Торнаги в сериале</p></a>
+</li></ul></div><div id="main-carousel" class="flexslider"><ul class="slides"><li><img src="https://www.vokrug.tv/pic/bigbanners/7/f/6/8/7f68820c731d385976acfe1c5f57fd2b.jpg" alt="Гороскоп на неделю с 20 по 26 февраля " /></li><li><img src="https://www.vokrug.tv/pic/bigbanners/4/0/3/a/403a5c47578c2a890eda07c12b8b2a7e.jpg" alt="Рецензия на фильм &laquo;Праведник&raquo;: военная драма о &laquo;русском Шиндлере&raquo; и еврейских скрипках" /></li><li><img src="https://www.vokrug.tv/pic/bigbanners/c/0/5/e/c05edd7718f24a3ddc73c523b85cb8b2.jpg" alt="Рецензия на фильм &laquo;Непослушная&raquo;: Александр Петров показывает 50 оттенков серого в Битцевском лесу (18+)" /></li><li><img src="https://www.vokrug.tv/pic/bigbanners/4/b/7/4/4b74cc81e14ee8fb2bba4c348483c8e3.jpg" alt="&laquo;Шаляпин &mdash; не легкомысленный невротик, который ради прихоти бросил жену&raquo;: актриса Мария Смольникова рассказала о роли Иолы Торнаги в сериале" /></li></ul></div></div>
+</div><div class="main-sidebar"><div class="block-300n hide_640"><div id="GPM_vokrugtv_D_300x600_1"></div>
+<span class="label">Реклама</span></div></div></div>
+<section><div class="block-title"><h2><a href="/article/1/"><span class="name">Новости</span></a></h2></div>
+<div id="news-in-main" class="post-entries clearfix">
+<article class="post-entry">
+<a href="/article/show/16768888701/">
+<span class="post-entry-thumb lazy2 lazy-contain" data-original="https://www.vokrug.tv/pic/news/0/7/a/d/rsz300x300_07ad263c72c385270a29f87cc53525ed.jpg"></span>
+<span class="post-entry-title">Бойфренд Юлии Ефременковой пожаловался на плохой сон у детей</span>
+<span class="post-entry-schedule">13:27, 20.02.2023</span>
+</a>
+</article>
+<article class="post-entry">
+<a href="/article/show/16768877721/">
+<span class="post-entry-thumb lazy2 lazy-contain" data-original="https://www.vokrug.tv/pic/news/7/5/1/7/rsz300x300_75174fbe940de61bc23313bc3b45a15d.jpg"></span>
+<span class="post-entry-title">Разведенная Юлия Салибекова поделилась видео со дня рождения сына</span>
+<span class="post-entry-schedule">13:10, 20.02.2023</span>
+</a>
+</article>
+<article class="post-entry">
+<a href="/article/show/16768855051/">
+<span class="post-entry-thumb lazy2 lazy-contain" data-original="https://www.vokrug.tv/pic/news/e/e/6/8/rsz300x300_ee6850c208f7e79b02294ac309a350fe.jpg"></span>
+<span class="post-entry-title">Ксения Бородина рассказала, почему часто уезжает в отпуск без детей</span>
+<span class="post-entry-schedule">12:56, 20.02.2023</span>
+</a>
+</article>
+<article class="post-entry">
+<a href="/article/show/16768855631/">
+<span class="post-entry-thumb lazy2 lazy-contain" data-original="https://www.vokrug.tv/pic/news/c/6/d/b/rsz300x300_c6dba1431c30af4531cca7f79291b508.jpg"></span>
+<span class="post-entry-title">Солист группы «Корни» Александр Бердников признался, что пользуется льготами для многодетных семей</span>
+<span class="post-entry-schedule">12:44, 20.02.2023</span>
+</a>
+</article>
+<article class="post-entry">
+<a href="/article/show/16768852091/">
+<span class="post-entry-thumb lazy2 lazy-contain" data-original="https://www.vokrug.tv/pic/news/6/b/8/0/rsz300x300_6b806324d782b607aa593f0a15a3eb6d.jpg"></span>
+<span class="post-entry-title">Лиза Моряк впервые стала матерью</span>
+<span class="post-entry-schedule">12:26, 20.02.2023</span>
+</a>
+</article>
+<article class="post-entry">
+<a href="/article/show/16768823321/">
+<span class="post-entry-thumb lazy2 lazy-contain" data-original="https://www.vokrug.tv/pic/news/4/f/4/d/rsz300x300_4f4df0822d5e7791826c55a312d486ea.jpg"></span>
+<span class="post-entry-title">Ольга Орлова сообщила, когда выходит на работу</span>
+<span class="post-entry-schedule">12:06, 20.02.2023</span>
+</a>
+</article>
+</div></section>
+<section>
+<!--POST SMALL-->
+<div id="news-small-in-main" class="post-entries small clearfix">
+</div><!--END POST--></section>
+<!--END POST-->
+<section>
+	<div class="block-title">
+		<h2><a href="/article/24/"><span class="name">Обзоры</span></a></h2>
+	</div>
+	<div class="post-entries clearfix">
+		<article class="post-entry">
+	<a href="/article/show/16768028191/"><span class="post-entry-thumb lazy2 lazy-contain" data-original="https://www.vokrug.tv/pic/news/5/3/4/e/rsz300x300_534ec52733abbe3ca97fb635ce52c481.jpg"></span><span class="post-entry-title">Гороскоп на неделю с 20 по 26 февраля</span><span class="post-entry-schedule">17:50, 19.02.2023</span></a></article><article class="post-entry">
+	<a href="/article/show/16767456241/"><span class="post-entry-thumb lazy2 lazy-contain" data-original="https://www.vokrug.tv/pic/news/1/d/f/3/rsz300x300_1df380e0e9442253591514b009e1fef0.jpg"></span><span class="post-entry-title">Шоу «Конфетка»: Николай Басков разбрасывается деньгами, а Люся Чеботина щеголяет в откровенном наряде</span><span class="post-entry-schedule">23:13, 18.02.2023</span></a></article><article class="post-entry">
+	<a href="/article/show/16766364461/"><span class="post-entry-thumb lazy2 lazy-contain" data-original="https://www.vokrug.tv/pic/news/4/8/2/c/rsz300x300_482cf8bed0ea447fd85199577b411858.jpg"></span><span class="post-entry-title">«Газпрому» 30 лет: представляем самые яркие фильмы и сериалы, снятые при участии компании</span><span class="post-entry-schedule">17:58, 17.02.2023</span></a></article><article class="post-entry">
+	<a href="/article/show/16763872501/"><span class="post-entry-thumb lazy2 lazy-contain" data-original="https://www.vokrug.tv/pic/news/3/6/1/e/rsz300x300_361e27ccf3157e3e3c5044eda0b8a72e.jpg"></span><span class="post-entry-title">Сериал «Шаляпин»: щи, водка и великая музыка</span><span class="post-entry-schedule">00:42, 15.02.2023</span></a></article><article class="post-entry">
+	<a href="/article/show/16763839091/"><span class="post-entry-thumb lazy2 lazy-contain" data-original="https://www.vokrug.tv/pic/news/f/5/b/5/rsz300x300_f5b5af45e3536a48f36ce6924e24e188.jpg"></span><span class="post-entry-title">День всех влюбленных: как поздравили с праздником Ольгу Бузову, Ксению Бородину, Зепюр Брутян и других звезд</span><span class="post-entry-schedule">18:01, 14.02.2023</span></a></article><article class="post-entry">
+	<a href="/article/show/16762170581/"><span class="post-entry-thumb lazy2 lazy-contain" data-original="https://www.vokrug.tv/pic/news/8/6/2/4/rsz300x300_86245b50e9fc6163fffa9f461a83fd20.jpg"></span><span class="post-entry-title">Гороскоп на неделю с 13 по 19 февраля</span><span class="post-entry-schedule">19:18, 12.02.2023</span></a></article>	</div>
+</section>
+<section>
+<div class="block-title"><h2><a href="/article/11/"><span class="name">Анонсы</span></a></h2></div>
+<div id="preview-in-main" class="post-entries">
+<article class="post-entry"><a href="/article/show/16768814681/"><span class="post-entry-thumb lazy2 lazy-contain" data-original="https://www.vokrug.tv/pic/news/1/6/6/b/rsz300x300_166b6bc18b2ebbeef4bd8f32358c01d6.jpg"></span><span class="post-entry-tv">Между нами глубокое море</span><span class="post-entry-title">На телеканале «Россия» начинается показ многосерийной мелодрамы «Между нами глубокое море»</span><span class="post-entry-schedule">10:07, 20.02.2023</span></a></article><article class="post-entry"><a href="/article/show/16765441331/"><span class="post-entry-thumb lazy2 lazy-contain" data-original="https://www.vokrug.tv/pic/news/f/b/e/4/rsz300x300_fbe4e0e865dc4f7db79008f2e99461c9.jpg"></span><span class="post-entry-tv">Дурдом (2023)</span><span class="post-entry-title">На телеканале «Пятница!» стартует комедийный сериал «Дурдом»</span><span class="post-entry-schedule">13:40, 16.02.2023</span></a></article><article class="post-entry"><a href="/article/show/16763696831/"><span class="post-entry-thumb lazy2 lazy-contain" data-original="https://www.vokrug.tv/pic/news/7/e/c/5/rsz300x300_7ec5c2328f33f87bf6cfe21d41e998c3.jpg"></span><span class="post-entry-tv">Содержанки 4 сезон (2023)</span><span class="post-entry-title">В онлайн-кинотеатре START покажут 4-й сезон сериала «Содержанки»</span><span class="post-entry-schedule">13:13, 14.02.2023</span></a></article><article class="post-entry"><a href="/article/show/16762868811/"><span class="post-entry-thumb lazy2 lazy-contain" data-original="https://www.vokrug.tv/pic/news/8/a/5/1/rsz300x300_8a511556e1a4ecadee082b49698d9a2a.jpg"></span><span class="post-entry-tv">Омар в большом городе 2 сезон (2023)</span><span class="post-entry-title">В онлайн-кинотеатре KION состоится премьера 2-го сезона сериала «Омар в большом городе»</span><span class="post-entry-schedule">14:14, 13.02.2023</span></a></article><article class="post-entry"><a href="/article/show/16747431661/"><span class="post-entry-thumb lazy2 lazy-contain" data-original="https://www.vokrug.tv/pic/news/e/f/6/1/rsz300x300_ef61508cca2f107ffdd75da8711a506c.jpg"></span><span class="post-entry-tv">Анастасия Талызина</span><span class="post-entry-title">На ТНТ начинается показ нового сезона комедийного сериала «Патриот»</span><span class="post-entry-schedule">02:11, 13.02.2023</span></a></article><article class="post-entry"><a href="/article/show/16760380371/"><span class="post-entry-thumb lazy2 lazy-contain" data-original="https://www.vokrug.tv/pic/news/f/f/2/4/rsz300x300_ff24de19081798b187f514899df35baa.jpg"></span><span class="post-entry-tv">Приехали!</span><span class="post-entry-title">На МУЗ-ТВ стартует тревел-шоу «Приехали! Азия»</span><span class="post-entry-schedule">16:40, 10.02.2023</span></a></article></div>
+</section>
+<div class="clearfix">
+<div class="main-common newhotnew">
+<section>
+<div class="block-title center"><h3>Быть в теме</h3></div>
+<div class="post-entries fl">
+<article class="post-entry"><a href="/article/show/16722405041/"><span class="post-entry-thumb lazy2 lazy-contain" data-original="https://www.vokrug.tv/pic/news/2/e/c/b/rsz300x300_2ecb7bd1696be2786c14b877473fa654.jpg"></span><span class="post-entry-title">Российские критики назвали «Сериальное открытие-2022» среди актеров, режиссеров и сценаристов, совершивших прорыв</span><span class="post-entry-schedule">10:26, 29.12.2022</span></a></article></div></section></div>
+<div class="block-620n fixix"><div id="GPM_vokrugtv_D_Top_Article"></div>
+<div id="GPM_vokrugtv_M_Top_Article"></div>
+<span class="label">Реклама</span></div>
+<div class="block-300n hide show_640 show_320"><!--AdFox START-->
+<!--Площадка: ГПМ-тех / ВокругТВ / Мобайл 300*250 под новостью-->
+<!--Категория: <не задана>-->
+<!--Тип баннера: ГПМ-тех под новостью-->
+<div id="adfox_152162523716885470_1676889578.2218"></div>
+<script>
+	if(window.Ya && window.Ya.adfoxCode)window.Ya.adfoxCode.createScroll({
+        ownerId: 220463,
+        containerId: 'adfox_152162523716885470_1676889578.2218',
+        params: {
+            p1: 'bxmpc',
+            p2: 'fqim'
+        }
+    }, ['phone'], {
+        tabletWidth: 830,
+        phoneWidth: 480,
+        isAutoReloads: false
+    });
+</script><span class="label">Реклама</span></div><div class="main-sidebar" style="display:none"><div class="block-300n hide show_640 show_320"></div></div></div>
+<section class="videoflexslider flexslider">
+<div class="block-title">
+<h2><a href="/video/none/"><span class="name">Видео</span></a></h2>
+</div>
+<!--VIDEO-->
+<div id="video-in-main" class="video-entries clearfix slides">
+<article class="video-entry">
+<a href="/video/show/eksklyuzivnoe_videointervyu_vokrug_tv_s_pavlom_globoi/">
+<span class="video-entry-thumb lazy2 lazy-contain" data-original="https://pic.rutubelist.ru/video/ee/ea/eeeaa7b73a9334d4807c1fe857ab896e.png" style="background-repeat:no-repeat;background-position: center;background-size:cover;">
+<span class="play trans"><i class="mdi mdi-play"></i></span>
+</span>
+<span class="video-entry-title">Эксклюзивное видеоинтервью «Вокруг ТВ» с Никитой Панфиловым</span>
+</a>
+</article><article class="video-entry">
+<a href="/video/show/eksklyuzivnoe_videointervyu_vokrug_tv_s_pavlom_globoi1/">
+<span class="video-entry-thumb lazy2 lazy-contain" data-original="https://i.ytimg.com/vi/2ppt9VKc9fw/hqdefault.jpg" style="background-repeat:no-repeat;background-position: center;background-size:cover;">
+<span class="play trans"><i class="mdi mdi-play"></i></span>
+</span>
+<span class="video-entry-title">Эксклюзивное видеоинтервью «Вокруг ТВ» с Павлом Глобой</span>
+</a>
+</article><article class="video-entry">
+<a href="/video/show/eksklyuzivnoe_videointervyu_vokrug_tv_s_zhanom_milimerovym/">
+<span class="video-entry-thumb lazy2 lazy-contain" data-original="https://i.ytimg.com/vi/Xi4KGpJr-8Q/hqdefault.jpg" style="background-repeat:no-repeat;background-position: center;background-size:cover;">
+<span class="play trans"><i class="mdi mdi-play"></i></span>
+</span>
+<span class="video-entry-title">Эксклюзивное видеоинтервью «Вокруг ТВ» с Жаном Милимеровым</span>
+</a>
+</article><article class="video-entry">
+<a href="/video/show/eksklyuzivnoe_videointervyu_vokrug_tv_s_pavlom_priluchnym1229717/">
+<span class="video-entry-thumb lazy2 lazy-contain" data-original="https://i.ytimg.com/vi/1LYNF7n23PY/hqdefault.jpg" style="background-repeat:no-repeat;background-position: center;background-size:cover;">
+<span class="play trans"><i class="mdi mdi-play"></i></span>
+</span>
+<span class="video-entry-title">Эксклюзивное видеоинтервью «Вокруг ТВ» с Павлом Прилучным</span>
+</a>
+</article><article class="video-entry">
+<a href="/video/show/eksklyuzivnoe_videointervyu_vokrug_tv_s_vladom_cherevatym/">
+<span class="video-entry-thumb lazy2 lazy-contain" data-original="https://i.ytimg.com/vi/7Q6j018sqeY/hqdefault.jpg" style="background-repeat:no-repeat;background-position: center;background-size:cover;">
+<span class="play trans"><i class="mdi mdi-play"></i></span>
+</span>
+<span class="video-entry-title">Эксклюзивное видеоинтервью «Вокруг ТВ» с Владом Череватым</span>
+</a>
+</article><article class="video-entry">
+<a href="/video/show/eksklyuzivnoe_videointervyu_vokrug_tv_s_romoi_zhukovym132/">
+<span class="video-entry-thumb lazy2 lazy-contain" data-original="https://i.ytimg.com/vi/IHFXOIG6Nek/hqdefault.jpg" style="background-repeat:no-repeat;background-position: center;background-size:cover;">
+<span class="play trans"><i class="mdi mdi-play"></i></span>
+</span>
+<span class="video-entry-title">Эксклюзивное видеоинтервью «Вокруг ТВ» с Ромой Жуковым</span>
+</a>
+</article><article class="video-entry">
+<a href="/video/show/eksklyuzivnoe_videointervyu_vokrug_tv_s_irinoi_starshenbaum1/">
+<span class="video-entry-thumb lazy2 lazy-contain" data-original="https://i.ytimg.com/vi/dUtI56HHtk8/hqdefault.jpg" style="background-repeat:no-repeat;background-position: center;background-size:cover;">
+<span class="play trans"><i class="mdi mdi-play"></i></span>
+</span>
+<span class="video-entry-title">Эксклюзивное видеоинтервью «Вокруг ТВ» с Ириной Старшенбаум</span>
+</a>
+</article><article class="video-entry">
+<a href="/video/show/eksklyuzivnoe_videointervyu_vokrug_tv_s_denisom_vlasenko1/">
+<span class="video-entry-thumb lazy2 lazy-contain" data-original="https://i.ytimg.com/vi/rNvebG1zUVU/hqdefault.jpg" style="background-repeat:no-repeat;background-position: center;background-size:cover;">
+<span class="play trans"><i class="mdi mdi-play"></i></span>
+</span>
+<span class="video-entry-title">Эксклюзивное видеоинтервью «Вокруг ТВ» с Денисом Власенко</span>
+</a>
+</article><article class="video-entry">
+<a href="/video/show/eksklyuzivnoe_videointervyu_vokrug_tv_s_alenoi_hmelnitskoi12/">
+<span class="video-entry-thumb lazy2 lazy-contain" data-original="https://i.ytimg.com/vi/iFhb9dfR9MQ/hqdefault.jpg" style="background-repeat:no-repeat;background-position: center;background-size:cover;">
+<span class="play trans"><i class="mdi mdi-play"></i></span>
+</span>
+<span class="video-entry-title">Эксклюзивное видеоинтервью «Вокруг ТВ» с Аленой Хмельницкой</span>
+</a>
+</article><article class="video-entry">
+<a href="/video/show/eksklyuzivnoe_videointervyu_vokrug_tv_s_sarikom_i_gevondom_andreasyanami12/">
+<span class="video-entry-thumb lazy2 lazy-contain" data-original="/pic/rutube/24315423.jpg" style="background-repeat:no-repeat;background-position: center;background-size:cover;">
+<span class="play trans"><i class="mdi mdi-play"></i></span>
+</span>
+<span class="video-entry-title">Эксклюзивное видеоинтервью «Вокруг ТВ» с Сариком и Гевондом Андреасянами...</span>
+</a>
+</article><article class="video-entry">
+<a href="/video/show/eksklyuzivnoe_videointervyu_vokrug_tv_s_timurom_vainshteinom12/">
+<span class="video-entry-thumb lazy2 lazy-contain" data-original="/pic/rutube/23817211.jpg" style="background-repeat:no-repeat;background-position: center;background-size:cover;">
+<span class="play trans"><i class="mdi mdi-play"></i></span>
+</span>
+<span class="video-entry-title">Эксклюзивное видеоинтервью «Вокруг ТВ» с Тимуром Вайнштейном</span>
+</a>
+</article><article class="video-entry">
+<a href="/video/show/eksklyuzivnoe_videointervyu_vokrug_tv_c_vladimirom_levkinym/">
+<span class="video-entry-thumb lazy2 lazy-contain" data-original="/pic/rutube/23556746.jpg" style="background-repeat:no-repeat;background-position: center;background-size:cover;">
+<span class="play trans"><i class="mdi mdi-play"></i></span>
+</span>
+<span class="video-entry-title">Эксклюзивное видеоинтервью «Вокруг ТВ» c Владимиром Левкиным</span>
+</a>
+</article><article class="video-entry">
+<a href="/video/show/eksklyuzivnoe_videointervyu_vokrug_tv_c_anarom_halilovym1/">
+<span class="video-entry-thumb lazy2 lazy-contain" data-original="https://i.ytimg.com/vi/QOmp6rHrxps/hqdefault.jpg" style="background-repeat:no-repeat;background-position: center;background-size:cover;">
+<span class="play trans"><i class="mdi mdi-play"></i></span>
+</span>
+<span class="video-entry-title">Эксклюзивное видеоинтервью «Вокруг ТВ» c Анаром</span>
+</a>
+</article><article class="video-entry">
+<a href="/video/show/eksklyuzivnoe_videointervyu_vokrug_tv_c_sergeem_astahovym13/">
+<span class="video-entry-thumb lazy2 lazy-contain" data-original="/pic/rutube/22024187.jpg" style="background-repeat:no-repeat;background-position: center;background-size:cover;">
+<span class="play trans"><i class="mdi mdi-play"></i></span>
+</span>
+<span class="video-entry-title">Эксклюзивное видеоинтервью «Вокруг ТВ» c Сергеем Астаховым</span>
+</a>
+</article><article class="video-entry">
+<a href="/video/show/eksklyuzivnoe_videointervyu_vokrug_tv_c_aleksandrom_dobrovinskim12/">
+<span class="video-entry-thumb lazy2 lazy-contain" data-original="/pic/rutube/20967129.jpg" style="background-repeat:no-repeat;background-position: center;background-size:cover;">
+<span class="play trans"><i class="mdi mdi-play"></i></span>
+</span>
+<span class="video-entry-title">Эксклюзивное видеоинтервью «Вокруг ТВ» c Александром Добровинским</span>
+</a>
+</article>
+</div>
+</section>
+<section>
+<div class="block-title">
+<h2><a href="/article/9/"><span class="name">Интервью</span></a></h2>
+</div>
+<!--INTERVIEW-->
+<div id="interview-in-main" class="post-entries clearfix">
+<article class="post-entry">
+<a href="/article/show/16765052671/">
+<span class="post-entry-thumb lazy2 lazy-contain" data-original="https://www.vokrug.tv/pic/news/f/6/8/b/rsz300x300_f68b21e3682c011e5a71d05d9a5643a7.jpg"></span><span class="post-entry-person">&nbsp;</span><span class="post-entry-title">«Шаляпин — не легкомысленный невротик, который ради прихоти бросил жену»: актриса Мария Смольникова рассказала о роли Иолы Торнаги в сериале</span>
+<span class="post-entry-schedule">16:34, 17.02.2023</span>
+</a>
+</article><article class="post-entry">
+<a href="/article/show/16764945931/">
+<span class="post-entry-thumb lazy2 lazy-contain" data-original="https://www.vokrug.tv/pic/news/0/e/3/0/rsz300x300_0e30f7377f55fc8b2113fa9e396ad025.jpg"></span><span class="post-entry-person">Александр Горбатов</span><span class="post-entry-title">«Уехав из страны, Шаляпин не стал менее русским»: интервью с исполнителем роли великого певца Александром Горбатовым</span>
+<span class="post-entry-schedule">01:57, 16.02.2023</span>
+</a>
+</article><article class="post-entry">
+<a href="/article/show/16758902041/">
+<span class="post-entry-thumb lazy2 lazy-contain" data-original="https://www.vokrug.tv/pic/news/7/2/d/0/rsz300x300_72d0a5613939502d6b7b4582b4f67ca5.jpg"></span><span class="post-entry-person">Эмилия Спивак</span><span class="post-entry-title">Эмилия Спивак: «На съемках «Раневской» мне пришлось научиться танцевать на пуантах»</span>
+<span class="post-entry-schedule">00:33, 09.02.2023</span>
+</a>
+</article></div>
+</section>
+<div class="clearfix">
+<div class="main-common">
+<div class="block-title">
+<h2><a href="/faces/134/"><span class="name">«Маска» 4 сезон: выбери любимого персонажа шоу </span></a></h2></div>
+<div class="battle-entries clearfix">
+<div class="battle-entry"><span class="battle-entry-thumb"><a href="/faces/134/"><img class="lazy2" data-original="https://www.vokrug.tv/pic/faces/134.1676.1.jpg"  alt="" /></a></span><span class="battle-entry-title"><a href="/person/show/16760115641/">Феникс (Маска 4 сезон)</a></span><span class="battle-entry-schedule p1676f1">50% (кол-во голосов: 2)</span><a href="/faces/134/" class="button">Голосовать</a></div><div class="battle-entry"><span class="battle-entry-thumb"><a href="/faces/134/"><img class="lazy2" data-original="https://www.vokrug.tv/pic/faces/134.1661.1.jpg"  alt="" /></a></span><span class="battle-entry-title"><a href="/person/show/16759588281/">Горностай (Маска 4 сезон)</a></span><span class="battle-entry-schedule p1661f1">25% (кол-во голосов: 1)</span><a href="/faces/134/" class="button">Голосовать</a></div></div>
+</div>
+<div class="main-sidebar">
+<div class="block-title"><h2><a href="javascript:;"><span class="name">Выбор редакции</span></a></h2>
+</div>
+<div class="serials-preview"><div class="serials-preview__picture"><a href="/product/show/16637398931/"><img src="/pic/product/2/8/0/c/280c230f8cee452131d957548600e4cb.jpg" alt="Почка 2 сезон (2023)"></a></div><div class="serials-preview__desc"><div class="serials-preview__name"><a href="/product/show/16637398931/">Почка 2 сезон (2023)</a></div>
+</div><div class="serials-preview__date">Дата выхода: 8 марта 2023 </div>
+</div></div>
+</div>
+<section>
+<div class="block-title"><h2><a href="/article/10/"><span class="name">За кадром</span></a></h2></div>
+<div id="behind-in-main" class="post-entries clearfix"><article class="post-entry"><a href="/article/show/16650588461/"><span class="post-entry-thumb"><img class="lazy2" data-original="https://www.vokrug.tv/pic_v4/news/2/6/4/0/rsz300x300_2640afcdd4098545cd4ff04fc44d8d28.jpg" alt="" /></span><span class="post-entry-title">Как снимали сериал «Оливье и роботы»: Гоша Куценко проникает в 2045-й год</span><span class="post-entry-schedule">12:27, 31.12.2022</span></a></article><article class="post-entry"><a href="/article/show/16711180901/"><span class="post-entry-thumb"><img class="lazy2" data-original="https://www.vokrug.tv/pic_v4/news/9/f/a/4/rsz300x300_9fa4dcc44c5dc34a00e26d91aeeb8238.jpg" alt="" /></span><span class="post-entry-title">Как снимали 2-й сезон сериала «Контакт»: герой Павла Майкова снова конфликтует с дочерью, а персонаж Равшаны Курковой бьется за имущество</span><span class="post-entry-schedule">18:41, 16.12.2022</span></a></article><article class="post-entry"><a href="/article/show/16649053981/"><span class="post-entry-thumb"><img class="lazy2" data-original="https://www.vokrug.tv/pic_v4/news/9/5/c/8/rsz300x300_95c840532433305d4249917672b2bef4.jpg" alt="" /></span><span class="post-entry-title">Как снимали сериал «Я любила мужа»:  Светлана Ходченкова и Александр Яценко в смешной истории про убийство</span><span class="post-entry-schedule">15:12, 23.11.2022</span></a></article></div></section>
+<section><div class="block-title"><h2><a href="/person/"><span class="name">Популярные персоны</span></a></h2></div><div class="post-tv-entries clearfix"><article class="post-tv-entry"><a href="/person/show/anastasia_volochkova/"><span class="post-entry-thumb"><img class="lazy2" data-original="https://www.vokrug.tv/pic/person/f/a/7/9/rsz120x160_fa795fcf48c5bdf0573e540978e85d87.jpg"  alt="" /></span><span class="post-entry-title">Анастасия Волочкова</span><span class="post-entry-resume">Анастасия Волочкова — российская...</span></a></article><article class="post-tv-entry"><a href="/person/show/danila_kozlovsky/"><span class="post-entry-thumb"><img class="lazy2" data-original="https://www.vokrug.tv/pic/person/e/1/b/1/rsz120x160_e1b15a323754b3b27b766aa3361cee10.jpg"  alt="" /></span><span class="post-entry-title">Данила Козловский</span><span class="post-entry-resume">Данила Козловский — российский...</span></a></article><article class="post-tv-entry"><a href="/person/show/16499508951/"><span class="post-entry-thumb"><img class="lazy2" data-original="https://www.vokrug.tv/pic/person/f/d/9/7/rsz120x160_fd9785e91f04dbba52e81ed5ee047318.jpg"  alt="" /></span><span class="post-entry-title">Марк Эйдельштейн</span><span class="post-entry-resume">Марк Эйдельштейн — российский...</span></a></article><article class="post-tv-entry"><a href="/person/show/pavel_priluchnyi/"><span class="post-entry-thumb"><img class="lazy2" data-original="https://www.vokrug.tv/pic/person/9/2/4/6/rsz120x160_9246c5234fe95b412f07e1aebc6390f7.jpg"  alt="" /></span><span class="post-entry-title">Павел Прилучный</span><span class="post-entry-resume">Павел Прилучный  —...</span></a></article><article class="post-tv-entry"><a href="/person/show/anastasiya_ivleeva/"><span class="post-entry-thumb"><img class="lazy2" data-original="https://www.vokrug.tv/pic/person/5/a/e/2/rsz120x160_5ae276be4c6fd7b83c146a26c41605e8.jpg"  alt="" /></span><span class="post-entry-title">Анастасия Ивлеева</span><span class="post-entry-resume">Популярный российский видеоблогер, актриса....</span></a></article><article class="post-tv-entry"><a href="/person/show/nikita_mikhalkov/"><span class="post-entry-thumb"><img class="lazy2" data-original="https://www.vokrug.tv/pic/person/1/f/a/f/rsz120x160_1faf9acf3496f7441c5f71551a150489.jpg"  alt="" /></span><span class="post-entry-title">Никита Михалков</span><span class="post-entry-resume">Никита Михалков – советский...</span></a></article></div></section>
+<section><div class="block-title"><h2><a href="/show/1/"><span class="name">Популярные сериалы</span></a></h2></div>
+<div class="post-tv-entries clearfix">
+<article class="post-tv-entry">
+<a href="/product/show/16330907081/"><span class="post-entry-thumb"><img class="lazy2" data-original="https://www.vokrug.tv/pic/product/7/8/7/b/rsz120x160_787bb0fb5725d0695eba3a37a745db17.jpg"  alt="" /></span><span class="post-entry-title">Нулевой пациент (2022)</span>
+<span class="post-entry-resume">«Нулевой пациент» — многосерийная драма о первом в стране массовом заражении ВИЧ-инфекцией, зафиксированном в 1988 го...</span></a></article><article class="post-tv-entry">
+<a href="/product/show/16469918571/"><span class="post-entry-thumb"><img class="lazy2" data-original="https://www.vokrug.tv/pic/product/0/5/c/1/rsz120x160_05c1333110173873e7b0a7c79c4af198.jpg"  alt="" /></span><span class="post-entry-title">Русские (2023)</span>
+<span class="post-entry-resume">Российский шпионский триллер Дениса Нейманда, повествующий о сотрудниках российской службы внешней разведки, которые...</span></a></article><article class="post-tv-entry">
+<a href="/product/show/16347083061/"><span class="post-entry-thumb"><img class="lazy2" data-original="https://www.vokrug.tv/pic/product/a/a/e/9/rsz120x160_aae9f30424d5447986f03fbc82d9d804.jpg"  alt="" /></span><span class="post-entry-title">Жена олигарха 2 сезон (2023)</span>
+<span class="post-entry-resume">Второй сезон российского комедийного сериала с Еленой Подкаминской в главной роли....</span></a></article><article class="post-tv-entry">
+<a href="/product/show/16607241481/"><span class="post-entry-thumb"><img class="lazy2" data-original="https://www.vokrug.tv/pic/product/6/b/b/e/rsz120x160_6bbea88f698fdc4b5ea09a9e8602b9cc.jpg"  alt="" /></span><span class="post-entry-title">Я «любила» мужа (2023)</span>
+<span class="post-entry-resume">Черная комедия о супружеской измене со Светланой Ходченковой в главной роли....</span></a></article><article class="post-tv-entry">
+<a href="/product/show/16244233651/"><span class="post-entry-thumb"><img class="lazy2" data-original="https://www.vokrug.tv/pic/product/b/8/8/4/rsz120x160_b884229975d37e1db7ba249b3260494a.jpg"  alt="" /></span><span class="post-entry-title">Стрим (2022)</span>
+<span class="post-entry-resume">Российский комедийный сериал Рустама Ильясова.</span></a></article><article class="post-tv-entry">
+<a href="/product/show/15766233941/"><span class="post-entry-thumb"><img class="lazy2" data-original="https://www.vokrug.tv/pic/product/a/3/8/b/rsz120x160_a38bcbfbbe51b66e7edaaecbfe58eda8.jpg"  alt="" /></span><span class="post-entry-title">Фишер (2023)</span>
+<span class="post-entry-resume">Многосерийная криминальная драма, в основе которой — реальная история печально известного «одинцовского маньяка» по к...</span></a></article></div>
+</section>
+<section><div class="block-title"><h2><a href="/show/4/"><span class="name">Популярные шоу</span></a></h2></div>
+<!--TV-->
+<div class="post-tv-entries clearfix">
+<article class="post-tv-entry">
+<a href="/product/show/16557921221/">
+<span class="post-entry-thumb"><img class="lazy2" data-original="https://www.vokrug.tv/pic/product/7/9/2/8/rsz120x160_792837c648506d3fc522a04ca04171fe.jpg"  alt="" /></span><span class="post-entry-title">Фантастика (2022)</span><span class="post-entry-resume">Новое цифровое музыкальное шоу на Первом канале.</span></a></article><article class="post-tv-entry">
+<a href="/product/show/16376836201/">
+<span class="post-entry-thumb"><img class="lazy2" data-original="https://www.vokrug.tv/pic/product/8/e/f/c/rsz120x160_8efc980f7f42d341fa03e48111805ac1.jpg"  alt="" /></span><span class="post-entry-title">Маска 4 сезон (2023)</span><span class="post-entry-resume">Четвертый сезон популярного российского музыкального шоу на телеканале НТВ....</span></a></article><article class="post-tv-entry">
+<a href="/product/show/16541564651/">
+<span class="post-entry-thumb"><img class="lazy2" data-original="https://www.vokrug.tv/pic/product/6/8/7/f/rsz120x160_687f7ceb72810b39a63376d2eb418cce.jpg"  alt="" /></span><span class="post-entry-title">Танцы со звездами (2023)</span><span class="post-entry-resume">Четырнадцатый сезон российской версии популярного музыкально-хореографического шоу, новая серия одного из самых любим...</span></a></article><article class="post-tv-entry">
+<a href="/product/show/16181760511/">
+<span class="post-entry-thumb"><img class="lazy2" data-original="https://www.vokrug.tv/pic/product/5/e/9/5/rsz120x160_5e950514bf687cd2dc6b9fed9688a76d.jpg"  alt="" /></span><span class="post-entry-title">Музыкальная интуиция на ТНТ 3 сезон (2023)</span><span class="post-entry-resume">Продолжение музыкально-детективного шоу на ТНТ.</span></a></article><article class="post-tv-entry">
+<a href="/product/show/16553875011/">
+<span class="post-entry-thumb"><img class="lazy2" data-original="https://www.vokrug.tv/pic/product/8/d/f/9/rsz120x160_8df9be82e5f29ec6df0ad5c0502f7e44.jpg"  alt="" /></span><span class="post-entry-title">Фактор страха 2 сезон (2023)</span><span class="post-entry-resume">Экстремальное телешоу, в котором звезды проверяют себя на прочность....</span></a></article><article class="post-tv-entry">
+<a href="/product/show/16355007071/">
+<span class="post-entry-thumb"><img class="lazy2" data-original="https://www.vokrug.tv/pic/product/1/0/b/9/rsz120x160_10b914e547250272b2b0f60592dd30c6.jpg"  alt="" /></span><span class="post-entry-title">Новая битва экстрасенсов 24 сезон (2023)</span><span class="post-entry-resume">Очередной сезон рейтингового мистического шоу, выходящего на ТНТ с 2007 года....</span></a></article><article class="post-tv-entry">
+<a href="/product/show/16642759681/">
+<span class="post-entry-thumb"><img class="lazy2" data-original="https://www.vokrug.tv/pic/product/4/a/4/e/rsz120x160_4a4ecbc0ccd39150f55ae6d74e2fa82f.jpg"  alt="" /></span><span class="post-entry-title">Фантастика. 2 сезон</span><span class="post-entry-resume">Музыкально-вольное шоу, в котором участникам предстоит измениться до неузнаваемости с помощью технологий дополненной...</span></a></article><article class="post-tv-entry">
+<a href="/product/show/16314570031/">
+<span class="post-entry-thumb"><img class="lazy2" data-original="https://www.vokrug.tv/pic/product/7/f/d/1/rsz120x160_7fd1873d01d7112ebc47467964ff6440.jpg"  alt="" /></span><span class="post-entry-title">Голос. Дети 10 сезон (2023)</span><span class="post-entry-resume">Десятый сезон популярной российской передачи на Первом канале, в котором юные участники соревнуются между собой за зв...</span></a></article><article class="post-tv-entry">
+<a href="/product/show/16672268641/">
+<span class="post-entry-thumb"><img class="lazy2" data-original="https://www.vokrug.tv/pic/product/6/5/3/a/rsz120x160_653a2950120e46bdb8b28ccfb94d3e82.jpg"  alt="" /></span><span class="post-entry-title">Конфетка на ТНТ (2023)</span><span class="post-entry-resume">Новое развлекательное шоу телеканала ТНТ, ведущими которого стали Гарик Мартиросян и Марина Кравец....</span></a></article></div></section>
+<div class="clearfix">
+<div class="column_50">
+<section><div class="block-title"><h2><a href="/listing/filmy_pro/"><span class="name">Новые подборки фильмов</span></a></h2>
+</div>
+<div class="post-tv-entries small clearfix">
+<article class="post-tv-entry">
+<a href="/listing/filmy_pro/filmy_pro_korolevu_velikobritanii_elizavetu_ii/">
+<span class="post-entry-thumb"><img class="lazy2" data-original="https://www.vokrug.tv/pic/product/6/4/5/8/rsz60x80_645864e11aa7fe3b837c8984294770b9.jpg"  alt="" /></span>
+<span class="post-entry-title">фильмы про королеву Великобритании Елизавету II</span>
+<span class="post-entry-resume">Королевский корги</span>
+</a>
+</article><article class="post-tv-entry">
+<a href="/listing/filmy_pro/dyatlova/">
+<span class="post-entry-thumb"><img class="lazy2" data-original="https://www.vokrug.tv/pic/product/b/1/f/e/rsz60x80_b1fe3c62d4560fc89d6b8352d7c1eac8.jpg"  alt="" /></span>
+<span class="post-entry-title">фильмы про перевал Дятлова</span>
+<span class="post-entry-resume">Ветер, скалы и снег</span>
+</a>
+</article><article class="post-tv-entry">
+<a href="/listing/filmy_pro/filmy_alekseya_germana/">
+<span class="post-entry-thumb"><img class="lazy2" data-original="https://www.vokrug.tv/pic/product/f/0/9/6/rsz60x80_f096b3dc37e7b4c13b8dbf7b511ae01f.jpeg"  alt="" /></span>
+<span class="post-entry-title">Фильмы Алексея Германа</span>
+<span class="post-entry-resume">Двадцать дней без войны</span>
+</a>
+</article><article class="post-tv-entry">
+<a href="/listing/filmy_pro/filmy_marvel/">
+<span class="post-entry-thumb"><img class="lazy2" data-original="https://www.vokrug.tv/pic/product/c/0/3/f/rsz60x80_c03f2911490283cfb1e5485531d1548a.jpg"  alt="" /></span>
+<span class="post-entry-title">Фильмы Marvel</span>
+<span class="post-entry-resume">Капитан Америка 4 (2023)</span>
+</a>
+</article><article class="post-tv-entry">
+<a href="/listing/filmy_pro/filmy_pro_ekstrim/">
+<span class="post-entry-thumb"><img class="lazy2" data-original="https://www.vokrug.tv/pic/product/e/c/3/1/rsz60x80_ec31ba396b59e89063f97ddfeda166bb.jpg"  alt="" /></span>
+<span class="post-entry-title">фильмы про экстрим</span>
+<span class="post-entry-resume">Малыш на драйве</span>
+</a>
+</article><article class="post-tv-entry">
+<a href="/listing/filmy_pro/filmy_pro_igry/">
+<span class="post-entry-thumb"><img class="lazy2" data-original="https://www.vokrug.tv/pic/product/5/3/4/b/rsz60x80_534b3e682082993013e1c27f5d039e8b.jpg"  alt="" /></span>
+<span class="post-entry-title">фильмы про игры</span>
+<span class="post-entry-resume">Пушки Акимбо</span>
+</a>
+</article></div></section>
+</div>
+<div class="column_50"><section><div class="block-title"><h2><a href="/listing/serialy_pro/"><span class="name">Новые подборки сериалов</span></a></h2></div><div class="post-tv-entries small clearfix">
+<article class="post-tv-entry">
+<a href="/listing/serialy_pro/serialy_pro_prostitutok/"><span class="post-entry-thumb"><img class="lazy2" data-original="https://www.vokrug.tv/pic/product/c/8/3/0/rsz60x80_c830f1e9f075cd6ff0325f32634d0dd9.jpg"  alt="" /></span><span class="post-entry-title">сериалы про проституток</span><span class="post-entry-resume">С нуля 3 сезон</span></a></article><article class="post-tv-entry">
+<a href="/listing/serialy_pro/serialy_pro_petra/"><span class="post-entry-thumb"><img class="lazy2" data-original="https://www.vokrug.tv/pic/product/f/7/2/f/rsz60x80_f72f51a773eb84376352fae729ad6091.jpg"  alt="" /></span><span class="post-entry-title">Сериалы про Петра</span><span class="post-entry-resume">Великая (сериал)</span></a></article><article class="post-tv-entry">
+<a href="/listing/serialy_pro/serialy_pro_manyakov/"><span class="post-entry-thumb"><img class="lazy2" data-original="https://www.vokrug.tv/pic/product/7/f/e/d/rsz60x80_7feddb77fd2f9012cf2d4838dc7f9cb3.jpg"  alt="" /></span><span class="post-entry-title">сериалы про маньяков</span><span class="post-entry-resume">Кто-то (2022)</span></a></article><article class="post-tv-entry">
+<a href="/listing/serialy_pro/serialy_pro_voinu/"><span class="post-entry-thumb"><img class="lazy2" data-original="https://www.vokrug.tv/pic/product/9/c/0/5/rsz60x80_9c053633480e2eda40cf5c38d2a929bb.jpg"  alt="" /></span><span class="post-entry-title">сериалы про войну</span><span class="post-entry-resume">Операция «Неман» (2023)</span></a></article><article class="post-tv-entry">
+<a href="/listing/serialy_pro/serialy_pro_velikuyu_otechestvennuyu_voinu/"><span class="post-entry-thumb"><img class="lazy2" data-original="https://www.vokrug.tv/pic/product/9/b/b/1/rsz60x80_9bb1d5ad9ca2da3f02cfd6d401d419d4.jpg"  alt="" /></span><span class="post-entry-title">сериалы про Великую Отечественную войну</span><span class="post-entry-resume">Учености плоды (сериал)</span></a></article><article class="post-tv-entry">
+<a href="/listing/serialy_pro/serialy_pro_virusy/"><span class="post-entry-thumb"><img class="lazy2" data-original="https://www.vokrug.tv/pic/product/8/7/8/2/rsz60x80_878243e7a79b72c881b72250acd68d11.jpg"  alt="" /></span><span class="post-entry-title">сериалы про вирусы, эпидемии и заражения</span><span class="post-entry-resume">Утреннее шоу 2 сезон (2021)</span></a></article></div></section>
+</div></div>
+<section><div class="block-title"><h2><a href="/kino/premiere/"><span class="name">Кинопремьеры</span></a></h2></div>
+<div class="post-tv-entries clearfix">
+<article class="post-tv-entry">
+<a href="/product/show/15820987151/"><span class="post-entry-thumb"><img class="lazy2" data-original="https://www.vokrug.tv/pic/product/d/e/4/f/rsz120x160_de4f5322f5b1027f69af146e85d15106.jpg"  alt="" /></span><span class="post-entry-title">Иван Царевич и Серый Волк 5 (2022)</span><span class="post-entry-resume">Российский полнометражный приключенческий мультфильм.</span><span class="post-entry-schedule">29 декабря 2022</span></a></article><article class="post-tv-entry">
+<a href="/product/show/16034928501/"><span class="post-entry-thumb"><img class="lazy2" data-original="https://www.vokrug.tv/pic/product/e/1/0/9/rsz120x160_e109501a6006c622ef8fcbef2ce0ea7a.jpg"  alt="" /></span><span class="post-entry-title">Чебурашка (фильм) 2023</span><span class="post-entry-resume">Полнометражный семейный фильм о милом персонаже из советского мультфильма....</span><span class="post-entry-schedule">1 января 2023</span></a></article><article class="post-tv-entry">
+<a href="/product/show/16581467751/"><span class="post-entry-thumb"><img class="lazy2" data-original="https://www.vokrug.tv/pic/product/d/4/1/b/rsz120x160_d41bda70b333ece4c2b001c298ac1ad4.jpg"  alt="" /></span><span class="post-entry-title">О чем говорят мужчины. Простые удовольствия (2023)</span><span class="post-entry-resume">Предстоящий комедийный фильм с участниками комического театра «Квартет И» в главных ролях, продолжение франшизы «О че...</span><span class="post-entry-schedule">2 февраля 2023</span></a></article><article class="post-tv-entry">
+<a href="/product/show/16001708461/"><span class="post-entry-thumb"><img class="lazy2" data-original="https://www.vokrug.tv/pic/product/3/7/f/8/rsz120x160_37f8f4591a3116c43c1f9483a5ccb898.jpg"  alt="" /></span><span class="post-entry-title">Операция «Фортуна»: Искусство побеждать (2023)</span><span class="post-entry-resume">Американский шпионский триллер.</span><span class="post-entry-schedule">5 января 2023</span></a></article><article class="post-tv-entry">
+<a href="/product/show/16302976791/"><span class="post-entry-thumb"><img class="lazy2" data-original="https://www.vokrug.tv/pic/product/2/6/4/7/rsz120x160_264707f7e63d403cd3c0162a2ae27e84.jpg"  alt="" /></span><span class="post-entry-title">Клипмейкеры (2023)</span><span class="post-entry-resume">Российская полнометражная комедия Григория Константинопольского....</span><span class="post-entry-schedule">5 января 2023</span></a></article><article class="post-tv-entry">
+<a href="/product/show/16295236061/"><span class="post-entry-thumb"><img class="lazy2" data-original="https://www.vokrug.tv/pic/product/8/b/f/e/rsz120x160_8bfef6792ed5803842c6258d9ba0c5be.jpg"  alt="" /></span><span class="post-entry-title">Свободные отношения (2023)</span><span class="post-entry-resume">Российская драматическая комедия Дмитрия Невзорова с Аглаей Тарасовой в главной роли....</span><span class="post-entry-schedule">9 февраля 2023</span></a></article><article class="post-tv-entry">
+<a href="/product/show/16705916991/"><span class="post-entry-thumb"><img class="lazy2" data-original="https://www.vokrug.tv/pic/product/b/f/9/b/rsz120x160_bf9bab15494ed1ddf819ceecbb5e9165.jpg"  alt="" /></span><span class="post-entry-title">При чем тут любовь?</span><span class="post-entry-resume">Умная, искрометная и романтическая комедия Шекхара Капура с участием Лили Джеймс, Шазада Латифа и Эммы Томпсон о кино...</span><span class="post-entry-schedule">9 февраля 2023</span></a></article><article class="post-tv-entry">
+<a href="/product/show/16705928481/"><span class="post-entry-thumb"><img class="lazy2" data-original="https://www.vokrug.tv/pic/product/4/0/6/5/rsz120x160_4065ab2e89cbaa36be2901e5ecd437e7.jpg"  alt="" /></span><span class="post-entry-title">Лили и море (2023)</span><span class="post-entry-resume">Полнометражная художественная драма Динары Друкаровой.</span><span class="post-entry-schedule">26 января 2023</span></a></article><article class="post-tv-entry">
+<a href="/product/show/16636905411/"><span class="post-entry-thumb"><img class="lazy2" data-original="https://www.vokrug.tv/pic/product/7/5/d/d/rsz120x160_75dd1c0a0415f426854a72a8f6405d0a.jpg"  alt="" /></span><span class="post-entry-title">Изумительный Морис (2023)</span><span class="post-entry-resume">Британско-немецкий комедийный мультфильм Тоби Генкеля и Флориана Вестерманна, созданный на основе книге Терри Пратчет...</span><span class="post-entry-schedule">26 января 2023</span></a></article></div></section><div class="drop-line-x"></div>
+<div class="clearfix"><div class="main-common"><div class="post-entries clearfix"><div class="post-entry">
+<a href="/article/show/16767409011/"><span class="post-entry-thumb"><img class="lazy2" data-original="https://www.vokrug.tv/pic/news/0/d/a/b/rsz300x300_0dabdded5c6078ae66df9ed67e82ba38.jpg"  alt="" /></span>
+<span class="post-entry-title">Звезду фильма «Курьер» Федора Дунаевского жена выгнала из квартиры</span>
+<span class="post-entry-resume">Актер через суд пытается вернуть недвижимость. </span>
+</a>
+</div><div class="post-entry">
+<a href="/article/show/16767242161/"><span class="post-entry-thumb"><img class="lazy2" data-original="https://www.vokrug.tv/pic/news/a/c/5/5/rsz300x300_ac55719ea74bab725073806c3561418d.jpg"  alt="" /></span>
+<span class="post-entry-title">Рецензия на фильм «Непослушная»: Александр Петров показывает 50 оттенков серого в Битцевском лесу (18+)</span>
+<span class="post-entry-resume">В прокат вышла мелодрама Дмитрия Суворова.</span>
+</a>
+</div></div>
+</div>
+<div class="main-sidebar">
+<div class="social-group-list">
+<div class="social-group-item">
+<div id="vk_groups"></div>
+<script type="text/javascript">
+setTimeout(function(){try{VK.Widgets.Group("vk_groups", {mode: 0, width: "300", height: "185", color1: 'FFFFFF', color2: '2B587A', color3: '5B7FA6'}, 31897553);}catch(e){}},5000);
+</script>
+</div>
+</div>
+</div>
+</div>	
+<div class="drop-line-x"></div>
+<div class="yandex_direct"></div>
+<div class="drop-line-x"></div>
+<section id="encyclopaediasection">
+                <div class="block-title">
+                    <h2><span class="name">Энциклопедия: новые карточки</span></h2>
+                </div>
+                
+                <!--TV-->
+                <div id="encyclopedia-in-main" class="post-tv-entries clearfix">
+                    					<article class="post-tv-entry">
+                        <a href="/product/show/15680428991/">
+                            <span class="post-entry-thumb"><img class="lazy2" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" data-original="https://www.vokrug.tv/pic/product/b/1/1/f/rsz120x160_b11fa0441aec47dfa393da60476e7145.jpg" style="height:160px" alt=""></span>
+                            <span class="post-entry-title">Мандалорец 3 сезон (2022)</span>
+                            <span class="post-entry-resume">									Третий сезон фантастического сериала «Мандалорец» от кинокомпании...							</span>
+                        </a>
+                    </article>
+										<article class="post-tv-entry">
+                        <a href="/product/show/16606306501/">
+                            <span class="post-entry-thumb"><img class="lazy2" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" data-original="https://www.vokrug.tv/pic/product/d/d/1/4/rsz120x160_dd146d28c7241076c024e098a8c416d5.jpg" style="height:160px" alt=""></span>
+                            <span class="post-entry-title">Бывшие. Happy End (2022)</span>
+                            <span class="post-entry-resume">									Полнометражное продолжение сериала об отношениях психолога и...							</span>
+                        </a>
+                    </article>
+					                                        <article class="post-tv-entry">
+                        <a href="/person/show/16751529031/">
+                            <span class="post-entry-thumb"><img class="lazy2" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" data-original="https://www.vokrug.tv/pic/person/8/d/c/d/rsz120x160_8dcd9c8cf1c6f93d3082080e58370fdf.jpg" style="height:160px" alt=""></span>
+                            <span class="post-entry-title">Ховард Дж. Форд</span>
+                            <span class="post-entry-resume">Ховард Дж. Форд/Howard J. Ford – английский режиссер, актер, продюсер, сценарист и...</span>
+                        </a>
+                    </article>                </div>
+                <div class="drop-line-x"></div>
+                <div class="post-tv-entries small clearfix">
+				<article class="post-tv-entry">
+                        <a href="/listing/filmy_pro/filmy_pro_shpionov/">
+                            <span class="post-entry-thumb"><img class="lazy2" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" data-original="https://www.vokrug.tv/pic/product/e/9/0/b/rsz60x80_e90b49d14f1196b7a679763eac28295f.jpg" style="height:80px" alt=""></span>
+                            <span class="post-entry-title">фильмы про шпионов</span>
+                            <span class="post-entry-resume">Агент «Лев»</span>
+                        </a>
+                    </article><article class="post-tv-entry">
+                        <a href="/listing/filmy_pro/filmy_pro_kontslagerya/">
+                            <span class="post-entry-thumb"><img class="lazy2" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" data-original="https://www.vokrug.tv/pic/product/c/0/8/b/rsz60x80_c08ba2bc1c86c602ac7accfb36b0e90e.jpg" style="height:80px" alt=""></span>
+                            <span class="post-entry-title">фильмы про концлагеря</span>
+                            <span class="post-entry-resume">Чемпион из Освенцима</span>
+                        </a>
+                    </article><article class="post-tv-entry">
+                        <a href="/listing/filmy_pro/filmy_pro_korolevu_velikobritanii_elizavetu_ii/">
+                            <span class="post-entry-thumb"><img class="lazy2" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" data-original="https://www.vokrug.tv/pic/product/6/4/5/8/rsz60x80_645864e11aa7fe3b837c8984294770b9.jpg" style="height:80px" alt=""></span>
+                            <span class="post-entry-title">фильмы про королеву Великобритании Елизавету II</span>
+                            <span class="post-entry-resume">Королевский корги</span>
+                        </a>
+                    </article><article class="post-tv-entry">
+                        <a href="/listing/filmy_pro/filmy_pro_muzykantov/">
+                            <span class="post-entry-thumb"><img class="lazy2" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" data-original="https://www.vokrug.tv/pic/product/2/6/4/7/rsz60x80_264707f7e63d403cd3c0162a2ae27e84.jpg" style="height:80px" alt=""></span>
+                            <span class="post-entry-title">фильмы про музыкантов</span>
+                            <span class="post-entry-resume">Клипмейкеры (2023)</span>
+                        </a>
+                    </article>                </div>
+                <!--END TV-->
+			</section></div>
+</main>
+<div class="subscribe-block clearfix"><div class="wrapper"><div class="h3">Подписаться на еженедельную рассылку</div><div class="subscribe-form"><form method="post" onsubmit="return sendsub();"><div class="clearfix"><div class="field"><input type="email" name="email" value="" placeholder="Ваш  e-mail..." /><div id="serr_email"></div></div><div class="button"><button type="submit" value="" name=""><i class="mdi mdi-email-outline"></i></button></div></div><span class="form-warning" style="display:none"></span></form></div><div id="sub_result"></div></div><script>
+function sendsub(){$(".subscribe-form .err").html('');$.post("/subscribe/sub/",$(".subscribe-form FORM").serialize(),function(dd){if(dd.email){$(".form-warning").html(dd.email).show();}if(dd.result){$("#sub_result").html(dd.result);$(".subscribe-form").hide();}}, "json");return false;}
+</script></div><footer id="footer" class="clearfix"><div class="wrapper clearfix"><div class="clearfix">
+<div class="common"><div id="mobile-nav"></div><div class="menu menu_1"><ul>
+<li><a href="/article/1/">Новости</a></li> <li><a href="/show/1/">Сериалы</a></li> <li><a href="/person/">Персоны</a></li> <li><a href="/show/4/">Шоу</a></li> <li><a href="/show/7/">Фильмы</a></li> <li><a href="/faces/">Голосования</a></li> <li><a href="/encyclopaedia/">Энциклопедия</a></li></ul></div><div class="menu menu_2">
+<ul><li><a href="/show/8/">Мультфильмы</a></li><li><a href="/listing/">Листинги</a></li></ul></div><div class="menu menu_3"><ul><li><a href="/about/">О проекте</a></li><li><a href="/advertiser/">Рекламодателям</a></li><li><a href="/partners/">Партнерам</a></li><li><a href="/vacancy/">Вакансии</a></li><li><a href="/agreement/">Условия использования</a></li><li><a href="/contacts/">Контакты</a></li></ul></div></div>
+<div class="sidebar"><div class="social">Присоединяйтесь к нам <ul><li><a href="https://vk.com/vokrugtv" target="_blank"><i class="mdi mdi-vk"></i></a></li><li><a href="https://www.odnoklassniki.ru/group/51710903124041" target="_blank"><i class="mdi mdi-odnoklassniki"></i></a></li><li><a href="https://t.me/vokrug_tv" target="_blank"><i class="mdi mdi-telegram"></i></a></li>
+<li><a href="https://www.tiktok.com/@vokrug_tv" target="_blank"><svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M23.6062 10.5516C23.8197 10.5505 24.0329 10.5399 24.2455 10.519L24.2491 6.19267C22.6265 6.07413 21.0971 5.38905 19.9283 4.25675C18.7598 3.12483 18.0262 1.61789 17.856 0H14.132L14.093 18.1517C14.093 20.3787 12.1263 22.1334 9.89934 22.1334C8.83012 22.1334 7.80459 21.7086 7.04846 20.9524C6.29233 20.1963 5.86772 19.1708 5.86772 18.1015C5.86772 17.0323 6.29233 16.0068 7.04846 15.2507C7.80459 14.4945 8.83012 14.0697 9.89934 14.0697C10.0661 14.0697 10.2253 14.0994 10.3876 14.1191V10.2264C10.2253 10.2161 10.0642 10.2013 9.89934 10.2013C8.33692 10.2013 6.80965 10.6645 5.51074 11.5327C4.21164 12.4005 3.19922 13.6343 2.60134 15.0778C2.00347 16.5213 1.84692 18.1095 2.15185 19.6415C2.45658 21.1739 3.20891 22.5817 4.31366 23.6863C5.41841 24.7912 6.82599 25.5435 8.3582 25.8483C9.8906 26.153 11.4789 25.9965 12.9223 25.3988C14.3656 24.8007 15.5994 23.7885 16.4674 22.4894C17.3355 21.1903 17.7986 19.6628 17.7986 18.1008V7.41274C18.4299 8.3771 19.2915 9.16894 20.3054 9.71685C21.3194 10.2648 22.4538 10.5516 23.6062 10.5516Z" fill="white"/>
+</svg>
+</a></li><li><a href="https://zen.yandex.ru/vokrug.tv" target="_blank"><svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M3 12.6956C7.05111 12.6451 9.32848 12.368 10.8484 10.8481C12.3683 9.32823 12.6454 7.05086 12.6959 2.99976C7.41122 3.15532 3.15556 7.41097 3 12.6956ZM13.2953 2.99976C13.3458 7.05086 13.6229 9.32823 15.1428 10.8481C16.6627 12.368 18.9401 12.6451 22.9912 12.6956C22.8356 7.41097 18.58 3.15532 13.2953 2.99976ZM22.9912 13.2951C18.9401 13.3456 16.6627 13.6227 15.1428 15.1426C13.6229 16.6625 13.3458 18.9398 13.2953 22.9909C18.58 22.8354 22.8356 18.5797 22.9912 13.2951ZM12.6959 22.9909C12.6454 18.9398 12.3683 16.6625 10.8484 15.1426C9.32849 13.6227 7.05111 13.3456 3 13.2951C3.15556 18.5797 7.41122 22.8354 12.6959 22.9909Z" fill="white"/>
+</svg>
+</a></li></ul></div>
+<style>
+#footer .social ul{display:flex;justify-content:center;}
+#footer .social li a{display:flex;line-height:1;align-items:center;justify-content:center;}
+</style><div class="counter"><div class="countermix" style="text-align: center;">
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js", "ym");
+
+   ym(49980331, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/49980331" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "3055826", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = "https://top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+
+function updatemailru(){
+	var ramb = new Image(); ramb.src = "https://top-fwz1.mail.ru/counter?id=3055826;js=na";
+}
+</script><noscript><div>
+<img src="https://top-fwz1.mail.ru/counter?id=3055826;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+	<br>
+    <a href="#" onclick="if(window.__lxG__consent__ !== undefined) {window.__lxG__consent__.showConsent()} else {alert('This function only for users from European Economic Area (EEA)')}; return false">Change privacy settings</a>
+    <!--LiveInternet counter--><script type="text/javascript">
+function liveinternet(){new Image().src = "https://counter.yadro.ru/hit;Gazprom-Media?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+
+";"+Math.random();}liveinternet();</script><!--/LiveInternet-->  
+  
+<script>try{document.cookie='tvp_tz='+encodeURIComponent(Intl.DateTimeFormat().resolvedOptions().timeZone)+';path=/;';}catch(e){}</script>
+ <!-- tns-counter.ru -->
+
+<script language="JavaScript">
+function tnscounter(){var img = new Image();
+ img.src = 'https://www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g,'%2a') + '*vokrug_tv/ru/CP1251/tmsec=vokrugtv_total/';}tnscounter();
+</script>
+<noscript>
+ <img src="https://www.tns-counter.ru/V13a****vokrug_tv/ru/CP1251/tmsec=vokrugtv_total/" width="1" height="1" alt="" />
+</noscript>
+<!--/ tns-counter.ru -->
+</div> </div></div></div>
+<div class="copy"><p>Зарегистрировано Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций. Свидетельство о регистрации  ЭЛ № ФС 77-35917 от 31  марта 2009 года. Любое воспроизведение, копирование, переработка или последующее распространение материалов с сайта www.vokrug.tv без письменного разрешения ООО "Вокруг ТВ" запрещается.</p><p>ООО «Вокруг ТВ», 2009-2023. Все права защищены. Для детей старше 16 лет. Дизайн - Coalla.</p></div></div></footer>
+</div>
+<div class="subscribe-false-bg"></div><div class="footer-false-bg"></div>
+<a class="scroll-up" href="#"><i class="mdi mdi-chevron-up"></i></a>
+<script>
+var wind;
+function loginwindow(t,w,h){
+	wind=window.open('https://auth.gid.ru/cas/login?service=https://www.vokrug.tv/login/newtest/','loginwindow','width='+w+',height='+h);
+	checkforwindowandreload();
+}
+function newloginwindow(t,w,h){
+	//wind=window.open('https://preprod.gid-auth.ru/oauth2/auth/?response_type=code&client_id=p2BqRM7abhia2x0HG4CZTOa9Ibv5I7oTMsrgMBeP&scope=openid&redirect_uri=https%3A%2F%2Fwww.vokrug.tv%2Flogin%2Fnewtest%2F&state=e1438094bf102bdf25ac54ca163a936d','loginwindow','width='+w+',height='+h);
+	wind=window.open('https://auth.gid.ru/oauth2/auth/?response_type=code&client_id=7cSej0AfekqFtWb6pEb5tVGquAbBPWxuHs2S5hRt&scope=openid&redirect_uri=https%3A%2F%2Fwww.vokrug.tv%2Flogin%2Fnewtest%2F&state=e1438094bf102bdf25ac54ca163a936d','loginwindow','width='+w+',height='+h);
+	checkforwindowandreload();
+}
+function checkforwindowandreload(){try{if(wind.closed==true){location.reload();}else{setTimeout(function(){checkforwindowandreload();},100);}}catch(e){}}
+</script>
+<script>
+var started_videos=[];
+var ready_videos=[];
+function start_rutube(id){
+	if(started_videos[id]==1)return true;
+	if(!ready_videos[id])return false;
+	started_videos[id]=1;
+	var player = document.getElementById('RutubePlayerNews-'+id);
+	player.contentWindow.postMessage(JSON.stringify({type:'player:play',data:''}),'*');
+	setTimeout(function(){
+		player.contentWindow.postMessage(JSON.stringify({type:'player:setCurrentTime',data:{time: 0}}), '*');
+	},2000);
+	if(console)console.log('start:'+id);
+}
+function check_rutube_scroll(id){
+	ids='';
+	var observer = new IntersectionObserver(function(entries) {
+		if(entries[0].isIntersecting === true){
+			ids=entries[0].target.id.split('-');
+			if(ids.length==2)start_rutube(ids[1]);
+			//console.log(ids[1]);
+		}
+	}, { threshold: [0],rootMargin:'-400px 0px 0px 0px' });
+	observer.observe(document.querySelector("#RutubePlayerNews-"+id));
+}
+window.addEventListener('message', function (event) {
+    var message = JSON.parse(event.data);
+	//console.log(message);
+    switch (message.type) {
+        case 'player:ready':
+			ready_videos[message.data.videoId]=1;
+			console.log("rutube:"+message.data.videoId);
+			check_rutube_scroll(message.data.videoId);
+            break;
+    };
+});
+</script>
+<div class="popform-wrapper" id="login-form"><div class="overlay"></div><div class="popform-content"><a class="close" href="#"><i class="mdi mdi-close"></i></a><div class="block-title center"><div class="h3">авторизация</div></div>Войти через
+<div class="social-login clearfix"><ul><li><a class="pm" href="javascript:;" onclick="loginwindow('pm',590,600);"><svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32"><defs><style>.cls-1{fill:url(#linear-gradient);}.cls-2{fill:url(#linear-gradient-2);}.cls-3{fill:url(#linear-gradient-3);}.cls-4{stroke-miterlimit:10;stroke-width:0.1px;stroke:url(#linear-gradient-4);}.cls-5{fill:url(#linear-gradient-5);}.cls-6{fill:url(#linear-gradient-6);}.cls-7{clip-path:url(#clip-path);}.cls-8{fill:url(#linear-gradient-8);}.cls-9{clip-path:url(#clip-path-2);}.cls-10{fill:url(#linear-gradient-10);}.cls-11{clip-path:url(#clip-path-3);}.cls-12{fill:url(#linear-gradient-12);}</style><linearGradient id="linear-gradient" x1="6.75" y1="16" x2="14.5" y2="16" gradientUnits="userSpaceOnUse"><stop offset="1" stop-color="#f4be6f"/><stop offset="1" stop-color="#de984d"/></linearGradient><linearGradient id="linear-gradient-2" x1="16.01" y1="16" x2="25.25" y2="16" xlink:href="#linear-gradient"/><linearGradient id="linear-gradient-3" x1="12.73" y1="20.67" x2="14.29" y2="20.67" xlink:href="#linear-gradient"/><linearGradient id="linear-gradient-4" x1="0.6" y1="16" x2="31.4" y2="16" xlink:href="#linear-gradient"/><linearGradient id="linear-gradient-5" x1="0.05" y1="16" x2="31.95" y2="16" xlink:href="#linear-gradient"/><linearGradient id="linear-gradient-6" x1="0" y1="16" x2="32" y2="16" xlink:href="#linear-gradient"/><clipPath id="clip-path"><path class="cls-1" d="M7.85,11.6h3c1.71,0,2.58.74,2.58,2.2S12.53,16,10.82,16h-3Zm-.7-1a.39.39,0,0,0-.4.41V21.45H7.84V21.1a.09.09,0,0,0,0-.05v-4h3a4,4,0,0,0,2.63-.82,3.08,3.08,0,0,0,1-2.43,3.06,3.06,0,0,0-1-2.43,3.94,3.94,0,0,0-2.63-.82Z"/></clipPath><linearGradient id="linear-gradient-8" x1="-1888.13" y1="1002.39" x2="-1888.03" y2="1002.39" gradientTransform="matrix(0, -111.76, -111.76, 0, 112038.67, -210997.17)" xlink:href="#linear-gradient"/><clipPath id="clip-path-2"><path class="cls-2" d="M24.46,10.55a.43.43,0,0,0-.38.23l-3.45,6.7-3.44-6.7a.42.42,0,0,0-.38-.23h-.39A.38.38,0,0,0,16,11V21.45H17.1V13l2.82,5.55a.54.54,0,0,0,.54.35h.34a.52.52,0,0,0,.53-.35L24.15,13v8.48h1.1V11a.39.39,0,0,0-.42-.41Z"/></clipPath><linearGradient id="linear-gradient-10" x1="-1888.13" y1="1005.71" x2="-1888.03" y2="1005.71" gradientTransform="matrix(0, -111.76, -111.76, 0, 112419.95, -210997.17)" xlink:href="#linear-gradient"/><clipPath id="clip-path-3"><path class="cls-3" d="M13.13,19.89a.4.4,0,0,0-.4.42v1.14h1.56V20.31a.42.42,0,0,0-.42-.42Z"/></clipPath><linearGradient id="linear-gradient-12" x1="-1912.59" y1="939.88" x2="-1912.49" y2="939.88" gradientTransform="matrix(0, -15.99, -15.99, 0, 15039.71, -30555.85)" xlink:href="#linear-gradient"/></defs><title>Pass.Media</title><circle class="cls-4" cx="16" cy="16" r="15.35"/><path class="cls-5" d="M16,32A16,16,0,1,1,32,16,16,16,0,0,1,16,32ZM16,1.26A14.74,14.74,0,1,0,30.74,16,14.75,14.75,0,0,0,16,1.26Z"/><path class="cls-6" d="M16,32A16,16,0,1,1,32,16,16,16,0,0,1,16,32ZM16,.1A15.9,15.9,0,1,0,31.9,16,15.91,15.91,0,0,0,16,.1Zm0,30.69A14.79,14.79,0,1,1,30.79,16,14.8,14.8,0,0,1,16,30.79ZM16,1.31A14.69,14.69,0,1,0,30.69,16,14.71,14.71,0,0,0,16,1.31Z"/><path class="cls-1" d="M7.85,11.6h3c1.71,0,2.58.74,2.58,2.2S12.53,16,10.82,16h-3Zm-.7-1a.39.39,0,0,0-.4.41V21.45H7.84V21.1a.09.09,0,0,0,0-.05v-4h3a4,4,0,0,0,2.63-.82,3.08,3.08,0,0,0,1-2.43,3.06,3.06,0,0,0-1-2.43,3.94,3.94,0,0,0-2.63-.82Z"/><g class="cls-7"><rect class="cls-8" x="6.75" y="10.55" width="7.75" height="10.91"/></g><path class="cls-2" d="M24.46,10.55a.43.43,0,0,0-.38.23l-3.45,6.7-3.44-6.7a.42.42,0,0,0-.38-.23h-.39A.38.38,0,0,0,16,11V21.45H17.1V13l2.82,5.55a.54.54,0,0,0,.54.35h.34a.52.52,0,0,0,.53-.35L24.15,13v8.48h1.1V11a.39.39,0,0,0-.42-.41Z"/><g class="cls-9"><rect class="cls-10" x="16.01" y="10.55" width="9.25" height="10.91"/></g><path class="cls-3" d="M13.13,19.89a.4.4,0,0,0-.4.42v1.14h1.56V20.31a.42.42,0,0,0-.42-.42Z"/><g class="cls-11"><rect class="cls-12" x="12.73" y="19.89" width="1.56" height="1.56"/></g></svg></a></li></ul></div></div></div>
+<link rel="stylesheet" href="/js/flipclock/flipclock.css?1538323898">
+</body>
+<script>
+$(document).ready(function(){$('IMG.lazy2, div.lazy2, span.lazy2').lazyload();$('IMG.lazy3, div.lazy3, span.lazy3').lazyload();});
+</script>
+</html>

@@ -1,0 +1,587 @@
+    <!DOCTYPE html>
+    <html lang="ru" dir="ltr">
+    <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+                <title>Новости Казани. Авто новости Казани. Новости бизнеса в Казани</title><meta name="description" content="Казань, Новости Казани, Авто новости Казань, Бизнес в Казани, Про Город Казань. ДТП Казань. Татарстан"><meta property="og:type" content="website">
+<meta property="og:url" content="https://prokazan.ru/">
+<meta property="og:locale" content="ru_RU">
+<meta property="og:title" content="Новости Казани. Авто новости Казани. Новости бизнеса в Казани">
+<meta property="og:description" content="Казань, Новости Казани, Авто новости Казань, Бизнес в Казани, Про Город Казань. ДТП Казань. Татарстан">
+<meta property="og:site_name" content="ProKazan.ru - Новости Казани">
+
+<meta name="robots" content="max-image-preview:large">
+<link href="https://yandex.ru" rel="preconnect">
+<link href="https://avatars.mds.yandex.net" rel="preconnect">
+<link href="https://banners.adfox.ru" rel="preconnect">
+<link href="https://prokazan.ru/" rel="canonical">
+<link type="application/rss+xml" href="https://prokazan.ru/rss.xml" rel="alternate">
+<link type="image/x-icon" href="/favicon.ico" rel="shortcut icon">
+<link type="image/x-icon" href="/favicon120.ico" rel="icon" sizes="120x120">
+<link type="image/svg+xml" href="/favicon.svg" rel="icon">
+<link href="/assets/min/9a073ef0387b188eb8c0403570b5eea4.css" rel="stylesheet">
+<link href="/assets/css/styles.css" rel="stylesheet"><script type="application/ld+json">{"@context":"http://schema.org","@type":"Organization","name":"ProKazan.ru - Новости Казани","alternateName":"ProKazan","url":"https://prokazan.ru","logo":"https://prokazan.ru/assets/img/logo.png"}</script>
+<script>window.yaContextCb = window.yaContextCb || []</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+<meta name="yandex-verification" content="64a4aac8d4620fbe" />    </head>
+    <body>
+    
+    <script type="text/javascript">
+(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+   ym(7655743, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        defer:true
+   });
+</script>
+<script type="text/javascript" data-counter>
+    ym(7655743, "hit", document.URL, {});
+</script><script data-counter>
+new Image().src = "https://counter.yadro.ru/hit;ProKazan?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,150))+
+";"+Math.random();</script><script type="text/javascript" data-counter>
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "1684050", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = "https://top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script>
+<div class="text-center adf-ins"><div class="container m-t m-b pi_top"><div id="63f34dcf635f9"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 346966,
+            containerId: '63f34dcf635f9',
+            params: {
+                p1: 'cwcne',
+                p2: 'htir'
+            }
+        })
+    })
+</script></div></div>
+<div class="header">
+    <div class="c-top-menu">
+        <div class="container">
+            <ul class="top-menu">
+                <li>
+                    <a href="/"><img class="logo" src="/assets/img/logo.png?h=0.1.1.2"
+                                     title="ProKazan.ru - Новости Казани"
+                                     alt="ProKazan.ru - Новости Казани"></a>
+                </li>
+                <li>
+                    <div class="top-menu__main">
+                        <div class="top-menu__main-menu">
+                            <ul id="w0" class="nav top_menu"><li><a href="/news"><p>Новости</p></a></li>
+<li><a href="/tags/proissestvia"><p>ЧП</p></a></li>
+<li><a href="/tags/kuda-pojti"><p>Интересное в Казани</p></a></li>
+<li><a href="https://prokazan.ru/special_project/view/kazanskim-voditelam-uprostili-zizn-teper-pri-polomke-avtoservisy-predlagaut-svoi-uslugi-i-ceny"><p>Автомобилистам</p></a></li>
+<li><a href="https://prokazan.ru/special_project/view/gid-po-kazani-akcii-skidki-i-neobycnye-predlozenia-goroda?nocache=true"><p>Гид по скидкам Казани</p></a></li></ul>                        </div>
+                        <div class="icons">
+                            <a href="/search"><i class="search"></i></a>                            <div class="user-menu">
+                                <i class="user"></i>
+                                <div class="user-menu_dropdown">
+                                    <ul><li><a href="/user/login">Войти</a></li></ul>                                </div>
+                            </div>
+
+                            
+                            <div class="hamburger">
+
+                            </div>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="container">
+        <hr class="hr-line-top-menu"/>
+        <ul class="main-menu">
+            <li>
+                <ul id="w1" class="nav main_menu"><li><a href="https://prokazan.ru/adverting"><p>Полезное</p></a></li></ul>            </li>
+            <li>
+                <div class="top-social"><a class="vk" href="http://vk.com/novostiprokazan"><img src="/assets/core/theme/img/social/vk.svg" alt=""></a><a class="telegram" href="https://t.me/newsprotatar"><img src="/assets/core/theme/img/social/telegram.svg" alt=""></a></div>            </li>
+        </ul>
+    </div>
+</div>
+
+    <div class="container">
+        <div class="main-content">
+                <h1 style="display: none;">Новости Казани. Авто новости Казани. Новости бизнеса в Казани</h1>
+
+
+
+    <div class="first-block">
+        
+
+<div class="first-news">
+    <div class="news-info">
+        <div class="sections-name">
+            <i class="sections-i" style=""></i>            <a href="/news">Новости Казани</a>        </div>
+        <div class="news-date">3 часа назад</div>
+    </div>
+    <div class="news-item">
+        <a href="/news/view/my-staraemsa-derzatsa-supruga-34-letnego-voennogo-iz-kazani-rasskazala-kak-ee-muz-pogib-v-zone-specoperacii">
+            <h3>"Мы стараемся держаться": супруга 34-летнего военного из Казани рассказала, как ее муж погиб в зоне спецоперации</h3>
+                            <picture><source type="image/webp" srcset="/userfiles/webp/-min-eSlhfZaq1W2WVvPkE5irHSlgn5K3EZES.png.webp" media="(max-width: 480px)"><source type="image/webp" srcset="/userfiles/webp/-middle-eSlhfZaq1W2WVvPkE5irHSlgn5K3EZES.png.webp" media="(max-width: 764px)"><source srcset="/userfiles/min/eSlhfZaq1W2WVvPkE5irHSlgn5K3EZES.png" media="(max-width: 480px)"><source srcset="/userfiles/middle/eSlhfZaq1W2WVvPkE5irHSlgn5K3EZES.png" media="(max-width: 764px)"><source type="image/webp" srcset="/userfiles/webp/-main-eSlhfZaq1W2WVvPkE5irHSlgn5K3EZES.png.webp"><img src="/userfiles/main/eSlhfZaq1W2WVvPkE5irHSlgn5K3EZES.png" alt="&quot;Мы стараемся держаться&quot;: супруга 34-летнего военного из Казани рассказала, как ее муж погиб в зоне спецоперации" loading="eager"></picture>                    </a>
+    </div>
+</div>        
+<div class="news-list">
+                        <div class="other-news">
+                <div class="news-info">
+                    <p class="sections-name">
+                        <i class="sections-i" style=""></i>                        <a href="/russia">Новости России</a>                    </p>
+                    <p class="news-date">2 часа назад</p>
+                </div>
+                <div class="other-news-item">
+                    <a href="/russia/view/voenkory-zabili-trevogu-iz-pod-rossii-vybivaut-mosnuu-oporu">
+                        <h3 class="other-news-name">Военкоры забили тревогу: Из-под России выбивают мощную опору</h3>
+                    </a>
+                </div>
+            </div>
+                                <div class="other-news">
+                <div class="news-info">
+                    <p class="sections-name">
+                        <i class="sections-i" style=""></i>                        <a href="/society">Общество</a>                    </p>
+                    <p class="news-date">3 часа назад</p>
+                </div>
+                <div class="other-news-item">
+                    <a href="/society/view/naloznic-v-garemah-sultanov-raskarmlivali-do-150-kilogrammov-vot-dla-cego-eto-bylo-neobhodimo">
+                        <h3 class="other-news-name">Наложниц в гаремах султанов раскармливали до 150 килограммов: вот, для чего это было необходимо</h3>
+                    </a>
+                </div>
+            </div>
+                                <div class="other-news">
+                <div class="news-info">
+                    <p class="sections-name">
+                        <i class="sections-i" style=""></i>                        <a href="/world">Новости мира</a>                    </p>
+                    <p class="news-date">6 часов назад</p>
+                </div>
+                <div class="other-news-item">
+                    <a href="/world/view/russkim-eto-trudno-proiznesti-britanskie-smi-rassekretili-rasporadok-dna-i-pravila-povedenia-v-bunkere-zelenskogo">
+                        <h3 class="other-news-name">"Русским это трудно произнести": британские СМИ рассекретили распорядок дня и правила поведения в бункере Зеленского</h3>
+                    </a>
+                </div>
+            </div>
+                                <div class="other-news">
+                <div class="news-info">
+                    <p class="sections-name">
+                        <i class="sections-i" style=""></i>                        <a href="/russia">Новости России</a>                    </p>
+                    <p class="news-date">6 часов назад</p>
+                </div>
+                <div class="other-news-item">
+                    <a href="/russia/view/ukrainskie-voaki-pytali-i-do-smerti-zamucili-mirnogo-zitela-v-snigirevke">
+                        <h3 class="other-news-name">Украинские вояки пытали и до смерти замучили мирного жителя в Снигиревке</h3>
+                    </a>
+                </div>
+            </div>
+            </div>    </div>
+
+
+    <div class="second-block">
+        <div class="second-news-list col-4 col-border-t col-border-r">
+            
+    <div class="news-item ">
+        <div class="news-item__content">
+                            <a href="/news/view/v-kazani-zensina-ne-hotela-otdavat-masinu-pristavam-a-potomu-privazala-k-nej-ogromnyh-tibetskih-mastifov">
+                    <div class="news-item__image">
+                        <picture><source type="image/webp" srcset="/userfiles/webp/-min-bEp22od8OERTMhG3W7EecgZ1UFpue8tz.png.webp" media="(max-width: 480px)"><source type="image/webp" srcset="/userfiles/webp/-middle-bEp22od8OERTMhG3W7EecgZ1UFpue8tz.png.webp" media="(max-width: 764px)"><source srcset="/userfiles/min/bEp22od8OERTMhG3W7EecgZ1UFpue8tz.png" media="(max-width: 480px)"><source srcset="/userfiles/middle/bEp22od8OERTMhG3W7EecgZ1UFpue8tz.png" media="(max-width: 764px)"><source type="image/webp" srcset="/userfiles/webp/-preview-bEp22od8OERTMhG3W7EecgZ1UFpue8tz.png.webp"><img src="/userfiles/preview/bEp22od8OERTMhG3W7EecgZ1UFpue8tz.png" alt="В Казани женщина не хотела отдавать машину приставам, а потому привязала к ней огромных тибетских мастифов" loading="lazy"></picture>                    </div>
+                </a>
+                        <div class="news-item__bottom">
+                <div class="news-info">
+                    <div class="sections-name">
+                        <i class="sections-i" style=""></i>                        <a href="/news">Новости Казани</a>                    </div>
+                    <div class="news-date">23 минуты назад</div>
+                </div>
+                <a href="/news/view/v-kazani-zensina-ne-hotela-otdavat-masinu-pristavam-a-potomu-privazala-k-nej-ogromnyh-tibetskih-mastifov"><h3 class="main-h3">В Казани женщина не хотела отдавать машину приставам, а потому привязала к ней огромных тибетских мастифов</h3></a>
+            </div>
+        </div>
+    </div>
+            
+<div class="news-list">
+                        <div class="other-news">
+                <div class="news-info">
+                    <p class="sections-name">
+                        <i class="sections-i" style=""></i>                        <a href="/world">Новости мира</a>                    </p>
+                    <p class="news-date">7 часов назад</p>
+                </div>
+                <div class="other-news-item">
+                    <a href="/world/view/eto-ne-osobenno-bolsoj-gorod-zelenskij-vnezapno-zaavil-cto-ne-budet-zasisat-artemovsk-luboj-cenoj-i-do-poslednego-soldata">
+                        <h3 class="other-news-name">"Это не особенно большой город": Зеленский внезапно заявил, что не будет защищать Артемовск любой ценой и до последнего солдата</h3>
+                    </a>
+                </div>
+            </div>
+                                <div class="other-news">
+                <div class="news-info">
+                    <p class="sections-name">
+                        <i class="sections-i" style=""></i>                        <a href="/russia">Новости России</a>                    </p>
+                    <p class="news-date">12 часов назад</p>
+                </div>
+                <div class="other-news-item">
+                    <a href="/russia/view/po-7500-rublej-s-kvartiry-vseh-u-kogo-v-kvartire-est-scetciki-zdet-novoe-pravilo-s-20-fevrala">
+                        <h3 class="other-news-name">«По 7500 рублей с квартиры»: Всех, у кого в квартире есть счетчики, ждет новое правило с 20 февраля</h3>
+                    </a>
+                </div>
+            </div>
+                                <div class="other-news">
+                <div class="news-info">
+                    <p class="sections-name">
+                        <i class="sections-i" style=""></i>                        <a href="/russia">Новости России</a>                    </p>
+                    <p class="news-date">15 часов назад</p>
+                </div>
+                <div class="other-news-item">
+                    <a href="/russia/view/nacnut-lisat-prav-na-15-goda-gibdd-budet-iskat-u-voditelej-vsego-odnu-ves-po-utram">
+                        <h3 class="other-news-name">Начнут лишать прав на 1,5 года: ГИБДД будет искать у водителей всего одну вещь по утрам</h3>
+                    </a>
+                </div>
+            </div>
+            </div>            
+    <div class="news-item ">
+        <div class="news-item__content">
+                            <a href="/russia/view/v-kazani-voditel-avtobusa-protasil-po-zemle-passazirku-noga-kotoroj-zastrala-v-dverah">
+                    <div class="news-item__image">
+                        <picture><source type="image/webp" srcset="/userfiles/webp/-min-Kpymze7AhVEJabrm115O9pax2gK8neWw.png.webp" media="(max-width: 480px)"><source type="image/webp" srcset="/userfiles/webp/-middle-Kpymze7AhVEJabrm115O9pax2gK8neWw.png.webp" media="(max-width: 764px)"><source srcset="/userfiles/min/Kpymze7AhVEJabrm115O9pax2gK8neWw.png" media="(max-width: 480px)"><source srcset="/userfiles/middle/Kpymze7AhVEJabrm115O9pax2gK8neWw.png" media="(max-width: 764px)"><source type="image/webp" srcset="/userfiles/webp/-preview-Kpymze7AhVEJabrm115O9pax2gK8neWw.png.webp"><img src="/userfiles/preview/Kpymze7AhVEJabrm115O9pax2gK8neWw.png" alt="В Казани водитель автобуса протащил по земле пассажирку, нога которой застряла в дверях" loading="lazy"></picture>                    </div>
+                </a>
+                        <div class="news-item__bottom">
+                <div class="news-info">
+                    <div class="sections-name">
+                        <i class="sections-i" style=""></i>                        <a href="/russia">Новости России</a>                    </div>
+                    <div class="news-date">час назад</div>
+                </div>
+                <a href="/russia/view/v-kazani-voditel-avtobusa-protasil-po-zemle-passazirku-noga-kotoroj-zastrala-v-dverah"><h3 class="main-h3">В Казани водитель автобуса протащил по земле пассажирку, нога которой застряла в дверях</h3></a>
+            </div>
+        </div>
+    </div>
+            
+    <div class="news-item">
+        <div class="text-center adf-ins"><div id="63f34dcf6360d"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 346966,
+            containerId: '63f34dcf6360d',
+            params: {
+                p1: 'cwcnf',
+                p2: 'htis'
+            }
+        })
+    })
+</script></div>    </div>
+        </div>
+
+        
+        <h2 class="cdr-name">Актуальное</h2>
+        <div class="popular-news col-3 col-border-r">
+            
+<div class="news-list">
+                        <div class="other-news">
+                <div class="news-info">
+                    <p class="sections-name">
+                        <i class="sections-i" style=""></i>                        <a href="/russia">Новости России</a>                    </p>
+                    <p class="news-date">20 часов назад</p>
+                </div>
+                <div class="other-news-item">
+                    <a href="/russia/view/pakuut-vseh-kogo-uvidat-gibdd-nacala-totalnye-oblavy-na-voditelej">
+                        <h3 class="other-news-name">«Пакуют всех, кого увидят»: ГИБДД начала тотальные облавы на водителей</h3>
+                    </a>
+                </div>
+            </div>
+                                <div class="other-news">
+                <div class="news-info">
+                    <p class="sections-name">
+                        <i class="sections-i" style=""></i>                        <a href="/russia">Новости России</a>                    </p>
+                    <p class="news-date">день назад</p>
+                </div>
+                <div class="other-news-item">
+                    <a href="/russia/view/muzcina-otrubil-sozitelnice-palcy-iz-za-scetov-za-zkh">
+                        <h3 class="other-news-name">Мужчина отрубил сожительнице пальцы из-за счетов за ЖКХ</h3>
+                    </a>
+                </div>
+            </div>
+                                <div class="other-news">
+                <div class="news-info">
+                    <p class="sections-name">
+                        <i class="sections-i" style=""></i>                        <a href="/russia">Новости России</a>                    </p>
+                    <p class="news-date">день назад</p>
+                </div>
+                <div class="other-news-item">
+                    <a href="/russia/view/ne-nado-nas-putat-glava-cvk-vagner-prigozin-zaavil-cto-ego-orkestr-nikakogo-otnosenia-k-vs-rf-ne-imeet">
+                        <h3 class="other-news-name">"Не надо нас путать!": глава ЧВК "Вагнер" Пригожин заявил, что его "оркестр" никакого отношения к ВС РФ не имеет</h3>
+                    </a>
+                </div>
+            </div>
+            </div>            
+<div class="news-list">
+                        <div class="other-news">
+                <div class="news-info">
+                    <p class="sections-name">
+                        <i class="sections-i" style=""></i>                        <a href="/russia">Новости России</a>                    </p>
+                    <p class="news-date">день назад</p>
+                </div>
+                <div class="other-news-item">
+                    <a href="/russia/view/budete-v-adu-goret-i-korcitsa-ukrainskie-boeviki-poobesali-vyzdorovet-vernutsa-v-avdeevku-i-otomstit-rossijskim-voennym">
+                        <h3 class="other-news-name">"Будете в аду гореть и корчиться": украинские боевики пообещали выздороветь, вернуться в Авдеевку и отомстить российским военным</h3>
+                    </a>
+                </div>
+            </div>
+                                <div class="other-news">
+                <div class="news-info">
+                    <p class="sections-name">
+                        <i class="sections-i" style=""></i>                        <a href="/russia">Новости России</a>                    </p>
+                    <p class="news-date">день назад</p>
+                </div>
+                <div class="other-news-item">
+                    <a href="/russia/view/voditelskie-prava-pridetsa-menat-vsem-bez-isklucenia-grazdanam-rf-ozvuceno-novoe-resenie">
+                        <h3 class="other-news-name">Водительские права придется менять всем без исключения: гражданам РФ озвучено новое решение</h3>
+                    </a>
+                </div>
+            </div>
+                                <div class="other-news">
+                <div class="news-info">
+                    <p class="sections-name">
+                        <i class="sections-i" style=""></i>                        <a href="/russia">Новости России</a>                    </p>
+                    <p class="news-date">день назад</p>
+                </div>
+                <div class="other-news-item">
+                    <a href="/russia/view/u-rossii-est-kozyr-v-rukave-voennyj-ekspert-konovalov-zaavil-cto-osnovnye-sily-vs-rf-ese-daze-ne-vvedeny-v-zonu-specoperacii">
+                        <h3 class="other-news-name">"У России есть козырь в рукаве": военный эксперт Коновалов заявил, что основные силы ВС РФ еще даже не введены в зону спецоперации</h3>
+                    </a>
+                </div>
+            </div>
+            </div>            
+    <div class="news-item ">
+        <div class="news-item__content">
+                            <a href="/news/view/usel-v-skolu-i-ne-vernulsa-v-kazani-patye-sutki-iset-13-letnego-malcika">
+                    <div class="news-item__image">
+                        <picture><source type="image/webp" srcset="/userfiles/webp/-min-lKOrGNhw0pa4pHzA_PIax-FvGoRZe0go.png.webp" media="(max-width: 480px)"><source type="image/webp" srcset="/userfiles/webp/-middle-lKOrGNhw0pa4pHzA_PIax-FvGoRZe0go.png.webp" media="(max-width: 764px)"><source srcset="/userfiles/min/lKOrGNhw0pa4pHzA_PIax-FvGoRZe0go.png" media="(max-width: 480px)"><source srcset="/userfiles/middle/lKOrGNhw0pa4pHzA_PIax-FvGoRZe0go.png" media="(max-width: 764px)"><source type="image/webp" srcset="/userfiles/webp/-preview-lKOrGNhw0pa4pHzA_PIax-FvGoRZe0go.png.webp"><img src="/userfiles/preview/lKOrGNhw0pa4pHzA_PIax-FvGoRZe0go.png" alt="Ушел в школу и не вернулся: в Казани пятые сутки ищут 13-летнего мальчика" loading="lazy"></picture>                    </div>
+                </a>
+                        <div class="news-item__bottom">
+                <div class="news-info">
+                    <div class="sections-name">
+                        <i class="sections-i" style=""></i>                        <a href="/news">Новости Казани</a>                    </div>
+                    <div class="news-date">час назад</div>
+                </div>
+                <a href="/news/view/usel-v-skolu-i-ne-vernulsa-v-kazani-patye-sutki-iset-13-letnego-malcika"><h3 class="main-h3">Ушел в школу и не вернулся: в Казани пятые сутки ищут 13-летнего мальчика</h3></a>
+            </div>
+        </div>
+    </div>
+        </div>
+
+        <p class="m-t p-t b-t rotator-b"><a href="https://san-epidem.ru/dezinsekciya/unichtozhenie-tarakanov/">дезинсекция</a></p>
+        
+    <div class="fav-w">
+        <div class="text-center adf-ins"><div id="63f34dcf63616"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 346966,
+            containerId: '63f34dcf63616',
+            params: {
+                p1: 'cwcng',
+                p2: 'htit'
+            }
+        })
+    })
+</script></div>    </div>
+
+        <p class="p-t p-b b-t rotator-b"><a href="https://profi.ru/krasota/manicure/">маникюр</a> в Москве</p>
+
+        <div class="o-news col-3 col-border-t col-border-r">
+            
+<div class="news-list">
+                        <div class="other-news">
+                <div class="news-info">
+                    <p class="sections-name">
+                        <i class="sections-i" style=""></i>                        <a href="/russia">Новости России</a>                    </p>
+                    <p class="news-date">день назад</p>
+                </div>
+                <div class="other-news-item">
+                    <a href="/russia/view/ozogi-legkih-rvota-otravlenie-vsu-pod-ugledarom-primenili-protiv-rossijskih-voennyh-boepripas-s-otravlausim-vesestvom">
+                        <h3 class="other-news-name">"Ожоги легких, рвота, отравление": ВСУ под Угледаром применили против российских военных боеприпас с отравляющим веществом</h3>
+                    </a>
+                </div>
+            </div>
+                                <div class="other-news">
+                <div class="news-info">
+                    <p class="sections-name">
+                        <i class="sections-i" style=""></i>                        <a href="/adverting">Полезное</a>                    </p>
+                    <p class="news-date">4 дня назад</p>
+                </div>
+                <div class="other-news-item">
+                    <a href="/adverting/view/nedvizimost-i-lgoty-na-kakuu-pomos-mogut-rasscityvat-mobilizovannye">
+                        <h3 class="other-news-name">Цены на аренду жилья упали ниже некуда. Почему никто не торопится снимать квартиры?</h3>
+                    </a>
+                </div>
+            </div>
+                                <div class="other-news">
+                <div class="news-info">
+                    <p class="sections-name">
+                        <i class="sections-i" style=""></i>                        <a href="/russia">Новости России</a>                    </p>
+                    <p class="news-date">2 дня назад</p>
+                </div>
+                <div class="other-news-item">
+                    <a href="/russia/view/krasivaa-okolo-35-let-v-lnr-v-bou-likvidirovali-ukrainskuu-zensinu-snajpera">
+                        <h3 class="other-news-name">"Красивая, около 35 лет": в ЛНР в бою ликвидировали украинскую женщину-снайпера</h3>
+                    </a>
+                </div>
+            </div>
+            </div>            
+    <div class="news-item ">
+        <div class="news-item__content">
+                            <a href="/news/view/stalo-izvestno-budut-li-usilivat-kontrol-v-aeroportah-tatarstana-iz-za-opasnogo-virusa-marburg">
+                    <div class="news-item__image">
+                        <picture><source type="image/webp" srcset="/userfiles/webp/-min-WhCd5cveHyd3GjZUscVkpD7l69Gac38A.png.webp" media="(max-width: 480px)"><source type="image/webp" srcset="/userfiles/webp/-middle-WhCd5cveHyd3GjZUscVkpD7l69Gac38A.png.webp" media="(max-width: 764px)"><source srcset="/userfiles/min/WhCd5cveHyd3GjZUscVkpD7l69Gac38A.png" media="(max-width: 480px)"><source srcset="/userfiles/middle/WhCd5cveHyd3GjZUscVkpD7l69Gac38A.png" media="(max-width: 764px)"><source type="image/webp" srcset="/userfiles/webp/-preview-WhCd5cveHyd3GjZUscVkpD7l69Gac38A.png.webp"><img src="/userfiles/preview/WhCd5cveHyd3GjZUscVkpD7l69Gac38A.png" alt="Стало известно, будут ли усиливать контроль в аэропортах Татарстана из-за опасного вируса Марбург" loading="lazy"></picture>                    </div>
+                </a>
+                        <div class="news-item__bottom">
+                <div class="news-info">
+                    <div class="sections-name">
+                        <i class="sections-i" style=""></i>                        <a href="/news">Новости Казани</a>                    </div>
+                    <div class="news-date">3 часа назад</div>
+                </div>
+                <a href="/news/view/stalo-izvestno-budut-li-usilivat-kontrol-v-aeroportah-tatarstana-iz-za-opasnogo-virusa-marburg"><h3 class="main-h3">Стало известно, будут ли усиливать контроль в аэропортах Татарстана из-за опасного вируса Марбург</h3></a>
+            </div>
+        </div>
+    </div>
+            
+    <div class="news-item ">
+        <div class="news-item__content">
+                            <a href="/news/view/v-kazani-zensinu-s-tazelym-nozevym-raneniem-dostavili-v-bolnicu">
+                    <div class="news-item__image">
+                        <picture><source type="image/webp" srcset="/userfiles/webp/-min-7pGtku7VmmnVe3QbD-f-XA5hGDz9PtCG.png.webp" media="(max-width: 480px)"><source type="image/webp" srcset="/userfiles/webp/-middle-7pGtku7VmmnVe3QbD-f-XA5hGDz9PtCG.png.webp" media="(max-width: 764px)"><source srcset="/userfiles/min/7pGtku7VmmnVe3QbD-f-XA5hGDz9PtCG.png" media="(max-width: 480px)"><source srcset="/userfiles/middle/7pGtku7VmmnVe3QbD-f-XA5hGDz9PtCG.png" media="(max-width: 764px)"><source type="image/webp" srcset="/userfiles/webp/-preview-7pGtku7VmmnVe3QbD-f-XA5hGDz9PtCG.png.webp"><img src="/userfiles/preview/7pGtku7VmmnVe3QbD-f-XA5hGDz9PtCG.png" alt="В Казани женщину с тяжелым ножевым ранением доставили в больницу" loading="lazy"></picture>                    </div>
+                </a>
+                        <div class="news-item__bottom">
+                <div class="news-info">
+                    <div class="sections-name">
+                        <i class="sections-i" style=""></i>                        <a href="/news">Новости Казани</a>                    </div>
+                    <div class="news-date">3 часа назад</div>
+                </div>
+                <a href="/news/view/v-kazani-zensinu-s-tazelym-nozevym-raneniem-dostavili-v-bolnicu"><h3 class="main-h3">В Казани женщину с тяжелым ножевым ранением доставили в больницу</h3></a>
+            </div>
+        </div>
+    </div>
+        </div>
+
+        <div class="bottom-block col-2 col-border-t col-border-r">
+            
+    <div class="news-item">
+        <div class="text-center adf-ins"><div id="63f34dcf6361e"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 346966,
+            containerId: '63f34dcf6361e',
+            params: {
+                p1: 'cwcnh',
+                p2: 'htiu'
+            }
+        })
+    })
+</script></div>    </div>
+            
+    <div class="news-item ">
+        <div class="news-item__content">
+                            <a href="/special_project/view/uutno-s-rodnymi-ili-sumno-v-kompanii-kak-kazancy-prazdnuut-svoj-den-rozdenia">
+                    <div class="news-item__image">
+                        <picture><source type="image/webp" srcset="/userfiles/webp/-min-6D6EUVBlCOOHJo3RAuuTzctm7Xu16hlg.png.webp" media="(max-width: 480px)"><source type="image/webp" srcset="/userfiles/webp/-middle-6D6EUVBlCOOHJo3RAuuTzctm7Xu16hlg.png.webp" media="(max-width: 764px)"><source srcset="/userfiles/min/6D6EUVBlCOOHJo3RAuuTzctm7Xu16hlg.png" media="(max-width: 480px)"><source srcset="/userfiles/middle/6D6EUVBlCOOHJo3RAuuTzctm7Xu16hlg.png" media="(max-width: 764px)"><source type="image/webp" srcset="/userfiles/webp/-middle-6D6EUVBlCOOHJo3RAuuTzctm7Xu16hlg.png.webp"><img src="/userfiles/middle/6D6EUVBlCOOHJo3RAuuTzctm7Xu16hlg.png" alt="Уютно с родными или шумно в компании: как казанцы празднуют свой день рождения" loading="lazy"></picture>                    </div>
+                </a>
+                        <div class="news-item__bottom">
+                <div class="news-info">
+                    <div class="sections-name">
+                        <i class="sections-i" style="background: #6aa84f;"></i>                        <a href="/special_project">Редакция помогает</a>                    </div>
+                    <div class="news-date">4 дня назад</div>
+                </div>
+                <a href="/special_project/view/uutno-s-rodnymi-ili-sumno-v-kompanii-kak-kazancy-prazdnuut-svoj-den-rozdenia"><h3 class="main-h3">Уютно с родными или шумно в компании: как казанцы празднуют свой день рождения</h3></a>
+            </div>
+        </div>
+    </div>
+        </div>
+
+    </div>
+
+            </div>
+    </div>
+
+    
+<div class="text-center adf-ins"><div class="container m-t"><div id="63f34dcf63626"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 346966,
+            containerId: '63f34dcf63626',
+            params: {
+                p1: 'cwcni',
+                p2: 'htiv'
+            }
+        })
+    })
+</script></div></div>
+<footer>
+    <div class="container">
+        <div class="col-flex footer-row1">
+            <div>
+                <h3>Размещение рекламы</h3>
+                <ul>
+                                            <li><a href="tel:+79179112252">8 (917) 911-22-52</a></li>
+                                            <li><a href="mailto:andrey@prokazan.ru">andrey@prokazan.ru</a></li>
+                                    </ul>
+            </div>
+                             <div class="counters">
+                    <h3>Наша статистика</h3>
+                    <a href="https://metrika.yandex.ru/stat/?id=7655743&from=informer"
+target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/7655743/3_1_FFFFFFFF_EFEFEFFF_0_pageviews"
+style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="57266557" data-lang="ru" /></a><a href="https://www.liveinternet.ru/click"
+target="_blank"><img src="https://counter.yadro.ru/logo?14.10"
+title="LiveInternet: показано число просмотров и посетителей за 24 часа"
+alt="" style="border:0" width="88" height="31"/></a><a href="http://top.mail.ru/jump?from=1684050"> 
+<img src="//top-fwz1.mail.ru/counter?id=1684050;t=476;l=1" style="border:0;" height="31" width="88" alt="Рейтинг@Mail.ru">
+</a>                </div>
+                     </div>
+
+        
+
+        <div class="footer-row3 footer-copyright">
+            <p>Электронное периодическое издание www.prokazan.ru. Учредитель ООО «Проказан». Cвидетельство о регистрации www.ProKazan.ru ЭЛ № ФС77-44757 от 25.04.2011, выдано Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций. Директор: Сидоркин Андрей Валерьевич. Главный редактор: Стребков Илья Алексеевич. Возрастное ограничение 16+.<br>
+<b>8 (917) 914-23-87<br>
+E-mail: news@prokazan.ru<br>
+При использовании материалов новостного портала prokazan.ru гиперссылка на ресурс обязательна, в противном случае будут применены нормы законодательства РФ об авторских и смежных правах. Редакция портала не несет ответственности за комментарии и материалы пользователей, размещенные на сайте prokazan.ru и его субдоменах. </b></p>
+        </div>
+        <div class="footer-row4 col-flex">
+            <div>
+                © 2022 «ProKazan» | Все права защищены
+            </div>
+            <div>
+                Возрастная категория сайта 16+
+            </div>
+            <div>
+                Политика конфиденциальности
+            </div>
+        </div>
+
+    </div>
+
+</footer>
+
+
+<div class="pi_bottom_fix text-center adf-ins"><div class="container"><div id="63f34dcf6363f"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 346966,
+            containerId: '63f34dcf6363f',
+            params: {
+                p1: 'cwcnq',
+                p2: 'huhr'
+            }
+        })
+    })
+</script></div></div>    <script src="/assets/min/fcead6fba2318d17cafefc8d6ab4649a.js" async></script>    </body>
+    </html>

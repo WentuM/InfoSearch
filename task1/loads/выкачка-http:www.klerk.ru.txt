@@ -1,0 +1,2808 @@
+<!DOCTYPE HTML>
+<html lang="ru" xmlns:fb="http://ogp.me/ns/fb#" xmlns:og="http://ogp.me/ns#">
+<head>
+    <title>Клерк.ру — практическая помощь бухгалтеру</title>
+    <link title="Клерк.ру — практическая помощь бухгалтеру" type="application/rss+xml" rel="alternate"
+          href="https://www.klerk.ru/xml/index.xml"/>
+    <link rel="search" href="/service/opensearch.xml" title="Клерк.Ру" type="application/opensearchdescription+xml"/>
+    <link rel="image_src" href="//www.klerk.ru/img/og/clean_site.png"/>
+            <link rel="canonical" href="https://www.klerk.ru/" />        <meta charset="utf-8"/>
+    <!--[if IE]>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/><![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+
+    <meta name="description"
+                            content="Помогаем бухгалтерам и ИП не переплачивать налоги, правильно вести учет и быть в курсе всех изменений в законах. Задайте вопрос на самом крупном бухгалтерском форуме и попробуйте наши бесплатные инструменты для бухгалтеров."
+                >
+        <meta name="mailru-verification" content="63a469313f472589"/>
+       <!-- Google tag (gtag.js) GA 4-->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-KNMM52FRK4"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-KNMM52FRK4');
+    </script>
+    <meta property="og:image"
+      content="https://www.klerk.ru/img/og/clean_site.png"/>
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="627">
+<meta property="og:title"
+      content=""/>
+<meta property="og:description"
+      content="Помогаем бухгалтерам и ИП не переплачивать налоги, правильно вести учет и быть в курсе всех изменений в законах. Задайте вопрос на самом крупном бухгалтерском форуме и попробуйте наши бесплатные инструменты для бухгалтеров."/>
+<meta property="og:type" content="article"/>
+<meta property="og:url"
+      content="https://www.klerk.ru/"/>
+<meta property="og:updated_time"
+      content="1676889588"/>
+<meta property="og:site_name" content="Клерк"/>
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title"
+      content="">
+<meta name="twitter:description"
+      content="Помогаем бухгалтерам и ИП не переплачивать налоги, правильно вести учет и быть в курсе всех изменений в законах. Задайте вопрос на самом крупном бухгалтерском форуме и попробуйте наши бесплатные инструменты для бухгалтеров.">
+<meta name="twitter:image"
+      content="https://www.klerk.ru/img/og/clean_site.png">
+<meta name="twitter:site" content="@klerk_ru">
+<meta name="twitter:creator" content="@klerk_ru">
+
+    <meta property="fb:pages" content="115964055094828"/>
+    <meta name="facebook-domain-verification" content="i5wcgvapgxudo4po22b7onc5bivw6h"/>
+
+    <!-- Content-Security-Policy -->
+    <!-- <meta http-equiv="Content-Security-Policy" content="
+        default-src 'self' *;
+        script-src 'self' * 'unsafe-eval' 'unsafe-inline';
+        connect-src 'self' *;
+        img-src 'self' *;
+        style-src 'self' * 'unsafe-inline';
+    "> -->
+
+    <link rel="icon" id="favicon" href="https://img.klerk.ru/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" sizes="57x57" href="https://img.klerk.ru/img/favicon/apple-touch-icon-57x57.png"/>
+    <link rel="apple-touch-icon" sizes="60x60" href="https://img.klerk.ru/img/favicon/apple-touch-icon-60x60.png"/>
+    <link rel="apple-touch-icon" sizes="72x72" href="https://img.klerk.ru/img/favicon/apple-touch-icon-72x72.png"/>
+    <link rel="apple-touch-icon" sizes="76x76" href="https://img.klerk.ru/img/favicon/apple-touch-icon-76x76.png"/>
+    <link rel="apple-touch-icon" sizes="114x114" href="https://img.klerk.ru/img/favicon/apple-touch-icon-114x114.png"/>
+    <link rel="apple-touch-icon" sizes="120x120" href="https://img.klerk.ru/img/favicon/apple-touch-icon-120x120.png"/>
+    <link rel="apple-touch-icon" sizes="144x144" href="https://img.klerk.ru/img/favicon/apple-touch-icon-144x144.png"/>
+    <link rel="apple-touch-icon" sizes="152x152" href="https://img.klerk.ru/img/favicon/apple-touch-icon-152x152.png"/>
+    <link rel="apple-touch-icon" sizes="180x180" href="https://img.klerk.ru/img/favicon/apple-touch-icon-180x180.png"/>
+    <link rel="apple-touch-startup-image" href="https://img.klerk.ru/img/favicon/apple-touch-icon-152x152.png">
+    <link href='/frontendcompiled/main.f71781cce6a31740052b.css' rel='stylesheet' type='text/css' />
+    <script type="text/javascript">
+        fb_app_id = 111067065633348;
+    </script>
+
+    <!-- 88a72c462c647db8 -->
+    <script type="application/ld+json">
+{ "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Клерк.ру",
+  "url" : "https://www.klerk.ru",
+  "logo": "https://www.klerk.ru/img/klerk-logo.png",
+  "sameAs" : [
+  	"https://www.facebook.com/klerkru/",
+    "https://twitter.com/klerk_ru"
+  ]
+}
+</script>
+    
+    <script>
+        var request = new XMLHttpRequest();
+        request.open('POST', 'https://www.klerk.ru/ajax/viewevent/', true);
+        request.send('SuqLhE9HaQo5b0p2wPuxB3GK+k2nW1fYSU2zVGwLrS8JWTnj4ZZ7otyMUn9ddQYZHw5VrkjFvhvUI/sMEpsej/jrudV1xZC9PQAxrAw109NfimujCK3IM7kXfqFcNee0I/nkDgntl+ux8w+gs7tIadMpmrwnQkUBbZkgDyZZ37A9dt0BVRHE5B22oHmGONnkSTwl8IXgWDmXO2X4CGJMwNKR3YckeXLqFmDikUAYmHR90FwwKhsDIecUn8ZxknVNPIpnzR3rg1umeKQ4KPS2jMXQFz+/5OU8wDzvzJyMLatN');
+    </script>
+
+                            <script type="text/javascript">
+        (function (e, x, pe, r, i, me, nt) {
+            e[i] = e[i] || function () {
+                (e[i].a = e[i].a || []).push(arguments)
+            },
+                me = x.createElement(pe), me.async = 1, me.src = r, nt = x.getElementsByTagName(pe)[0], nt.parentNode.insertBefore(me, nt)
+        })
+        (window, document, 'script', 'https://abt.s3.yandex.net/expjs/latest/exp.js', 'ymab');
+        ymab('metrika.11340277', 'init'/*, {clientFeatures}, {callback}*/);
+    </script>
+        <script>window.yaContextCb = window.yaContextCb || []</script>
+    <script src="https://yandex.ru/ads/system/context.js" async></script>
+        <script async type='text/javascript' src='//s.luxcdn.com/t/202512/360_light.js'></script>
+            <script>
+        if (document.cookie.match(/^(.*;)?\s*klerk_unique_user_id\s*=\s*[^;]+(.*)?$/) === null) {
+            fetch ('/yindex.php/cdp/api/get-uuid-cookie')
+        }
+    </script>
+        <script src="https://yastatic.net/s3/passport-sdk/autofill/v1/sdk-suggest-latest.js"></script>
+        <script src="https://accounts.google.com/gsi/client" async defer></script>
+    <link href="/dev.css?028" rel="stylesheet" type="text/css"/>
+</head>
+    <body class="loading  body-new">
+<script>
+  window.$$state = {"currentUser":{"id":null,"login":null,"name":"","display_name":"","avatar":"https:\/\/www.klerk.ru\/images\/noavatar.webp","url":"\/user\/\/","email_confirmed":null,"phone_confirmed":null,"banned":false,"isAdmin":false,"city":null,"last_activity":null},"ownedBrands":[],"ownedBlogs":[],"subscribedBlogs":[],"onlineUsers":[2156809,2034023,10034,1986081,2094009,2093080,2144000,2118972,1995309,1971655,2138078,2175259,1945004,1977073,2119771,2105967,133833,103334,2116662,35832,1864649,2116280,2103399,2045747,2178409,2047270,2000307,2035978,1990839,2144668,1974574,2164148,2178343,1951271,2091026,2148013,1974411,1994619,18886,1950305,2092953,38070,246881,2091743,49163,2124415,2171476,2089148,2136336,2039593,1887362,1998909,2148310,2086842,2026726,1914,2114194,2120836,2172492,2075166,73362,1116283,39431,80570,2146063,1027727,2152447,2047207,1892938,2148754,2114408,2112637,2012026,2147976,2178406,1992113,1829492,1996785,2135690,2118209,2178399,2107693,1998605,1985239,1962631,1999476,91525,2072398,1963039,1984767,1977924,16989,2088219,2101640,1008880,2159171,2103816,2170808,2018595,1025008,2132614,1941106,1988946,2095866,2178408,1999625,1781177,1991503,2133407,2104046,2145183,1968759,53621,1859742,225383,2065245,558016,2137725,1987398,2064171,242937,2178407,2034241,2147754,2016589,2063057,2174576,2157349,1995200,1974622,2173404,1953412,2062588,1994229,2178394,2011956,2066,2128101,2095150,1999265,2156961,2010357,1966326,1018933,1904978,1946660,2011982,36707,190754,16850,2131801,1017614,2095589,2177187,2178405,2168102,1978826,2160478,2174302,888,2154142,2174677,2171253,1962081,2089078,2117850,2163931,1985251,2155238,2045348,1935491,2001072,2157019,1988781,1975112,2097202,1990497,2141004,2099703,1951111,2058713,125330,1860059,1965559,2178404,406,1797000,1993901,2094530,2177437,2137100,2109143,2119691,79838,2153494,1975278,227962,2148718,1406000,1299566,2177189,1977612,2056849,2120762,2098649,2143341,1991231,2102460,1993023,2113975,2070382,2119571,31358,38472,2165977,2131430,1935235,1970911,2157871,2117254,2109046,1983015,2031673,2059379,2125899,2178389,471590,1986704,2032217,28327,1990942,1947473,2099439,631154,2116633,1039436,1054798,2085284,2139289,153227,2144129,2047885,2026379,1965316,2090352,2166684,225774,1951868,2156022,2146051,2171134,1988729,1269922,232222,1976749,236921,2153106,2111691,1967773,1948076,207208,2163642,2174727,2133358,1863717,198119,2162118,2096198,2137511,2142953,2162316,128414,148471,1995986,1043769,2142312,315920,2121890,36237,2105129,2035863,2160480,2170764,1979620,2011038,1863494,229612,2156995,3861,151992,2012718,2137273,1979033,105733,1989188,2175072,1991787,2092236,2170040,1742445,1982188,2135704,1973459,2096934,2070842,268401,1963635,1032566,2001587,2029249,1991173,1982820,2178386,2080372,272935,2100622,1911095,2176532,544740,2178397,1352899,2161608,2152574,45375,2129543,1986327,1970221,2097608,2071739,1987754,26312,1994613,1996134,2178382,2156954,2102270,2105558,172042,2116386,1986307,1923035,2039901,1970542,2005209,1983855,2148462,2125580,2149731,2120648,2159434,1952379,2135684,2162546,2054681,2178396,2161673,1981799,1981509,27140,2159664,2155589,1971384,2004931,2020326,2122799,114314,1989838,1973992,216826,2133902,2158256,2093977,2020461,1032328,2040049,1929395,248702,2026344,2085595,2086939,2175053,2154838,2172385,2178395,297247,2166460,2000545,2089951,1990807,2174625,2139546,2170714,117638,2177264,2026552,2147415,2086242,1977443,1383604,2004990,2123813,2072390,2119933,44806,3,2016956,2177063,1952327,2001347,254374,1977519,2001583,1977123,2051401,2078833,6314,2167917,1951225,46358,1283178,2153294,2178257,2124265,2017822,1414147,2160024,1953470,2123440,1988396,2142865,2085347,2131178,2109943,2134992,1964686,2174141,228064,2144856,2158105,2001235,2164078,1898599,2115676,2055534,2132314,2117284,2105278,1979644,1982114,1886574,2096691,36452,2133813,2135853,2174967,189960,323337,2103902,1980574,2071046,1475647,31785,2175846,2127915],"learnMarketing":{"nearestWebinar":{"title":"\u042d\u043c\u043e\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0435 \u0432\u044b\u0433\u043e\u0440\u0430\u043d\u0438\u0435 \u0431\u0443\u0445\u0433\u0430\u043b\u0442\u0435\u0440\u0430: \u0434\u0438\u0430\u0433\u043d\u043e\u0441\u0442\u0438\u0440\u0443\u0435\u043c \u0438 \u0441\u043f\u0440\u0430\u0432\u043b\u044f\u0435\u043c\u0441\u044f ","starts":"2023-02-20 15:00:00","url":"\/learn\/event\/49248\/"},"underArticleBlockShow":4,"html":"<article class=\"advertising-text-block\"> <div class=\"advertising-text-block__info\" style=\"background-color: #5BC0F8; display: flex;flex-direction: column;align-items: center;border: 3px solid #0081C9; color: #000000; margin-bottom: 32px;\"><div class=\"advertising-text-block__text\"><div class=\"advertising-text-block__text-wrap\" style=\"padding-left: 0px; padding-right: 0px;\"><h3 class=\"advertising-text-block__title\" style=\"font-size: 22px; line-height: 30px; margin-top: 0px;\">\r\n\u0412 \u043f\u043e\u0434\u0430\u0440\u043e\u043a \u043a\u0443\u0440\u0441 \u043f\u043e\u0432\u044b\u0448\u0435\u043d\u0438\u044f \u043a\u0432\u0430\u043b\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438 \u043f\u0440\u0438 \u043e\u0444\u043e\u0440\u043c\u043b\u0435\u043d\u0438\u0438 \u043f\u043e\u0434\u043f\u0438\u0441\u043a\u0438 \u041a\u043b\u0435\u0440\u043a.\u041f\u0440\u0435\u043c\u0438\u0443\u043c!\r\n<\/h3>\r\n<p class=\"advertising-text-block__description\">\r\n\u0427\u0442\u043e \u0432\u044b \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u0435 \u0432 \u043a\u0440\u0443\u0442\u043e\u0439 \u0431\u0443\u0445\u0433\u0430\u043b\u0442\u0435\u0440\u0441\u043a\u043e\u0439 \u043f\u043e\u0434\u043f\u0438\u0441\u043a\u0435:\r\n<\/p>\r\n <p class=\"advertising-text-block__description\">\r\n\t&#8226; \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u0435: +450 \u0432\u0435\u0431\u0438\u043d\u0430\u0440\u043e\u0432, \u0435\u0436\u0435\u0434\u043d\u0435\u0432\u043d\u044b\u0435 \u043c\u0438\u043d\u0438-\u043a\u0443\u0440\u0441\u044b, 50+ \u043e\u043d\u043b\u0430\u0439\u043d-\u043a\u0443\u0440\u0441\u043e\u0432; <br\/>\r\n    &#8226; \u043f\u043e\u043b\u043d\u0443\u044e \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0443\u044e \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0443: \u0431\u0435\u0437\u043b\u0438\u043c\u0438\u0442\u043d\u044b\u0435 \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u0446\u0438\u0438 \u0441 \u044d\u043a\u0441\u043f\u0435\u0440\u0442\u0430\u043c\u0438 \u043f\u043e \u043b\u044e\u0431\u044b\u043c \u0440\u0430\u0431\u043e\u0447\u0438\u043c \u0432\u043e\u043f\u0440\u043e\u0441\u0430\u043c; <br\/>\r\n    &#8226; \u044d\u043a\u0441\u043a\u043b\u044e\u0437\u0438\u0432\u043d\u044b\u0435 \u0441\u0442\u0430\u0442\u044c\u0438 \u043e\u0442 \u0433\u043b\u0430\u0432\u0440\u0435\u0434\u0430 \u00ab\u041a\u043b\u0435\u0440\u043a\u0430\u00bb \u043f\u043e \u0432\u0430\u0448\u0435\u043c\u0443 \u0437\u0430\u043f\u0440\u043e\u0441\u0443.; <br\/>\r\n&#8226; \u0431\u043e\u043b\u0435\u0435 400 \u0447\u0435\u043a-\u043b\u0438\u0441\u0442\u043e\u0432, \u0438\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0438\u0439, \u0448\u0430\u0431\u043b\u043e\u043d\u043e\u0432 \u0434\u043b\u044f \u0440\u0430\u0431\u043e\u0442\u044b; <br\/>\r\n <\/p>\r\n<p class=\"advertising-text-block__description\">\r\n<strong><a style=\"color: #316FEE;text-decoration:underline;\" href=\"https:\/\/www.klerk.ru\/premium\/?utm_source=klerk&utm_medium=post&utm_campaign=UnderArticle&utm_content=premium&utm_term=09_01_2023\">\u0417\u0430\u0431\u0438\u0440\u0430\u0439\u0442\u0435 \u041a\u043b\u0435\u0440\u043a.\u041f\u0440\u0435\u043c\u0438\u0443\u043c<\/a><\/strong> \u0432\u043c\u0435\u0441\u0442\u0435 \u0441 \u043f\u043e\u0434\u0430\u0440\u043a\u043e\u043c. \u041e\u0441\u0442\u0430\u0432\u044c\u0442\u0435 \u0437\u0430\u044f\u0432\u043a\u0443 \u043d\u0438\u0436\u0435 \u2014 \u043e\u0442\u0432\u0435\u0442\u0438\u043c \u043d\u0430 \u0432\u0441\u0435 \u0432\u043e\u043f\u0440\u043e\u0441\u044b.\r\n<\/div><\/div>\r\n<lead-form style=\"width:100%; border-radius:16px; overflow:hidden;\" partner=\"lead_klerk\" product=\"learn_article\" :additional-data=\"{bitrix: '\u043b\u0438\u0434-\u0444\u043e\u0440\u043c\u0430 \u043f\u043e\u0434 \u0441\u0442\u0430\u0442\u044c\u0435\u0439 \u00ab\u0417\u0430\u044f\u0432\u043a\u0430 - \u041a\u043b\u0435\u0440\u043a.\u041f\u0440\u0435\u043c\u0438\u0443\u043c\u00bb'}\"><\/lead-form>\r\n\r\n    <\/div>\r\n  <\/article>"},"materialCounters":{"news":17,"articles":9,"blogs":9,"documents":16,"blanks":0,"comments":186,"registrations":270,"paywalls":1,"paywallsTotal":582,"brandOffers":0,"journals":2,"consultations":26,"messages":34,"courses":0,"webinars":0,"education":0,"forum":7,"klerkEvents":654,"tribunePosts":8,"mailSubscriptions":450173,"vacancies":0,"spbMembers":0}}
+</script>
+<div id="fb-root"></div>
+
+<link rel="stylesheet" href="/css/additionals.css?6">
+<script src="/html5/js/jquery/jquery-1.8.1.min.js"></script>
+<div id="aboveHeader">
+    <above-header></above-header>
+</div>
+
+<header id="header" class="header">
+    <topnav >
+        <div class="header-sidenav slot" slot="usernav">
+    <usernav
+            structure-id=""
+            template-id="183"
+            block-template-id="183"
+            topic="0"
+    >
+    </usernav>
+</div>            </topnav>
+        <flash-message>
+        <template slot="iconForSuccess">
+            <svg>
+                <use xlink:href="#confirm"></use>
+            </svg>
+        </template>
+        <template slot="iconForError">
+            <svg>
+                <use xlink:href="#cross"></use>
+            </svg>
+        </template>
+    </flash-message>
+        
+    </header>
+<div class="page">
+    <nav class="page__sidenav" id="sidebar">     <div class="universal-block-wrapper"
+     style=" ; flex-grow: 1; ">
+    <sidebar ></sidebar>
+</div>
+  </nav>
+  <div class="page__container">
+    <main>
+      <div class="container--full-width jumbotron">
+  <div id="top">
+  </div>
+</div>      <div class="container">
+        <div class="main__content">
+                          
+            </div>
+      </div>
+      <div class="container flex-container">
+        <section class="main__content main__content--wide">
+          <div class="universal-block-wrapper"
+     style=" ; flex-grow: 1; ">
+    <style type="text/css">
+
+div.news:hover {
+    box-shadow: initial;
+}
+
+div.news__header {
+    padding: 16px 0 16px 16px;
+    border: none;
+    margin: -16px -16px 16px;
+    margin-bottom: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+
+a.news__caption {
+    transition: color .25s ease-in-out;
+    color: #000;
+    text-decoration: none;
+    border: none;
+    font-family: Roboto,sans-serif;
+    font-size: 18px;
+    line-height: 26px;
+    font-weight: 500;
+    margin: 0;
+}
+
+a.news__caption:hover {
+    color: #316fee;
+}
+
+span.news__caption--verbose:hover {
+    color: #316fee;
+}
+
+@media(max-width: 420px) {
+    .news__caption--verbose {
+        display: none;
+    }
+}
+
+div.news__sort {
+    display: flex;
+}
+
+div.news__sort-item {
+    color: #666666;
+    font-family: Roboto;
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 400;
+    cursor: pointer;
+    transition: color .25s ease-in-out;
+}
+
+div.news__sort-item:last-child {
+    margin: 0 18px;
+}
+
+div.news__sort-item:hover {
+    color: #316fee;
+}
+
+div.news__sort-item--active {
+    color: #000;
+    cursor: auto;
+    font-weight: 500;
+}
+
+div.news-list.class2 {
+    border-top: 1px solid #eee;
+}
+
+div.news-list__item-group {
+    margin: 16px 0;
+}
+
+div.news-list__group-caption {
+    color: #a9a9ac;
+    display: inline-block;
+    font-size: 14px;
+    line-height: 21px;
+    margin-bottom: 8px;
+}
+
+a.news-list__item {
+    display: flex;
+    margin-bottom: 8px;
+    transition: color .25s ease-in-out;
+    color: #000;
+    text-decoration: none;
+    border: none;
+}
+
+a.news-list__item:hover span.news-list__title-text {
+    color: #316FEE;
+}
+
+div.news-list__time {
+    display: block;
+    font-family: Roboto;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 24px;
+    color: #000000;
+    min-width: 33px;
+    text-align: end;
+    flex-shrink: 0;
+    margin-right: 8px;
+    transition: color .25s ease-in-out;
+}
+
+div.news-list__title {
+    display: block;
+    line-height: 24px;
+}
+
+span.news-list__title-text {
+    font-weight: 400;
+}
+
+span.news-list__tail {
+    margin-left: 8px;
+    white-space: nowrap;
+}
+
+a.news-list__comments {
+    white-space: nowrap;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15px;
+    color: #a9a9ac;
+    position: relative;
+    top: -2px;
+}
+
+a.news-list__comments:hover {
+    color: #316FEE;
+}
+
+svg.news-list__comments-icon {
+    width: 16px;
+    height: 16px;
+    fill: #cccccc;
+    padding-right: 8px;
+    transition: fill .25s ease-in-out;
+    vertical-align: middle;
+}
+
+object.news-list__comments:hover, a.news-list__comments:hover {
+    color: #316FEE;
+    fill: #316fee;
+}
+
+svg.news-list__comments-icon:hover {
+    fill: #316fee;
+}
+
+span.news-list__comments-text {
+    font-size: 14px;
+    line-height: 24px;
+    transition: color .25s ease-in-out;
+    position: relative;
+    top: 2px;
+    color: #000000;
+    margin-left: 0px;
+}
+
+span.news-list__comments-text:hover {
+    color: #316FEE;
+}
+
+div.news-list__controls {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 12px;
+}
+
+div.news__more {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    color: #000;
+    text-decoration: none;
+    border: none;
+    transition: all .2s ease-in-out;
+}
+
+a.text-middle {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #316fee;
+    display: flex;
+    align-items: center;
+}
+
+a.text-middle:hover {
+    color: #5a8cf1;
+}
+
+svg.icon {
+    fill: #5a8cf1;
+    width: 22px;
+    height: 22px;
+    margin-right: 5px;
+}
+
+
+
+
+</style>
+<div id="summary" style="max-width: 700px; margin-left: auto; margin-right: auto;">
+  <div class="feed-block news-feed-block">
+   <div class="news">
+    <div class="news__header">
+     <a href="/feed/news/" class="news__caption">Новости<span class="news__caption--verbose"> для бухгалтера</span></a>
+     <div class="news__sort">
+      <div class="news__sort-item news__sort-item--active" id="newsTopDateSort" onClick="newsTopDisplay('dateSortedNews')">По дате</div>
+      <div class="news__sort-item" id="newsTopRatingSort" onClick="newsTopDisplay('ratingSortedNews')">По просмотрам</div>
+     </div>
+    </div>
+    <div class="news-list class2" id="aNewsTopDiv">
+            <div id="newsTopDate_2023-02-20" class="news-list__item-group">
+                       <a href="/buh/news/564701/" class="news-list__item">
+              <div class="news-list__time">13:25</div>
+              <div class="news-list__title">
+                <span class="news-list__title-text">Бартер при ВЭД возможен не всегда</span>
+                               </div>
+              </a>
+                            <a href="/buh/news/564756/" class="news-list__item">
+              <div class="news-list__time">13:14</div>
+              <div class="news-list__title">
+                <span class="news-list__title-text">Хотят давать один выходной в год для диспансеризации всем работникам</span>
+                               </div>
+              </a>
+                            <a href="/buh/news/564755/" class="news-list__item">
+              <div class="news-list__time">12:39</div>
+              <div class="news-list__title">
+                <span class="news-list__title-text">ФНС открыла портал для пользователей электронных доверенностей</span>
+                        <span class="news-list__tail">
+         <object class="news-list__comments">
+          <a href="/buh/news/564755/#comments" class="news-list__comments">
+           <svg viewbox="0 0 20 20" class="news-list__comments-icon inline"><use xlink:href="#comment-o"><symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" id="comment-o"><path d="M8 .4c4.42 0 8 2.908 8 6.496 0 2.08-1.204 3.76-3.077 4.95l1.538 3.712-4.615-2.475c-.583.11-1.221.31-1.846.31-4.42 0-8-2.908-8-6.497C0 3.308 3.58.4 8 .4z"></path></symbol></use></svg><span class="news-list__comments-text">1</span>
+          </a>
+         </object>
+        </span>
+                       </div>
+              </a>
+                            <a href="/buh/news/564753/" class="news-list__item">
+              <div class="news-list__time">12:09</div>
+              <div class="news-list__title">
+                <span class="news-list__title-text">🔥 Что нового ждет МСП – депутат Госдумы по малому и среднему предпринимательству рассказал про план работ</span>
+                               </div>
+              </a>
+                            <a href="/buh/news/564752/" class="news-list__item">
+              <div class="news-list__time">11:50</div>
+              <div class="news-list__title">
+                <span class="news-list__title-text">🔥 Для УСН могут снять ограничение по численности работников</span>
+                        <span class="news-list__tail">
+         <object class="news-list__comments">
+          <a href="/buh/news/564752/#comments" class="news-list__comments">
+           <svg viewbox="0 0 20 20" class="news-list__comments-icon inline"><use xlink:href="#comment-o"><symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" id="comment-o"><path d="M8 .4c4.42 0 8 2.908 8 6.496 0 2.08-1.204 3.76-3.077 4.95l1.538 3.712-4.615-2.475c-.583.11-1.221.31-1.846.31-4.42 0-8-2.908-8-6.497C0 3.308 3.58.4 8 .4z"></path></symbol></use></svg><span class="news-list__comments-text">1</span>
+          </a>
+         </object>
+        </span>
+                       </div>
+              </a>
+                   </div>
+        </div>
+    <div class="news-list__controls">
+     <div class="news__more">
+      <div>
+       <a href="#" class="text-middle" onClick="newsTopLoadMore(); return false;">
+        <svg class="icon"><use xlink:href="#refresh"><symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="refresh"><path d="M19.988 9.161a.682.682 0 00-.915.305l-.41.814a7.5 7.5 0 10-1.898 7.561.682.682 0 10-.955-.97 6.136 6.136 0 111.494-6.35l-.546-.545a.682.682 0 00-.964.964l2.046 2.045a.683.683 0 00.591.193l.239-.1a.632.632 0 00.084-.057.666.666 0 00.136-.163c.012-.019.032-.03.041-.049l1.364-2.727a.682.682 0 00-.307-.92z"></path></symbol></use></svg>
+        <span>Загрузить еще</span>
+       </a>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+
+<script type="text/javascript">
+   <!--
+   var newsTop = JSON.parse('{"dateSortedNews":[{"id":564701,"link":"\/buh\/news\/564701\/","date":"2023-02-20T13:25:00+03:00","dateDiff":"","title":"Бартер при ВЭД возможен не всегда","commentsCount":0},{"id":564756,"link":"\/buh\/news\/564756\/","date":"2023-02-20T13:14:00+03:00","dateDiff":"","title":"Хотят давать один выходной в год для диспансеризации всем работникам","commentsCount":0},{"id":564755,"link":"\/buh\/news\/564755\/","date":"2023-02-20T12:39:00+03:00","dateDiff":"","title":"ФНС открыла портал для пользователей электронных доверенностей","commentsCount":1},{"id":564753,"link":"\/buh\/news\/564753\/","date":"2023-02-20T12:09:00+03:00","dateDiff":"","title":"🔥 Что нового ждет МСП – депутат Госдумы по малому и среднему предпринимательству рассказал про план работ","commentsCount":0},{"id":564752,"link":"\/buh\/news\/564752\/","date":"2023-02-20T11:50:00+03:00","dateDiff":"","title":"🔥 Для УСН могут снять ограничение по численности работников","commentsCount":1},{"id":564746,"link":"\/buh\/news\/564746\/","date":"2023-02-20T11:43:00+03:00","dateDiff":"","title":"Будет новый чек-лист для трудовых проверок работодателей","commentsCount":0},{"id":564749,"link":"\/buh\/news\/564749\/","date":"2023-02-20T11:37:00+03:00","dateDiff":"","title":"Чтобы ювелиры-МСП не исчезли, им могут разрешить УСН с НДС","commentsCount":2},{"id":564464,"link":"\/buh\/news\/564464\/","date":"2023-02-20T11:19:00+03:00","dateDiff":"","title":"🔥 По итогам 2022 года спрос на бухгалтерские услуги вырос почти на 30%","commentsCount":0},{"id":564736,"link":"\/buh\/news\/564736\/","date":"2023-02-20T11:10:00+03:00","dateDiff":"","title":"У заемщиков, которым трудно подтвердить доход официальными документами, появится шанс на кредит","commentsCount":0},{"id":564734,"link":"\/buh\/news\/564734\/","date":"2023-02-20T10:52:00+03:00","dateDiff":"","title":"До 20 марта организации должны сдать уведомление о КИК","commentsCount":0},{"id":564730,"link":"\/buh\/news\/564730\/","date":"2023-02-20T10:23:00+03:00","dateDiff":"","title":"Страховые взносы в малом бизнесе с МРОТ и свыше МРОТ идут на один КБК","commentsCount":0},{"id":564704,"link":"\/buh\/news\/564704\/","date":"2023-02-20T09:47:00+03:00","dateDiff":"","title":"Бизнес из новых регионов может до 30 июня сдать уведомление о переходе на УСН","commentsCount":0},{"id":564707,"link":"\/buh\/news\/564707\/","date":"2023-02-20T09:25:00+03:00","dateDiff":"","title":"Налоговики объяснили, почему все платежи идут именно в Тульскую область","commentsCount":20},{"id":564718,"link":"\/buh\/news\/564718\/","date":"2023-02-20T09:05:00+03:00","dateDiff":"","title":"В Налоговом кодексе пропишут разовый сбор с компаний","commentsCount":0},{"id":564695,"link":"\/buh\/news\/564695\/","date":"2023-02-20T08:57:00+03:00","dateDiff":"","title":"Расчет аванса по зарплате в 2023 году: фактический, в процентах, фиксированный","commentsCount":0},{"id":564697,"link":"\/buh\/news\/564697\/","date":"2023-02-20T08:05:00+03:00","dateDiff":"","title":"При переходе с ОСНО на УСН надо восстановить НДС по материалам, которых уже нет на счете 10","commentsCount":0},{"id":564700,"link":"\/buh\/news\/564700\/","date":"2023-02-20T07:09:00+03:00","dateDiff":"","title":"Для начисления налога на имущество ФНС берет данные из ЕГРН","commentsCount":0},{"id":564334,"link":"\/buh\/news\/564334\/","date":"2023-02-19T12:05:00+03:00","dateDiff":"Вчера, 19 февраля","title":"Членам ЖСК начислят налог на имущество сразу после выплаты паевых взносов","commentsCount":0},{"id":564371,"link":"\/buh\/news\/564371\/","date":"2023-02-19T11:17:00+03:00","dateDiff":"Вчера, 19 февраля","title":"Призы от НКО за счет президентских грантов не облагаются НДФЛ","commentsCount":0},{"id":564431,"link":"\/buh\/news\/564431\/","date":"2023-02-19T10:25:00+03:00","dateDiff":"Вчера, 19 февраля","title":"Игры будут предустанавливать на мобильные платформы","commentsCount":1}],"ratingSortedNews":[{"id":564588,"link":"\/buh\/news\/564588\/","title":"⛔ НДФЛ предложили убрать из ЕНП","commentsCount":217,"viewCount":"5 360"},{"id":564689,"link":"\/buh\/news\/564689\/","title":"В справках к 6-НДФЛ можно не указывать уплаченный налог","commentsCount":4,"viewCount":"2 569"},{"id":564566,"link":"\/buh\/news\/564566\/","title":"Госдума ограничила употребление иностранных слов","commentsCount":266,"viewCount":"2 112"},{"id":564484,"link":"\/buh\/news\/564484\/","title":"Все уплаченные налоги идут на ЕНС. Уточнения платежей не предусмотрено","commentsCount":5,"viewCount":"2 014"},{"id":564707,"link":"\/buh\/news\/564707\/","title":"Налоговики объяснили, почему все платежи идут именно в Тульскую область","commentsCount":20,"viewCount":"1 466"},{"id":564509,"link":"\/buh\/news\/564509\/","title":"❓ В личном кабинете ИП нет возможности заполнить заявление на зачет ЕНП в счет фиксированных взносов","commentsCount":18,"viewCount":"1 069"},{"id":564631,"link":"\/buh\/news\/564631\/","title":"Силуанов назвал сумму, которую планируют собрать из добровольных взносов бизнеса в бюджет","commentsCount":20,"viewCount":"909"},{"id":564650,"link":"\/buh\/news\/564650\/","title":"Какой срок уплаты указывать в заявлении на зачет ЕНП в счет фиксированных взносов","commentsCount":4,"viewCount":"909"},{"id":564613,"link":"\/buh\/news\/564613\/","title":"⚡ Регионам спустили распоряжение вернуть переплату по налогам","commentsCount":7,"viewCount":"849"},{"id":564694,"link":"\/buh\/news\/564694\/","title":"Прошли обыски по делу о хищениях денег из ПФР","commentsCount":0,"viewCount":"818"},{"id":564629,"link":"\/buh\/news\/564629\/","title":"Налоговые поправки в 2023 году все-таки будут","commentsCount":4,"viewCount":"724"},{"id":564477,"link":"\/buh\/news\/564477\/","title":"⚡️Путин считает, что долги на ЕНС — вопрос технического характера. Их надо привести в порядок","commentsCount":134,"viewCount":"663"},{"id":564478,"link":"\/buh\/news\/564478\/","title":"❗ Сверки по ЕНС будут идти в марте – апреле. Пеней пока не будет","commentsCount":49,"viewCount":"619"},{"id":564267,"link":"\/buh\/news\/564267\/","title":"В уведомлении не надо указывать КБК ЕНП","commentsCount":3,"viewCount":"614"},{"id":564485,"link":"\/buh\/news\/564485\/","title":"↩ Деньги по платежке-уведомлению ФНС направит не на указанный налог, а на погашение недоимки","commentsCount":54,"viewCount":"521"},{"id":564681,"link":"\/buh\/news\/564681\/","title":"ЦБ придумал, как бороться с ипотекой по сверхнизким ставкам. Ограничения могут заработать с июля","commentsCount":0,"viewCount":"480"},{"id":564695,"link":"\/buh\/news\/564695\/","title":"Расчет аванса по зарплате в 2023 году: фактический, в процентах, фиксированный","commentsCount":0,"viewCount":"450"},{"id":564619,"link":"\/buh\/news\/564619\/","title":"⚡ Переводы и платежи физлиц цифровым рублем начнутся 1 апреля","commentsCount":3,"viewCount":"435"},{"id":564487,"link":"\/buh\/news\/564487\/","title":"Как формировать кассовый чек при удержаниях из зарплаты за товары","commentsCount":2,"viewCount":"430"},{"id":564654,"link":"\/buh\/news\/564654\/","title":"Бухгалтеры новых регионов рассказывают, какие сейчас у них сложности","commentsCount":2,"viewCount":"420"}]}');
+   var newsTopLastIndex = 5;
+   var newsTopSortType = 'dateSortedNews';
+   var newsTopLoadMoreBehaviour = false;
+
+
+
+   function newsTopGetDiv(date, newsDiff)
+   {
+       if (newsTopSortType == 'ratingSortedNews') {
+           let nDiv = document.getElementById('newsTopRating');
+           if (nDiv != null) {
+               return nDiv;
+           }
+           nDiv = document.createElement('div');
+           nDiv.setAttribute('id', 'newsTopRating');
+           nDiv.setAttribute('class', 'news-list__item-group');
+           document.getElementById('aNewsTopDiv').appendChild(nDiv);
+           return nDiv;
+       }
+       let id = 'newsTopDate_' + date.substr(0, 10);
+       let res = document.getElementById(id);
+       if (res != null) {
+           return res;
+       }
+       let nDiv = document.createElement('div');
+       nDiv.setAttribute('id', id);
+       nDiv.setAttribute('class', 'news-list__item-group');
+       if ((newsDiff != '') && (newsDiff != null)) {
+           let diffDiv = document.createElement('div');
+           diffDiv.setAttribute('class', 'news-list__group-caption');
+           diffDiv.appendChild(document.createTextNode(newsDiff));
+           nDiv.appendChild(diffDiv);
+       }
+       document.getElementById('aNewsTopDiv').appendChild(nDiv);
+       return nDiv;
+   }
+
+   function newsTopAdd(index)
+   {
+       let arr = [];
+       let nDiv;
+       if (newsTopSortType == 'dateSortedNews') {
+           arr = newsTop.dateSortedNews;
+           nDiv = newsTopGetDiv(arr[index].date, arr[index].dateDiff);
+       }
+       if (newsTopSortType == 'ratingSortedNews') {
+           arr = newsTop.ratingSortedNews;
+           nDiv = newsTopGetDiv(null, null);
+       }
+       let newsA = document.createElement('a');
+       newsA.setAttribute('href', arr[index].link);
+       newsA.setAttribute('class', 'news-list__item');
+       let addDiv = document.createElement('div');
+       addDiv.setAttribute('class', 'news-list__time');
+       addDiv.appendChild(document.createTextNode((newsTopSortType == 'dateSortedNews') ? arr[index].date.substr(11, 5) : arr[index].viewCount));
+       newsA.appendChild(addDiv);
+       let titleDiv = document.createElement('div');
+       titleDiv.setAttribute('class', 'news-list__title');
+       let titleSpan = document.createElement('span');
+       titleSpan.setAttribute('class', 'news-list__title-text');
+       titleSpan.appendChild(document.createTextNode(arr[index].title));
+       titleDiv.appendChild(titleSpan);
+       if (arr[index].commentsCount > 0) {
+           let tailSpan = document.createElement('span');
+           tailSpan.setAttribute('class', 'news-list__tail');
+           let commentsObject = document.createElement('object');
+           let commentsA = document.createElement('a');
+           commentsA.setAttribute('href', arr[index].link + '#comments');
+           commentsA.setAttribute('class', 'news-list__comments');
+           commentsA.innerHTML = '<svg viewbox="0 0 20 20" class="news-list__comments-icon inline"><use xlink:href="#comment-o"><symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" id="comment-o"><path d="M8 .4c4.42 0 8 2.908 8 6.496 0 2.08-1.204 3.76-3.077 4.95l1.538 3.712-4.615-2.475c-.583.11-1.221.31-1.846.31-4.42 0-8-2.908-8-6.497C0 3.308 3.58.4 8 .4z"></path></symbol></use></svg><span class="news-list__comments-text">'
+               + arr[index].commentsCount + '</span>';
+           commentsObject.appendChild(commentsA);
+           tailSpan.appendChild(commentsObject);
+           titleDiv.appendChild(tailSpan);
+       }
+       newsA.appendChild(titleDiv);
+       nDiv.appendChild(newsA);
+   }
+
+   function newsTopClear()
+   {
+       let div = document.getElementById('aNewsTopDiv');
+       while (document.getElementById('aNewsTopDiv').childNodes.length > 0) {
+           document.getElementById('aNewsTopDiv').removeChild(document.getElementById('aNewsTopDiv').childNodes[0]);
+       }
+       newsTopLastIndex = 0;
+       newsTopLoadMoreBehaviour = false;
+   }
+
+   function newsTopAppendPortion()
+   {
+       let arr = [];
+       if (newsTopSortType == 'dateSortedNews') {
+           arr = newsTop.dateSortedNews;
+       }
+       if (newsTopSortType == 'ratingSortedNews') {
+           arr = newsTop.ratingSortedNews;
+       }
+       for (let i = 0; i < 5; i++) {
+           if (newsTopLastIndex < arr.length) {
+               newsTopAdd(newsTopLastIndex);
+               newsTopLastIndex++;
+           }
+       }
+       if (newsTopLastIndex >= (arr.length - 1)) {
+           newsTopLoadMoreBehaviour = true;
+       }
+   }
+
+   function newsTopLoadMore()
+   {
+       if (newsTopLoadMoreBehaviour) {
+           document.location.href = '/news/';
+       } else {
+           newsTopAppendPortion();
+       }
+   }
+
+   function newsTopDisplay(sortType)
+   {
+       newsTopClear();
+       newsTopSortType = sortType;
+       newsTopAppendPortion();
+       if (newsTopSortType == 'dateSortedNews') {
+           document.getElementById('newsTopDateSort').setAttribute('class', 'news__sort-item news__sort-item--active');
+           document.getElementById('newsTopRatingSort').setAttribute('class', 'news__sort-item');
+       }
+       if (newsTopSortType == 'ratingSortedNews') {
+           document.getElementById('newsTopDateSort').setAttribute('class', 'news__sort-item');
+           document.getElementById('newsTopRatingSort').setAttribute('class', 'news__sort-item news__sort-item--active');
+       }
+   }
+
+// -->
+</script>
+</div>           <div class="feed-wrapper">
+  <div class="feed" id="app-vue">
+    
+    <div class="feed-block accountant-monitor-feed-block">
+        <div>
+            <accountant-monitor :adv="{
+                name: 'Коронавирус — как действовать',
+                link: ' https://vk.cc/auqaSc',
+                imgLink: '/img/kp.png'
+            }"/>
+        </div>
+                    <div class="tagsList">
+                                            <a href="https://www.klerk.ru/tool/invoice/"                         >
+                            <span>Онлайн-конструктор счетов</span>
+                        </a>
+                                            <a href="https://www.klerk.ru/buh/articles/564086/"                         >
+                            <span>Календарь бухгалтера 2023</span>
+                        </a>
+                                            <a href="https://www.klerk.ru/cdoc/"                         >
+                            <span>Кодексы</span>
+                        </a>
+                                            <a href="https://edu.klerk.ru/enp-ens/?utm_source=klerkkontent&utm_medium=editor&utm_campaign=seo&utm_content=kpk&utm_term=knopkaglavn"                         >
+                            <span>Настройка ЕНП и ЕНС в 1С</span>
+                        </a>
+                                            <a href="https://t.me/buhdil"                         >
+                            <span> Учет в ДНР и ЛНР</span>
+                        </a>
+                                            <a href="https://www.klerk.ru/tribune/2061009/564221/"                         >
+                            <span>Клерк.Премиум № 5/2023</span>
+                        </a>
+                                </div>
+            </div>
+
+<div class="feed__header">
+    <div class="wrap tag-wrap  feed__header--space-between ">
+                    <h2 class="feed-header__title">Статьи</h2>
+                <feed-filters
+                feed-url="//www.klerk.ru///"
+                                        >
+        </feed-filters>
+    </div>
+</div>
+
+<article class="feed-item feed-item--imageAndIntro feed-item--blog-post" id="article_564735">
+			<div class="feed-item-header__wrapper">
+    <div class="feed-item__header">
+                                    <div class="feed-item__blog visually-hidden">
+                <a class="blog__link" href="/blogs/businesslegko/" title="
+                                            Бизнес легко
+                                    ">
+                    <img class="blog__avatar"
+                         src="https://i.klerk.ru/ZIy6OKmx0UFI_fgcrThx3jHbELot6kgpUu7BspOoIk4/rs:fit/w:16/h:16/q:100/aHR0cHM6Ly93d3cu/a2xlcmsucnUvdWdj/L2NvbXBhbnlMb2dv/LzRmNmE1YjRmZjVi/OTcxMWRkZDRhNWIx/OGZjZDgwNzE5LnBu/Zw.webp"
+                         alt="Бизнес легко - автор блога на klerk.ru">
+                    <span class="blog__title">
+                                                    Бизнес легко
+                                            </span>
+                </a>
+            </div>
+            <about-pop-up
+                    :id="1278"
+                    title="
+                                                    Бизнес легко
+                                            "
+                                            :varificate="true"                                        description="
+                                                    Мы внедряем электронный документооборот, сервис для сдачи отчетности в государственные органы, облачную бухгалтерию, управленческий и складской учет, автоматизируем любые точки продаж. Продаем и обслуживаем торговое оборудование. Предоставляем бухгалтерские услуги на аутсорсинге.
+                                            "
+                    avatar="https://i.klerk.ru/FdhwP-BH2P3TbilBSs1vZGEtRzvposRL5IMOn3lgm-4/rs:fill/w:32/h:32/q:100/aHR0cHM6Ly93d3cu/a2xlcmsucnUvdWdj/L2NvbXBhbnlMb2dv/LzRmNmE1YjRmZjVi/OTcxMWRkZDRhNWIx/OGZjZDgwNzE5LnBu/Zw.webp"
+                                            :is-company="true"
+                                                    url="/company/1278/"
+                                                        >
+            </about-pop-up>
+                            <base-dont-miss :blog-id="787913"
+                                                            ></base-dont-miss>
+                <div class="feed-item__stats">
+  <span class="stats-block">
+      <core-date-format date="2023-02-20 12:58:00"></core-date-format>
+  </span>
+</div>
+  <span class="stats-block stats-block__rubric">
+    <a class="feed-item__rubric" href="/rubricator/307/">Декларация по УСН</a>
+  </span>
+    </div>
+                            <div class="new-blog-header-items">
+                    </div>
+    </div>
+<div class="feed-item__link-target">
+    <div class="feed-item__headline">
+                <h2 class="">
+                    <svg class="feed-item__pin" viewBox="0 0 24 24">
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#pin" href="#pin"></use>
+            </svg>
+                            <a class="feed-item__link" href="https://www.klerk.ru/blogs/businesslegko/564735/">Налоговая декларация по УСН за 2022 год</a>
+            </h2>
+</div>
+            <div class="feed-item__content">
+            <p>Совсем скоро начнется декларационная кампания по УСН. Организации и ИП должны будут отчитаться за прошлый период, сдав в ИФНС по месту учета, налоговые декларации. Рассмотрим, изменилась ли форма отчетности по УСН за 2022 год, как ее заполнить и в какой срок направить в ИФНС.</p>
+        </div>
+                        <div class="feed-item__cover">
+        <img
+                                    src="https://i.klerk.ru/BxMU9_pS35CtxoXo2KGsVyDzMcS5l8jSYfvd0buXV6Y/rs:fill/w:700/h:394/q:100/aHR0cHM6Ly93d3cu/a2xlcmsucnUvdWdj/L2Jsb2dQb3N0Lzdi/ZjUzYzRjYWQ3NDE1/YThlZjY5NjQxZTUy/NjYxYTM0LmpwZw.webp"
+                                alt="Налоговая декларация по УСН за 2022 год"
+                width="100%"
+                height="100%"
+                loading="lazy"
+        />
+    </div>
+    </div>
+<div class="feed-item__footer">
+    <div class="feed-item__footer-stat">
+        <div>
+                        <comments-button :count="0" href="https://www.klerk.ru/blogs/businesslegko/564735/#comments"></comments-button>
+            <like :docid="564735"
+                :topicid="10000"
+                :count="0"
+                :amilike="0"
+                :canilike="1"
+                :entity-id="8315374"
+                ></like>
+                            <favorite class="article__favourite"
+                          :entity-id="8315374"
+                          :added="0"
+                          :total="0"
+                ></favorite>
+                        <base-share page-url="www.klerk.ruhttps://www.klerk.ru/blogs/businesslegko/564735/"></base-share>
+        </div>
+        <div>
+                            <span class="stats-block" title="Просмотры">
+                    <span class="stat">
+                        <svg>
+                            <use xlink:href="#eye"></use>
+                        </svg>
+                        <core-count-format count="184"></core-count-format>
+                    </span>
+                </span>
+                    </div>
+    </div>
+</div>
+	</article>
+
+
+<article class="feed-item feed-item--imageAndIntro feed-item--blog-post" id="article_564741">
+			<div class="feed-item-header__wrapper">
+    <div class="feed-item__header">
+                                    <div class="feed-item__blog visually-hidden">
+                <a class="blog__link" href="/blogs/taxcom/" title="
+                                            Такском
+                                    ">
+                    <img class="blog__avatar"
+                         src="https://i.klerk.ru/TgtP9Ibwqtal-ELZM9PNxO1J8I2SqZxTKdYzRSipwfQ/rs:fit/w:16/h:16/q:100/aHR0cHM6Ly93d3cu/a2xlcmsucnUvdWdj/L2NvbXBhbnlMb2dv/LzljZmJiYmFlOGE3/MDE4NzBmZTEzNjQw/ZGQwMWVlNDYwLnBu/Zw.webp"
+                         alt="Такском - автор блога на klerk.ru">
+                    <span class="blog__title">
+                                                    Такском
+                                            </span>
+                </a>
+            </div>
+            <about-pop-up
+                    :id="413"
+                    title="
+                                                    Такском
+                                            "
+                                            :varificate="true"                                        description="
+                                                    Компания разрабатывает, реализует и обслуживает профессиональные IT-сервисы для электронной отчётности и электронного документооборота.
+                                            "
+                    avatar="https://i.klerk.ru/i4eKtVYzPtDtPFW8HgeBdCu0wtVf4Ypc-qSJQhYy_xc/rs:fill/w:32/h:32/q:100/aHR0cHM6Ly93d3cu/a2xlcmsucnUvdWdj/L2NvbXBhbnlMb2dv/LzljZmJiYmFlOGE3/MDE4NzBmZTEzNjQw/ZGQwMWVlNDYwLnBu/Zw.webp"
+                                            :is-company="true"
+                                                    url="/company/413/"
+                                                        >
+            </about-pop-up>
+                            <base-dont-miss :blog-id="251"
+                                                            ></base-dont-miss>
+                <div class="feed-item__stats">
+  <span class="stats-block">
+      <core-date-format date="2023-02-20 13:21:00"></core-date-format>
+  </span>
+</div>
+  <span class="stats-block stats-block__rubric">
+    <a class="feed-item__rubric" href="/rubricator/otchetnost_v_sfr/">Отчетность в СФР</a>
+  </span>
+    </div>
+                            <div class="new-blog-header-items">
+                    </div>
+    </div>
+<div class="feed-item__link-target">
+    <div class="feed-item__headline">
+                <h2 class="">
+                            <a class="feed-item__link" href="https://www.klerk.ru/blogs/taxcom/564741/">Порядок заполнения нового отчета ЕФС-1 в 2023 году</a>
+            </h2>
+</div>
+            <div class="feed-item__content">
+            <p>С 2023 года появилась новая форма ЕФС-1. В нее собрали несколько ранее действовавших отчетов, при этом одну часть нужно заполнять при наступлении кадрового события, вторую – по окончании квартала, а другую вообще по окончании года.</p>
+        </div>
+                        <div class="feed-item__cover">
+        <img
+                                    src="https://i.klerk.ru/mciefzJ_ktsbjn1XlylfqzthGpQyYHFB0wbTjfFlwR8/rs:fill/w:700/h:394/q:100/aHR0cHM6Ly93d3cu/a2xlcmsucnUvdWdj/L2Jsb2dQb3N0LzQ5/N2FjNjcyODBiZjUx/MDk2MDk4MzY3ZWVj/NGQzNmJjLmpwZw.webp"
+                                alt="Порядок заполнения нового отчета ЕФС-1 в 2023 году"
+                width="100%"
+                height="100%"
+                loading="lazy"
+        />
+    </div>
+    </div>
+<div class="feed-item__footer">
+    <div class="feed-item__footer-stat">
+        <div>
+                        <comments-button :count="0" href="https://www.klerk.ru/blogs/taxcom/564741/#comments"></comments-button>
+            <like :docid="564741"
+                :topicid="10000"
+                :count="0"
+                :amilike="0"
+                :canilike="1"
+                :entity-id="8315435"
+                ></like>
+                            <favorite class="article__favourite"
+                          :entity-id="8315435"
+                          :added="0"
+                          :total="0"
+                ></favorite>
+                        <base-share page-url="www.klerk.ruhttps://www.klerk.ru/blogs/taxcom/564741/"></base-share>
+        </div>
+        <div>
+                            <span class="stats-block" title="Просмотры">
+                    <span class="stat">
+                        <svg>
+                            <use xlink:href="#eye"></use>
+                        </svg>
+                        <core-count-format count="17"></core-count-format>
+                    </span>
+                </span>
+                    </div>
+    </div>
+</div>
+	</article>
+
+
+    <div class="feed__header feed__header--kpk-block feed__header_secondary feed__header_has-btn !pt-6 !px-4 tab:!px-6">
+        <div class="flex flex-col">
+            <a href="/learn/catalog/refresher-courses/?utm_source=klerk&utm_medium=lenta_recommendationsBlock&utm_campaign=cok&utm_content=education&utm_term=20_02_2023" class="feed__header-link">
+                <svg width="124" height="24" class="feed__header-logo">
+                    <use xlink:href="#recommend-block-learn"></use>
+                </svg>
+            </a>
+            <p class="feed-item__description mt-2">Курсы повышения квалификации для бухгалтера с дипломом</p>
+        </div>
+    </div>
+    <div class="feed-item feed-item--kpk-block feed__header_secondary !pb-4 !pt-[16px] !px-4 tab:!px-6">
+        <last-events mode="block_kpk"></last-events>
+    </div>
+
+
+<article class="feed-item feed-item--imageAndIntro feed-item--blog-post" id="article_564750">
+			<div class="feed-item-header__wrapper">
+    <div class="feed-item__header">
+                                    <div class="feed-item__blog visually-hidden">
+                <a class="blog__link" href="/user/209610/" title="
+                                            Сергей Верещагин
+                                    ">
+                    <img class="blog__avatar"
+                         src="https://i.klerk.ru/bvECNu6fKcanuoob3AB9eqNR44Mow0YI3FdMVGqUmfo/rs:fit/w:16/h:16/q:100/aHR0cHM6Ly93d3cu/a2xlcmsucnUvdWdj/L3VzZXJBdmF0YXIv/ODY1YzY2NzdlZjQ1/ZGJmMTQxODNhNDYx/Y2QwYWEyN2EuanBn.webp"
+                         alt="Сергей Верещагин - автор блога на klerk.ru">
+                    <span class="blog__title">
+                                                    Сергей Верещагин
+                                            </span>
+                </a>
+            </div>
+            <about-pop-up
+                    :id="209610"
+                    title="
+                                                    Сергей Верещагин
+                                            "
+                                        description="
+                                                    
+                                            "
+                    avatar="https://i.klerk.ru/ZdllYFmLFISK1la9HTLRQakdD87Tv_M2VfFEWsAEuGM/rs:fill/w:32/h:32/q:100/aHR0cHM6Ly93d3cu/a2xlcmsucnUvdWdj/L3VzZXJBdmF0YXIv/ODY1YzY2NzdlZjQ1/ZGJmMTQxODNhNDYx/Y2QwYWEyN2EuanBn.webp"
+                                            name="Сергей Верещагин"
+                        url="/user/209610/"
+                                >
+            </about-pop-up>
+                            <base-dont-miss :blog-id="160630"
+                                                :is-commercial="false"            ></base-dont-miss>
+                <div class="feed-item__stats">
+  <span class="stats-block">
+      <core-date-format date="2023-02-20 12:10:00"></core-date-format>
+  </span>
+</div>
+  <span class="stats-block stats-block__rubric">
+    <a class="feed-item__rubric" href="/rubricator/uchet-v-stroitelstve/">Учет в строительстве</a>
+  </span>
+    </div>
+                            <div class="new-blog-header-items">
+                    </div>
+    </div>
+<div class="feed-item__link-target">
+    <div class="feed-item__headline">
+                <h2 class="">
+                            <a class="feed-item__link" href="https://www.klerk.ru/tribune/209610/564750/">Продажа незавершенных капитальных вложений</a>
+            </h2>
+</div>
+            <div class="feed-item__content">
+            <p>Исправленный, уточненный и дополненный вариант</p>
+        </div>
+                    </div>
+<div class="feed-item__footer">
+    <div class="feed-item__footer-stat">
+        <div>
+                        <comments-button :count="0" href="https://www.klerk.ru/tribune/209610/564750/#comments"></comments-button>
+            <like :docid="564750"
+                :topicid="10000"
+                :count="0"
+                :amilike="0"
+                :canilike="1"
+                :entity-id="8315497"
+                ></like>
+                            <favorite class="article__favourite"
+                          :entity-id="8315497"
+                          :added="0"
+                          :total="0"
+                ></favorite>
+                        <base-share page-url="www.klerk.ruhttps://www.klerk.ru/tribune/209610/564750/"></base-share>
+        </div>
+        <div>
+                            <span class="stats-block" title="Просмотры">
+                    <span class="stat">
+                        <svg>
+                            <use xlink:href="#eye"></use>
+                        </svg>
+                        <core-count-format count="12"></core-count-format>
+                    </span>
+                </span>
+                    </div>
+    </div>
+</div>
+	</article>
+
+    <div data-placement="1" class="promotion"
+         data-rubrics=""></div>
+
+<article class="feed-item feed-item--imageAndIntro feed-item--blog-post" id="article_564717">
+			<div class="feed-item-header__wrapper">
+    <div class="feed-item__header">
+                                    <div class="feed-item__blog visually-hidden">
+                <a class="blog__link" href="/blogs/Pro_Pravo/" title="
+                                            Академия правовых и финансовых советников
+                                    ">
+                    <img class="blog__avatar"
+                         src="https://i.klerk.ru/4ymFUS2x2UCNZR8HV_N_HRBavcMQ0jNxFuNaJy5NLWs/rs:fit/w:16/h:16/q:100/aHR0cHM6Ly93d3cu/a2xlcmsucnUvdWdj/L2NvbXBhbnlMb2dv/LzA2MzRlZTliNmRl/OWI5Y2I4NTAyMzI3/YTM2ZTE3YzhmLnBu/Zw.webp"
+                         alt="Академия правовых и финансовых советников - автор блога на klerk.ru">
+                    <span class="blog__title">
+                                                    Академия правовых и финансовых советников
+                                            </span>
+                </a>
+            </div>
+            <about-pop-up
+                    :id="1231"
+                    title="
+                                                    Академия правовых и финансовых советников
+                                            "
+                                            :varificate="true"                                        description="
+                                                    Инновационная система образования для юристов, бухгалтеров, финансовых и налоговых консультантов, которая позволит вам зарабатывать с первых недель обучения и выйти на высокий доход без привязки к офису
+                                            "
+                    avatar="https://i.klerk.ru/03cipgt3tJ_E30G1tRtmkId6IQqweYOTO5KCh6zqVYg/rs:fill/w:32/h:32/q:100/aHR0cHM6Ly93d3cu/a2xlcmsucnUvdWdj/L2NvbXBhbnlMb2dv/LzA2MzRlZTliNmRl/OWI5Y2I4NTAyMzI3/YTM2ZTE3YzhmLnBu/Zw.webp"
+                                            :is-company="true"
+                                                    url="/company/1231/"
+                                                        >
+            </about-pop-up>
+                            <base-dont-miss :blog-id="754869"
+                                                            ></base-dont-miss>
+                <div class="feed-item__stats">
+  <span class="stats-block">
+      <core-date-format date="2023-02-20 11:43:00"></core-date-format>
+  </span>
+</div>
+  <span class="stats-block stats-block__rubric">
+    <a class="feed-item__rubric" href="/rubricator/marketplejsy/">Маркетплейсы</a>
+  </span>
+    </div>
+                            <div class="new-blog-header-items">
+                    </div>
+    </div>
+<div class="feed-item__link-target">
+    <div class="feed-item__headline">
+                <h2 class="">
+                            <a class="feed-item__link" href="https://www.klerk.ru/blogs/Pro_Pravo/564717/">Страшнее «Ночного дозора». Надзор на маркетплейсах. Трудности, которые не лежат на поверхности</a>
+            </h2>
+</div>
+            <div class="feed-item__content">
+            <p>«Казнить нельзя помиловать» – где ставят запятую должностные лица органов государственного надзора по отношению к селлерам?</p>
+        </div>
+                        <div class="feed-item__cover">
+        <img
+                                    src="https://i.klerk.ru/YZ5g6L8V32_Ezing25rT9tNOpNretBGLKSbxSIJqVHM/rs:fill/w:700/h:394/q:100/aHR0cHM6Ly93d3cu/a2xlcmsucnUvdWdj/L2Jsb2dQb3N0LzQ4/OThmZWJiNDg4NWMy/NWMwOTFiMjJhMmEz/OTcwNTdjLmpwZw.webp"
+                                alt="Страшнее «Ночного дозора». Надзор на маркетплейсах. Трудности, которые не лежат на поверхности"
+                width="100%"
+                height="100%"
+                loading="lazy"
+        />
+    </div>
+    </div>
+<div class="feed-item__footer">
+    <div class="feed-item__footer-stat">
+        <div>
+                        <comments-button :count="0" href="https://www.klerk.ru/blogs/Pro_Pravo/564717/#comments"></comments-button>
+            <like :docid="564717"
+                :topicid="10000"
+                :count="0"
+                :amilike="0"
+                :canilike="1"
+                :entity-id="8315221"
+                ></like>
+                            <favorite class="article__favourite"
+                          :entity-id="8315221"
+                          :added="0"
+                          :total="0"
+                ></favorite>
+                        <base-share page-url="www.klerk.ruhttps://www.klerk.ru/blogs/Pro_Pravo/564717/"></base-share>
+        </div>
+        <div>
+                            <span class="stats-block" title="Просмотры">
+                    <span class="stat">
+                        <svg>
+                            <use xlink:href="#eye"></use>
+                        </svg>
+                        <core-count-format count="166"></core-count-format>
+                    </span>
+                </span>
+                    </div>
+    </div>
+</div>
+	</article>
+
+
+<article class="feed-item feed-item--imageAndIntro feed-item--blog-post" id="article_564713">
+			<div class="feed-item-header__wrapper">
+    <div class="feed-item__header">
+                                    <div class="feed-item__blog visually-hidden">
+                <a class="blog__link" href="/user/2130814/" title="
+                                            Александр Иванов
+                                    ">
+                    <img class="blog__avatar"
+                         src="https://i.klerk.ru/2QZYL0GSGdnauEFlY4Bowiq6lXzkEMVOLay6nPAX5Aw/rs:fit/w:16/h:16/q:100/aHR0cHM6Ly93d3cu/a2xlcmsucnUvdWdj/L3NvY2lhbEF2YXRh/ci81NmZkYjk1MjNm/MTUyZTgzYzEwZDQ2/YjIyM2ZkNGUyZi5q/cGVn.webp"
+                         alt="Александр Иванов - автор блога на klerk.ru">
+                    <span class="blog__title">
+                                                    Александр Иванов
+                                            </span>
+                </a>
+            </div>
+            <about-pop-up
+                    :id="2130814"
+                    title="
+                                                    Александр Иванов
+                                            "
+                                        description="
+                                                    
+                                            "
+                    avatar="https://i.klerk.ru/HyVQGCEI_Y-JEU0DvHnWDf0AoZVx9o1lT15YqKIc9KQ/rs:fill/w:32/h:32/q:100/aHR0cHM6Ly93d3cu/a2xlcmsucnUvdWdj/L3NvY2lhbEF2YXRh/ci81NmZkYjk1MjNm/MTUyZTgzYzEwZDQ2/YjIyM2ZkNGUyZi5q/cGVn.webp"
+                                            name=""
+                        url="/user/2130814/"
+                                >
+            </about-pop-up>
+                            <base-dont-miss :blog-id="771873"
+                                                :is-commercial="false"            ></base-dont-miss>
+                <div class="feed-item__stats">
+  <span class="stats-block">
+      <core-date-format date="2023-02-20 11:33:00"></core-date-format>
+  </span>
+</div>
+  <span class="stats-block stats-block__rubric">
+    <a class="feed-item__rubric" href="/rubricator/obshchestvo/">Общество</a>
+  </span>
+    </div>
+                            <div class="new-blog-header-items">
+                    </div>
+    </div>
+<div class="feed-item__link-target">
+    <div class="feed-item__headline">
+                <h2 class="">
+                            <a class="feed-item__link" href="https://www.klerk.ru/tribune/2130814/564713/">Приключения одного предприимчивого голландца в России XVII века</a>
+            </h2>
+</div>
+            <div class="feed-item__content">
+            <p>Есть такие людские судьбы, через которые история страны становится понятнее и яснее. Начиная с XVII века Голландия, лидер по части передовых технологий, начала массовый экспорт этих технологий - в основном за счет того, что «избыток» умных и образованных людей выплескивался за пределы маленькой страны. Немало голландцев в итоге оказалось и в России.</p>
+        </div>
+                        <div class="feed-item__cover">
+        <img
+                                    src="https://i.klerk.ru/oBV4pa77BRASZhurUcLXlcEkuAREt8wyPA3fgU80wLg/rs:fill/w:700/h:394/q:100/aHR0cHM6Ly93d3cu/a2xlcmsucnUvdWdj/L2Jsb2dQb3N0LzY5/YTljNzlmZTc3OTYz/OWZlMmM5M2UzZGNk/ZDc1ZWUxLmpwZw.webp"
+                                alt="Приключения одного предприимчивого голландца в России XVII века"
+                width="100%"
+                height="100%"
+                loading="lazy"
+        />
+    </div>
+    </div>
+<div class="feed-item__footer">
+    <div class="feed-item__footer-stat">
+        <div>
+                        <comments-button :count="2" href="https://www.klerk.ru/tribune/2130814/564713/#comments"></comments-button>
+            <like :docid="564713"
+                :topicid="10000"
+                :count="1"
+                :amilike="0"
+                :canilike="1"
+                :entity-id="8314590"
+                ></like>
+                            <favorite class="article__favourite"
+                          :entity-id="8314590"
+                          :added="0"
+                          :total="0"
+                ></favorite>
+                        <base-share page-url="www.klerk.ruhttps://www.klerk.ru/tribune/2130814/564713/"></base-share>
+        </div>
+        <div>
+                            <span class="stats-block" title="Просмотры">
+                    <span class="stat">
+                        <svg>
+                            <use xlink:href="#eye"></use>
+                        </svg>
+                        <core-count-format count="52"></core-count-format>
+                    </span>
+                </span>
+                    </div>
+    </div>
+</div>
+	</article>
+
+
+    <div class="feed__header feed__header--events feed__header_secondary feed__header_has-btn !pt-6 !px-4 tab:!px-6">
+        <div class="flex w-full">
+            <div class="flex flex-col">
+                <a href="/event/?utm_source=klerk&utm_medium=lenta_recommendationsBlock&utm_campaign=cok&utm_content=event&utm_term=20_02_2023" class="feed__header-link">
+                    <svg width="159" height="24" class="feed__header-logo">
+                        <use xlink:href="#recommend-block-events"></use>
+                    </svg>
+                </a>
+                <p class="feed-item__description mt-2">Последние мероприятия для бухгалтеров</p>
+            </div>
+            <a href="/event/?utm_source=klerk&utm_medium=lenta_recommendationsBlock&utm_campaign=cok&utm_content=event&utm_term=20_02_2023" class="feed__events-btn ml-auto">
+                <svg width="13" height="13" class="mr-2">
+                    <use xlink:href="#big-plus-add"></use>
+                </svg>
+                <span>Добавить</span>
+            </a>
+        </div>
+    </div>
+    <div class="feed-item feed__header_secondary feed__header_secondary--events !pb-4 !pt-[16px] !px-4 tab:!px-6">
+        <last-events mode="block"></last-events>
+    </div>
+
+
+<article class="feed-item feed-item--imageAndIntro feed-item--blog-post" id="article_564739">
+			<div class="feed-item-header__wrapper">
+    <div class="feed-item__header">
+                                    <div class="feed-item__blog visually-hidden">
+                <a class="blog__link" href="/blogs/moedelo/" title="
+                                            Моё дело
+                                    ">
+                    <img class="blog__avatar"
+                         src="https://i.klerk.ru/OixW5ckw26kBOybjaK6ttGecBGQBc7u0XVS4fvvIc5c/rs:fit/w:16/h:16/q:100/aHR0cHM6Ly93d3cu/a2xlcmsucnUvdWdj/L2NvbXBhbnlMb2dv/LzExZGExYTVmYzgz/ODIxYTlhMzU4NWU2/YjRjNjkyZmVmLnBu/Zw.webp"
+                         alt="Моё дело - автор блога на klerk.ru">
+                    <span class="blog__title">
+                                                    Моё дело
+                                            </span>
+                </a>
+            </div>
+            <about-pop-up
+                    :id="214"
+                    title="
+                                                    Моё дело
+                                            "
+                                            :varificate="true"                                        description="
+                                                    Интернет-бухгалтерия: облачные решения для бухгалтера и предпринимателя, справочно-правовая система, бухгалтерский консалтинг и аутсорсинг учёта в одном окне!
+                                            "
+                    avatar="https://i.klerk.ru/05b4KG9lCnKOWccVVTrEFklJnLpIuVGGlyVvYU-Mxiw/rs:fill/w:32/h:32/q:100/aHR0cHM6Ly93d3cu/a2xlcmsucnUvdWdj/L2NvbXBhbnlMb2dv/LzExZGExYTVmYzgz/ODIxYTlhMzU4NWU2/YjRjNjkyZmVmLnBu/Zw.webp"
+                                            :is-company="true"
+                                                    url="/company/214/"
+                                                        >
+            </about-pop-up>
+                            <base-dont-miss :blog-id="21"
+                                                            ></base-dont-miss>
+                <div class="feed-item__stats">
+  <span class="stats-block">
+      <core-date-format date="2023-02-20 11:26:00"></core-date-format>
+  </span>
+</div>
+  <span class="stats-block stats-block__rubric">
+    <a class="feed-item__rubric" href="/rubricator/otchetnost_v_sfr/">Отчетность в СФР</a>
+  </span>
+    </div>
+                            <div class="new-blog-header-items">
+                    </div>
+    </div>
+<div class="feed-item__link-target">
+    <div class="feed-item__headline">
+                <h2 class="">
+                            <a class="feed-item__link" href="https://www.klerk.ru/blogs/moedelo/564739/">Как заполнить сведения о страховом стаже в форме ЕФС-1</a>
+            </h2>
+</div>
+            <div class="feed-item__content">
+            <p>Работодатели в некоторых ситуациях должны ежегодно передавать сведения о стаже сотрудников. Раньше для этого сдавали отчёт СЗВ-СТАЖ в ПФР, а, начиная с отчётности за 2023 год, нужно подавать сведения по форме ЕФС-1 в Социальный фонд России. В статье – подробная инструкция по заполнению.</p>
+        </div>
+                        <div class="feed-item__cover">
+        <img
+                                    src="https://i.klerk.ru/_XMdbeoSZ_eGa6-nDNkell8TPTp2_KlslMq2V5OtZHA/rs:fill/w:700/h:394/q:100/aHR0cHM6Ly93d3cu/a2xlcmsucnUvdWdj/L2Jsb2dQb3N0LzFh/NjRkNjAyNzAyMGE1/NTVjYWVjNTE3OTM2/NDRhYzM4LmpwZw.webp"
+                                alt="Как заполнить сведения о страховом стаже в форме ЕФС-1"
+                width="100%"
+                height="100%"
+                loading="lazy"
+        />
+    </div>
+    </div>
+<div class="feed-item__footer">
+    <div class="feed-item__footer-stat">
+        <div>
+                        <comments-button :count="0" href="https://www.klerk.ru/blogs/moedelo/564739/#comments"></comments-button>
+            <like :docid="564739"
+                :topicid="10000"
+                :count="0"
+                :amilike="0"
+                :canilike="1"
+                :entity-id="8315406"
+                ></like>
+                            <favorite class="article__favourite"
+                          :entity-id="8315406"
+                          :added="0"
+                          :total="0"
+                ></favorite>
+                        <base-share page-url="www.klerk.ruhttps://www.klerk.ru/blogs/moedelo/564739/"></base-share>
+        </div>
+        <div>
+                            <span class="stats-block" title="Просмотры">
+                    <span class="stat">
+                        <svg>
+                            <use xlink:href="#eye"></use>
+                        </svg>
+                        <core-count-format count="282"></core-count-format>
+                    </span>
+                </span>
+                    </div>
+    </div>
+</div>
+	</article>
+
+    <div data-placement="1" class="promotion"
+         data-rubrics=""></div>
+
+<article class="feed-item feed-item--imageAndIntro feed-item--blog-post" id="article_564742">
+			<div class="feed-item-header__wrapper">
+    <div class="feed-item__header">
+                                    <div class="feed-item__blog visually-hidden">
+                <a class="blog__link" href="/user/yuzvakmax/" title="
+                                            Юзвак Максим
+                                    ">
+                    <img class="blog__avatar"
+                         src="https://i.klerk.ru/Fdowujbhqicmuxz4jsw0A5JpXzkYxQFWz1yl4kYULj4/rs:fit/w:16/h:16/q:100/aHR0cHM6Ly93d3cu/a2xlcmsucnUvdWdj/L3VzZXJBdmF0YXIv/ZjRmYjk0YmM2MDhj/NzVjOTc2ZmE0NmNj/NzMxNjYwMjQuanBl/Zw.webp"
+                         alt="Юзвак Максим - автор блога на klerk.ru">
+                    <span class="blog__title">
+                                                    Юзвак Максим
+                                            </span>
+                </a>
+            </div>
+            <about-pop-up
+                    :id="1956338"
+                    title="
+                                                    Юзвак Максим
+                                            "
+                                        description="
+                                                    
+                                            "
+                    avatar="https://i.klerk.ru/nmZ6tm8j603zPo2X6gDLWnxtGbRwXnvg-765cXMa0b0/rs:fill/w:32/h:32/q:100/aHR0cHM6Ly93d3cu/a2xlcmsucnUvdWdj/L3VzZXJBdmF0YXIv/ZjRmYjk0YmM2MDhj/NzVjOTc2ZmE0NmNj/NzMxNjYwMjQuanBl/Zw.webp"
+                                            name="Юзвак Максим"
+                        url="/user/yuzvakmax/"
+                                >
+            </about-pop-up>
+                            <base-dont-miss :blog-id="72"
+                                                :is-commercial="false"            ></base-dont-miss>
+                <div class="feed-item__stats">
+  <span class="stats-block">
+      <core-date-format date="2023-02-20 11:23:00"></core-date-format>
+  </span>
+</div>
+  <span class="stats-block stats-block__rubric">
+    <a class="feed-item__rubric" href="/rubricator/nalogi-vznosy-poshlini/">Налоги, взносы, пошлины</a>
+  </span>
+    </div>
+                            <div class="new-blog-header-items">
+                    </div>
+    </div>
+<div class="feed-item__link-target">
+    <div class="feed-item__headline">
+                <h2 class="">
+                            <a class="feed-item__link" href="https://www.klerk.ru/tribune/yuzvakmax/564742/">Налоговые итоги за январь 2023</a>
+            </h2>
+</div>
+            <div class="feed-item__content">
+            <p>Рассматриваются ключевые события в начале 2023.</p>
+        </div>
+                    </div>
+<div class="feed-item__footer">
+    <div class="feed-item__footer-stat">
+        <div>
+                        <comments-button :count="0" href="https://www.klerk.ru/tribune/yuzvakmax/564742/#comments"></comments-button>
+            <like :docid="564742"
+                :topicid="10000"
+                :count="0"
+                :amilike="0"
+                :canilike="1"
+                :entity-id="8315437"
+                ></like>
+                            <favorite class="article__favourite"
+                          :entity-id="8315437"
+                          :added="0"
+                          :total="0"
+                ></favorite>
+                        <base-share page-url="www.klerk.ruhttps://www.klerk.ru/tribune/yuzvakmax/564742/"></base-share>
+        </div>
+        <div>
+                            <span class="stats-block" title="Просмотры">
+                    <span class="stat">
+                        <svg>
+                            <use xlink:href="#eye"></use>
+                        </svg>
+                        <core-count-format count="26"></core-count-format>
+                    </span>
+                </span>
+                    </div>
+    </div>
+</div>
+	</article>
+
+
+    <div class="feed__header feed__header--consultations-block feed__header_secondary feed__header_has-btn !px-4 tab:!px-6">
+        <div class="flex w-full">
+            <div class="flex flex-col">
+                <a href="/go/consultation/?utm_source=klerk&utm_medium=lenta_recommendationsBlock&utm_campaign=cok&utm_content=consultation&utm_term=20_02_2023" target="_blank" class="feed__header-link">
+                    <svg width="161" height="24" class="feed__header-logo">
+                        <use xlink:href="#recommend-block-consultations"></use>
+                    </svg>
+                </a>
+                <p class="feed-item__description mt-2">Последние вопросы бухгалтеров из сервиса «Консультации»</p>
+            </div>
+            <a href="/go/consultation/?utm_source=klerk&utm_medium=lenta_recommendationsBlock&utm_campaign=cok&utm_content=consultation&utm_term=20_02_2023" class="feed__consultations-btn ml-auto">
+                <span>Подключить</span>
+            </a>
+        </div>
+    </div>
+    <div class="feed-item feed-item--consultations-block feed__header_secondary !pb-4 !pt-[28px] !px-4 tab:!px-6">
+        <last-events mode="consultations"></last-events>
+    </div>
+
+
+<article class="feed-item feed-item--imageAndIntro feed-item--blog-post" id="article_564673">
+			<div class="feed-item-header__wrapper">
+    <div class="feed-item__header">
+                                    <div class="feed-item__blog visually-hidden">
+                <a class="blog__link" href="/blogs/EvgeniySivkov/" title="
+                                            Евгений Сивков — Налоговый консультант
+                                    ">
+                    <img class="blog__avatar"
+                         src="https://i.klerk.ru/jdm9v4Mpb6ZYMlG-ND-nSIKOUtCeJ1m7w1Z74pZBzKo/rs:fit/w:16/h:16/q:100/aHR0cHM6Ly93d3cu/a2xlcmsucnUvdWdj/L2NvbXBhbnlMb2dv/L2Q2YmU2MmI1Mzc1/NTE5ZTNmNjkxODM0/MDY1ZjFiZGFlLmpw/ZWc.webp"
+                         alt="Евгений Сивков — Налоговый консультант - автор блога на klerk.ru">
+                    <span class="blog__title">
+                                                    Евгений Сивков — Налоговый консультант
+                                            </span>
+                </a>
+            </div>
+            <about-pop-up
+                    :id="1226"
+                    title="
+                                                    Евгений Сивков — Налоговый консультант
+                                            "
+                                            :varificate="true"                                        description="
+                                                    • Кандидат экономических наук, 2 высших образования: экономическое и юридическое.
+• Один из ведущих специалистов в области аудита и бухгалтерского учета в России. Более 20 лет опыта работы главным бухгалтером, аудитором и консультантом в крупных российских и иностранных компаниях.
+• Автор более 100-а книг и пособий по учету и налогообложению и множества статей по налогам.
+• Обладает богатым опытом арбитражной практики.
+• Помогает любому бизнеса сохранить свои активы в новых условиях.
+                                            "
+                    avatar="https://i.klerk.ru/uzNjOhZl3CehqSIeYAUMSSC-o_-1xtHRD4AV5WyFIk4/rs:fill/w:32/h:32/q:100/aHR0cHM6Ly93d3cu/a2xlcmsucnUvdWdj/L2NvbXBhbnlMb2dv/L2Q2YmU2MmI1Mzc1/NTE5ZTNmNjkxODM0/MDY1ZjFiZGFlLmpw/ZWc.webp"
+                                            :is-company="true"
+                                                    url="/company/1226/"
+                                                        >
+            </about-pop-up>
+                            <base-dont-miss :blog-id="763785"
+                                                            ></base-dont-miss>
+                <div class="feed-item__stats">
+  <span class="stats-block">
+      <core-date-format date="2023-02-20 10:57:00"></core-date-format>
+  </span>
+</div>
+  <span class="stats-block stats-block__rubric">
+    <a class="feed-item__rubric" href="/rubricator/439/">Дробление бизнеса</a>
+  </span>
+    </div>
+                            <div class="new-blog-header-items">
+                    </div>
+    </div>
+<div class="feed-item__link-target">
+    <div class="feed-item__headline">
+                <h2 class="">
+                            <a class="feed-item__link" href="https://www.klerk.ru/blogs/EvgeniySivkov/564673/">Дробление бизнеса: новые подходы</a>
+            </h2>
+</div>
+            <div class="feed-item__content">
+            <p>Налоговики продолжают регулярно обвинять своих оппонентов в том, что те занимаются дроблением бизнеса. Какие аргументы они при этом используют?</p>
+        </div>
+                        <div class="feed-item__cover">
+        <img
+                                    src="https://i.klerk.ru/o6h0sPI2H3jG_40unLa1Fx-kFldnQpvUodx78S-cl7o/rs:fill/w:700/h:394/q:100/aHR0cHM6Ly93d3cu/a2xlcmsucnUvdWdj/L2Jsb2dQb3N0L2Zi/YjQ4YTM0NzNmMWYy/ODkyZDdjNThlZTgz/YWI3Zjg1LmpwZw.webp"
+                                alt="Дробление бизнеса: новые подходы"
+                width="100%"
+                height="100%"
+                loading="lazy"
+        />
+    </div>
+    </div>
+<div class="feed-item__footer">
+    <div class="feed-item__footer-stat">
+        <div>
+                        <comments-button :count="0" href="https://www.klerk.ru/blogs/EvgeniySivkov/564673/#comments"></comments-button>
+            <like :docid="564673"
+                :topicid="10000"
+                :count="1"
+                :amilike="0"
+                :canilike="1"
+                :entity-id="8310574"
+                ></like>
+                            <favorite class="article__favourite"
+                          :entity-id="8310574"
+                          :added="0"
+                          :total="0"
+                ></favorite>
+                        <base-share page-url="www.klerk.ruhttps://www.klerk.ru/blogs/EvgeniySivkov/564673/"></base-share>
+        </div>
+        <div>
+                            <span class="stats-block" title="Просмотры">
+                    <span class="stat">
+                        <svg>
+                            <use xlink:href="#eye"></use>
+                        </svg>
+                        <core-count-format count="317"></core-count-format>
+                    </span>
+                </span>
+                    </div>
+    </div>
+</div>
+	</article>
+
+
+<article class="feed-item feed-item--imageAndIntro feed-item--blog-post" id="article_564732">
+			<div class="feed-item-header__wrapper">
+    <div class="feed-item__header">
+                                    <div class="feed-item__blog visually-hidden">
+                <a class="blog__link" href="/user/doingbusinesstogether/" title="
+                                            Наталья Горячая
+                                    ">
+                    <img class="blog__avatar"
+                         src="https://i.klerk.ru/JJqxot03kZ4SEkwWH1lPL0c-0HwLw88WWl7eA8yK7xo/rs:fit/w:16/h:16/q:100/aHR0cHM6Ly93d3cu/a2xlcmsucnUvdWdj/L3VzZXJBdmF0YXIv/MDJmY2EzMTQ0OGUy/ZjJiZjE2ZGFlOTdi/NmJkNmYzMWQuanBn.webp"
+                         alt="Наталья Горячая - автор блога на klerk.ru">
+                    <span class="blog__title">
+                                                    Наталья Горячая
+                                            </span>
+                </a>
+            </div>
+            <about-pop-up
+                    :id="2057220"
+                    title="
+                                                    Наталья Горячая
+                                            "
+                                        description="
+                                                    Свой путь в бизнесе я начала в 1997 году, создав юридическое бюро, а еще через 7 лет почти полностью сменила свой профиль на бухгалтерский сервис, по пути получив два профильных высших образования. 
+
+В 2003 году, с появлением первых специальных налоговых режимов, описанных в Налоговом кодексе, я поняла, что надо много читать и предстоит это делать в очень большом количестве.  Что и продолжаю делать по сей день
+                                            "
+                    avatar="https://i.klerk.ru/pKH1Cm86OY2XrIFBMRreeGWE2hNUKw9_9ma2mQdGSHY/rs:fill/w:32/h:32/q:100/aHR0cHM6Ly93d3cu/a2xlcmsucnUvdWdj/L3VzZXJBdmF0YXIv/MDJmY2EzMTQ0OGUy/ZjJiZjE2ZGFlOTdi/NmJkNmYzMWQuanBn.webp"
+                                            name="Наталья Горячая"
+                        url="/user/doingbusinesstogether/"
+                                >
+            </about-pop-up>
+                            <base-dont-miss :blog-id="8"
+                                                :is-commercial="false"            ></base-dont-miss>
+                <div class="feed-item__stats">
+  <span class="stats-block">
+      <core-date-format date="2023-02-20 10:54:00"></core-date-format>
+  </span>
+</div>
+  <span class="stats-block stats-block__rubric">
+    <a class="feed-item__rubric" href="/rubricator/vyezdnye-nalogovye-proverki/">Выездные налоговые проверки</a>
+  </span>
+    </div>
+                            <div class="new-blog-header-items">
+                    </div>
+    </div>
+<div class="feed-item__link-target">
+    <div class="feed-item__headline">
+                <h2 class="">
+                            <a class="feed-item__link" href="https://www.klerk.ru/tribune/doingbusinesstogether/564732/">Рекомендации по проведению контрольных мероприятий в отношении пользователей онлайн-касс от ФНС в 2023 году</a>
+            </h2>
+</div>
+            <div class="feed-item__content">
+            <p>ФНС готовится к проведению внеплановых контрольных мероприятий в отношении пользователей онлайн-касс в 2023 году. Рассказываю, какие меры за соблюдением закона о применении ККТ будут организованы.</p>
+        </div>
+                        <div class="feed-item__cover">
+        <img
+                                    src="https://i.klerk.ru/oOUzbnZbvhra4Cr-s24zBqAPiM4MerrPdGtrOlee_-o/rs:fill/w:700/h:394/q:100/aHR0cHM6Ly93d3cu/a2xlcmsucnUvdWdj/L2Jsb2dQb3N0LzAy/ZTQxNzFlMTc4OTEx/MTk3MjdhNDVmMGY4/ODBlOGIwLmpwZw.webp"
+                                alt="Рекомендации по проведению контрольных мероприятий в отношении пользователей онлайн-касс от ФНС в 2023 году"
+                width="100%"
+                height="100%"
+                loading="lazy"
+        />
+    </div>
+    </div>
+<div class="feed-item__footer">
+    <div class="feed-item__footer-stat">
+        <div>
+                        <comments-button :count="0" href="https://www.klerk.ru/tribune/doingbusinesstogether/564732/#comments"></comments-button>
+            <like :docid="564732"
+                :topicid="10000"
+                :count="1"
+                :amilike="0"
+                :canilike="1"
+                :entity-id="8315363"
+                ></like>
+                            <favorite class="article__favourite"
+                          :entity-id="8315363"
+                          :added="0"
+                          :total="0"
+                ></favorite>
+                        <base-share page-url="www.klerk.ruhttps://www.klerk.ru/tribune/doingbusinesstogether/564732/"></base-share>
+        </div>
+        <div>
+                            <span class="stats-block" title="Просмотры">
+                    <span class="stat">
+                        <svg>
+                            <use xlink:href="#eye"></use>
+                        </svg>
+                        <core-count-format count="44"></core-count-format>
+                    </span>
+                </span>
+                    </div>
+    </div>
+</div>
+	</article>
+
+    <div data-placement="1" class="promotion"
+         data-rubrics=""></div>
+
+<article class="feed-item feed-item--imageAndIntro" id="article_564168">
+			    <div class="feed-item-header__wrapper">
+    <div class="feed-item__header">
+                                                                        <div class="feed-item__stats">
+  <span class="stats-block">
+      <core-date-format date="2023-02-20 10:38:00"></core-date-format>
+  </span>
+</div>
+  <span class="stats-block stats-block__rubric">
+    <a class="feed-item__rubric" href="/rubricator/nds/">НДС</a>
+  </span>
+    </div>
+        </div>
+<div class="feed-item__link-target">
+    <div class="feed-item__headline">
+                <h2 class="feed-item-h2 ">
+                            <a class="feed-item__link feed-item-link__check-article"
+               href="/buh/articles/564168/">Как восстановить входной НДС с недвижимости. Старая ошибка в кодексе</a>
+            </h2>
+</div>
+            <div class="feed-item__content">
+            <p>Когда компании переходят с общей системы на УСН, входной НДС, который ранее был принят к вычету по основным средствам, надо восстановить. Но, оказывается, в НК давно заложено противоречие, которое, по счастью, чиновники трактуют в пользу налогоплательщиков.</p>
+        </div>
+                        <div class="feed-item__cover">
+        <img
+                                    src="https://i.klerk.ru/mgtpAHSTX8DxHiT8EWcyDgdrIUKMHmVJ_OrxP713ROM/rs:fill/w:700/h:394/q:100/aHR0cHM6Ly93d3cu/a2xlcmsucnUvaW1n/L3BiL3RodW1iNzAw/eDM4NS9jODU3MGRm/M2RmZWVlNzljZGEy/ZTNlNDM3NWYwNTll/Nl9jb21wcmVzc2Vk/X3YxLmpwZw.webp"
+                                alt="Как восстановить входной НДС с недвижимости. Старая ошибка в кодексе"
+                width="100%"
+                height="100%"
+                loading="lazy"
+        />
+    </div>
+    </div>
+<div class="feed-item__footer">
+    <div class="feed-item__footer-stat">
+        <div>
+                        <comments-button :count="0" href="/buh/articles/564168/#comments"></comments-button>
+            <like :docid="564168"
+                :topicid="3"
+                :count="0"
+                :amilike="0"
+                :canilike="1"
+                :entity-id="8298547"
+                ></like>
+                            <favorite class="article__favourite"
+                          :entity-id="8298547"
+                          :added="0"
+                          :total="1"
+                ></favorite>
+                        <base-share page-url="www.klerk.ru/buh/articles/564168/"></base-share>
+        </div>
+        <div>
+                            <span class="stats-block" title="Просмотры">
+                    <span class="stat">
+                        <svg>
+                            <use xlink:href="#eye"></use>
+                        </svg>
+                        <core-count-format count="138"></core-count-format>
+                    </span>
+                </span>
+                    </div>
+    </div>
+</div>
+	</article>
+
+
+<article class="feed-item feed-item--imageAndIntro" id="article_564609">
+			    <div class="feed-item-header__wrapper">
+    <div class="feed-item__header">
+                    <div class="pay-us-article">
+                <svg class="pay-us-article__icon">
+                    <use xlink:href="#lock"></use>
+                </svg>
+                <div class="pay-us-article__pop-up">Платный контент, доступный в «Премиум».
+                    <a href="/learn/about"> Что такое «Премиум»?</a>
+                </div>
+            </div>
+                                                                        <div class="feed-item__stats">
+  <span class="stats-block">
+      <core-date-format date="2023-02-20 10:21:00"></core-date-format>
+  </span>
+</div>
+  <span class="stats-block stats-block__rubric">
+    <a class="feed-item__rubric" href="/rubricator/trudovoe-pravo/">Трудовое право</a>
+  </span>
+    </div>
+        </div>
+<div class="feed-item__link-target">
+    <div class="feed-item__headline">
+                <h2 class="feed-item-h2 ">
+                            <a class="feed-item__link feed-item-link__check-article"
+               href="/razbory/bolnichnyj-list-na-distancionke-kak-oformit/">Больничный лист на дистанционке: как оформить и что считается рабочим днем</a>
+            </h2>
+</div>
+            <div class="feed-item__content">
+            <p>Обычно больничный лист – это повод не ходить на работу. Или возможность не ходить на работу, если на это действительно нет сил. Но дистанционщики и так работают из дома. Из-за этого возникают казусы, которые приходится разрешать даже в суде.</p>
+        </div>
+                        <div class="feed-item__cover">
+        <img
+                                    src="https://i.klerk.ru/s6UZInxwwLFiuHIgMs6kvV_lYcMkBNVkhkuB-oqgv2A/rs:fill/w:700/h:394/q:100/aHR0cHM6Ly93d3cu/a2xlcmsucnUvaW1n/L3BiL3RodW1iNzAw/eDM4NS9iMTc3MmM2/YjM4ZGY3YjUxMjY4/ZjZkMjcwMjE5NjY5/MF9jb21wcmVzc2Vk/X3YxLmpwZw.webp"
+                                alt="Больничный лист на дистанционке: как оформить и что считается рабочим днем"
+                width="100%"
+                height="100%"
+                loading="lazy"
+        />
+    </div>
+    </div>
+<div class="feed-item__footer">
+    <div class="feed-item__footer-stat">
+        <div>
+                        <comments-button :count="0" href="/razbory/bolnichnyj-list-na-distancionke-kak-oformit/#comments"></comments-button>
+            <like :docid="564609"
+                :topicid="3"
+                :count="0"
+                :amilike="0"
+                :canilike="1"
+                :entity-id="8310247"
+                ></like>
+                            <favorite class="article__favourite"
+                          :entity-id="8310247"
+                          :added="0"
+                          :total="0"
+                ></favorite>
+                        <base-share page-url="www.klerk.ru/razbory/bolnichnyj-list-na-distancionke-kak-oformit/"></base-share>
+        </div>
+        <div>
+                            <span class="stats-block" title="Просмотры">
+                    <span class="stat">
+                        <svg>
+                            <use xlink:href="#eye"></use>
+                        </svg>
+                        <core-count-format count="4"></core-count-format>
+                    </span>
+                </span>
+                    </div>
+    </div>
+</div>
+	</article>
+
+
+    <last-vacancies></last-vacancies>
+
+
+<article class="feed-item feed-item--imageAndIntro feed-item--blog-post" id="article_564728">
+			<div class="feed-item-header__wrapper">
+    <div class="feed-item__header">
+                                    <div class="feed-item__blog visually-hidden">
+                <a class="blog__link" href="/user/chupyr/" title="
+                                            Константин Чупырь
+                                    ">
+                    <img class="blog__avatar"
+                         src="https://i.klerk.ru/hx1mUk6KfPDhC0Irdb3heEyWXgxOUSueERmbClDgBwE/rs:fit/w:16/h:16/q:100/aHR0cHM6Ly93d3cu/a2xlcmsucnUvdWdj/L3VzZXJBdmF0YXIv/MjU0MTZlNDNhMGFl/Y2JiMmY1NjlkZTBj/NmU2NGQ1YTYuanBn.webp"
+                         alt="Константин Чупырь - автор блога на klerk.ru">
+                    <span class="blog__title">
+                                                    Константин Чупырь
+                                            </span>
+                </a>
+            </div>
+            <about-pop-up
+                    :id="1974978"
+                    title="
+                                                    Константин Чупырь
+                                            "
+                                        description="
+                                                    Член Союза Палаты Налоговых Консультантов, эксперт при Уполномоченном по защите прав предпринимателей (бизнес-омбудсмен).
+                                            "
+                    avatar="https://i.klerk.ru/--JkdXLkji6mIGja51e0mls3AGQyub5KJdlqZK_GgOA/rs:fill/w:32/h:32/q:100/aHR0cHM6Ly93d3cu/a2xlcmsucnUvdWdj/L3VzZXJBdmF0YXIv/MjU0MTZlNDNhMGFl/Y2JiMmY1NjlkZTBj/NmU2NGQ1YTYuanBn.webp"
+                                            name="Константин Чупырь"
+                        url="/user/chupyr/"
+                                >
+            </about-pop-up>
+                            <base-dont-miss :blog-id="277"
+                                                :is-commercial="false"            ></base-dont-miss>
+                <div class="feed-item__stats">
+  <span class="stats-block">
+      <core-date-format date="2023-02-20 10:15:00"></core-date-format>
+  </span>
+</div>
+  <span class="stats-block stats-block__rubric">
+    <a class="feed-item__rubric" href="/rubricator/vyezdnye-nalogovye-proverki/">Выездные налоговые проверки</a>
+  </span>
+    </div>
+                            <div class="new-blog-header-items">
+                    </div>
+    </div>
+<div class="feed-item__link-target">
+    <div class="feed-item__headline">
+                <h2 class="">
+                            <a class="feed-item__link" href="https://www.klerk.ru/tribune/chupyr/564728/">Конституционный суд про выездную налоговую проверку</a>
+            </h2>
+</div>
+            <div class="feed-item__content">
+            <p>Конституционный суд своим очередным отказным определением затронул вопросы фактического начала выездной налоговой проверки, а именно отмены решения о назначении ВНП.</p>
+        </div>
+                    </div>
+<div class="feed-item__footer">
+    <div class="feed-item__footer-stat">
+        <div>
+                        <comments-button :count="0" href="https://www.klerk.ru/tribune/chupyr/564728/#comments"></comments-button>
+            <like :docid="564728"
+                :topicid="10000"
+                :count="2"
+                :amilike="0"
+                :canilike="1"
+                :entity-id="8315318"
+                ></like>
+                            <favorite class="article__favourite"
+                          :entity-id="8315318"
+                          :added="0"
+                          :total="0"
+                ></favorite>
+                        <base-share page-url="www.klerk.ruhttps://www.klerk.ru/tribune/chupyr/564728/"></base-share>
+        </div>
+        <div>
+                            <span class="stats-block" title="Просмотры">
+                    <span class="stat">
+                        <svg>
+                            <use xlink:href="#eye"></use>
+                        </svg>
+                        <core-count-format count="35"></core-count-format>
+                    </span>
+                </span>
+                    </div>
+    </div>
+</div>
+	</article>
+
+    <div data-placement="1" class="promotion"
+         data-rubrics=""></div>
+
+<article class="feed-item feed-item--imageAndIntro feed-item--blog-post" id="article_564720">
+			<div class="feed-item-header__wrapper">
+    <div class="feed-item__header">
+                                    <div class="feed-item__blog visually-hidden">
+                <a class="blog__link" href="/blogs/klerk/" title="
+                                            Клерк
+                                    ">
+                    <img class="blog__avatar"
+                         src="https://i.klerk.ru/42zKgiGuzJJRNwG8w3B5aJLKXyBs2NgRJHUhhKuZvJU/rs:fit/w:16/h:16/q:100/aHR0cHM6Ly93d3cu/a2xlcmsucnUvdWdj/L2NvbXBhbnlMb2dv/LzQ2ZGM3NGY4ZDhl/YzRlZGMyODMzN2E1/NzYxMTg4YzliLnBu/Zw.webp"
+                         alt="Клерк - автор блога на klerk.ru">
+                    <span class="blog__title">
+                                                    Клерк
+                                            </span>
+                </a>
+            </div>
+            <about-pop-up
+                    :id="1"
+                    title="
+                                                    Клерк
+                                            "
+                                            :varificate="true"                                        description="
+                                                    «Клерк» — крупнейший сайт для бухгалтеров. Мы не берем денег за статьи, новости или скачивание документов. Мы делаем все, чтобы сделать работу бухгалтеров проще.
+                                            "
+                    avatar="https://i.klerk.ru/Tk4xjW43jZGst5yCt-zKMyenkVd1N_ELtDZyUs6GWz8/rs:fill/w:32/h:32/q:100/aHR0cHM6Ly93d3cu/a2xlcmsucnUvdWdj/L2NvbXBhbnlMb2dv/LzQ2ZGM3NGY4ZDhl/YzRlZGMyODMzN2E1/NzYxMTg4YzliLnBu/Zw.webp"
+                                            :is-company="true"
+                                                    url="/blogs/klerk/"
+                                                        >
+            </about-pop-up>
+                            <base-dont-miss :blog-id="1"
+                                                            ></base-dont-miss>
+                <div class="feed-item__stats">
+  <span class="stats-block">
+      <core-date-format date="2023-02-20 10:00:00"></core-date-format>
+  </span>
+</div>
+  <span class="stats-block stats-block__rubric">
+    <a class="feed-item__rubric" href="/rubricator/483/">АУСН</a>
+  </span>
+    </div>
+                            <div class="new-blog-header-items">
+                    </div>
+    </div>
+<div class="feed-item__link-target">
+    <div class="feed-item__headline">
+                <h2 class="">
+                            <a class="feed-item__link" href="https://www.klerk.ru/blogs/klerk/564720/">Как на АУСН учитывать доходы и расходы</a>
+            </h2>
+</div>
+            <div class="feed-item__content">
+            <p>В статье также разберем какие доходы, расходы и убытки нельзя учитывать.</p>
+        </div>
+                        <div class="feed-item__cover">
+        <img
+                                    src="https://i.klerk.ru/tXAay3AlKB6tidi3YpgSBDTGRlX1vII0k3PdNCsca2Y/rs:fill/w:700/h:394/q:100/aHR0cHM6Ly93d3cu/a2xlcmsucnUvdWdj/L2Jsb2dQb3N0L2E1/NmE1OTc5MGU5ZTdm/YjNjNDE0MDRjNDAx/NWE1MjA2LmpwZw.webp"
+                                alt="Как на АУСН учитывать доходы и расходы"
+                width="100%"
+                height="100%"
+                loading="lazy"
+        />
+    </div>
+    </div>
+<div class="feed-item__footer">
+    <div class="feed-item__footer-stat">
+        <div>
+                        <comments-button :count="0" href="https://www.klerk.ru/blogs/klerk/564720/#comments"></comments-button>
+            <like :docid="564720"
+                :topicid="10000"
+                :count="0"
+                :amilike="0"
+                :canilike="1"
+                :entity-id="8315257"
+                ></like>
+                            <favorite class="article__favourite"
+                          :entity-id="8315257"
+                          :added="0"
+                          :total="0"
+                ></favorite>
+                        <base-share page-url="www.klerk.ruhttps://www.klerk.ru/blogs/klerk/564720/"></base-share>
+        </div>
+        <div>
+                            <span class="stats-block" title="Просмотры">
+                    <span class="stat">
+                        <svg>
+                            <use xlink:href="#eye"></use>
+                        </svg>
+                        <core-count-format count="266"></core-count-format>
+                    </span>
+                </span>
+                    </div>
+    </div>
+</div>
+	</article>
+
+
+    <div class="feed__header feed__header--analysis-block feed__header_secondary feed__header_has-btn !px-4 tab:!px-6">
+        <div class="flex w-full">
+            <div class="flex flex-col">
+                <a href="/razbory/?utm_source=klerk&utm_medium=lenta_recommendationsBlock&utm_campaign=cok&utm_content=razbory&utm_term=20_02_2023" class="feed__header-link">
+                    <svg width="113" height="24" class="feed__header-logo">
+                        <use xlink:href="#recommend-block-analysis"></use>
+                    </svg>
+                </a>
+                <p class="feed-item__description mt-2">Эксклюзивные статьи про изменения в учете и налогах</p>
+            </div>
+            <a href="/razbory/?utm_source=klerk&utm_medium=lenta_recommendationsBlock&utm_campaign=cok&utm_content=razbory&utm_term=20_02_2023" class="feed__analysis-btn ml-auto">
+                <span>Заказать разбор</span>
+            </a>
+        </div>
+    </div>
+    <div class="feed-item feed-item--analysis-block feed__header_secondary !pb-4 !pt-[16px] !px-4 tab:!px-6">
+        <last-events mode="analysis"></last-events>
+    </div>
+
+
+<article class="feed-item feed-item--normal" id="article_564723">
+			    <div class="feed-item-header__wrapper">
+    <div class="feed-item__header">
+                                                                        <div class="feed-item__stats">
+  <span class="stats-block">
+      <core-date-format date="2023-02-20 09:23:00"></core-date-format>
+  </span>
+</div>
+  <span class="stats-block stats-block__rubric">
+    <a class="feed-item__rubric" href="/rubricator/obzory-dlya-buhgaltera/">Обзоры для бухгалтера</a>
+  </span>
+    </div>
+        </div>
+<div class="feed-item__link-target">
+    <div class="feed-item__headline">
+                <h2 class="feed-item-h2 ">
+                            <a class="feed-item__link feed-item-link__check-article"
+               href="/buh/articles/564723/">«Утренний бухгалтер». Можете не указывать уплаченный налог в бывших справках 2-НДФЛ</a>
+            </h2>
+</div>
+            <div class="feed-item__content">
+            <p>Об этом сообщили налоговики в своем Телеграм-канале.</p>
+        </div>
+        </div>
+<div class="feed-item__footer">
+    <div class="feed-item__footer-stat">
+        <div>
+                        <comments-button :count="0" href="/buh/articles/564723/#comments"></comments-button>
+            <like :docid="564723"
+                :topicid="3"
+                :count="0"
+                :amilike="0"
+                :canilike="1"
+                :entity-id="8315277"
+                ></like>
+                            <favorite class="article__favourite"
+                          :entity-id="8315277"
+                          :added="0"
+                          :total="0"
+                ></favorite>
+                        <base-share page-url="www.klerk.ru/buh/articles/564723/"></base-share>
+        </div>
+        <div>
+                            <span class="stats-block" title="Просмотры">
+                    <span class="stat">
+                        <svg>
+                            <use xlink:href="#eye"></use>
+                        </svg>
+                        <core-count-format count="251"></core-count-format>
+                    </span>
+                </span>
+                    </div>
+    </div>
+</div>
+	</article>
+
+
+<article class="feed-item feed-item--imageAndIntro feed-item--blog-post" id="article_564383">
+			<div class="feed-item-header__wrapper">
+    <div class="feed-item__header">
+                                    <div class="feed-item__blog visually-hidden">
+                <a class="blog__link" href="/blogs/qugo/" title="
+                                            Qugo
+                                    ">
+                    <img class="blog__avatar"
+                         src="https://i.klerk.ru/ThyThPDmqb7jZX1KDl9OGkE_1OaQ7Kdu1NvsRK3ZNk0/rs:fit/w:16/h:16/q:100/aHR0cHM6Ly93d3cu/a2xlcmsucnUvdWdj/L2NvbXBhbnlMb2dv/L2QzMTNjYWE2MjNi/ZmU3OGZkMDQ3YzJk/MjJmYjY5YzVlLnBu/Zw.webp"
+                         alt="Qugo - автор блога на klerk.ru">
+                    <span class="blog__title">
+                                                    Qugo
+                                            </span>
+                </a>
+            </div>
+            <about-pop-up
+                    :id="280"
+                    title="
+                                                    Qugo
+                                            "
+                                            :varificate="true"                                        description="
+                                                    Qugo - это онлайн-платформа для работы с физлицами на ГПХ, самозанятыми и ИП. Сервис помогает бизнесу автоматизировать финансовые процессы и снизить риски работы с большим числом внештатного персонала.
+                                            "
+                    avatar="https://i.klerk.ru/52k7eFhpK9Hcx5CISSujuQbIGP0C0ZJn8xksC92q2Wk/rs:fill/w:32/h:32/q:100/aHR0cHM6Ly93d3cu/a2xlcmsucnUvdWdj/L2NvbXBhbnlMb2dv/L2QzMTNjYWE2MjNi/ZmU3OGZkMDQ3YzJk/MjJmYjY5YzVlLnBu/Zw.webp"
+                                            :is-company="true"
+                                                    url="/company/280/"
+                                                        >
+            </about-pop-up>
+                            <base-dont-miss :blog-id="146"
+                                                            ></base-dont-miss>
+                <div class="feed-item__stats">
+  <span class="stats-block">
+      <core-date-format date="2023-02-20 09:16:00"></core-date-format>
+  </span>
+</div>
+  <span class="stats-block stats-block__rubric">
+    <a class="feed-item__rubric" href="/rubricator/samozanyatie/">Самозанятые</a>
+  </span>
+    </div>
+                            <div class="new-blog-header-items">
+                    </div>
+    </div>
+<div class="feed-item__link-target">
+    <div class="feed-item__headline">
+                <h2 class="">
+                            <a class="feed-item__link" href="https://www.klerk.ru/blogs/qugo/564383/">Сотрудничество с самозанятыми или ИП: в чем разница</a>
+            </h2>
+</div>
+            <div class="feed-item__content">
+            <p>Нюансы сотрудничества с исполнителем по договору ГПХ зависят от того, какой налоговый статус он имеет и какую систему налогообложения применяет.</p>
+        </div>
+                        <div class="feed-item__cover">
+        <img
+                                    src="https://i.klerk.ru/DFfu3VIUr5xvm2Na3zbMuCil-lXJD56EycDbjoRhevs/rs:fill/w:700/h:394/q:100/aHR0cHM6Ly93d3cu/a2xlcmsucnUvdWdj/L2Jsb2dQb3N0LzJj/NmQ1NzIxNzYwZDQ5/ZThhM2NiODQ1ZTVm/MDYyYjVkLmpwZw.webp"
+                                alt="Сотрудничество с самозанятыми или ИП: в чем разница"
+                width="100%"
+                height="100%"
+                loading="lazy"
+        />
+    </div>
+    </div>
+<div class="feed-item__footer">
+    <div class="feed-item__footer-stat">
+        <div>
+                        <comments-button :count="0" href="https://www.klerk.ru/blogs/qugo/564383/#comments"></comments-button>
+            <like :docid="564383"
+                :topicid="10000"
+                :count="0"
+                :amilike="0"
+                :canilike="1"
+                :entity-id="8303981"
+                ></like>
+                            <favorite class="article__favourite"
+                          :entity-id="8303981"
+                          :added="0"
+                          :total="0"
+                ></favorite>
+                        <base-share page-url="www.klerk.ruhttps://www.klerk.ru/blogs/qugo/564383/"></base-share>
+        </div>
+        <div>
+                            <span class="stats-block" title="Просмотры">
+                    <span class="stat">
+                        <svg>
+                            <use xlink:href="#eye"></use>
+                        </svg>
+                        <core-count-format count="274"></core-count-format>
+                    </span>
+                </span>
+                    </div>
+    </div>
+</div>
+	</article>
+
+    <div data-placement="1" class="promotion"
+         data-rubrics=""></div>
+
+<article class="feed-item feed-item--imageAndIntro feed-item--blog-post" id="article_564716">
+			<div class="feed-item-header__wrapper">
+    <div class="feed-item__header">
+                                    <div class="feed-item__blog visually-hidden">
+                <a class="blog__link" href="/user/yuzvakmax/" title="
+                                            Юзвак Максим
+                                    ">
+                    <img class="blog__avatar"
+                         src="https://i.klerk.ru/Fdowujbhqicmuxz4jsw0A5JpXzkYxQFWz1yl4kYULj4/rs:fit/w:16/h:16/q:100/aHR0cHM6Ly93d3cu/a2xlcmsucnUvdWdj/L3VzZXJBdmF0YXIv/ZjRmYjk0YmM2MDhj/NzVjOTc2ZmE0NmNj/NzMxNjYwMjQuanBl/Zw.webp"
+                         alt="Юзвак Максим - автор блога на klerk.ru">
+                    <span class="blog__title">
+                                                    Юзвак Максим
+                                            </span>
+                </a>
+            </div>
+            <about-pop-up
+                    :id="1956338"
+                    title="
+                                                    Юзвак Максим
+                                            "
+                                        description="
+                                                    
+                                            "
+                    avatar="https://i.klerk.ru/nmZ6tm8j603zPo2X6gDLWnxtGbRwXnvg-765cXMa0b0/rs:fill/w:32/h:32/q:100/aHR0cHM6Ly93d3cu/a2xlcmsucnUvdWdj/L3VzZXJBdmF0YXIv/ZjRmYjk0YmM2MDhj/NzVjOTc2ZmE0NmNj/NzMxNjYwMjQuanBl/Zw.webp"
+                                            name="Юзвак Максим"
+                        url="/user/yuzvakmax/"
+                                >
+            </about-pop-up>
+                            <base-dont-miss :blog-id="72"
+                                                :is-commercial="false"            ></base-dont-miss>
+                <div class="feed-item__stats">
+  <span class="stats-block">
+      <core-date-format date="2023-02-20 09:03:00"></core-date-format>
+  </span>
+</div>
+  <span class="stats-block stats-block__rubric">
+    <a class="feed-item__rubric" href="/rubricator/zakonoproekti/">Законопроекты</a>
+  </span>
+    </div>
+                            <div class="new-blog-header-items">
+                    </div>
+    </div>
+<div class="feed-item__link-target">
+    <div class="feed-item__headline">
+                <h2 class="">
+                            <a class="feed-item__link" href="https://www.klerk.ru/tribune/yuzvakmax/564716/">﻿Учет по налогу на прибыль расходов на выплаты в праздники</a>
+            </h2>
+</div>
+            <div class="feed-item__content">
+            <p>Рассматривается вопрос об учете по налогу на прибыль затрат на выплаты работникам в связи с праздничными днями.</p>
+        </div>
+                    </div>
+<div class="feed-item__footer">
+    <div class="feed-item__footer-stat">
+        <div>
+                        <comments-button :count="0" href="https://www.klerk.ru/tribune/yuzvakmax/564716/#comments"></comments-button>
+            <like :docid="564716"
+                :topicid="10000"
+                :count="0"
+                :amilike="0"
+                :canilike="1"
+                :entity-id="8315206"
+                ></like>
+                            <favorite class="article__favourite"
+                          :entity-id="8315206"
+                          :added="0"
+                          :total="0"
+                ></favorite>
+                        <base-share page-url="www.klerk.ruhttps://www.klerk.ru/tribune/yuzvakmax/564716/"></base-share>
+        </div>
+        <div>
+                            <span class="stats-block" title="Просмотры">
+                    <span class="stat">
+                        <svg>
+                            <use xlink:href="#eye"></use>
+                        </svg>
+                        <core-count-format count="48"></core-count-format>
+                    </span>
+                </span>
+                    </div>
+    </div>
+</div>
+	</article>
+
+
+<article class="feed-item feed-item--imageAndIntro" id="article_564669">
+			    <div class="feed-item-header__wrapper">
+    <div class="feed-item__header">
+                                                                        <div class="feed-item__stats">
+  <span class="stats-block">
+      <core-date-format date="2023-02-20 09:03:00"></core-date-format>
+  </span>
+</div>
+  <span class="stats-block stats-block__rubric">
+    <a class="feed-item__rubric" href="/rubricator/nalog-na-pribyl/">Налог на прибыль</a>
+  </span>
+    </div>
+        </div>
+<div class="feed-item__link-target">
+    <div class="feed-item__headline">
+                <h2 class="feed-item-h2 ">
+                            <a class="feed-item__link feed-item-link__check-article"
+               href="/buh/articles/564669/">Как перейти на авансы по фактической прибыли в 2023 году</a>
+            </h2>
+</div>
+            <div class="feed-item__content">
+            <p>Отечественные компании имеют возможность переходить на уплату авансов по налогу на прибыль исходя из фактической прибыли. Кто может это сделать и в каком порядке, рассказываем дальше.</p>
+        </div>
+                        <div class="feed-item__cover">
+        <img
+                                    src="https://i.klerk.ru/0l1B2nZvTwyxN1J51fM-MPY1ZjSs2JaV4Ee90VWHFXc/rs:fill/w:700/h:394/q:100/aHR0cHM6Ly93d3cu/a2xlcmsucnUvaW1n/L3BiL3RodW1iNzAw/eDM4NS8wYTAxYmU1/YWJhZjU4MDYzYmIz/YzY5ZTAzNjYxZjA4/N19jb21wcmVzc2Vk/X3YxLmpwZw.webp"
+                                alt="Как перейти на авансы по фактической прибыли в 2023 году"
+                width="100%"
+                height="100%"
+                loading="lazy"
+        />
+    </div>
+    </div>
+<div class="feed-item__footer">
+    <div class="feed-item__footer-stat">
+        <div>
+                        <comments-button :count="0" href="/buh/articles/564669/#comments"></comments-button>
+            <like :docid="564669"
+                :topicid="3"
+                :count="0"
+                :amilike="0"
+                :canilike="1"
+                :entity-id="8310539"
+                ></like>
+                            <favorite class="article__favourite"
+                          :entity-id="8310539"
+                          :added="0"
+                          :total="0"
+                ></favorite>
+                        <base-share page-url="www.klerk.ru/buh/articles/564669/"></base-share>
+        </div>
+        <div>
+                            <span class="stats-block" title="Просмотры">
+                    <span class="stat">
+                        <svg>
+                            <use xlink:href="#eye"></use>
+                        </svg>
+                        <core-count-format count="114"></core-count-format>
+                    </span>
+                </span>
+                    </div>
+    </div>
+</div>
+	</article>
+
+
+<article class="feed-item feed-item--imageAndIntro" id="article_564672">
+			    <div class="feed-item-header__wrapper">
+    <div class="feed-item__header">
+                                                                        <div class="feed-item__stats">
+  <span class="stats-block">
+      <core-date-format date="2023-02-20 09:02:00"></core-date-format>
+  </span>
+</div>
+  <span class="stats-block stats-block__rubric">
+    <a class="feed-item__rubric" href="/rubricator/trudovie-otnosheniya/">Трудовые отношения</a>
+  </span>
+    </div>
+        </div>
+<div class="feed-item__link-target">
+    <div class="feed-item__headline">
+                <h2 class="feed-item-h2 ">
+                            <a class="feed-item__link feed-item-link__check-article"
+               href="/buh/articles/564672/">Как оформить перевод при изменении штатного расписания</a>
+            </h2>
+</div>
+            <div class="feed-item__content">
+            <p>Штатное расписание необходимо для комплектования кадрового состава в соответствии с должностями и зарплатой.</p>
+        </div>
+                        <div class="feed-item__cover">
+        <img
+                                    src="https://i.klerk.ru/td6CyX_paz0Bhk_bdiCWRbs4wy3duWecq6FL5oWZFcM/rs:fill/w:700/h:394/q:100/aHR0cHM6Ly93d3cu/a2xlcmsucnUvaW1n/L3BiL3RodW1iNzAw/eDM4NS81MTFjNzYw/ODAyODg3OTdmZWEz/YWE2OGU1Mjk3MGZm/MV9jb21wcmVzc2Vk/X3YxLmpwZw.webp"
+                                alt="Как оформить перевод при изменении штатного расписания"
+                width="100%"
+                height="100%"
+                loading="lazy"
+        />
+    </div>
+    </div>
+<div class="feed-item__footer">
+    <div class="feed-item__footer-stat">
+        <div>
+                        <comments-button :count="0" href="/buh/articles/564672/#comments"></comments-button>
+            <like :docid="564672"
+                :topicid="3"
+                :count="0"
+                :amilike="0"
+                :canilike="1"
+                :entity-id="8310558"
+                ></like>
+                            <favorite class="article__favourite"
+                          :entity-id="8310558"
+                          :added="0"
+                          :total="0"
+                ></favorite>
+                        <base-share page-url="www.klerk.ru/buh/articles/564672/"></base-share>
+        </div>
+        <div>
+                            <span class="stats-block" title="Просмотры">
+                    <span class="stat">
+                        <svg>
+                            <use xlink:href="#eye"></use>
+                        </svg>
+                        <core-count-format count="139"></core-count-format>
+                    </span>
+                </span>
+                    </div>
+    </div>
+</div>
+	</article>
+
+    <div data-placement="1" class="promotion"
+         data-rubrics=""></div>
+
+<article class="feed-item feed-item--imageAndIntro" id="article_564683">
+			    <div class="feed-item-header__wrapper">
+    <div class="feed-item__header">
+                                                                        <div class="feed-item__stats">
+  <span class="stats-block">
+      <core-date-format date="2023-02-20 09:01:00"></core-date-format>
+  </span>
+</div>
+  <span class="stats-block stats-block__rubric">
+    <a class="feed-item__rubric" href="/rubricator/buhgalterskij-uchet/">Бухгалтерский учет</a>
+  </span>
+    </div>
+        </div>
+<div class="feed-item__link-target">
+    <div class="feed-item__headline">
+                <h2 class="feed-item-h2 ">
+                            <a class="feed-item__link feed-item-link__check-article"
+               href="/buh/articles/564683/">Положительные и отрицательные курсовые разницы в 2022-2024 годах: как учесть в налоговом учете</a>
+            </h2>
+</div>
+            <div class="feed-item__content">
+            <p>Казалось бы, что нового можно рассказать о налоговом учете курсовых разниц, ведь вроде бы и так всё понятно: положительные курсовые разницы в налоговом учете учитываются на дату погашения требования (обязательства), а отрицательные курсовые разницы признаются в налоговом учете по тем же правилам, что и в бухгалтерском? А нет!</p>
+        </div>
+                        <div class="feed-item__cover">
+        <img
+                                    src="https://i.klerk.ru/20brgUD2aQZzifhZXycvaygBAy1StcLZD7CeTqSHpV4/rs:fill/w:700/h:394/q:100/aHR0cHM6Ly93d3cu/a2xlcmsucnUvaW1n/L3BiL3RodW1iNzAw/eDM4NS82YmQyZjVh/OWE1ZDU5OTQ0ZWRi/NTAyOTUyYjdlNDNl/Yl9jb21wcmVzc2Vk/X3YxLmpwZw.webp"
+                                alt="Положительные и отрицательные курсовые разницы в 2022-2024 годах: как учесть в налоговом учете"
+                width="100%"
+                height="100%"
+                loading="lazy"
+        />
+    </div>
+    </div>
+<div class="feed-item__footer">
+    <div class="feed-item__footer-stat">
+        <div>
+                        <comments-button :count="0" href="/buh/articles/564683/#comments"></comments-button>
+            <like :docid="564683"
+                :topicid="3"
+                :count="1"
+                :amilike="0"
+                :canilike="1"
+                :entity-id="8310787"
+                ></like>
+                            <favorite class="article__favourite"
+                          :entity-id="8310787"
+                          :added="0"
+                          :total="1"
+                ></favorite>
+                        <base-share page-url="www.klerk.ru/buh/articles/564683/"></base-share>
+        </div>
+        <div>
+                            <span class="stats-block" title="Просмотры">
+                    <span class="stat">
+                        <svg>
+                            <use xlink:href="#eye"></use>
+                        </svg>
+                        <core-count-format count="144"></core-count-format>
+                    </span>
+                </span>
+                    </div>
+    </div>
+</div>
+	</article>
+
+
+<article class="feed-item feed-item--imageAndIntro" id="article_564677">
+			    <div class="feed-item-header__wrapper">
+    <div class="feed-item__header">
+                                                                        <div class="feed-item__stats">
+  <span class="stats-block">
+      <core-date-format date="2023-02-20 08:57:00"></core-date-format>
+  </span>
+</div>
+  <span class="stats-block stats-block__rubric">
+    <a class="feed-item__rubric" href="/rubricator/lichnye-finansi/">Личные финансы</a>
+  </span>
+    </div>
+        </div>
+<div class="feed-item__link-target">
+    <div class="feed-item__headline">
+                <h2 class="feed-item-h2 ">
+                            <a class="feed-item__link feed-item-link__check-article"
+               href="/buh/articles/564677/">Как рассчитать финансовую подушку безопасности в 2023 году</a>
+            </h2>
+</div>
+            <div class="feed-item__content">
+            <p>О том, что нужно иметь подушку безопасности, знают многие. Сбережения помогают преодолеть временные финансовые трудности и не залезать в долги, например, в случае потери работы или поломки холодильника.</p>
+        </div>
+                        <div class="feed-item__cover">
+        <img
+                                    src="https://i.klerk.ru/nYYT7HXIfudUn5-I15QWa-v7I_ehns8j7myso-6MzxM/rs:fill/w:700/h:394/q:100/aHR0cHM6Ly93d3cu/a2xlcmsucnUvaW1n/L3BiL3RodW1iNzAw/eDM4NS9hN2JjNGIw/NmI2NmU5OTUwYjM3/NjE5MWIyODg4NTI3/Nl9jb21wcmVzc2Vk/X3YxLmpwZw.webp"
+                                alt="Как рассчитать финансовую подушку безопасности в 2023 году"
+                width="100%"
+                height="100%"
+                loading="lazy"
+        />
+    </div>
+    </div>
+<div class="feed-item__footer">
+    <div class="feed-item__footer-stat">
+        <div>
+                        <comments-button :count="0" href="/buh/articles/564677/#comments"></comments-button>
+            <like :docid="564677"
+                :topicid="3"
+                :count="0"
+                :amilike="0"
+                :canilike="1"
+                :entity-id="8310632"
+                ></like>
+                            <favorite class="article__favourite"
+                          :entity-id="8310632"
+                          :added="0"
+                          :total="0"
+                ></favorite>
+                        <base-share page-url="www.klerk.ru/buh/articles/564677/"></base-share>
+        </div>
+        <div>
+                            <span class="stats-block" title="Просмотры">
+                    <span class="stat">
+                        <svg>
+                            <use xlink:href="#eye"></use>
+                        </svg>
+                        <core-count-format count="110"></core-count-format>
+                    </span>
+                </span>
+                    </div>
+    </div>
+</div>
+	</article>
+
+
+  </div>
+  <nav class="feed__pagination">
+	<div class="pagination__list">
+		<!--li>Страницы:</li-->
+				<div class="pagination__item">
+        <span rel="prev" class="pagination__arrow pagination__prev pagination__prev--disabled">
+          <svg viewBox="0 0 18 18">
+            <use xlink:href="#cascade-arrow"></use>
+					</svg>
+				</span>
+		</div>
+						<ul class="pagination__wrapper">
+																		<li class="pagination__item active">
+						<span class="pagination__page">1</span>
+					</li>
+																<li class="pagination__item">
+						<a class="pagination__page" href="/page/2/" >2</a>
+					</li>
+																<li class="pagination__item">
+						<a class="pagination__page" href="/page/3/" >3</a>
+					</li>
+																<li class="pagination__item">
+						<a class="pagination__page" href="/page/4/" >4</a>
+					</li>
+																<li class="pagination__item">
+						<a class="pagination__page" href="/page/5/" >5</a>
+					</li>
+																<li class="pagination__item">
+						<a class="pagination__page" href="/page/6/" >6</a>
+					</li>
+														<li class="pagination__item">
+					<svg class="pagination__range" viewBox="0 0 10 2">
+						<use xlink:href="#elipsis--small"></use>
+					</svg>
+				</li>
+										<li class="pagination__item">
+					<a class="pagination__page" href="/page/6427/" >6427</a>
+				</li>
+					</ul>
+					<div class="pagination__item">
+        <a rel="next" class="pagination__arrow pagination__next" href="/page/2/" >
+          <svg viewBox="0 0 18 18">
+            <use xlink:href="#cascade-arrow"></use>
+					</svg>
+				</a>
+			</div>
+			</div>
+</nav> 
+</div>
+         </section>
+      </div>
+      <div id="scroll-to-top"><scroll-to-top></scroll-to-top></div>
+    </main>
+  </div>
+  <aside class="activity-feed offset-top">
+            <div class="universal-block-wrapper"
+     style=" ; flex-grow: 1; ">
+    <div id="activity">
+    <div class="activity-feed__header">
+        <a href="//www.klerk.ru/comments/" class="relative activity-feed__rootlink">
+            Мнения
+                            <span class="notice-new notice-new--accent">
+					188
+				</span>
+                    </a>
+    </div>
+    <noindex>
+        <vue-scrollbar class="activity-feed__scrollzone klerk-scrollbar klerk-scrollbar--left" v-once>
+            <div class="activity-feed__body">
+                <div class="activity-feed__item-list">
+                                <div id="activitySite1061167" class="activity-item">
+        <div class="activity-item__header user online">
+            <user-activity-small
+                avatar="https://www.klerk.ru/ugc/userAvatar/0703bc0e7785e2f52e449f9c06a48764.jpeg"
+                                    :user-id="16989"
+                                item-author-url="/user/16989/"
+                item-author-name="ZZZhanna"
+                item-date="2023-02-20 13:36:38"
+            ></user-activity-small>
+        </div>
+        <a href="https://www.klerk.ru/buh/news/564516/#comment__1061167">
+            <div class="activity-item__message">
+                 Как вы себе представляете 90-летнюю бабку, сканирующую qr-код?   у меня маме по...
+            </div>
+            <div class="activity-item__source">
+                Экологи просят ФНС отказаться от бумажных чеков
+            </div>
+        </a>
+    </div>
+            <webinar-live></webinar-live>
+                <div id="activitySite1061166" class="activity-item">
+        <div class="activity-item__header user online">
+            <user-activity-small
+                avatar="https://www.klerk.ru/ugc/userAvatar/ava.png"
+                                    :user-id="2062588"
+                                item-author-url="/user/2062588/"
+                item-author-name="Крестик-нолик"
+                item-date="2023-02-20 13:31:44"
+            ></user-activity-small>
+        </div>
+        <a href="https://www.klerk.ru/buh/news/564755/#comment__1061166">
+            <div class="activity-item__message">
+                 ФНС открыла портал для пользователей электронных доверенностей  Интересно, а ко...
+            </div>
+            <div class="activity-item__source">
+                ФНС открыла портал для пользователей электронных д...
+            </div>
+        </a>
+    </div>
+                <div id="activitySite1061165" class="activity-item">
+        <div class="activity-item__header user online">
+            <user-activity-small
+                avatar="https://www.klerk.ru/ugc/userAvatar/b1722dab25e58b156c85d951bd2dfdd9.png"
+                                    :user-id="1951111"
+                                item-author-url="/user/1951111/"
+                item-author-name="VikaV2193"
+                item-date="2023-02-20 13:26:40"
+            ></user-activity-small>
+        </div>
+        <a href="https://www.klerk.ru/buh/news/564588/#comment__1061165">
+            <div class="activity-item__message">
+                 И я не думаю, что Кадыров, например, постесняется попросить денег  у Чечни с РФ...
+            </div>
+            <div class="activity-item__source">
+                ⛔ НДФЛ предложили убрать из ЕНП
+            </div>
+        </a>
+    </div>
+                <div id="activitySite1061164" class="activity-item">
+        <div class="activity-item__header user online">
+            <user-activity-small
+                avatar="https://www.klerk.ru/ugc/userAvatar/ava.png"
+                                    :user-id="1987754"
+                                item-author-url="/user/1987754/"
+                item-author-name="nastucha09"
+                item-date="2023-02-20 13:25:26"
+            ></user-activity-small>
+        </div>
+        <a href="https://www.klerk.ru/tribune/2119529/562164/#comment__1061164">
+            <div class="activity-item__message">
+                 Я пока еще не подавала, жду что будет в марте, время еще есть, не переживайте) 
+            </div>
+            <div class="activity-item__source">
+                Зачет - возврат средств ЕНС: документы утвержденны...
+            </div>
+        </a>
+    </div>
+                <div id="activitySite1061162" class="activity-item">
+        <div class="activity-item__header user online">
+            <user-activity-small
+                avatar="https://www.klerk.ru/ugc/userAvatar/ava.png"
+                                    :user-id="1987754"
+                                item-author-url="/user/1987754/"
+                item-author-name="nastucha09"
+                item-date="2023-02-20 13:23:41"
+            ></user-activity-small>
+        </div>
+        <a href="https://www.klerk.ru/tribune/2119529/562164/#comment__1061162">
+            <div class="activity-item__message">
+                 Перед тем, как подавать заявление уже должны быть деньги на счету. Срок в заявл...
+            </div>
+            <div class="activity-item__source">
+                Зачет - возврат средств ЕНС: документы утвержденны...
+            </div>
+        </a>
+    </div>
+                <div id="activitySite1061161" class="activity-item">
+        <div class="activity-item__header user online">
+            <user-activity-small
+                avatar="https://www.klerk.ru/ugc/userAvatar/b1722dab25e58b156c85d951bd2dfdd9.png"
+                                    :user-id="1951111"
+                                item-author-url="/user/1951111/"
+                item-author-name="VikaV2193"
+                item-date="2023-02-20 13:22:29"
+            ></user-activity-small>
+        </div>
+        <a href="https://www.klerk.ru/buh/news/564588/#comment__1061161">
+            <div class="activity-item__message">
+                 Даже никогда не задумывалась  Значит теоретическая возможность вляния у них ест...
+            </div>
+            <div class="activity-item__source">
+                ⛔ НДФЛ предложили убрать из ЕНП
+            </div>
+        </a>
+    </div>
+                <div id="activitySite1061160" class="activity-item">
+        <div class="activity-item__header user online">
+            <user-activity-small
+                avatar="https://www.klerk.ru/ugc/userAvatar/ava.png"
+                                    :user-id="2094530"
+                                item-author-url="/user/2094530/"
+                item-author-name="biyabem775"
+                item-date="2023-02-20 13:20:18"
+            ></user-activity-small>
+        </div>
+        <a href="https://www.klerk.ru/buh/news/564566/#comment__1061160">
+            <div class="activity-item__message">
+                 многие люди любят вставлять  лайфак звучит как собачьи свадьбы? а тетю Жанну по...
+            </div>
+            <div class="activity-item__source">
+                Госдума ограничила употребление иностранных слов
+            </div>
+        </a>
+    </div>
+                <div id="activitySite1061159" class="activity-item">
+        <div class="activity-item__header user online">
+            <user-activity-small
+                avatar="https://www.klerk.ru/ugc/userAvatar/4535e72f0ad06387876a64476ff24861.jpeg"
+                                    :user-id="27140"
+                                item-author-url="/user/27140/"
+                item-author-name="проза жизни"
+                item-date="2023-02-20 13:19:11"
+            ></user-activity-small>
+        </div>
+        <a href="https://www.klerk.ru/buh/news/564588/#comment__1061159">
+            <div class="activity-item__message">
+                 Почему так? Вы обижались прежде или у них свои какие-то странные установки?  Да...
+            </div>
+            <div class="activity-item__source">
+                ⛔ НДФЛ предложили убрать из ЕНП
+            </div>
+        </a>
+    </div>
+                <div id="activitySite1061158" class="activity-item">
+        <div class="activity-item__header user online">
+            <user-activity-small
+                avatar="https://www.klerk.ru/ugc/socialAvatar/d542bb86cf87897336814c5c0064e02c.jpeg"
+                                    :user-id="2119571"
+                                item-author-url="/user/2119571/"
+                item-author-name="buh@velcom76.ru"
+                item-date="2023-02-20 13:17:44"
+            ></user-activity-small>
+        </div>
+        <a href="https://www.klerk.ru/buh/news/564588/#comment__1061158">
+            <div class="activity-item__message">
+                 в общаг 
+            </div>
+            <div class="activity-item__source">
+                ⛔ НДФЛ предложили убрать из ЕНП
+            </div>
+        </a>
+    </div>
+                <div id="activitySite1061157" class="activity-item">
+        <div class="activity-item__header user online">
+            <user-activity-small
+                avatar="https://www.klerk.ru/ugc/userAvatar/b1722dab25e58b156c85d951bd2dfdd9.png"
+                                    :user-id="1951111"
+                                item-author-url="/user/1951111/"
+                item-author-name="VikaV2193"
+                item-date="2023-02-20 13:16:35"
+            ></user-activity-small>
+        </div>
+        <a href="https://www.klerk.ru/buh/news/564588/#comment__1061157">
+            <div class="activity-item__message">
+                 А мои будут тридцать лет подряд получать подарки, и, дабы не обидеть,   Почему ...
+            </div>
+            <div class="activity-item__source">
+                ⛔ НДФЛ предложили убрать из ЕНП
+            </div>
+        </a>
+    </div>
+                <div id="activitySite1061156" class="activity-item">
+        <div class="activity-item__header user online">
+            <user-activity-small
+                avatar="https://www.klerk.ru/ugc/userAvatar/ava.png"
+                                    :user-id="1990807"
+                                item-author-url="/user/1990807/"
+                item-author-name="АяАнна"
+                item-date="2023-02-20 13:16:27"
+            ></user-activity-small>
+        </div>
+        <a href="https://www.klerk.ru/buh/news/564588/#comment__1061156">
+            <div class="activity-item__message">
+                 ну 2% НДФЛ вводили же не с целью издевательства над бухгалтерами.    А вот все ...
+            </div>
+            <div class="activity-item__source">
+                ⛔ НДФЛ предложили убрать из ЕНП
+            </div>
+        </a>
+    </div>
+                <div id="activitySite1061155" class="activity-item">
+        <div class="activity-item__header user online">
+            <user-activity-small
+                avatar="https://www.klerk.ru/ugc/userAvatar/4535e72f0ad06387876a64476ff24861.jpeg"
+                                    :user-id="27140"
+                                item-author-url="/user/27140/"
+                item-author-name="проза жизни"
+                item-date="2023-02-20 13:13:55"
+            ></user-activity-small>
+        </div>
+        <a href="https://www.klerk.ru/buh/news/564588/#comment__1061155">
+            <div class="activity-item__message">
+                 У получателей моих подарков есть возможность влиять на дарителя  А мои будут тр...
+            </div>
+            <div class="activity-item__source">
+                ⛔ НДФЛ предложили убрать из ЕНП
+            </div>
+        </a>
+    </div>
+                <div id="activitySite1061154" class="activity-item">
+        <div class="activity-item__header user online">
+            <user-activity-small
+                avatar="https://www.klerk.ru/ugc/userAvatar/293fa8aaeede0bacd02a50ec2849ea29.jpg"
+                                    :user-id="45375"
+                                item-author-url="/user/45375/"
+                item-author-name="Мадама"
+                item-date="2023-02-20 13:11:53"
+            ></user-activity-small>
+        </div>
+        <a href="https://www.klerk.ru/buh/news/564588/#comment__1061154">
+            <div class="activity-item__message">
+                 Если пошли такие разговоры, то может над бухгалтерами сжалятся и додумаются до ...
+            </div>
+            <div class="activity-item__source">
+                ⛔ НДФЛ предложили убрать из ЕНП
+            </div>
+        </a>
+    </div>
+                <div id="activitySite1061153" class="activity-item">
+        <div class="activity-item__header user online">
+            <user-activity-small
+                avatar="https://www.klerk.ru/ugc/userAvatar/b1722dab25e58b156c85d951bd2dfdd9.png"
+                                    :user-id="1951111"
+                                item-author-url="/user/1951111/"
+                item-author-name="VikaV2193"
+                item-date="2023-02-20 13:08:45"
+            ></user-activity-small>
+        </div>
+        <a href="https://www.klerk.ru/buh/news/564588/#comment__1061153">
+            <div class="activity-item__message">
+                 Возможно не так, как нам бы хотелось.  Угу, в этом дело. В общем то и забота мо...
+            </div>
+            <div class="activity-item__source">
+                ⛔ НДФЛ предложили убрать из ЕНП
+            </div>
+        </a>
+    </div>
+                <div id="activitySite1061152" class="activity-item">
+        <div class="activity-item__header user online">
+            <user-activity-small
+                avatar="https://www.klerk.ru/ugc/userAvatar/4535e72f0ad06387876a64476ff24861.jpeg"
+                                    :user-id="27140"
+                                item-author-url="/user/27140/"
+                item-author-name="проза жизни"
+                item-date="2023-02-20 13:04:17"
+            ></user-activity-small>
+        </div>
+        <a href="https://www.klerk.ru/buh/news/564588/#comment__1061152">
+            <div class="activity-item__message">
+                 оно их не использует  Использует. Возможно не так, как нам бы хотелось...наприм...
+            </div>
+            <div class="activity-item__source">
+                ⛔ НДФЛ предложили убрать из ЕНП
+            </div>
+        </a>
+    </div>
+                    </div>
+            </div>
+        </vue-scrollbar>
+    </noindex>
+</div>
+</div>
+    </aside> </div>
+<footer id="footer" class="footer-other-page ">
+        <div class="footer-bottom">
+    <div class="footer-bottom__users-online">
+        <div class="fg-container-fluid">
+            <users-online></users-online>
+        </div>
+    </div>
+    <div class="footer-bottom__subscribe">
+        <div class="fg-container-fluid">
+            <klerk-subscribe-footer></klerk-subscribe-footer>
+        </div>
+    </div>
+    <footer-menu></footer-menu>
+    <ad-creative></ad-creative>
+</div>
+</footer><script src='/frontendcompiled/js/main.f00b6baa79ee487c57e4.js'></script>
+    <!-- Yandex.Metrika counter --> <script type="text/javascript" > (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(11340277, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, trackHash:true }); </script> <noscript><div><img src="https://mc.yandex.ru/watch/11340277" style="position:absolute; left:-9999px;" alt="Счетчик Яндекс" /></div></noscript> <!-- /Yandex.Metrika counter -->
+
+
+    <link href="https://klad.klerk.ru/klad.css?4" rel="stylesheet" type="text/css"/>
+    <script async src="https://klad.klerk.ru/klad.js?4"></script>
+    
+        <div id="slot-for-google"></div>
+        <script>
+            YaAuthSuggest.init(
+                {
+                    client_id: 'ae4d39de0a8949809c9279bc41649388',
+                    response_type: 'token',
+                    redirect_uri: 'https://www.klerk.ru/yindex.php/ya/set-token/'
+                },
+                'https://www.klerk.ru/yindex.php/ya/set-token'
+            )
+                .then(({handler}) => handler())
+                .catch(function (error) {
+                    document.getElementById('slot-for-google').innerHTML =
+                    `
+            <div id="g_id_onload"
+                data-client_id="910152107255-u405p9cci9mefbmqn503vm4i4cuqo1l0.apps.googleusercontent.com"
+                data-login_uri="https://www.klerk.ru/yindex.php/user/auth?authclient=google"
+                data-ux_mode="popup">
+            </div>
+    `
+                });
+        </script>
+    
+</body>
+</html>

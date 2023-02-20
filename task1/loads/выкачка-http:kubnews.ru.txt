@@ -1,0 +1,1191 @@
+<!DOCTYPE html>
+<html lang="ru" itemscope itemtype="http://schema.org/WebPage">
+<head>
+    <title>Кубанские новости — новости Краснодара и Краснодарского края</title>
+    <link rel="preload" href="/local/templates/.default/css/new_2/main.min.css?v=36" as="style">
+        <link rel="preload" href="https://an.yandex.ru/system/context.js" as="script">
+        
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1, user-scalable=yes">
+    <meta name="format-detection" content="telephone=no">
+    <meta http-equiv="x-rim-auto-match" content="none">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@kubnewsru">
+    <meta property="og:title" content="">
+    <meta name="twitter:title" content="">
+    <meta property="og:description" content="Новости Краснодарского края. Оперативная информация — актуальные материалы, фотоотчеты, статьи.">
+    <meta name="twitter:description" content="Новости Краснодарского края. Оперативная информация — актуальные материалы, фотоотчеты, статьи.">
+    <meta property="og:image:width" content="800">
+    <meta property="og:image:height" content="533">
+    <meta property="og:type" content="website">
+        <meta property="og:image" content="https://kubnews.ru/local/templates/.default/images/logo-big.png">
+    
+    
+    <meta name="google-site-verification" content="CBGuQMysiLx-NAWZqy2Tt0-6UulGBIFkdvMGHfFA4nw">
+    <meta name="ahrefs-site-verification" content="01b9a0b6a7ab7f76937a89edde5d77cd47cf2a4c4a732577d0c28320ea855a2d">
+    <meta name="yandex-verification" content="723301597b819744" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#b91d47">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="canonical" href="https://kubnews.ru" />
+<meta property="og:url" content="https://kubnews.ru" />    <!-- Google Tag Manager -->
+    <script data-skip-moving="true">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-TJ35F47');</script>
+    <!-- End Google Tag Manager -->
+    
+            <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="description" content="Новости Краснодарского края. Оперативная информация — актуальные материалы, фотоотчеты, статьи." />
+<script type="text/javascript" data-skip-moving="true">(function(w, d) {var v = w.frameCacheVars = {'CACHE_MODE':'HTMLCACHE','storageBlocks':[],'dynamicBlocks':{'y0XwfU':'7c74c6f3e50c','2DJmFo':'ce3175546cd5','ALOAcH':'5523c76320e2','LkGdQn':'9337fd37a35a'},'AUTO_UPDATE':true,'AUTO_UPDATE_TTL':'120','version':'2'};var inv = false;if (v.AUTO_UPDATE === false){if (v.AUTO_UPDATE_TTL && v.AUTO_UPDATE_TTL > 0){var lm = Date.parse(d.lastModified);if (!isNaN(lm)){var td = new Date().getTime();if ((lm + v.AUTO_UPDATE_TTL * 1000) >= td){w.frameRequestStart = false;w.preventAutoUpdate = true;return;}inv = true;}}else{w.frameRequestStart = false;w.preventAutoUpdate = true;return;}}var r = w.XMLHttpRequest ? new XMLHttpRequest() : (w.ActiveXObject ? new w.ActiveXObject("Microsoft.XMLHTTP") : null);if (!r) { return; }w.frameRequestStart = true;var m = v.CACHE_MODE; var l = w.location; var x = new Date().getTime();var q = "?bxrand=" + x + (l.search.length > 0 ? "&" + l.search.substring(1) : "");var u = l.protocol + "//" + l.host + l.pathname + q;r.open("GET", u, true);r.setRequestHeader("BX-ACTION-TYPE", "get_dynamic");r.setRequestHeader("X-Bitrix-Composite", "get_dynamic");r.setRequestHeader("BX-CACHE-MODE", m);r.setRequestHeader("BX-CACHE-BLOCKS", v.dynamicBlocks ? JSON.stringify(v.dynamicBlocks) : "");if (inv){r.setRequestHeader("BX-INVALIDATE-CACHE", "Y");}try { r.setRequestHeader("BX-REF", d.referrer || "");} catch(e) {}if (m === "APPCACHE"){r.setRequestHeader("BX-APPCACHE-PARAMS", JSON.stringify(v.PARAMS));r.setRequestHeader("BX-APPCACHE-URL", v.PAGE_URL ? v.PAGE_URL : "");}r.onreadystatechange = function() {if (r.readyState != 4) { return; }var a = r.getResponseHeader("BX-RAND");var b = w.BX && w.BX.frameCache ? w.BX.frameCache : false;if (a != x || !((r.status >= 200 && r.status < 300) || r.status === 304 || r.status === 1223 || r.status === 0)){var f = {error:true, reason:a!=x?"bad_rand":"bad_status", url:u, xhr:r, status:r.status};if (w.BX && w.BX.ready && b){BX.ready(function() {setTimeout(function(){BX.onCustomEvent("onFrameDataRequestFail", [f]);}, 0);});}w.frameRequestFail = f;return;}if (b){b.onFrameDataReceived(r.responseText);if (!w.frameUpdateInvoked){b.update(false);}w.frameUpdateInvoked = true;}else{w.frameDataString = r.responseText;}};r.send();var p = w.performance;if (p && p.addEventListener && p.getEntries && p.setResourceTimingBufferSize){var e = 'resourcetimingbufferfull';var h = function() {if (w.BX && w.BX.frameCache && w.BX.frameCache.frameDataInserted){p.removeEventListener(e, h);}else {p.setResourceTimingBufferSize(p.getEntries().length + 50);}};p.addEventListener(e, h);}})(window, document);</script>
+<script type="text/javascript" data-skip-moving="true">(function(w, d, n) {var cl = "bx-core";var ht = d.documentElement;var htc = ht ? ht.className : undefined;if (htc === undefined || htc.indexOf(cl) !== -1){return;}var ua = n.userAgent;if (/(iPad;)|(iPhone;)/i.test(ua)){cl += " bx-ios";}else if (/Windows/i.test(ua)){cl += ' bx-win';}else if (/Macintosh/i.test(ua)){cl += " bx-mac";}else if (/Linux/i.test(ua) && !/Android/i.test(ua)){cl += " bx-linux";}else if (/Android/i.test(ua)){cl += " bx-android";}cl += (/(ipad|iphone|android|mobile|touch)/i.test(ua) ? " bx-touch" : " bx-no-touch");cl += w.devicePixelRatio && w.devicePixelRatio >= 2? " bx-retina": " bx-no-retina";var ieVersion = -1;if (/AppleWebKit/.test(ua)){cl += " bx-chrome";}else if (/Opera/.test(ua)){cl += " bx-opera";}else if (/Firefox/.test(ua)){cl += " bx-firefox";}ht.className = htc ? htc + " " + cl : cl;})(window, document, navigator);</script>
+
+
+
+
+
+
+
+
+
+    <style nonce="c277f2626c">
+        @import url('https://fonts.googleapis.com/css?family=Roboto:400,400i,500,500i,700,700i&display=swap&subset=cyrillic');
+    </style>
+    <link rel="stylesheet" href="/local/templates/.default/css/new_2/main.min.css?v=36" media="all">
+        
+    <script data-skip-moving="true">window.yaContextCb=window.yaContextCb||[]</script>
+    <script data-skip-moving="true" src="https://yandex.ru/ads/system/context.js" async></script>
+    <script data-skip-moving="true" async src="https://jsn.24smi.net/smi.js"></script>
+</head>
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TJ35F47" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div style="display: none;"><img src="/local/templates/.default/images/LogoKN_300x300-min.png" alt="Кубанские Новости" title="Кубанские Новости" width="300" height="300" loading="lazy"></div>
+        <div class="wrapper"> 
+        <header class="header header_need_scroll-js">
+            <div class="header__center">
+                <div class="header__header clearfix">
+                    <a href="/" class="header__logo">
+                        <img src="/local/templates/.default/images/svg/logo.svg" alt="Кубанские Новости" width="262" height="40" loading="lazy">
+                                            </a>
+                    <div class="header__social">
+                        <div class="social">
+                            <a href="https://vk.com/public85425388" target="_blank" class="socialicon-vk">Вконтакте</a>                                                                                    <a href="https://ok.ru/group/53403157856380" target="_blank" class="socialicon-ok">Одноклассники</a>                                                        <a href="https://t.me/kub_news_ru" target="_blank" class="socialicon-telegram">Telegram</a>                        </div>
+                    </div>
+                </div>
+                <div class="header__footer">
+                    <div class="header__navigation">
+                        <div class="header__burger"> 
+                            <a href="#" class="burger burger-js opacity">
+                                Открыть меню
+                                <span class="burger__lines">
+                                    <span class="burger__1"></span>
+                                    <span class="burger__2"></span>
+                                    <span class="burger__3"></span>
+                                </span>
+                                <span style="display:none;">Меню</span>
+                            </a>
+                        </div>
+                        <ul class="navigation">
+    <li><a href="/all/?type=news">Все новости</a></li>
+                    <li class="nav-0">
+            <a href="/obshchestvo/">Общество</a>
+        </li>
+                            <li class="nav-1">
+            <a href="/vlast/">Власть</a>
+        </li>
+                            <li class="nav-2">
+            <a href="/ekonomika/">Экономика</a>
+        </li>
+                            <li class="nav-3">
+            <a href="/proisshestviya/">Происшествия</a>
+        </li>
+                            <li class="nav-4">
+            <a href="/sport/">Спорт</a>
+        </li>
+                                        <li class="nav-6">
+            <a href="/turizm/">Туризм</a>
+        </li>
+                <li class="navigation__special">
+        <a href="/konkursy/">Спецпроекты</a>
+    </li>
+    </ul>                    </div>
+                    <div class="header__searchbtn">
+                        <a href="#" class="search__btn search__btn-js"><span>Поиск по сайту</span><i></i></a>
+                    </div>
+                </div>
+                <div class="header__usershar">
+                    <div class="useshar">
+                                                <div class="useshar__shareds">
+                            <div class="shareds">
+                                <span class="shareds__text">Поделиться:</span>
+                                <div class="ya-share2 useshar__shareds" data-services="vkontakte,odnoklassniki,telegram,whatsapp,viber"></div>
+                            </div>
+                        </div>
+                    </div> 
+                </div>
+                <div class="header__search">
+                    <form action="/poisk/" class="search">
+                        <label class="search__text">Поиск по сайту</label>
+                        <div class="search__group">
+                            <input type="text" name="q" class="search__input" placeholder="Введите ключевое слово">
+                        </div>
+                        <a href="#" class="search__close search__close-js"><span>Закрыть</span><i></i></a>
+                        <button type="submit" class="btn btn_red btn_inline search__submit">Найти</button>
+                    </form>
+                </div>
+            </div>
+            <div></div>
+        </header>
+                    <div class="advert adheight-js">
+                <div id="bxdynamic_y0XwfU_start" style="display:none"></div>                    <a href="#" class="advert__close">
+                            <img data-id="" src="/local/templates/.default/images/svg/close.svg" alt="Закрыfть" style="width: 32px; margin: -8px;">
+                    </a>
+                <div class="ad__h200">
+<div id="adfox_166497194983424640"></div>
+
+</div>        <div id="bxdynamic_y0XwfU_end" style="display:none"></div>            </div>
+                <div class="main"></div>
+        <style>
+            #adfox_166497194983424640{
+                height: 200px;
+                margin: 0 -10px;
+            }
+            #adfox_166497194983424640 > iframe{
+                height: 200px;
+                display: block !important;
+                border: 0;
+            }
+        </style><div class="grid grid-main">
+	<div class="center">
+        <div class="row clearfix">
+            <style>
+                .covid19-wrap{
+                    padding-top: 0;
+                    padding-bottom: 32px;
+                }
+                .covid19{
+                    display: block;
+                    text-align: center;
+                    text-transform: uppercase;
+                    font-size: 18px;
+                    line-height: 33px;
+                    background: #f7d11d;
+                    color: #000000;
+                    text-decoration: none;
+                    transition: all .3s ease;
+                    padding: 14px 16px;
+                }
+                .covid19:hover{
+                    color: #ffffff;
+                    text-decoration: none;
+                    background: #f7701d;
+                    padding: 22px 24px;
+                    margin: -8px;
+                }
+                .covid19 span{
+                    color: #790000;
+                }
+                .covid19-icon{
+                    display: inline-block;
+                    height: 33px;
+                    width: 33px;
+                    margin-right: 14px;
+                    vertical-align: middle;
+                    background: url(/local/templates/.default/images/corona19.svg) no-repeat 50% 50%;
+                    background-size: 33px auto;
+                }
+                @media(max-width:444px){
+                    .covid19{
+                        font-size: 12px;
+                        padding: 10px 8px;
+                        line-height: 20px;
+                    }
+                    .covid19:hover{
+                        padding: 18px 16px;
+                    }
+                    .covid19-icon{
+                        height: 20px;
+                        width: 20px;
+                        margin-right: 10px;
+                        background-size: 20px auto;
+                    }
+                }
+                .kkrai-wrap .kkrai, .kkrai-wrap .kkrai:hover{
+                    color: #fff;
+                    background: -moz-linear-gradient(top,  #2a3f9d 0%, #2a3f9d 31%, #ec008c 31%, #ec008c 69%, #26b255 69%, #26b255 100%); /* FF3.6-15 */
+                    background: -webkit-linear-gradient(top,  #2a3f9d 0%,#2a3f9d 31%,#ec008c 31%,#ec008c 69%,#26b255 69%,#26b255 100%); /* Chrome10-25,Safari5.1-6 */
+                    background: linear-gradient(to bottom,  #2a3f9d 0%,#2a3f9d 31%,#ec008c 31%,#ec008c 69%,#26b255 69%,#26b255 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+                    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2a3f9d', endColorstr='#26b255',GradientType=0 ); /* IE6-9 */
+                }
+                /*.kurort-wrap{
+                    padding-top: 8px;
+                    padding-bottom: 16px;
+                }
+                .kurort{
+                    background: #1374f6;
+                    color: #fff;
+                }
+                .kurort:hover{
+                    background: #053492;
+                }
+                .kurort span{
+                    color: #26e8ff;
+                }
+                .kurort-icon{
+                    background-image: url(/local/templates/.default/images/kurort-icon.svg);
+                }
+                @media(max-width:767px){
+                    .kurort-wrap{
+                        padding-bottom: 16px;
+                    }
+                }*/
+                #adfox_16649709005275823, #adfox_16636685936312196{
+                    height: 100%;
+                    min-height: 300px;
+                }
+                #adfox_16649709005275823 > iframe, #adfox_16636685936312196 > iframe{
+                    height: 100%;
+                    min-height: 300px;
+                    display: block !important;
+                    border: 0;
+                    width: 100%;
+                }
+            </style>
+                    </div>
+		<div class="row clearfix">
+			<div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 grid__item" style="max-height:545px;">
+    <div class="">
+        <a href="/obshchestvo/2023/02/20/novyy-nasos-dlya-otkachki-livnevykh-vod-zapustili-na-ulitse-moskovskoy-v-krasnodare/" class="card card_first card_full card_full_content_down card_main">
+                        <div class="card__substrate">
+                <div class="card__substratefull" style="background-image:url(/upload/iblock/ed7/spupetiayskraatloqgy6kdjgjwflz0f.png)"></div>
+                            </div>
+            <div class="card__box">
+                <div class="card__photo">
+                                            <img src="/upload/iblock/ed7/spupetiayskraatloqgy6kdjgjwflz0f.png" loading="lazy" title="Новый насос для откачки ливневых вод запустили на улице Московской в Краснодаре" alt="Новый насос для откачки ливневых вод запустили на улице Московской в Краснодаре">
+                                    </div>
+                <div class="card__content">
+                    <div class="card__info">
+                                                <span role="link" data-href="/obshchestvo/" class="card__tag">Общество</span>
+                        <span class="card__date">24 минуты назад</span>
+                    </div>
+                    <div class="card__description-wrap">
+                        <div class="card__description">Новый насос для откачки ливневых вод запустили на улице Московской в Краснодаре</div>
+                    </div>
+                </div>
+            </div>
+        </a>
+    </div>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 grid__item lent-main-news" style="max-height: 545px;">
+    <div class="">
+        <div class="band band_main">
+            <div class="band__header">
+                <h1 class="band__title"><a href="/all/?type=news">ЛЕНТА НОВОСТЕЙ</a></h1>
+            </div>
+            <div class="band__content band-js">
+                <div class="band__list">
+                                            <div class="band__item">
+                            <div class="band__info">
+                                <a href="/sport/" class="band__tag tag">Спорт</a>
+                                <span class="band__date">4 минуты назад</span>
+                            </div>
+                            <a href="/sport/2023/02/20/yuniorskaya-spartakiada-molodezhi-2023-goda-startuet-v-krasnodarskom-krae/" class="band__link">
+                                Юниорская Спартакиада молодежи 2023 года стартует в Краснодарском крае                            </a>
+                        </div>
+                                            <div class="band__item">
+                            <div class="band__info">
+                                <a href="/proisshestviya/" class="band__tag tag">Происшествия</a>
+                                <span class="band__date">24 минуты назад</span>
+                            </div>
+                            <a href="/proisshestviya/2023/02/20/v-sochi-politsiya-proveryaet-informatsiyu-o-zhestokom-izbienii-pokupatelyami-prodavtsa-magnita/" class="band__link">
+                                В Сочи полиция проверяет информацию о жестоком избиении покупателями продавца «Магнита»                            </a>
+                        </div>
+                                            <div class="band__item">
+                            <div class="band__info">
+                                <a href="/obshchestvo/" class="band__tag tag">Общество</a>
+                                <span class="band__date">35 минут назад</span>
+                            </div>
+                            <a href="/obshchestvo/2023/02/20/shkolniki-krasnodarskogo-kraya-primut-uchastie-v-onlayn-olimpiade-po-okruzhayushchemu-miru-i-ekologi/" class="band__link">
+                                Школьники Краснодарского края примут участие в онлайн-олимпиаде по окружающему миру и экологии                            </a>
+                        </div>
+                                            <div class="band__item">
+                            <div class="band__info">
+                                <a href="/obshchestvo/" class="band__tag tag">Общество</a>
+                                <span class="band__date">42 минуты назад</span>
+                            </div>
+                            <a href="/obshchestvo/2023/02/20/v-ekaterininskoy-gimnazii-36-poyavilas-parta-geroya/" class="band__link">
+                                В Екатерининской гимназии №36 появилась «Парта героя»                            </a>
+                        </div>
+                                            <div class="band__item">
+                            <div class="band__info">
+                                <a href="/obshchestvo/" class="band__tag tag">Общество</a>
+                                <span class="band__date">50 минут назад</span>
+                            </div>
+                            <a href="/obshchestvo/2023/02/20/reka-afips-v-severskom-rayone-podnyalas-do-opasnoy-otmetki/" class="band__link">
+                                Река Афипс в Северском районе поднялась до опасной отметки                            </a>
+                        </div>
+                                            <div class="band__item">
+                            <div class="band__info">
+                                <a href="/obshchestvo/" class="band__tag tag">Общество</a>
+                                <span class="band__date">сегодня, 12:35</span>
+                            </div>
+                            <a href="/obshchestvo/2023/02/20/zamerz-i-naskvoz-promok-v-sochi-spasateli-evakuirovali-zabludivshegosya-turista-iz-zasnezhennogo-les/" class="band__link">
+                                Замерз и насквозь промок: в Сочи спасатели эвакуировали заблудившегося туриста из заснеженного леса                            </a>
+                        </div>
+                                            <div class="band__item">
+                            <div class="band__info">
+                                <a href="/proisshestviya/" class="band__tag tag">Происшествия</a>
+                                <span class="band__date">сегодня, 12:22</span>
+                            </div>
+                            <a href="/proisshestviya/2023/02/20/podarochnaya-korobka-vzorvalas-u-litsa-22-letney-zhitelnitsy-moskvy/" class="band__link">
+                                Подарочная коробка взорвалась у лица 22-летней жительницы Москвы                            </a>
+                        </div>
+                                            <div class="band__item">
+                            <div class="band__info">
+                                <a href="/obshchestvo/" class="band__tag tag">Общество</a>
+                                <span class="band__date">сегодня, 12:21</span>
+                            </div>
+                            <a href="/obshchestvo/2023/02/20/1-marta-na-kubani-provedut-planovuyu-proverku-sistem-opoveshcheniya/" class="band__link">
+                                1 марта на Кубани проведут плановую проверку систем оповещения                            </a>
+                        </div>
+                                            <div class="band__item">
+                            <div class="band__info">
+                                <a href="/proisshestviya/" class="band__tag tag">Происшествия</a>
+                                <span class="band__date">сегодня, 12:15</span>
+                            </div>
+                            <a href="/proisshestviya/2023/02/20/v-armavire-eks-chinovniki-oshtrafovany-za-sgovor-pri-zakupkakh/" class="band__link">
+                                В Армавире экс-чиновники оштрафованы за сговор при закупках                            </a>
+                        </div>
+                                            <div class="band__item">
+                            <div class="band__info">
+                                <a href="/obshchestvo/" class="band__tag tag">Общество</a>
+                                <span class="band__date">сегодня, 11:52</span>
+                            </div>
+                            <a href="/obshchestvo/2023/02/20/sochi-zanyal-pervoe-mesto-po-rannim-bronirovaniyam-aviabiletov-na-leto/" class="band__link">
+                                Сочи занял первое место по ранним бронированиям авиабилетов на лето                            </a>
+                        </div>
+                                            <div class="band__item">
+                            <div class="band__info">
+                                <a href="/proisshestviya/" class="band__tag tag">Происшествия</a>
+                                <span class="band__date">сегодня, 11:33</span>
+                            </div>
+                            <a href="/proisshestviya/2023/02/20/prigranichnye-poselki-v-kurskoy-i-belgorodskoy-oblastyakh-popali-pod-obstrel-vsu-/" class="band__link">
+                                Приграничные поселки в Курской и Белгородской областях попали под обстрел ВСУ                             </a>
+                        </div>
+                                            <div class="band__item">
+                            <div class="band__info">
+                                <a href="/proisshestviya/" class="band__tag tag">Происшествия</a>
+                                <span class="band__date">сегодня, 11:24</span>
+                            </div>
+                            <a href="/proisshestviya/2023/02/20/bastrykin-poruchil-proverit-informatsiyu-o-napadenii-bezdomnykh-sobak-na-krasnodartsa/" class="band__link">
+                                Бастрыкин поручил проверить информацию о нападении бездомных собак на краснодарца                            </a>
+                        </div>
+                                            <div class="band__item">
+                            <div class="band__info">
+                                <a href="/obshchestvo/" class="band__tag tag">Общество</a>
+                                <span class="band__date">сегодня, 11:21</span>
+                            </div>
+                            <a href="/obshchestvo/2023/02/20/dan-start-regionalnomu-etapu-vserossiyskogo-konkursa-programmy-100-luchshikh-tovarov-rossii-2023-god/" class="band__link">
+                                Дан старт региональному этапу Всероссийского конкурса программы «100 лучших товаров России» 2023 года                            </a>
+                        </div>
+                                            <div class="band__item">
+                            <div class="band__info">
+                                <a href="/obshchestvo/" class="band__tag tag">Общество</a>
+                                <span class="band__date">сегодня, 11:11</span>
+                            </div>
+                            <a href="/obshchestvo/2023/02/20/v-krasnodarskom-krae-za-sutki-vyyavili-87-sluchaev-koronavirusa/" class="band__link">
+                                В Краснодарском крае за сутки выявили 87 случаев коронавируса                            </a>
+                        </div>
+                                            <div class="band__item">
+                            <div class="band__info">
+                                <a href="/obshchestvo/" class="band__tag tag">Общество</a>
+                                <span class="band__date">сегодня, 11:09</span>
+                            </div>
+                            <a href="/obshchestvo/2023/02/20/bolshuyu-chast-gornolyzhnykh-trass-pod-sochi-zakryli-iz-za-lavinoopasnosti/" class="band__link">
+                                Большую часть горнолыжных трасс под Сочи закрыли из-за лавиноопасности                            </a>
+                        </div>
+                                    </div>
+                <div class="band__footer">
+                    <a href="/all/?type=news" class="btn btn_red btn_inline">Смотреть все</a>
+                </div>
+            </div>
+        </div>  
+    </div>
+</div>
+		</div>
+        <div class="row">
+            <div class="covid19-wrap col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <a href="/all/?tag=koronavirus" class="covid19"><span class="covid19-icon"></span>Коронавирус на Кубани. <span>Главное</span></a>
+            </div>
+        </div>
+        <div class="row clearfix">
+            <div id="bxdynamic_2DJmFo_start" style="display:none"></div>            <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 grid__item static-banner">
+            <div class="">
+                <div id="adfox_16649709005275823"></div>
+            </div>
+        </div>
+    <div id="bxdynamic_2DJmFo_end" style="display:none"></div>                                                    <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 grid__item">
+                <div class="">
+                    <a href="/proisshestviya/2023/02/20/stali-izvestny-podrobnosti-dtp-na-krymskom-mostu-s-tremya-pogibshimi/" class="card card_simple">
+                        <div class="card__substrate"></div>
+                        <div class="card__box">
+                                                        <div class="card__photo">
+                                                                                                    <img src="/upload/resize_cache/iblock/c60/400_272_2/es4fw3dmjnx1kw1g0cx012qq6insx7l3.jpg" loading="lazy" title="Стали известны подробности ДТП на Крымском мосту с тремя погибшими" alt="Стали известны подробности ДТП на Крымском мосту с тремя погибшими">
+                                                            </div>
+                            <div class="card__content">
+                                <div class="card__info">
+                                                                        <span role="link" data-href="/proisshestviya/" class="card__tag">Происшествия</span>
+                                    <span class="card__date">сегодня, 10:35</span>
+                                </div>
+                                <div class="card__description">Стали известны подробности ДТП на Крымском мосту с тремя погибшими</div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+                                                        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 grid__item">
+                <div class="">
+                    <a href="/obshchestvo/2023/02/20/grozovye-livni-i-silnyy-veter-vnov-obrushatsya-na-krasnodarskiy-kray/" class="card card_full card_full_content_down">
+                        <div class="card__substrate">
+                                                        <div class="card__substratefull" style="background-image:url(/upload/resize_cache/iblock/fb8/608_410_2/3yjj83yo333xi2fbifcgc1503n95yyad.jpg)"></div>
+                        </div>
+                        <div class="card__box">
+                            <div class="card__photo">
+                                                                                                    <img src="/upload/resize_cache/iblock/fb8/608_410_2/3yjj83yo333xi2fbifcgc1503n95yyad.jpg" loading="lazy" title="Грозовые ливни и сильный ветер вновь обрушатся на Краснодарский край" alt="Грозовые ливни и сильный ветер вновь обрушатся на Краснодарский край">
+                                                            </div>
+                            <div class="card__content">
+                                <div class="card__info">
+                                                                        <span role="link" data-href="/obshchestvo/" class="card__tag">Общество</span>
+                                    <span class="card__date">сегодня, 10:01</span>
+                                </div>
+                                <div class="card__description-wrap">
+                                    <div class="card__description">Грозовые ливни и сильный ветер вновь обрушатся на Краснодарский край</div>
+                                </div>
+                            </div>
+                        </div> 
+                    </a>
+                </div>
+            </div>
+                                                </div>
+            <div class="row clearfix">
+                            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 grid__item">
+                <div class="">
+                    <a href="/obshchestvo/2023/02/20/v-rossii-predlozhili-vvesti-edinyy-zakon-o-tishine/" class="card card_simple">
+                        <div class="card__substrate"></div>
+                        <div class="card__box">
+                                                        <div class="card__photo">
+                                                                                                    <img src="/upload/resize_cache/iblock/37c/400_272_2/ajet3zzl8wff8ds6d03jmqjjj9a84m20.jpeg" loading="lazy" title="В России предложили ввести единый закон о тишине" alt="В России предложили ввести единый закон о тишине">
+                                                            </div>
+                            <div class="card__content">
+                                <div class="card__info">
+                                                                        <span role="link" data-href="/obshchestvo/" class="card__tag">Общество</span>
+                                    <span class="card__date">сегодня, 09:31</span>
+                                </div>
+                                <div class="card__description">В России предложили ввести единый закон о тишине</div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+                                                        <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 grid__item">
+                <div class="">
+                    <a href="/obshchestvo/2023/02/20/sugroby-vyshe-trekh-s-polovinoy-metrov-moshchnyy-snegopad-obrushilsya-na-gornye-sklony-pod-sochi/" class="card card_simple">
+                        <div class="card__substrate"></div>
+                        <div class="card__box">
+                                                        <div class="card__photo">
+                                                                                                    <img src="/upload/resize_cache/iblock/a96/400_272_2/y9vjfbo29zz8nixvsqgyspeqkwdj43gn.png" loading="lazy" title="Сугробы - выше трех с половиной метров: мощный снегопад обрушился на горные склоны под Сочи" alt="Сугробы - выше трех с половиной метров: мощный снегопад обрушился на горные склоны под Сочи">
+                                                            </div>
+                            <div class="card__content">
+                                <div class="card__info">
+                                                                        <span role="link" data-href="/obshchestvo/" class="card__tag">Общество</span>
+                                    <span class="card__date">сегодня, 09:03</span>
+                                </div>
+                                <div class="card__description">Сугробы - выше трех с половиной метров: мощный снегопад обрушился на горные склоны под Сочи</div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+                                                        <div id="bxdynamic_ALOAcH_start" style="display:none"></div>            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 grid__item static-banner">
+            <div class="">
+                <div id="adfox_16636685936312196"></div>
+            </div>
+        </div>
+    <div id="bxdynamic_ALOAcH_end" style="display:none"></div>                                                                                                                                                                                                                                        </div>
+                <div class="row clearfix">
+                    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 grid__item">
+            <div class="">
+                <a href="/obshchestvo/2023/02/19/v-krasnodare-i-krae-ozhidaetsya-nenastnaya-pogoda-s-silnymi-osadkami-i-vetrom/" class="card card_simple">
+                    <div class="card__substrate"></div>
+                    <div class="card__box">
+                                                <div class="card__photo">
+                                                                                        <img src="/upload/resize_cache/iblock/962/400_272_2/0cvqtgwp3m10u46bcrv8uarf5nqltvt2.jpg" loading="lazy" title="В Краснодаре и крае ожидается ненастная погода с сильными осадками и ветром" alt="В Краснодаре и крае ожидается ненастная погода с сильными осадками и ветром">
+                                                    </div>
+                        <div class="card__content">
+                            <div class="card__info">
+                                                                <span role="link" data-href="/obshchestvo/" class="card__tag">Общество</span>
+                                <span class="card__date">вчера, 09:00</span>
+                            </div>
+                            <div class="card__description">В Краснодаре и крае ожидается ненастная погода с сильными осадками и ветром</div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+                    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 grid__item">
+            <div class="">
+                <a href="/obshchestvo/2023/02/18/na-kurortakh-krasnodarskogo-kraya-provedut-maslenichnuyu-nedelyu/" class="card card_simple">
+                    <div class="card__substrate"></div>
+                    <div class="card__box">
+                                                <div class="card__photo">
+                                                                                        <img src="/upload/resize_cache/iblock/939/400_272_2/cjc720qx28o86o1898pc25ktn3m1jzzq.jpg" loading="lazy" title="На курортах Краснодарского края проведут масленичную неделю" alt="На курортах Краснодарского края проведут масленичную неделю">
+                                                    </div>
+                        <div class="card__content">
+                            <div class="card__info">
+                                                                <span role="link" data-href="/obshchestvo/" class="card__tag">Общество</span>
+                                <span class="card__date">18.02.2023 16:12</span>
+                            </div>
+                            <div class="card__description">На курортах Краснодарского края проведут масленичную неделю</div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+                    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 grid__item">
+            <div class="">
+                <a href="/obshchestvo/2023/02/18/dlya-krasnodartsev-sozdali-onlayn-marshruty-po-glavnym-dostoprimechatelnostyam-goroda/" class="card card_simple">
+                    <div class="card__substrate"></div>
+                    <div class="card__box">
+                                                <div class="card__photo">
+                                                                                        <img src="/upload/resize_cache/iblock/387/400_272_2/2cson750jup7f2zvhy3km5j66fhg1625.jpg" loading="lazy" title="Для краснодарцев создали онлайн-маршруты по главным достопримечательностям города" alt="Для краснодарцев создали онлайн-маршруты по главным достопримечательностям города">
+                                                    </div>
+                        <div class="card__content">
+                            <div class="card__info">
+                                                                <span role="link" data-href="/obshchestvo/" class="card__tag">Общество</span>
+                                <span class="card__date">18.02.2023 13:50</span>
+                            </div>
+                            <div class="card__description">Для краснодарцев создали онлайн-маршруты по главным достопримечательностям города</div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+            </div>
+<div class="row clearfix">
+                    
+                    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 grid__item">
+                <div class="">
+                    <a href="/obshchestvo/2023/02/17/vremya-zastyvshee-v-kamne-v-krasnodare-proshla-vystavka-posvyashchennaya-istorii-kirpicha/" class="card card_full card_full_content_down">
+                        <div class="card__substrate">
+                                                        <div class="card__substratefull" style="background-image:url(/upload/resize_cache/iblock/848/608_410_2/ixijb9kwzlzrv0felb9al55keohtq8zb.jpeg)"></div>
+                        </div>
+                        <div class="card__box">
+                            <div class="card__photo">
+                                                                                                    <img src="/upload/resize_cache/iblock/848/608_410_2/ixijb9kwzlzrv0felb9al55keohtq8zb.jpeg" loading="lazy" title="Время, застывшее в камне: в Краснодаре прошла выставка, посвященная истории кирпича" alt="Время, застывшее в камне: в Краснодаре прошла выставка, посвященная истории кирпича">
+                                                            </div>
+                            <div class="card__content">
+                                <div class="card__info">
+                                                                        <span role="link" data-href="/obshchestvo/" class="card__tag">Общество</span>
+                                    <span class="card__date">17.02.2023 15:45</span>
+                                </div>
+                                <div class="card__description-wrap">
+                                    <div class="card__description">Время, застывшее в камне: в Краснодаре прошла выставка, посвященная истории кирпича</div>
+                                </div>
+                            </div>
+                        </div> 
+                    </a>
+                </div>
+            </div>
+                                        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 grid__item">
+                <div class="">
+        
+                    <a href="/obshchestvo/2023/02/16/generalnaya-uborka-dlya-svalki-na-musornom-poligone-gelendzhika-nachalas-rekultivatsiya/" class="card card_compact">
+                <div class="card__substrate">
+                                    </div>
+                <div class="card__box">
+                    <div class="card__content">
+                        <div class="card__info">
+                                                        <span role="link" data-href="/obshchestvo/" class="card__tag">Общество</span>
+                            <span class="card__date">16.02.2023 16:36</span>
+                        </div>
+                        <div class="card__description">Генеральная уборка для свалки: ﻿на мусорном полигоне Геленджика началась рекультивация</div>
+                    </div>
+                </div> 
+            </a>
+                            
+                    <a href="/obshchestvo/2023/02/15/goroskop-krasoty-i-zdorovya-na-fevral/" class="card card_compact">
+                <div class="card__substrate">
+                                    </div>
+                <div class="card__box">
+                    <div class="card__content">
+                        <div class="card__info">
+                                                        <span role="link" data-href="/obshchestvo/" class="card__tag">Общество</span>
+                            <span class="card__date">15.02.2023 13:59</span>
+                        </div>
+                        <div class="card__description">Гороскоп красоты и здоровья на февраль</div>
+                    </div>
+                </div> 
+            </a>
+                                            </div>
+            </div>
+        
+                    <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 grid__item">
+                <div class="">
+                    <a href="/obshchestvo/2023/02/15/vremya-virusov-sem-prostykh-sovetov-kak-ne-zabolet-zimoy/" class="card card_simple">
+                        <div class="card__substrate"></div>
+                        <div class="card__box">
+                                                        <div class="card__photo">
+                                                                                                    <img src="/upload/resize_cache/iblock/486/400_272_2/uhi9sl1ppbrmyhamfthn6fdhzsu79q3l.jpg" loading="lazy" title="Время вирусов. Семь простых советов, как не заболеть зимой" alt="Время вирусов. Семь простых советов, как не заболеть зимой">
+                                                            </div>
+                            <div class="card__content">
+                                <div class="card__info">
+                                                                        <span role="link" data-href="/obshchestvo/" class="card__tag">Общество</span>
+                                    <span class="card__date">15.02.2023 09:50</span>
+                                </div>
+                                <div class="card__description">Время вирусов. Семь простых советов, как не заболеть зимой</div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+                                        </div>
+            <div class="row clearfix">
+        
+                    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 grid__item">
+                <div class="">
+                    <a href="/obshchestvo/2023/02/10/gromche-slov-blagotvoritelnyy-fond-kray-dobra-zapustil-proekt-pomoshchi-detyam-s-narusheniyami-rechi/" class="card card_simple">
+                        <div class="card__substrate"></div>
+                        <div class="card__box">
+                                                        <div class="card__photo">
+                                                                                                    <img src="/upload/resize_cache/iblock/bf4/400_272_2/p1cidh0obmakbf7zj3ilx4vq82oie10d.JPG" loading="lazy" title="«Громче слов»: ﻿благотворительный фонд «Край добра» запустил проект помощи детям с нарушениями речи" alt="«Громче слов»: ﻿благотворительный фонд «Край добра» запустил проект помощи детям с нарушениями речи">
+                                                            </div>
+                            <div class="card__content">
+                                <div class="card__info">
+                                                                        <span role="link" data-href="/obshchestvo/" class="card__tag">Общество</span>
+                                    <span class="card__date">10.02.2023 14:47</span>
+                                </div>
+                                <div class="card__description">«Громче слов»: ﻿благотворительный фонд «Край добра» запустил проект помощи детям с нарушениями речи</div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+                            
+                    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 grid__item">
+                <div class="">
+                    <a href="/obshchestvo/2023/02/07/ty-menya-rabotushka-ne-boysya-ya-tebya-ne-tronu/" class="card card_simple">
+                        <div class="card__substrate"></div>
+                        <div class="card__box">
+                                                        <div class="card__photo">
+                                                                                                    <img src="/upload/resize_cache/iblock/153/400_272_2/mjpgohcn21baihgj2nccn4wvvfjxsa9x.jpg" loading="lazy" title="Ты меня, работушка, не бойся: я тебя не трону" alt="Ты меня, работушка, не бойся: я тебя не трону">
+                                                            </div>
+                            <div class="card__content">
+                                <div class="card__info">
+                                                                        <span role="link" data-href="/obshchestvo/" class="card__tag">Общество</span>
+                                    <span class="card__date">07.02.2023 17:18</span>
+                                </div>
+                                <div class="card__description">Ты меня, работушка, не бойся: я тебя не трону</div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+                            
+                    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 grid__item">
+                <div class="">
+                    <a href="/obshchestvo/2023/02/06/bezopasnykh-lekarstv-ne-sushchestvuet-chem-opasno-samolechenie/" class="card card_simple">
+                        <div class="card__substrate"></div>
+                        <div class="card__box">
+                                                        <div class="card__photo">
+                                                                                                    <img src="/upload/resize_cache/iblock/8f8/400_272_2/jsuqswgve7y36ju4puitm44pshaf070b.jpg" loading="lazy" title="Безопасных лекарств не существует: чем опасно самолечение" alt="Безопасных лекарств не существует: чем опасно самолечение">
+                                                            </div>
+                            <div class="card__content">
+                                <div class="card__info">
+                                                                        <span role="link" data-href="/obshchestvo/" class="card__tag">Общество</span>
+                                    <span class="card__date">06.02.2023 13:36</span>
+                                </div>
+                                <div class="card__description">Безопасных лекарств не существует: чем опасно самолечение</div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            </div>
+        <div class="row row_blocks seth row-footer clearfix">
+            <div class="seth__box col-xs-12 col-sm-12 col-md-4 col-lg-4">
+    <h2 class="title"><a href="/obshchestvo/">Общество</a></h2>
+    <div class="main-news-bottom"> 
+        <div class="seth__band">
+            <div class="band__list">
+                                                                                    <div class="band__item">
+                            <a href="/obshchestvo/2023/02/20/novyy-nasos-dlya-otkachki-livnevykh-vod-zapustili-na-ulitse-moskovskoy-v-krasnodare/" class="band__photo">
+                                                                                                    <img src="/upload/resize_cache/iblock/ed7/400_272_2/spupetiayskraatloqgy6kdjgjwflz0f.png" loading="lazy" title="Новый насос для откачки ливневых вод запустили на улице Московской в Краснодаре" alt="Новый насос для откачки ливневых вод запустили на улице Московской в Краснодаре">
+                                                            </a>
+                            <div class="band__info">
+                                <span class="band__date">24 минуты назад</span>
+                            </div>
+                            <a href="/obshchestvo/2023/02/20/novyy-nasos-dlya-otkachki-livnevykh-vod-zapustili-na-ulitse-moskovskoy-v-krasnodare/" class="band__link">Новый насос для откачки ливневых вод запустили на улице Московской в Краснодаре</a>
+                        </div>
+                                                                                <div class="band__item">
+                            <div class="band__info">
+                                <span class="band__date">35 минут назад</span>
+                            </div>
+                            <a href="/obshchestvo/2023/02/20/shkolniki-krasnodarskogo-kraya-primut-uchastie-v-onlayn-olimpiade-po-okruzhayushchemu-miru-i-ekologi/" class="band__link">Школьники Краснодарского края примут участие в онлайн-олимпиаде по окружающему миру и экологии</a>
+                        </div>
+                                                                                <div class="band__item">
+                            <div class="band__info">
+                                <span class="band__date">42 минуты назад</span>
+                            </div>
+                            <a href="/obshchestvo/2023/02/20/v-ekaterininskoy-gimnazii-36-poyavilas-parta-geroya/" class="band__link">В Екатерининской гимназии №36 появилась «Парта героя»</a>
+                        </div>
+                                                </div>
+        </div>
+    </div>
+    </div>
+<div class="seth__box col-xs-12 col-sm-12 col-md-4 col-lg-4">
+    <h2 class="title"><a href="/proisshestviya/">Происшествия</a></h2>
+    <div class="main-news-bottom"> 
+        <div class="seth__band">
+            <div class="band__list">
+                                                                                    <div class="band__item">
+                            <a href="/proisshestviya/2023/02/20/v-sochi-politsiya-proveryaet-informatsiyu-o-zhestokom-izbienii-pokupatelyami-prodavtsa-magnita/" class="band__photo">
+                                                                                                    <img src="/upload/resize_cache/iblock/a18/400_272_2/ks5jycnk27mhpny95juipe8i2or67zu2.png" loading="lazy" title="В Сочи полиция проверяет информацию о жестоком избиении покупателями продавца «Магнита»" alt="В Сочи полиция проверяет информацию о жестоком избиении покупателями продавца «Магнита»">
+                                                            </a>
+                            <div class="band__info">
+                                <span class="band__date">24 минуты назад</span>
+                            </div>
+                            <a href="/proisshestviya/2023/02/20/v-sochi-politsiya-proveryaet-informatsiyu-o-zhestokom-izbienii-pokupatelyami-prodavtsa-magnita/" class="band__link">В Сочи полиция проверяет информацию о жестоком избиении покупателями продавца «Магнита»</a>
+                        </div>
+                                                                                <div class="band__item">
+                            <div class="band__info">
+                                <span class="band__date">сегодня, 12:22</span>
+                            </div>
+                            <a href="/proisshestviya/2023/02/20/podarochnaya-korobka-vzorvalas-u-litsa-22-letney-zhitelnitsy-moskvy/" class="band__link">Подарочная коробка взорвалась у лица 22-летней жительницы Москвы</a>
+                        </div>
+                                                                                <div class="band__item">
+                            <div class="band__info">
+                                <span class="band__date">сегодня, 12:15</span>
+                            </div>
+                            <a href="/proisshestviya/2023/02/20/v-armavire-eks-chinovniki-oshtrafovany-za-sgovor-pri-zakupkakh/" class="band__link">В Армавире экс-чиновники оштрафованы за сговор при закупках</a>
+                        </div>
+                                                </div>
+        </div>
+    </div>
+    </div>
+<div class="seth__box col-xs-12 col-sm-12 col-md-4 col-lg-4">
+    <h2 class="title"><a href="/kultura/">Культура</a></h2>
+    <div class="main-news-bottom"> 
+        <div class="seth__band">
+            <div class="band__list">
+                                                                                    <div class="band__item">
+                            <a href="/kultura/2023/02/19/na-krasnoy-polyane-otkrylas-vystavka-finalistki-proekta-ekosofiya/" class="band__photo">
+                                                                                                    <img src="/upload/resize_cache/iblock/59b/400_272_2/buf5ycv1ws24t7ttzf1xgwb2aih9jow2.jpeg" loading="lazy" title="На Красной Поляне открылась выставка финалистки проекта «Экософия»" alt="На Красной Поляне открылась выставка финалистки проекта «Экософия»">
+                                                            </a>
+                            <div class="band__info">
+                                <span class="band__date">вчера, 15:29</span>
+                            </div>
+                            <a href="/kultura/2023/02/19/na-krasnoy-polyane-otkrylas-vystavka-finalistki-proekta-ekosofiya/" class="band__link">На Красной Поляне открылась выставка финалистки проекта «Экософия»</a>
+                        </div>
+                                                                                <div class="band__item">
+                            <div class="band__info">
+                                <span class="band__date">вчера, 14:29</span>
+                            </div>
+                            <a href="/kultura/2023/02/19/krasnodartsy-primut-uchastie-v-gorodskom-etape-festivalya-patrioticheskikh-pesen-poyu-moe-otechestvo/" class="band__link">Краснодарцы примут участие в городском этапе фестиваля патриотических песен «Пою мое Отечество!»</a>
+                        </div>
+                                                                                <div class="band__item">
+                            <div class="band__info">
+                                <span class="band__date">17.02.2023 17:26</span>
+                            </div>
+                            <a href="/kultura/2023/02/17/krasnodartsy-uslyshat-balalaechnikov-vystupavshikh-pered-materyu-terezoy-vladimirom-putinym-i-elizav/" class="band__link">Краснодарцы услышат балалаечников, выступавших перед Матерью Терезой, ﻿Владимиром Путиным и Елизаветой II</a>
+                        </div>
+                                                </div>
+        </div>
+    </div>
+    </div>
+        </div>
+                <div class="photo">
+    <h2 class="title"><a href="/all/?type=photo">Фоторепортажи</a></h2>
+    <div class="row clearfix">
+                                                    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 grid__item">
+                    <div class="">
+                        <a href="/obshchestvo/2023/02/12/kak-80-let-nazad-v-krasnodare-proveli-rekonstruktsiyu-odnogo-iz-glavnykh-boev-za-gorod-/" class="card card_full card_full_content_down card_full_resize">
+                            <div class="card__substrate">
+                                                                <div class="card__substratefull" style="background-image:url(/upload/resize_cache/iblock/3c7/608_410_2/qn4dd2vttsrrud1u6i3h7w4hus41z473.JPG)"></div>
+                            </div>
+                            <div class="card__box">
+                                <div class="card__photo">
+                                                                                                                <img src="/upload/resize_cache/iblock/3c7/608_410_2/qn4dd2vttsrrud1u6i3h7w4hus41z473.JPG" loading="lazy" title="Как 80 лет назад: в Краснодаре провели реконструкцию одного из главных боев за город " alt="Как 80 лет назад: в Краснодаре провели реконструкцию одного из главных боев за город ">
+                                                                    </div>
+                                <div class="card__content">
+                                    <div class="card__info">
+                                                                                <span role="link" data-href="/obshchestvo/" class="card__tag">Общество</span>
+                                        <span class="card__date">12.02.2023 18:33</span>
+                                    </div>
+                                    <div class="card__description-wrap">
+                                        <div class="card__description">Как 80 лет назад: в Краснодаре провели реконструкцию одного из главных боев за город </div>
+                                    </div>
+                                </div>
+                            </div> 
+                        </a>
+                    </div>
+                </div>
+                                                                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 grid__item">
+                    <div class="">
+                        <a href="/obshchestvo/2023/02/12/bez-sroka-davnosti-kak-prokhodit-80-letie-osvobozhdeniya-krasnodara-/" class="card card_full card_full_content_down card_full_resize">
+                            <div class="card__substrate">
+                                                                <div class="card__substratefull" style="background-image:url(/upload/resize_cache/iblock/da5/608_410_2/sc62ucu2d00tigj7t24e33lxtk94pr1l.JPG)"></div>
+                            </div>
+                            <div class="card__box">
+                                <div class="card__photo">
+                                                                                                                <img src="/upload/resize_cache/iblock/da5/608_410_2/sc62ucu2d00tigj7t24e33lxtk94pr1l.JPG" loading="lazy" title="«Без срока давности…»: как проходит 80-летие освобождения Краснодара " alt="«Без срока давности…»: как проходит 80-летие освобождения Краснодара ">
+                                                                    </div>
+                                <div class="card__content">
+                                    <div class="card__info">
+                                                                                <span role="link" data-href="/obshchestvo/" class="card__tag">Общество</span>
+                                        <span class="card__date">12.02.2023 11:52</span>
+                                    </div>
+                                    <div class="card__description-wrap">
+                                        <div class="card__description">«Без срока давности…»: как проходит 80-летие освобождения Краснодара </div>
+                                    </div>
+                                </div>
+                            </div> 
+                        </a>
+                    </div>
+                </div>
+                                            </div>
+            <div class="row__footer">
+                        <a href="#" class="btn btn_red btn_inline btn_more" data-template="photo" data-offset="2" data-count="2" data-filter='{"!PROPERTY_rubrika": 132869, "!PROPERTY_only_admin": "Y", "PROPERTY_type": 34}'>Показать еще</a>
+        </div>
+    </div>
+    </div>
+</div>
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Кубанские Новости",
+    "identifier": "https://kubnews.ru/redaktsiya/",
+    "url": "https://kubnews.ru/",
+    "telephone": "+7(861)259-60-27",
+    "image": "https://kubnews.ru/local/templates/.default/images/logo.png",
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Краснодар",
+        "addressRegion": "Краснодарский край",
+        "postalCode": "350000",
+        "streetAddress": "ул. Пашковская, д. 2"
+    },
+    "logo": {
+        "@type": "ImageObject",
+        "url": "https://kubnews.ru/local/templates/.default/images/logo.png",
+        "contentUrl": "https://kubnews.ru/local/templates/.default/images/logo.png",
+        "width": "262",
+        "height": "40"
+    }
+}
+</script>
+                <footer class="footer">
+            <div class="grid">
+                <div class="footer__center">
+                    <div class="footer__importants clearfix">
+                                                <a href="https://admkrai.krasnodar.ru/" target="_blank" class="important">
+                            <div class="important__photo">
+                                <img loading="lazy" src="/local/templates/.default/images/administration.JPG" width="91" height="113" alt="Администрация" title="Администрация">
+                            </div>
+                            <div class="important__data">
+                                <div class="important__name">АДМИНИСТРАЦИЯ</div>
+                                <div class="important__description">Официальный сайт администрации Краснодарского края </div>
+                            </div>
+                        </a>
+                        <a href="https://s-kub.ru/" target="_blank" class="important">
+                            <div class="important__photo">
+                                <img loading="lazy" src="/local/templates/.default/images/reporter.JPG" width="91" height="113" alt="Кубанский репортер" title="Кубанский репортер">
+                            </div>
+                            <div class="important__data">
+                                <div class="important__name">КУБАНСКИЙ РЕПОРТЕР</div>
+                                <div class="important__description">Сайт Краснодарского краевого отделения Союза журналистов России</div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="footer__box">
+                        <div class="footer__middle">
+                            <div id="bxdynamic_LkGdQn_start" style="display:none"></div><div class="footer__mid">
+    <div class="footer__nav">
+        <ul class="navigationfooter">
+                             
+                                <li><a href="/all/?type=news">Все новости</a></li>
+                                             
+                                <li><a href="/obshchestvo/">Общество</a></li>
+                                             
+                                <li><a href="/vlast/">Власть</a></li>
+                                             
+                                <li><a href="/ekonomika/">Экономика</a></li>
+                                             
+                                <li><a href="/proisshestviya/">Происшествия</a></li>
+                                             
+                        </ul>
+    </div>
+    <div class="footer__nav">
+        <ul class="navigationfooter">
+                                <li><a href="/sport/">Спорт</a></li>
+                                             
+                                <li><a href="/kultura/">Культура</a></li>
+                                             
+                                <li><a href="/foto/">Фото</a></li>
+                                             
+                                <li><a href="/video/">Видео</a></li>
+                                             
+                                <li><a href="/turizm/">Туризм</a></li>
+                                             
+                        </ul>
+    </div>
+</div>
+<div class="footer__mid">
+    <div class="footer__nav">
+        <ul class="navigationfooter">   
+                                <li><a href="/selskoe-khozyaystvo/">Сельское хозяйство</a></li>
+                                             
+                                <li><a href="/interesy/">Интересы</a></li>
+                                             
+                                <li><a href="/panorama/">Панорама</a></li>
+                                             
+                                <li><a href="/konkursy/">Спецпроекты</a></li>
+                                             
+                                <li><a href="/kuban/">Кубань 2000-2018</a></li>
+                                             
+                        </ul>
+    </div>
+    <div class="footer__nav">
+        <ul class="navigationfooter">
+                                <li><a href="/kuban-format-uspekha/">Кубань. Формат успеха</a></li>
+                                             
+                                <li><a href="/ya-pomnyu-den-pobedy/">Я помню День Победы</a></li>
+                                             
+                                <li><a href="/redaktsiya/">Редакция</a></li>
+                                             
+                                <li><a href="/reklamodatelyam/">Рекламодателям</a></li>
+                                             
+                                <li><a href="/pravila/">Правила использования материалов сайта</a></li>
+                                    </ul>
+    </div>
+</div><div id="bxdynamic_LkGdQn_end" style="display:none"></div>                            <div class="footer__contact">
+                                <div class="contacts">
+                                    <div class="contacts__social">
+                                        <div class="social">
+                                            <a href="https://vk.com/public85425388" target="_blank" class="socialicon-vk">Вконтакте</a>                                                                                                                                    <a href="https://ok.ru/group/53403157856380" target="_blank" class="socialicon-ok">Одноклассники</a>                                                                                        <a href="https://t.me/kub_news_ru" target="_blank" class="socialicon-telegram">Telegram</a>                                        </div>
+                                    </div>
+                                    <div class="contacts__data">
+                                                                                <div class="contacts__adres">350000, г. Краснодар, ул. Пашковская, 2</div>
+                                        <a href="tel:+78612596027" class="contacts__phones">+7 (861) 259-60-27</a>
+                                    </div>
+                                    <div class="footer__metrica">
+                                        <!-- Yandex.Metrika informer -->
+                                        <a href="https://metrika.yandex.ru/stat/?id=18685288&amp;from=informer"
+                                        target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/18685288/3_0_FFFFFFFF_FFFFFFFF_0_pageviews"
+                                        style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="18685288" data-lang="ru" /></a>
+                                        <!-- /Yandex.Metrika informer -->
+                                        <!-- Yandex.Metrika counter -->
+                                                                                <span class="liveinternet">
+                                            <script nonce="7f26c2726c" data-skip-moving="true" type="text/javascript">document.write('<a href="//www.liveinternet.ru/click" ' + 'target=_blank><img src="//counter.yadro.ru/hit?t44.4;r' + escape(document.referrer) + ((typeof(screen)=='undefined') ? '' : ';s' + screen.width + '*' + screen.height + '*' + (screen.colorDepth ? screen.colorDepth : screen.pixelDepth)) + ';u' + escape(document.URL) + ";h" + escape(document.title.substring(0,150)) + ';'+Math.random() + '" alt="" title="LiveInternet" ' + 'border="0" width="31" height="31"><\/a>');</script>
+                                            
+                                                                                    </span>
+                                        
+                                                                                
+                                                                            </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="footer__footer">
+                                                <span class="footer__copy">© Кубанские Новости, 2015-2023</span>
+                        <span class="develop">
+                            <span class="age18__icon"></span>
+                            <span class="develop__info">
+                                <span class="develop__create">Для пользователей старше 16 лет</span>
+                            </span>
+                        </span>
+                    </div>
+                    <div class="footer__copy_mob">© Кубанские Новости, 2017</div>
+                    <div class="svidetelstvo">Интернет-портал "Кубанские Новости" (16+) зарегистрирован Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций (Роскомнадзор) 30 июля 2020 года. Номер свидетельства Эл № ФС 77 - 78802. Учредитель - ООО "ГИК "Кубанские Новости" (350000, Краснодар, ул. Пашковская, 2). Главный редактор – Кроливец В. Н.</div>
+                </div>
+            </div>
+        </footer> 
+        <!--menu start -->
+        <div class="menu">
+            <div class="menu__table">
+                <div class="menu__cell">
+                    <div class="menu__content">
+                        <div class="menu__header clearfix">
+                            <a href="/" class="menu__logo">
+                                <img src="/local/templates/.default/images/logo.png" alt="" title="" width="264" height="40" loading="lazy">
+                            </a>
+                            <a href="#" class="menu__close menu__close-js">Закрыть</a>
+                        </div>
+                        <div class="menu__social">
+                            <div class="social">
+                                <a href="https://vk.com/public85425388" target="_blank" class="socialicon-vk">Вконтакте</a>                                                                                                <a href="https://ok.ru/group/53403157856380" target="_blank" class="socialicon-ok">Одноклассники</a>                                                                <a href="https://t.me/kub_news_ru" target="_blank" class="socialicon-telegram">Telegram</a>                            </div>
+                        </div>
+                        <div class="menu__list">
+    <ul class="menu__hiden" itemscope itemtype="https://www.schema.org/SiteNavigationElement">
+        <li><a itemprop="url" title="Все новости" href="/all/">Все новости</a></li>
+                    <li>
+                <a itemprop="url" title="Общество" href="/obshchestvo/">Общество</a>
+            </li>
+                    <li>
+                <a itemprop="url" title="Власть" href="/vlast/">Власть</a>
+            </li>
+                    <li>
+                <a itemprop="url" title="Экономика" href="/ekonomika/">Экономика</a>
+            </li>
+                    <li>
+                <a itemprop="url" title="Происшествия" href="/proisshestviya/">Происшествия</a>
+            </li>
+                    <li>
+                <a itemprop="url" title="Спорт" href="/sport/">Спорт</a>
+            </li>
+                    <li>
+                <a itemprop="url" title="Культура" href="/kultura/">Культура</a>
+            </li>
+                    <li>
+                <a itemprop="url" title="Фото" href="/foto/">Фото</a>
+            </li>
+                    <li>
+                <a itemprop="url" title="Видео" href="/video/">Видео</a>
+            </li>
+                    <li>
+                <a itemprop="url" title="Туризм" href="/turizm/">Туризм</a>
+            </li>
+                    <li>
+                <a itemprop="url" title="Сельское хозяйство" href="/selskoe-khozyaystvo/">Сельское хозяйство</a>
+            </li>
+                    <li>
+                <a itemprop="url" title="Интересы" href="/interesy/">Интересы</a>
+            </li>
+                    <li>
+                <a itemprop="url" title="Панорама" href="/panorama/">Панорама</a>
+            </li>
+                <li><a itemprop="url" title="Спецпроекты" href="/konkursy/">Спецпроекты</a></li>
+        <li class="active">
+            <a itemprop="url" title="Я помню День Победы" href="/ya-pomnyu-den-pobedy/">Я помню День Победы</a>
+        </li>
+                <li class="active">
+            <a itemprop="url" title="Кубань. Формат успеха" href="/kuban-format-uspekha/">Кубань. Формат успеха</a>
+        </li>
+            </ul>
+    <div class="menu__show clearfix"></div>
+</div>                    </div>
+                </div>
+            </div>
+        </div>
+        <!--menu end -->
+    </div>
+            <link rel="stylesheet" href="/local/templates/.default/css/new_2/adv-style.min.css?v=36" media="none" onload="if(media!='all')media='all'">
+        <link rel="stylesheet" href="/local/templates/.default/css/jquery.fancybox.min.css" type="text/css" onload="if(media!='all')media='all'">
+    <script  async src="/local/templates/.default/js/modernizr-custom.js"></script>
+<script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess==='object'){for(let i in mess) {BX.message[i]=mess[i];} return true;}};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script><script type="text/javascript" src="/bitrix/js/main/core/core.js?1671786654487984"></script><script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/core/core.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
+</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','UTF_MODE':'Y','SITE_ID':'s1','SITE_DIR':'/'});</script><script type="text/javascript" src="/bitrix/js/ui/dexie/dist/dexie3.bundle.js?1664805364188902"></script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_ls.js?151246606210430"></script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_fx.js?151246606216888"></script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_frame_cache.js?165391211517069"></script>
+
+
+<script type="text/javascript" src="/local/templates/.default/js/jquery-3.6.1.min.js?166669386389664"></script>
+<script type="text/javascript" src="/local/templates/.default/js/jquery.fancybox.js?1675753388146293"></script>
+<script type="text/javascript" src="/local/templates/.default/js/moment.min.js?166669356558103"></script>
+<script type="text/javascript" src="/local/templates/.default/js/locale/ru.js?15770161028774"></script>
+<script type="text/javascript" src="/local/templates/.default/js/moment-timezone.min.js?15615554286392"></script>
+<script type="text/javascript" src="/local/templates/.default/js/perfect-scrollbar.jquery.min.js?151246606325546"></script>
+<script type="text/javascript" src="/local/templates/.default/js/jquery.daterangepicker.min.js?151246606352952"></script>
+<script type="text/javascript" src="/local/templates/.default/js/owl.carousel.min.js?151246606342854"></script>
+<script type="text/javascript" src="/local/templates/.default/js/date.format.min.js?15124660632165"></script>
+<script type="text/javascript" src="/local/templates/.default/js/vendor/mobile-detect.min.js?154512488138436"></script>
+<script type="text/javascript" src="/local/templates/.default/js/new/main.js?165038413931669"></script>
+<script type="text/javascript" src="/local/templates/.default/js/grid.min.js?1665493047728"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "fa67c9d56da1768870ce006b1c9074d4"]); _ba.push(["host", "kubnews.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+<script>
+window.addEventListener('load', () => {
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 292555,
+            containerId: 'adfox_166497194983424640',
+            params: {
+                p1: 'cvwsi',
+                p2: 'hvwt'
+            }
+        });
+    });
+});
+</script><script>
+        dataLayer.push({
+            'ecommerce': {
+                'promoView': {
+                    'promotions': [{
+                        'id': '245',
+                        'name': 'Adfox - Сквозной верхний баннер на всех страницах',
+                        'position': 'top_all_page'
+                    }]
+                }
+            }
+        });
+    </script>
+<script>
+window.addEventListener('load', () => {
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 292555,
+            containerId: 'adfox_16649709005275823',
+            params: {
+                p1: 'cvwpx',
+                p2: 'hvwf'
+            }
+        });
+    });
+});
+</script><script>
+window.addEventListener('load', () => {
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 292555,
+            containerId: 'adfox_16636685936312196',
+            params: {
+                p1: 'cvtaf',
+                p2: 'hvke'
+            }
+        });
+    });
+});
+</script><script>
+                                            /*var fired = false;
+                                            window.addEventListener('scroll', () => {
+                                                if(fired === false){
+                                                    fired = true;
+                                                    setTimeout(() => {*/
+                                                        (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+                                                        m[i].l=1*new Date();
+                                                        for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+                                                        k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+                                                        (window, document, "script", "https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js", "ym");
+
+                                                        ym(18685288, "init", {
+                                                             clickmap:true,
+                                                             trackLinks:true,
+                                                             accurateTrackBounce:true,
+                                                             webvisor:true,
+                                                             trackHash:true
+                                                        });
+                                                    /*}, 100);
+                                                }
+                                            });*/
+                                        </script>
+<script>
+                                                new Image().src = "https://counter.yadro.ru/hit;thatsnews.ru?r"+escape(document.referrer)+((typeof(screen)=="undefined")?"": ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+";h"+escape(document.title.substring(0,150))+";"+Math.random();
+                                            </script>
+</body> 
+</html><!--d175bb10015feba8bdebb700bd3ac86b-->

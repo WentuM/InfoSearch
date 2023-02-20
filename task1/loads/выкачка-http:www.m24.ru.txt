@@ -1,0 +1,2960 @@
+<!DOCTYPE html>
+<html lang="ru" prefix="og: http://ogp.me/ns#">
+<head>
+<title>Новости Москвы – Москва 24 – M24.RU</title>
+
+<meta name="robots" content="all" />
+<meta name="description" content="Новости Москвы, репортажи и интервью об основных событиях города. Свежая информация о событиях в столице. Афиша мероприятий и прямые трансляции с мест событий на Москва 24" />
+<meta name="keywords" content="новости в москве, новости москвы происшествия, новости москва сегодня видео" />
+<link rel="canonical" href="https://www.m24.ru" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, maximum-scale=1">
+<meta name="apple-itunes-app" content="app-id=553190495"/>
+<meta name="yandex-verification" content="704310b302180edd" />
+
+<link rel="apple-touch-icon" sizes="180x180" href="/img/fav/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/img/fav/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/img/fav/favicon-16x16.png">
+<link rel="manifest" href="/img/fav/site.webmanifest">
+<link rel="mask-icon" href="/img/fav/safari-pinned-tab.svg" color="#252525">
+<link rel="shortcut icon" href="/img/fav/favicon.ico">
+<meta name="msapplication-TileColor" content="#ececec">
+<meta name="msapplication-config" content="/img/fav/browserconfig.xml">
+<meta name="theme-color" content="#ececec">
+
+<link href='https://static.criteo.net' rel='preconnect' crossorigin>
+<link href='https://an.yandex.ru' rel='preconnect' crossorigin>
+<link href='https://ad.mail.ru' rel='preconnect' crossorigin>
+<link href='https://smi2.ru' rel='preconnect' crossorigin>
+
+
+
+<script type="application/ld+json">
+{
+	"@context": "http://schema.org",
+	"@type": "Organization",
+	"url": "https://www.m24.ru",
+	"logo": "https://www.m24.ru/img/favicon/512.png",
+	"sameAs": [
+			"https://vk.com/infomoscow24",
+			"https://twitter.com/infomoscow24",
+			"https://ok.ru/moskva2",
+			"https://www.youtube.com/infomoscow24"
+	]
+}
+</script>
+
+
+
+
+
+<script>
+	window['GoogleAnalyticsObject'] = 'ga';
+	window['ga'] = window['ga'] || function() {
+		(window['ga'].q = window['ga'].q || []).push(arguments)
+	};
+</script>
+
+<script type="text/javascript" src="/js/m.24.adwrap.4.2.js?v=1676636113" async></script>
+
+<script async src="https://jsn.24smi.net/smi.js"></script>
+
+<script type="text/javascript">
+	(function(w, d, n) {
+		w[n] = w[n] || function () {
+			(w[n].q = w[n].q || []).push(arguments)
+		}
+		w[n].a = +new Date()
+	})(window, document, "m24");
+</script>
+
+<link rel="preload" href="/fonts/ProximaNova-Regular.woff2" as="font" type="font/woff" crossorigin="anonymous">
+<link rel="preload" href="/fonts/ProximaNova-Semibold.woff2" as="font" type="font/woff" crossorigin="anonymous">
+<link rel="preload" href="/fonts/ProximaNova-Bold.woff2" as="font" type="font/woff" crossorigin="anonymous">
+
+<link as="style" href="/css/m24.css?v=1676636113" rel="preload" />
+<link rel="stylesheet" href="/css/m24.css?v=1676636113" />
+
+<link rel="manifest" href="/manifest.json">
+
+<link as="script" href="/js/m24.js?v=1676636113" rel="preload"/>
+<script src="/js/m24.js?v=1676636113"></script>
+<script src="/packs_prod/js/application-c949ea498b225c4a8bfc.js" rel="preload"></script>
+
+<!-- script src="/special/js/incuts.js?v=1676636113"></script -->
+<!--end MainPageIncut-->
+<!--header incut-->
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="hkSdOSOufAcHZFEgR3dvY5ibVu1kiEP1hMpEs8DS8y9wlwJuCVRyfPoznDh1eEMtJhKejQL9omoVsfJ/n2U6LA==" />
+<style>
+.fx_bg main {background-color:#fff !important;position:relative}
+.fx_bg.dark-theme main  {background-color:#252525 !important;position:relative}
+.fx_bg .b-sidebar-news-list {padding: 0 0 0 16px !important;}
+.fx_bg .b-header-adv-stripe {z-index:-1 !important;visibility:hidden}
+.fx_bg .b-sidebar-news h3  {padding: 0 0 0 16px !important;}
+</style>
+</head>
+
+<body>
+
+<script>
+	let theme = localStorage.getItem('data-theme'),
+		live = localStorage.getItem('data-live'),
+		livetop = localStorage.getItem('data-live-top'),
+		liveleft = localStorage.getItem('data-live-left');
+	if (theme === 'dark-theme') document.body.classList.add('dark-theme');
+</script>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+	(function (d, w, c) {
+		(w[c] = w[c] || []).push(function() {
+			try {
+				w.yaCounter14130097 = new Ya.Metrika({
+					id:14130097,
+					clickmap:true,
+					trackLinks:true,
+					accurateTrackBounce:true,
+					webvisor:true
+				});
+			} catch(e) { }
+		});
+
+		var n = d.getElementsByTagName("script")[0],
+			s = d.createElement("script"),
+			f = function () { n.parentNode.insertBefore(s, n); };
+		s.type = "text/javascript";
+		s.async = true;
+		s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+		if (w.opera == "[object Opera]") {
+			d.addEventListener("DOMContentLoaded", f, false);
+		} else { f(); }
+	})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/14130097" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+
+<div class="b-page b-page_1676889559_3mBUX">
+
+	<div class="b-header-adv-stripe g-clearfix">
+		<div class="b-header-adv-stripe__banner-wrapper">
+			<div class="b-header-adv-stripe__banner">
+
+				<div id="top_i"></div>
+<div id="billboard"></div>
+<div id="background"></div>
+
+<style>
+  body.fx_bg .b-header-wrapper, body.fx_bg .b-header-adv-stripe {
+    width: 1280px;
+      margin: 0 auto;
+  }
+  body.fx_bg .b-header-wrapper .b-header-stripe02-and-stripe03-wrapper {width: 1280px;}
+  
+  body.fx_bg .sideSocial.joinus {display:none !important}
+  
+</style>
+<script type="text/javascript">
+    m24('ad', 'show', 'top_i', { 'mobile': true });
+    (function (d) {
+    var addClass = (function () {
+      if ('classList' in d.createElement('p')) {
+        return function (e, n) {
+          e.classList.add(n)
+        }
+      }
+      return function (e, n) {
+        if (e.className.indexOf(n) !== -1) {
+          return
+        }
+        n += ' ';
+        e.className += n;
+      }
+    })();
+    function body_fx () {
+
+      addClass(d.body, 'fx_bg')
+    }
+    function call_bg () {
+
+      m24('ad', 'show', 'background', { 'onRender': body_fx })
+    }
+    m24('ad', 'show', 'billboard', {
+      onError: call_bg,
+      onStub: call_bg,
+      onLoad: function (a) {
+          if (a.bundleName === 'banner.background') {
+          body_fx()
+        } else {
+          call_bg()
+        }
+        }
+    });
+  })(document);
+</script>
+
+
+
+			</div>
+		</div>
+	</div>
+
+	<div class="b-announcement" style="display:none"><p></p></div>
+
+	<header>
+		<div class="stripe">
+			<div class="container">
+
+				<h1><a href="/" class="b-logo  b-logo_desktop b-effect3">Москва 24</a></h1>
+
+				<div class="b-menu">
+					<ul>
+						<li><a href="/live"><span>ТВ</span></a></li>
+						<li><a href="/radio"><span>Радио</span></a></li>
+						<!--<li><a href="/rubrics/exclusives"><span>Эксклюзивы</span></a></li>-->
+						<li><a href="/special/s/projects"><span>Спецпроекты</span></a></li>
+					</ul>
+				</div>
+
+				<a class="b-menu-button b-menu-button_desktop b-effect3"></a>
+				<a class="b-search-button b-search-button_desktop b-effect3"></a>
+
+				<div class="b-theme-toggle b-theme-toggle_desktop b-effect3">
+					<label><input type="checkbox"><span class="slider"></span></label>
+				</div>
+				<script>
+					if (theme === 'dark-theme') document.querySelector('.b-theme-toggle_desktop input').checked = true;
+				</script>
+
+				<div class="b-informer-header b-informer-header_desktop"></div>
+
+			</div>
+
+			<div class="b-hidden-menu">
+				<div class="container">
+					<div class="columns">
+						<div class="columns-left">
+
+							<div class="b-submenu">
+								<ul>
+									<li><a href="/news">Новости</a></li>
+									<li><a href="/articles">Истории</a></li>
+									<li><a href="/galleries">Фотогалереи</a></li>
+									<li><a href="/videos">Видео</a></li>
+									<li><a href="/infographics">Инфографика</a></li>
+									<li><a href="/audios">Аудио</a></li>
+									<li><a href="/shows1">Программы</a></li>
+								</ul>
+							</div>
+							<div class="b-submenu2">
+								<ul>
+									<li><a href="mailto:m24@m24.ru" class="b-window-feedback-open">Обратная связь</a></li>
+									<li><a href="/contacts">Контакты</a></li>
+									<li><a href="/advert">Размещение рекламы</a></li>
+								</ul>
+							</div>
+
+						</div>
+						<div class="columns-right">
+
+							<div class="b-rubricator-menu">
+								<div>
+									<ul>
+										<li><a href="/rubrics/politics/">Политика</a></li>
+										<li><a href="/rubrics/society/">Общество</a></li>
+										<li><a href="/rubrics/economy/">Экономика</a></li>
+										<li><a href="/rubrics/world/">В мире</a></li>
+										<li><a href="/rubrics/sport/">Спорт</a></li>
+									</ul>
+								</div>
+								<div>
+									<ul>
+										<li><a href="/rubrics/accidents/">Происшествия</a></li>
+										<li><a href="/rubrics/culture/">Культура</a></li>
+										<li><a href="/rubrics/show-business/">Шоу-бизнес</a></li>
+										<li><a href="/rubrics/technology/">Технологии</a></li>
+										<li><a href="/rubrics/science/">Наука</a></li>
+									</ul>
+								</div>
+								<div>
+									<ul>
+										<li><a href="/rubrics/auto/">Транспорт</a></li>
+										<li><a href="/rubrics/city/">Город</a></li>
+										<li><a href="/rubrics/security/">Безопасность</a></li>
+										<li><a href="/rubrics/ecology/">Экология</a></li>
+										<li><a href="/rubrics/stories/">Истории</a></li>
+									</ul>
+								</div>
+								<div>
+									<ul>
+										<li><a href="/rubrics/exclusives/">Эксклюзивы</a></li>
+										<li><a href="/rubrics/events/">События</a></li>
+										<li><a href="https://www.m24.ru/themes/syuzhet/29012020/582">Коронавирус COVID-19</a></li>
+										<li><a href="/rubrics/tourism/">Туризм</a></li>
+										<li><a href="/rubrics/regions/">Регионы</a></li>
+										<li><a href="/rubrics/mayor/">Мэр Москвы</a></li>
+									</ul>
+								</div>
+							</div>
+
+						</div>
+					</div>
+				</div>
+
+			</div>
+
+			<div class="b-hidden-search">
+				<div class="container">
+
+					<div class="b-search">
+						<form action="/sphinx/">
+							<fieldset>
+							<legend>Форма поиска по сайту</legend>
+							<input id="criteria" name="criteria" type="text" class="b-search__input" placeholder="Поиск по новостям, событиям, темам" />
+							<input type="submit" value="" class="b-search__submit" />
+							</fieldset>
+						</form>
+						<script type="text/javascript">
+  //<![CDATA[
+  var inited_criteria = 0;
+  function initAutocomplete_criteria() {
+    if ( !inited_criteria ) {
+      new autoComplete({
+        selector: '#criteria',
+        source: async function(term, suggest) {
+          let params = {
+            t:'tags',
+            w: term,
+            
+            
+            
+            
+            
+            
+            
+          };
+
+          let query = serializeQuery(params);
+
+          let url = '/suggest/?' + query;
+          // Fetch External Data Source
+          const source = await fetch(
+            url,
+            {
+              method: "GET",
+              headers: {
+                'Accept': 'application/json',
+                'Content-Type': 'application/json'
+              },
+            },
+          );
+          //const data = await source.text();
+          const data = await source.json();
+          // Returns Fetched data
+          let result_arr = [];
+          for( let i=0; i<data.length; i++ ) {
+            result_arr.push( [ data[i][0], data[i][1] ] );
+          }
+          suggest( result_arr );
+        },
+        renderItem: function (item, search){
+          // escape special characters
+          search = search.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+          let re = new RegExp("(" + search.split(' ').join('|') + ")", "gi");
+          return '<div class="autocomplete-suggestion" data-id="' + item[0] + '" data-val="' + item[1].replace(/"/g, '&quot;') + '">' + item[1].replace(re, "<b>$1</b>") + '</div>';
+        },
+        minChars: 2,
+        delay: 500,
+        cache: 0
+      });
+      inited_criteria = 1;
+    }
+  }
+  document.querySelector('#criteria').addEventListener('focus', function(){
+    //console.log('id - criteria');
+    initAutocomplete_criteria();
+  });
+  //]]>
+</script>
+					</div>
+
+					<div class="b-search-menu">
+						<p class="b-search-menu__header"></p>
+						<ul>
+							<li><a href="/tag/%D0%B7%D0%B0%20%D1%80%D1%83%D0%B1%D0%B5%D0%B6%D0%BE%D0%BC/">за рубежом</a></li>
+							<li><a href="/tag/%D0%BC%D0%B5%D1%82%D1%80%D0%BE/">метро</a></li>
+							<li><a href="/tag/%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C/">безопасность</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+		</div>
+
+		<div class="stripe-mobile">
+			<div class="container">
+
+				<h1><a href="/" class="b-logo  b-logo_mobile">Москва 24</a></h1>
+
+				<a class="b-menu-button b-menu-button_mobile"></a>
+				<a class="b-live-button b-live-button_mobile"></a>
+
+				<div class="b-theme-toggle b-theme-toggle_mobile">
+					<label><input type="checkbox"><span class="slider"></span></label>
+				</div>
+				<script>
+					if (theme === 'dark-theme') document.querySelector('.b-theme-toggle_mobile input').checked = true;
+				</script>
+
+				<div class="b-informer-header b-informer-header_mobile"></div>
+
+			</div>
+
+			<div class="b-hidden-mobile-menu">
+				<div class="container">
+
+					<div class="b-mobile-menu">
+						<div>
+							<ul>
+								<li><a href="/live">ТВ</a></li>
+								<li><a href="/radio">Радио</a></li>
+								<li><a href="/rubrics/exclusives">Эксклюзивы</a></li>
+								<li><a href="/special/s/projects">Спецпроекты</a></li>
+							</ul>
+						</div>
+					</div>
+
+					<div class="b-mobile-search">
+						<form action="/sphinx/">
+							<fieldset>
+							<legend>Форма поиска по сайту</legend>
+							<input id="criteria2" name="criteria" type="text" class="b-mobile-search__input" placeholder="Поиск по новостям, событиям, темам" />
+							<input type="submit" value="" class="b-mobile-search__submit" />
+							</fieldset>
+						</form>
+						<script type="text/javascript">
+  //<![CDATA[
+  var inited_criteria2 = 0;
+  function initAutocomplete_criteria2() {
+    if ( !inited_criteria2 ) {
+      new autoComplete({
+        selector: '#criteria2',
+        source: async function(term, suggest) {
+          let params = {
+            t:'tags',
+            w: term,
+            
+            
+            
+            
+            
+            
+            
+          };
+
+          let query = serializeQuery(params);
+
+          let url = '/suggest/?' + query;
+          // Fetch External Data Source
+          const source = await fetch(
+            url,
+            {
+              method: "GET",
+              headers: {
+                'Accept': 'application/json',
+                'Content-Type': 'application/json'
+              },
+            },
+          );
+          //const data = await source.text();
+          const data = await source.json();
+          // Returns Fetched data
+          let result_arr = [];
+          for( let i=0; i<data.length; i++ ) {
+            result_arr.push( [ data[i][0], data[i][1] ] );
+          }
+          suggest( result_arr );
+        },
+        renderItem: function (item, search){
+          // escape special characters
+          search = search.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+          let re = new RegExp("(" + search.split(' ').join('|') + ")", "gi");
+          return '<div class="autocomplete-suggestion" data-id="' + item[0] + '" data-val="' + item[1].replace(/"/g, '&quot;') + '">' + item[1].replace(re, "<b>$1</b>") + '</div>';
+        },
+        minChars: 2,
+        delay: 500,
+        cache: 0
+      });
+      inited_criteria2 = 1;
+    }
+  }
+  document.querySelector('#criteria2').addEventListener('focus', function(){
+    //console.log('id - criteria2');
+    initAutocomplete_criteria2();
+  });
+  //]]>
+</script>
+					</div>
+
+					<div class="b-mobile-themes">
+						<div>
+							<ul>
+								<li><a href="https://www.m24.ru/themes/syuzhet/06022023/593">Землетрясение в Турции</a></li>
+								<li><a href="https://www.m24.ru/themes/syuzhet/24022022/588">Спецоперация</a></li>
+								<li><a href="https://www.m24.ru/themes/syuzhet/12072022/574">Мой район</a></li>
+								<li><a href="https://online.m24.ru/">Москва онлайн</a></li>
+							</ul>
+						</div>
+					</div>
+
+					<div class="b-mobile-menu-columns">
+						<div class="b-mobile-menu-column">
+
+							<div class="b-mobile-submenu">
+								<ul>
+									<li><a href="/news">Новости</a></li>
+									<li><a href="/articles">Истории</a></li>
+									<li><a href="/galleries">Фотогалереи</a></li>
+									<li><a href="/videos">Видео</a></li>
+									<li><a href="/infographics">Инфографика</a></li>
+									<li><a href="/audios">Аудио</a></li>
+									<li><a href="/shows1">Программы</a></li>
+								</ul>
+							</div> 
+						</div>
+
+						<div class="b-mobile-menu-column">
+
+							<div class="b-mobile-rubricator-menu">
+								<ul>
+									<li><a href="/rubrics/politics/">Политика</a></li>
+									<li><a href="/rubrics/society/">Общество</a></li>
+									<li><a href="/rubrics/economy/">Экономика</a></li>
+									<li><a href="/rubrics/world/">В мире</a></li>
+									<li><a href="/rubrics/sport/">Спорт</a></li>
+									<li><a href="/rubrics/accidents/">Происшествия</a></li>
+									<li><a href="/rubrics/culture/">Культура</a></li>
+								</ul>
+							</div>
+
+							<div class="b-mobile-submenu2">
+								<ul>
+									<li><a href="mailto:m24@m24.ru" class="b-window-feedback-open">Обратная связь</a></li>
+									<li><a href="/contacts">Контакты</a></li>
+									<li><a href="/advert">Размещение рекламы</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+
+
+					<div class="b-mobile-services-menu">
+						<ul>
+							<li><a class="tg" href="tg://t.me/infomoscow24" target="_blank">Telegram</a></li>
+							<li><a class="vk" href="https://vk.com/infomoscow24" target="_blank">Vkontakte</a></li>
+							<li><a class="ok" href="https://ok.ru/group/52459393974410/join" target="_blank">Одноклассники</a></li>
+							<li><a class="yt" href="https://www.youtube.com/user/wwwm24ru" target="_blank">Youtube</a></li>
+							<li><a class="rt" href="https://rutube.ru/channel/24309939" target="_blank">Rutube</a></li>
+							<li><a class="ic" href="https://icq.im/infomoscow24" target="_blank">ICQ</a></li>
+							<li><a class="vb" href="https://invite.viber.com/?g2=AQBPHGXjMTQvn0xRRk6YTYU5aAwRHk%2F3%2FPZB7WDTB3Y2%2FB8lH%2Bqoc5Au0t5Ij5we" target="_blank">Viber</a></li>
+							<li><a class="tt" href="https://www.tiktok.com/@infomoscow24" target="_blank">Tiktok</a></li>
+						</ul>
+					</div>
+
+				</div>
+			</div>
+
+		</div>
+
+		<div class="stripe-mobile2"></div>
+
+	</header>
+
+	<main>
+
+		<section class="b-stories">
+			<div class="container2">
+
+				<div class="b-stories-list">
+					<div>
+						<ul>
+							<li><a class="story-item" data-id="1"><img src="/b/d/nBkSUhL2hFcgkM6wIb6BrNOp2Z318Jj20yPFh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=XhZJlK9xu_0HsaK9pBnjhg.jpg" width="120" height="120" alt="" loading="lazy" /></a></li>
+						</ul>
+					</div>
+				</div>
+
+			</div>
+		</section>
+
+
+		<div class="columns">
+
+			<div class="columns-left columns-left-sticky">
+				<div class="b-sticky-sidebar">
+
+    <a class="b-sidebar-button"><span>Новости</span></a>
+
+	<div class="b-sidebar-live">
+		<iframe loading="lazy" allowfullscreen="" src="https://player.vgtrk.com/iframe/live/id/1661/showZoomBtn/false/isPlay/true/mute/true/sid/m24"></iframe>
+	</div>
+
+	<div class="b-sidebar-news">
+		<h3><a href="/news">Новости</a></h3>
+
+		<div class="b-sidebar-news-list">
+			<ul>
+				<li class="selected">
+					<p class="b-sidebar-news-list__header"><a href="/rubrics/mayor/">Мэр Москвы</a></p>
+					<p class="b-sidebar-news-list__title"><a href="/news/mehr-Moskvy/20022023/552542" class="b-effect2"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkkM6wIL6BrNOp2Z339Jj20CHGh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=1rLGUhigFt5Xj1xWXkEFZA.jpg" width="300" height="169" alt="" loading="lazy" /></i>Собянин рассказал об открытии детской поликлиники в Южном Медведкове</a></p>
+				</li>
+				<li>
+					<p class="b-list__date">13:39</p>
+					<p class="b-sidebar-news-list__title"><a href="/news/obshchestvo/20022023/552588">Диетолог объяснила, чем опасны пышные и красивые блины на пиве</a></p>
+					<p class="b-list__tags"><a href="/tag/общество">общество</a><a href="/tag/еда">еда</a></p>
+				</li>
+				<li>
+					<p class="b-list__date">13:37</p>
+					<p class="b-sidebar-news-list__title"><a href="/news/politika/20022023/552584">Байден на встрече с Зеленским в Киеве заявил о предоставлении помощи на 500 млн долларов</a></p>
+					<p class="b-list__tags"><a href="/tag/политика">политика</a></p>
+				</li>
+				<li>
+					<p class="b-list__date">13:36</p>
+					<p class="b-sidebar-news-list__title"><a href="/news/gorod/20022023/552583">Более 260 праздничных конструкций украсили Москву к Масленице</a></p>
+					<p class="b-list__tags"><a href="/tag/город">город</a><a href="/tag/фестивали">фестивали</a></p>
+				</li>
+				<li>
+					<p class="b-list__date">13:32</p>
+					<p class="b-sidebar-news-list__title"><a href="/news/tehnologii/20022023/552582">Ассоциация банков России попросит РКН не запрещать оказывать услуги через Telegram</a></p>
+					<p class="b-list__tags"><a href="/tag/технологии">технологии</a></p>
+				</li>
+				<li>
+					<p class="b-list__date">13:20</p>
+					<p class="b-sidebar-news-list__title"><a href="/news/politika/20022023/552576">Зеленский подтвердил визит Байдена в Киев</a></p>
+					<p class="b-list__tags"><a href="/tag/политика">политика</a></p>
+				</li>
+				<li>
+					<p class="b-list__date">13:20</p>
+					<p class="b-sidebar-news-list__title"><a href="/news/transport/20022023/552575">Расписание электричек на МЖД изменится в праздничные дни февраля и марта</a></p>
+					<p class="b-list__tags"><a href="/tag/транспорт">транспорт</a></p>
+				</li>
+				<li>
+					<p class="b-list__date">13:19</p>
+					<p class="b-sidebar-news-list__title"><a href="/news/obshchestvo/20022023/552574">В СПЧ рассказали о сроках внедрения цифрового кодекса в РФ</a></p>
+					<p class="b-list__tags"><a href="/tag/общество">общество</a><a href="/tag/технологии">технологии</a></p>
+				</li>
+				<li>
+					<p class="b-list__date">13:13</p>
+					<p class="b-sidebar-news-list__title"><a href="/news/vlast/20022023/552571">Путин выразил соболезнования президенту Бразилии в связи с наводнением в Сан-Паулу</a></p>
+					<p class="b-list__tags"><a href="/tag/власть">власть</a><a href="/tag/происшествия">происшествия</a><a href="/tag/за-рубежом">за рубежом</a></p>
+				</li>
+				<li>
+					<p class="b-list__date">13:08</p>
+					<p class="b-sidebar-news-list__title"><a href="/news/proisshestviya/20022023/552562">Прокуратура установила личность мужчины, который бросил ребенка в снег в Зеленограде</a></p>
+					<p class="b-list__tags"><a href="/tag/происшествия">происшествия</a><a href="/tag/дети">дети</a></p>
+				</li>
+				<li>
+					<p class="b-list__date">13:07</p>
+					<p class="b-sidebar-news-list__title"><a href="/news/proisshestviya/20022023/552563">Уголовное дело завели после получения ожогов девушкой в ТиНАО</a></p>
+					<p class="b-list__tags"><a href="/tag/происшествия">происшествия</a></p>
+				</li>
+				<li>
+					<p class="b-list__date">13:07</p>
+					<p class="b-sidebar-news-list__title"><a href="/news/politika/20022023/552561">Военные РФ взяли под контроль выход к железной дороге на Северск – Кадыров</a></p>
+					<p class="b-list__tags"><a href="/tag/политика">политика</a></p>
+				</li>
+				<li>
+					<p class="b-list__date">13:00</p>
+					<p class="b-sidebar-news-list__title"><a href="/news/politika/20022023/552560">Украинские СМИ сообщили о визите Байдена в Киев</a></p>
+					<p class="b-list__tags"><a href="/tag/политика">политика</a></p>
+				</li>
+				<li>
+					<p class="b-list__date">13:00</p>
+					<p class="b-sidebar-news-list__title"><a href="/news/proisshestviya/20022023/552559">В Алтайском крае мать заживо сожгла маленькую дочь на глазах у 8-летнего сына</a></p>
+					<p class="b-list__tags"><a href="/tag/происшествия">происшествия</a><a href="/tag/регионы">регионы</a></p>
+				</li>
+				<li>
+					<p class="b-list__date">12:53</p>
+					<p class="b-sidebar-news-list__title"><a href="/news/obshchestvo/20022023/552556">В Роспотребнадзоре рассказали, как правильно выбрать ингредиенты для масленичных блинов</a></p>
+					<p class="b-list__tags"><a href="/tag/общество">общество</a><a href="/tag/еда">еда</a></p>
+				</li>
+				<li>
+					<p class="b-list__date">12:52</p>
+					<p class="b-sidebar-news-list__title"><a href="/news/obshchestvo/20022023/552557">Синоптик предупредил москвичей о сильном похолодании к 23 февраля</a></p>
+					<p class="b-list__tags"><a href="/tag/общество">общество</a><a href="/tag/погода">погода</a></p>
+				</li>
+				<li>
+					<p class="b-list__date">12:52</p>
+					<p class="b-sidebar-news-list__title"><a href="/news/vlast/20022023/552555">Песков рекомендовал властям Молдавии быть осторожными в оценках по теме Приднестровья</a></p>
+					<p class="b-list__tags"><a href="/tag/власть">власть</a><a href="/tag/политика">политика</a></p>
+				</li>
+				<li>
+					<p class="b-list__date">12:49</p>
+					<p class="b-sidebar-news-list__title"><a href="/news/vlast/20022023/552554">Песков не исключил встречу Ван И с Путиным</a></p>
+					<p class="b-list__tags"><a href="/tag/власть">власть</a><a href="/tag/политика">политика</a></p>
+				</li>
+				<li>
+					<p class="b-list__date">12:47</p>
+					<p class="b-sidebar-news-list__title"><a href="/news/proisshestviya/20022023/552553">ВСУ обстреляли села Гуево и Горналь Курской области</a></p>
+					<p class="b-list__tags"><a href="/tag/происшествия">происшествия</a><a href="/tag/регионы">регионы</a></p>
+				</li>
+				<li>
+					<p class="b-list__date">12:46</p>
+					<p class="b-sidebar-news-list__title"><a href="/news/vlast/20022023/552552">Песков объяснил высокий уровень доверия россиян к Путину</a></p>
+					<p class="b-list__tags"><a href="/tag/власть">власть</a><a href="/tag/политика">политика</a></p>
+				</li>
+				<li>
+					<p class="b-list__date">12:44</p>
+					<p class="b-sidebar-news-list__title"><a href="/news/obrazovanie/20022023/552551">Школьникам из приграничных регионов РФ могут разрешить получить аттестат без ЕГЭ</a></p>
+					<p class="b-list__tags"><a href="/tag/образование">образование</a><a href="/tag/общество">общество</a></p>
+				</li>
+				<li>
+					<p class="b-list__date">12:37</p>
+					<p class="b-sidebar-news-list__title"><a href="/news/vlast/20022023/552546">Песков заявил, что на послании Путина парламенту будут присутствовать участники СВО</a></p>
+					<p class="b-list__tags"><a href="/tag/власть">власть</a><a href="/tag/политика">политика</a></p>
+				</li>
+				<li>
+					<p class="b-list__date">12:37</p>
+					<p class="b-sidebar-news-list__title"><a href="/news/obshchestvo/20022023/552545">Названы популярные товары среди россиян в преддверии 23 февраля и 8 Марта</a></p>
+					<p class="b-list__tags"><a href="/tag/общество">общество</a></p>
+				</li>
+				<li>
+					<p class="b-list__date">12:33</p>
+					<p class="b-sidebar-news-list__title"><a href="/news/obshchestvo/20022023/552426">Вирусолог рассказал, может ли вирус Марбург превзойти COVID-19</a></p>
+					<p class="b-list__tags"><a href="/tag/общество">общество</a><a href="/tag/эксклюзив">эксклюзив</a></p>
+				</li>
+				<li>
+					<p class="b-list__date">12:29</p>
+					<p class="b-sidebar-news-list__title"><a href="/news/mehr-Moskvy/20022023/552542">Собянин рассказал об открытии детской поликлиники в Южном Медведкове</a></p>
+					<p class="b-list__tags"><a href="/tag/мэр-Москвы">мэр Москвы</a><a href="/tag/медицина">медицина</a><a href="/tag/город">город</a></p>
+				</li>
+				<li>
+					<p class="b-list__date">12:29</p>
+					<p class="b-sidebar-news-list__title"><a href="/news/obshchestvo/20022023/552541">Эксперт РАН рассказала, почему нельзя полностью отказаться от соли</a></p>
+					<p class="b-list__tags"><a href="/tag/общество">общество</a><a href="/tag/еда">еда</a></p>
+				</li>
+			</ul>
+
+		</div>
+
+	</div>
+
+</div>
+<script>
+let sidebar_page = 2;
+// ограничение на 50 страниц
+if ( sidebar_page > 50 ) {
+	sidebar_page = 50
+}
+
+let sidebar_add_materials = 1;
+
+// window.addEventListener('scroll', function(e) {
+document.querySelector('.b-sticky-sidebar').addEventListener('scroll', function(e) {
+	// console.log( this.scrollHeight + ' | ' + this.scrollTop + ' | ' + this.offsetHeight + ' | ' + add_materials );
+	if( ( this.scrollTop + this.offsetHeight + 100 ) >= this.scrollHeight && sidebar_add_materials ){
+		sidebar_add_materials = 0;
+		// console.log('ура! конец страницы!');
+		// if ( !document.querySelector('.b-materials-list-loader') ) {
+		// 	let materials_list = document.querySelectorAll('.b-sidebar-news-list ul');
+		// 	materials_list[ materials_list.length - 1 ].insertAdjacentHTML('beforeend', '<p class="b-materials-list-loader">Подождите, идёт загрузка ...</p>');
+		// }
+
+		let params = {
+			'page' : sidebar_page,
+			'ajax' : '1',
+			'main' : '1'
+		};
+
+		let query = Object.keys(params)
+			.map(k => encodeURIComponent(k) + '=' + encodeURIComponent(params[k]))
+			.join('&');
+
+		let url = '/news?' + query;
+
+		fetch( url, {
+			method: "GET",
+			headers: {
+				'Content-Type': 'text/html'
+			},
+		} )
+		.then( response => {
+			if ( response.ok ) {
+				return response.text();
+			}
+		})
+		.then( data => {
+			// // удаляем лого загрузки
+			// let loader = document.querySelector('.b-materials-list-loader');
+			// loader.parentNode.removeChild( loader );
+
+			// добавляем контент
+			let materials_list = document.querySelectorAll('.b-sidebar-news-list ul');
+			let total = data.match(/<li>/g).length;
+			if ( total ) {
+				materials_list[ materials_list.length - 1 ].insertAdjacentHTML('beforeend', data);
+				if ( total == 25 && sidebar_page < 50 ) {
+					sidebar_add_materials = 1;
+				}
+			}
+
+			sidebar_page++;
+		});
+
+		return false;
+	}
+});
+</script>
+			</div>
+			<div class="columns-right">
+				
+
+<!--maillist unsubscribe-->
+
+<!-- adv -->
+
+<!-- adv -->
+
+<section class="b-home-main">
+	<div class="container2">
+
+/* mobile */
+
+		<div class="b-home-main-news-list b-home-main-news-list_mobile">
+			<ul>
+				<li>
+					<p class="b-home-main-news-list__title"><a href="/news/proisshestviya/20022023/552563"><i class="b-list__img b-effect2"><img src="/b/d/nBkSUhL2hFgkkM21JL6BrNOp2Z3y9pj20SfFh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=SVub3cjdRq2mKhKFL5f8hg.jpg" width="640" height="360" alt="" loading="lazy" /></i><span>Уголовное дело завели после получения ожогов девушкой в ТиНАО</span></a></p>
+				</li>
+				<li>
+					<p class="b-home-main-news-list__title"><a href="/news/vlast/20022023/552546">Песков заявил, что на послании Путина парламенту будут присутствовать участники СВО</a></p>
+				</li>
+				<li>
+					<p class="b-home-main-news-list__title"><a href="/news/politika/20022023/552576">Зеленский подтвердил визит Байдена в Киев</a></p>
+				</li>
+				<li>
+					<p class="b-home-main-news-list__title"><a href="/news/proisshestviya/20022023/552495">Пять сноубордистов находились на борту аварийно севшего в Кузбассе вертолета</a></p>
+				</li>
+				<li>
+					<p class="b-home-main-news-list__title"><a href="/news/obshchestvo/20022023/552475">Николая Сванидзе перевезли на лечение в Израиль</a></p>
+				</li>
+				<li>
+					<p class="b-home-main-news-list__title"><a href="/news/obshchestvo/20022023/552557">Синоптик предупредил москвичей о сильном похолодании к 23 февраля</a></p>
+				</li>
+			</ul>
+
+			<a href="/news" class="b-home-main-news-list-button">Больше новостей</a>
+
+		</div>
+
+		<div class="b-home-main-mayor">
+			<h3><a href="/rubrics/mayor/">Мэр Москвы</a></h3>
+			<p class="b-home-main-mayor__title"><a href="/news/mehr-Moskvy/20022023/552542"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkkM6wIL6BrNOp2Z3y9pj20SfFh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=ejHPFawTA8bA_55nsJExBw.jpg" alt="" loading="lazy" /></i><span>Собянин рассказал об открытии детской поликлиники в Южном Медведкове</span></a></p>
+		</div>
+
+		<div class="columns2">
+
+			<div class="columns2-left b-click-main">
+
+				<div class="b-home-main-news-menu b-click-menu">
+					<ul>
+						<li class="active"><a><span>Главное</span></a></li>
+						<li><a><span>Землетрясение в Турции</span></a></li>
+						<li><a><span>Спецоперация</span></a></li>
+						<li><a><span>Мой район</span></a></li>
+					</ul>
+				</div>
+
+				<div class="b-home-main-news-lists">
+					<div class="b-home-main-news-list b-click-content">
+						<ul>
+							<li>
+								<p class="b-home-main-news-list__title"><a href="/news/proisshestviya/20022023/552563" class="b-effect2"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkkM21JL6BrNOp2Z3z9JD21iLHh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=BZYnEBegstv2IA_zo4Jrig.jpg" width="640" height="360" alt="" loading="lazy" /></i><span>Уголовное дело завели после получения ожогов девушкой в ТиНАО</span></a></p>
+							</li>
+							<li>
+								<p class="b-home-main-news-list__title"><a href="/news/vlast/20022023/552546" class="b-effect2">Песков заявил, что на послании Путина парламенту будут присутствовать участники СВО</a></p>
+							</li>
+							<li>
+								<p class="b-home-main-news-list__title"><a href="/news/politika/20022023/552576" class="b-effect2">Зеленский подтвердил визит Байдена в Киев</a></p>
+							</li>
+							<li>
+								<p class="b-home-main-news-list__title"><a href="/news/proisshestviya/20022023/552495" class="b-effect2">Пять сноубордистов находились на борту аварийно севшего в Кузбассе вертолета</a></p>
+							</li>
+							<li>
+								<p class="b-home-main-news-list__title"><a href="/news/obshchestvo/20022023/552475" class="b-effect2">Николая Сванидзе перевезли на лечение в Израиль</a></p>
+							</li>
+							<li>
+								<p class="b-home-main-news-list__title"><a href="/news/obshchestvo/20022023/552557" class="b-effect2">Синоптик предупредил москвичей о сильном похолодании к 23 февраля</a></p>
+							</li>
+						</ul>
+					</div>
+					<div class="b-home-main-news-list b-click-content" style="display:none">
+						<ul>
+								<li>
+	<p class="b-home-main-news-list__title"><a href="/news/proisshestviya/19022023/552348" class="b-effect2"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkkce0JL6BrNOp2Z3z9JD21iLHh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=_D4uNcLopZg6KjkO8wf0gQ.jpg" width="640" height="360" alt="" loading="lazy" /></i><span>Число погибших при землетрясениях в Турции превысило 41 тыс человек</span></a></p>
+</li>
+<li>
+	<p class="b-home-main-news-list__title"><a href="/news/proisshestviya/19022023/552294" class="b-effect2">Число жертв при землетрясениях в Турции выросло до 40 689 человек</a></p>
+</li>
+<li>
+	<p class="b-home-main-news-list__title"><a href="/news/proisshestviya/19022023/552197" class="b-effect2">В турецком Кахраманмараше произошло землетрясение магнитудой 5,2</a></p>
+</li>
+<li>
+	<p class="b-home-main-news-list__title"><a href="/news/proisshestviya/17022023/552001" class="b-effect2">В Турции сообщили, что работы продолжаются на месте менее 200 разрушенных домов</a></p>
+</li>
+<li>
+	<p class="b-home-main-news-list__title"><a href="/news/proisshestviya/17022023/551941" class="b-effect2">Эксперт оценил возможность продержаться под завалами без воды</a></p>
+</li>
+<li>
+	<p class="b-home-main-news-list__title"><a href="/news/za-rubezhom/17022023/551852" class="b-effect2">Ученый предупредил о риске разрушительного землетрясения в Стамбуле в ближайшие 7 лет</a></p>
+</li>
+
+						</ul>
+					</div>
+					<div class="b-home-main-news-list b-click-content" style="display:none">
+						<ul>
+								<li>
+	<p class="b-home-main-news-list__title"><a href="/news/politika/20022023/552561" class="b-effect2"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkkM23Ir6BrNOp2Z3z9JD21iLHh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=H-uwSBKn9QJRecXTf7ffnw.jpg" width="640" height="360" alt="" loading="lazy" /></i><span>Военные РФ взяли под контроль выход к железной дороге на Северск – Кадыров</span></a></p>
+</li>
+<li>
+	<p class="b-home-main-news-list__title"><a href="/news/vlast/20022023/552554" class="b-effect2">Песков не исключил встречу Ван И с Путиным</a></p>
+</li>
+<li>
+	<p class="b-home-main-news-list__title"><a href="/news/politika/20022023/552474" class="b-effect2">Обозреватель Die Welt назвал наиболее вероятный сценарий развития событий на Украине</a></p>
+</li>
+<li>
+	<p class="b-home-main-news-list__title"><a href="/news/politika/20022023/552469" class="b-effect2">В СВР заявили об уничтожении большей части техники, предоставленной НАТО Киеву</a></p>
+</li>
+<li>
+	<p class="b-home-main-news-list__title"><a href="/news/politika/20022023/552440" class="b-effect2">Эксперт связал упорство ВСУ при обороне Артемовска с неподготовленностью к отступлению</a></p>
+</li>
+<li>
+	<p class="b-home-main-news-list__title"><a href="/news/politika/20022023/552421" class="b-effect2">В ЛНР заявили о подготовке ВСУ к обороне города Часов Яр к западу от Артемовска</a></p>
+</li>
+
+						</ul>
+					</div>
+					<div class="b-home-main-news-list b-click-content" style="display:none">
+						<ul>
+								<li>
+	<p class="b-home-main-news-list__title"><a href="/news/mehr-Moskvy/20022023/552542" class="b-effect2"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkkM6wIL6BrNOp2Z3z9JD21iLHh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=Nvxz2HNu97CQ9YMRPISmCw.jpg" width="640" height="360" alt="" loading="lazy" /></i><span>Собянин рассказал об открытии детской поликлиники в Южном Медведкове</span></a></p>
+</li>
+<li>
+	<p class="b-home-main-news-list__title"><a href="/news/mehr-Moskvy/20022023/552429" class="b-effect2">Собянин рассказал, как Воробьевская набережная преобразится после благоустройства</a></p>
+</li>
+<li>
+	<p class="b-home-main-news-list__title"><a href="/news/gorod/17022023/551923" class="b-effect2">Два жилых корпуса по реновации введут в районе Коньково в 2023 году</a></p>
+</li>
+<li>
+	<p class="b-home-main-news-list__title"><a href="/news/gorod/17022023/551877" class="b-effect2">Еще 19 новостроек по программе реновации готовят к передаче под заселение в Москве</a></p>
+</li>
+<li>
+	<p class="b-home-main-news-list__title"><a href="/news/gorod/17022023/551859" class="b-effect2">Бочкарев рассказал о развитии ТПУ &quot;Петровско-Разумовская&quot;</a></p>
+</li>
+<li>
+	<p class="b-home-main-news-list__title"><a href="/news/gorod/17022023/551711" class="b-effect2">Первый дом по программе реновации расселили в Алексеевском районе</a></p>
+</li>
+
+						</ul>
+					</div>
+				</div>
+
+				<div class="b-home-main-blocks">
+
+					<div class="b-home-city b-home-city_desktop">
+
+	<a class="b-home-city__logo" href="https://thecity.m24.ru" target="_blank" data-ids="">TheCity</a>
+
+	<div class="b-home-city-slider-wrapper"><div class="b-home-city-slider b-home-city-slider_desktop glide">
+		<div class="glide__track" data-glide-el="track">
+			<div class="b-home-city-list b-home-city-list_desktop glide__slides">
+			</div>
+		</div>
+		<div class="glide__arrows" data-glide-el="controls">
+			<button class="glide__arrow glide__arrow--prev" data-glide-dir="<"></button>
+			<button class="glide__arrow glide__arrow--next" data-glide-dir=">"></button>
+		</div>
+		<div class="glide__bullets" data-glide-el="controls[nav]">
+			<button class="glide__bullet" data-glide-dir="=0"></button>
+			<button class="glide__bullet" data-glide-dir="=1"></button>
+			<button class="glide__bullet" data-glide-dir="=2"></button>
+			<button class="glide__bullet" data-glide-dir="=3"></button>
+			<button class="glide__bullet" data-glide-dir="=4"></button>
+		</div>
+	</div></div>
+
+</div>
+
+					<div class="b-home-video-today">
+
+						<h3><a href="/videos">Видео сегодня</a></h3>
+
+						<p class="b-home-video-today__title"><a href="/videos/politika/20022023/552578" class="b-effect2"><span>Зеленский подтвердил визит Байдена в Киев</span><i class="b-list__img"><i class="b-list-type video"></i><img src="/b/d/nBkSUhL2hFgkkM21J7mM5pql29q06p660mnGmPyDoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=3V4yPD0faMsZJ-3jMVcS5Q.jpg" width="640" height="360" alt="" loading="lazy"></i></a></p>
+
+						<div class="b-home-video-today-block">
+							<div class="b-home-video-today-slider-wrapper"><div class="b-home-video-today-slider glide">
+								<div class="glide__track" data-glide-el="track">
+									<div class="b-home-video-today-list glide__slides">
+										<div class="glide__slide">
+											<p class="b-home-video-today-list__title"><a href="/videos/vlast/20022023/552543" class="b-effect2"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkkM6_I7mI5pql29q06pu-0mnEmPWDoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=fdxsHKsHcG7EL9Xl3w_94A.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Песков заявил, что экономика РФ твердо стоит на ногах</span></a></p>
+										</div>
+										<div class="glide__slide">
+											<p class="b-home-video-today-list__title"><a href="/videos/obshchestvo/20022023/552515" class="b-effect2"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkkM6zILmJ5pql29q06pu-0mnEmPWDoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=0Cdo5XW7DNh67zH3vUOuag.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>В Бутове обнаружили реку с магазинными тележками</span></a></p>
+										</div>
+										<div class="glide__slide">
+											<p class="b-home-video-today-list__title"><a href="/videos/transport/20022023/552510" class="b-effect2"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkkM6zJbmL_4j9ysersoC90iGNn_qTsj2YcGueSyTChTZh94kB7weP_JHL5C6DJtljBPyliSUlaiuC8mlN_xHCxnQ=79jVIQHIhyuBvFkUgKngxg.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Реконструкция станции Поклонная для будущего D4 завершена на 56%</span></a></p>
+										</div>
+										<div class="glide__slide">
+											<p class="b-home-video-today-list__title"><a href="/videos/proisshestviya/20022023/552503" class="b-effect2"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkkM61LrmD5pql29q06pu-0mnEmPWDoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=aetMtItghOzYzz3OT_yYrg.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Полицейские задержали избившего посетителя охранника ТЦ на Комсомольской площади</span></a></p>
+										</div>
+										<div class="glide__slide">
+											<p class="b-home-video-today-list__title"><a href="/videos/gorod/20022023/552507" class="b-effect2"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkkM60IrmO5pql29q06pu-0mnEmPWDoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=AcPkyujhy1yeSL3i7pSVrQ.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Более миллиона человек присоединились к волонтерскому сообществу Москвы за 9 лет</span></a></p>
+										</div>
+										<div class="glide__slide">
+											<p class="b-home-video-today-list__title"><a href="/videos/proisshestviya/20022023/552505" class="b-effect2"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkkM60JbmP5pql29q06pu-0mnEmPWDoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=ye8Q3Kjn50G8thRwhcY2IQ.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Инспекторы ДПС задержали наркокурьеров в Люберцах</span></a></p>
+										</div>
+										<div class="glide__slide">
+											<p class="b-home-video-today-list__title"><a href="/videos/transport/20022023/552506" class="b-effect2"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkkM60I7mO5pql29q06pu-0mnEmPWDoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=405M-RDrV1t6thL2wo6hKg.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Специалисты проверили автоматику движения поездов в московском метро</span></a></p>
+										</div>
+										<div class="glide__slide">
+											<p class="b-home-video-today-list__title"><a href="/videos/transport/20022023/552573" class="b-effect2"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkkM22IbmI5pql29q06pu-0mnEmPWDoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=LHqYXKFmXaH3OUqvESOpaA.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Владельцам электромобилей разрешат бесплатно ездить по платным трассам РФ с 1 марта</span></a></p>
+										</div>
+										<div class="glide__slide">
+											<p class="b-home-video-today-list__title"><a href="/videos/obshchestvo/20022023/552502" class="b-effect2"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkkM61ILmN5pql29q06pu-0mnEmPWDoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=a-Vyw-o8_KgNEtrlXagPDg.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Москвичи прислали кадры с оптической иллюзией</span></a></p>
+										</div>
+									</div>
+								</div>
+								<div class="glide__arrows" data-glide-el="controls">
+									<button class="glide__arrow glide__arrow--prev" data-glide-dir="<"></button>
+									<button class="glide__arrow glide__arrow--next" data-glide-dir=">"></button>
+								</div>
+							</div></div>
+						</div>
+
+					</div>
+
+				</div>
+
+			</div>
+
+			<div class="columns2-right">
+
+				<div style="padding:0">
+    <div style="width:300px;height:600px;background:#f2f2f2;margin:0 auto;">
+
+        <div id="vertical_top"></div>
+        <script type="text/javascript">
+            m24('ad', 'show', 'vertical_top');
+        </script>
+
+    </div>
+</div>
+
+			</div>
+
+		</div>
+
+	</div>
+</section>
+
+<section class="b-home-materials">
+	<div class="container2">
+		<div class="b-home-materials-list">
+			<ul>
+				<li>
+					<p class="b-list__date">13:39</p>
+					<p class="b-home-materials-list__rubric"><a href="/rubrics/society">Общество</a></p>
+					<p class="b-home-materials-list__title"><a href="/news/obshchestvo/20022023/552588">Диетолог объяснила, чем опасны пышные и красивые блины на пиве</a></p>
+					<p class="b-home-materials-list__icons">
+						<a href="/videos"><i class="b-icon video"></i></a>
+					</p>
+				</li>
+				<li>
+					<p class="b-list__date">13:37</p>
+					<p class="b-home-materials-list__rubric"><a href="/rubrics/politics">Политика</a></p>
+					<p class="b-home-materials-list__title"><a href="/news/politika/20022023/552584">Байден на встрече с Зеленским в Киеве заявил о предоставлении помощи на 500 млн долларов</a></p>
+					<p class="b-home-materials-list__icons">
+						<a href="/videos"><i class="b-icon video"></i></a>
+					</p>
+				</li>
+				<li>
+					<p class="b-list__date">13:36</p>
+					<p class="b-home-materials-list__rubric"><a href="/rubrics/city">Город</a></p>
+					<p class="b-home-materials-list__title"><a href="/news/gorod/20022023/552583">Более 260 праздничных конструкций украсили Москву к Масленице</a></p>
+					<p class="b-home-materials-list__icons">
+						<a href="/videos"><i class="b-icon video"></i></a>
+					</p>
+				</li>
+				<li>
+					<p class="b-list__date">13:32</p>
+					<p class="b-home-materials-list__rubric"><a href="/rubrics/technology">Технологии</a></p>
+					<p class="b-home-materials-list__title"><a href="/news/tehnologii/20022023/552582">Ассоциация банков России попросит РКН не запрещать оказывать услуги через Telegram</a></p>
+					<p class="b-home-materials-list__icons">
+						<a href="/videos"><i class="b-icon video"></i></a>
+					</p>
+				</li>
+				<li>
+					<p class="b-list__date">13:20</p>
+					<p class="b-home-materials-list__rubric"><a href="/rubrics/auto">Транспорт</a></p>
+					<p class="b-home-materials-list__title"><a href="/news/transport/20022023/552575">Расписание электричек на МЖД изменится в праздничные дни февраля и марта</a></p>
+					<p class="b-home-materials-list__icons">
+						<a href="/videos"><i class="b-icon video"></i></a>
+					</p>
+				</li>
+			</ul>
+		</div>
+	</div>
+</section>
+
+<section class="b-home-shows">
+	<div class="container2">
+
+	<h3 class="transform"><a href="/shows1">Программы<br />Москва 24</a></h3>
+
+	<div class="b-home-shows-slider-wrapper"><div class="b-home-shows-slider glide">
+		<div class="glide__track" data-glide-el="track">
+			<div class="b-home-shows-list glide__slides">
+				<div class="glide__slide">
+					<div class="b-home-shows-list__item b-effect">
+						<p class="b-home-shows-list__header"><a href="/shows1/150">The City.Едим</a></p>
+						<p class="b-home-shows-list__title">
+							<a href="/shows1/150/552153"><i class="b-list__img"><i class="b-list-type video"></i><img src="/b/d/nBkSUhL2hFgkkcm3JbmL_4j9ysersoC90iGNn_qTsj2YcGueSyTChTZh94kB7weP_JHL5C6DJtljBPyliSUlaiuC8mlN_xHCxnQ=wBv4aPhL2O4iQNfW4G98Hw.jpg" width="300" height="169" alt="" loading="lazy" /></i>
+							<span>Рестораны-оранжереи</span></a>
+						</p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-shows-list__item b-effect">
+						<p class="b-home-shows-list__header"><a href="/shows1/4">Специальный репортаж</a></p>
+						<p class="b-home-shows-list__title">
+							<a href="/shows1/4/552154"><i class="b-list__img"><i class="b-list-type video"></i><img src="/b/d/nBkSUhL2hFgkkcm3JLmJ5pql29q06pu-0mnEmPWDoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=8dLlY2wSIwJK6QNlbe3grQ.jpg" width="300" height="169" alt="" loading="lazy" /></i>
+							<span>Грешительный запрет</span></a>
+						</p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-shows-list__item b-effect">
+						<p class="b-home-shows-list__header"><a href="/shows1/163">Время новых. Шоу</a></p>
+						<p class="b-home-shows-list__title">
+							<a href="/shows1/163/552093"><i class="b-list__img"><i class="b-list-type video"></i><img src="/b/d/nBkSUhL2hFgkkcq0ILmJ5pql29q06pu-0mnEmPWDoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=90gZuzeUdjMr3vdvrlA8IA.jpg" width="300" height="169" alt="" loading="lazy" /></i>
+							<span>Глазированные сырки</span></a>
+						</p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-shows-list__item b-effect">
+						<p class="b-home-shows-list__header"><a href="/shows1/14">Московский патруль</a></p>
+						<p class="b-home-shows-list__title">
+							<a href="/shows1/14/552011"><i class="b-list__img"><i class="b-list-type video"></i><img src="/b/d/nBkSUhL2hFgkkcu0L7mD5pql29q06pu-0mnEmPWDoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=KcrFw5IKlqTF9gCwGMmtYw.jpg" width="300" height="169" alt="" loading="lazy" /></i>
+							<span>Избившего сотрудницу пункта выдачи товаров отправили в СИЗО</span></a>
+						</p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-shows-list__item b-effect">
+						<p class="b-home-shows-list__header"><a href="/shows1/123">Атмосфера</a></p>
+						<p class="b-home-shows-list__title">
+							<a href="/shows1/123/551925"><i class="b-list__img"><i class="b-list-type video"></i><img src="/b/d/nBkSUhL2hFgkkc2wL7mP5pql29q06pu-0mnEmPWDoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=e5XMRxE6805NEgxTD_tv-A.jpg" width="300" height="169" alt="" loading="lazy" /></i>
+							<span>Облачная погода и снег ожидаются в Москве в выходные 18–19 февраля</span></a>
+						</p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-shows-list__item b-effect">
+						<p class="b-home-shows-list__header"><a href="/shows1/166">Деньги 24</a></p>
+						<p class="b-home-shows-list__title">
+							<a href="/shows1/166/551948"><i class="b-list__img"><i class="b-list-type video"></i><img src="/b/d/nBkSUhL2hFgkkcy3I7mD5pql29q06pu-0mnEmPWDoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=tfKYrnnHsFA_ZDxzabvd4Q.jpg" width="300" height="169" alt="" loading="lazy" /></i>
+							<span>ЦБ РФ предложил новую схему для борьбы с телефонными мошенниками</span></a>
+						</p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-shows-list__item b-effect">
+						<p class="b-home-shows-list__header"><a href="/shows1/137">Доктор 24</a></p>
+						<p class="b-home-shows-list__title">
+							<a href="/shows1/137/551798"><i class="b-list__img"><i class="b-list-type video"></i><img src="/b/d/nBkSUhL2hFgkkc60JLmC5pql29q06pu-0mnEmPWDoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=xUHIpR5qXZ1AQ_GhRbvy8g.jpg" width="300" height="169" alt="" loading="lazy" /></i>
+							<span>Зубной камень</span></a>
+						</p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-shows-list__item b-effect">
+						<p class="b-home-shows-list__header"><a href="/shows1/133">Познавательный фильм</a></p>
+						<p class="b-home-shows-list__title">
+							<a href="/shows1/133/547499"><i class="b-list__img"><i class="b-list-type video"></i><img src="/b/d/nBkSUhL2hFgkms-xIbmP5pql29q06pu-0mnEmPWDoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=wtL12cTIY_ENcyVrQNuB6A.jpg" width="300" height="169" alt="" loading="lazy" /></i>
+							<span>Москва. Как устроена пожарная часть</span></a>
+						</p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-shows-list__item b-effect">
+						<p class="b-home-shows-list__header"><a href="/shows1/144">Откройте, Давид</a></p>
+						<p class="b-home-shows-list__title">
+							<a href="/shows1/144/538534"><i class="b-list__img"><i class="b-list-type video"></i><img src="/b/d/nBkSUhL2hFgmkMm-JLmL_4j9ysersoC90iGNn_qTsj2YcGueSyTChTZh94kB7weP_JHL5C6DJtljBPyliSUlaiuC8mlN_xHCxnQ=p5LO8JAk3K2Bcb61hH4Qaw.jpg" width="300" height="169" alt="" loading="lazy" /></i>
+							<span>Дмитрий Астрахан</span></a>
+						</p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-shows-list__item b-effect">
+						<p class="b-home-shows-list__header"><a href="/shows1/148">Мрр вашему дому</a></p>
+						<p class="b-home-shows-list__title">
+							<a href="/shows1/148/533828"><i class="b-list__img"><i class="b-list-type video"></i><img src="/b/d/nBkSUhL2hFgmmsq2ILmL5pql29q06pu-0mnEmPWDoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=-NxUG4w8IU4rr4A8dJ72IA.jpg" width="300" height="169" alt="" loading="lazy" /></i>
+							<span>БКЛ</span></a>
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="glide__arrows" data-glide-el="controls">
+			<button class="glide__arrow glide__arrow--prev" data-glide-dir="<"></button>
+			<button class="glide__arrow glide__arrow--next" data-glide-dir=">"></button>
+		</div>
+	</div></div>
+
+</div>
+
+</section>
+
+
+<section class="b-home-materials">
+	<div class="container2">
+		<div class="b-home-materials-list">
+			<ul>
+				<li>
+					<p class="b-list__date">13:20</p>
+					<p class="b-home-materials-list__rubric"><a href="/rubrics/politics">Политика</a></p>
+					<p class="b-home-materials-list__title"><a href="/news/politika/20022023/552576">Зеленский подтвердил визит Байдена в Киев</a></p>
+					<p class="b-home-materials-list__icons">
+					</p>
+				</li>
+				<li>
+					<p class="b-list__date">13:19</p>
+					<p class="b-home-materials-list__rubric"><a href="/rubrics/society">Общество</a></p>
+					<p class="b-home-materials-list__title"><a href="/news/obshchestvo/20022023/552574">В СПЧ рассказали о сроках внедрения цифрового кодекса в РФ</a></p>
+					<p class="b-home-materials-list__icons">
+						<a href="/videos"><i class="b-icon video"></i></a>
+					</p>
+				</li>
+				<li>
+					<p class="b-list__date">13:13</p>
+					<p class="b-home-materials-list__rubric"><a href="/rubrics/accidents">Происшествия</a></p>
+					<p class="b-home-materials-list__title"><a href="/news/vlast/20022023/552571">Путин выразил соболезнования президенту Бразилии в связи с наводнением в Сан-Паулу</a></p>
+					<p class="b-home-materials-list__icons">
+						<a href="/videos"><i class="b-icon video"></i></a>
+					</p>
+				</li>
+				<li>
+					<p class="b-list__date">13:08</p>
+					<p class="b-home-materials-list__rubric"><a href="/rubrics/accidents">Происшествия</a></p>
+					<p class="b-home-materials-list__title"><a href="/news/proisshestviya/20022023/552562">Прокуратура установила личность мужчины, который бросил ребенка в снег в Зеленограде</a></p>
+					<p class="b-home-materials-list__icons">
+					</p>
+				</li>
+				<li>
+					<p class="b-list__date">13:07</p>
+					<p class="b-home-materials-list__rubric"><a href="/rubrics/politics">Политика</a></p>
+					<p class="b-home-materials-list__title"><a href="/news/politika/20022023/552561">Военные РФ взяли под контроль выход к железной дороге на Северск – Кадыров</a></p>
+					<p class="b-home-materials-list__icons">
+						<a href="/videos"><i class="b-icon video"></i></a>
+					</p>
+				</li>
+			</ul>
+		</div>
+	</div>
+</section>
+
+<div class="b-home-city b-home-city_mobile">
+
+	<a class="b-home-city__logo" href="https://thecity.m24.ru" target="_blank">TheCity</a>
+
+	<div class="b-home-city-slider-wrapper"><div class="b-home-city-slider b-home-city-slider_mobile glide">
+		<div class="glide__track" data-glide-el="track">
+			<div class="b-home-city-list b-home-city-list_mobile glide__slides">
+			</div>
+		</div>
+		<div class="glide__arrows" data-glide-el="controls">
+			<button class="glide__arrow glide__arrow--prev" data-glide-dir="<"></button>
+			<button class="glide__arrow glide__arrow--next" data-glide-dir=">"></button>
+		</div>
+		<div class="glide__bullets" data-glide-el="controls[nav]">
+			<button class="glide__bullet" data-glide-dir="=0"></button>
+			<button class="glide__bullet" data-glide-dir="=1"></button>
+			<button class="glide__bullet" data-glide-dir="=2"></button>
+			<button class="glide__bullet" data-glide-dir="=3"></button>
+			<button class="glide__bullet" data-glide-dir="=4"></button>
+		</div>
+	</div></div>
+
+</div>
+
+<section class="b-home-materials">
+	<div class="container2">
+		<div class="b-home-materials-list">
+			<ul>
+				<li>
+					<p class="b-list__date">13:07</p>
+					<p class="b-home-materials-list__rubric"><a href="/rubrics/accidents">Происшествия</a></p>
+					<p class="b-home-materials-list__title"><a href="/news/proisshestviya/20022023/552563">Уголовное дело завели после получения ожогов девушкой в ТиНАО</a></p>
+					<p class="b-home-materials-list__icons">
+						<a href="/videos"><i class="b-icon video"></i></a>
+					</p>
+				</li>
+				<li>
+					<p class="b-list__date">13:00</p>
+					<p class="b-home-materials-list__rubric"><a href="/rubrics/accidents">Происшествия</a></p>
+					<p class="b-home-materials-list__title"><a href="/news/proisshestviya/20022023/552559">В Алтайском крае мать заживо сожгла маленькую дочь на глазах у 8-летнего сына</a></p>
+					<p class="b-home-materials-list__icons">
+						<a href="/videos"><i class="b-icon video"></i></a>
+					</p>
+				</li>
+				<li>
+					<p class="b-list__date">13:00</p>
+					<p class="b-home-materials-list__rubric"><a href="/rubrics/politics">Политика</a></p>
+					<p class="b-home-materials-list__title"><a href="/news/politika/20022023/552560">Украинские СМИ сообщили о визите Байдена в Киев</a></p>
+					<p class="b-home-materials-list__icons">
+					</p>
+				</li>
+				<li>
+					<p class="b-list__date">12:53</p>
+					<p class="b-home-materials-list__rubric"><a href="/rubrics/society">Общество</a></p>
+					<p class="b-home-materials-list__title"><a href="/news/obshchestvo/20022023/552556">В Роспотребнадзоре рассказали, как правильно выбрать ингредиенты для масленичных блинов</a></p>
+					<p class="b-home-materials-list__icons">
+						<a href="/videos"><i class="b-icon video"></i></a>
+					</p>
+				</li>
+				<li>
+					<p class="b-list__date">12:52</p>
+					<p class="b-home-materials-list__rubric"><a href="/rubrics/politics">Политика</a></p>
+					<p class="b-home-materials-list__title"><a href="/news/vlast/20022023/552555">Песков рекомендовал властям Молдавии быть осторожными в оценках по теме Приднестровья</a></p>
+					<p class="b-home-materials-list__icons">
+						<a href="/videos"><i class="b-icon video"></i></a>
+					</p>
+				</li>
+			</ul>
+		</div>
+	</div>
+</section>
+
+<section class="b-home-rubrics">
+	<div class="container2">
+	<div class="columns2">
+		<div class="columns2-left">
+
+			<div class="b-home-rubrics-list">
+				<h3><a href="/rubrics/city">Город</a></h3>
+				<div><div>
+					<ul>
+						<li>
+							<p class="b-list__date">13:36</p>
+							<p class="b-list__title"><a href="/news/gorod/20022023/552583" class="b-effect2"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkkM20J76BrNOp2Z339Jj20CHGh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=CeZZNn7t8Fni9jWkr10S7w.jpg" width="300" height="169" alt="" loading="lazy" /></i><span class="b-list__date">13:36</span><span>Более 260 праздничных конструкций украсили Москву к Масленице</span></a></p>
+						</li>
+						<li>
+							<p class="b-list__date">12:26</p>
+							<p class="b-list__title"><a href="/news/gorod/20022023/552539" class="b-effect2"><span>На северо-западе Москвы началось строительство бизнес-центра на 1,7 тыс рабочих мест</span></a></p>
+						</li>
+						<li>
+							<p class="b-list__date">12:14</p>
+							<p class="b-list__title"><a href="/news/gorod/20022023/552531" class="b-effect2"><span>Строительство бизнес-центра началось в Хорошёво-Мнёвниках</span></a></p>
+						</li>
+						<li>
+							<p class="b-list__date">11:56</p>
+							<p class="b-list__title"><a href="/news/gorod/20022023/552508" class="b-effect2"><span>Столичные службы ликвидируют последствия сильного снегопада</span></a></p>
+						</li>
+						<li>
+							<p class="b-list__date">11:40</p>
+							<p class="b-list__title"><a href="/news/gorod/20022023/552490" class="b-effect2"><span>Активность застройщиков свидетельствует о динамичном развитии Москвы – заммэра Бочкарев</span></a></p>
+						</li>
+					</ul>
+				</div></div>
+			</div>
+			<div class="b-home-rubrics-list">
+				<h3><a href="/rubrics/society">Общество</a></h3>
+				<div><div>
+					<ul>
+						<li>
+							<p class="b-list__date">13:19</p>
+							<p class="b-list__title"><a href="/news/obshchestvo/20022023/552574" class="b-effect2"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkkM22I76BrNOp2Z339Jj20CHGh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=FICeCYv_j4-MUqGsK1zP9Q.jpg" width="300" height="169" alt="" loading="lazy" /></i><span class="b-list__date">13:19</span><span>В СПЧ рассказали о сроках внедрения цифрового кодекса в РФ</span></a></p>
+						</li>
+						<li>
+							<p class="b-list__date">12:53</p>
+							<p class="b-list__title"><a href="/news/obshchestvo/20022023/552556" class="b-effect2"><span>В Роспотребнадзоре рассказали, как правильно выбрать ингредиенты для масленичных блинов</span></a></p>
+						</li>
+						<li>
+							<p class="b-list__date">12:52</p>
+							<p class="b-list__title"><a href="/news/obshchestvo/20022023/552557" class="b-effect2"><span>Синоптик предупредил москвичей о сильном похолодании к 23 февраля</span></a></p>
+						</li>
+						<li>
+							<p class="b-list__date">12:44</p>
+							<p class="b-list__title"><a href="/news/obrazovanie/20022023/552551" class="b-effect2"><span>Школьникам из приграничных регионов РФ могут разрешить получить аттестат без ЕГЭ</span></a></p>
+						</li>
+						<li>
+							<p class="b-list__date">12:37</p>
+							<p class="b-list__title"><a href="/news/obshchestvo/20022023/552545" class="b-effect2"><span>Названы популярные товары среди россиян в преддверии 23 февраля и 8 Марта</span></a></p>
+						</li>
+					</ul>
+				</div></div>
+			</div>
+			<div class="b-home-rubrics-list">
+				<h3><a href="/rubrics/economy">Экономика</a></h3>
+				<div><div>
+					<ul>
+						<li>
+							<p class="b-list__date">12:10</p>
+							<p class="b-list__title"><a href="/news/biznes/20022023/552520" class="b-effect2"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkkM6yI76BrNOp2Z339Jj20CHGh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=IHRZ9gWHvR-H0oUyHgZX6A.jpg" width="300" height="169" alt="" loading="lazy" /></i><span class="b-list__date">12:10</span><span>Бизнес-омбудсмен поделился ожиданиями от послания Путина</span></a></p>
+						</li>
+						<li>
+							<p class="b-list__date">11:48</p>
+							<p class="b-list__title"><a href="/news/ehkonomika/20022023/552497" class="b-effect2"><span>Зампред Банка России Вестеровский покинет свой пост 28 февраля</span></a></p>
+						</li>
+						<li>
+							<p class="b-list__date">09:12</p>
+							<p class="b-list__title"><a href="/news/ehkonomika/20022023/552420" class="b-effect2"><span>Власти обсудят разовый сбор с компаний с прибылью выше одного млрд рублей – СМИ</span></a></p>
+						</li>
+						<li>
+							<p class="b-list__date">08:00</p>
+							<p class="b-list__title"><a href="/news/ehkonomika/20022023/551756" class="b-effect2"><span>В РФ индекс блинов за год вырос почти на 8% – Руспродсоюз</span></a></p>
+						</li>
+						<li>
+							<p class="b-list__date">07:38</p>
+							<p class="b-list__title"><a href="/news/ehkonomika/20022023/552390" class="b-effect2"><span>Московские производители представят продукцию на выставках в Узбекистане и Китае</span></a></p>
+						</li>
+					</ul>
+				</div></div>
+			</div>
+
+		</div>
+
+		<div class="columns2-right">
+			<div style="width:300px;height:600px;background:#f2f2f2;margin:0 auto;overflow:hidden">
+
+	<div id="vertical_middle"></div>
+	<script type="text/javascript">
+		m24('ad', 'show', 'vertical_middle', { scroll: true });
+	</script>
+
+</div>
+
+		</div>
+	</div>
+</div>
+</section>
+
+<section class="b-home-videos">
+	<div class="container2">
+
+	<h3><a href="/videos">Видео</a></h3>
+
+	<div class="b-home-videos__tags">
+			<a href="/tag/Москва-онлайн">Москва онлайн</a>
+	</div>
+
+	<div class="columns2">
+		<div class="columns2-left">
+
+			<div class="b-home-videos-widget">
+
+				<p class="b-home-videos-player__title"><a href="/news/gorod/20022023/552428"><span>Испытания электросудна &quot;Пресня&quot; начались в Москве</span></a></p>
+
+				<div class="b-home-videos-player">
+					<div>
+						<a href="/news/gorod/20022023/552428" style="position:absolute;z-index:1;"><img src="/b/d/nBkSUhL2hFgkkcawJb6BrNOp2Z3y8Zn20STAh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=3yA8jBRr_K_f8uwr5LRzOw.jpg" alt="" loading="lazy" width="100%" height="100%" /></a>
+						<iframe src="/videos/za-rubezhom/19122022/532872/external?poster=1" loading="lazy" allowfullscreen="" frameborder="0"></iframe>
+					</div>
+				</div>
+
+				<div class="b-home-videos-playlist">
+					<div class="b-home-videos-playlist-slider-wrapper"><div class="b-home-videos-playlist-slider glide">
+						<div class="glide__track" data-glide-el="track">
+							<div class="b-home-videos-playlist-slider-list glide__slides">
+								<div class="glide__slide active">
+									<p class="b-home-videos-playlist-slider-list__title"><a><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkkcawJb6BrNOp2Z3y8Zn20STAh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=3yA8jBRr_K_f8uwr5LRzOw.jpg" width="206" height="117" alt="" loading="lazy" /></i><span>Испытания электросудна &quot;Пресня&quot; начались в Москве</span></a></p>
+								</div>
+								<div class="glide__slide">
+									<p class="b-home-videos-playlist-slider-list__title"><a><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgmm861J7mD5pql29q06pq-1GnEn_uDoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=6bOdMEYvfooXVZeTQ86U_w.jpg" width="206" height="117" alt="" loading="lazy" /></i><span>Жена Зеленского устроила шоппинг в Париже на 40 тыс долларов – СМИ</span></a></p>
+								</div>
+								<div class="glide__slide">
+									<p class="b-home-videos-playlist-slider-list__title"><a><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgknMa_JLmC5pql29q06pq-1GnEn_uDoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=t9r8VpmnkvbiJkQ4S5IPTw.jpg" width="206" height="117" alt="" loading="lazy" /></i><span>Турецкие СМИ заявили об искусственных причинах землетрясения в стране</span></a></p>
+								</div>
+								<div class="glide__slide">
+									<p class="b-home-videos-playlist-slider-list__title"><a><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgmkci1L7mC5pql29q06pq-1GnEn_uDoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=aMohxVa2NJ7H5wZdBA5uog.jpg" width="206" height="117" alt="" loading="lazy" /></i><span>В Минобороны назвали число погибших после удара ВСУ по Макеевке</span></a></p>
+								</div>
+								<div class="glide__slide">
+									<p class="b-home-videos-playlist-slider-list__title"><a><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgknM62JbmO5pql29q06pq-1GnEn_uDoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=jnbuUj6-Mbnljoq-zNVAhA.jpg" width="206" height="117" alt="" loading="lazy" /></i><span>Путин огласит послание парламенту 21 февраля</span></a></p>
+								</div>
+								<div class="glide__slide">
+									<p class="b-home-videos-playlist-slider-list__title"><a><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgmkcazIbmI5pql29q06pq-1GnEn_uDoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=OjHV_wBCwVj_HoLp6ZxEKw.jpg" width="206" height="117" alt="" loading="lazy" /></i><span>Валерий Меладзе прокомментировал скандал после концерта в Дубае</span></a></p>
+								</div>
+								<div class="glide__slide">
+									<p class="b-home-videos-playlist-slider-list__title"><a><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkn8a-J7mJ5pql29q06pq-1GnEn_uDoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=hRy5pSrC-qBJyYWDJJPUog.jpg" width="206" height="117" alt="" loading="lazy" /></i><span>Пассажирка рейса авиакомпании &quot;Аэрофлот&quot; обнажилась на борту и устроила дебош</span></a></p>
+								</div>
+								<div class="glide__slide">
+									<p class="b-home-videos-playlist-slider-list__title"><a><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgmncq0I76BrNOp2Z328p720yDCh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=D5BsQ6tMiqIXfO-d5lisXg.jpg" width="206" height="117" alt="" loading="lazy" /></i><span>Портрет Месси могут разместить на аргентинской валюте</span></a></p>
+								</div>
+								<div class="glide__slide">
+									<p class="b-home-videos-playlist-slider-list__title"><a><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkmMuyL76BrNOp2Z328p720yDCh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=aAXF6vn3tB0XLWR3w06Zwg.jpg" width="206" height="117" alt="" loading="lazy" /></i><span>Музыку из &quot;Гарри Поттера&quot; сыграют в оранжерее на ВДНХ</span></a></p>
+								</div>
+								<div class="glide__slide">
+									<p class="b-home-videos-playlist-slider-list__title"><a><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkncyzJbmL_4j9ysersoC80ieNn_2dsj2YcGueSyTChTZh94kB7weP_JHL5C6DJtljBPyliSUlaiuC8mlN_xHCxnQ=AnY0c32cWZPFoROJUszKSA.jpg" width="206" height="117" alt="" loading="lazy" /></i><span>Турецкий город Искендерун начал уходить под воду после землетрясения</span></a></p>
+								</div>
+							</div>
+						</div>
+						<div class="glide__arrows" data-glide-el="controls">
+							<button class="glide__arrow glide__arrow--prev" data-glide-dir="<"></button>
+							<button class="glide__arrow glide__arrow--next" data-glide-dir=">"></button>
+						</div>
+					</div></div>
+				</div>
+				<script>
+					var vpl;
+					var next_materials = [];
+						next_materials.push({
+							title: 'Испытания электросудна "Пресня" начались в Москве',
+							url: '/news/gorod/20022023/552428',
+							file: '',
+							tag: 'транспорт',
+							theme_materials: [
+								{
+									title: 'Реконструкция станции Поклонная для будущего диаметра D4 готова на 56%',
+									url: '/videos/transport/20022023/552510',
+									image: '/b/d/nBkSUhL2hFgkkM6zJbmL_4j9ysersoC81CmNn_mbsj2YcGueSyTChTZh94kB7weP_JHL5C6DJtljBPyliSUlaiuC8mlN_xHCxnQ=Fx5og5obd1By_DFEmc_DIA.jpg',
+								},
+								{
+									title: 'Специалисты проверили автоматику движения поездов в московском метро',
+									url: '/videos/transport/20022023/552506',
+									image: '/b/d/nBkSUhL2hFgkkM60I7mO5pql29q06pq42mnEm_2DoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=S_PuYsMbLKg63kLvpK1HvQ.jpg',
+								},
+							],
+						});
+						next_materials.push({
+							title: 'Жена Зеленского устроила шоппинг в Париже на 40 тыс долларов – СМИ',
+							url: '/videos/za-rubezhom/19122022/532872',
+							file: 'https://b1.m24.ru/c/1802120.m3u8',
+							tag: 'за рубежом',
+							theme_materials: [
+								{
+									title: 'Зеленский подтвердил визит Байдена в Киев',
+									url: '/videos/politika/20022023/552578',
+									image: '/b/d/nBkSUhL2hFgkkM21J7mM5pql29q06pq42mnEm_2DoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=GSAsUd3ChkWeuFdADVHMAA.jpg',
+								},
+								{
+									title: 'Посетительница галереи разбила арт-объект стоимостью в 42 тыс долларов в США',
+									url: '/videos/za-rubezhom/20022023/552405',
+									image: '/b/d/nBkSUhL2hFgkkcayIbmD5pql29q06pq42mnEm_2DoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=WKSmC6L-BdOUa0476HnfjQ.jpg',
+								},
+							],
+						});
+						next_materials.push({
+							title: 'Турецкие СМИ заявили об искусственных причинах землетрясения в стране',
+							url: '/videos/proisshestviya/13022023/550281',
+							file: 'https://b1.m24.ru/c/1825983.m3u8',
+							tag: 'происшествия',
+							theme_materials: [
+								{
+									title: 'Полицейские задержали избившего посетителя охранника ТЦ на Комсомольской площади',
+									url: '/videos/proisshestviya/20022023/552503',
+									image: '/b/d/nBkSUhL2hFgkkM61LrmD5pql29q06pq42mnEm_2DoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=wVbuL1iQ_x-Yp23XKd9-OQ.jpg',
+								},
+								{
+									title: 'Инспекторы ДПС задержали наркокурьеров в Люберцах',
+									url: '/videos/proisshestviya/20022023/552505',
+									image: '/b/d/nBkSUhL2hFgkkM60JbmP5pql29q06pq42mnEm_2DoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=YVKyR3sXnLL83kRp4-XQtg.jpg',
+								},
+							],
+						});
+						next_materials.push({
+							title: 'В Минобороны назвали число погибших после удара ВСУ по Макеевке',
+							url: '/videos/bezopasnost/02012023/537863',
+							file: 'https://b1.m24.ru/c/1808728.m3u8',
+							tag: 'безопасность',
+							theme_materials: [
+								{
+									title: 'ВС РФ ликвидировали склад артиллерийских боеприпасов в Хмельницкой области',
+									url: '/videos/bezopasnost/19022023/552346',
+									image: '/b/d/nBkSUhL2hFgkkce0JrmI5pql29q06pq42mnEm_2DoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=jDc_cVBP7SvGU11TzZ7X5A.jpg',
+								},
+								{
+									title: 'Новости часа: ВС РФ поразили пункт дислокации беспилотников ВСУ в районе Хмельницкого',
+									url: '/videos/bezopasnost/19022023/552302',
+									image: '/b/d/nBkSUhL2hFgkkci_JLmL_oj9ysersoC81CmNn_mbsj2YcGueSyTChTZh94kB7weP_JHL5C6DJtljBPyliSUlaiuC8mlN_xHCxnQ=NrUGn97dXLNlDpoMzp_BTg.jpg',
+								},
+							],
+						});
+						next_materials.push({
+							title: 'Путин огласит послание парламенту 21 февраля',
+							url: '/videos/vlast/10022023/549721',
+							file: 'https://b1.m24.ru/c/1825112.m3u8',
+							tag: 'политика',
+							theme_materials: [
+								{
+									title: 'Зеленский подтвердил визит Байдена в Киев',
+									url: '/videos/politika/20022023/552578',
+									image: '/b/d/nBkSUhL2hFgkkM21J7mM5pql29q06pq42mnEm_2DoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=GSAsUd3ChkWeuFdADVHMAA.jpg',
+								},
+								{
+									title: 'Песков заявил, что экономика РФ твердо стоит на ногах',
+									url: '/videos/vlast/20022023/552543',
+									image: '/b/d/nBkSUhL2hFgkkM6_I7mI5pql29q06pq42mnEm_2DoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=1WHOh3j3C52ER4X8uSwbdw.jpg',
+								},
+							],
+						});
+						next_materials.push({
+							title: 'Валерий Меладзе прокомментировал скандал после концерта в Дубае',
+							url: '/videos/kultura/03012023/538017',
+							file: 'https://b1.m24.ru/c/1808946.m3u8',
+							tag: 'культура',
+							theme_materials: [
+								{
+									title: '&quot;Тайны кино&quot;: лучшие роли Елены Цыплаковой',
+									url: '/shows2/77/552499',
+									image: '/b/d/nBkSUhL2hFgkkM63LrmD5pql29q06pq42mnEm_2DoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=0gaJ302o8NZl-UWPHbZxPQ.jpg',
+								},
+								{
+									title: '&quot;Тайны нашей эстрады&quot;: &quot;Ничего никому не скажу...&quot;. Вероника Круглова в плену страстей',
+									url: '/shows2/92/552489',
+									image: '/b/d/nBkSUhL2hFgkkM-_JrmJ5pql29q06pq42mnEm_2DoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=qmWS_FTj-3HAUF5cvs1T-A.jpg',
+								},
+							],
+						});
+						next_materials.push({
+							title: 'Пассажирка рейса авиакомпании "Аэрофлот" обнажилась на борту и устроила дебош',
+							url: '/videos/proisshestviya/14022023/550970',
+							file: 'https://b1.m24.ru/c/1826990.m3u8',
+							tag: 'происшествия',
+							theme_materials: [
+								{
+									title: 'Полицейские задержали избившего посетителя охранника ТЦ на Комсомольской площади',
+									url: '/videos/proisshestviya/20022023/552503',
+									image: '/b/d/nBkSUhL2hFgkkM61LrmD5pql29q06pq42mnEm_2DoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=wVbuL1iQ_x-Yp23XKd9-OQ.jpg',
+								},
+								{
+									title: 'Инспекторы ДПС задержали наркокурьеров в Люберцах',
+									url: '/videos/proisshestviya/20022023/552505',
+									image: '/b/d/nBkSUhL2hFgkkM60JbmP5pql29q06pq42mnEm_2DoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=YVKyR3sXnLL83kRp4-XQtg.jpg',
+								},
+							],
+						});
+						next_materials.push({
+							title: 'Портрет Месси могут разместить на аргентинской валюте',
+							url: '/videos/za-rubezhom/23122022/534674',
+							file: 'https://b1.m24.ru/c/1804505.m3u8',
+							tag: 'Никита Пименов',
+							theme_materials: [
+								{
+									title: 'IT-технологии стали еще одной сложностью в получении виз',
+									url: '/videos/turizm/18022023/552182',
+									image: '/b/d/nBkSUhL2hFgkkcm0JLmL5pql29q06pq42mnEm_2DoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=BI5K6_AhoMkxf6b1e7vWiA.jpg',
+								},
+								{
+									title: 'Россию внесли в европейский черный список стран-оффшоров',
+									url: '/videos/ehkonomika/18022023/552091',
+									image: '/b/d/nBkSUhL2hFgkkcq0IrmJ5pql29q06pq42mnEm_2DoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=WO7rRxRxNc-iS_lekEezuA.jpg',
+								},
+							],
+						});
+						next_materials.push({
+							title: 'Музыку из "Гарри Поттера" сыграют в оранжерее на ВДНХ',
+							url: '/videos/gorod/03022023/547163',
+							file: 'https://b1.m24.ru/c/1821422.m3u8',
+							tag: 'культура',
+							theme_materials: [
+								{
+									title: '&quot;Тайны кино&quot;: лучшие роли Елены Цыплаковой',
+									url: '/shows2/77/552499',
+									image: '/b/d/nBkSUhL2hFgkkM63LrmD5pql29q06pq42mnEm_2DoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=0gaJ302o8NZl-UWPHbZxPQ.jpg',
+								},
+								{
+									title: '&quot;Тайны нашей эстрады&quot;: &quot;Ничего никому не скажу...&quot;. Вероника Круглова в плену страстей',
+									url: '/shows2/92/552489',
+									image: '/b/d/nBkSUhL2hFgkkM-_JrmJ5pql29q06pq42mnEm_2DoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=qmWS_FTj-3HAUF5cvs1T-A.jpg',
+								},
+							],
+						});
+						next_materials.push({
+							title: 'Турецкий город Искендерун начал уходить под воду после землетрясения',
+							url: '/videos/proisshestviya/09022023/549120',
+							file: 'https://b1.m24.ru/c/1824342.m3u8',
+							tag: 'происшествия',
+							theme_materials: [
+								{
+									title: 'Полицейские задержали избившего посетителя охранника ТЦ на Комсомольской площади',
+									url: '/videos/proisshestviya/20022023/552503',
+									image: '/b/d/nBkSUhL2hFgkkM61LrmD5pql29q06pq42mnEm_2DoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=wVbuL1iQ_x-Yp23XKd9-OQ.jpg',
+								},
+								{
+									title: 'Инспекторы ДПС задержали наркокурьеров в Люберцах',
+									url: '/videos/proisshestviya/20022023/552505',
+									image: '/b/d/nBkSUhL2hFgkkM60JbmP5pql29q06pq42mnEm_2DoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=YVKyR3sXnLL83kRp4-XQtg.jpg',
+								},
+							],
+						});
+					// убираем событие загрузки страницы для статики
+					// document.addEventListener('DOMContentLoaded', function(event) {
+						let iframe = document.querySelector('.b-home-videos-player div iframe');
+						var a_image = document.querySelector('.b-home-videos-player div a');
+						// iframe.style.display = 'block';
+						iframe.onload = function() {
+							window["plr_id"] = 'player_' + iframe.contentWindow.player_id + '_1';
+							// console.log( plr_id );
+
+							vpl = eval('iframe.contentWindow.' + plr_id);
+							// console.log( a_image );
+
+							// vpl.addEvent('ended', function() {
+							// 	// document.querySelector('.b-home-videos-playlist-slider-list .glide__slide.active').nextElementSibling.querySelector('.b-home-video-playlist-slider-list__title a').click();
+							// 	console.log('the end ...');
+							// });
+							// document.querySelector('#' + plr_id).addEventListener('onended',  evt => { 
+							// 	console.log('the end ...');
+							// });
+						}
+					// });
+				</script>
+
+			</div>
+
+			<div class="b-home-videos-more">
+
+				<p class="b-home-videos-more__header">Смотрите также</p>
+				<div class="b-home-videos-more-list">
+					<ul>
+						<li>
+							<p class="b-home-videos-more-list__title"><a href="/videos/transport/20022023/552510" class="b-effect2"><i class="b-list__img"><i class="b-list-type video"></i><img src="/b/d/nBkSUhL2hFgkkM6zJbmL_4j9ysersoC90CONn_Sbsj2YcGueSyTChTZh94kB7weP_JHL5C6DJtljBPyliSUlaiuC8mlN_xHCxnQ=b9saU728vEzEy_PWH_eKsQ.jpg" width="268" height="151" alt="" loading="lazy"></i><span>Реконструкция станции Поклонная для будущего диаметра D4 готова на 56%</span></a></p>
+						</li>
+						<li>
+							<p class="b-home-videos-more-list__title"><a href="/videos/transport/20022023/552506" class="b-effect2"><i class="b-list__img"><i class="b-list-type video"></i><img src="/b/d/nBkSUhL2hFgkkM60I7mO5pql29q06pu80GnElv2DoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=1IE-RWTQMB4NHNBpnOTW8A.jpg" width="268" height="151" alt="" loading="lazy"></i><span>Специалисты проверили автоматику движения поездов в московском метро</span></a></p>
+						</li>
+					</ul>
+				</div>
+
+				<a href="/tag/транспорт" class="b-home-videos-more-button"></a>
+				<a href="/videos" class="b-home-videos-more-button2">Больше видео</a>
+
+			</div>
+
+		</div>
+		<div class="columns2-right">
+			<div style="padding:0">
+    <div style="width:300px;height:600px;background:#f2f2f2;margin:0 auto;">
+
+        <div id="vertical_top"></div>
+        <script type="text/javascript">
+            m24('ad', 'show', 'vertical_top');
+        </script>
+
+    </div>
+</div>
+		</div>
+	</div>
+
+</div>
+</section>
+
+<section class="b-home-articles">
+	<div class="container2">
+
+	<h3><a href="/tag/истории">Истории</a></h3>
+
+	<div class="b-home-articles-swiper">
+		<div class="swiper-wrapper">
+			<div class="swiper-slide b-effect2">
+				<i class="b-list__img"><img src="/b/d/nBkSUhL2hFgknsywIr6BrNOp2Z3z-5j21iXBh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=R84UvPLwuoyTzcahLD6rmQ.jpg" width="658" height="370" alt="" /></i>
+				<div class="b-home-articles-swiper__data">
+					<p class="b-home-articles-swiper__title"><a href="/articles/obshchestvo/20022023/550544">Топ-5 необычных рецептов блинов из разных регионов России</a></p>
+				</div>
+				<a href="/articles/obshchestvo/20022023/550544" class="b-home-articles-swiper__link"></a>
+			</div>
+			<div class="swiper-slide b-effect2">
+				<i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkkc6xI76BrNOp2Z3z-5j21iXBh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=OKQeVhDw5KcaELKG2YFd_A.jpg" width="658" height="370" alt="" /></i>
+				<div class="b-home-articles-swiper__data">
+					<p class="b-home-articles-swiper__title"><a href="/articles/sport/19022023/551799">Рацион чемпиона. Можно ли заменить спортивное питание обычными продуктами</a></p>
+				</div>
+				<a href="/articles/sport/19022023/551799" class="b-home-articles-swiper__link"></a>
+			</div>
+			<div class="swiper-slide b-effect2">
+				<i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkkcy3J76BrNOp2Z3z-5j21iXBh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=oQXmnPedTR_QIC4KXF2a9w.jpg" width="658" height="370" alt="" /></i>
+				<div class="b-home-articles-swiper__data">
+					<p class="b-home-articles-swiper__title"><a href="/articles/turizm/18022023/551890">Космический туризм: как побывать на месте падения метеоритов</a></p>
+				</div>
+				<a href="/articles/turizm/18022023/551890" class="b-home-articles-swiper__link"></a>
+			</div>
+			<div class="swiper-slide b-effect2">
+				<i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkkc63L76BrNOp2Z3z-5j21iXBh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=Hw9XFg_GZN2p_Q6fVYM60g.jpg" width="658" height="370" alt="" /></i>
+				<div class="b-home-articles-swiper__data">
+					<p class="b-home-articles-swiper__title"><a href="/articles/obshchestvo/18022023/551251">Никель, ртуть, свинец: куда сдать использованные батарейки в Москве</a></p>
+				</div>
+				<a href="/articles/obshchestvo/18022023/551251" class="b-home-articles-swiper__link"></a>
+			</div>
+			<div class="swiper-slide b-effect2">
+				<i class="b-list__img"><img src="/b/d/nBkSUhL2hFgknsazI76BrNOp2Z3z-5j21iXBh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=0kPYxs1uwK5SS20k40oD5g.jpg" width="658" height="370" alt="" /></i>
+				<div class="b-home-articles-swiper__data">
+					<p class="b-home-articles-swiper__title"><a href="/articles/obshchestvo/17022023/551584">Дивный мир за неделю: медиум для животных, развод из-за лотереи и поцелуй под водой</a></p>
+				</div>
+				<a href="/articles/obshchestvo/17022023/551584" class="b-home-articles-swiper__link"></a>
+			</div>
+		</div>
+
+		<div class="swiper-button-prev"></div>
+		<div class="swiper-button-next"></div>
+	</div>
+
+</div>
+</section>
+
+<section class="b-home-materials">
+	<div class="container2">
+		<div class="b-home-materials-list">
+			<ul>
+				<li>
+					<p class="b-list__date">12:52</p>
+					<p class="b-home-materials-list__rubric"><a href="/rubrics/society">Общество</a></p>
+					<p class="b-home-materials-list__title"><a href="/news/obshchestvo/20022023/552557">Синоптик предупредил москвичей о сильном похолодании к 23 февраля</a></p>
+					<p class="b-home-materials-list__icons">
+						<a href="/videos"><i class="b-icon video"></i></a>
+					</p>
+				</li>
+				<li>
+					<p class="b-list__date">12:49</p>
+					<p class="b-home-materials-list__rubric"><a href="/rubrics/politics">Политика</a></p>
+					<p class="b-home-materials-list__title"><a href="/news/vlast/20022023/552554">Песков не исключил встречу Ван И с Путиным</a></p>
+					<p class="b-home-materials-list__icons">
+					</p>
+				</li>
+				<li>
+					<p class="b-list__date">12:47</p>
+					<p class="b-home-materials-list__rubric"><a href="/rubrics/accidents">Происшествия</a></p>
+					<p class="b-home-materials-list__title"><a href="/news/proisshestviya/20022023/552553">ВСУ обстреляли села Гуево и Горналь Курской области</a></p>
+					<p class="b-home-materials-list__icons">
+					</p>
+				</li>
+				<li>
+					<p class="b-list__date">12:46</p>
+					<p class="b-home-materials-list__rubric"><a href="/rubrics/politics">Политика</a></p>
+					<p class="b-home-materials-list__title"><a href="/news/vlast/20022023/552552">Песков объяснил высокий уровень доверия россиян к Путину</a></p>
+					<p class="b-home-materials-list__icons">
+					</p>
+				</li>
+				<li>
+					<p class="b-list__date">12:44</p>
+					<p class="b-home-materials-list__rubric"><a href="/rubrics/society">Общество</a></p>
+					<p class="b-home-materials-list__title"><a href="/news/obrazovanie/20022023/552551">Школьникам из приграничных регионов РФ могут разрешить получить аттестат без ЕГЭ</a></p>
+					<p class="b-home-materials-list__icons">
+						<a href="/videos"><i class="b-icon video"></i></a>
+					</p>
+				</li>
+			</ul>
+		</div>
+	</div>
+</section>
+
+<section class="b-home-popular">
+	<div class="container2  b-click-main">
+
+	<h3>Популярное</h3>
+
+	<div class="b-switch-menu b-click-menu">
+		<div>
+			<ul>
+				<li class="active"><a><span>Все</span></a></li>
+				<li><a><span>Новости</span></a></li>
+				<li><a><span>Истории</span></a></li>
+				<li><a><span>Видео</span></a></li>
+				<li><a><span>Эксклюзивы</span></a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="b-home-popular-slider-wrapper b-click-content"><div class="b-home-popular-slider glide g_slider0">
+		<div class="glide__track" data-glide-el="track">
+			<div class="b-home-popular-list glide__slides">
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/news/vlast/19022023/552290"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkkciwI76BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=6AEez36FxJHxEscWwF48Cw.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Путин в послании Федеральному собранию уделит много внимания теме СВО – Песков</span></a></p>
+						<p class="b-list__tags"><a href="/tag/власть">власть</a><a href="/tag/общество">общество</a></p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/news/obshchestvo/19022023/552207"><i class="b-list__img"><i class="b-list-type video"></i><img src="/b/d/nBkSUhL2hFgkkcmwJb6BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=UR8WbfK9aH8EAQl0HIUFFg.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Диетолог рассказала о самом правильном способе приготовления картофеля</span></a></p>
+						<p class="b-list__tags"><a href="/tag/общество">общество</a></p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/videos/proisshestviya/18022023/552193"><i class="b-list__img"><i class="b-list-type video"></i><img src="/b/d/nBkSUhL2hFgkkcmyJrmM5pql29q06pu-0mnEmPWDoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=dH9Xp7QXG1prH27VVHuMWg.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Новое землетрясение магнитудой 5,2 произошло в Турции 18 февраля</span></a></p>
+						<p class="b-list__tags"><a href="/tag/происшествия">происшествия</a><a href="/tag/за-рубежом">за рубежом</a><a href="/tag/видео">видео</a><a href="/tag/Максим-Селиков">Максим Селиков</a></p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/articles/obshchestvo/17022023/551751"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkkc6wJ76BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=wp-uP9a_7omAkJMayyfiPw.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>&quot;Высокие требования&quot;. Почему в МФЮА разгорелся скандал из-за отчисления аспирантов</span></a></p>
+						<p class="b-list__tags"><a href="/tag/общество">общество</a><a href="/tag/образование">образование</a><a href="/tag/истории">истории</a></p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/articles/nauka/17022023/551813"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkkc23Ir6BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=ACg1NF9DOCz_5Zi0TFIUPQ.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Теперь Стамбул? Грозит ли городу разрушительное землетрясение в ближайшие годы</span></a></p>
+						<p class="b-list__tags"><a href="/tag/наука">наука</a><a href="/tag/происшествия">происшествия</a><a href="/tag/за-рубежом">за рубежом</a><a href="/tag/истории">истории</a></p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/news/ehkonomika/17022023/551788"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkkc6zLr6BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=JocTm_FFmpxAanjbqbH6Ag.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Экономист спрогнозировал рост курса доллара в марте</span></a></p>
+						<p class="b-list__tags"><a href="/tag/экономика">экономика</a><a href="/tag/эксклюзив">эксклюзив</a></p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/news/politika/17022023/551785"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkkc61JL6BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=CAGqc_5MUvapgCa6ze8mPQ.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Экс-советник ЦРУ заявил о подготовке Байденом жуткой концовки украинского конфликта</span></a></p>
+						<p class="b-list__tags"><a href="/tag/политика">политика</a></p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/videos/zhivotnye/17022023/551733"><i class="b-list__img"><i class="b-list-type video"></i><img src="/b/d/nBkSUhL2hFgkkc--I76BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=BCvBKsE6VRVO5NrYwtefMQ.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Спасатели показала кота, которого спасли из-под завалов в Турции</span></a></p>
+						<p class="b-list__tags"><a href="/tag/животные">животные</a><a href="/tag/за-рубежом">за рубежом</a><a href="/tag/видео">видео</a><a href="/tag/Анастасия-Бородина">Анастасия Бородина</a><a href="/tag/Никита-Пименов">Никита Пименов</a></p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/articles/shou-biznes/16022023/551408"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgknsi0Jr6BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=FDK452RMOy-xDhPJnmCF4w.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>&quot;Волчий билет&quot;: в Госдуме выступили за полную отмену концертов Александра Реввы</span></a></p>
+						<p class="b-list__tags"><a href="/tag/шоу-бизнес">шоу-бизнес</a><a href="/tag/истории">истории</a></p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/articles/kultura/16022023/551431"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgknsi3Jb6BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=61wUu3P3lwqf_N6BxBNQ7Q.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>&quot;И в Польше несладко&quot;: как в Сети ответили Брыльске на слова о &quot;нищих россиянах&quot;</span></a></p>
+						<p class="b-list__tags"><a href="/tag/культура">культура</a><a href="/tag/истории">истории</a></p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="glide__arrows" data-glide-el="controls">
+			<button class="glide__arrow glide__arrow--prev" data-glide-dir="<"></button>
+			<button class="glide__arrow glide__arrow--next" data-glide-dir=">"></button>
+		</div>
+	</div></div>
+	<div class="b-home-popular-slider-wrapper b-click-content"><div class="b-home-popular-slider glide g_slider1">
+		<div class="glide__track" data-glide-el="track">
+			<div class="b-home-popular-list glide__slides">
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/news/obshchestvo/14022023/550889"><i class="b-list__img"><i class="b-list-type video"></i><img src="/b/d/nBkSUhL2hFgkn8e2Ib6BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=Kj6lcaqNh1LTSMhewmeXxw.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Японский ученый предложил пожилым людям добровольно уходить из жизни</span></a></p>
+						<p class="b-list__tags"><a href="/tag/общество">общество</a><a href="/tag/за-рубежом">за рубежом</a></p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/news/politika/17022023/551785"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkkc61JL6BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=CAGqc_5MUvapgCa6ze8mPQ.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Экс-советник ЦРУ заявил о подготовке Байденом жуткой концовки украинского конфликта</span></a></p>
+						<p class="b-list__tags"><a href="/tag/политика">политика</a></p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/news/obshchestvo/14022023/550689"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkn8q1L76BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=3OWYOmlld6HGrpJQJhKaNA.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Врач рассказала, чем опасен недостаток воды для пожилых людей</span></a></p>
+						<p class="b-list__tags"><a href="/tag/общество">общество</a></p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/news/obshchestvo/14022023/550674"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkn8q3J76BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=09i-VbwJmFccBcKpcqoxDA.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Диетолог назвал лучшие продукты для укрепления сосудов пожилых людей</span></a></p>
+						<p class="b-list__tags"><a href="/tag/общество">общество</a><a href="/tag/еда">еда</a></p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/news/sport/14022023/550609"><i class="b-list__img"><i class="b-list-type video"></i><img src="/b/d/nBkSUhL2hFgkn8u1Jr6BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=kjaJnM0872eqsWn_Xl6Igw.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Костомарову ампутировали кисти рук – СМИ</span></a></p>
+						<p class="b-list__tags"><a href="/tag/спорт">спорт</a></p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/news/vlast/19022023/552290"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkkciwI76BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=6AEez36FxJHxEscWwF48Cw.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Путин в послании Федеральному собранию уделит много внимания теме СВО – Песков</span></a></p>
+						<p class="b-list__tags"><a href="/tag/власть">власть</a><a href="/tag/общество">общество</a></p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/news/obshchestvo/15022023/551058"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkns61Ir6BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=NwQ778bqFtM-I1Ppjy3cVQ.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Диетолог назвала самый опасный напиток для людей старше 60 лет</span></a></p>
+						<p class="b-list__tags"><a href="/tag/общество">общество</a></p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/news/proisshestviya/13022023/550562"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkn8y1L76BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=-E2IBSF1LaYk1noMnQOWHg.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Экс-замглавы МВД по борьбе с экстремизмом покончил с собой в Подмосковье</span></a></p>
+						<p class="b-list__tags"><a href="/tag/происшествия">происшествия</a></p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/news/obshchestvo/19022023/552207"><i class="b-list__img"><i class="b-list-type video"></i><img src="/b/d/nBkSUhL2hFgkkcmwJb6BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=UR8WbfK9aH8EAQl0HIUFFg.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Диетолог рассказала о самом правильном способе приготовления картофеля</span></a></p>
+						<p class="b-list__tags"><a href="/tag/общество">общество</a></p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/news/obshchestvo/15022023/550477"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkn823Ir6BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=q_henHA-yrYmbRWrYU5Zsw.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Дерматолог объяснила, из-за чего на ногтях появляются белые пятна</span></a></p>
+						<p class="b-list__tags"><a href="/tag/общество">общество</a></p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="glide__arrows" data-glide-el="controls">
+			<button class="glide__arrow glide__arrow--prev" data-glide-dir="<"></button>
+			<button class="glide__arrow glide__arrow--next" data-glide-dir=">"></button>
+		</div>
+	</div></div>
+	<div class="b-home-popular-slider-wrapper b-click-content"><div class="b-home-popular-slider glide g_slider2">
+		<div class="glide__track" data-glide-el="track">
+			<div class="b-home-popular-list glide__slides">
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/articles/shou-biznes/16022023/551408"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgknsi0Jr6BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=FDK452RMOy-xDhPJnmCF4w.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>&quot;Волчий билет&quot;: в Госдуме выступили за полную отмену концертов Александра Реввы</span></a></p>
+						<p class="b-list__tags"><a href="/tag/шоу-бизнес">шоу-бизнес</a><a href="/tag/истории">истории</a></p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/articles/kultura/16022023/551431"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgknsi3Jb6BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=61wUu3P3lwqf_N6BxBNQ7Q.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>&quot;И в Польше несладко&quot;: как в Сети ответили Брыльске на слова о &quot;нищих россиянах&quot;</span></a></p>
+						<p class="b-list__tags"><a href="/tag/культура">культура</a><a href="/tag/истории">истории</a></p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/articles/obshchestvo/14022023/550705"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkn8q-J76BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=lzESbeJ1oJQX0nfluTqKng.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Часы тикают. Зачем России возвращаться к летнему и зимнему времени</span></a></p>
+						<p class="b-list__tags"><a href="/tag/общество">общество</a><a href="/tag/истории">истории</a></p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/articles/obshchestvo/15022023/551068"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkns2xL76BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=8ya1c5DmKGRlUhySRtQG7Q.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>&quot;Еще раз пасть откроешь&quot;: за что коуч Сатья ударил слушательницу в Великом Новгороде</span></a></p>
+						<p class="b-list__tags"><a href="/tag/общество">общество</a><a href="/tag/истории">истории</a></p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/articles/turizm/14022023/550688"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkn8m1Ir6BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=PmfZRhUZVoVnY42bhzlehA.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>&quot;Спа-индустрия умрет&quot;: какие зарубежные курорты страдают из-за оттока туристов из РФ</span></a></p>
+						<p class="b-list__tags"><a href="/tag/туризм">туризм</a><a href="/tag/истории">истории</a></p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/articles/nauka/15022023/549718"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgknM6xIr6BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=6FThN-NT9B7sxzcw6Pvbsg.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Мир иной. Какие вещества использовали для мумификации фараонов</span></a></p>
+						<p class="b-list__tags"><a href="/tag/наука">наука</a><a href="/tag/истории">истории</a></p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/articles/proisshestviya/14022023/550350"><i class="b-list__img"><i class="b-list-type video"></i><img src="/b/d/nBkSUhL2hFgkn822JL6BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=q32dzGqdhUKCxeP_kyZlIA.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>198 часов под завалами: невероятные истории выживших после землетрясения в Турции</span></a></p>
+						<p class="b-list__tags"><a href="/tag/происшествия">происшествия</a><a href="/tag/за-рубежом">за рубежом</a><a href="/tag/истории">истории</a></p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/articles/sport/15022023/551052"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkns23Ib6BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=05asVH_FkBEfQv6jkuIIzA.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>&quot;Совершено нападение&quot;: что известно о состоянии игроков &quot;Шинника&quot; после драки с &quot;Минаем&quot;</span></a></p>
+						<p class="b-list__tags"><a href="/tag/спорт">спорт</a><a href="/tag/истории">истории</a></p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/articles/obshchestvo/17022023/551751"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkkc6wJ76BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=wp-uP9a_7omAkJMayyfiPw.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>&quot;Высокие требования&quot;. Почему в МФЮА разгорелся скандал из-за отчисления аспирантов</span></a></p>
+						<p class="b-list__tags"><a href="/tag/общество">общество</a><a href="/tag/образование">образование</a><a href="/tag/истории">истории</a></p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/articles/nauka/17022023/551813"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkkc23Ir6BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=ACg1NF9DOCz_5Zi0TFIUPQ.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Теперь Стамбул? Грозит ли городу разрушительное землетрясение в ближайшие годы</span></a></p>
+						<p class="b-list__tags"><a href="/tag/наука">наука</a><a href="/tag/происшествия">происшествия</a><a href="/tag/за-рубежом">за рубежом</a><a href="/tag/истории">истории</a></p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="glide__arrows" data-glide-el="controls">
+			<button class="glide__arrow glide__arrow--prev" data-glide-dir="<"></button>
+			<button class="glide__arrow glide__arrow--next" data-glide-dir=">"></button>
+		</div>
+	</div></div>
+	<div class="b-home-popular-slider-wrapper b-click-content"><div class="b-home-popular-slider glide g_slider3">
+		<div class="glide__track" data-glide-el="track">
+			<div class="b-home-popular-list glide__slides">
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/videos/proisshestviya/14022023/550970"><i class="b-list__img"><i class="b-list-type video"></i><img src="/b/d/nBkSUhL2hFgkn8a-J7mJ5pql29q06pu-0mnEmPWDoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=oHnyxiEk1F-AeG6d1OXVeA.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Пассажирка рейса авиакомпании &quot;Аэрофлот&quot; обнажилась на борту и устроила дебош</span></a></p>
+						<p class="b-list__tags"><a href="/tag/происшествия">происшествия</a><a href="/tag/видео">видео</a><a href="/tag/Екатерина-Кузнеченкова">Екатерина Кузнеченкова</a></p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/videos/proisshestviya/14022023/550643"><i class="b-list__img"><i class="b-list-type video"></i><img src="/b/d/nBkSUhL2hFgkn8uyL7mP5pql29q06pu-0mnEmPWDoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=573QIGNvVBqLvEFIrZ8hWA.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Российские спасатели передали найденные под завалами 150 тыс долларов турецкой полиции</span></a></p>
+						<p class="b-list__tags"><a href="/tag/происшествия">происшествия</a><a href="/tag/за-рубежом">за рубежом</a><a href="/tag/видео">видео</a><a href="/tag/Никита-Пименов">Никита Пименов</a><a href="/tag/Анастасия-Бородина">Анастасия Бородина</a></p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/videos/za-rubezhom/15022023/551094"><i class="b-list__img"><i class="b-list-type video"></i><img src="/b/d/nBkSUhL2hFgkns6xL76BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=4XK9bDTuBWeUbmi8G1yA-A.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Илон Маск назначил свою собаку на пост гендиректора компании Twitter</span></a></p>
+						<p class="b-list__tags"><a href="/tag/за-рубежом">за рубежом</a><a href="/tag/видео">видео</a><a href="/tag/Евгения-Мирошкина">Евгения Мирошкина</a><a href="/tag/Иван-Князев">Иван Князев</a></p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/videos/shou-biznes/14022023/550640"><i class="b-list__img"><i class="b-list-type video"></i><img src="/b/d/nBkSUhL2hFgkn8u_IL6BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=xQqBBJzbl5n4kAK_U88Ahg.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Американский певец выбрал роботизированных собак в качестве подтанцовки для выступления</span></a></p>
+						<p class="b-list__tags"><a href="/tag/шоу-бизнес">шоу-бизнес</a><a href="/tag/за-рубежом">за рубежом</a><a href="/tag/видео">видео</a><a href="/tag/Никита-Пименов">Никита Пименов</a><a href="/tag/Анастасия-Бородина">Анастасия Бородина</a></p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/videos/kultura/16022023/551368"><i class="b-list__img"><i class="b-list-type video"></i><img src="/b/d/nBkSUhL2hFgknsmwIb6BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=aQHXljoOFFVaXyIPBnOWcQ.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Две киноверсии &quot;Трех мушкетеров&quot; выйдут в 2023 году</span></a></p>
+						<p class="b-list__tags"><a href="/tag/культура">культура</a><a href="/tag/кино">кино</a><a href="/tag/видео">видео</a><a href="/tag/Никита-Пименов">Никита Пименов</a><a href="/tag/Анастасия-Бородина">Анастасия Бородина</a></p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/videos/zhivotnye/17022023/551733"><i class="b-list__img"><i class="b-list-type video"></i><img src="/b/d/nBkSUhL2hFgkkc--I76BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=BCvBKsE6VRVO5NrYwtefMQ.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Спасатели показала кота, которого спасли из-под завалов в Турции</span></a></p>
+						<p class="b-list__tags"><a href="/tag/животные">животные</a><a href="/tag/за-рубежом">за рубежом</a><a href="/tag/видео">видео</a><a href="/tag/Анастасия-Бородина">Анастасия Бородина</a><a href="/tag/Никита-Пименов">Никита Пименов</a></p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/videos/sudy/13022023/550524"><i class="b-list__img"><i class="b-list-type video"></i><img src="/b/d/nBkSUhL2hFgkn82xJLmO5pql29q06pu-0mnEmPWDoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=A5qBUVSjug38xPgDgzhwWg.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Адвокат Ефремова рассказал, почему актер передумал просить смягчения наказания</span></a></p>
+						<p class="b-list__tags"><a href="/tag/суды">суды</a><a href="/tag/происшествия">происшествия</a><a href="/tag/видео">видео</a><a href="/tag/Иван-Князев">Иван Князев</a></p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/videos/proisshestviya/15022023/551169"><i class="b-list__img"><i class="b-list-type video"></i><img src="/b/d/nBkSUhL2hFgknsq3J7mO5pql29q06pu-0mnEmPWDoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=2p8zvLAHTgmPZa-lo7m-Dw.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>&quot;Актуальный репортаж&quot;: в турецком Эрзине не рухнуло ни одного здания при землетрясениях</span></a></p>
+						<p class="b-list__tags"><a href="/tag/происшествия">происшествия</a><a href="/tag/за-рубежом">за рубежом</a><a href="/tag/видео">видео</a><a href="/tag/Дарина-Райд">Дарина Райд</a><a href="/tag/Екатерина-Кузнеченкова">Екатерина Кузнеченкова</a></p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/videos/proisshestviya/18022023/552193"><i class="b-list__img"><i class="b-list-type video"></i><img src="/b/d/nBkSUhL2hFgkkcmyJrmM5pql29q06pu-0mnEmPWDoGuQYX7XByXLjCdwu5tI-BaO-42NvWWBK8AqGfS8kjIzIymM8G1N_xHb1A=dH9Xp7QXG1prH27VVHuMWg.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Новое землетрясение магнитудой 5,2 произошло в Турции 18 февраля</span></a></p>
+						<p class="b-list__tags"><a href="/tag/происшествия">происшествия</a><a href="/tag/за-рубежом">за рубежом</a><a href="/tag/видео">видео</a><a href="/tag/Максим-Селиков">Максим Селиков</a></p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/videos/kultura/15022023/551029"><i class="b-list__img"><i class="b-list-type video"></i><img src="/b/d/nBkSUhL2hFgkns--Ib6BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=NRjweRm2YS9KvRPbMH23Rw.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Американский музей назвал Куинджи, Репина и Айвазовского украинскими художниками</span></a></p>
+						<p class="b-list__tags"><a href="/tag/культура">культура</a><a href="/tag/видео">видео</a><a href="/tag/Анастасия-Бородина">Анастасия Бородина</a><a href="/tag/Никита-Пименов">Никита Пименов</a><a href="/tag/Артем-Смахтин">Артем Смахтин</a></p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="glide__arrows" data-glide-el="controls">
+			<button class="glide__arrow glide__arrow--prev" data-glide-dir="<"></button>
+			<button class="glide__arrow glide__arrow--next" data-glide-dir=">"></button>
+		</div>
+	</div></div>
+	<div class="b-home-popular-slider-wrapper b-click-content"><div class="b-home-popular-slider glide g_slider4">
+		<div class="glide__track" data-glide-el="track">
+			<div class="b-home-popular-list glide__slides">
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/news/nauka/07022023/548361"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkmsu-I76BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=hSxqRIYvMGZvoJVJpF_lpA.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Геофизик оценил риск землетрясений в РФ после Турции</span></a></p>
+						<p class="b-list__tags"><a href="/tag/наука">наука</a><a href="/tag/эксклюзив">эксклюзив</a></p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/news/biznes/25012023/544080"><i class="b-list__img"><i class="b-list-type video"></i><img src="/b/d/nBkSUhL2hFgnns-_L76BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=W-_Wvu5CP9i9zsCmJNE3tQ.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Магазины Zara откроются в РФ под новым названием через 10 дней</span></a></p>
+						<p class="b-list__tags"><a href="/tag/бизнес">бизнес</a><a href="/tag/экономика">экономика</a><a href="/tag/эксклюзив">эксклюзив</a></p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/news/shou-biznes/25012023/544096"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgnns--L76BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=UkflRuTeODxDYdSKPuWwNw.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>В Госдуме предложили лишить российского гражданства Семена Слепакова</span></a></p>
+						<p class="b-list__tags"><a href="/tag/шоу-бизнес">шоу-бизнес</a><a href="/tag/эксклюзив">эксклюзив</a></p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/news/biznes/03022023/547445"><i class="b-list__img"><i class="b-list-type video"></i><img src="/b/d/nBkSUhL2hFgkmMi-I76BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=boh3Yy3u4Du2xNUO9tN6Xg.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Магазин Zara может открыться под новым названием в &quot;Авиапарке&quot; в выходные</span></a></p>
+						<p class="b-list__tags"><a href="/tag/бизнес">бизнес</a><a href="/tag/эксклюзив">эксклюзив</a></p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/news/obshchestvo/13022023/549576"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgknM6wIL6BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=5ueCqBnay_XblX00qvs1Pw.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>В ГД призвали широко не праздновать День всех влюбленных в России</span></a></p>
+						<p class="b-list__tags"><a href="/tag/общество">общество</a><a href="/tag/эксклюзив">эксклюзив</a></p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/news/ehkonomika/17022023/551788"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkkc6zLr6BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=JocTm_FFmpxAanjbqbH6Ag.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Экономист спрогнозировал рост курса доллара в марте</span></a></p>
+						<p class="b-list__tags"><a href="/tag/экономика">экономика</a><a href="/tag/эксклюзив">эксклюзив</a></p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/news/obshchestvo/31012023/546154"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkmc63Jb6BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=mhwxUCxZNEARQHBS6Yx6AA.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Вирусолог назвал симптомы заражения гриппом B</span></a></p>
+						<p class="b-list__tags"><a href="/tag/общество">общество</a><a href="/tag/эксклюзив">эксклюзив</a></p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/news/obshchestvo/24012023/542712"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgnnM63L76BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=X22kTClsGV_P-nm1zvaQRg.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Эксперт предупредила о последствиях употребления хлеба с плесенью</span></a></p>
+						<p class="b-list__tags"><a href="/tag/общество">общество</a></p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/news/proisshestviya/06022023/548054"><i class="b-list__img"><i class="b-list-type video"></i><img src="/b/d/nBkSUhL2hFgkm8exIb6BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=J4YU6YDKalB6tcxImuAylg.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Пострадавшие от землетрясения в Турции туристы РФ могут получить медстраховку – РСТ</span></a></p>
+						<p class="b-list__tags"><a href="/tag/происшествия">происшествия</a><a href="/tag/за-рубежом">за рубежом</a><a href="/tag/эксклюзив">эксклюзив</a></p>
+					</div>
+				</div>
+				<div class="glide__slide">
+					<div class="b-home-popular-list__item b-effect">
+						<p class="b-home-popular-list__title"><a href="/news/proisshestviya/06022023/548007"><i class="b-list__img"><i class="b-list-type video"></i><img src="/b/d/nBkSUhL2hFgkm8ixJL6BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=kDk0dKzCH0Q4fHubLThKTg.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>В РСТ заявили, что землетрясение в Турции не затронуло туристические направления</span></a></p>
+						<p class="b-list__tags"><a href="/tag/происшествия">происшествия</a><a href="/tag/за-рубежом">за рубежом</a><a href="/tag/эксклюзив">эксклюзив</a></p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="glide__arrows" data-glide-el="controls">
+			<button class="glide__arrow glide__arrow--prev" data-glide-dir="<"></button>
+			<button class="glide__arrow glide__arrow--next" data-glide-dir=">"></button>
+		</div>
+	</div></div>
+</div>
+</section>
+
+<section class="b-home-materials">
+	<div class="container2">
+		<div class="b-home-materials-list">
+			<ul>
+				<li>
+					<p class="b-list__date">12:37</p>
+					<p class="b-home-materials-list__rubric"><a href="/rubrics/society">Общество</a></p>
+					<p class="b-home-materials-list__title"><a href="/news/obshchestvo/20022023/552545">Названы популярные товары среди россиян в преддверии 23 февраля и 8 Марта</a></p>
+					<p class="b-home-materials-list__icons">
+						<a href="/videos"><i class="b-icon video"></i></a>
+					</p>
+				</li>
+				<li>
+					<p class="b-list__date">12:37</p>
+					<p class="b-home-materials-list__rubric"><a href="/rubrics/politics">Политика</a></p>
+					<p class="b-home-materials-list__title"><a href="/news/vlast/20022023/552546">Песков заявил, что на послании Путина парламенту будут присутствовать участники СВО</a></p>
+					<p class="b-home-materials-list__icons">
+						<a href="/videos"><i class="b-icon video"></i></a>
+					</p>
+				</li>
+				<li>
+					<p class="b-list__date">12:33</p>
+					<p class="b-home-materials-list__rubric"><a href="/rubrics/society">Общество</a><a href="/rubrics/exclusives">Эксклюзивы</a></p>
+					<p class="b-home-materials-list__title"><a href="/news/obshchestvo/20022023/552426">Вирусолог рассказал, может ли вирус Марбург превзойти COVID-19</a></p>
+					<p class="b-home-materials-list__icons">
+					</p>
+				</li>
+				<li>
+					<p class="b-list__date">12:29</p>
+					<p class="b-home-materials-list__rubric"><a href="/rubrics/society">Общество</a></p>
+					<p class="b-home-materials-list__title"><a href="/news/obshchestvo/20022023/552541">Эксперт РАН рассказала, почему нельзя полностью отказаться от соли</a></p>
+					<p class="b-home-materials-list__icons">
+						<a href="/videos"><i class="b-icon video"></i></a>
+					</p>
+				</li>
+				<li>
+					<p class="b-list__date">12:29</p>
+					<p class="b-home-materials-list__rubric"><a href="/rubrics/mayor">Мэр Москвы</a></p>
+					<p class="b-home-materials-list__title"><a href="/news/mehr-Moskvy/20022023/552542">Собянин рассказал об открытии детской поликлиники в Южном Медведкове</a></p>
+					<p class="b-home-materials-list__icons">
+						<a href="/videos"><i class="b-icon video"></i></a>
+					</p>
+				</li>
+			</ul>
+		</div>
+	</div>
+</section>
+
+<section class="b-home-today">
+	<div class="container2">
+
+	<div class="b-home-today-widget">
+		<h3><a href="/news">Картина дня</a></h3>
+
+		<div class="b-home-today-slider-wrapper"><div class="b-home-today-slider glide">
+			<div class="glide__track" data-glide-el="track">
+				<div class="b-home-today-list glide__slides">
+					<div class="glide__slide">
+						<p class="b-home-today-list__title"><a href="/news/zhivotnye/20022023/552460" class="b-effect2"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkkM-3Jr6BrNOp2Z3z95D21iPCh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=mzUZ_8nxPsR_EmkXktj8yw.jpg" width="632" height="356" alt="" loading="lazy" /></i><span>В СПЧ предложили вести учет потенциально опасных собак</span></a></p>
+					</div>
+					<div class="glide__slide">
+						<p class="b-home-today-list__title"><a href="/news/proisshestviya/20022023/552459" class="b-effect2"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkkM-3Ir6BrNOp2Z3z95D21iPCh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=lQO5MCnbTtvs6NVHIrAu1Q.jpg" width="632" height="356" alt="" loading="lazy" /></i><span>Коробка с открыткой взорвалась в руках у жительницы ТиНАО</span></a></p>
+					</div>
+					<div class="glide__slide">
+						<p class="b-home-today-list__title"><a href="/news/proisshestviya/20022023/552451" class="b-effect2"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkkca-L76BrNOp2Z3z95D21iPCh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=w2huqdQPR5t0V10RArpJfg.jpg" width="632" height="356" alt="" loading="lazy" /></i><span>Один человек погиб при аварийной посадке Ми-8 в Кузбассе</span></a></p>
+					</div>
+					<div class="glide__slide">
+						<p class="b-home-today-list__title"><a href="/news/politika/20022023/552438" class="b-effect2"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkkcawLr6BrNOp2Z3z95D21iPCh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=WVTxSket9OFiMyuNo79Q5Q.jpg" width="632" height="356" alt="" loading="lazy" /></i><span>В ЕК назвали спекуляцией расследование Херша о диверсии на &quot;Северных потоках&quot;</span></a></p>
+					</div>
+					<div class="glide__slide">
+						<p class="b-home-today-list__title"><a href="/news/ehkonomika/20022023/551756" class="b-effect2"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkkc62Ib6BrNOp2Z3z95D21iPCh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=VPaACrC792aEfAZ5_696JA.jpg" width="632" height="356" alt="" loading="lazy" /></i><span>В РФ индекс блинов за год вырос почти на 8% – Руспродсоюз</span></a></p>
+					</div>
+				</div>
+			</div>
+			<div class="glide__bullets" data-glide-el="controls[nav]">
+				<button class="glide__bullet" data-glide-dir="=0"></button>
+				<button class="glide__bullet" data-glide-dir="=1"></button>
+				<button class="glide__bullet" data-glide-dir="=2"></button>
+				<button class="glide__bullet" data-glide-dir="=3"></button>
+				<button class="glide__bullet" data-glide-dir="=4"></button>
+			</div>
+		</div></div>
+
+	</div>
+
+	<div class="b-home-rubrics-list">
+		<h3><a href="/rubrics/world">В мире</a></h3>
+		<div><div>
+			<ul>
+				<li>
+					<p class="b-list__date">11:29</p>
+					<p class="b-list__title"><a href="/news/za-rubezhom/20022023/552481" class="b-effect2"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkkM-yIr6BrNOp2Z339Jj20CHGh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=csoJz2GKxebMOAY8BpvhYw.jpg" width="300" height="169" alt="" loading="lazy" /></i><span class="b-list__date">11:29</span><span>Ряд улиц перекрыли в центре Киева из-за приезда в город иностранных делегаций – СМИ</span></a></p>
+				</li>
+				<li>
+					<p class="b-list__date">19 февраля, 04:24</p>
+					<p class="b-list__title"><a href="/news/za-rubezhom/19022023/552209" class="b-effect2"><span>Беженцы с Украины пожаловались в соцсетях на отсталость и архаичность Канады</span></a></p>
+				</li>
+				<li>
+					<p class="b-list__date">17 февраля, 19:02</p>
+					<p class="b-list__title"><a href="/news/za-rubezhom/17022023/551982" class="b-effect2"><span>Террористы напали на главный офис полиции в Карачи – СМИ</span></a></p>
+				</li>
+			</ul>
+		</div></div>
+	</div>
+	<div class="b-home-rubrics-list">
+		<h3><a href="/rubrics/technology">Технологии</a></h3>
+		<div><div>
+			<ul>
+				<li>
+					<p class="b-list__date">13:32</p>
+					<p class="b-list__title"><a href="/news/tehnologii/20022023/552582" class="b-effect2"><i class="b-list__img"><img src="/b/d/nBkSUhL2hFgkkM21IL6BrNOp2Z339Jj20CHGh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=6-4yVZxEI6qioGzkcS8a-w.jpg" width="300" height="169" alt="" loading="lazy" /></i><span class="b-list__date">13:32</span><span>Ассоциация банков России попросит РКН не запрещать оказывать услуги через Telegram</span></a></p>
+				</li>
+				<li>
+					<p class="b-list__date">10:32</p>
+					<p class="b-list__title"><a href="/news/tehnologii/20022023/552455" class="b-effect2"><span>Цукерберг заявил о запуске платной верификации аккаунтов в Facebook и Instagram</span></a></p>
+				</li>
+				<li>
+					<p class="b-list__date">10:18</p>
+					<p class="b-list__title"><a href="/news/tehnologii/20022023/552446" class="b-effect2"><span>Роскомнадзор запустит систему &quot;Вепрь&quot; для выявления угроз в Сети</span></a></p>
+				</li>
+			</ul>
+		</div></div>
+	</div>
+
+</div>
+</section>
+
+
+<section class="b-home-materials">
+	<div class="container2">
+		<div class="b-home-materials-list">
+			<ul>
+				<li>
+					<p class="b-list__date">12:26</p>
+					<p class="b-home-materials-list__rubric"><a href="/rubrics/city">Город</a></p>
+					<p class="b-home-materials-list__title"><a href="/news/gorod/20022023/552539">На северо-западе Москвы началось строительство бизнес-центра на 1,7 тыс рабочих мест</a></p>
+					<p class="b-home-materials-list__icons">
+					</p>
+				</li>
+				<li>
+					<p class="b-list__date">12:26</p>
+					<p class="b-home-materials-list__rubric"><a href="/rubrics/culture">Культура</a></p>
+					<p class="b-home-materials-list__title"><a href="/news/kultura/20022023/552540">Эмма Маки покинет сериал &quot;Половое воспитание&quot;</a></p>
+					<p class="b-home-materials-list__icons">
+						<a href="/videos"><i class="b-icon video"></i></a>
+					</p>
+				</li>
+				<li>
+					<p class="b-list__date">12:25</p>
+					<p class="b-home-materials-list__rubric"><a href="/rubrics/society">Общество</a></p>
+					<p class="b-home-materials-list__title"><a href="/news/obshchestvo/20022023/552534">Политолог оценил идею тратить маткапитал на спортивный инвентарь для детей</a></p>
+					<p class="b-home-materials-list__icons">
+					</p>
+				</li>
+				<li>
+					<p class="b-list__date">12:24</p>
+					<p class="b-home-materials-list__rubric"><a href="/rubrics/politics">Политика</a></p>
+					<p class="b-home-materials-list__title"><a href="/news/politika/20022023/552533">Мировое сообщество вправе требовать расследования взрывов на &quot;Северных потоках&quot; – МИД КНР</a></p>
+					<p class="b-home-materials-list__icons">
+						<a href="/videos"><i class="b-icon video"></i></a>
+					</p>
+				</li>
+				<li>
+					<p class="b-list__date">12:15</p>
+					<p class="b-home-materials-list__rubric"><a href="/rubrics/politics">Политика</a></p>
+					<p class="b-home-materials-list__title"><a href="/news/politika/20022023/552532">Зеленский предложил подарить экс-премьеру Италии Берлускони водку</a></p>
+					<p class="b-home-materials-list__icons">
+					</p>
+				</li>
+			</ul>
+		</div>
+	</div>
+</section>
+
+<section class="b-home-special">
+	<div class="container2">
+
+		<h3 class="transform"><a href="/special/s/projects">Спец<br />Проекты</a></h3>
+		<div class="b-home-special-slider-wrapper"><div class="b-home-special-slider glide">
+			<div class="glide__track" data-glide-el="track">
+				<div class="b-home-special-list glide__slides">
+				</div>
+			</div>
+			<div class="glide__arrows" data-glide-el="controls">
+				<button class="glide__arrow glide__arrow--prev" data-glide-dir="<"></button>
+				<button class="glide__arrow glide__arrow--next" data-glide-dir=">"></button>
+			</div>
+		</div></div>
+
+	</div>
+</section>
+<script>
+document.addEventListener('DOMContentLoaded', function(){
+
+	fetch( 'https://www.m24.ru/special/js/projects/', { method: "GET" } )
+	.then( response => {
+		if ( response.ok ) {
+			return response.text();
+		}
+	})
+	.then( data => {
+		document.querySelector( '.b-home-special-list' ).innerHTML = data;
+
+		let home_special_slider = new Glide('.b-home-special-slider', {
+			type: 'carousel',
+			perView: 5,
+			gap: 32,
+			rewind: false,
+			bound: true,
+			breakpoints: {
+				1600: {
+					perView: 4
+				},
+				992: {
+					perView: 3
+				},
+				676: {
+					perView: 2
+				},
+				576: {
+					perView: 2,
+					gap: 24
+				}
+			}
+		})
+
+		home_special_slider.mount()
+
+	});
+
+});
+</script>
+
+<section class="b-home-materials">
+	<div class="container2">
+		<div class="b-home-materials-list">
+			<ul>
+				<li>
+					<p class="b-list__date">12:14</p>
+					<p class="b-home-materials-list__rubric"><a href="/rubrics/city">Город</a></p>
+					<p class="b-home-materials-list__title"><a href="/news/gorod/20022023/552531">Строительство бизнес-центра началось в Хорошёво-Мнёвниках</a></p>
+					<p class="b-home-materials-list__icons">
+					</p>
+				</li>
+				<li>
+					<p class="b-list__date">12:10</p>
+					<p class="b-home-materials-list__rubric"><a href="/rubrics/economy">Экономика</a></p>
+					<p class="b-home-materials-list__title"><a href="/news/biznes/20022023/552520">Бизнес-омбудсмен поделился ожиданиями от послания Путина</a></p>
+					<p class="b-home-materials-list__icons">
+						<a href="/videos"><i class="b-icon video"></i></a>
+					</p>
+				</li>
+				<li>
+					<p class="b-list__date">12:07</p>
+					<p class="b-home-materials-list__rubric"><a href="/rubrics/politics">Политика</a></p>
+					<p class="b-home-materials-list__title"><a href="/news/politika/20022023/552518">Сенатор предостерег Китай от помощи России, напомнив о &quot;Титанике&quot;</a></p>
+					<p class="b-home-materials-list__icons">
+						<a href="/videos"><i class="b-icon video"></i></a>
+					</p>
+				</li>
+				<li>
+					<p class="b-list__date">12:02</p>
+					<p class="b-home-materials-list__rubric"><a href="/rubrics/accidents">Происшествия</a></p>
+					<p class="b-home-materials-list__title"><a href="/news/proisshestviya/20022023/552492">Стало известно состояние девушки, которая открыла взорвавшуюся коробку в ТиНАО – СМИ</a></p>
+					<p class="b-home-materials-list__icons">
+					</p>
+				</li>
+				<li>
+					<p class="b-list__date">11:59</p>
+					<p class="b-home-materials-list__rubric"><a href="/rubrics/society">Общество</a></p>
+					<p class="b-home-materials-list__title"><a href="/news/obrazovanie/20022023/552513">В Рособрнадзоре заявили, что ЕГЭ в 2023 году не будут сдавать только в Херсонской области</a></p>
+					<p class="b-home-materials-list__icons">
+						<a href="/videos"><i class="b-icon video"></i></a>
+					</p>
+				</li>
+			</ul>
+		</div>
+	</div>
+</section>
+
+<section class="b-home-galleries">
+	<div class="container2">
+
+		<h3><a href="/galleries">Фотогалереи</a></h3>
+		<div class="b-home-galleries-slider-wrapper"><div class="b-home-galleries-slider glide">
+			<div class="glide__track" data-glide-el="track">
+				<div class="b-home-galleries-list glide__slides">
+					<div class="glide__slide">
+						<div class="b-home-galleries-list__item b-effect">
+							<p class="b-home-galleries-list__title"><a href="/galleries/obshchestvo/20022023/552351"><i class="b-list__img"><i class="b-list-type gallery"></i><img src="/b/d/nBkSUhL2hFgkkceyIb6BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=p04BOa-AalvwfBXxh6nEQQ.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Высота сугробов в Москве достигла максимума с начала зимы</span></a></p>
+							<p class="b-list__tags"><a href="/tag/общество">общество</a><a href="/tag/погода">погода</a></p>
+						</div>
+					</div>
+					<div class="glide__slide">
+						<div class="b-home-galleries-list__item b-effect">
+							<p class="b-home-galleries-list__title"><a href="/galleries/obshchestvo/19022023/552349"><i class="b-list__img"><i class="b-list-type gallery"></i><img src="/b/d/nBkSUhL2hFgkkce0IL6BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=cDMBGmjC5gYTYMIN9wjhyg.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Евгений Дятлов дал интервью в рамках программы &quot;Золотая рыбка&quot;</span></a></p>
+							<p class="b-list__tags"><a href="/tag/общество">общество</a><a href="/tag/культура">культура</a></p>
+						</div>
+					</div>
+					<div class="glide__slide">
+						<div class="b-home-galleries-list__item b-effect">
+							<p class="b-home-galleries-list__title"><a href="/galleries/gorod/17022023/551973"><i class="b-list__img"><i class="b-list-type gallery"></i><img src="/b/d/nBkSUhL2hFgkkcy-Ir6BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=9PJhBp045BFbJgHis0Utow.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Фестиваль природы &quot;Первозданная Россия&quot; начался в Третьяковской галерее</span></a></p>
+							<p class="b-list__tags"><a href="/tag/город">город</a><a href="/tag/фестивали">фестивали</a></p>
+						</div>
+					</div>
+					<div class="glide__slide">
+						<div class="b-home-galleries-list__item b-effect">
+							<p class="b-home-galleries-list__title"><a href="/galleries/kultura/16022023/551607"><i class="b-list__img"><i class="b-list-type gallery"></i><img src="/b/d/nBkSUhL2hFgknsa3Lr6BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=-ZB9GxOTrs8P09-Rz8G1FA.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>В Москве простились с режиссером Вадимом Абдрашитовым</span></a></p>
+							<p class="b-list__tags"><a href="/tag/культура">культура</a></p>
+						</div>
+					</div>
+					<div class="glide__slide">
+						<div class="b-home-galleries-list__item b-effect">
+							<p class="b-home-galleries-list__title"><a href="/galleries/sport/16022023/551555"><i class="b-list__img"><i class="b-list-type gallery"></i><img src="/b/d/nBkSUhL2hFgknsi_IL6BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=SqaDhz83RDUdgGylicWKZA.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Фестиваль &quot;Влюбленные в фигурное катание&quot; провели в День святого Валентина в столице</span></a></p>
+							<p class="b-list__tags"><a href="/tag/спорт">спорт</a></p>
+						</div>
+					</div>
+					<div class="glide__slide">
+						<div class="b-home-galleries-list__item b-effect">
+							<p class="b-home-galleries-list__title"><a href="/galleries/gorod/15022023/551265"><i class="b-list__img"><i class="b-list-type gallery"></i><img src="/b/d/nBkSUhL2hFgknsu3IL6BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=FbMUWM_fVhEZxLnrBekwYQ.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Выставка &quot;Диалог во времени и пространстве&quot; открылась в Москве</span></a></p>
+							<p class="b-list__tags"><a href="/tag/город">город</a><a href="/tag/выставки">выставки</a></p>
+						</div>
+					</div>
+					<div class="glide__slide">
+						<div class="b-home-galleries-list__item b-effect">
+							<p class="b-home-galleries-list__title"><a href="/galleries/obshchestvo/15022023/551163"><i class="b-list__img"><i class="b-list-type gallery"></i><img src="/b/d/nBkSUhL2hFgkns2zJr6BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=HpY7L72AW5VbB-N_PnaZUg.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Церемонии бракосочетания провели на катке ВДНХ в День всех влюбленных</span></a></p>
+							<p class="b-list__tags"><a href="/tag/общество">общество</a></p>
+						</div>
+					</div>
+					<div class="glide__slide">
+						<div class="b-home-galleries-list__item b-effect">
+							<p class="b-home-galleries-list__title"><a href="/galleries/sport/14022023/550929"><i class="b-list__img"><i class="b-list-type gallery"></i><img src="/b/d/nBkSUhL2hFgkn8a1Jb6BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=jsOpvMkEG57sV2RgaNVPUw.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>В столице состоялся Московский лыжный марафон</span></a></p>
+							<p class="b-list__tags"><a href="/tag/спорт">спорт</a></p>
+						</div>
+					</div>
+					<div class="glide__slide">
+						<div class="b-home-galleries-list__item b-effect">
+							<p class="b-home-galleries-list__title"><a href="/galleries/obshchestvo/14022023/550925"><i class="b-list__img"><i class="b-list-type gallery"></i><img src="/b/d/nBkSUhL2hFgkn8exLr6BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=4asnnbc4pMSzCZFXIH8q4w.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Состоялась VII общероссийская акция &quot;Дарите книги с любовью – 2023&quot;</span></a></p>
+							<p class="b-list__tags"><a href="/tag/общество">общество</a></p>
+						</div>
+					</div>
+					<div class="glide__slide">
+						<div class="b-home-galleries-list__item b-effect">
+							<p class="b-home-galleries-list__title"><a href="/galleries/transport/14022023/550884"><i class="b-list__img"><i class="b-list-type gallery"></i><img src="/b/d/nBkSUhL2hFgkn8i_Ib6BrNOp2Z338pj20yfMh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=NdMhKMDZJp3tUtmFIl2yFA.jpg" width="300" height="169" alt="" loading="lazy" /></i><span>Музей транспорта Москвы завершил реставрацию троллейбуса 1970-х годов</span></a></p>
+							<p class="b-list__tags"><a href="/tag/транспорт">транспорт</a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="glide__arrows" data-glide-el="controls">
+				<button class="glide__arrow glide__arrow--prev" data-glide-dir="<"></button>
+				<button class="glide__arrow glide__arrow--next" data-glide-dir=">"></button>
+			</div>
+		</div></div>
+
+
+	</div>
+</section>
+
+<section class="b-home-materials">
+	<div class="container2">
+		<div class="b-home-materials-list">
+			<ul>
+				<li>
+					<p class="b-list__date">11:56</p>
+					<p class="b-home-materials-list__rubric"><a href="/rubrics/city">Город</a></p>
+					<p class="b-home-materials-list__title"><a href="/news/gorod/20022023/552508">Столичные службы ликвидируют последствия сильного снегопада</a></p>
+					<p class="b-home-materials-list__icons">
+						<a href="/videos"><i class="b-icon video"></i></a>
+					</p>
+				</li>
+				<li>
+					<p class="b-list__date">11:55</p>
+					<p class="b-home-materials-list__rubric"><a href="/rubrics/politics">Политика</a></p>
+					<p class="b-home-materials-list__title"><a href="/news/politika/20022023/552470">В МИД Турции заявили о готовности вести диалог с Швецией и Финляндией по вступлению в НАТО</a></p>
+					<p class="b-home-materials-list__icons">
+						<a href="/videos"><i class="b-icon video"></i></a>
+					</p>
+				</li>
+				<li>
+					<p class="b-list__date">11:48</p>
+					<p class="b-home-materials-list__rubric"><a href="/rubrics/economy">Экономика</a></p>
+					<p class="b-home-materials-list__title"><a href="/news/ehkonomika/20022023/552497">Зампред Банка России Вестеровский покинет свой пост 28 февраля</a></p>
+					<p class="b-home-materials-list__icons">
+					</p>
+				</li>
+				<li>
+					<p class="b-list__date">11:47</p>
+					<p class="b-home-materials-list__rubric"><a href="/rubrics/accidents">Происшествия</a></p>
+					<p class="b-home-materials-list__title"><a href="/news/proisshestviya/20022023/552495">Пять сноубордистов находились на борту аварийно севшего в Кузбассе вертолета</a></p>
+					<p class="b-home-materials-list__icons">
+						<a href="/videos"><i class="b-icon video"></i></a>
+					</p>
+				</li>
+				<li>
+					<p class="b-list__date">11:44</p>
+					<p class="b-home-materials-list__rubric"><a href="/rubrics/accidents">Происшествия</a></p>
+					<p class="b-home-materials-list__title"><a href="/news/proisshestviya/20022023/552494">Следователи установят обстоятельства получения ожогов девушкой в ТиНАО</a></p>
+					<p class="b-home-materials-list__icons">
+					</p>
+				</li>
+			</ul>
+		</div>
+	</div>
+</section>
+
+<section class="b-home-authors">
+	<div class="container2">
+
+	<h3 class="transform"><a href="/authors">Авторы</a></h3>
+	<div class="b-home-authors-slider-wrapper"><div class="b-home-authors-slider glide">
+		<div class="glide__track" data-glide-el="track">
+			<div class="b-home-authors-list glide__slides">
+				<div class="glide__slide">
+					<p class="b-home-authors-list__title b-effect"><a href="/authors/17"><img src="/b/d/nBkSUhL2jFUvns22PqzZvc62gYT38NC_0SPclaHP72fdcXqTBjTCwGhn99RP7wzT-Nmd-XPcZpwmE-Gm2m92LSGK9G1U9A=P97ZD3Z3asDUXWqjGef-Wg.jpg" width="132" height="132" alt="" loading="lazy" />Каневский Эдуард</a></p>
+				</div>
+				<div class="glide__slide">
+					<p class="b-home-authors-list__title b-effect"><a href="/authors/117"><img src="/b/d/nBkSUhL2hFMvnsi1Lr6BrNOp2Z318Zr20yLHh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=8QCtscnXindaD7I-saQjFQ.jpg" width="132" height="132" alt="" loading="lazy" />Васильева Екатерина</a></p>
+				</div>
+				<div class="glide__slide">
+					<p class="b-home-authors-list__title b-effect"><a href="/authors/96"><img src="/b/d/nBkSUhL2hFEvkc60I76BrNOp2Z318Zr20yLHh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=Ncap6Ibo_97v5L2EX1M9HA.jpg" width="132" height="132" alt="" loading="lazy" />Фехретдинов Тимур</a></p>
+				</div>
+				<div class="glide__slide">
+					<p class="b-home-authors-list__title b-effect"><a href="/authors/103"><img src="/b/d/nBkSUhL2hFcknsq2Jr6BrNOp2Z318Zr20yLHh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=y8kTl95icrVcDkljM4qBSA.jpg" width="132" height="132" alt="" loading="lazy" />Гринько Николай</a></p>
+				</div>
+				<div class="glide__slide">
+					<p class="b-home-authors-list__title b-effect"><a href="/authors/1123"><img src="/b/d/nBkSUhL2hFYhms6zJ76BrNOp2Z318Zr20yLHh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=0d9mGuCjmOvWRRtKJ6j0cA.jpg" width="132" height="132" alt="" loading="lazy" />Девятка Анна</a></p>
+				</div>
+				<div class="glide__slide">
+					<p class="b-home-authors-list__title b-effect"><a href="/authors/115"><img src="/b/d/nBkSUhL2hFMvmMqwIb6BrNOp2Z318Zr20yLHh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=Q7KH8OkPaDfh0MfgH9a_HA.jpg" width="132" height="132" alt="" loading="lazy" />Рассказов Андрей</a></p>
+				</div>
+				<div class="glide__slide">
+					<p class="b-home-authors-list__title b-effect"><a href="/authors/119"><img src="/b/d/nBkSUhL2hFQumMqzJ76BrNOp2Z318Zr20yLHh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=-bmo6fsn69rSs7vlfRwK-Q.jpg" width="132" height="132" alt="" loading="lazy" />Бородина Евгения</a></p>
+				</div>
+				<div class="glide__slide">
+					<p class="b-home-authors-list__title b-effect"><a href="/authors/102"><img src="/b/d/nBkSUhL2hFEvkcqwIb6BrNOp2Z318Zr20yLHh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=krLWRSySS7hg9QN0vatCKA.jpg" width="132" height="132" alt="" loading="lazy" />Москвитин Егор</a></p>
+				</div>
+			</div>
+		</div>
+		<div class="glide__arrows" data-glide-el="controls">
+			<button class="glide__arrow glide__arrow--prev" data-glide-dir="<"></button>
+			<button class="glide__arrow glide__arrow--next" data-glide-dir=">"></button>
+		</div>
+	</div></div>
+
+</div>
+</section>
+
+
+
+<link href="/js/lib/swiper/8.1.5/swiper-bundle.min.css?v=1676636113" media="screen" rel="stylesheet" />
+<script src="/js/lib/swiper/8.1.5/swiper-bundle.min.js?v=1676636113"></script>
+			</div>
+
+		</div>
+
+	</main>
+
+	<footer class="b-footer">
+		<div class="stripe01">
+			<div class="container">
+
+				<div class="b-footer-copyright">
+					<p>&copy; 2012 – 2023 <a href="https://m24.ru?from=footer">M24</a></p>
+				</div>
+
+				<div class="b-services-menu b-services-menu_footer">
+					<ul>
+						<li><a class="vk" href="https://vk.com/infomoscow24" target="_blank">Vkontakte</a></li>
+						<li><a class="tw" href="https://twitter.com/infomoscow24" target="_blank">Twitter</a></li>
+						<li><a class="ok" href="https://ok.ru/group/52459393974410/join" target="_blank">Одноклассники</a></li>
+						<li><a class="tg" href="tg://t.me/infomoscow24" target="_blank">Telegram</a></li>
+						<li><a class="vb" href="https://invite.viber.com/?g2=AQBPHGXjMTQvn0xRRk6YTYU5aAwRHk%2F3%2FPZB7WDTB3Y2%2FB8lH%2Bqoc5Au0t5Ij5we" target="_blank">Viber</a></li>
+						<li><a class="ic" href="https://icq.im/infomoscow24" target="_blank">ICQ</a></li>
+					</ul>
+				</div>
+
+				<div class="b-footer-submenu">
+					<ul>
+						<li><a href="/vacancy?from=footer">Вакансии</a></li>
+						<li><a class="b-window-feedback-open">Обратная связь</a></li>
+						<li><a href="/contacts?from=footer">Контакты</a></li>
+						<li><a href="/advert?from=footer">Размещение рекламы</a></li>
+					</ul>
+				</div>
+
+
+
+				<div class="b-footer-text">
+					<noindex>
+					<p>
+					<a href="/special/instruction">Настройки телеэфира</a> &nbsp;&nbsp; <a href="/special/s/nko">Перечень запрещенных в РФ организаций</a> &nbsp;&nbsp; </p>
+					<p>Все права на материалы, находящиеся на сайте <a href="http://m24.ru">m24.ru</a>, охраняются в соответствии с законодательством РФ, в том числе об авторском праве и смежных правах. При любом использовании материалов сайта ссылка на <a href="http://m24.ru">m24.ru</a> обязательна. Редакция не несет ответственности за информацию и мнения, высказанные в комментариях читателей и новостных материалах, составленных на основе сообщений читателей.</p>
+					<p>СМИ сетевое издание «Городской информационный канал m24.ru» зарегистрировано в Федеральной службе по надзору в сфере связи, информационных технологий и массовых коммуникаций. Свидетельство о регистрации средства массовой информации Эл № ФС77-53981 от 30 апреля 2013 г.</p>
+					<p>Средство массовой информации сетевое издание «Городской информационный канал m24.ru» создано при финансовой поддержке Департамента средств массовой информации и рекламы г. Москвы. &copy; АО «Москва Медиа».</p>
+					<p>Учредитель и редакция - АО «Москва Медиа». Главный редактор И.Л. Шестаков. Адрес редакции: 125124, РФ, г. Москва, ул. Правды, д. 24, стр. 2. Почта: <a href="mailto:mosmed@m24.ru">mosmed@m24.ru</a>. Тел.: +7 (495) 009-12-89</p>
+					<p><a href="/policy">Политика обработки персональных данных</a> / <a href="#" onclick="if(window.__lxG__consent__ !== undefined) {window.__lxG__consent__.showConsent()} else {alert('This function only for users from European Economic Area (EEA)')}; return false">Регламент GDPR</a></p>
+					<p style="display:none;"><a id="subscribeToPush" style="display:none;">Включить уведомления</a></p>
+					<p>Информация о погоде предоставлена <a href="http://www.fobos.tv/" target="_blank">Центром «ФОБОС»</a>. <!--Источник и правообладатель информации о курсах валют - <a href="https://www.moex.com"	target="_blank">ПАО «Московская биржа»</a>. По условиям распространения информации обращаться на <a href="https://www.moex.com"	target="_blank">ПАО «Московская биржа»</a>.--> Информация о курсах валют предоставлена <a href="http://www.cbr.ru/about/" target="_blank">Центральным банком Российской Федерации</a>. Информация о пробках предоставлена <a href="http://www.yandex.ru/" target="_blank">ООО «Яндекс.Пробки»</a>.</p>
+					<p>В сетевом издании могут быть использованы материалы интернет-ресурсов Facebook и Instagram, владельцем которых является компания Meta Platforms Inc., запрещённая на территории Российской Федерации как экстремистская.</p>
+					<p><a href="http://www.rambler.ru" target="_blank">Партнёр Рамблера</a></p>
+					</noindex>
+				</div>
+
+				<div class="b-moscowmedia">
+					<ul>
+						<li><a href="http://moscowmedia.net">Москва Медиа</a></li>
+						<li><a href="https://m24.ru/live">Москва 24</a></li>
+						<li><a href="https://doverie-tv.ru">Москва Доверие</a></li>
+						<li><a href="http://www.mosfm.com">Москва FM</a></li>
+						<li><a href="http://radiomoskvy.ru">Радио Москвы</a></li>
+						<li><a href="http://capitalfm.moscow">Capital FM</a></li>
+						<li><a href="http://www.mskagency.ru">Агентство "Москва"</a></li>
+					</ul>
+				</div>
+
+				<div class="b-counters">
+					<ul>
+						<li>
+							<!-- Rating@Mail.ru counter -->
+							<script type="text/javascript">//<![CDATA[
+							var _tmr = _tmr || [];
+							_tmr.push({id: "2199732", type: "pageView", start: (new Date()).getTime()});
+							(function (d, w) {
+								var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true;
+								ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+								var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+								if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+							})(document, window);
+							//]]></script><noscript><div style="position:absolute;left:-10000px;">
+							<img src="//top-fwz1.mail.ru/counter?id=2199732;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
+							</div></noscript>
+							<!-- //Rating@Mail.ru counter -->
+							<!-- Rating@Mail.ru logo -->
+							<a href="http://top.mail.ru/jump?from=2199732">
+							<img src="//top-fwz1.mail.ru/counter?id=2199732;t=420;l=1"
+							style="border:0;" height="31" width="88" alt="Рейтинг@Mail.ru" /></a>
+							<!-- //Rating@Mail.ru logo -->
+						</li>
+						<li>
+							<!-- Top100 (Kraken) Counter -->
+							<p id="top100_widget"></p>
+							<script>
+								(function (w, d, c) {
+								(w[c] = w[c] || []).push(function() {
+									var options = { project: 2715561, element: 'top100_widget' };
+									try {
+									w.top100Counter = new top100(options);
+								} catch(e) { }
+								});
+								var n = d.getElementsByTagName("script")[0],
+								s = d.createElement("script"),
+								f = function () { n.parentNode.insertBefore(s, n); };
+								s.type = "text/javascript";
+								s.async = true;
+								s.src = "/js/top100.js";
+								if (w.opera == "[object Opera]") {
+								d.addEventListener("DOMContentLoaded", f, false);
+							} else { f(); }
+							})(window, document, "_top100q");
+							</script>
+							<!-- END Top100 (Kraken) Counter -->
+
+						</li>
+						<li>
+							<!--/ LiveInternet counter--><script type="text/javascript"><!--
+							document.write("<a href='http://www.liveinternet.ru/click;tk_m24' "+
+							"target=_blank><img src='//counter.yadro.ru/hit;tk_m24?t22.2;r"+
+							escape(document.referrer)+((typeof(screen)=="undefined")?"":
+							";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+							screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+							";"+Math.random()+
+							"' alt='' title='LiveInternet: показано число просмотров за 24"+
+							" часа, посетителей за 24 часа и за сегодня' "+
+							"border='0' width='88' height='31'><\/a>")
+							//--></script><!--/ LiveInternet-->
+						</li>
+					</ul>
+				</div>
+
+			</div>
+		</div>
+	</footer>
+
+</div>
+
+<!-- stories -->
+<div class="b-story story-id-1" style="display: none">
+
+	<a class="b-story-close" data-id="1">закрыть</a>
+
+	<div class="b-story-slider-wrapper"><div class="b-story-slider glide g_slider_stories0">
+		<div class="glide__track" data-glide-el="track">
+			<div class="b-story-list glide__slides">
+				<div class="glide__slide"><p class="b-story-list__title"><a href="https://www.m24.ru/galleries/gorod/20072022/483343">Москвичам показали виды ночного города</a></p><div class="b-list__img"><img src="/b/d/nBkSUhL2hFclmca3Ib6BvMKnxdDs-5i-mijFnuWR9mOBdDebBizCnTY8qdJf6ReJ58vU9meMMok3Ee2nhSR6ISeO9G1N_wjJ=dToYhj-Bl2samOfT9aSUBA.jpg" width="900" height="900" alt="" loading="lazy" /></div></div><div class="glide__slide"><p class="b-story-list__title"><a href="https://www.m24.ru/galleries/gorod/20072022/483343">Москвичам показали виды ночного города</a></p><div class="b-list__img"><img src="/b/d/nBkSUhL2hFclmca3IL6BvMKnxdDs-5i-mijFnuWR9mOBdDebBizCnTY8qdJf6ReJ58vU9meMMok3Ee2nhSR6ISeO9G1N_wjJ=l7ewtceLC2z-ZkjH2b6ggw.jpg" width="900" height="900" alt="" loading="lazy" /></div></div><div class="glide__slide"><p class="b-story-list__title"><a href="https://www.m24.ru/galleries/gorod/20072022/483343">Москвичам показали виды ночного города</a></p><div class="b-list__img"><img src="/b/d/nBkSUhL2hFclmca3L76BvMKnxdDs-5i-mijFnuWR9mOBdDebBizCnTY8qdJf6ReJ58vU9meMMok3Ee2nhSR6ISeO9G1N_wjJ=YHqpse_qP0Rnan0KfSmLKQ.jpg" width="900" height="900" alt="" loading="lazy" /></div></div><div class="glide__slide"><p class="b-story-list__title"><a href="https://www.m24.ru/galleries/gorod/20072022/483343">Москвичам показали виды ночного города</a></p><div class="b-list__img"><img src="/b/d/nBkSUhL2hFclmca2J76BvMKnxdDs-5i-mijFnuWR9mOBdDebBizCnTY8qdJf6ReJ58vU9meMMok3Ee2nhSR6ISeO9G1N_wjJ=db_b1iUi2J--MBGHB8yolw.jpg" width="900" height="900" alt="" loading="lazy" /></div></div><div class="glide__slide"><p class="b-story-list__title"><a href="https://www.m24.ru/galleries/gorod/20072022/483343">Москвичам показали виды ночного города</a></p><div class="b-list__img"><img src="/b/d/nBkSUhL2hFclmca2Jr6BvMKnxdDs-5i-mijFnuWR9mOBdDebBizCnTY8qdJf6ReJ58vU9meMMok3Ee2nhSR6ISeO9G1N_wjJ=lzJz5d0oRJhazr6TK9acEA.jpg" width="900" height="900" alt="" loading="lazy" /></div></div>
+			</div>
+		</div>
+		<div class="b-story-gradient"></div>
+		<div class="glide__bullets" data-glide-el="controls[nav]">
+			<button class="glide__bullet" data-glide-dir="=0"></button>
+			<button class="glide__bullet" data-glide-dir="=1"></button>
+			<button class="glide__bullet" data-glide-dir="=2"></button>
+			<button class="glide__bullet" data-glide-dir="=3"></button>
+			<button class="glide__bullet" data-glide-dir="=4"></button>
+
+		</div>
+	</div></div>
+
+</div>
+<!-- stories -->
+
+<div class="b-hidden-menu__modal"></div>
+
+<div id="WinFeedbackForm" class="b-feedback-window">
+	<div class="b-feedback-window-block">
+		<a id="WinFeedbackForm_Close" class="b-feedback-window-close">закрыть</a>
+		<div class="b-feedback-window-header">Обратная связь</div>
+		<div class="b-feedback-window-body">
+			<!-- <form id="FeedbackForm" method="post" action="/feedback/"> -->
+			<form id="FeedbackForm" action="/feedback/" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="r7p9qN/auxexzQo3++uoUgr7RRSM6MuhzebOzqvPBVQGe8pJNL/botXFM6/Xx5NCXtkKpTN5MhcXPU7G43BiWg==" />
+				<fieldset>
+					<legend>Форма обратной связи</legend>
+					<div class="b-feedback-window-body-left">
+						<div class="b-feedback-window-body__data">
+							<label for="WinFeedbackFormName" class="b-feedback-window-body__label">Имя</label>
+							<input class="b-feedback-window-body__input" id="WinFeedbackFormName" name="name" value="" />
+						</div>
+						<div class="b-feedback-window-body__data">
+							<label for="WinFeedbackFormContact" class="b-feedback-window-body__label">Контакт</label>
+							<input class="b-feedback-window-body__input" id="WinFeedbackFormContact" name="contact" value="" />
+						</div>
+						<div class="b-feedback-window-body__data">
+							<label for="WinFeedbackFormFile" class="b-feedback-window-body__label">Файл</label>
+							<div class="b-feedback-window-body__file"><span>Прикрепить файл</span><input id="WinFeedbackFormFile" type="file" name="file" /></div>
+							<div class="b-feedback-window-body__attach"></div>
+						</div>
+					</div>
+					<div class="b-feedback-window-body-right">
+						<div class="b-feedback-window-body__data">
+							<label for="WinFeedbackFormMessage" class="b-feedback-window-body__label">Сообщение</label>
+							<textarea class="b-feedback-window-body__textarea" id="WinFeedbackFormMessage" name="text"></textarea>
+						</div>
+						<div class="b-feedback-window-body__data">
+							<div class="b-feedback-window-body__captcha"><div id="feedback-captcha"></div></div>
+						</div>
+						<p class="b-feedback-window-body__button"><a id="WinFeedbackForm_Submit">Отправить</a></p>
+					</div>
+				</fieldset>
+			<!-- </form> -->
+</form>		</div>
+	</div>
+	<div class="b-feedback-window__modal"></div>
+</div>
+
+<div class="b-live-window draggable">
+	<div class="b-live-window-header">
+		<a class="b-live-window-close">закрыть</a>
+	</div>
+	<div class="b-live-window-body">
+	</div>
+</div>
+
+<div id="fullscreen"></div>
+<script type="text/javascript">
+	m24('ad', 'show', 'fullscreen');
+</script>
+
+<div id="mfullscreen"></div>
+<script type="text/javascript">
+	m24('ad', 'show', 'mfullscreen', { mobile: true })
+</script>
+
+<div id="floorad"></div>
+<script type="text/javascript">
+	m24('ad', 'show', 'floorad', { 'scroll': true })
+</script>
+
+
+<!-- tns-counter.ru -->
+<script type="text/javascript">
+	(function(win, doc, cb){
+		(win[cb] = win[cb] || []).push(function() {
+			try {
+				tnsCounterVgtrk_ru = new TNS.TnsCounter({
+				'account':'vgtrk_ru',
+				'tmsec': 'm24_total'
+				});
+			} catch(e){}
+		});
+
+		var tnsscript = doc.createElement('script');
+		tnsscript.type = 'text/javascript';
+		tnsscript.async = true;
+
+		tnsscript.src = 'https://www.tns-counter.ru/tcounter.js';
+
+		var s = doc.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(tnsscript, s);
+	})(window, this.document,'tnscounter_callback');
+</script>
+<noscript>
+	<img src="//www.tns-counter.ru/V13a****vgtrk_ru/ru/UTF-8/tmsec=m24_total/" width="0" height="0" alt="" />
+</noscript>
+<!--/ tns-counter.ru -->
+
+<script>
+
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-31627479-1', 'auto');
+	ga('send', 'pageview');
+</script>
+
+<div style="display:none">
+	<!-- Yandex.Metrika informer -->
+	<a href="https://metrika.yandex.ru/stat/?id=14130097&amp;from=informer"
+	target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/14130097/3_1_FFFFFFFF_EFEFEFFF_0_pageviews"
+	style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="14130097" data-lang="ru" /></a>
+	<!-- /Yandex.Metrika informer -->
+</div>
+
+<script src="/js/lib/glide/3.5.2/glide.min.js?v=1676636113"></script>
+<script src="/js/lib/fslightbox.js?v=1676636113"></script>
+<script src="/js/lib/autoComplete/auto-complete.min.js?v=1676636113"></script>
+<script src="/js/lib/draggabilly/draggabilly.pkgd.min.js?v=1676636113"></script>
+<script src="/js/vanilla.js?v=1676636113"></script>
+<!-- FCM pushes -->
+<script src="/js/lib/web_push/firebase-app.js?v=1676636113"></script>
+<script src="/js/lib/web_push/firebase-messaging.js?v=1676636113"></script>
+<script src="/js/lib/web_push/firebase-analytics.js?v=1676636113"></script>
+<script src="/js/lib/web_push/app.js?v=1676636113"></script>
+<!-- ========== -->
+<!--editorial-->
+<!--script src="/special/i/ny23.js?v=1676636113"></script-->
+</body>
+</html>

@@ -1,0 +1,2724 @@
+
+<!DOCTYPE html>
+<html lang="ru" dir="ltr" prefix="og: https://ogp.me/ns#">
+<head>
+
+
+<title>Последние новости – Дни.ру</title>
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="Robots"             content="index,follow,max-image-preview:large" />
+<meta property="fb:pages" content="123576454334261" />
+<meta name="original-source" content="https://dni.ru/" />
+
+<link rel="icon" type="img/ico"	href="/favicon.ico" />
+
+<meta property="og:url" content="https://dni.ru" />
+<meta property="og:description" content="Последние новости – Дни.ру" />
+<meta property="og:site_name" content="dni.ru" />
+<meta property="og:locale" content="ru_RU" />
+<meta property="og:title" content="Последние новости – Дни.ру"/>
+<meta property="og:image" content="https://dni.ru/static/img/news.jpg" />
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@dniru">
+<meta name="twitter:creator" content="@dniru">
+<meta name="twitter:title" content="Последние новости – Дни.ру">
+<meta name="twitter:description" content="Дни.ру – влиятельная российская интернет-газета">
+
+<link rel="manifest" href="/static/manifest.json">
+
+
+
+
+<meta itemprop="name" content="Последние новости – Дни.ру">
+<meta itemprop="description" content="Новости шоу бизнеса, последние новости политики. Сплетни, гороскоп, скандалы">
+<meta name="Description" content="Новости шоу бизнеса, последние новости политики. Сплетни, гороскоп, скандалы"/>
+<meta name="Keywords" content="новости, политика, шоубизнес, звезды, россия, украина, знаменитости, доллар, гороскоп, дниру"/>
+<link rel="canonical" href="https://dni.ru/">
+<link rel="amphtml" href="https://dni.ru/amp/">
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="stylesheet" type="text/css" href="/static/css/full.css?v4" media="all" />
+<link rel="stylesheet" type="text/css" href="/static/css/1280.css?v18" />
+<link rel="stylesheet" type="text/css" href="/static/css/1000.css?v3"	media="(max-width: 1200px)" />
+<link rel="stylesheet" type="text/css" href="/static/css/owl.carousel.min.css" media="all" />
+<link rel="stylesheet" type="text/css" media="all" href=/static/lightbox2/dist/css/lightbox.css>
+<link href="/static/css/jcarousel.basic.css" rel="stylesheet" type="text/css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/static/css/jquery-ui-1.9.2.custom.min.css" />
+
+
+<link rel="preconnect" href="https://img.dni.ru">
+
+<link rel="apple-touch-icon" href="/static/img/icons/"/>
+<link rel="apple-touch-icon" sizes="40x40" href="/static/img/icons/40.png"/>
+<link rel="apple-touch-icon" sizes="76x76" href="/static/img/icons/76.png"/>
+<link rel="apple-touch-icon" sizes="80x80" href="/static/img/icons/80.png"/>
+<link rel="apple-touch-icon" sizes="120x120" href="/static/img/icons/120.png"/>
+<link rel="apple-touch-icon" sizes="152x152" href="/static/img/icons/152.png"/>
+<link rel="apple-touch-icon" sizes="180x180" href="/static/img/icons/152.png"/>
+
+
+<!-- hb dni 15.02.22 desktop //-->
+<link rel="dns-prefetch" href="//static.criteo.net">
+<link rel="dns-prefetch" href="//bidder.criteo.com">
+<script src='https://static.criteo.net/js/ld/publishertag.js' async="true"></script> 
+<link rel="preconnect" href="https://ads.betweendigital.com" crossorigin> 
+<script src="https://an.yandex.ru/system/header-bidding.js" async="true"></script>
+<script>
+   const adfoxBiddersMap = {
+        'betweenDigital': '854560',
+        'criteo': '854555',
+        'myTarget': '854564',
+        'rtbhouse': '1136559',
+        'buzzoola': '1809923',
+        'adfox_roden-media': '1823004'
+    };
+    var adUnits = [
+        {
+            code: 'adfox_1489062846561034',     // 970х90 top
+            sizes: [[ 970, 90 ]],
+            bids: [
+                {
+                    bidder: 'criteo',
+                    params: {
+                        placementId: '1335796'
+                    }
+                },
+                {
+                    bidder: 'betweenDigital',
+                    params: {
+                        placementId: '2689613'
+                    }
+                },
+                {
+                    bidder: 'rtbhouse',
+                    params: {
+                        placementId: 'HLzM0uZSiv6BN1FkJhIl'
+                    }
+                },
+                {
+                    bidder: 'buzzoola',
+                    params: {
+                        placementId: '1227441'
+                    }
+                },
+                {
+                   bidder: 'adfox_roden-media',
+                   params: {
+                      p1: 'csksw',
+                      p2: 'hfln',
+                      puid1: '',
+                      puid2: '',
+                      puid3: '',
+                      puid4: '',
+                      puid5: '',
+                      puid6: ''                   
+                   }
+               }          
+            ]
+    	},
+    	{
+            code: 'adfox_1489062886166980',     // 240х400 right top
+            sizes: [[ 240, 400 ]],
+            bids: [
+                {
+                    bidder: 'criteo',
+                    params: {
+                        placementId: '1335797'
+                    }
+                },
+                {
+                    bidder: 'betweenDigital',
+                    params: {
+                        placementId: '2689614'
+                    }
+                },
+                {
+                    bidder: 'myTarget',
+                    params: {
+                        placementId: '323224'
+                    }
+                },
+                {
+                    bidder: 'rtbhouse',
+                    params: {
+                        placementId: 'PcZFexjFwq5k9BKAEpB6'
+                    }
+                },
+                {
+                    bidder: 'buzzoola',
+                    params: {
+                        placementId: '1227436'
+                    }
+                },
+                {
+                   bidder: 'adfox_roden-media',
+                   params: {
+                      p1: 'csksx',
+                      p2: 'emwl',
+                      puid1: '',
+                      puid2: '',
+                      puid3: '',
+                      puid4: '',
+                      puid5: '',
+                      puid6: ''                   
+                   }
+               }                
+            ]
+    	},
+   	{
+            code: 'adfox_1489062943209719',     // 300х600 right
+            sizes: [[ 300, 600 ]],
+            bids: [
+                {
+                    bidder: 'criteo',
+                    params: {
+                        placementId: '1515000'
+                    }
+                },
+                {
+                    bidder: 'betweenDigital',
+                    params: {
+                        placementId: '3871389'
+                    }
+                },
+                {
+                    bidder: 'myTarget',
+                    params: {
+                        placementId: '774912'
+                    }
+                },
+                {
+                    bidder: 'rtbhouse',
+                    params: {
+                        placementId: 'K2VN8G7fVEB03J57Q4UP'
+                    }
+                }     
+            ]
+    	},
+   	{
+            code: 'adfox_148906304784002',     // 300х600 left
+            sizes: [[ 300, 600 ]],
+            bids: [
+                {
+                    bidder: 'criteo',
+                    params: {
+                        placementId: '1515001'
+                    }
+                },
+                {
+                    bidder: 'betweenDigital',
+                    params: {
+                        placementId: '3871390'
+                    }
+                },
+                {
+                    bidder: 'myTarget',
+                    params: {
+                        placementId: '774914'
+                    }
+                },
+                {
+                    bidder: 'rtbhouse',
+                    params: {
+                        placementId: 'XHby0uj9rek4LTHlU4J5'
+                    }
+                },
+                {
+                    bidder: 'buzzoola',
+                    params: {
+                        placementId: '1227442'
+                    }
+                }       
+            ]
+    	},
+        {
+            code: 'adfox_1489063002997218',     // 300х250 left top
+            sizes: [[ 300, 250 ]],
+            bids: [
+                {
+                    bidder: 'criteo',
+                    params: {
+                        placementId: '1335800'
+                    }
+                },
+                {
+                    bidder: 'betweenDigital',
+                    params: {
+                        placementId: '2689615'
+                    }
+                },
+                {
+                    bidder: 'myTarget',
+                    params: {
+                        placementId: '323226'
+                    }
+                },
+                {
+                    bidder: 'rtbhouse',
+                    params: {
+                        placementId: 'mR8Qg44cxc3bXfDXSukl'
+                    }
+                },
+                {
+                    bidder: 'buzzoola',
+                    params: {
+                        placementId: '1227162'
+                    }
+                }
+            ]
+    	}
+    ];
+    var userTimeout = 1000;
+    window.YaHeaderBiddingSettings = {
+       biddersMap: adfoxBiddersMap,
+       adUnits: adUnits,
+       timeout: userTimeout
+   };
+</script>
+<!--
+<script src="https://yastatic.net/pcode/adfox/loader.js" crossorigin="anonymous"></script>
+<script src='https://static.criteo.net/js/ld/publishertag.js'></script>
+-->
+<script>
+    window.Criteo = window.Criteo || {};
+    window.Criteo.events = window.Criteo.events || [];
+</script>
+
+<script>window.yaContextCb = window.yaContextCb || []</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+
+
+
+
+<script src="//p1.ntvk1.ru/nv.js" async></script>
+<script async src="https://svk-native.ru/js/bounce-catcher/dni.ru.10137.min.js"></script>
+
+</head>
+
+
+<body>
+<div class="schema_org" itemscope="itemscope"
+	itemtype="https://schema.org/WebSite">
+	<meta itemprop="name" content="Дни.ру">
+	<meta itemprop="description"
+		content="Российская электронная газета">
+	<a itemprop="url" href="https://dni.ru"> </a>
+	<meta itemprop="image"
+		content="https://dni.ru/static/img/logo.png">
+</div>
+	
+</ul>
+<!-- GA -->
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-3626413-2', 'auto');
+var author = document.querySelector("[itemprop=author]");
+if(author) ga('send', 'pageview', {'dimension1': (author.innerText)} );
+else ga('send', 'pageview');
+
+</script>
+<!-- Yandex.Metrika counter --><script type="text/javascript" >(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})(window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+ym(23957197, "init", {clickmap:true,trackLinks:true,accurateTrackBounce:true});</script><noscript><div><img src="https://mc.yandex.ru/watch/23957197" style="position:absolute; left:-9999px;" alt="" /></div></noscript><!-- /Yandex.Metrika counter -->
+
+
+
+
+<script type="text/javascript" async src="https://relap.io/v7/relap.js" data-relap-token="oNigYORgE2yRYJGU"></script>
+
+
+
+	<div class="head-bg"></div>
+<div class="all ">
+
+	
+
+	
+	<div class="head">
+		<div class="head_but_menu"></div>
+		<div class="head__logo">
+			<a href="/" class="logo">
+				<img width="141" height="20" alt="Дни.ру" src="/static/img/logo_dni.svg" onerror="this.onerror=null; this.src='/static/img/logo-mini.png'">
+				
+			</a>
+			<div class="logo18"></div>
+			<div class="head__menu-list main   ">
+				
+				
+					<a href="/showbiz/" class="showbiz">Шоу-бизнес</a>
+				
+				
+					<a href="/horoscope/" class="horoscope">ГОРОСКОПЫ</a>
+				
+				
+					<a href="/realty/">НЕДВИЖИМОСТЬ</a>				
+					
+				
+				
+			</div>
+			
+			<div class="search_panel"><form action="/search/"><img width="24" height="23" alt="Поиск" src="/static/img/search.svg" onerror="this.onerror=null; this.src='/static/img/search.png'"><input name="q" type="text" placeholder="Поиск по сайту"></form></div>
+			<div class="butmenu"><img width="35" height="35" alt="Меню" src="/static/img/menu_red.svg" class="inact" onerror="this.onerror=null; this.parentNode.className='img'"><img width="35" height="35" alt="" src="/static/img/menu_green.svg" class="act" onerror="this.onerror=null; this.parentNode.className='img'"></div>
+		</div>
+		<div class="head_bottom_line"></div>
+	</div>
+	<div class="head__menu-bg"></div>
+	<div class="head__menu">
+		<div class="head__menu-columns">
+			<ul class="menu">
+				
+                    <li class="menu__item">
+						<a href="/showbiz/" >ШОУ-БИЗНЕС</a>
+                    </li>
+				
+                    <li class="menu__item">
+						<a href="/kino/" >КИНО</a>
+                    </li>
+				
+                    <li class="menu__item">
+						<a href="/horoscope/" >ГОРОСКОП</a>
+                    </li>
+				
+                    <li class="menu__item">
+						<a href="/polit/" >ПОЛИТИКА</a>
+                    </li>
+				
+                    <li class="menu__item">
+						<a href="/realty/" >НЕДВИЖИМОСТЬ</a>
+                    </li>
+				
+                    <li class="menu__item">
+						<a href="/health/" >ЗДОРОВЬЕ</a>
+                    </li>
+				
+                    <li class="menu__item">
+						<a href="/economy/" >ЭКОНОМИКА</a>
+                    </li>
+				
+                    <li class="menu__item">
+						<a href="/incidents/" >ПРОИСШЕСТВИЯ</a>
+                    </li>
+				
+                    <li class="menu__item">
+						<a href="/sonnic/" >СОННИК</a>
+                    </li>
+				
+                    <li class="menu__item">
+						<a href="/book/" >КНИГИ</a>
+                    </li>
+				
+                    <li class="menu__item">
+						<a href="/moda/" >МОДА</a>
+                    </li>
+				
+                    <li class="menu__item">
+						<a href="/game/" >ИГРЫ</a>
+                    </li>
+				
+                    <li class="menu__item">
+						<a href="/about.html" >О ПРОЕКТЕ</a>
+                    </li>
+				
+				
+			</ul>
+		</div>
+	</div>
+	<div class="head__menu-after"></div>
+	
+
+	<div class="container_all">
+		<div style="clear:both;" class="container">
+			
+
+			
+            <div class="banner banner__main_1">
+                    
+<!--AdFox START-->
+<!--dni.ru14-->
+<!--Площадка: Дни.Ру new / * / *-->
+<!--Тип баннера: Растяжка new-->
+<!--Расположение: <верх страницы>-->
+<div id="adfox_1489062846561034"></div>
+<script>
+window.yaContextCb.push(()=>{      
+	Ya.adfoxCode.create({
+        ownerId: 230323,
+        containerId: 'adfox_1489062846561034',
+        params: {
+            pp: 'g',
+            ps: 'cepr',
+            p2: 'fhew',
+            //puid1: AdriverPrebid.adriverBids.dni970x250,
+            'partner-stat-id': (document.cookie.indexOf("adblk=yes") >= 0) ? 2 : 1
+        }
+    });
+});
+</script>
+
+            </div>
+            
+			
+			
+			
+			<div class="headline">
+				
+					
+						<a href="https://dni.ru/showbiz/2023/2/13/517122.html"  style="color: #bb2649;" %}>Главное из мира шоу-бизнеса: проект &quot;На днях&quot;</a>
+					
+				
+					
+						<a href="/theme/test/"  style="color: #bb2649;" %}>Тесты</a>
+					
+				
+					
+						<a href="https://dni.ru/showbiz/2023/2/16/517237.html"  style="color: #bb2649;" %}>Подробности состояния Костомарова</a>
+					
+				
+					
+						<a href="/game/"  style="color: #bb2649;" %}>Игры</a>
+					
+				
+					
+						<a href="/sonnic/"  style="color: #bb2649;" %}>Сонник</a>
+					
+				
+			</div>
+			
+			
+                        
+			
+
+<div class="container__mini" id="left_for_fix">
+<div id="for_fix" class="floating_left">
+	<div class="container__mini-mainnews" data-vr-zone="Main news">
+		
+			<a class="mainnews__item mainnews__item_1" href="/showbiz/2023/2/18/517336.html" data-vr-contentbox="Position 1" data-vr-contentbox-url="https://dni.ru/showbiz/2023/2/18/517336.html">
+				<div class="parallax mainnews__item mainnews__item_1">
+					<div class="parallax_intro2">
+					 <div class="mainnew">
+						<div class="mainnew__section">Шоу-бизнес</div>
+						<div class="mainnew__title" data-vr-headline>"Я визжала на всю квартиру": исступленная Навка отказывается верить в произошедшее с Костомаровым</div>
+					</div>
+					</div>
+					<p class="parallax-img" style="background: #484848 url('https://img.dni.ru/binaries/v4_top/517336.jpg') no-repeat center center; background-size: cover;" href="/showbiz/2023/2/18/517336.html"></p>
+				</div>
+			</a>
+		
+	</div>
+	
+	<div class="briefs">
+	<div class="briefs__date">Понедельник <nobr>20 февраля</nobr></div>
+	<a class="briefs__title" href="/news/">Лента новостей</a>
+	<div style="clear:both;padding-top: 10px;"></div>
+	<div class="scroll">
+	
+			<div class="briefs__item briefs__item_1">
+				<div class="brief">
+					<a href="/showbiz/2023/2/20/517378.html">
+						<div class="brief__time">13:20</div>
+						<div class="brief__title">Танцевал и смеялся: бросившего Заворотнюк Чернышева застукали с другой</div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_2">
+				<div class="brief">
+					<a href="/incidents/2023/2/20/517379.html">
+						<div class="brief__time">13:00</div>
+						<div class="brief__title">В Новой Москве девушка получила подарок со взрывчаткой</div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_3">
+				<div class="brief">
+					<a href="/showbiz/2023/2/20/517371.html">
+						<div class="brief__time">12:40</div>
+						<div class="brief__title">"Живот отрезал вместе с пупком": ставший жертвой Киркоров показал последствия вскрытия</div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_4">
+				<div class="brief">
+					<a href="/showbiz/2023/2/20/517375.html">
+						<div class="brief__time">12:20</div>
+						<div class="brief__title">Большая потеря: Врачи не смогли спасти пережившего ампутацию конечностей Костомарова</div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_5">
+				<div class="brief">
+					<a href="/showbiz/2023/2/20/517376.html">
+						<div class="brief__time">12:00</div>
+						<div class="brief__title">Не видели с декабря: заделавший нового ребенка бывший муж Бородиной исчез</div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_6">
+				<div class="brief">
+					<a href="/showbiz/2023/2/20/517369.html">
+						<div class="brief__time">11:40</div>
+						<div class="brief__title">"Изнасиловал": Пристроившегося без разрешения наглеца Киркорова ждет суд</div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_7">
+				<div class="brief">
+					<a href="/realty/2023/2/20/517368.html">
+						<div class="brief__time">11:20</div>
+						<div class="brief__title">Обманула доверие: жена Дунаевского выставила звездного мужа из московской квартиры</div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_8">
+				<div class="brief">
+					<a href="/showbiz/2023/2/20/517366.html">
+						<div class="brief__time">11:00</div>
+						<div class="brief__title">"Вышло мимо": объявивший о разводе с женой Малахов предъявил малыша</div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_9">
+				<div class="brief">
+					<a href="/showbiz/2023/2/20/517367.html">
+						<div class="brief__time">10:40</div>
+						<div class="brief__title">"Лечиться и лечиться": найденной в горе мусора Волочковой поставили диагноз</div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_10">
+				<div class="brief">
+					<a href="/showbiz/2023/2/20/517365.html">
+						<div class="brief__time">10:20</div>
+						<div class="brief__title">Сняли на видео: Кривляющаяся на сцене Брежнева засветила копну волос в интимной зоне</div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_11">
+				<div class="brief">
+					<a href="/realty/2023/2/20/517362.html">
+						<div class="brief__time">10:00</div>
+						<div class="brief__title">Сплошная экономия: в России вырос спрос на загородную недвижимость</div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_12">
+				<div class="brief">
+					<a href="/showbiz/2023/2/20/517364.html">
+						<div class="brief__time">09:40</div>
+						<div class="brief__title">Боже! Изуродованную пластикой Алентову выставили перед толпой зевак</div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_13">
+				<div class="brief">
+					<a href="/showbiz/2023/2/20/517363.html">
+						<div class="brief__time">09:20</div>
+						<div class="brief__title">"Что-то фундаментальное": вдова рассказала о появлении в столице мемориального музея Кобзона </div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_14">
+				<div class="brief">
+					<a href="/health/2023/2/20/517271.html">
+						<div class="brief__time">09:00</div>
+						<div class="brief__title">Вместо "Виагры": названо лучшее растение для эрекции</div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_15">
+				<div class="brief">
+					<a href="/moda/2023/2/20/516826.html">
+						<div class="brief__time">08:40</div>
+						<div class="brief__title">Экзотика по-русски: мода Вячеслава Зайцева прижилась далеко за МКАД</div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_16">
+				<div class="brief">
+					<a href="/economy/2023/2/20/516689.html">
+						<div class="brief__time">08:20</div>
+						<div class="brief__title">Как перестать покупать ерунду: 4 способа экономии</div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_17">
+				<div class="brief">
+					<a href="/incidents/2023/2/20/516692.html">
+						<div class="brief__time">08:00</div>
+						<div class="brief__title">Умертвила четверых мужиков и требовала золота: страшная история ведьмы из Казани</div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_18">
+				<div class="brief">
+					<a href="/book/2023/2/20/516694.html">
+						<div class="brief__time">08:00</div>
+						<div class="brief__title">Марионетки на войне: Пушкин, Достоевский и Есенин стали жертвами злобного диктатора</div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_19">
+				<div class="brief">
+					<a href="/society/2023/2/20/517270.html">
+						<div class="brief__time">06:15</div>
+						<div class="brief__title">Как добавить ярких моментов в постель: 3 совета сексолога</div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_20">
+				<div class="brief">
+					<a href="/society/2023/2/20/517267.html">
+						<div class="brief__time">04:32</div>
+						<div class="brief__title">Опасный напиток на вашем столе: ученые назвали причину болезни Альцгеймера</div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_21">
+				<div class="brief">
+					<a href="/showbiz/2023/2/20/516691.html">
+						<div class="brief__time">04:06</div>
+						<div class="brief__title">Бабкина, Кадышева, Крыгина: Надежды российской эстрады</div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_22">
+				<div class="brief">
+					<a href="/health/2023/2/20/517216.html">
+						<div class="brief__time">02:19</div>
+						<div class="brief__title">Следи за языком! Какие слова могут привести к смерти</div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_23">
+				<div class="brief">
+					<a href="/society/2023/2/20/516693.html">
+						<div class="brief__time">02:08</div>
+						<div class="brief__title">Жизнь моего брата забрала поганая нечисть: изо рта шла пена</div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_24">
+				<div class="brief">
+					<a href="/society/2023/2/20/516632.html">
+						<div class="brief__time">00:01</div>
+						<div class="brief__title">Сырная седмица: православный праздник 20 февраля</div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_25">
+				<div class="brief">
+					<a href="/society/2023/2/19/517035.html">
+						<div class="brief__time">23:11</div>
+						<div class="brief__title">Как добиться счастья без страданий? </div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_26">
+				<div class="brief">
+					<a href="/lifestyle/2023/2/19/517255.html">
+						<div class="brief__time">22:05</div>
+						<div class="brief__title">Детские травмы и недостатки партнера: Главные причины развода и как избежать краха семьи</div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_27">
+				<div class="brief">
+					<a href="/showbiz/2023/2/19/516977.html">
+						<div class="brief__time">21:04</div>
+						<div class="brief__title">Пока смерть не разлучит нас: умершие после свадьбы знаменитости</div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_28">
+				<div class="brief">
+					<a href="/showbiz/2023/2/19/517260.html">
+						<div class="brief__time">20:20</div>
+						<div class="brief__title">Подходит под любую начинку: рецепт вкуснейшего йоркширского пуддинга от Марины Юдашкиной</div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_29">
+				<div class="brief">
+					<a href="/video/2023/2/19/517128.html">
+						<div class="brief__time">19:53</div>
+						<div class="brief__title">Очень тактильный попугай не отпускает "маму" ни на минуту (видео)</div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_30">
+				<div class="brief">
+					<a href="/health/2023/2/19/517252.html">
+						<div class="brief__time">19:01</div>
+						<div class="brief__title">5 способов раскрыть женское предназначение</div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_31">
+				<div class="brief">
+					<a href="/video/2023/2/19/517039.html">
+						<div class="brief__time">18:31</div>
+						<div class="brief__title">Самое милое на сегодня: в Хабаровском крае мужчина завел дружбу с диким соболем – видео</div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_32">
+				<div class="brief">
+					<a href="/showbiz/2023/2/19/517359.html">
+						<div class="brief__time">18:30</div>
+						<div class="brief__title">"Очередная победа": хорошие новости о здоровье Костомарова</div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_33">
+				<div class="brief">
+					<a href="/showbiz/2023/2/19/517356.html">
+						<div class="brief__time">17:57</div>
+						<div class="brief__title">"Все случилось куда быстрее": неизлечимо больной внук Пугачевой прощается навсегда</div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_34">
+				<div class="brief">
+					<a href="/showbiz/2023/2/19/517357.html">
+						<div class="brief__time">17:53</div>
+						<div class="brief__title">"Мой уже много лет": пойманная с Лепсом Барановская официально призналась</div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_35">
+				<div class="brief">
+					<a href="/showbiz/2023/2/19/517358.html">
+						<div class="brief__time">17:31</div>
+						<div class="brief__title">"Потеряла": забеременевшая Наташа Королева откровенно о ребенке</div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_36">
+				<div class="brief">
+					<a href="/showbiz/2023/2/19/517353.html">
+						<div class="brief__time">16:16</div>
+						<div class="brief__title">Срочно: многодетной жене Тарасова рассекло руку пополам</div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_37">
+				<div class="brief">
+					<a href="/showbiz/2023/2/19/517354.html">
+						<div class="brief__time">15:48</div>
+						<div class="brief__title">"Влюбленность": объявлена причина развода Николаева и Проскуряковой</div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_38">
+				<div class="brief">
+					<a href="/showbiz/2023/2/19/517352.html">
+						<div class="brief__time">14:32</div>
+						<div class="brief__title">"Некуда идти": приползшую к маме беглянку Литвинову с визгом вышвырнули из России</div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_39">
+				<div class="brief">
+					<a href="/showbiz/2023/2/19/517351.html">
+						<div class="brief__time">14:05</div>
+						<div class="brief__title">"Плачет навзрыд": сгоревший в реанимации Пьер Нарцисс вернулся с того света</div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_40">
+				<div class="brief">
+					<a href="/showbiz/2023/2/19/517350.html">
+						<div class="brief__time">13:50</div>
+						<div class="brief__title">Жених и невеста: застуканная с мужиком дочь Успенской едва успела прикрыться</div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_41">
+				<div class="brief">
+					<a href="/showbiz/2023/2/19/517125.html">
+						<div class="brief__time">12:14</div>
+						<div class="brief__title">Маркл, Орейро, Найтли: шесть голливудских красоток с неидеальными лицами</div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_42">
+				<div class="brief">
+					<a href="/showbiz/2023/2/19/517349.html">
+						<div class="brief__time">11:57</div>
+						<div class="brief__title">Кровавый кашель и потеря сознания: 73-летний Ричард Гир экстренно госпитализирован</div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_43">
+				<div class="brief">
+					<a href="/showbiz/2023/2/19/517347.html">
+						<div class="brief__time">11:53</div>
+						<div class="brief__title">"Похороны": стало известно об уходе Константина Богомолова</div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_44">
+				<div class="brief">
+					<a href="/showbiz/2023/2/19/517348.html">
+						<div class="brief__time">11:05</div>
+						<div class="brief__title">"Жалко деток": Прилучный бросил беременную жену </div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_45">
+				<div class="brief">
+					<a href="/moda/2023/2/19/517211.html">
+						<div class="brief__time">10:23</div>
+						<div class="brief__title">Снимите это немедленно: названы опасные мужские трусы </div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_46">
+				<div class="brief">
+					<a href="/showbiz/2023/2/19/517319.html">
+						<div class="brief__time">10:15</div>
+						<div class="brief__title">Очень нехорошие дела: в жизни Киркорова наступил фатальный момент </div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_47">
+				<div class="brief">
+					<a href="/book/2023/2/19/516930.html">
+						<div class="brief__time">09:20</div>
+						<div class="brief__title">"Эффект теломер": Как оставаться долго здоровым и молодым без врачей и лекарств?</div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_48">
+				<div class="brief">
+					<a href="/showbiz/2023/2/19/516576.html">
+						<div class="brief__time">08:07</div>
+						<div class="brief__title">Чем богаты: знаменитые мужчины с большими пенисами</div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_49">
+				<div class="brief">
+					<a href="/society/2023/2/19/517093.html">
+						<div class="brief__time">07:08</div>
+						<div class="brief__title">Солнцеликая Масленица славян: торжество света над тьмой</div>
+					</a>
+				</div>
+			</div>
+	
+			<div class="briefs__item briefs__item_50">
+				<div class="brief">
+					<a href="/showbiz/2023/2/19/516575.html">
+						<div class="brief__time">06:14</div>
+						<div class="brief__title">Как заноза в заднице: самые навязчивые российские блогеры</div>
+					</a>
+				</div>
+			</div>
+	
+	<div class="subtitle">
+		<a class="subtitle-title subtitle-title_more" href="/news/">загрузить ещё</a>
+	</div>
+	</div>
+</div>
+
+	
+		<!--AdFox START-->
+	<!--dni.ru14-->
+	<!--Площадка: Дни.Ру new / * / *-->
+	<!--Тип баннера: ТГБ-->
+	<!--Расположение: <верх страницы>-->
+	<div id="adfox_15004637201718844"></div>
+	<script>
+window.yaContextCb.push(()=>{      
+	Ya.adfoxCode.create({
+			ownerId: 230323,
+			containerId: 'adfox_15004637201718844',
+			params:
+			{ pp: 'g', ps: 'cepr', p2: 'fcqj' }
+		});
+});
+	</script>	
+
+	
+	<div class="banner banner__main_4">
+		<!--AdFox START-->
+<!--dni.ru14-->
+<!--Площадка: Дни.Ру new / * / *-->
+<!--Тип баннера: 300*250 new2-->
+<!--Расположение: <верх страницы>-->
+<div id="adfox_1489063002997218"></div>
+<script>
+window.yaContextCb.push(()=>{      
+	Ya.adfoxCode.create({
+        ownerId: 230323,
+        containerId: 'adfox_1489063002997218',
+        params: {
+            pp: 'g',
+            ps: 'cepr',
+            p2: 'fhef',
+            //puid1: AdriverPrebid.adriverBids.dni300x250,
+            'partner-stat-id': (document.cookie.indexOf("adblk=yes") >= 0) ? 2 : 1
+        }
+    });
+});
+</script>
+
+	</div>
+   <div class="block02">
+		
+			
+			<a href="/society/2023/2/20/516632.html" class="new-section">
+				<div class="new-section__effect-hover"></div>
+				<div class="new-section__title"><span><nobr>Общество</nobr></span></div>
+				<div class="new-section__text">
+					<h4 class="new-section__text-title">Сырная седмица: православный праздник 20 февраля</h4>
+					<p class="new-section__text-anons">20 февраля православные готовятся к началу Поста</p>
+				</div>
+			</a>
+			
+		
+			
+		
+	</div>
+	
+	<div class="container__partners">
+		
+<div id="unit_83997"></div>
+<script type="text/javascript">
+(function(w, n) {
+    w[n] = w[n] || [];
+    w[n].push(function() {
+    var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+    sc.src = '//news.smi2.ru/data/js/83997.js'; sc.charset = 'utf-8';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+    });	
+	})(this, "dniruCallbacks");
+</script>
+
+	</div>
+
+	<div class="banner banner__main_5">
+		<!--AdFox START-->
+<!--dni.ru14-->
+<!--Площадка: Дни.Ру new / * / *-->
+<!--Тип баннера: 300*600 слева new-->
+<!--Расположение: <верх страницы>-->
+<div id="adfox_148906304784002"></div>
+<script>
+window.yaContextCb.push(()=>{      
+	Ya.adfoxCode.create({
+        ownerId: 230323,
+        containerId: 'adfox_148906304784002',
+        params: {
+            pp: 'g',
+            ps: 'cepr',
+            p2: 'fhex',
+            'partner-stat-id': (document.cookie.indexOf("adblk=yes") >= 0) ? 2 : 1
+        }
+    });
+});
+</script>
+
+	</div>
+	
+	<div class="block08">
+		
+			
+		
+			
+			<a href="/showbiz/2023/2/17/517297.html" class="new-section">
+				<div class="new-section__effect-hover"></div>
+				<div class="new-section__title"><span><nobr>Шоу-бизнес</nobr></span></div>
+				<div class="new-section__text">
+					<h4 class="new-section__text-title">Сердце разбито: Малахов заявил о разводе с женой</h4>
+					<p class="new-section__text-anons">Андрей Малахов проникся ностальгией по утраченному </p>
+				</div>
+			</a>
+			
+		
+	</div>
+	
+</div>
+</div>
+
+<div class="container__big">
+	<div class="adv-header"></div>
+	<div style="clear:both;"></div>
+
+	<div class="mainslide">
+		<div class="mainnews_narrow">
+			
+				
+					<a class="mainnews__item mainnews__item_1" href="/showbiz/2023/2/18/517336.html">
+						<div class="parallax">
+							<div class="parallax_intro2">
+							 <div class="mainnew">
+									<div class="mainnew__section">Шоу-бизнес</div>
+									<div class="mainnew__title">"Я визжала на всю квартиру": исступленная Навка отказывается верить в произошедшее с Костомаровым</div>
+								</div>
+							</div>
+							<p class="parallax-img" style="background: #484848 url('https://img.dni.ru/binaries/v4_top/517336.jpg') no-repeat center center; background-size: cover;" href="/showbiz/2023/2/18/517336.html"></p>
+						</div>
+					</a>
+				
+			
+				
+					<a class="mainnews__item mainnews__item_2" href="/showbiz/2023/2/20/517371.html">
+						<div class="parallax">
+							<div class="parallax_intro2">
+							 <div class="mainnew">
+									<div class="mainnew__section">Шоу-бизнес</div>
+									<div class="mainnew__title">"Живот отрезал вместе с пупком": ставший жертвой Киркоров показал последствия вскрытия</div>
+								</div>
+							</div>
+							<p class="parallax-img" style="background: #484848 url('https://img.dni.ru/binaries/v4_top/517371.jpg') no-repeat center center; background-size: cover;" href="/showbiz/2023/2/20/517371.html"></p>
+						</div>
+					</a>
+				
+			
+				
+					<a class="mainnews__item mainnews__item_3" href="/showbiz/2023/2/20/517376.html">
+						<div class="parallax">
+							<div class="parallax_intro2">
+							 <div class="mainnew">
+									<div class="mainnew__section">Шоу-бизнес</div>
+									<div class="mainnew__title">Не видели с декабря: заделавший нового ребенка бывший муж Бородиной исчез</div>
+								</div>
+							</div>
+							<p class="parallax-img" style="background: #484848 url('https://img.dni.ru/binaries/v3_main/517376.jpg') no-repeat center center; background-size: cover;" href="/showbiz/2023/2/20/517376.html"></p>
+						</div>
+					</a>
+				
+			
+		</div>
+		<div class="mainnews" data-vr-zone="Main news">
+			
+				
+					<a class="mainnews__item mainnews__item_1" href="/showbiz/2023/2/20/517371.html" data-vr-contentbox="Position 2" data-vr-contentbox-url="https://dni.ru/showbiz/2023/2/20/517371.html">
+						<div class="parallax">
+							<div class="parallax_intro2">
+							 <div class="mainnew">
+									<div class="mainnew__section">Шоу-бизнес</div>
+									<div class="mainnew__title" data-vr-headline>"Живот отрезал вместе с пупком": ставший жертвой Киркоров показал последствия вскрытия</div>
+								</div>
+							</div>
+							<p class="parallax-img" style="background: #484848 url('https://img.dni.ru/binaries/v4_top/517371.jpg') no-repeat center center; background-size: cover;" href="/showbiz/2023/2/20/517371.html"></p>
+						</div>
+					</a>
+				
+			
+				
+					<a class="mainnews__item mainnews__item_2" href="/showbiz/2023/2/20/517376.html" data-vr-contentbox="Position 3" data-vr-contentbox-url="https://dni.ru/showbiz/2023/2/20/517376.html">
+						<div class="parallax">
+							<div class="parallax_intro2">
+							 <div class="mainnew">
+									<div class="mainnew__section">Шоу-бизнес</div>
+									<div class="mainnew__title" data-vr-headline>Не видели с декабря: заделавший нового ребенка бывший муж Бородиной исчез</div>
+								</div>
+							</div>
+							<p class="parallax-img" style="background: #484848 url('https://img.dni.ru/binaries/v3_main/517376.jpg') no-repeat center center; background-size: cover;" href="/showbiz/2023/2/20/517376.html"></p>
+						</div>
+					</a>
+				
+			
+				
+					<a class="mainnews__item mainnews__item_3" href="/showbiz/2023/2/20/517375.html" data-vr-contentbox="Position 4" data-vr-contentbox-url="https://dni.ru/showbiz/2023/2/20/517375.html">
+						<div class="parallax">
+							<div class="parallax_intro2">
+							 <div class="mainnew">
+									<div class="mainnew__section">Шоу-бизнес</div>
+									<div class="mainnew__title" data-vr-headline>Большая потеря: Врачи не смогли спасти пережившего ампутацию конечностей Костомарова</div>
+								</div>
+							</div>
+							<p class="parallax-img" style="background: #484848 url('https://img.dni.ru/binaries/v3_main/517375.jpg') no-repeat center center; background-size: cover;" href="/showbiz/2023/2/20/517375.html"></p>
+						</div>
+					</a>
+				
+			
+		</div>
+		<div class="banner-240x400">
+			<!--AdFox START-->
+<!--dni.ru14-->
+<!--Площадка: Дни.Ру new / * / *-->
+<!--Тип баннера: 240*400 new-->
+<!--Расположение: <верх страницы>-->
+<div id="adfox_1489062886166980"></div>
+<script>
+window.yaContextCb.push(()=>{      
+	Ya.adfoxCode.create({
+        ownerId: 230323,
+        containerId: 'adfox_1489062886166980',
+        params: {
+            pp: 'g',
+            ps: 'cepr',
+            p2: 'fheb',
+            //puid1: AdriverPrebid.adriverBids.dni240x400,
+            'partner-stat-id': (document.cookie.indexOf("adblk=yes") >= 0) ? 2 : 1
+        }
+    });
+});
+</script>
+
+		</div>
+	</div>
+
+
+	<div class="container__item">
+		<div class="blockPopular" data-vr-zone="Intresting 3">
+			
+				
+				<a href="/showbiz/2023/2/20/517367.html" class="new-section new-section_1" data-vr-contentbox="Position 1" data-vr-contentbox-url="https://dni.ru/showbiz/2023/2/20/517367.html">
+					<div class="new-section__effect-hover"></div>
+					<div class="parallax">
+						<div class="parallax_intro">
+							<div class="new-section__title"><span><nobr>Сенсация</nobr></span></div>
+							<div class="new-section__text">
+								<h4 class="new-section__text-title" data-vr-headline>"Лечиться и лечиться": найденной в горе мусора Волочковой поставили диагноз</h4>
+								<p class="new-section__text-anons">Посиделки Анастасии Волочковой закончились крахом</p>
+							</div>
+						</div>
+					</div>
+				</a>
+				
+			
+				
+				<a href="/showbiz/2023/2/20/517365.html" class="new-section new-section_2" data-vr-contentbox="Position 2" data-vr-contentbox-url="https://dni.ru/showbiz/2023/2/20/517365.html">
+					<div class="new-section__effect-hover"></div>
+					<div class="parallax">
+						<div class="parallax_intro">
+							<div class="new-section__title"><span><nobr>Шоу-бизнес</nobr></span></div>
+							<div class="new-section__text">
+								<h4 class="new-section__text-title" data-vr-headline>Сняли на видео: Кривляющаяся на сцене Брежнева засветила копну волос в интимной зоне</h4>
+								<p class="new-section__text-anons">Брежнева оголилась</p>
+							</div>
+						</div>
+					</div>
+				</a>
+				
+			
+				
+				<a href="/showbiz/2023/2/20/517364.html" class="new-section new-section_3" data-vr-contentbox="Position 3" data-vr-contentbox-url="https://dni.ru/showbiz/2023/2/20/517364.html">
+					<div class="new-section__effect-hover"></div>
+					<div class="parallax">
+						<div class="parallax_intro">
+							<div class="new-section__title"><span><nobr>Шоу-бизнес</nobr></span></div>
+							<div class="new-section__text">
+								<h4 class="new-section__text-title" data-vr-headline>Боже! Изуродованную пластикой Алентову выставили перед толпой зевак</h4>
+								<p class="new-section__text-anons">Актриса Вера Алентова поразила зрителей</p>
+							</div>
+						</div>
+					</div>
+				</a>
+				
+			
+		</div>
+		<div style="clear:both;"></div>
+		<div data-vr-zone="Intresting" class="blockImageDay block__section_showbiz">
+			
+				
+				<a href="/showbiz/2023/2/20/517366.html" class="new-section new-section_showbiz new-section_1" data-vr-contentbox="Position 1" data-vr-contentbox-url="https://dni.ru/showbiz/2023/2/20/517366.html">
+					<div class="new-section__effect-hover"></div>
+					<div class="parallax">
+						<div class="parallax_intro">
+							<div class="new-section__title"><span><nobr>Интересно</nobr></span></div>
+							<div class="new-section__text">
+								<h4 class="new-section__text-title" data-vr-headline>"Вышло мимо": объявивший о разводе с женой Малахов предъявил малыша</h4>
+								<p class="new-section__text-anons">Малахов сделал заявление</p>
+							</div>
+						</div>
+					
+						
+							<p class="parallax-img backfonLight" style="background: #484848 url('https://img.dni.ru/binaries/v4_interest/517366.jpg') no-repeat center center; background-size: cover; " href="/showbiz/2023/2/20/517366.html"></p>
+							
+						
+					</div>
+				</a>
+				
+					<div style="clear:both;"></div>
+				
+				
+			
+				
+				<a href="/showbiz/2023/2/20/517363.html" class="new-section  new-section_2" data-vr-contentbox="Position 2" data-vr-contentbox-url="https://dni.ru/showbiz/2023/2/20/517363.html">
+					<div class="new-section__effect-hover"></div>
+					<div class="parallax">
+						<div class="parallax_intro">
+							<div class="new-section__title"><span><nobr>Шоу-бизнес</nobr></span></div>
+							<div class="new-section__text">
+								<h4 class="new-section__text-title" data-vr-headline>"Что-то фундаментальное": вдова рассказала о появлении в столице мемориального музея Кобзона </h4>
+								<p class="new-section__text-anons">Артист этого достоин! </p>
+							</div>
+						</div>
+					
+						
+					</div>
+				</a>
+				
+				
+			
+				
+				<a href="/showbiz/2023/2/20/517369.html" class="new-section  new-section_3" data-vr-contentbox="Position 3" data-vr-contentbox-url="https://dni.ru/showbiz/2023/2/20/517369.html">
+					<div class="new-section__effect-hover"></div>
+					<div class="parallax">
+						<div class="parallax_intro">
+							<div class="new-section__title"><span><nobr>Шоу-бизнес</nobr></span></div>
+							<div class="new-section__text">
+								<h4 class="new-section__text-title" data-vr-headline>"Изнасиловал": Пристроившегося без разрешения наглеца Киркорова ждет суд</h4>
+								<p class="new-section__text-anons">Киркоров влип</p>
+							</div>
+						</div>
+					
+						
+					</div>
+				</a>
+				
+				
+			
+				
+				<a href="/showbiz/2023/2/19/517354.html" class="new-section  new-section_4" data-vr-contentbox="Position 4" data-vr-contentbox-url="https://dni.ru/showbiz/2023/2/19/517354.html">
+					<div class="new-section__effect-hover"></div>
+					<div class="parallax">
+						<div class="parallax_intro">
+							<div class="new-section__title"><span><nobr>Шоу-бизнес</nobr></span></div>
+							<div class="new-section__text">
+								<h4 class="new-section__text-title" data-vr-headline>"Влюбленность": объявлена причина развода Николаева и Проскуряковой</h4>
+								<p class="new-section__text-anons">Игорю Николаеву не терпится отдаться новым чувствам</p>
+							</div>
+						</div>
+					
+						
+					</div>
+				</a>
+				
+					<div style="clear:both;"></div>
+				
+				
+			
+				
+				<a href="/showbiz/2023/2/19/517347.html" class="new-section  new-section_5" data-vr-contentbox="Position 5" data-vr-contentbox-url="https://dni.ru/showbiz/2023/2/19/517347.html">
+					<div class="new-section__effect-hover"></div>
+					<div class="parallax">
+						<div class="parallax_intro">
+							<div class="new-section__title"><span><nobr>Шоу-бизнес</nobr></span></div>
+							<div class="new-section__text">
+								<h4 class="new-section__text-title" data-vr-headline>"Похороны": стало известно об уходе Константина Богомолова</h4>
+								<p class="new-section__text-anons">Муж Ксении Собчак не жалел себя</p>
+							</div>
+						</div>
+					
+						
+							<p class="parallax-img backfonLight" style="background: #484848 url('https://img.dni.ru/binaries/v3_main/517347.jpg') no-repeat center center; background-size: cover; " href="/showbiz/2023/2/19/517347.html"></p>
+							
+						
+					</div>
+				</a>
+				
+				
+			
+				
+				<a href="/showbiz/2023/2/19/517319.html" class="new-section  new-section_6" data-vr-contentbox="Position 6" data-vr-contentbox-url="https://dni.ru/showbiz/2023/2/19/517319.html">
+					<div class="new-section__effect-hover"></div>
+					<div class="parallax">
+						<div class="parallax_intro">
+							<div class="new-section__title"><span><nobr>Шоу-бизнес</nobr></span></div>
+							<div class="new-section__text">
+								<h4 class="new-section__text-title" data-vr-headline>Очень нехорошие дела: в жизни Киркорова наступил фатальный момент </h4>
+								<p class="new-section__text-anons">Судьба Филиппа Киркорова предрешена </p>
+							</div>
+						</div>
+					
+						
+					</div>
+				</a>
+				
+				
+			
+				
+				<a href="/showbiz/2023/2/19/517349.html" class="new-section  new-section_7" data-vr-contentbox="Position 7" data-vr-contentbox-url="https://dni.ru/showbiz/2023/2/19/517349.html">
+					<div class="new-section__effect-hover"></div>
+					<div class="parallax">
+						<div class="parallax_intro">
+							<div class="new-section__title"><span><nobr>Шоу-бизнес</nobr></span></div>
+							<div class="new-section__text">
+								<h4 class="new-section__text-title" data-vr-headline>Кровавый кашель и потеря сознания: 73-летний Ричард Гир экстренно госпитализирован</h4>
+								<p class="new-section__text-anons">Ричард Гир находится под пристальным вниманием врачей</p>
+							</div>
+						</div>
+					
+						
+					</div>
+				</a>
+				
+				
+			
+			
+		</div>
+		<div style="clear:both;"></div>
+		
+		<div class="block_bloggers block__section_bloggers" data-vr-zone="Bloggers">
+			<div class="new-section__title"><a href="/bloggers"><span><nobr>БЛОГИ</nobr></span></a></div>
+			
+				
+				<div class="block__blogger" data-vr-contentbox="Position 1" data-vr-contentbox-url="https://dni.ru/society/2023/2/19/517035.html">
+					<a href="/society/2023/2/19/517035.html"><img src="https://img.dni.ru/binaries/blogger/blogger301.jpg" alt="Татьяна Короткова"  title="Татьяна Короткова"/></a>
+					<div class="blogger__annotation">
+						<h2><a href="/society/2023/2/19/517035.html">Татьяна Короткова</a></h2>
+						Психолог, сексолог, женский коуч
+						<a href="/society/2023/2/19/517035.html" class="blogger_article"><h3  data-vr-headline>Как добиться счастья без страданий? </h3></a>
+					</div>
+					<div style="clear: both"></div>
+				</div>
+				
+			
+				
+				<div class="block__blogger" data-vr-contentbox="Position 2" data-vr-contentbox-url="https://dni.ru/lifestyle/2023/2/19/517255.html">
+					<a href="/lifestyle/2023/2/19/517255.html"><img src="https://img.dni.ru/binaries/blogger/blogger263.jpg" alt="Юлия Никас"  title="Юлия Никас"/></a>
+					<div class="blogger__annotation">
+						<h2><a href="/lifestyle/2023/2/19/517255.html">Юлия Никас</a></h2>
+						Психолог, автор собственного метода по работе с сознанием и подсозн...
+						<a href="/lifestyle/2023/2/19/517255.html" class="blogger_article"><h3  data-vr-headline>Детские травмы и недостатки партнера: Главные причины развода и как избежать краха семьи</h3></a>
+					</div>
+					<div style="clear: both"></div>
+				</div>
+				
+			
+				
+				<div class="block__blogger" data-vr-contentbox="Position 3" data-vr-contentbox-url="https://dni.ru/lifestyle/2023/2/19/517036.html">
+					<a href="/lifestyle/2023/2/19/517036.html"><img src="https://img.dni.ru/binaries/blogger/blogger256.jpg" alt="Перукуа"  title="Перукуа"/></a>
+					<div class="blogger__annotation">
+						<h2><a href="/lifestyle/2023/2/19/517036.html">Перукуа</a></h2>
+						Топ-исполнительница в жанре World Music в Австралии, музыкант, авто...
+						<a href="/lifestyle/2023/2/19/517036.html" class="blogger_article"><h3  data-vr-headline>Как женская энергия влияет на мужской успех?</h3></a>
+					</div>
+					<div style="clear: both"></div>
+				</div>
+				
+								
+			<div style="clear: both"></div>
+		</div>
+		
+		<div style="clear:both;"></div>
+		
+		<div class="main_block-left" data-vr-zone="Central news">
+			
+				<div class="block03  block__section_showbiz">
+					
+						
+							<a href="/showbiz/2023/2/19/516576.html" class="new-section new-section_showbiz new-section_1" data-vr-contentbox="Block 3 Position 1"  data-vr-contentbox-url="https://dni.ru/showbiz/2023/2/19/516576.html">
+								<div class="parallax">
+									<div class="parallax_intro">
+										<div class="new-section_1-rubric" >
+											<div class="new-section__title"><span><nobr>Фоторепортажи</nobr></span></div>
+										</div>
+									</div>
+									<p class="parallax-img backfonLight" style="background: #aaa url('https://img.dni.ru/binaries/v4_center/516576.jpg') no-repeat center center; background-size: cover; " href=""></p>
+								</div>
+								<div class="new-section_1-text">
+									<div class="new-section__text">
+										<h4 class="new-section__text-title" data-vr-headline>Чем богаты: знаменитые мужчины с большими пенисами</h4>
+										<p class="new-section__text-anons">Подборка звезд с внушительными размерами</p>
+									</div>
+								</div>
+							</a>
+						
+					
+													
+							<a href="/showbiz/2023/2/20/516691.html" class="new-section new-section_2" data-vr-contentbox="Block 3 Position 2" data-vr-contentbox-url="https://dni.ru/showbiz/2023/2/20/516691.html">
+								<div class="new-section__effect-hover"></div>
+								<div class="parallax">
+									<div class="parallax_intro">
+										<div class="new-section__title"><span><nobr>Шоу-бизнес</nobr></span></div>
+										<div class="new-section__text">
+											<h4 class="new-section__text-title" data-vr-headline>Бабкина, Кадышева, Крыгина: Надежды российской эстрады</h4>
+											<p class="new-section__text-anons">Они давно в шоу-бизнесе </p>
+										</div>
+									</div>
+								
+									
+										<p class="parallax-img backfonLight" style="background: #aaa url('https://img.dni.ru/binaries/v3_main/516691.jpg') no-repeat center center; background-size: cover;"></p>
+									
+								</div>
+							</a>
+						
+					
+													
+							<a href="/society/2023/2/19/517093.html" class="new-section new-section_3" data-vr-contentbox="Block 3 Position 3" data-vr-contentbox-url="https://dni.ru/society/2023/2/19/517093.html">
+								<div class="new-section__effect-hover"></div>
+								<div class="parallax">
+									<div class="parallax_intro">
+										<div class="new-section__title"><span><nobr>Общество</nobr></span></div>
+										<div class="new-section__text">
+											<h4 class="new-section__text-title" data-vr-headline>Солнцеликая Масленица славян: торжество света над тьмой</h4>
+											<p class="new-section__text-anons">Масленица – праздник солнца в концепции мироздания.</p>
+										</div>
+									</div>
+								
+									
+								</div>
+							</a>
+						
+					
+				</div>
+			
+		
+			<div style="clear:both;"></div>
+			
+			<div class="section_leftblock">
+				<div class="block04 block__section_realty">
+					
+					
+						
+					
+						
+							<a href="/realty/2023/2/20/517368.html" class="new-section new-section_realty new-section_1" data-vr-contentbox="Block 4 Position 1" data-vr-contentbox-url="https://dni.ru/realty/2023/2/20/517368.html">
+								<div class="parallax">
+									<div class="parallax_intro">
+										<div class="new-section_1-rubric" >
+											<div class="new-section__title"><span><nobr>Светская хроника</nobr></span></div>
+										</div>
+									</div>
+									<p class="parallax-img backfonLight" style="background: #aaa url('https://img.dni.ru/binaries/v3_main/517368.jpg') no-repeat center center; background-size: cover; " href=""></p>
+								</div>
+								<div class="new-section_1-text">
+									<div class="new-section__text">
+										<h4 class="new-section__text-title" data-vr-headline>Обманула доверие: жена Дунаевского выставила звездного мужа из московской квартиры</h4>
+										<p class="new-section__text-anons">Отношения серьезно обострились</p>
+									</div>
+								</div>
+							</a>
+						
+					
+						
+						
+					
+					
+						
+					
+						
+							<a href="/showbiz/2023/2/19/517173.html" class="new-section new-section_2" data-vr-contentbox="Block 4 Position 2"  data-vr-contentbox-url="https://dni.ru/showbiz/2023/2/19/517173.html">
+								<div class="new-section__effect-hover"></div>
+								<div class="parallax">
+									<div class="parallax_intro">
+										<div class="new-section__title"><span><nobr>Шоу-бизнес</nobr></span></div>
+										<div class="new-section__text">
+											<h4 class="new-section__text-title" data-vr-headline>"Иммиграция, покупка недвижимости": Бородина заговорила о смене профессии и страны</h4>
+											<p class="new-section__text-anons">Скоро жизнь Ксении Бородиной изменится?</p>
+										</div>
+									</div>
+									
+								</div>
+							</a>
+						
+					
+						
+						
+					
+					
+						<div class="section_leftblock-margin"></div>
+					
+						
+							<a href="/showbiz/2023/2/19/516977.html" class="new-section new-section_3" data-vr-contentbox="Block 4 Position 3"  data-vr-contentbox-url="https://dni.ru/showbiz/2023/2/19/516977.html">
+								<div class="new-section__effect-hover"></div>
+								<div class="parallax">
+									<div class="parallax_intro">
+										<div class="new-section__title"><span><nobr>Шоу-бизнес</nobr></span></div>
+										<div class="new-section__text">
+											<h4 class="new-section__text-title" data-vr-headline>Пока смерть не разлучит нас: умершие после свадьбы знаменитости</h4>
+											<p class="new-section__text-anons">Список скончавшихся звезд шоу-бизнеса</p>
+										</div>
+									</div>
+									
+										<p class="parallax-img backfonDark" style="background: #474747 url('https://img.dni.ru/binaries/v3_main/516977.jpg') no-repeat center center; background-size: cover;"></p>
+									
+								</div>
+							</a>
+						
+					
+						<div class="section_leftblock-margin"></div>
+						
+					
+					
+						
+					
+						
+							<a href="/showbiz/2023/2/19/517260.html" class="new-section new-section_4" data-vr-contentbox="Block 4 Position 4"  data-vr-contentbox-url="https://dni.ru/showbiz/2023/2/19/517260.html">
+								<div class="new-section__effect-hover"></div>
+								<div class="parallax">
+									<div class="parallax_intro">
+										<div class="new-section__title"><span><nobr>Шоу-бизнес</nobr></span></div>
+										<div class="new-section__text">
+											<h4 class="new-section__text-title" data-vr-headline>Подходит под любую начинку: рецепт вкуснейшего йоркширского пуддинга от Марины Юдашкиной</h4>
+											<p class="new-section__text-anons">Жена модельера Валентина Юдашкина поделилась домашним рецептом йоркширского пуддинга</p>
+										</div>
+									</div>
+									
+								</div>
+							</a>
+						
+					
+						
+						
+					
+				</div>
+			</div>
+			
+			<div class="section_rightblock">
+				<div class="block05 block__section_realty">
+					
+						<a href="/realty/2023/2/16/517225.html" class="new-section new-section_realty new-section_1" data-vr-contentbox="Block 5 Position 1" data-vr-contentbox-url="https://dni.ru/realty/2023/2/16/517225.html">
+								<div class="new-section__effect-hover"></div>
+								<div class="parallax">
+									<div class="parallax_intro">
+										<div class="new-section__title"><span><nobr>Скандалы в королевской семье</nobr></span></div>
+										<div class="new-section__text">
+											<h4 class="new-section__text-title" data-vr-headline>Дворец с жабами: жадный король Карл III лишил принца Уильяма наследства</h4>
+											<p class="new-section__text-anons">Принцу Уильяму и Кейт Миддлтон пришлось смириться</p>
+										</div>
+									</div>
+									<p class="parallax-img backfonLight" style="background: #aaa url('https://img.dni.ru/binaries/v3_main/517225.jpg') no-repeat center center; background-size: cover;"></p>
+								</div>
+							</a>
+					
+				</div>
+
+				<div class="block09 block__section_showbiz">
+						
+						
+							<a href="/showbiz/2023/2/19/517125.html" class="new-section new-section_showbiz new-section_1" data-vr-contentbox="Block 9 Position 1"  data-vr-contentbox-url="https://dni.ru/showbiz/2023/2/19/517125.html">
+								<div class="parallax">
+									<div class="parallax_intro">
+										<div class="new-section_1-rubric" >
+											<div class="new-section__title"><span><nobr>Новости звезд Голливуда</nobr></span></div>
+										</div>
+									</div>
+									<p class="parallax-img backfonLight" style="background: #aaa url('https://img.dni.ru/binaries/v3_main/517125.jpg') no-repeat center center; background-size: cover; " href="/showbiz/2023/2/19/517125.html"></p>
+								</div>
+								<div class="new-section_1-text">
+									<div class="new-section__text">
+										<h4 class="new-section__text-title" data-vr-headline>Маркл, Орейро, Найтли: шесть голливудских красоток с неидеальными лицами</h4>
+										<p class="new-section__text-anons">Недостатки, ставшие достоинствами</p>
+									</div>
+								</div>
+							</a>
+						
+						
+						
+							<a href="/showbiz/2023/2/18/517127.html" class="new-section new-section_2" data-vr-contentbox="Block 9 Position 2"  data-vr-contentbox-url="https://dni.ru/showbiz/2023/2/18/517127.html" 
+							
+							>
+								<div class="new-section__effect-hover"></div>
+								<div class="new-section__title"><span><nobr>Новости звезд Голливуда</nobr></span></div>
+								<div class="new-section__text">
+									<h4 class="new-section__text-title" data-vr-headline>Не только Болдуин: кто из звезд убил человека</h4>
+									<p class="new-section__text-anons">Лишь некоторые звезды шоу-бизнеса понесли наказание </p>
+								</div>
+							</a>
+						
+					
+				</div>
+			</div>
+			
+			<div class="news__popular">
+			</div>
+		
+			<div class="section_leftblock">
+				<div class="block11 block__section_video">
+					
+						<a href="/video/2023/2/19/517039.html" class="new-section new-section_video new-section_1">
+								<div class="new-section__effect-hover"></div>
+								<div class="parallax">
+									<div class="parallax_intro">
+										<div class="new-section__title"><span><nobr>Видео</nobr></span></div>
+										<div class="new-section__text">
+											<h4 class="new-section__text-title" data-vr-headline>Самое милое на сегодня: в Хабаровском крае мужчина завел дружбу с диким соболем – видео</h4>
+											<p class="new-section__text-anons">Смотрим трогательные кадры с соболем </p>
+										</div>
+									</div>
+									<p class="parallax-img backfonLight" style="background: #aaa url('https://img.dni.ru/binaries/v3_main/517039.jpg') no-repeat center center; background-size: cover;"></p>
+								</div>
+							</a>
+					
+				</div>
+				
+				<div class="block13 block__section_book">
+								
+						
+							<a href="/book/2023/2/20/516694.html" class="new-section new-section_book new-section_1" >
+								<div class="parallax">
+									<div class="parallax_intro">
+										<div class="new-section_1-rubric" >
+											<div class="new-section__title"><span><nobr>В мире</nobr></span></div>
+										</div>
+									</div>
+									<p class="parallax-img backfonLight" style="background: #aaa url('https://img.dni.ru/binaries/v3_main/516694.jpg') no-repeat center center; background-size: cover; " href=""></p>
+								</div>
+								<div class="new-section_1-text">
+									<div class="new-section__text">
+										<h4 class="new-section__text-title" data-vr-headline>Марионетки на войне: Пушкин, Достоевский и Есенин стали жертвами злобного диктатора</h4>
+										<p class="new-section__text-anons">Этих российских писателей использовали фашисты </p>
+									</div>
+								</div>
+							</a>
+						
+								
+						
+							<a href="/society/2023/2/18/517123.html" class="new-section new-section_2" 
+							
+							>
+								<div class="new-section__effect-hover"></div>
+								<div class="new-section__title"><span><nobr>Общество</nobr></span></div>
+								<div class="new-section__text">
+									<h4 class="new-section__text-title" data-vr-headline>Покойный муж моей тетки явился забрать должок: помог обряд на могиле</h4>
+									<p class="new-section__text-anons">Все неверующие перекрестились</p>
+								</div>
+							</a>
+						
+					
+				</div>
+			</div>
+			
+			<div class="section_rightblock">
+				<div class="block12 block__section_series">
+					
+						
+					
+						
+							<a href="/series/2023/2/16/517195.html" class="new-section new-section_series new-section_1" >
+								<div class="parallax">
+									<div class="parallax_intro">
+										<div class="new-section_1-rubric" >
+											<div class="new-section__title"><span><nobr>Сериалы</nobr></span></div>
+										</div>
+									</div>
+									<p class="parallax-img backfonLight" style="background: #aaa url('https://img.dni.ru/binaries/v3_main/517195.jpg') no-repeat center center; background-size: cover; " href=""></p>
+								</div>
+								<div class="new-section_1-text">
+									<div class="new-section__text">
+										<h4 class="new-section__text-title" data-vr-headline>Работа в США, связь с миллиардером, отсутствие семьи: как живет звезда "Содержанок" Ахмедова</h4>
+										<p class="new-section__text-anons">Актриса часто появляется на экранах, но почти не рассказывает о личном</p>
+									</div>
+								</div>
+							</a>
+						
+					
+						
+						
+					
+						
+					
+						
+							<a href="/series/2023/2/12/516508.html" class="new-section new-section_2">
+								<div class="new-section__effect-hover"></div>
+								<div class="parallax">
+									<div class="parallax_intro">
+										<div class="new-section__title"><span><nobr>Сериалы</nobr></span></div>
+										<div class="new-section__text">
+											<h4 class="new-section__text-title" data-vr-headline>Советы от Бабы Нины: пророчества, которые сбываются</h4>
+											<p class="new-section__text-anons">Советы бабушки Нины из сериала "Слепая" актуальны во все времена</p>
+										</div>
+									</div>
+									
+								</div>
+							</a>
+						
+					
+						
+						
+					
+						<div class="section_leftblock-margin"></div>
+					
+						
+							<a href="/series/2023/2/14/517169.html" class="new-section new-section_3">
+								<div class="new-section__effect-hover"></div>
+								<div class="parallax">
+									<div class="parallax_intro">
+										<div class="new-section__title"><span><nobr>Сериалы</nobr></span></div>
+										<div class="new-section__text">
+											<h4 class="new-section__text-title" data-vr-headline>Пуговка из "Папиных дочек" наотрез отказалась от съемок: Не хочу</h4>
+											<p class="new-section__text-anons">Скоро выйдет новый сезон "Папиных дочек"</p>
+										</div>
+									</div>
+									
+										<p class="parallax-img backfonDark" style="background: #474747 url('https://img.dni.ru/binaries/v3_main/517169.jpg') no-repeat center center; background-size: cover;"></p>
+									
+								</div>
+							</a>
+						
+					
+						<div class="section_leftblock-margin"></div>
+						
+					
+						
+					
+						
+							<a href="/series/2023/2/10/516996.html" class="new-section new-section_4">
+								<div class="new-section__effect-hover"></div>
+								<div class="parallax">
+									<div class="parallax_intro">
+										<div class="new-section__title"><span><nobr>Сериалы</nobr></span></div>
+										<div class="new-section__text">
+											<h4 class="new-section__text-title" data-vr-headline>Муж-пьяница, потеря малыша, тайный любовник: что случилось со звездой "Сватов" Артемьевой</h4>
+											<p class="new-section__text-anons">Актриса не раз сталкивалась с испытаниями в личной жизни</p>
+										</div>
+									</div>
+									
+								</div>
+							</a>
+						
+					
+						
+						
+					
+				</div>
+			</div>
+			<div style="clear:both;"></div>
+
+			<div class="block15 block__section_health">
+				
+					
+						<a href="/health/2023/2/12/516917.html" class="new-section new-section_health new-section_1" >
+								<div class="parallax">
+									<div class="parallax_intro">
+										<div class="new-section_1-rubric" >
+											<div class="new-section__effect-hover"></div>
+											
+												<div class="new-section__title"><span><nobr>Коронавирус: последние новости</nobr></span></div>
+											
+										</div>
+									</div>
+									<p class="parallax-img backfonLight" style="background: #aaa url('https://img.dni.ru/binaries/v4_center/516917.jpg') no-repeat center center; background-size: cover;" href=""></p>
+								</div>
+								<div class="new-section_1-text">
+									<div class="new-section__text">
+										<h4 class="new-section__text-title" data-vr-headline>Страшнее коронавируса: найдена стремительно распространяющаяся смертельная болезнь</h4>
+										<p class="new-section__text-anons">Против этого вируса нет таблеток</p>
+									</div>
+								</div>
+							</a>
+					
+					
+			
+					
+						<a href="/society/2023/1/14/515688.html" class="new-section new-section_2">
+								<div class="new-section__effect-hover"></div>
+								<div class="parallax">
+									<div class="parallax_intro">
+										<div class="new-section__title"><span><nobr>Общество</nobr></span></div>
+										<div class="new-section__text">
+											<h4 class="new-section__text-title" data-vr-headline>Восстановление памяти после коронавируса: 5 простых упражнений </h4>
+											<p class="new-section__text-anons">Все возможно</p>
+										</div>
+									</div>
+								
+									
+										<p class="parallax-img backfonLight" style="background: #aaa url('https://img.dni.ru/binaries/v3_main/515688.jpg') no-repeat center center; background-size: cover;"></p>
+									
+								</div>
+							</a>
+					
+					
+			
+					
+						<a href="/horoscope/2022/12/13/514404.html" class="new-section new-section_3">
+								<div class="new-section__effect-hover"></div>
+								<div class="parallax">
+									<div class="parallax_intro">
+										<div class="new-section__title"><span><nobr>Гороскоп</nobr></span></div>
+										<div class="new-section__text">
+											<h4 class="new-section__text-title" data-vr-headline>Страшная эпидемия потрясет человечество: прогноз астролога до 2025 года</h4>
+											<p class="new-section__text-anons">Худшее впереди?</p>
+										</div>
+									</div>
+								
+									
+								</div>
+							</a>
+					
+					
+			
+					
+						<a href="/health/2022/11/2/512671.html" class="new-section new-section_health new-section_4" >
+								<div class="parallax">
+									<div class="parallax_intro">
+										<div class="new-section_1-rubric" >
+											<div class="new-section__effect-hover"></div>
+											
+										</div>
+									</div>
+									<p class="parallax-img backfonLight" style="background: #aaa url('https://img.dni.ru/binaries/v4_center/512671.jpg') no-repeat center center; background-size: cover;" href=""></p>
+								</div>
+								<div class="new-section_1-text">
+									<div class="new-section__text">
+										<h4 class="new-section__text-title" data-vr-headline>Панические атаки, приступы агрессии и другое: как коронавирус рушит психику человека</h4>
+										<p class="new-section__text-anons">COVID-19 не проходит бесследно</p>
+									</div>
+								</div>
+							</a>
+					
+					
+			
+			</div>
+			
+			<div style="clear:both;"></div>
+			
+		</div>
+
+		<div class="main_block-right">
+			
+			<div class="banner banner__main_3">
+				<!--AdFox START-->
+<!--dni.ru14-->
+<!--Площадка: Дни.Ру new / * / *-->
+<!--Тип баннера: 300*250 new1-->
+<!--Расположение: <верх страницы>-->
+<div id="adfox_1489062943209719"></div>
+<script>
+window.yaContextCb.push(()=>{      
+	Ya.adfoxCode.create({
+        ownerId: 230323,
+        containerId: 'adfox_1489062943209719',
+        params: {
+            pp: 'g',
+            ps: 'cepr',
+            p2: 'fhed',
+            'partner-stat-id': (document.cookie.indexOf("adblk=yes") >= 0) ? 2 : 1
+        }
+    });
+});
+</script>
+
+			</div>
+			<div style="clear:both;"></div>
+			
+			<div class="container__partners">
+				<div id="unit_83995"></div>
+<script type="text/javascript">
+(function(w, n) {
+    w[n] = w[n] || [];
+    w[n].push(function() {
+    var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+    sc.src = '//news.smi2.ru/data/js/83995.js'; sc.charset = 'utf-8';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+    });	
+	})(this, "dniruCallbacks");
+</script>
+			</div>
+			<div class="block06 block__section_showbiz">
+							
+					<a href="/showbiz/2023/2/17/517290.html" class="new-section new-section_showbiz new-section_1" >
+						<div class="new-section__effect-hover"></div>
+						<div class="new-section__title"><span><nobr>Интересное</nobr></span></div>
+						<div class="new-section__text">
+							<h4 class="new-section__text-title" data-vr-headline>Страдающая в израильской халупе Пугачева доживает последние дни: Прискорбно наблюдать</h4>
+							<p class="new-section__text-anons">Народ волнуется за детей Пугачевой</p>
+						</div>
+					</a>
+							
+					<a href="/horoscope/2023/2/17/517322.html" class="new-section new-section_horoscope new-section_2" >
+						<div class="new-section__effect-hover"></div>
+						<div class="new-section__title"><span><nobr>Интересное</nobr></span></div>
+						<div class="new-section__text">
+							<h4 class="new-section__text-title" data-vr-headline>Гороскоп на неделю с 20 по 26 февраля 2023 года</h4>
+							<p class="new-section__text-anons">Астролог Лилия Любимова представила гороскоп на неделю</p>
+						</div>
+					</a>
+				
+			</div>
+			<div class="block07">
+				
+			</div>
+			
+			
+			<div class="block10 block__section_incidents">
+				
+					
+					
+					
+						<a href="/incidents/2023/2/20/516692.html" class="new-section new-section_incidents new-section_1" >
+							<div class="parallax">
+								<div class="parallax_intro">
+									<div class="new-section_1-rubric" >
+										<div class="new-section__title"><span><nobr>Новости России</nobr></span></div>
+									</div>
+								</div>
+								<p class="parallax-img backfonLight" style="background: #aaa url('https://img.dni.ru/binaries/v3_main/516692.jpg') no-repeat center center; background-size: cover; " href=""></p>
+							</div>
+							<div class="new-section_1-text">
+								<div class="new-section__text">
+									<h4 class="new-section__text-title" data-vr-headline>Умертвила четверых мужиков и требовала золота: страшная история ведьмы из Казани</h4>
+									<p class="new-section__text-anons">Настоящие ведьмы всегда возьмут свое</p>
+								</div>
+							</div>
+						</a>
+					
+				
+					
+					
+				
+					
+					
+					
+						<a href="/society/2023/2/20/517267.html" class="new-section new-section_2">
+								<div class="new-section__effect-hover"></div>
+								<div class="parallax">
+									<div class="parallax_intro">
+										<div class="new-section__title"><span><nobr>Общество</nobr></span></div>
+										<div class="new-section__text">
+											<h4 class="new-section__text-title" data-vr-headline>Опасный напиток на вашем столе: ученые назвали причину болезни Альцгеймера</h4>
+											<p class="new-section__text-anons">Ученые советуют ограничить потребление этого напитка</p>
+										</div>
+									</div>
+									
+								</div>
+							</a>
+					
+				
+					
+					
+				
+					<div class="section_leftblock-margin"></div>
+					
+					
+						<a href="/health/2023/2/20/517216.html" class="new-section new-section_3">
+								<div class="new-section__effect-hover"></div>
+								<div class="parallax">
+									<div class="parallax_intro">
+										<div class="new-section__title"><span><nobr>Здоровье</nobr></span></div>
+										<div class="new-section__text">
+											<h4 class="new-section__text-title" data-vr-headline>Следи за языком! Какие слова могут привести к смерти</h4>
+											<p class="new-section__text-anons">Некоторые фразы вызывают болезни</p>
+										</div>
+									</div>
+									
+										<p class="parallax-img backfonDark" style="background: #474747 url('https://img.dni.ru/binaries/v3_main/517216.jpg') no-repeat center center; background-size: cover;"></p>
+									
+								</div>
+							</a>
+					
+				
+					<div class="section_leftblock-margin"></div>
+					
+				
+					
+					
+					
+						<a href="/showbiz/2023/2/19/516633.html" class="new-section new-section_4">
+								<div class="new-section__effect-hover"></div>
+								<div class="parallax">
+									<div class="parallax_intro">
+										<div class="new-section__title"><span><nobr>Шоу-бизнес</nobr></span></div>
+										<div class="new-section__text">
+											<h4 class="new-section__text-title" data-vr-headline>Не только вкусно, но и полезно: суп-пюре с тыквой и сыром по рецепту Елизаветы Боярской </h4>
+											<p class="new-section__text-anons">Готовим одно из любимых блюд Елизаветы Боярской</p>
+										</div>
+									</div>
+									
+								</div>
+							</a>
+					
+				
+					
+					
+				
+			</div>
+			<div style="clear:both;margin-bottom:16px;"></div>	
+			<div class="container__partners">
+				<div id="unit_83996"></div>
+<script type="text/javascript">
+(function(w, n) {
+    w[n] = w[n] || [];
+    w[n].push(function() {
+    var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+    sc.src = '//news.smi2.ru/data/js/83996.js'; sc.charset = 'utf-8';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+    });	
+	})(this, "dniruCallbacks");
+</script>
+			</div>
+			
+			<div class="block14 block__section_society">
+				
+					
+					
+					
+						<a href="/society/2023/2/20/516693.html" class="new-section new-section_society new-section_1" >
+							<div class="parallax">
+								<div class="parallax_intro">
+									<div class="new-section_1-rubric" >
+										<div class="new-section__title"><span><nobr>Интересное</nobr></span></div>
+									</div>
+								</div>
+								<p class="parallax-img backfonLight" style="background: #aaa url('https://img.dni.ru/binaries/v3_main/516693.jpg') no-repeat center center; background-size: cover; " href=""></p>
+							</div>
+							<div class="new-section_1-text">
+								<div class="new-section__text">
+									<h4 class="new-section__text-title">Жизнь моего брата забрала поганая нечисть: изо рта шла пена</h4>
+									<p class="new-section__text-anons">Обманувший однажды смерть брат не смог скрыться от нее</p>
+								</div>
+							</div>
+						</a>
+					
+				
+					
+					
+				
+					
+					
+					
+						<a href="/moda/2023/2/20/516826.html" class="new-section new-section_2" 
+						
+						>
+							<div class="new-section__effect-hover"></div>
+							<div class="new-section__title"><span><nobr>Мода</nobr></span></div>
+							<div class="new-section__text">
+								<h4 class="new-section__text-title">Экзотика по-русски: мода Вячеслава Зайцева прижилась далеко за МКАД</h4>
+								<p class="new-section__text-anons">Модельер Вячеслав Зайцев вошел в историю города</p>
+							</div>
+						</a>
+					
+				
+					
+					
+				
+					<div class="section_leftblock-margin"></div>
+					
+					
+						<a href="/health/2023/2/20/517271.html" class="new-section new-section_3" 
+						
+							style="background: #999 url('https://img.dni.ru/binaries/v3_main/517271.jpg') no-repeat center center; background-size: cover;  background-blend-mode: screen;"
+						
+						>
+							<div class="new-section__effect-hover"></div>
+							<div class="new-section__title"><span><nobr>Здоровье</nobr></span></div>
+							<div class="new-section__text">
+								<h4 class="new-section__text-title">Вместо "Виагры": названо лучшее растение для эрекции</h4>
+								<p class="new-section__text-anons">Есть народное средство для потенции</p>
+							</div>
+						</a>
+					
+				
+					<div class="section_leftblock-margin"></div>
+					
+				
+					
+					
+					
+						<a href="/society/2023/2/20/517270.html" class="new-section new-section_4" 
+						
+						>
+							<div class="new-section__effect-hover"></div>
+							<div class="new-section__title"><span><nobr>Общество</nobr></span></div>
+							<div class="new-section__text">
+								<h4 class="new-section__text-title">Как добавить ярких моментов в постель: 3 совета сексолога</h4>
+								<p class="new-section__text-anons">Как разнообразить интимную жизнь?</p>
+							</div>
+						</a>
+					
+				
+					
+					
+				
+			</div>
+			
+		</div>
+	</div>
+</div>
+
+	<div style="clear:both;"></div>
+</div>
+
+
+<div style="clear:both;"></div>
+
+
+
+<div class="preFooterPage">
+<div class="footerPage">
+	<div class="blockImageDay">
+		
+			<a href="/showbiz/2022/1/10/496390.html" class="new-section new-section_5 footerPageHide">
+				<div class="new-section__effect-hover"></div>
+				<div class="parallax">
+					<div class="parallax_intro">
+						<div class="new-section__title"><span><nobr>Шоу-бизнес</nobr></span></div>
+						<div class="new-section__text">
+							<h4 class="new-section__text-title">Публика ахнула при виде младшего сына Шепелева: проделки Фриске</h4>
+							<p class="new-section__text-anons">Мальчик стоял у окна</p>
+						</div>
+					</div>
+				
+					
+						<p class="parallax-img backfonLight" style="background: #484848 url('https://img.dni.ru/binaries/v3_main/496390.jpg') no-repeat center center; background-size: cover; " href="/showbiz/2022/1/10/496390.html"></p>
+					
+				</div>
+			</a>
+		
+			<a href="/showbiz/2021/12/22/495452.html" class="new-section new-section_6">
+				<div class="new-section__effect-hover"></div>
+				<div class="parallax">
+					<div class="parallax_intro">
+						<div class="new-section__title"><span><nobr>Шоу-бизнес</nobr></span></div>
+						<div class="new-section__text">
+							<h4 class="new-section__text-title">"Какой стыд": 67-летнего Крутого заклеймили из-за забеременевшей юной красотки шоу "Голос"</h4>
+							<p class="new-section__text-anons">Композитора готовы распять</p>
+						</div>
+					</div>
+				
+					
+				</div>
+			</a>
+		
+			<a href="/showbiz/2021/12/14/494851.html" class="new-section new-section_7">
+				<div class="new-section__effect-hover"></div>
+				<div class="parallax">
+					<div class="parallax_intro">
+						<div class="new-section__title"><span><nobr>Шоу-бизнес</nobr></span></div>
+						<div class="new-section__text">
+							<h4 class="new-section__text-title">Господи, помилуй: изможденный вид 62-летней Кадышевой напугал народ</h4>
+							<p class="new-section__text-anons">Что случилось со звездой</p>
+						</div>
+					</div>
+				
+					
+				</div>
+			</a>
+		
+			<a href="/showbiz/2021/12/22/495437.html" class="new-section new-section_8">
+				<div class="new-section__effect-hover"></div>
+				<div class="parallax">
+					<div class="parallax_intro">
+						<div class="new-section__title"><span><nobr>Шоу-бизнес</nobr></span></div>
+						<div class="new-section__text">
+							<h4 class="new-section__text-title">Три бутылки водки за вечер, мысли о суициде и одинокая старость: как живет брошенная жена Лещенко</h4>
+							<p class="new-section__text-anons">Женщина любит певца до сих пор</p>
+						</div>
+					</div>
+				
+					
+				</div>
+			</a>
+		
+		<div style="clear: both"></div>
+	</div>
+
+	<div class="footerPageHideFirst">
+		<div class="block_article_footer">
+			
+			<div class="block_article_footer__item">
+				
+					<a href="/showbiz/2021/12/23/495572.html">Наркотическая зависимость, обнищавший театр и жизнь с 15 старыми кошками: что стало с Юрием Куклачевым</a>
+				
+			</div>						
+			<div class="line"></div>
+			
+			<div class="block_article_footer__item">
+				
+					<a href="/showbiz/2021/12/18/495223.html">Аж перья летят: Драка Кудрявцевой и Соседова попала на камеру</a>
+				
+			</div>						
+			<div class="line"></div>
+			
+			<div class="block_article_footer__item">
+				
+					<a href="/showbiz/2021/12/16/495043.html">"Муж любуется мною каждый день": изменившая до неузнаваемости Кадышева об уколах красоты</a>
+				
+			</div>						
+			<div class="line"></div>
+			
+			<div class="block_article_footer__item">
+				
+					<a href="/showbiz/2021/12/15/494947.html">Нарожала детей Максакову, оставила тяжелобольного отца: как живет дочь Валентина Юдашкина</a>
+				
+			</div>						
+			<div class="line"></div>
+			
+	</div>
+ 
+		<div class="block_article_footer">
+			
+			<div class="block_article_footer__item">
+				
+					<a href="/showbiz/2021/12/16/495047.html">Конфуз под окнами Путина: Вовк закатила скандал в Кремле </a>
+				
+			</div>						
+			<div class="line"></div>
+			
+			<div class="block_article_footer__item">
+				
+					<a href="/showbiz/2021/12/24/495633.html">Отрезала кожу, сделала 8 абортов и тащит на себе 32-летнего сына: как живет обнищавшая Алиса Мон</a>
+				
+			</div>						
+			<div class="line"></div>
+			
+			<div class="block_article_footer__item">
+				
+					<a href="/articles/koronavirus-statistika/">Коронавирус – статистика онлайн: сколько заболевших в Москве, России и мире</a>
+				
+			</div>						
+			<div class="line"></div>
+			
+			<div class="block_article_footer__item">
+				
+					<a href="/showbiz/2022/1/10/496430.html">Раздвинувшая ноги 60-летняя Андреева произвела фурор: Горячая тигрица</a>
+				
+			</div>						
+			<div class="line"></div>
+			
+	</div>
+ 
+		<div class="block_article_footer">
+			
+			<div class="block_article_footer__item">
+				
+					<a href="/showbiz/2022/1/4/496241.html">"Его карма": жена купившего любовнице квартиру Гальцева прокомментировала его измены</a>
+				
+			</div>						
+			<div class="line"></div>
+			
+			<div class="block_article_footer__item">
+				
+					<a href="/showbiz/2022/1/7/496328.html">Россияне пришли в восторг от красоты утопающей в снегу Цымбалюк-Романовской: Мечта поэта! </a>
+				
+			</div>						
+			<div class="line"></div>
+			
+			<div class="block_article_footer__item">
+				
+					<a href="/showbiz/2020/11/19/464715.html">Плюнувший на похороны Джигарханяна сын прилетел к мертвому отцу</a>
+				
+			</div>						
+			<div class="line"></div>
+			
+			<div class="block_article_footer__item">
+				
+					<a href="/showbiz/2020/11/24/465050.html">Лежала и пищала: обколотую Мороз засняли под кайфом</a>
+				
+			</div>						
+			<div class="line"></div>
+			
+	</div>
+ 
+		<div class="block_article_footer">
+			
+			<div class="block_article_footer__item">
+				
+					<a href="/articles/koronavirus-simptomy/">Симптомы коронавируса: как распознать первые признаки COVID-19</a>
+				
+			</div>						
+			<div class="line"></div>
+			
+			<div class="block_article_footer__item">
+				
+					<a href="/showbiz/2020/11/1/463154.html">Выступление Реввы вызвало у Долиной отвращение: Никто не имел такого права </a>
+				
+			</div>						
+			<div class="line"></div>
+			
+			<div class="block_article_footer__item">
+				
+					<a href="/showbiz/2020/11/25/465093.html">Друг зверски избитого Прилучного пролил свет на случившееся</a>
+				
+			</div>						
+			<div class="line"></div>
+			
+			<div class="block_article_footer__item">
+				
+					<a href="/articles/karta-koronavirusa/">Карта коронавируса</a>
+				
+			</div>						
+			<div class="line"></div>
+			
+	</div>
+
+		<div style="clear: both"></div>
+	</div>
+
+	<div class="footer__stars">
+			<div class="new-section footerPageHide">
+				<div class="stars__search_form new-section__text">
+						<h4 class="new-section__text-title">Энциклопедия персон</h4>
+						<div class="stars__alphabet">
+							<a  href="/persons/%D0%90">А</a>
+							<a  href="/persons/%D0%91">Б</a>
+							<a  href="/persons/%D0%92">В</a>
+							<a  href="/persons/%D0%93">Г</a>
+							<a  href="/persons/%D0%94">Д</a>
+							<a  href="/persons/%D0%95">Е</a>
+							<a  href="/persons/%D0%96">Ж</a>
+							<a  href="/persons/%D0%97">З</a>
+							<a  href="/persons/%D0%98">И</a>
+							<a  href="/persons/%D0%9A">К</a>
+							<a  href="/persons/%D0%9B">Л</a>
+							<a  href="/persons/%D0%9C">М</a>
+							<a  href="/persons/%D0%9D">Н</a>
+							<a  href="/persons/%D0%9E">О</a>
+							<a  href="/persons/%D0%9F">П</a>
+							<a  href="/persons/%D0%A0">Р</a>
+							<a  href="/persons/%D0%A1">С</a>
+							<a  href="/persons/%D0%A2">Т</a>
+							<a  href="/persons/%D0%A3">У</a>
+							<a  href="/persons/%D0%A4">Ф</a>
+							<a  href="/persons/%D0%A5">Х</a>
+							<a  href="/persons/%D0%A6">Ц</a>
+							<a  href="/persons/%D0%A7">Ч</a>
+							<a  href="/persons/%D0%A8">Ш</a>
+							<a  href="/persons/%D0%A9">Щ</a>
+							<a  href="/persons/%D0%AD">Э</a>
+							<a  href="/persons/%D0%AE">Ю</a>
+							<a  href="/persons/%D0%AF">Я</a>
+						</div>	
+					<div style="clear: both"></div>
+					<div class="stars__search"><input name="q" type="text" placeholder="Укажите Имя или Фамилию"/> <input type="button" value="Найти"/></div>			
+				</div>
+			</div>
+			<div class="block_article_footer">
+				<h4 class="new-section__text-title">Выбор читателей</h4>
+				
+					<a href="/person/Poroshina_Maria/">Мария Михайловна Порошина <span>актриса</span></a>
+										
+				
+					<a href="/person/DiKaprio/">Леонардо  Вильгельм  Ди Каприо <span>актер</span></a>
+										
+				
+					<a href="/person/stanislav_kudzh/">Станислав Алексеевич Кудж <span>Ректор РТУ МИРЭА</span></a>
+										
+				
+					<a href="/person/sobchak/">Ксения  Анатольевна Собчак  <span>теле- и радиоведущая, блогер, политик</span></a>
+					
+						</div><div class="block_article_footer">
+										
+				
+					<a href="/person/bogomolov/">Константин Юрьевич Богомолов <span>режиссер, актер, ведущий</span></a>
+										
+				
+					<a href="/person/olga_buzova/">Ольга Игоревна Бузова <span>певица, ведущая</span></a>
+										
+				
+					<a href="/person/alekseypanin/">Алексей  Вячеславович  Панин <span>актер</span></a>
+										
+				
+					<a href="/person/dakota/">Рита Дакота <span>певица, композитор</span></a>
+					
+						</div><div class="block_article_footer">
+										
+				
+					<a href="/person/valerileontyev/">Валерий  Яковлевич Леонтьев <span>певец</span></a>
+										
+				
+					<a href="/person/musaev/">Магомед Мусаев <span>Венчурный инвестор</span></a>
+										
+				
+					<a href="/person/foks/">Меган Фокс <span>актриса, модель</span></a>
+										
+				
+					<a href="/person/vorobev/">Олег Евгеньевич Воробьев <span>Бизнесмен</span></a>
+										
+				
+			</div>	
+	</div>
+	<div style="clear: both"></div>
+	<div class="footer__stars">
+			<div class="block_article_footer" style="margin: 10px 0px">
+				<h4 class="new-section__text-title">Популярные сериалы</h4>
+				
+					<a href="/series/zhenskie-sekrety--1-sezon/">Женские секреты -1 сезон <span>Украина (2020)</span></a>
+										
+				
+					<a href="/series/nevesta-komdiva/">Невеста комдива <span>Россия (2020)</span></a>
+										
+				
+					<a href="/series/nasledie-3-sezon/">Наследие – 3 сезон <span>США (2020)</span></a>
+										
+				
+					<a href="/series/metod-2-sezon/">Метод – 2 сезон <span>Россия (2020)</span></a>
+					
+						</div><div class="block_article_footer">
+										
+				
+					<a href="/series/velikolepnyy-vek---4-sezon/">Великолепный век – 4 сезон <span>Турция (2013)</span></a>
+										
+				
+					<a href="/series/paromshchica/">Паромщица <span>Россия (2020)</span></a>
+										
+				
+					<a href="/series/dnevniki-vampira-8-sezon/">Дневники вампира – 8 сезон <span>США (2016)</span></a>
+										
+				
+					<a href="/series/byvshie-2-sezon/">Бывшие – 2 сезон  <span>Россия (2019)</span></a>
+					
+						</div><div class="block_article_footer">
+										
+				
+					<a href="/series/osnovanie-osman-1-sezon/">Основание: Осман – 1 сезон <span>Турция (2019)</span></a>
+										
+				
+					<a href="/series/proekt-anna-nikolaevna-1-sezon/">Проект "Анна Николаевна" 1 сезон <span>Россия (2020)</span></a>
+										
+				
+					<a href="/series/alisa-1-sezon/">Алиса – 1 сезон <span>Россия (2020)</span></a>
+										
+				
+					<a href="/series/igrushka-1-sezon/">Игрушка <span>Россия (2020)</span></a>
+					
+						</div><div class="block_article_footer footerPageHide">
+										
+				
+					<a href="/series/shtorm/">Шторм <span>Россия (2019)</span></a>
+										
+				
+					<a href="/series/lyublyu-otca-i-syna/">Люблю отца и сына <span>Россия (2020)</span></a>
+										
+				
+					<a href="/series/igra-prestolov-8-sezon/">Игра престолов – 8 сезон  <span>США, Англия (2019)</span></a>
+										
+				
+					<a href="/series/poslednij-ministr-1-sezon/">Последний министр – 1 сезон <span>Россия (2020)</span></a>
+										
+				
+			</div>
+	</div>	
+	<div style="clear: both"></div>
+	<div class="footer__stars">
+			<div class="block_article_footer" style="margin: 10px 0px">
+				<h4 class="new-section__text-title">Популярные сюжеты</h4>
+				
+					<a href="/theme/oscar/">Битва за "Оскар" <span></span></a>
+										
+				
+					<a href="/theme/sudbacheloveka/">Шоу "Судьба человека" с Корчевниковым <span>Откровенный разговор со звездами</span></a>
+										
+				
+					<a href="/theme/pryamoiefir/">Шоу "Прямой эфир" с Андреем Малаховым <span>Россия в прямом эфире</span></a>
+										
+				
+					<a href="/theme/secretnamillion/">Шоу "Секрет на миллион" <span>Лера Кудрявцева раскрывает тайны звезд</span></a>
+					
+						</div><div class="block_article_footer">
+										
+				
+					<a href="/theme/novyj-god-2022/">Новый год 2022 <span>Необходимая и интересная информация о наступающем празднике</span></a>
+										
+				
+					<a href="/theme/novayavolna/">Конкурс "Новая волна" <span>Юрмала принимает молодых артистов</span></a>
+										
+				
+					<a href="/theme/konec-sveta/">Конец света <span>Конец света, судный день, апокалипсис, последние дни человечества – наша цивилизация ждет краха столько, сколько себя помнит</span></a>
+										
+				
+					<a href="/theme/BritishRoyalFamily/">Новости королевской семьи Британии <span>Как живут Елизавета II, Кейт Миддлтон, Меган Маркл и другие</span></a>
+					
+						</div><div class="block_article_footer">
+										
+				
+					<a href="/theme/pustgovoryat/">Ток-шоу "Пусть говорят" <span>Самые обсуждаемые истории на Первом</span></a>
+										
+				
+					<a href="/theme/dom2/">Новости "Дом-2" <span>Новости, эфиры и свежие серии телестройки</span></a>
+										
+				
+					<a href="/theme/davaipozhenimsya/">Давай поженимся <span>Захватившая умы россиянок передача об отношениях</span></a>
+										
+				
+					<a href="/theme/nasamomdele/">Шоу "На самом деле"  <span>Студия, где невозможно солгать</span></a>
+					
+						</div><div class="block_article_footer footerPageHide">
+										
+				
+					<a href="/theme/sluhi-i-spletni/">Слухи и сплетни <span>Новости о расставаниях, разводах и новых отношениях звезд</span></a>
+										
+				
+					<a href="/theme/rossijskaya-specoperaciya-na-ukraine/">Спецоперация России на Украине <span>Президент России Владимир Путин поручил обеспечить безопасность Донбаса</span></a>
+										
+				
+					<a href="/theme/novyj-god-2023/">Новый год 2023 <span>Новый год, праздники, долгие каникулы, подведение итогов ушедшего года и надежды на благосклонность будущего</span></a>
+										
+				
+					<a href="/theme/koronavirus-v-rossii/">Коронавирус в России <span>Новые случаи заражения фиксируются в нашей стране каждый день</span></a>
+										
+				
+			</div>
+	</div>	
+	<div style="clear: both"></div>
+
+	
+
+	
+
+	
+	
+	
+</div>
+
+
+
+			<div style="clear:both;"></div>
+			
+			<div class="up-page"></div>
+			
+		</div>
+	</div>
+	
+	<div class="footer">
+	<div class="foot">
+            <div class="foot_menus">
+                <ul class="foot_menu foot_menu-first">
+                    <li><a href="/polit/">Политика</a></li>
+                    <li><a href="/economy/">Экономика</a></li>
+                    <li><a href="/society/">Общество</a></li>
+                    <li><a href="/tech/">Hi-Tech</a></li>
+                    <li><a href="/incidents/">Происшествия</a></li>
+                    <li><a href="/realty/">Недвижимость</a></li>                    
+                </ul>
+                <ul class="foot_menu">
+                    <li><a href="/showbiz/">Шоу-Бизнес</a></li>
+                    <li><a href="/culture/">Lifestyle</a></li>
+                    <li><a href="/auto/">Авто</a></li>
+                    <li><a href="/sport/">Спорт</a></li>
+                    <li><a href="/regions/">Регионы</a></li>
+                    <li><a href="http://24dni.ru/" target="_blank">Знакомства</a></li>                    
+                </ul>
+                <ul class="foot_menu">
+                    <li><a href="/horoscope/">Гороскоп</a></li>
+                    <li><a href="/photo/">Фоторепортажи</a></li>
+                    <li><a href="/sonnic/">Сонник</a></li>
+                    <li><a href="/release/">Пресс-релизы</a></li>                
+                    <li><a href="/archive/2023/2/20/">Архив</a></li>                
+                </ul>
+                <div class="foot_menu-right">
+                    <ul class="foot_menu">
+                        <li><a href="/about.html">О проекте</a></li>
+                        <li><a href="/jobs.html">Вакансии</a></li>
+                        <li><a href="/reklama.html">Реклама</a></li>
+                        <li><a href="/contacts.html">Контакты</a></li>
+                        <li><a href="/legal.html">Правовая информация</a></li>
+                        <li><a href="/redpolitika.html">Редакционная политика</a></li>
+                        <li>&nbsp;</li>
+                        <li><a href="http://m.dni.ru" class="foot_mobile">Мобильная версия</a></li>                    
+                    </ul>
+                    <ul class="foot_menu foot_menu-social">
+	
+                        <li><a href="https://twitter.com/dniru" class="foot_tw" target="_blank">Twitter</a></li>
+ 	
+                        <li><a href="https://vk.com/dniru" class="foot_vk" target="_blank">ВКонтакте</a></li>
+                        <li><a href="https://ok.ru/wwwdniru" class="foot_ok" target="_blank">Одноклассники</a></li>
+                        <li><a href="https://zen.yandex.ru/dni" class="foot_zen" target="_blank">Дзен</a></li>
+                        <li><a href="https://dni.ru/rss.xml" class="foot_rss" target="_blank">RSS</a></li>                    
+                    </ul>
+                    <div class="foot_img">
+                        <!-- begin of Top100 code -->
+						
+                        <!-- end of Top100 code -->
+                    </div>
+                </div>
+            
+            </div>
+            <div class="foot_copy">
+                &copy; 2015-2023 ООО "Дни.ру". Все права защищены. <a href="mailto:info@dni.ru">info@dni.ru</a> <img width="64" height="39" alt="18+" src="/static/img/18.svg" onerror="this.onerror=null; this.src='/static/img/18.png'">
+            </div>
+	</div>
+</div>
+</div>
+
+
+
+<script src="/static/js/advert.js"></script>
+<script src="/static/js/jquery.min.js"></script>
+
+
+<script src="/static/js/owl.carousel.min.js"></script>
+<script src="/static/js/main.js?v33"></script>
+<script src="/static/js/push.js?v4"></script>
+<script src="/static/js/jquery-ui-1.9.2.custom.min.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+<script src=/static/lightbox2/src/js/lightbox.js></script>
+
+
+
+
+<div style="display:none;">
+<!--LiveInternet counter--><script type="text/javascript">
+document.write("<img src='//counter.yadro.ru/hit?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' width=1 height=1 alt=''>")//</script><!--/LiveInternet-->
+</div>
+
+
+
+
+
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,1329 @@
+<!DOCTYPE html>
+<html prefix="og:http://ogp.me/ns# article:http://ogp.me/ns/article#" lang="ru">
+<head>
+<meta charset="utf-8">
+<title>Репортёр</title>
+<meta name="description" content="О важном, легко и интересно">
+<meta name="keywords" content="новости, политика, экономика, России, Украины, мира">
+<meta name="generator" content="DataLife Engine (http://dle-news.ru)">
+<link rel="search" type="application/opensearchdescription+xml" href="https://topcor.ru/index.php?do=opensearch" title="Репортёр">
+<link rel="canonical" href="https://topcor.ru/">
+<link rel="alternate" type="application/rss+xml" title="Репортёр" href="https://topcor.ru/rss.xml">
+<meta name="HandheldFriendly" content="true">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="initial-scale=1.0, maximum-scale=5.0, width=device-width">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="mobile-web-app-capable" content="yes">
+<meta property="yandex_recommendations_kill" content="1" />
+<meta name="yandex-verification" content="333643b35f672ca0" />
+<link rel="preconnect" href="https://topcor.ru/" fetchpriority="high">
+<link rel="alternate" hreflang="x-default" href="https://topcor.ru/" />
+<link rel="alternate" hreflang="ru" href="https://topcor.ru/" />
+<link rel="alternate" hreflang="en" href="https://en.topcor.ru/" />
+<link rel="alternate" hreflang="de" href="https://de.topcor.ru/" />
+<link rel="alternate" hreflang="es" href="https://es.topcor.ru/" />
+<link rel="alternate" hreflang="fr" href="https://fr.topcor.ru/" />
+<link rel="alternate" hreflang="ja" href="https://ja.topcor.ru/" />
+<link rel="alternate" hreflang="pt" href="https://pt.topcor.ru/" />
+<link rel="alternate" hreflang="hi" href="https://hi.topcor.ru/" />
+<link rel="alternate" hreflang="tr" href="https://tr.topcor.ru/" />
+<link rel="alternate" hreflang="it" href="https://it.topcor.ru/" />
+<link rel="alternate" hreflang="ko" href="https://ko.topcor.ru/" />
+<link rel="alternate" hreflang="ar" href="https://ar.topcor.ru/" />
+<link rel="alternate" hreflang="bn" href="https://bn.topcor.ru/" />
+<link rel="alternate" hreflang="id" href="https://id.topcor.ru/" />
+<link rel="alternate" hreflang="jw" href="https://jw.topcor.ru/" />
+<link rel="alternate" hreflang="vi" href="https://vi.topcor.ru/" />
+<link rel="alternate" hreflang="pl" href="https://pl.topcor.ru/" />
+<link rel="alternate" hreflang="ro" href="https://ro.topcor.ru/" />
+<link rel="alternate" hreflang="nl" href="https://nl.topcor.ru/" />
+<link rel="alternate" hreflang="fa" href="https://fa.topcor.ru/" />
+<link rel="alternate" hreflang="iw" href="https://iw.topcor.ru/" />
+<link rel="alternate" hreflang="sv" href="https://sv.topcor.ru/" />
+<link rel="alternate" hreflang="cs" href="https://cs.topcor.ru/" />
+<link rel="alternate" hreflang="el" href="https://el.topcor.ru/" />
+<link rel="alternate" hreflang="fi" href="https://fi.topcor.ru/" />
+<link rel="alternate" hreflang="sr" href="https://sr.topcor.ru/" />
+<link rel="alternate" hreflang="hu" href="https://hu.topcor.ru/" />
+<link rel="alternate" hreflang="zh" href="https://zh-cn.topcor.ru/" />
+<link rel="dns-prefetch" href="https://yandex.ru">
+<link rel="dns-prefetch" href="https://mc.yandex.ru">
+<link rel="dns-prefetch" href="https://ads.betweendigital.com">
+<link rel="dns-prefetch" href="https://www.google-analytics.com">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#f7f7f7">
+<meta name="msapplication-TileImage" content="/templates/topcor/images/ms-icon-144x144.png">
+<meta name="theme-color" content="#f7f7f7">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="apple-touch-icon" sizes="57x57" href="/templates/topcor/images/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/templates/topcor/images/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/templates/topcor/images/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/templates/topcor/images/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/templates/topcor/images/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/templates/topcor/images/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/templates/topcor/images/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/templates/topcor/images/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/templates/topcor/images/apple-touch-icon-180x180.png">
+<link rel="apple-touch-icon" sizes="512x512" href="/templates/topcor/images/apple-touch-icon-512x512.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/templates/topcor/images/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="512x512" href="/templates/topcor/images/android-icon-512x512.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/templates/topcor/images/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/templates/topcor/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/templates/topcor/images/favicon-96x96.png">
+<link rel="preload" href="/templates/topcor/fonts/icon.woff2" as="font" type="font/woff2" crossorigin>
+<link type="text/css" rel="stylesheet" href="/templates/topcor/css/core.css?1676889087">
+<link type="text/css" rel="stylesheet" href="/templates/topcor/css/styles.css?1676889087">
+<link type="text/css" rel="stylesheet" href="/templates/topcor/css/short.css?1676889087">
+<script>window.yaContextCb=window.yaContextCb||[]</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+</head>
+<body>
+<div class="page wrp">
+<header id="header">
+<div class="bg-dark c-white d-flex">
+<a class="logotype" href="/" title="Репортёр">
+<span class="sr-only">Репортёр</span>
+<svg>
+<use xlink:href="/templates/topcor/images/logo.svg#logo">
+</svg>
+</a>
+<div class="hmenu font" id="main_menu">
+<nav>
+<a class="hm_item" href="/news/" title="Новости">Новости</a>
+<a class="hm_item" href="/politics/" title="Политика">Политика</a>
+<a class="hm_item" href="/economy/" title="Экономика">Экономика</a>
+<a class="hm_item" href="/technology/" title="Техно">Техно</a>
+<a class="hm_item" href="/society/" title="Общество">Общество</a>
+<a class="hm_item" href="/media/" title="Видео">Видео</a>
+</nav>
+</div>
+<div class="hmenu font" id="coms_menu"></div>
+<ul class="htools">
+<li class="htools-login font"><button data-toggle="modal" data-target="#login" class="loginbtn hm_item" aria-label="Войти">
+<span class="d-none d-lg-inline">Войти</span>
+<i class="i__login"></i>
+</button></li>
+<li class="mobilemenu-btn" style="display: none;"><button id="menu_call" class="hm_item" aria-label="Menu"><span class="butterbrod"><i></i><i></i><i></i></span></button></li>
+</ul>
+</div>
+</header>
+<div class="mobilemenu font" style="display: none;">
+<div class="flags">
+<div class="langs">
+<a href="#" onclick="doGTranslate('ru|ru');return false;" title="Русский" class="gflag nturl"><i style="background-position: 0 0;"></i></a>
+<a href="#" onclick="doGTranslate('ru|zh-CN');return false;" title="Китайский (упрощенный)" class="gflag nturl"><i style="background-position: -24px 0;"></i></a>
+<a href="#" onclick="doGTranslate('ru|en');return false;" title="Английский" class="gflag nturl"><i style="background-position: -48px 0;"></i></a>
+<a href="#" onclick="doGTranslate('ru|de');return false;" title="Немецкий" class="gflag nturl"><i style="background-position: -72px 0;"></i></a>
+<a href="#" onclick="doGTranslate('ru|fr');return false;" title="Французский" class="gflag nturl"><i style="background-position: -120px 0;"></i></a>
+<a href="#" onclick="doGTranslate('ru|es');return false;" title="Испанский" class="gflag nturl"><i style="background-position: -96px 0;"></i></a>
+<a href="#" onclick="doGTranslate('ru|it');return false;" title="Итальянский" class="gflag nturl"><i style="background-position: -144px 0;"></i></a>
+</div>
+</div>
+<button type="button" class="menu_close btn-reset close" aria-label="Close">
+<i class="i__close"></i>
+</button>
+<div class="mobilemenu_in">
+<nav class="mmenu_main">
+<a class="hm_item" href="/news/" title="Новости">Новости</a>
+<a class="hm_item" href="/politics/" title="Политика">Политика</a>
+<a class="hm_item" href="/economy/" title="Экономика">Экономика</a>
+<a class="hm_item" href="/technology/" title="Техно">Техно</a>
+<a class="hm_item" href="/society/" title="Общество">Общество</a>
+<a class="hm_item" href="/media/" title="Видео">Видео</a>
+</nav>
+<nav class="mmenu_sub">
+<a href="#">Реклама на сайте</a>
+<a href="/index.php?do=feedback">Контакты</a>
+<a href="/about.html">Об издании</a>
+<a href="/privacy.html">Политика конфиденциальности</a>
+<a href="/rss.xml">RSS</a>
+</nav>
+<div class="mmenu_social">
+<a class="google-play" href="https://play.google.com/store/apps/details?id=ru.topcor.app" rel="nofollow noreferrer">
+<img src="/templates/topcor/images/google-play-badge.png" width="auto" height="48" alt="Google Play" loading="lazy" decoding="async">
+</a>
+<div class="soc_links">
+<a href="https://zen.yandex.ru/topcor" target="_blank" rel="nofollow noreferrer" class="soc_gl" title="Мы в Яндекс.Дзен">
+<i class="i__dzen"></i>
+</a>
+<a href="https://vk.com/topcor" target="_blank" rel="nofollow noreferrer" class="soc_vk" title="Мы вКонтакте">
+<i class="i__vk"></i>
+</a>
+<a href="https://ok.ru/topcor" target="_blank" rel="nofollow noreferrer" class="soc_od" title="Мы в Одноклассниках">
+<i class="i__ok"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="content_block">
+<div class="postmod__bigscreens">
+<article class="post">
+<div class="post__img fit-cover">
+<img src="/uploads/posts/2023-02/1676802264_1635356380_1615790755_21458.jpg" alt="В Одессу доставили несколько бочек с радиоактивными веществами" width="100%" decoding="async">
+</div>
+<div class="post__info d-flex flex-column">
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/32292-v-odessu-dostavili-neskolko-bochek-s-radioaktivnymi-veschestvami.html"><span class="title-limit">В Одессу доставили несколько бочек с радиоактивными веществами</span></a>
+</h2>
+<div class="post__meta fw-b">
+<div class="meta__view"><i class="i__view"></i>5 118</div>
+<div class="meta__coms"><i class="i__com"></i>3</div>
+</div>
+</div>
+</article><article class="post">
+<div class="post__img fit-cover">
+<img src="/uploads/posts/2023-02/1676888798_1668493825_photo1667994200.jpeg" alt="Почему в России появилось столько желающих создать свою «частную армию»" width="100%" decoding="async">
+</div>
+<div class="post__info d-flex flex-column">
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/32309-pochemu-v-rossii-pojavilos-stolko-zhelajuschih-sozdat-svoju-chastnuju-armiju.html"><span class="title-limit">Почему в России появилось столько желающих создать свою «частную армию»</span></a>
+</h2>
+<div class="post__meta fw-b">
+<div class="meta__view"><i class="i__view"></i>1</div>
+<div class="meta__coms"><i class="i__com"></i>0</div>
+</div>
+</div>
+</article>
+</div>
+<div class="section">
+<div class="post__grid d-lg-flex">
+<div class="post__grid-item postmod__bigtitle no__date">
+<article class="post">
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/32257-podnjatie-stavok-v-ukrainskom-konflikte-chego-zhdat-ot-poslednej-nedeli-fevralja.html"><span class="title-limit">Поднятие ставок в украинском конфликте: что принесет нам последняя неделя февраля</span></a>
+</h2>
+<div class="post__description">Приближается годовщина известных событий. В преддверии ее все люди, даже не склонные к сакрализации круглых дат, с тревогой и надеждой ждут каких-то событий....</div>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-02-19T18:15">Вчера, 18:15</time>
+<div class="meta__view"><i class="i__view"></i>26 628</div>
+<div class="meta__coms"><i class="i__com"></i>17</div>
+</div>
+</article>
+</div>
+<div class="post__grid-list no__coms no__views">
+<article class="post">
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/32309-pochemu-v-rossii-pojavilos-stolko-zhelajuschih-sozdat-svoju-chastnuju-armiju.html"><span class="title-limit">Почему в России появилось столько желающих создать свою «частную армию»</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-02-20T13:25">Сегодня, 13:25</time>
+<div class="meta__view"><i class="i__view"></i>1</div>
+<div class="meta__coms"><i class="i__com"></i>0</div>
+</div>
+</article><article class="post">
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/32320-rossijskie-sily-shturmujut-novodanilovku-v-zaporozhskoj-oblasti.html"><span class="title-limit">Российские силы штурмуют Новоданиловку в Запорожской области</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-02-20T13:13">Сегодня, 13:13</time>
+<div class="meta__view"><i class="i__view"></i>0</div>
+<div class="meta__coms"><i class="i__com"></i>0</div>
+</div>
+</article><article class="post">
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/32321-bajden-neozhidanno-priehal-v-kiev.html"><span class="title-limit">Байден неожиданно приехал в Киев: первые кадры</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-02-20T12:51">Сегодня, 12:51</time>
+<div class="meta__view"><i class="i__view"></i>0</div>
+<div class="meta__coms"><i class="i__com"></i>2</div>
+</div>
+</article><article class="post">
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/32318-v-germanii-zajavili-o-reshajuschih-dlja-ukrainy-nedeljah.html"><span class="title-limit">В Германии заявили о решающих для Украины неделях</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-02-20T12:40">Сегодня, 12:40</time>
+<div class="meta__view"><i class="i__view"></i>0</div>
+<div class="meta__coms"><i class="i__com"></i>2</div>
+</div>
+</article>
+</div>
+</div>
+</div>
+<article class="c-white postmod__line">
+<div class="post__img fit-cover">
+<img src="/uploads/posts/2023-02/1676828843_487807dfb8d8fa8043e51c25fb9f1e0e.jpg" alt="Киев всерьез нацелился на Крым" width="100%" loading="lazy" decoding="async">
+</div>
+<div class="post__info">
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/32255-kiev-vserez-nacelilsja-na-krym-s-podachi-vashingtona.html"><span class="title-limit">Киев всерьез нацелился на Крым</span></a>
+</h2>
+<div class="post__description">Последние провокационные заявления заместительницы главы Госдепа США Виктории Нуланд относительно полной поддержки Вашингтоном «любых украинских ударов по Крыму» и готовности способствовать...</div>
+</div>
+</article>
+<div class="section-not_bottom ">
+
+<div id="id-C-A-263322-14"></div>
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.renderWidget({
+    renderTo: 'id-C-A-263322-14',
+    blockId: 'C-A-263322-14',
+	nativeAdditionalClasses: typeof night_mode !== 'undefined' ? ['night']: []
+  })        
+})</script>
+</div>
+<div class="section light_gray_bg">
+<div class="post__listing post__c4 no__date">
+<article class="post">
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/32288-nakonechnik-kopja-pochemu-minoborony-rf-delaet-stavku-na-vdv-i-morskuju-pehotu.html"><span class="title-limit">«Наконечник копья»: почему Минобороны РФ делает ставку на ВДВ и морскую пехоту</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-02-19T12:45">Вчера, 12:45</time>
+<div class="meta__view"><i class="i__view"></i>153 671</div>
+<div class="meta__coms"><i class="i__com"></i>37</div>
+</div>
+</article><article class="post">
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/32279-viktor-orban-ukrainskaja-vojna-pokazala-chto-u-rossii-net-shansov-protiv-nato.html"><span class="title-limit">Виктор Орбан: украинская война показала, что у России нет шансов против НАТО</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-02-19T09:18">Вчера, 09:18</time>
+<div class="meta__view"><i class="i__view"></i>48 005</div>
+<div class="meta__coms"><i class="i__com"></i>30</div>
+</div>
+</article><article class="post">
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/32272-ukrainskie-voennye-v-bahmute-zapodozrili-chvk-vagner-v-soznatelnom-otkaze-ot-kontrolja-nad-odnoj-iz-dorog-v-gorod.html"><span class="title-limit">Украинские военные в Бахмуте заподозрили ЧВК «Вагнер» в сознательном отказе от контроля над одной из дорог в город</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-02-18T19:35">18 февраля 2023</time>
+<div class="meta__view"><i class="i__view"></i>77 671</div>
+<div class="meta__coms"><i class="i__com"></i>8</div>
+</div>
+</article><article class="post">
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/32278-jenergeticheskij-krizis-v-es-otstupil-no-nastupili-ego-posledstvija.html"><span class="title-limit">Энергетический кризис в ЕС отступил, но наступили его последствия</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-02-19T09:35">Вчера, 09:35</time>
+<div class="meta__view"><i class="i__view"></i>92 546</div>
+<div class="meta__coms"><i class="i__com"></i>5</div>
+</div>
+</article><article class="post">
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/32269-amerikanskij-institut-izuchenija-vojny-naznachenie-generala-mordvicheva-komandujuschim-cvo-mozhet-govorit-o-podgotovke-rossii-k-nastupleniju.html"><span class="title-limit">Американский институт изучения войны: Назначение генерала Мордвичева командующим ЦВО может говорить о подготовке России к наступлению</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-02-18T16:08">18 февраля 2023</time>
+<div class="meta__view"><i class="i__view"></i>56 041</div>
+<div class="meta__coms"><i class="i__com"></i>10</div>
+</div>
+</article><article class="post">
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/32276-bloomberg-sudovladelcy-vsego-mira-hotjat-pouchastvovat-v-sozdanii-tenevogo-flota-rf.html"><span class="title-limit">Судовладельцы всего мира хотят поучаствовать в создании теневого флота РФ</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-02-19T08:38">Вчера, 08:38</time>
+<div class="meta__view"><i class="i__view"></i>54 956</div>
+<div class="meta__coms"><i class="i__com"></i>3</div>
+</div>
+</article><article class="post">
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/32257-podnjatie-stavok-v-ukrainskom-konflikte-chego-zhdat-ot-poslednej-nedeli-fevralja.html"><span class="title-limit">Поднятие ставок в украинском конфликте: что принесет нам последняя неделя февраля</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-02-19T18:15">Вчера, 18:15</time>
+<div class="meta__view"><i class="i__view"></i>26 628</div>
+<div class="meta__coms"><i class="i__com"></i>17</div>
+</div>
+</article><article class="post">
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/32270-chego-nam-zhdat-ot-vtorogo-goda-svo.html"><span class="title-limit">Чего нам ждать от второго года СВО</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-02-19T09:03">Вчера, 09:03</time>
+<div class="meta__view"><i class="i__view"></i>15 800</div>
+<div class="meta__coms"><i class="i__com"></i>16</div>
+</div>
+</article>
+</div>
+</div>
+<div class="section">
+<div class="post__listing post__c3 no__date">
+<article class="post">
+<div class="post__img fit-cover">
+<img src="/uploads/posts/2023-02/1676462861_1642233833_5.jpg" alt="Мог ли Порошенко предлагать Путину забрать Донбасс" width="100%" loading="lazy" decoding="async">
+</div>
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/32170-mog-li-poroshenko-predlagat-putinu-zabrat-donbass.html"><span class="title-limit">Мог ли Порошенко предлагать Путину забрать Донбасс</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-02-15T19:00">15 февраля 2023</time>
+<div class="meta__view"><i class="i__view"></i>15 040</div>
+<div class="meta__coms"><i class="i__com"></i>11</div>
+</div>
+</article><article class="post">
+<div class="post__img fit-cover">
+<img src="/uploads/posts/2023-02/1676043306_savx2029.jpg" alt="72 часа до применения ТЯО: что делать России после раскрытия следа США в подрыве «Северных потоков»" width="100%" loading="lazy" decoding="async">
+</div>
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/31971-72-chasa-do-primenenija-tjao-chto-delat-rossii-posle-raskrytija-sleda-ssha-v-podryve-severnyh-potokov.html"><span class="title-limit">72 часа до применения ТЯО: что делать России после раскрытия следа США в подрыве «Северных потоков»</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-02-10T18:34">10 февраля 2023</time>
+<div class="meta__view"><i class="i__view"></i>104 995</div>
+<div class="meta__coms"><i class="i__com"></i>47</div>
+</div>
+</article><article class="post">
+<div class="post__img fit-cover">
+<img src="/uploads/posts/2023-02/1676098726_000.jpg" alt="«Центр цивилизации» Моравецкого: сможет ли польская верхушка реализовать свои имперские амбиции" width="100%" loading="lazy" decoding="async">
+</div>
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/32017-centr-civilizacii-moraveckogo-smozhet-li-polskaja-verhushka-realizovat-svoi-imperskie-ambicii.html"><span class="title-limit">«Центр цивилизации» Моравецкого: сможет ли польская верхушка реализовать свои имперские амбиции</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-02-11T09:57">11 февраля 2023</time>
+<div class="meta__view"><i class="i__view"></i>26 619</div>
+<div class="meta__coms"><i class="i__com"></i>5</div>
+</div>
+</article>
+</div>
+<div class="scrolling_posts">
+<div class="post__listing post__c4 no__views">
+<article class="post">
+<div class="post__img fit-cover">
+<img src="/uploads/posts/2023-02/1676888798_1668493825_photo1667994200.jpeg" alt="Почему в России появилось столько желающих создать свою «частную армию»" width="100%" loading="lazy" decoding="async">
+</div>
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/32309-pochemu-v-rossii-pojavilos-stolko-zhelajuschih-sozdat-svoju-chastnuju-armiju.html"><span class="title-limit">Почему в России появилось столько желающих создать свою «частную армию»</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-02-20T13:25">Сегодня, 13:25</time>
+<div class="meta__view"><i class="i__view"></i>1</div>
+<div class="meta__coms"><i class="i__com"></i>0</div>
+</div>
+</article><article class="post">
+<div class="post__img fit-cover">
+<img src="/uploads/posts/2023-02/1676828843_487807dfb8d8fa8043e51c25fb9f1e0e.jpg" alt="Киев всерьез нацелился на Крым" width="100%" loading="lazy" decoding="async">
+</div>
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/32255-kiev-vserez-nacelilsja-na-krym-s-podachi-vashingtona.html"><span class="title-limit">Киев всерьез нацелился на Крым</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-02-20T10:12">Сегодня, 10:12</time>
+<div class="meta__view"><i class="i__view"></i>902</div>
+<div class="meta__coms"><i class="i__com"></i>7</div>
+</div>
+</article><article class="post">
+<div class="post__img fit-cover">
+<img src="/uploads/posts/2023-02/1676828377_521858458.jpg" alt="Какое химическое оружие используют ВСУ и в каком масштабе" width="100%" loading="lazy" decoding="async">
+</div>
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/32294-kakoe-imenno-himicheskoe-oruzhie-ispolzujut-vsu-i-v-kakom-masshtabe.html"><span class="title-limit">Какое химическое оружие используют ВСУ и в каком масштабе</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-02-20T08:01">Сегодня, 08:01</time>
+<div class="meta__view"><i class="i__view"></i>660</div>
+<div class="meta__coms"><i class="i__com"></i>1</div>
+</div>
+</article><article class="post">
+<div class="post__img fit-cover">
+<img src="/uploads/posts/2023-02/1676803113_21466.jpg" alt="Поднятие ставок в украинском конфликте: что принесет нам последняя неделя февраля" width="100%" loading="lazy" decoding="async">
+</div>
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/32257-podnjatie-stavok-v-ukrainskom-konflikte-chego-zhdat-ot-poslednej-nedeli-fevralja.html"><span class="title-limit">Поднятие ставок в украинском конфликте: что принесет нам последняя неделя февраля</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-02-19T18:15">Вчера, 18:15</time>
+<div class="meta__view"><i class="i__view"></i>26 628</div>
+<div class="meta__coms"><i class="i__com"></i>17</div>
+</div>
+</article>
+</div>
+</div>
+</div>
+<div class="section light_gray_bg">
+<div class="post__listing post__c4 no__date">
+<article class="post">
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/32135-pochemu-zapad-ignoriruet-vse-krasnye-linii-kremlja.html"><span class="title-limit">Почему Запад игнорирует все «красные линии» Кремля</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-02-15T18:12">15 февраля 2023</time>
+<div class="meta__view"><i class="i__view"></i>78 778</div>
+<div class="meta__coms"><i class="i__com"></i>88</div>
+</div>
+</article><article class="post">
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/32136-pochemu-vsu-ne-sdajutsja-i-pochemu-nam-ne-strashen-zrk-pjetriot.html"><span class="title-limit">Почему ВСУ не сдаются и почему нам не страшен ЗРК «Пэтриот»</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-02-16T20:18">16 февраля 2023</time>
+<div class="meta__view"><i class="i__view"></i>51 005</div>
+<div class="meta__coms"><i class="i__com"></i>68</div>
+</div>
+</article><article class="post">
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/32188-pochemu-superdzhet-100-i-ms-21-mogut-stat-rossijsko-indijskimi-lajnerami.html"><span class="title-limit">«Суперджет-100» и МС-21 могут стать российско-индийскими лайнерами</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-02-16T12:39">16 февраля 2023</time>
+<div class="meta__view"><i class="i__view"></i>27 890</div>
+<div class="meta__coms"><i class="i__com"></i>18</div>
+</div>
+</article><article class="post">
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/32111-kogda-rossija-nachnet-formirovat-antifashistskie-interbrigady-na-ukraine.html"><span class="title-limit">Когда Россия начнет формировать антифашистские интербригады на Украине</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-02-14T11:02">14 февраля 2023</time>
+<div class="meta__view"><i class="i__view"></i>22 272</div>
+<div class="meta__coms"><i class="i__com"></i>18</div>
+</div>
+</article>
+</div>
+</div>
+<div class="section">
+<div class="post__listing post__c3 no__date">
+<article class="post">
+<div class="post__img fit-cover">
+<img src="/uploads/posts/2023-01/1675070445_34599.jpg" alt="Температура работающего двигателя Leopard 2 сделает его видимым для любого тепловизора" width="100%" loading="lazy" decoding="async">
+</div>
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/31598-temperatura-rabotajuschego-dvigatelja-leopard-2-sdelaet-ego-vidimym-dlja-ljubogo-teplovizora.html"><span class="title-limit">Температура работающего двигателя Leopard 2 сделает его видимым для любого тепловизора</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-01-30T12:20">30 января 2023</time>
+<div class="meta__view"><i class="i__view"></i>107 146</div>
+<div class="meta__coms"><i class="i__com"></i>17</div>
+</div>
+</article><article class="post">
+<div class="post__img fit-cover">
+<img src="/uploads/posts/2023-01/1673618702_1607168723_cea5c260c29f2266ca3dd27bef453f6f_d_850.jpg" alt="В ПАО «Ильюшин» заявили о планах развивать линейку сверхтяжелых самолетов" width="100%" loading="lazy" decoding="async">
+</div>
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/31039-v-pao-iljushin-zajavili-o-planah-razvivat-linejku-sverhtjazhelyh-samoletov.html"><span class="title-limit">В ПАО «Ильюшин» заявили о планах развивать линейку сверхтяжелых самолетов</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-01-13T17:04">13 января 2023</time>
+<div class="meta__view"><i class="i__view"></i>23 502</div>
+<div class="meta__coms"><i class="i__com"></i>3</div>
+</div>
+</article><article class="post">
+<div class="post__img fit-cover">
+<img src="/uploads/posts/2023-02/1675494215_1675411333_pubbzmppqd5tgiclr5fa9csjq8ama0nynqpemijrlkqwzkdm8-0hzgjdc53zbguyo0ha_npe6l3jm1dw3trnc2dw.jpg" alt="Пробный шар: Китай продемонстрировал, зачем России нужны военные аэростаты" width="100%" loading="lazy" decoding="async">
+</div>
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/31778-probnyj-shar-kitaj-prodemonstriroval-zachem-rossii-nuzhny-voennye-ajerostaty.html"><span class="title-limit">Пробный шар: Китай продемонстрировал, зачем России нужны военные аэростаты</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-02-04T10:26">4 февраля 2023</time>
+<div class="meta__view"><i class="i__view"></i>225 353</div>
+<div class="meta__coms"><i class="i__com"></i>21</div>
+</div>
+</article>
+</div>
+<div class="scrolling_posts">
+<div class="post__listing post__c4 no__views">
+<article class="post">
+<div class="post__img fit-cover">
+<img src="/uploads/posts/2023-02/1676806323_14885.jpg" alt="Иранский журналист сообщил о вероятном производстве Су-57 на территории Исламской Республики" width="100%" loading="lazy" decoding="async">
+</div>
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/32280-iranskij-zhurnalist-soobschil-o-verojatnom-proizvodstve-su-57-na-territorii-islamskoj-respubliki.html"><span class="title-limit">Иранский журналист сообщил о вероятном производстве Су-57 на территории Исламской Республики</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-02-19T14:31">Вчера, 14:31</time>
+<div class="meta__view"><i class="i__view"></i>4 150</div>
+<div class="meta__coms"><i class="i__com"></i>4</div>
+</div>
+</article><article class="post">
+<div class="post__img fit-cover">
+<img src="/uploads/posts/2023-02/1676789998_1661009654_1608386101_5.jpg" alt="Россия увеличивает выпуск гиперзвуковых ракет «Кинжал»" width="100%" loading="lazy" decoding="async">
+</div>
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/32281-rossija-uvelichivaet-vypusk-giperzvukovyh-raket-kinzhal.html"><span class="title-limit">Россия увеличивает выпуск гиперзвуковых ракет «Кинжал»</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-02-19T09:59">Вчера, 09:59</time>
+<div class="meta__view"><i class="i__view"></i>9 190</div>
+<div class="meta__coms"><i class="i__com"></i>0</div>
+</div>
+</article><article class="post">
+<div class="post__img fit-cover">
+<img src="/uploads/posts/2023-02/1676724969_1636017628_aoi.jpg" alt="Минобороны РФ следует учесть израильский и американский опыт дирижаблестроения" width="100%" loading="lazy" decoding="async">
+</div>
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/32268-minoborony-rf-sleduet-uchest-izrailskij-i-amerikanskij-opyt-dirizhablestroenija.html"><span class="title-limit">Минобороны РФ следует учесть израильский и американский опыт дирижаблестроения</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-02-18T16:03">18 февраля 2023</time>
+<div class="meta__view"><i class="i__view"></i>7 386</div>
+<div class="meta__coms"><i class="i__com"></i>13</div>
+</div>
+</article><article class="post">
+<div class="post__img fit-cover">
+<img src="/uploads/posts/2023-02/1676619712_3448.jpg" alt="MW: Не исключено появление Су-57МКИ индийской сборки" width="100%" loading="lazy" decoding="async">
+</div>
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/32226-mw-ne-iskljucheno-pojavlenie-su-57mki-indijskoj-sborki.html"><span class="title-limit">MW: Не исключено появление Су-57МКИ индийской сборки</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-02-17T10:41">17 февраля 2023</time>
+<div class="meta__view"><i class="i__view"></i>17 205</div>
+<div class="meta__coms"><i class="i__com"></i>5</div>
+</div>
+</article>
+</div>
+</div>
+</div>
+<div class="section light_gray_bg">
+<div class="post__grid post__grid-reverse d-lg-flex">
+<div class="post__grid-item postmod__bigscreens no_margin_left_right no_margin_topno__date">
+<article class="post">
+<div class="post__img fit-cover">
+<img src="/uploads/posts/2023-02/1676389424_4747858.jpg" alt="Украина стала обладательницей бюджетной крылатой ракеты для ударов по тылам" width="100%" loading="lazy" decoding="async">
+</div>
+<div class="post__info d-flex flex-column">
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/32130-ukraina-stala-obladatelnicej-bjudzhetnoj-krylatoj-rakety-dlja-udarov-po-tylam.html"><span class="title-limit">Украина стала обладательницей бюджетной крылатой ракеты для ударов по тылам</span></a>
+</h2>
+<div class="post__meta fw-b">
+<div class="meta__view"><i class="i__view"></i>135 408</div>
+<div class="meta__coms"><i class="i__com"></i>30</div>
+</div>
+</div>
+</article>
+</div>
+<div class="post__grid-list no__date">
+<article class="post">
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/32068-smogut-li-ms-21-i-tu-214-mirno-sosuschestvovat-i-proizvoditsja-parallelno.html"><span class="title-limit">Смогут ли МС-21 и Ту-214 мирно сосуществовать и производиться параллельно</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-02-13T10:51">13 февраля 2023</time>
+<div class="meta__view"><i class="i__view"></i>90 704</div>
+<div class="meta__coms"><i class="i__com"></i>30</div>
+</div>
+</article><article class="post">
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/32041-otkuda-u-rossii-vzjalis-morskie-bespilotniki-kamikadze.html"><span class="title-limit">Откуда у России взялись морские беспилотники-«камикадзе»</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-02-12T11:25">12 февраля 2023</time>
+<div class="meta__view"><i class="i__view"></i>83 601</div>
+<div class="meta__coms"><i class="i__com"></i>25</div>
+</div>
+</article><article class="post">
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/31893-military-watch-s-novymi-raketami-mosch-rossijskogo-flota-vozrastet-v-razy.html"><span class="title-limit">Military Watch: С новыми ракетами мощь российского флота возрастет в разы</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-02-07T20:01">7 февраля 2023</time>
+<div class="meta__view"><i class="i__view"></i>127 705</div>
+<div class="meta__coms"><i class="i__com"></i>13</div>
+</div>
+</article><article class="post">
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/31925-fregat-admiral-gorshkov-mozhet-dorasti-do-jesminca-i-dazhe-do-legkogo-krejsera.html"><span class="title-limit">Фрегат «Адмирал Горшков» может дорасти до эсминца и легкого крейсера</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-02-08T16:10">8 февраля 2023</time>
+<div class="meta__view"><i class="i__view"></i>79 268</div>
+<div class="meta__coms"><i class="i__com"></i>23</div>
+</div>
+</article>
+</div>
+</div>
+</div>
+<div class="section-not_bottom ">
+
+<div id="id-C-A-263322-19"></div>
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.renderWidget({
+    renderTo: 'id-C-A-263322-19',
+    blockId: 'C-A-263322-19',
+	nativeAdditionalClasses: typeof night_mode !== 'undefined' ? ['night']: []
+  })        
+})</script>
+</div>
+<div class="section">
+<div class="scrolling_posts">
+<div class="post__listing post__c4">
+<article class="post">
+<div class="post__img fit-cover">
+<img src="https://warfiles.ru/uploads/posts/2023-02/1676888989_1676888798_1668493825_photo1667994200.jpeg" alt="Почему в России появилось столько желающих создать свою «частную армию»" loading="lazy" decoding="async">
+</div>
+<h2 class="post__title font">
+<a class="post__title_link" href="https://warfiles.ru/247983-pochemu-v-rossii-pojavilos-stolko-zhelajuschih-sozdat-svoju-chastnuju-armiju.html" target="_blank">Почему в России появилось столько желающих создать свою «частную армию»</a>
+</h2>
+</article><article class="post">
+<div class="post__img fit-cover">
+<img src="https://warfiles.ru/uploads/posts/2023-02/1676888795_1676828843_487807dfb8d8fa8043e51c25fb9f1e0e.jpg" alt="Киев всерьез нацелился на Крым" loading="lazy" decoding="async">
+</div>
+<h2 class="post__title font">
+<a class="post__title_link" href="https://warfiles.ru/247982-kiev-vserez-nacelilsja-na-krym.html" target="_blank">Киев всерьез нацелился на Крым</a>
+</h2>
+</article><article class="post">
+<div class="post__img fit-cover">
+<img src="https://warfiles.ru/uploads/posts/2023-02/1676887302_l-362984-1.jpg" alt="Киев могут взять так же, как Алеппо" loading="lazy" decoding="async">
+</div>
+<h2 class="post__title font">
+<a class="post__title_link" href="https://warfiles.ru/247981-kiev-mogut-vzjat-tak-zhe-kak-aleppo.html" target="_blank">Киев могут взять так же, как Алеппо</a>
+</h2>
+</article><article class="post">
+<div class="post__img fit-cover">
+<img src="https://warfiles.ru/uploads/posts/2023-02/1676885328_267b31a35892bf08cb2342e2c89c3b76.jpg" alt="Комплекс «Ирония» зафиксировал удар авиабомбами ФАБ-500 по ВСУ в Авдеевке" loading="lazy" decoding="async">
+</div>
+<h2 class="post__title font">
+<a class="post__title_link" href="https://warfiles.ru/247980-kompleks-ironija-zafiksiroval-udar-aviabombami-fab-500-po-vsu-v-avdeevke.html" target="_blank">Комплекс «Ирония» зафиксировал удар авиабомбами ФАБ-500 по ВСУ в Авдеевке</a>
+</h2>
+</article>
+</div>
+</div>
+</div>
+<div class="section light_gray_bg">
+<div class="post__listing post__c4 no__date">
+<article class="post">
+<h2 class="post__title font">
+<a class="post__title_link" target="_blank" href="https://vsluh.net/1020-starlink-testiruet-internet-uslugu-globalnyj-rouming.html">Starlink тестирует интернет-услугу «Глобальный роуминг»</a>
+</h2>
+</article><article class="post">
+<h2 class="post__title font">
+<a class="post__title_link" target="_blank" href="https://vsluh.net/1019-amerikanskie-uchenye-dodumalis-zapuskat-drony-zombi-iz-ptic.html">Американские учёные додумались делать «дроны-зомби» из птиц</a>
+</h2>
+</article><article class="post">
+<h2 class="post__title font">
+<a class="post__title_link" target="_blank" href="https://vsluh.net/1018-aviakompanija-dronamics-sobrala-40-mln-na-avtonomnyj-gruzovoj-bespilotnik.html">Авиакомпания Dronamics собрала 40 млн $ на автономный грузовой беспилотник</a>
+</h2>
+</article><article class="post">
+<h2 class="post__title font">
+<a class="post__title_link" target="_blank" href="https://vsluh.net/1017-rossijskaja-zamena-sojuzu-zaplanirovana-na-24-fevralja.html">Российская замена «Союзу» запланирована на 24 февраля</a>
+</h2>
+</article>
+</div>
+</div>
+<div class="section light_gray_bg">
+<div class="post__listing post__c4 no__date">
+<article class="post">
+<h2 class="post__title font">
+<a class="post__title_link" target="_blank" href="https://bibimot.ru/4983-hongqi-predstavil-oficialnye-foto-svoego-novogo-premialnogo-krossovera-e202.html">Hongqi представил официальные фото своего нового премиального кроссовера E202</a>
+</h2>
+</article><article class="post">
+<h2 class="post__title font">
+<a class="post__title_link" target="_blank" href="https://bibimot.ru/4982-mia-411-dyshit-v-zatylok-bajkalu-lms-901.html">МИА-411 «дышит в затылок» «Байкалу» ЛМС-901</a>
+</h2>
+</article><article class="post">
+<h2 class="post__title font">
+<a class="post__title_link" target="_blank" href="https://bibimot.ru/4980-shiny-pirelli-kak-italjancy-rossiju-obuvajut.html">Шины Pirelli: как итальянцы Россию «обувают»</a>
+</h2>
+</article><article class="post">
+<h2 class="post__title font">
+<a class="post__title_link" target="_blank" href="https://bibimot.ru/4981-rossijskij-minivjen-s-sovetskimi-kornjami-vaz-2120-nadezhda.html">Российский минивэн с советскими корнями – ВАЗ-2120 «Надежда»</a>
+</h2>
+</article>
+</div>
+</div>
+<div class="section bg-dark c-white">
+<div class="section-title font">
+<a class="section-title_link uppercase fw-b" href="/media/">Видео</a>
+</div>
+<div class="scrolling_posts">
+<div class="post__listing post__c4 postmod__videophoto">
+<article class="post">
+<div class="post__img fit-cover">
+<img src="/uploads/posts/2023-02/1676284801_214555.jpg" alt="Новый двигатель на основе ПД-8 даст легендарному российскому Ми-26 вторую жизнь" width="100%" loading="lazy" decoding="async">
+<span class="post__media_icon"><i class="i__video"></i></span>
+</div>
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/32075-novyj-dvigatel-na-osnove-pd-8-dast-legendarnomu-rossijskomu-mi-26-vtoruju-zhizn.html"><span class="title-limit">Новый двигатель на основе ПД-8 даст легендарному российскому Ми-26 вторую жизнь</span></a>
+</h2>
+</article><article class="post">
+<div class="post__img fit-cover">
+<img src="/uploads/posts/2023-02/1675679570_215445.jpg" alt="Названы фундаментальные причины текущего конфликта между США и Россией" width="100%" loading="lazy" decoding="async">
+<span class="post__media_icon"><i class="i__video"></i></span>
+</div>
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/31839-nazvany-fundamentalnye-prichiny-tekuschego-konflikta-mezhdu-ssha-i-rossiej.html"><span class="title-limit">Названы фундаментальные причины текущего конфликта между США и Россией</span></a>
+</h2>
+</article><article class="post">
+<div class="post__img fit-cover">
+<img src="/uploads/posts/2023-02/1675342338_5.jpg" alt="Как Россия будет бороться с западными самолетами в украинском небе" width="100%" loading="lazy" decoding="async">
+<span class="post__media_icon"><i class="i__video"></i></span>
+</div>
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/31728-kak-rossija-budet-borotsja-s-zapadnymi-samoletami-v-ukrainskom-nebe.html"><span class="title-limit">Как Россия будет бороться с западными самолетами в украинском небе</span></a>
+</h2>
+</article><article class="post">
+<div class="post__img fit-cover">
+<img src="/uploads/posts/2023-01/1675178073_2175448585.jpg" alt="Эксперт объяснил, какие модификации и сколько всего «Леопардов» сможет поставить ЕС Киеву" width="100%" loading="lazy" decoding="async">
+<span class="post__media_icon"><i class="i__video"></i></span>
+</div>
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/31653-jekspert-objasnil-kakie-modifikacii-i-skolko-vsego-leopardov-smozhet-postavit-evropa.html"><span class="title-limit">Эксперт объяснил, какие модификации и сколько всего «Леопардов» сможет поставить ЕС Киеву</span></a>
+</h2>
+</article>
+</div>
+</div>
+<div class="postmod__bigscreens postmod__bigscreens-media">
+<article class="post">
+<div class="post__img fit-cover">
+<img src="/uploads/posts/2023-01/1673286787_36588.jpg" alt="На земле, в небе, на воде и в космосе: самые ожидаемые события в России в 2023 году" width="100%" loading="lazy" decoding="async">
+<span class="post__media_icon" style="display:none;"><i class="i__video"></i></span>
+</div>
+<div class="post__info d-flex flex-column">
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/30885-na-zemle-v-nebe-na-vode-i-v-kosmose-samye-ozhidaemye-sobytija-v-rossii-v-2023-godu.html"><span class="title-limit">На земле, в небе, на воде и в космосе: самые ожидаемые события в России в 2023 году</span></a>
+</h2>
+<div class="post__meta fw-b">
+<div class="meta__view"><i class="i__view"></i>66 749</div>
+<div class="meta__coms"><i class="i__com"></i>4</div>
+</div>
+</div>
+</article><article class="post">
+<div class="post__img fit-cover">
+<img src="/uploads/posts/2023-01/1675085332_20055.jpg" alt="«Иранская река»: Москва и Тегеран могут начать крупный инфраструктурный проект" width="100%" loading="lazy" decoding="async">
+<span class="post__media_icon" style="display:none;"><i class="i__video"></i></span>
+</div>
+<div class="post__info d-flex flex-column">
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/31614-iranskaja-reka-moskva-i-tegeran-mogut-nachat-krupnyj-infrastrukturnyj-proekt.html"><span class="title-limit">«Иранская река»: Москва и Тегеран могут начать крупный инфраструктурный проект</span></a>
+</h2>
+<div class="post__meta fw-b">
+<div class="meta__view"><i class="i__view"></i>71 016</div>
+<div class="meta__coms"><i class="i__com"></i>14</div>
+</div>
+</div>
+</article>
+</div>
+</div>
+<div class="section">
+<div class="post__listing post__c3 no__date">
+<article class="post">
+<div class="post__img fit-cover">
+<img src="/uploads/posts/2023-01/1674461484_2250x1906_0xac120003_17278906081668169867.jpeg" alt="Чем сегодня занимаются Ургант, Слепаков, Галкин* и другие сбежавшие из России шоумены" width="100%" loading="lazy" decoding="async">
+</div>
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/31338-chem-sejchas-zanimajutsja-urgant-slepakov-galkin-i-drugie-sbezhavshie-iz-rossii-shoumeny.html"><span class="title-limit">Чем сегодня занимаются Ургант, Слепаков, Галкин* и другие сбежавшие из России шоумены</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-01-23T11:21">23 января 2023</time>
+<div class="meta__view"><i class="i__view"></i>160 985</div>
+<div class="meta__coms"><i class="i__com"></i>15</div>
+</div>
+</article><article class="post">
+<div class="post__img fit-cover">
+<img src="/uploads/posts/2023-01/1673868667_47575.jpg" alt="В супермаркетах Лондона из-за воровства начали запирать холодильники" width="100%" loading="lazy" decoding="async">
+</div>
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/31121-v-supermarketah-londona-iz-za-vorovstva-nachali-zapirat-holodilniki.html"><span class="title-limit">В супермаркетах Лондона из-за воровства начали запирать холодильники</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-01-16T14:40">16 января 2023</time>
+<div class="meta__view"><i class="i__view"></i>60 165</div>
+<div class="meta__coms"><i class="i__com"></i>2</div>
+</div>
+</article><article class="post">
+<div class="post__img fit-cover">
+<img src="/uploads/posts/2023-01/1674820687_312451415_5860555997309402_2417904206636984168_n.jpg" alt="«Пусть идут воевать с Путиным сами»: чехи о возможной мобилизации" width="100%" loading="lazy" decoding="async">
+</div>
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/31524-pust-idut-voevat-s-putinym-sami-chehi-o-vozmozhnoj-mobilizacii.html"><span class="title-limit">«Пусть идут воевать с Путиным сами»: чехи о возможной мобилизации</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-01-27T18:45">27 января 2023</time>
+<div class="meta__view"><i class="i__view"></i>81 975</div>
+<div class="meta__coms"><i class="i__com"></i>7</div>
+</div>
+</article>
+</div>
+<div class="scrolling_posts">
+<div class="post__listing post__c4 no__views">
+<article class="post">
+<div class="post__img fit-cover">
+<img src="/uploads/posts/2023-02/1676883544_sb12082100.jpg" alt="Учебник географии: Украина присутствует на картах со II века нашей эры" width="100%" loading="lazy" decoding="async">
+</div>
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/32316-uchebnik-geografii-ukraina-prisutstvuet-na-kartah-so-ii-veka-nashej-jery.html"><span class="title-limit">Учебник географии: Украина присутствует на картах со II века нашей эры</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-02-20T11:59">Сегодня, 11:59</time>
+<div class="meta__view"><i class="i__view"></i>3</div>
+<div class="meta__coms"><i class="i__com"></i>3</div>
+</div>
+</article><article class="post">
+<div class="post__img fit-cover">
+<img src="/uploads/posts/2023-02/1676365717_244643988_934348524092099_7310208930039058732_n.jpg" alt="Жители Японии предложили силой вернуть Курилы" width="100%" loading="lazy" decoding="async">
+</div>
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/32117-japonskie-kommentatory-predlozhili-siloj-vernut-kurily.html"><span class="title-limit">Жители Японии предложили силой вернуть Курилы</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-02-14T12:39">14 февраля 2023</time>
+<div class="meta__view"><i class="i__view"></i>23 385</div>
+<div class="meta__coms"><i class="i__com"></i>13</div>
+</div>
+</article><article class="post">
+<div class="post__img fit-cover">
+<img src="/uploads/posts/2023-02/1676019102_female-cathedral-england-art-altar-staffordshire-1092956-pxhere_com.jpg" alt="Англиканская церковь приняла решение благословлять однополые браки" width="100%" loading="lazy" decoding="async">
+</div>
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/31990-anglikanskaja-cerkov-prinjala-reshenie-blagoslovljat-odnopolye-braki.html"><span class="title-limit">Англиканская церковь приняла решение благословлять однополые браки</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-02-10T11:50">10 февраля 2023</time>
+<div class="meta__view"><i class="i__view"></i>34 041</div>
+<div class="meta__coms"><i class="i__com"></i>3</div>
+</div>
+</article><article class="post">
+<div class="post__img fit-cover">
+<img src="/uploads/posts/2023-02/1675937033_interior_of_phil_bib_fu_berlin_2.jpg" alt="Берлинский университет мешает студенткам жаловаться в полицию на домогающихся мигрантов" width="100%" loading="lazy" decoding="async">
+</div>
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/31951-berlinskij-universitet-meshaet-studentkam-zhalovatsja-v-policiju-na-domogajuschihsja-migrantov.html"><span class="title-limit">Берлинский университет мешает студенткам жаловаться в полицию на домогающихся мигрантов</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-02-09T13:18">9 февраля 2023</time>
+<div class="meta__view"><i class="i__view"></i>35 742</div>
+<div class="meta__coms"><i class="i__com"></i>2</div>
+</div>
+</article>
+</div>
+</div>
+</div>
+<div class="section light_gray_bg">
+<div class="post__listing post__c4 no__date">
+<article class="post">
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/31917-anglijskaja-cerkov-rassmatrivaet-ideju-o-genderno-nejtralnom-boge.html"><span class="title-limit">Английская церковь рассматривает идею о гендерно-нейтральном Боге</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-02-08T13:28">8 февраля 2023</time>
+<div class="meta__view"><i class="i__view"></i>40 826</div>
+<div class="meta__coms"><i class="i__com"></i>12</div>
+</div>
+</article><article class="post">
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/31767-ogovorka-bajdena-raskryla-sut-gendernoj-katastrofy-kollektivnogo-zapada.html"><span class="title-limit">Оговорка Байдена раскрыла суть гендерной катастрофы коллективного Запада</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-02-03T17:13">3 февраля 2023</time>
+<div class="meta__view"><i class="i__view"></i>70 298</div>
+<div class="meta__coms"><i class="i__com"></i>12</div>
+</div>
+</article><article class="post">
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/31564-edva-li-sposobny-chitateli-the-drive-o-prognozah-vojny-ssha-s-kitaem.html"><span class="title-limit">«Едва ли способны победить»: читатели The Drive о прогнозах войны США с Китаем</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-01-29T11:37">29 января 2023</time>
+<div class="meta__view"><i class="i__view"></i>72 951</div>
+<div class="meta__coms"><i class="i__com"></i>3</div>
+</div>
+</article><article class="post">
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/31524-pust-idut-voevat-s-putinym-sami-chehi-o-vozmozhnoj-mobilizacii.html"><span class="title-limit">«Пусть идут воевать с Путиным сами»: чехи о возможной мобилизации</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-01-27T18:45">27 января 2023</time>
+<div class="meta__view"><i class="i__view"></i>81 975</div>
+<div class="meta__coms"><i class="i__com"></i>7</div>
+</div>
+</article>
+</div>
+</div>
+<div class="section">
+<div class="section-title font">
+<a class="section-title_link uppercase fw-b" href="/">Выбор читателей</a>
+</div>
+<div class="post__grid d-lg-flex postlist__rate no__views no__coms">
+<div class="post__grid-item postmod__bigscreens no_margin_left_right">
+<article class="post">
+<div class="post__img fit-cover">
+<img src="/uploads/posts/2023-02/1676448025_147840.jpg" alt="Почему Запад игнорирует все «красные линии» Кремля" width="100%" loading="lazy" decoding="async">
+</div>
+<div class="post__info d-flex flex-column">
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/32135-pochemu-zapad-ignoriruet-vse-krasnye-linii-kremlja.html"><span class="title-limit">Почему Запад игнорирует все «красные линии» Кремля</span></a>
+</h2>
+<div class="post__meta fw-b">
+<div class="meta__view"><i class="i__view"></i>78 778</div>
+<div class="meta__coms"><i class="i__com"></i>88</div>
+</div>
+</div>
+</article>
+</div>
+<div class="post__grid-list">
+<article class="post">
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/32288-nakonechnik-kopja-pochemu-minoborony-rf-delaet-stavku-na-vdv-i-morskuju-pehotu.html"><span class="title-limit">«Наконечник копья»: почему Минобороны РФ делает ставку на ВДВ и морскую пехоту</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-02-19T12:45">Вчера, 12:45</time>
+<div class="meta__view"><i class="i__view"></i>153 671</div>
+<div class="meta__coms"><i class="i__com"></i>36</div>
+</div>
+</article><article class="post">
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/32136-pochemu-vsu-ne-sdajutsja-i-pochemu-nam-ne-strashen-zrk-pjetriot.html"><span class="title-limit">Почему ВСУ не сдаются и почему нам не страшен ЗРК «Пэтриот»</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-02-16T20:18">16 февраля 2023</time>
+<div class="meta__view"><i class="i__view"></i>51 005</div>
+<div class="meta__coms"><i class="i__com"></i>68</div>
+</div>
+</article><article class="post">
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/32248-tri-shaga-k-miru-rossii-pridetsja-integrirovat-ukrainu-po-chastjam.html"><span class="title-limit">Три шага к миру: России придется интегрировать Украину по частям</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-02-17T16:22">17 февраля 2023</time>
+<div class="meta__view"><i class="i__view"></i>53 968</div>
+<div class="meta__coms"><i class="i__com"></i>50</div>
+</div>
+</article><article class="post">
+<h2 class="post__title font">
+<a class="post__title_link" href="https://topcor.ru/32216-military-watch-vyjasnilo-skolko-u-rossii-tankov-t-72-raznyh-variantov.html"><span class="title-limit">Military Watch выяснило, сколько у России танков Т-72</span></a>
+</h2>
+<div class="post__meta c-muted fw-b">
+<time class="meta__date" datetime="2023-02-16T20:30">16 февраля 2023</time>
+<div class="meta__view"><i class="i__view"></i>55 343</div>
+<div class="meta__coms"><i class="i__com"></i>20</div>
+</div>
+</article>
+</div>
+</div>
+</div>
+<div class="adwide__block_google content__visibility" style="background-color: #eceae8;">
+<div id="id-C-A-263322-16"></div>
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.renderWidget({
+    renderTo: 'id-C-A-263322-16',
+    blockId: 'C-A-263322-16',
+	nativeAdditionalClasses: typeof night_mode !== 'undefined' ? ['night']: []
+  })        
+})</script></div>
+</div>
+<footer id="footer">
+<div class="footer bg-dark c-white font">
+<div class="row">
+<div class="col-3 d-none d-lg-block">
+<nav class="fmenu uppercase">
+<a class="hm_item" href="/news/" title="Новости">Новости</a>
+<a class="hm_item" href="/politics/" title="Политика">Политика</a>
+<a class="hm_item" href="/economy/" title="Экономика">Экономика</a>
+<a class="hm_item" href="/technology/" title="Техно">Техно</a>
+<a class="hm_item" href="/society/" title="Общество">Общество</a>
+<a class="hm_item" href="/media/" title="Видео">Видео</a>
+</nav>
+</div>
+<div class="col-3 d-none d-lg-block">
+<nav class="fmenu uppercase">
+<a href="#">Реклама на сайте</a>
+<a href="/index.php?do=feedback">Контакты</a>
+<a href="/about.html">Об издании</a>
+<a href="/privacy.html">Политика конфиденциальности</a>
+<a href="/rss.xml">RSS</a>
+</nav>
+<nav class="mt-3 flags notranslate">
+<div class="langs">
+<a href="#" onclick="doGTranslate('ru|ru');return false;" title="Русский" class="gflag nturl"><i style="background-position: 0 0;"></i></a>
+<a href="#" onclick="doGTranslate('ru|zh-CN');return false;" title="Китайский (упрощенный)" class="gflag nturl"><i style="background-position: -24px 0;"></i></a>
+<a href="#" onclick="doGTranslate('ru|en');return false;" title="Английский" class="gflag nturl"><i style="background-position: -48px 0;"></i></a>
+<a href="#" onclick="doGTranslate('ru|de');return false;" title="Немецкий" class="gflag nturl"><i style="background-position: -72px 0;"></i></a>
+<a href="#" onclick="doGTranslate('ru|fr');return false;" title="Французский" class="gflag nturl"><i style="background-position: -120px 0;"></i></a>
+<a href="#" onclick="doGTranslate('ru|es');return false;" title="Испанский" class="gflag nturl"><i style="background-position: -96px 0;"></i></a>
+<a href="#" onclick="doGTranslate('ru|it');return false;" title="Итальянский" class="gflag nturl"><i style="background-position: -144px 0;"></i></a>
+</div>
+</nav>
+</div>
+<div class="col-lg-6">
+<p class="copyright fw-b">© 2018-2023 «Репортёр»</p>
+<p class="copyright__license">Использование материалов разрешено только при условии наличия активной гиперссылки на
+topcor.ru. Гиперссылка не должна быть закрыта для поисковой индексации. При этом запрещено их распространение через
+обменные сети и новостные агрегаторы.</p>
+<div class="copyright__sight">
+<p>Настоящий ресурс может содержать материалы <b>18+</b></p>
+<p>Мнение редакции может не совпадать с точкой зрения автора публикации</p>
+</div>
+</div>
+</div>
+</div>
+<div class="foot c-white">
+<div class="row">
+<div class="col-4 d-md-block" style="display: none;">
+<div class="soc_links">
+<a href="https://zen.yandex.ru/topcor" target="_blank" rel="nofollow noreferrer" class="soc_gl" title="Мы в Яндекс.Дзен">
+<i class="i__dzen"></i>
+</a>
+<a href="https://vk.com/topcor" target="_blank" rel="nofollow noreferrer" class="soc_vk" title="Мы вКонтакте">
+<i class="i__vk"></i>
+</a>
+<a href="https://ok.ru/topcor" target="_blank" rel="nofollow noreferrer" class="soc_od" title="Мы в Одноклассниках">
+<i class="i__ok"></i>
+</a>
+</div>
+</div>
+<div class="col-2 d-md-block" style="display: none;">
+<a class="google-play" href="https://play.google.com/store/apps/details?id=ru.topcor.app" rel="nofollow noreferrer">
+<img src="/templates/topcor/images/google-play-badge.png" width="auto" height="32" alt="Google Play" loading="lazy" decoding="async">
+</a>
+</div>
+<div class="col-8 col-md-3">
+<a class="ca" href="https://centroarts.com" target="_blank" rel="nofollow noreferrer">
+<i class="i__ca"></i>
+<span>Дизайн – CENTROARTs</span>
+</a>
+</div>
+<div class="col-4 col-md-3" style="margin-left: auto;">
+<a class="upper" href="/" style="display: none;"><i class="i__up"></i></a>
+<div class="counts d-md-block" style="display: none;">
+<div class="count">
+<a href="//www.liveinternet.ru/click" target="_blank"><img src="//counter.yadro.ru/logo?44.7" title="LiveInternet" alt="" style="border:0" width="31" height="31" /></a>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+
+<div class="modal fade login_modal" id="login" tabindex="-1" role="dialog" aria-labelledby="login_dialog" aria-hidden="true">
+<div class="modal-dialog modal-dialog-centered" role="document">
+<div class="modal-content">
+<div class="modal-body">
+<form class="login_form" method="post">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<i class="i__close"></i>
+</button>
+<a class="logotype logo_dark" href="/" title="Репортер">
+<span class="sr-only">Репортёр</span>
+<svg><use xlink:href="/templates/topcor/images/logo.svg#logo"></svg>
+</a>
+<label class="form-group c-muted">Имя пользователя
+<input class="form-control form-control-lg" type="text" name="login_name" required>
+</label>
+<label class="form-group c-muted">Пароль
+<input class="form-control form-control-lg" type="password" name="login_password" required>
+</label>
+<div class="form-submit">
+<input name="login" type="hidden" id="login" value="submit">
+<button class="btn btn-block w-100 btn-lg" onclick="submit();" type="submit" title="Войти">
+Войти
+</button>
+<ul class="login-form-foot">
+<li><a href="https://topcor.ru/index.php?do=lostpassword">Я забыл пароль</a></li>
+<li><a href="https://topcor.ru/index.php?do=register">Регистрация</a></li>
+</ul>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="modal fade login_modal" id="login" tabindex="-1" role="dialog" aria-labelledby="login_dialog" aria-hidden="true">
+<div class="modal-dialog modal-dialog-centered" role="document">
+<div class="modal-content">
+<div class="modal-body">
+<form class="login_form" method="post">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<i class="i__close"></i>
+</button>
+<a class="logotype logo_dark" href="/" title="Репортер">
+<span class="sr-only">Репортёр</span>
+<svg><use xlink:href="/templates/topcor/images/logo.svg#logo"></svg>
+</a>
+<label class="form-group c-muted">Имя пользователя
+<input class="form-control form-control-lg" type="text" name="login_name" required>
+</label>
+<label class="form-group c-muted">Пароль
+<input class="form-control form-control-lg" type="password" name="login_password" required>
+</label>
+<div class="form-submit">
+<input name="login" type="hidden" id="login" value="submit">
+<button class="btn btn-block w-100 btn-lg" onclick="submit();" type="submit" title="Войти">
+Войти
+</button>
+<ul class="login-form-foot">
+<li><a href="https://topcor.ru/index.php?do=lostpassword">Я забыл пароль</a></li>
+<li><a href="https://topcor.ru/index.php?do=register">Регистрация</a></li>
+</ul>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+<a class="upper" href="/"><i class="i__up"></i></a>
+<script src="/engine/classes/js/jquery.js?v=26"></script>
+<script src="/engine/classes/js/jqueryui.js?v=26" defer></script>
+<script src="/engine/classes/js/dle_js.js?v=26" defer></script>
+<script src="/engine/classes/js/lazyload.js?v=26" defer></script>
+<script>
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = 'b6e5d7220339d469db5106ff56ab93e3e01ec8c2';
+var dle_group      = 5;
+var dle_skin       = 'topcor';
+var dle_wysiwyg    = '0';
+var quick_wysiwyg  = '0';
+var dle_act_lang   = ["Да", "Нет", "Ввод", "Отмена", "Сохранить", "Удалить", "Загрузка. Пожалуйста, подождите..."];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+var dle_confirm    = 'Подтверждение';
+var dle_prompt     = 'Ввод информации';
+var dle_req_field  = 'Заполните все необходимые поля';
+var dle_del_agree  = 'Вы действительно хотите удалить? Данное действие невозможно будет отменить';
+var dle_spam_agree = 'Вы действительно хотите отметить пользователя как спамера? Это приведёт к удалению всех его комментариев';
+var dle_complaint  = 'Укажите текст Вашей жалобы для администрации:';
+var dle_big_text   = 'Выделен слишком большой участок текста.';
+var dle_orfo_title = 'Укажите комментарий для администрации к найденной ошибке на странице';
+var dle_p_send     = 'Отправить';
+var dle_p_send_ok  = 'Уведомление успешно отправлено';
+var dle_save_ok    = 'Изменения успешно сохранены. Обновить страницу?';
+var dle_reply_title= 'Ответ на комментарий';
+var dle_tree_comm  = '0';
+var dle_del_news   = 'Удалить статью';
+var dle_sub_agree  = 'Вы действительно хотите подписаться на комментарии к данной публикации?';
+var dle_captcha_type  = '1';
+var allow_dle_delete_news   = false;
+
+//-->
+</script>
+<script src="/templates/topcor/js/bootstrap.min.js?1676889087"></script>
+<script>
+	
+	var dle_device = 'desktop;'
+	$(function() {
+		$('#darkMode').on('click', function(e){
+			e.preventDefault;
+			$.post('/custom/change.theme.php', {'night_mode': $(this).val()}).done(function() { ShowLoading(""); location.reload() })
+		});
+		$('.dropdown-form').click(function(e) {
+	        e.stopPropagation();
+	    });
+		$('.soc_login a').on('click',function(){
+		   var href = $(this).attr('href');
+	       var width  = 820;
+	       var height = 420;
+	       var left   = (screen.width  - width)/2;
+	       var top   = (screen.height - height)/2-100;   
+
+	       auth_window = window.open(href, 'auth_window', "width="+width+",height="+height+",top="+top+",left="+left+"menubar=no,resizable=no,scrollbars=no,status=no,toolbar=no");
+	       return false;
+		});
+
+		
+		$('#q_search_call').click(function() { $('html').toggleClass("qs");return false;});
+
+		
+		$('.upper').click(function(){ $('html, body').animate({scrollTop:0}, 'slow'); return false; });
+
+		var ht = $('html');
+		var htTT = function(){
+			var hscrollTop = $(window).scrollTop();
+			if (hscrollTop > 500) { $(ht).addClass('upper_left'); } else { $(ht).removeClass('upper_left'); }
+		};
+		htTT();
+		$(window).scroll(function() { htTT(); });
+
+		
+		$('#menu_call, .menu_close').on('click', function(){
+			$('.mobilemenu').toggleClass('open');
+			setTimeout(function() { $('html').toggleClass('mm'); }, 50);
+			return false;
+		});
+	});
+	
+	
+	
+</script>
+<script>
+if ('serviceWorker' in navigator) { window.addEventListener('load', function() {
+	navigator.serviceWorker.register('/service-worker.js'); });
+}
+</script>
+<script defer src="/templates/topcor/js/app.js?2021092902&1676889087"></script>
+<script>
+	var isElementVisible = function (id)
+	{
+	target = document.querySelector('#' + id);
+	var targetPosition = {
+		top: window.pageYOffset + target.getBoundingClientRect().top,
+		left: window.pageXOffset + target.getBoundingClientRect().left,
+		right: window.pageXOffset + target.getBoundingClientRect().right,
+		bottom: window.pageYOffset + target.getBoundingClientRect().bottom
+		},
+		windowPosition = {
+		top: window.pageYOffset,
+		left: window.pageXOffset,
+		right: window.pageXOffset + document.documentElement.clientWidth,
+		bottom: window.pageYOffset + document.documentElement.clientHeight
+		};
+	if (targetPosition.bottom > windowPosition.top &&
+		targetPosition.top < windowPosition.bottom && 
+		targetPosition.right > windowPosition.left &&
+		targetPosition.left < windowPosition.right) {
+		return true 
+		} else {
+			return false
+		};
+	};
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+function doGTranslate(lang_pair) {if(lang_pair.value)lang_pair=lang_pair.value;if(lang_pair=='')return;var lang=lang_pair.split('|')[1];var plang=location.hostname.split('.')[0];if(plang.length !=2 && plang.toLowerCase() != 'zh-cn' && plang.toLowerCase() != 'zh-tw')plang='ru';location.href=location.protocol+'//'+(lang == 'ru' ? '' : lang+'.')+location.hostname.replace('www.', '').replace(RegExp('^' + plang + '\\.'), '')+location.pathname+location.search;}
+/* ]]> */
+</script>
+<script>
+new Image().src = "//counter.yadro.ru/hit;vo-media?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,150))+
+";"+Math.random();</script>
+
+<script type="text/javascript">
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   var z = null;m[i].l=1*new Date();
+   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(47427073, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/47427073" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-27412214-9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-27412214-9');
+</script>
+
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "3080431", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = "https://top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div>
+<img src="https://top-fwz1.mail.ru/counter?id=3080431;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru" />
+</div></noscript>
+
+</body>
+</html>
+

@@ -1,0 +1,623 @@
+    <!DOCTYPE html>
+    <html lang="ru" dir="ltr">
+    <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+                <title>Новости Самары, Самарской области</title><meta name="description" content="Новости Самары, Самарской области"><meta property="og:type" content="website">
+<meta property="og:url" content="https://samaraonline24.ru/">
+<meta property="og:locale" content="ru_RU">
+<meta property="og:title" content="Новости Самары, Самарской области">
+<meta property="og:description" content="Новости Самары, Самарской области">
+<meta property="og:site_name" content="Новости Самары | СамараОнлайн24">
+
+<meta name="robots" content="max-image-preview:large">
+<link href="https://yandex.ru" rel="preconnect">
+<link href="https://avatars.mds.yandex.net" rel="preconnect">
+<link href="https://banners.adfox.ru" rel="preconnect">
+<link href="https://samaraonline24.ru/" rel="canonical">
+<link type="application/rss+xml" href="https://samaraonline24.ru/rss.xml" rel="alternate">
+<link type="image/x-icon" href="/favicon.ico" rel="shortcut icon">
+<link type="image/x-icon" href="/favicon120.ico" rel="icon" sizes="120x120">
+<link type="image/svg+xml" href="/favicon.svg" rel="icon">
+<link href="/assets/min/9a073ef0387b188eb8c0403570b5eea4.css" rel="stylesheet">
+<link href="/assets/css/styles.css" rel="stylesheet"><script type="application/ld+json">{"@context":"http://schema.org","@type":"Organization","name":"Новости Самары | СамараОнлайн24","alternateName":"СамараОнлайн24","url":"https://samaraonline24.ru","logo":"https://samaraonline24.ru/assets/img/logo.png"}</script>
+<script>window.yaContextCb = window.yaContextCb || []</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+<meta name="google-site-verification"
+content="ETdC45khvx772cDNhCk0-n81TaFoYPF4UE3n7HdPgHA" /><meta name='Petal-Search-site-verification' content='b04f61d92e'/><meta name="yandex-verification" content="8064cb78bd0f88f4"
+/><script async src="https://www.googletagmanager.com/gtag/js?id=UA-170869326-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+ 
+  gtag('config', 'UA-170869326-1');
+</script>    </head>
+    <body>
+    
+    <script type="text/javascript">
+(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+   ym(57266584, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        defer:true
+   });
+</script>
+<script type="text/javascript" data-counter>
+    ym(57266584, "hit", document.URL, {});
+</script><script data-counter>
+new Image().src = "https://counter.yadro.ru/hit;progorod?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,150))+
+";"+Math.random();</script><script data-counter>
+new Image().src = "https://counter.yadro.ru/hit;Samara24?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,150))+
+";"+Math.random();</script><script type="text/javascript" data-counter>
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "3121529", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = "https://top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script>
+<div class="text-center adf-ins"><div class="container m-t m-b pi_top"><div id="63f34de7e22b8"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.createAdaptive({
+            ownerId: 345202,
+            containerId: '63f34de7e22b8',
+            params: {
+                p1: 'cuncx',
+                p2: 'hryx'
+            }
+        }, ['desktop', 'tablet', 'phone'], {
+            tabletWidth: 830,
+            phoneWidth: 480,
+            isAutoReloads: false
+        })
+    })
+</script></div></div>
+<div class="header">
+    <div class="c-top-menu">
+        <div class="container">
+            <ul class="top-menu">
+                <li>
+                    <a href="/"><img class="logo" src="/assets/img/logo.png?h=0.1.1.2"
+                                     title="Новости Самары | СамараОнлайн24"
+                                     alt="Новости Самары | СамараОнлайн24"></a>
+                </li>
+                <li>
+                    <div class="top-menu__main">
+                        <div class="top-menu__main-menu">
+                            <ul id="w0" class="nav top_menu"><li><a href="/contacts"><p>Контакты редакции</p></a></li>
+<li><a href="https://samara.pronedvigimost.ru"><p>Топ новостроек</p></a></li>
+<li><a href="https://samaraonline24.ru/interesnoe/view/prezentacia-novostnoj-portala-samara-24"><p>Реклама</p></a></li>
+<li><a href="https://samaraonline24.ru/interesnoe/view/podborka-psihologov-v-samare"><p>Психологи Самары </p></a></li></ul>                        </div>
+                        <div class="icons">
+                            <a href="/search"><i class="search"></i></a>                            <div class="user-menu">
+                                <i class="user"></i>
+                                <div class="user-menu_dropdown">
+                                    <ul><li><a href="/user/login">Войти</a></li></ul>                                </div>
+                            </div>
+
+                            
+                            <div class="hamburger">
+
+                            </div>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="container">
+        <hr class="hr-line-top-menu"/>
+        <ul class="main-menu">
+            <li>
+                <ul id="w0" class="nav main_menu"><li><a href="https://samaraonline24.ru/samara"><p>Новости Самары</p></a></li>
+<li><a href="https://samaraonline24.ru/russia"><p>Новости России</p></a></li>
+<li><a href="https://samaraonline24.ru/longreads"><p>Лонгриды</p></a></li>
+<li><a href="https://samaraonline24.ru/interesnoe"><p>Интересное</p></a></li>
+<li><a href="https://samaraonline24.ru/samara/view/lucsie-zimnie-turbazy-samarskoj-oblasti-2023"><p>Лучшие турбазы Самарской области</p></a></li>
+<li><a href="https://samaraonline24.ru/interesnoe/view/ocen-bolsie-vygody-v-samare"><p>Скидки и акции в Самаре</p></a></li>
+<li><a href="https://samaraonline24.ru/interesnoe/view/cem-zanatsa-zimoj-v-samare"><p>Чем заняться зимой?</p></a></li>
+<li><a href="https://samaraonline24.ru/samara/view/top-samyh-vaznyj-nomerov"><p>Важные номера</p></a></li>
+<li><a href="https://samaraonline24.ru/interesnoe/view/podborka-psihologov-v-samare"><p>Как выбрать психолога</p></a></li></ul>            </li>
+            <li>
+                <div class="top-social"><a class="vk" href="https://vk.com/samara.online"><img src="/assets/core/theme/img/social/vk.svg" alt=""></a><a class="telegram" href="https://t.me/+lNMvsJ0sT2k4M2Vi"><img src="/assets/core/theme/img/social/telegram.svg" alt=""></a></div>            </li>
+        </ul>
+    </div>
+</div>
+
+    <div class="container">
+        <div class="main-content">
+                <h1 style="display: none;">Новости Самары, Самарской области</h1>
+
+
+
+    <div class="first-block">
+        
+
+<div class="first-news">
+    <div class="news-info">
+        <div class="sections-name">
+            <i class="sections-i" style="background: #6aa84f;"></i>            <a href="/samara">Самара</a>        </div>
+        <div class="news-date">59 минут назад</div>
+    </div>
+    <div class="news-item">
+        <a href="/samara/view/3-pravila-kak-opredelit-podlinnost-kupury">
+            <h3>3 правила как определить подлинность купюры</h3>
+                            <picture><source type="image/webp" srcset="/userfiles/webp/-min-LOLpPFYjwLESz-vCrGjGvQKtEkztgIGA.jpg.webp" media="(max-width: 480px)"><source type="image/webp" srcset="/userfiles/webp/-middle-LOLpPFYjwLESz-vCrGjGvQKtEkztgIGA.jpg.webp" media="(max-width: 764px)"><source srcset="/userfiles/min/LOLpPFYjwLESz-vCrGjGvQKtEkztgIGA.jpg" media="(max-width: 480px)"><source srcset="/userfiles/middle/LOLpPFYjwLESz-vCrGjGvQKtEkztgIGA.jpg" media="(max-width: 764px)"><source type="image/webp" srcset="/userfiles/webp/-main-LOLpPFYjwLESz-vCrGjGvQKtEkztgIGA.jpg.webp"><img src="/userfiles/main/LOLpPFYjwLESz-vCrGjGvQKtEkztgIGA.jpg" alt="3 правила как определить подлинность купюры" loading="eager"></picture>                    </a>
+    </div>
+</div>        
+<div class="news-list">
+                        <div class="other-news">
+                <div class="news-info">
+                    <p class="sections-name">
+                        <i class="sections-i" style="background: #6aa84f;"></i>                        <a href="/samara">Самара</a>                    </p>
+                    <p class="news-date">39 минут назад</p>
+                </div>
+                <div class="other-news-item">
+                    <a href="/samara/view/nejroset-pokazala-samaru-i-tolatti-v-celoveceskom-oblike">
+                        <h3 class="other-news-name">Нейросеть показала Самару и Тольятти в человеческом облике</h3>
+                    </a>
+                </div>
+            </div>
+                                <div class="other-news">
+                <div class="news-info">
+                    <p class="sections-name">
+                        <i class="sections-i" style="background: #6aa84f;"></i>                        <a href="/samara">Самара</a>                    </p>
+                    <p class="news-date">4 часа назад</p>
+                </div>
+                <div class="other-news-item">
+                    <a href="/samara/view/novyh-zk">
+                        <h3 class="other-news-name">Все, конец!? Отмена ипотеки огорчила всех Россиян. Чего ждать в этом году?</h3>
+                    </a>
+                </div>
+            </div>
+                                <div class="other-news">
+                <div class="news-info">
+                    <p class="sections-name">
+                        <i class="sections-i" style="background: #6aa84f;"></i>                        <a href="/samara">Самара</a>                    </p>
+                    <p class="news-date">час назад</p>
+                </div>
+                <div class="other-news-item">
+                    <a href="/samara/view/v-samare-poavatsa-novye-pamatniki">
+                        <h3 class="other-news-name">В Самаре появятся новые памятники</h3>
+                    </a>
+                </div>
+            </div>
+                                <div class="other-news">
+                <div class="news-info">
+                    <p class="sections-name">
+                        <i class="sections-i" style="background: #6aa84f;"></i>                        <a href="/samara">Самара</a>                    </p>
+                    <p class="news-date">час назад</p>
+                </div>
+                <div class="other-news-item">
+                    <a href="/samara/view/v-samare-nekotorye-studenty-budut-polucat-5-000-rublej-v-mesac">
+                        <h3 class="other-news-name">В Самаре некоторые студенты будут получать 5 000 рублей в месяц</h3>
+                    </a>
+                </div>
+            </div>
+            </div>    </div>
+
+
+    <div class="second-block">
+        <div class="second-news-list col-4 col-border-t col-border-r">
+            
+    <div class="news-item ">
+        <div class="news-item__content">
+                            <a href="/samara/view/poavilos-video-stroitelstva-zk-za-tc-metro">
+                    <div class="news-item__image">
+                        <picture><source type="image/webp" srcset="/userfiles/webp/-min-OpX2Wzru-eITrooM8LKwGgtsgxrgalmY.png.webp" media="(max-width: 480px)"><source type="image/webp" srcset="/userfiles/webp/-middle-OpX2Wzru-eITrooM8LKwGgtsgxrgalmY.png.webp" media="(max-width: 764px)"><source srcset="/userfiles/min/OpX2Wzru-eITrooM8LKwGgtsgxrgalmY.png" media="(max-width: 480px)"><source srcset="/userfiles/middle/OpX2Wzru-eITrooM8LKwGgtsgxrgalmY.png" media="(max-width: 764px)"><source type="image/webp" srcset="/userfiles/webp/-preview-OpX2Wzru-eITrooM8LKwGgtsgxrgalmY.png.webp"><img src="/userfiles/preview/OpX2Wzru-eITrooM8LKwGgtsgxrgalmY.png" alt="Появилось видео строительства ЖК за ТЦ &quot;Метро&quot;" loading="lazy"></picture>                    </div>
+                </a>
+                        <div class="news-item__bottom">
+                <div class="news-info">
+                    <div class="sections-name">
+                        <i class="sections-i" style="background: #6aa84f;"></i>                        <a href="/samara">Самара</a>                    </div>
+                    <div class="news-date">14 минут назад</div>
+                </div>
+                <a href="/samara/view/poavilos-video-stroitelstva-zk-za-tc-metro"><h3 class="main-h3">Появилось видео строительства ЖК за ТЦ "Метро"</h3></a>
+            </div>
+        </div>
+    </div>
+            
+<div class="news-list">
+                        <div class="other-news">
+                <div class="news-info">
+                    <p class="sections-name">
+                        <i class="sections-i" style="background: #6aa84f;"></i>                        <a href="/samara">Самара</a>                    </p>
+                    <p class="news-date">2 часа назад</p>
+                </div>
+                <div class="other-news-item">
+                    <a href="/samara/view/v-samare-ludi-provalilis-pod-led">
+                        <h3 class="other-news-name">В Самаре люди провалились под лед</h3>
+                    </a>
+                </div>
+            </div>
+                                <div class="other-news">
+                <div class="news-info">
+                    <p class="sections-name">
+                        <i class="sections-i" style="background: #6aa84f;"></i>                        <a href="/samara">Самара</a>                    </p>
+                    <p class="news-date">2 часа назад</p>
+                </div>
+                <div class="other-news-item">
+                    <a href="/samara/view/v-politehe-poavilsa-svoj-ataman">
+                        <h3 class="other-news-name">В политехе появился свой атаман</h3>
+                    </a>
+                </div>
+            </div>
+                                <div class="other-news">
+                <div class="news-info">
+                    <p class="sections-name">
+                        <i class="sections-i" style="background: #6aa84f;"></i>                        <a href="/samara">Самара</a>                    </p>
+                    <p class="news-date">3 часа назад</p>
+                </div>
+                <div class="other-news-item">
+                    <a href="/samara/view/v-samarskoj-oblasti-zensina-raspustila-ruki-i-polucila-3-goda-turmy">
+                        <h3 class="other-news-name">В Самарской области женщина распустила руки и получила 3 года тюрьмы</h3>
+                    </a>
+                </div>
+            </div>
+            </div>            
+    <div class="news-item ">
+        <div class="news-item__content">
+                            <a href="/samara/view/samarcanka-perevela-18-mln-rublej-mosennikam">
+                    <div class="news-item__image">
+                        <picture><source type="image/webp" srcset="/userfiles/webp/-min-jxETES5Nb8fODmfDGnfN5iR5CuWAAiJo.jpg.webp" media="(max-width: 480px)"><source type="image/webp" srcset="/userfiles/webp/-middle-jxETES5Nb8fODmfDGnfN5iR5CuWAAiJo.jpg.webp" media="(max-width: 764px)"><source srcset="/userfiles/min/jxETES5Nb8fODmfDGnfN5iR5CuWAAiJo.jpg" media="(max-width: 480px)"><source srcset="/userfiles/middle/jxETES5Nb8fODmfDGnfN5iR5CuWAAiJo.jpg" media="(max-width: 764px)"><source type="image/webp" srcset="/userfiles/webp/-preview-jxETES5Nb8fODmfDGnfN5iR5CuWAAiJo.jpg.webp"><img src="/userfiles/preview/jxETES5Nb8fODmfDGnfN5iR5CuWAAiJo.jpg" alt="Самарчанка перевела 1,8 млн рублей мошенникам" loading="lazy"></picture>                    </div>
+                </a>
+                        <div class="news-item__bottom">
+                <div class="news-info">
+                    <div class="sections-name">
+                        <i class="sections-i" style="background: #6aa84f;"></i>                        <a href="/samara">Самара</a>                    </div>
+                    <div class="news-date">4 дня назад</div>
+                </div>
+                <a href="/samara/view/samarcanka-perevela-18-mln-rublej-mosennikam"><h3 class="main-h3">Самарчанка перевела 1,8 млн рублей мошенникам</h3></a>
+            </div>
+        </div>
+    </div>
+            
+    <div class="news-item">
+        <div class="text-center adf-ins"><div id="63f34de7e22c3"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 345202,
+            containerId: '63f34de7e22c3',
+            params: {
+                p1: 'cuncy',
+                p2: 'hryy'
+            }
+        })
+    })
+</script></div>    </div>
+        </div>
+
+        
+        <h2 class="cdr-name">Актуальное</h2>
+        <div class="popular-news col-3 col-border-r">
+            
+<div class="news-list">
+                        <div class="other-news">
+                <div class="news-info">
+                    <p class="sections-name">
+                        <i class="sections-i" style="background: #6aa84f;"></i>                        <a href="/samara">Самара</a>                    </p>
+                    <p class="news-date">3 часа назад</p>
+                </div>
+                <div class="other-news-item">
+                    <a href="/samara/view/5-avtobusov-vremenno-budut-hodit-po-drugomu">
+                        <h3 class="other-news-name">5 автобусов временно будут ходить по-другому</h3>
+                    </a>
+                </div>
+            </div>
+                                <div class="other-news">
+                <div class="news-info">
+                    <p class="sections-name">
+                        <i class="sections-i" style="background: #6aa84f;"></i>                        <a href="/samara">Самара</a>                    </p>
+                    <p class="news-date">3 часа назад</p>
+                </div>
+                <div class="other-news-item">
+                    <a href="/samara/view/v-samare-postroat-mnogoetazku-s-007-parkovocnym-mestom-na-kvartiru">
+                        <h3 class="other-news-name">В Самаре построят многоэтажку с 0,07 парковочным местом на квартиру</h3>
+                    </a>
+                </div>
+            </div>
+                                <div class="other-news">
+                <div class="news-info">
+                    <p class="sections-name">
+                        <i class="sections-i" style="background: #6aa84f;"></i>                        <a href="/samara">Самара</a>                    </p>
+                    <p class="news-date">4 часа назад</p>
+                </div>
+                <div class="other-news-item">
+                    <a href="/samara/view/uze-za-mart-novye-rashody-na-soderzanie-kvartiry-poavatsa-v-platezkah">
+                        <h3 class="other-news-name">Уже за март: новые расходы на содержание квартиры появятся в платежках</h3>
+                    </a>
+                </div>
+            </div>
+            </div>            
+<div class="news-list">
+                        <div class="other-news">
+                <div class="news-info">
+                    <p class="sections-name">
+                        <i class="sections-i" style="background: #6aa84f;"></i>                        <a href="/samara">Самара</a>                    </p>
+                    <p class="news-date">4 часа назад</p>
+                </div>
+                <div class="other-news-item">
+                    <a href="/samara/view/mobilizovannye-samarcy-izvinilis-za-videoobrasenie-o-svoih-problemah">
+                        <h3 class="other-news-name">Мобилизованные самарцы извинились за видеообращение о своих проблемах</h3>
+                    </a>
+                </div>
+            </div>
+                                <div class="other-news">
+                <div class="news-info">
+                    <p class="sections-name">
+                        <i class="sections-i" style="background: #6aa84f;"></i>                        <a href="/samara">Самара</a>                    </p>
+                    <p class="news-date">5 часов назад</p>
+                </div>
+                <div class="other-news-item">
+                    <a href="/samara/view/samaru-zasyplet-snegom">
+                        <h3 class="other-news-name">Самару засыплет снегом</h3>
+                    </a>
+                </div>
+            </div>
+                                <div class="other-news">
+                <div class="news-info">
+                    <p class="sections-name">
+                        <i class="sections-i" style="background: #6aa84f;"></i>                        <a href="/samara">Самара</a>                    </p>
+                    <p class="news-date">14 часов назад</p>
+                </div>
+                <div class="other-news-item">
+                    <a href="/samara/view/obavleno-na-10-marta-minoborony-rossii-sdelalo-vaznoe-zaavlenie-po-casticnoj-mobilizacii">
+                        <h3 class="other-news-name">Объявлено на 10 марта: Минобороны России сделало важное заявление по частичной мобилизации</h3>
+                    </a>
+                </div>
+            </div>
+            </div>            
+    <div class="news-item ">
+        <div class="news-item__content">
+                            <a href="/samara/view/zena-samarskogo-generala-kolotovkina-otpravilas-v-zonu-specoperacii">
+                    <div class="news-item__image">
+                        <picture><source type="image/webp" srcset="/userfiles/webp/-min-cEa-b6CGw8RQiTa9G5m4c9YLgXpch5g7.png.webp" media="(max-width: 480px)"><source type="image/webp" srcset="/userfiles/webp/-middle-cEa-b6CGw8RQiTa9G5m4c9YLgXpch5g7.png.webp" media="(max-width: 764px)"><source srcset="/userfiles/min/cEa-b6CGw8RQiTa9G5m4c9YLgXpch5g7.png" media="(max-width: 480px)"><source srcset="/userfiles/middle/cEa-b6CGw8RQiTa9G5m4c9YLgXpch5g7.png" media="(max-width: 764px)"><source type="image/webp" srcset="/userfiles/webp/-preview-cEa-b6CGw8RQiTa9G5m4c9YLgXpch5g7.png.webp"><img src="/userfiles/preview/cEa-b6CGw8RQiTa9G5m4c9YLgXpch5g7.png" alt="Жена самарского генерала Колотовкина отправилась в зону спецоперации" loading="lazy"></picture>                    </div>
+                </a>
+                        <div class="news-item__bottom">
+                <div class="news-info">
+                    <div class="sections-name">
+                        <i class="sections-i" style="background: #6aa84f;"></i>                        <a href="/samara">Самара</a>                    </div>
+                    <div class="news-date">4 дня назад</div>
+                </div>
+                <a href="/samara/view/zena-samarskogo-generala-kolotovkina-otpravilas-v-zonu-specoperacii"><h3 class="main-h3">Жена самарского генерала Колотовкина отправилась в зону спецоперации</h3></a>
+            </div>
+        </div>
+    </div>
+        </div>
+
+        
+        
+    <div class="fav-w">
+        <div class="text-center adf-ins"><div id="63f34de7e22cd"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 345202,
+            containerId: '63f34de7e22cd',
+            params: {
+                p1: 'cuncz',
+                p2: 'hryz'
+            }
+        })
+    })
+</script></div>    </div>
+
+        
+
+        <div class="o-news col-3 col-border-t col-border-r">
+            
+<div class="news-list">
+                        <div class="other-news">
+                <div class="news-info">
+                    <p class="sections-name">
+                        <i class="sections-i" style="background: #6aa84f;"></i>                        <a href="/samara">Самара</a>                    </p>
+                    <p class="news-date">21 час назад</p>
+                </div>
+                <div class="other-news-item">
+                    <a href="/samara/view/v-samare-kontraktniki-otpravatsa-v-koloniu-na-2-goda">
+                        <h3 class="other-news-name">В Самаре контрактники отправятся в колонию на 2 года</h3>
+                    </a>
+                </div>
+            </div>
+                                <div class="other-news">
+                <div class="news-info">
+                    <p class="sections-name">
+                        <i class="sections-i" style="background: #6aa84f;"></i>                        <a href="/samara">Самара</a>                    </p>
+                    <p class="news-date">5 дней назад</p>
+                </div>
+                <div class="other-news-item">
+                    <a href="/samara/view/samarskie-startapery-zaavili-cto-zdali-krizisa-ctoby-vzletet">
+                        <h3 class="other-news-name">Самые выгодные предложения Самары. Скидки до 90%</h3>
+                    </a>
+                </div>
+            </div>
+                                <div class="other-news">
+                <div class="news-info">
+                    <p class="sections-name">
+                        <i class="sections-i" style="background: #6aa84f;"></i>                        <a href="/samara">Самара</a>                    </p>
+                    <p class="news-date">21 час назад</p>
+                </div>
+                <div class="other-news-item">
+                    <a href="/samara/view/nasli-podradcika-dla-blagoustrojstva-treh-parkov-i-skvera-samary">
+                        <h3 class="other-news-name">Нашли подрядчика для благоустройства трех парков и сквера Самары</h3>
+                    </a>
+                </div>
+            </div>
+            </div>            
+    <div class="news-item ">
+        <div class="news-item__content">
+                            <a href="/samara/view/v-samarskoj-oblasti-arestovali-celoveka-v-nebe">
+                    <div class="news-item__image">
+                        <picture><source type="image/webp" srcset="/userfiles/webp/-min-aLwyX75Bj0ikEjouUIQ7arNq1tn9NfkY.jpg.webp" media="(max-width: 480px)"><source type="image/webp" srcset="/userfiles/webp/-middle-aLwyX75Bj0ikEjouUIQ7arNq1tn9NfkY.jpg.webp" media="(max-width: 764px)"><source srcset="/userfiles/min/aLwyX75Bj0ikEjouUIQ7arNq1tn9NfkY.jpg" media="(max-width: 480px)"><source srcset="/userfiles/middle/aLwyX75Bj0ikEjouUIQ7arNq1tn9NfkY.jpg" media="(max-width: 764px)"><source type="image/webp" srcset="/userfiles/webp/-preview-aLwyX75Bj0ikEjouUIQ7arNq1tn9NfkY.jpg.webp"><img src="/userfiles/preview/aLwyX75Bj0ikEjouUIQ7arNq1tn9NfkY.jpg" alt="В Самарской области оштрафовали человека в небе" loading="lazy"></picture>                    </div>
+                </a>
+                        <div class="news-item__bottom">
+                <div class="news-info">
+                    <div class="sections-name">
+                        <i class="sections-i" style="background: #6aa84f;"></i>                        <a href="/samara">Самара</a>                    </div>
+                    <div class="news-date">4 дня назад</div>
+                </div>
+                <a href="/samara/view/v-samarskoj-oblasti-arestovali-celoveka-v-nebe"><h3 class="main-h3">В Самарской области оштрафовали человека в небе</h3></a>
+            </div>
+        </div>
+    </div>
+            
+    <div class="news-item ">
+        <div class="news-item__content">
+                            <a href="/samara/view/v-srednem-polucaut-73-tysaci-rublej-kakie-professii-samye-vysokooplacivaemye">
+                    <div class="news-item__image">
+                        <picture><source type="image/webp" srcset="/userfiles/webp/-min--YM5xC5M-HDEggOe8T2o6mkucSLMonMU.jpg.webp" media="(max-width: 480px)"><source type="image/webp" srcset="/userfiles/webp/-middle--YM5xC5M-HDEggOe8T2o6mkucSLMonMU.jpg.webp" media="(max-width: 764px)"><source srcset="/userfiles/min/-YM5xC5M-HDEggOe8T2o6mkucSLMonMU.jpg" media="(max-width: 480px)"><source srcset="/userfiles/middle/-YM5xC5M-HDEggOe8T2o6mkucSLMonMU.jpg" media="(max-width: 764px)"><source type="image/webp" srcset="/userfiles/webp/-preview--YM5xC5M-HDEggOe8T2o6mkucSLMonMU.jpg.webp"><img src="/userfiles/preview/-YM5xC5M-HDEggOe8T2o6mkucSLMonMU.jpg" alt="В среднем получают 73 тысячи рублей. Какие профессии самые высокооплачиваемые?" loading="lazy"></picture>                    </div>
+                </a>
+                        <div class="news-item__bottom">
+                <div class="news-info">
+                    <div class="sections-name">
+                        <i class="sections-i" style="background: #6aa84f;"></i>                        <a href="/samara">Самара</a>                    </div>
+                    <div class="news-date">5 дней назад</div>
+                </div>
+                <a href="/samara/view/v-srednem-polucaut-73-tysaci-rublej-kakie-professii-samye-vysokooplacivaemye"><h3 class="main-h3">В среднем получают 73 тысячи рублей. Какие профессии самые высокооплачиваемые?</h3></a>
+            </div>
+        </div>
+    </div>
+        </div>
+
+        <div class="bottom-block col-2 col-border-t col-border-r">
+            
+    <div class="news-item">
+        <div class="text-center adf-ins"><!--Площадка: samaraonline24.ru / Desktop / B4_desktop-->
+<div id="63f34de7e22d8"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 345202,
+            containerId: '63f34de7e22d8',
+            params: {
+                p1: 'cunda',
+                p2: 'hrza'
+            }
+        })
+    })
+</script></div>    </div>
+            
+    <div class="news-item ">
+        <div class="news-item__content">
+                            <a href="/interesnoe/view/ocen-bolsie-vygody-v-samare">
+                    <div class="news-item__image">
+                        <picture><source type="image/webp" srcset="/userfiles/webp/-min-VHWoNb6MAqEI_3cpwW4xQXJK7zdMuooU.jpg.webp" media="(max-width: 480px)"><source type="image/webp" srcset="/userfiles/webp/-middle-VHWoNb6MAqEI_3cpwW4xQXJK7zdMuooU.jpg.webp" media="(max-width: 764px)"><source srcset="/userfiles/min/VHWoNb6MAqEI_3cpwW4xQXJK7zdMuooU.jpg" media="(max-width: 480px)"><source srcset="/userfiles/middle/VHWoNb6MAqEI_3cpwW4xQXJK7zdMuooU.jpg" media="(max-width: 764px)"><source type="image/webp" srcset="/userfiles/webp/-middle-VHWoNb6MAqEI_3cpwW4xQXJK7zdMuooU.jpg.webp"><img src="/userfiles/middle/VHWoNb6MAqEI_3cpwW4xQXJK7zdMuooU.jpg" alt="Самарцы в шоке от посленовогодних цен" loading="lazy"></picture>                    </div>
+                </a>
+                        <div class="news-item__bottom">
+                <div class="news-info">
+                    <div class="sections-name">
+                        <i class="sections-i" style=""></i>                        <a href="/interesnoe">Интересное</a>                    </div>
+                    <div class="news-date">5 дней назад</div>
+                </div>
+                <a href="/interesnoe/view/ocen-bolsie-vygody-v-samare"><h3 class="main-h3">Самарцы в шоке от посленовогодних цен</h3></a>
+            </div>
+        </div>
+    </div>
+        </div>
+
+    </div>
+
+            </div>
+    </div>
+
+    
+<div class="text-center adf-ins"><div class="container m-t"><!--AdFox START-->
+<!--yandex_ProgorodSamaraRSYA-->
+<!--Площадка: samaraonline24.ru / Desktop / B5_desktop-->
+<!--Категория: <не задана>-->
+<!--Тип баннера: B5-->
+<div id="63f34de7e22e0"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 345202,
+            containerId: '63f34de7e22e0',
+            params: {
+                p1: 'cundb',
+                p2: 'hrzb'
+            }
+        })
+    })
+</script>
+</div></div>
+<footer>
+    <div class="container">
+        <div class="col-flex footer-row1">
+            <div>
+                <h3>Размещение рекламы</h3>
+                <ul>
+                                            <li><a href="tel:+79871592778">+7 (987) 159-27-78</a></li>
+                                            <li><a href="mailto:reklama@samaraonline24.ru">reklama@samaraonline24.ru</a></li>
+                                    </ul>
+            </div>
+                             <div class="counters">
+                    <h3>Наша статистика</h3>
+                    <a href="https://metrika.yandex.ru/stat/?id=57266584&from=informer"
+target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/57266584/3_1_FFFFFFFF_EFEFEFFF_0_pageviews"
+style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="57266557" data-lang="ru" /></a><a href="https://www.liveinternet.ru/click"
+target="_blank"><img src="https://counter.yadro.ru/logo?14.10"
+title="LiveInternet: показано число просмотров и посетителей за 24 часа"
+alt="" style="border:0" width="88" height="31"/></a><a href="http://top.mail.ru/jump?from=3121529"> 
+<img src="//top-fwz1.mail.ru/counter?id=3121529;t=476;l=1" style="border:0;" height="31" width="88" alt="Рейтинг@Mail.ru">
+</a>                </div>
+                     </div>
+
+        
+
+        <div class="footer-row3 footer-copyright">
+            <p>Наименование: сетевое издание SAMARAONLINE24 (САМАРАОНЛАЙН24) 
+<br>Учредитель: ООО «Город Самара». 
+<br>Главный редактор: Чувилин А.С. <br>Сетевое издание «SAMARAONLINE24» зарегистрировано Роскомнадзором, регистрационный номер серии ЭЛ № ФС 77-79069 от 15 сентября 2020 года
+<br>Возрастная категория сайта 16+
+<br>
+«Samaraonline24» © 2014. Использование материалов сайта Samaraonline24 разрешено исключительно с указанием активной гиперссылки на материал.
+<br/><br/>Связаться с редакцией:  info@samaraonline24, +7 (917) 965-73-21</p>
+        </div>
+        <div class="footer-row4 col-flex">
+            <div>
+                © 2022 «samaraOnline24» | Все права защищены
+            </div>
+            <div>
+                Возрастная категория сайта 16+
+            </div>
+            <div>
+                Политика конфиденциальности
+            </div>
+        </div>
+
+    </div>
+
+</footer>
+
+
+<div class="pi_bottom_fix text-center adf-ins"><div class="container"><div id="63f34de7e22ea"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 345202,
+            containerId: '63f34de7e22ea',
+            params: {
+                p1: 'cwkdr',
+                p2: 'hybp'
+            }
+        })
+    })
+</script></div></div>    <script src="/assets/min/fcead6fba2318d17cafefc8d6ab4649a.js" async></script>    </body>
+    </html>

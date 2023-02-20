@@ -1,0 +1,1359 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="UTF-8">
+	<title>Вкусные домашние рецепты приготовления блюд с фото пошагово - 1000.menu</title>
+	
+			<link rel="canonical" href="/">
+		
+	
+	<meta name='description' content='Удобный поиск рецептов по продуктам, калориям, времени итд. Своя кулинарная книга, изменение порций, отзывы, печать, фото пошагово'>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<script id="loadcss"></script>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+	
+	<script src="//static.1000.menu/style/js/jquery.ui.touch-punch.v108.js"></script>
+
+	
+	<link rel='stylesheet' href='//static.1000.menu/style/css/general.v1659637178.css'>
+	
+	<script src="//static.1000.menu/style/js/i18n/general/ru.v1660324751.js"></script>
+	
+	<script>var xrumka_glob = {"cdn_prefix":"\/\/static.1000.menu","cdn_resize_modes":{"s":380,"m":640,"l":960}};</script>
+
+	<script src='//static.1000.menu/style/js/general.v1662622848.js'></script>
+
+	
+	<script async src="https://yastatic.net/share2/share.js"></script>
+	
+	<meta property="og:type" content="website" />	
+
+	<meta property="og:url" content="https://1000.menu/" />
+	
+	<meta property="og:image" content='https://static.1000.menu/style/images/og_img_default.jpg' />
+
+	
+	<meta property="og:title" content='Вкусные домашние рецепты приготовления блюд с фото пошагово' />
+	<meta property="og:description" content='Удобный поиск рецептов по продуктам, калориям, времени итд. Своя кулинарная книга, изменение порций, отзывы, печать, фото пошагово' />
+	
+	<link rel="search" type="application/opensearchdescription+xml" title="1000.menu" href="//static.1000.menu/opensearch.xml">
+	
+	<link rel="alternate" type="application/atom+xml" title="Новости Хрумки - 1000.menu" href="https://1000.menu/feed/news">
+    <meta name="csrf-params" content="_token:b2ff4b34eef042eea094ead7ce56ef81">
+	
+	<meta name="p:domain_verify" content="2053338a33fa4a3e91b369f3c746f332"/>
+	
+	
+	
+	<meta name="wot-verification" content="d3a575115987d5c84fe8"/>
+	<meta name="pmail-verification" content="75049306cd337da6eeb56bcd4c57a30c">
+	<script>
+		// non-critical css
+		loadCSS([
+			"https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/ui-lightness/jquery-ui.css",
+			"//static.1000.menu/style/css/svg_sprite/iface/css/sprite.v1638045267.css",
+			"https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css"
+		]);
+	</script>
+
+	<link rel='shortcut icon' type="image/svg+xml" href='//static.1000.menu/style/images/logo-min.svg'>
+	<link rel="icon" type="image/svg+xml" href="//static.1000.menu/style/images/logo-min.svg">
+	<link rel="alternate icon" href="//static.1000.menu/favicon.ico">
+</head>
+<body itemscope itemtype="http://schema.org/WebPage"><div id="body-wrap">
+	<div id='site-analytics' style='display:none'>
+
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-NTJXG7P');</script>
+		<!-- End Google Tag Manager -->
+
+		<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NTJXG7P"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
+		
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-16603091-1', 'auto');
+		  ga('require', 'displayfeatures');
+		  		  ga('send', 'pageview');
+			
+		  /* accurate bounce rate by time */
+		  if(!document.referrer || document.referrer.split('/')[2].indexOf(location.hostname) != 0){
+			setTimeout(function(){
+				ga('send', 'event', 'New visitor', location.pathname);
+			}, 15000);
+		  }
+		</script>
+
+		<!--LiveInternet counter--><script>
+		document.write("<a href='//www.liveinternet.ru/click' "+
+		"target=_blank><img src='//counter.yadro.ru/hit?t44.6;r"+
+		escape(document.referrer)+((typeof(screen)=="undefined")?"":
+		";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+		screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+		";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+		"' alt='' title='LiveInternet' "+
+		"border='0' width='1' height='1'><\/a>")
+		</script><!--/LiveInternet-->
+
+		<!-- Yandex.Metrika counter -->
+		<script>
+		(function (d, w, c) {
+			(w[c] = w[c] || []).push(function() {
+				try {
+					w.yaCounter26508075 = new Ya.Metrika({id:26508075,
+							webvisor:true,
+							clickmap:true,
+							trackLinks:true,
+							accurateTrackBounce:true});
+				} catch(e) { }
+			});
+
+			var n = d.getElementsByTagName("script")[0],
+				s = d.createElement("script"),
+				f = function () { n.parentNode.insertBefore(s, n); };
+			s.type = "text/javascript";
+			s.async = true;
+			s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+			if (w.opera == "[object Opera]") {
+				d.addEventListener("DOMContentLoaded", f, false);
+			} else { f(); }
+		})(document, window, "yandex_metrika_callbacks");
+		</script>
+		<noscript><div><img src="//mc.yandex.ru/watch/26508075" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+		<!-- /Yandex.Metrika counter -->
+
+			</div>
+	<div id='init-scripts' style='display:none'>
+	<script>
+		iface.me.set({"uid":0,"utype":-1,"lvl":0,"lang":"ru"});
+iface.svg_sprites.load("iface")	</script>
+</div>
+<nav class="top">
+
+	<div class="search-overlay-wrap"></div>
+
+	<div class="container wrap">
+		<div class="columns is-mobile is-gapless">
+
+			<div class="is-hidden-desktop menu-mobile-overlay hidden"></div>
+			
+			<div class="column is-hidden-desktop is-narrow level is-mobile">
+
+				<div class="level is-mobile">
+					<div class="level-item">
+
+						<a href="#" class="top-menu-opener hamburger hamburger--spin level-item no-user-select">
+							<span class="hamburger-box">
+								<span class="hamburger-inner"></span>
+							</span>
+						</a>
+					</div>
+				</div>
+			</div>
+			
+			<div class="column is-hidden-touch is-narrow">
+				<div class="level">
+					<div class="level-item">
+						<a href="/" class="logo">
+							<img src="//static.1000.menu/style/images/logo.svg" alt="На главную">
+						</a>
+					</div>
+				</div>
+			</div>
+			
+			<div class="column is-hidden-touch menu-mobile is-narrow">
+				<div class="level">
+					<div class="level-item">
+						<div id="top-search-panel" class="top-menu-list-item">
+	<form method="GET" action="/cooking/search" class="is-relative">
+		<input type="hidden" name="ms" value="1">
+
+		<label id="top-search-panel-input-label">
+			<input name="str" type="text" size="16" id="top-search-panel-input" class="is-hidden-desktop-only" placeholder="Поиск">
+
+			<a href="#" id="top-search-submit"><svg class="icon abs-middle"><use href="#iface-search"/></svg></a>
+			
+		</label>
+
+		<div id="top-search-panel-found-results"></div>
+
+		<div class="search-panel-details is-hidden-desktop links-default-style white-space-reset">
+
+			<div id="top-search-panel-tags-info" class="fb-s" style="display:none">
+				<p class="bi alert" style="display:none">В поиск можно добавлять максимально <strong>10</strong> категорий!</p>
+				Поиск по категориям:
+			</div>
+	
+			<div id="top-search-panel-tags" class="hidden-empty fb-s"></div>
+
+			<div id="top-search-panel-submit" class="cb-box text-ellipsed mt-2" style="display:none">
+				<button type="submit" class="success with-icon">
+					<svg class="icon"><use href="#iface-search"/></svg>
+					Начать поиск				</button>
+			</div>
+
+			<div class="nav">
+				
+				<span class="helper-icon isp q helper-q" title='&lt;div&gt;&lt;strong&gt;Как искать по категориям:&lt;/strong&gt;&lt;/div&gt; Начни вводить название блюда или продукта. Найденные категории появятся в выпадающем списке под строкой поиска. Выбери и нажми на соответствующую категорию. Это действие можно повторить несколько раз, чтобы найти рецепты включающие в себя сразу же несколько категорий (до 10). Нажми на кнопку с иконкой поиска (&lt;svg class=&quot;icon small&quot;&gt;&lt;use href=&quot;#iface-search&quot;/&gt;&lt;/svg&gt;), чтобы подтвердить свой выбор и начать поиск.'></span>
+				
+				<div class="is-hidden-touch fb-s text-ellipsed">
+					<ul class="links-list with-icons px-0 my-0">
+						<li class="item mt-1">
+							<a href="javascript:void(0)" onclick="iface.popup_all_cats()"><svg class="icon"><use href="#iface-tree-circles"/></svg>Смотри весь каталог</a>
+						</li>
+						<li class="item mb-1">
+							<a href="/cooking/search"><svg class="icon"><use href="#iface-wand"/></svg>Расширенный поиск</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</form>
+
+	<div id="extended-search-link-wrap" class="is-hidden-desktop">
+		<a href="/cooking/search" class="pl-2 pb-2 bl link-no-style font-default-color">
+			<svg class="icon mr-1 line-sized va-base"><use href="#iface-wand"></use></svg>
+			Расширенный поиск		</a>
+	</div>
+</div>
+					</div>
+				
+					<div class="main-menu level-item">
+						<ul class="columns is-desktop is-gapless">
+
+	<li class="is-hidden-desktop">
+		<a href="#" data-fancybox data-src="https://www.youtube.com/watch?v=IYnw-RT0Y5M">
+			<svg class="icon inlbl va-base"><use href="#iface-pin"/></svg>
+			<strong class="font-size-reset">На телефоне</strong>
+			<span class="info">- смотри, как добавить ярлык 1000.menu на главный экран телефона (Андроид).</span>
+		</a>
+	</li>
+
+	<li class="is-hidden-desktop">
+		<a href="/">
+			<svg class="icon inlbl va-base"><use href="#iface-home"/></svg>
+			<strong class="font-size-reset">Главная</strong>
+			<span class="info">- рецепты, советы, статьи, фото, отзывы, комментарии и многое другое!</span>
+		</a>
+	</li>
+
+	
+	<li class="column is-narrow">
+		
+		<a href='javascript:void(0)' class="is-hidden-mobile is-hidden-tablet-only">
+			<svg class="icon inlbl va-m"><use href="#iface-squares-grid"/></svg>
+			<span class="is-hidden-desktop">Полезное</span>
+		</a>
+		
+		<ul class="mob-opened">
+
+			<li class="is-hidden-mobile is-hidden-tablet-only">
+				<a href="/cooking/search">
+					<svg class="icon"><use href="#iface-search"/></svg>
+					Расширенный поиск				</a>
+			</li>
+
+			<li>
+				<a href="/foto-otchety">
+					<svg class="icon"><use href="#iface-photo-report"/></svg>
+					Фотоотчеты и комментарии
+				</a>
+			</li>
+
+			<li>
+				<a href="/advice">
+					<svg class="icon"><use href="#iface-advice"/></svg>
+					Советы
+				</a>
+			</li>
+
+			<li>
+				<a href='/forum'>
+					<svg class="icon"><use href="#iface-bubble"/></svg>
+					Форум				</a>
+			</li>
+
+			<li class="is-hidden-desktop">
+				<a href='/contest'>
+					<svg class="icon"><use href="#iface-trophy"/></svg>
+					Конкурсы				</a>
+			</li>
+
+			<li class="as-header">
+				Инструменты
+			</li>
+
+			<li>
+				<a href="javascript:void(0)" onclick="iface.popup_all_cats()">
+					<svg class="icon"><use href="#iface-tree-circles"/></svg>
+					Каталог
+				</a>
+			</li>
+
+			<li>
+				<a href='javascript:void(0)'>
+					<svg class="icon"><use href="#iface-calc"/></svg>
+					Калькуляторы				</a>
+				
+				<ul id="site_calcs_menu_list">
+					<li>
+						<a href='/table/14889-schitai-kalorii-i-xudei#calculator'>Калькулятор калорий для похудения онлайн</a>
+					</li>
+					<li>
+						<a href='/table/14969-onlain-kalkulyator-uksusa#calculator'>Калькулятор концентрации уксуса</a>
+					</li>
+					<li>
+						<a href='/calc-food-calories'>Калькулятор калорийности продуктов</a>
+					</li>
+					<li>
+						<a href='/table/24260-saxar-polza-i-vred#calculator'>Калькулятор замены сахара</a>
+					</li>
+				</ul>
+			</li>
+
+			<li>
+				<a href='javascript:void(0)'>
+					<svg class="icon color-mono"><use href="#iface-cals"/></svg>
+					Таблицы продуктов				</a>
+				
+				<ul>
+					<li>
+						<a href='/food-table'>Таблица <span class="text-underlined">калорийности</span> продуктов</a>
+					</li>
+					<li>
+						<a href='/food-table/gindex'>Таблица <span class="text-underlined">гликемического индекса</span> продуктов</a>
+					</li>
+					<li>
+						<a href='/food-table/proteins'>Таблица содержания <span class="text-underlined">белков</span> в продуктах</a>
+					</li>
+					<li>
+						<a href='/food-table/fats'>Таблица содержания <span class="text-underlined">жиров</span> в продуктах</a>
+					</li>
+					<li>
+						<a href='/food-table/carbs'>Таблица содержания <span class="text-underlined">углеводов</span> в продуктах</a>
+					</li>
+				</ul>
+			</li>
+
+			<li>
+				<a href='/slovar'>
+					<svg class="icon"><use href="#iface-dict"/></svg>
+					Кулинарный словарь				</a>
+			</li>
+
+			<li>
+				<a href="javascript:void(0)">
+					<svg class="icon"><use href="#iface-q"/></svg>
+					Помощь
+				</a>
+
+				<ul>
+					<li>
+						<a href="/table/12390-kulinarnaya-kniga">
+							<svg class="icon"><use href="#iface-q"/></svg>
+							Рецептосохранялка						</a>
+					</li>
+
+					<li>
+
+						<a href="javascript:void(0)">
+							<svg class="icon"><use href="#iface-q"/></svg>
+							Работа на сайте
+						</a>
+						
+
+						<ul>
+							<li>
+								<a href="/dobavlenie-receptov-po-zakazu">
+									<svg class="icon"><use href="#iface-q"/></svg>
+									Как начать зарабатывать на Хрумке
+								</a>
+							</li>
+
+							<li>
+								<a href="/forum/rabota">
+									<svg class="icon"><use href="#iface-q"/></svg>
+									Как брать в работу рецепты (форум)
+								</a>
+							</li>
+						</ul>
+
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+
+	<li class="column is-narrow">
+		
+		<a href='javascript:void(0)' class="is-hidden-mobile is-hidden-tablet-only">
+			<svg class="icon is-hidden-desktop"><use href="#iface-book"/></svg>
+			Рецептосохранялка
+		</a>
+		
+		<ul class="mob-opened">
+
+			<li class="as-header is-hidden-desktop">
+				Рецептосохранялка
+			</li>
+
+			<li class="white-space-reset">
+									<a href="javascript:void(0)" onclick="loginbl(1, imes.get('kk_only_registered_users', null, '<a href=\'/c/12390\'>$1</a>'))">
+										<svg class="icon"><use href="#iface-book"/></svg>
+						<strong class="font-size-reset">Моя Рецептосохранялка</strong>
+						<span class="info">- кулинария со всего интернета у тебя всегда под рукой!</span>
+					</a>
+			</li>
+
+			
+			<li>
+									<a href="javascript:void(0)" onclick="loginbl(1, imes.get('kk_only_registered_users', null, '<a href=\'/c/12390\'>$1</a>'))">
+										<svg class="icon"><use href="#iface-note"/></svg>
+						Добавить новую заметку					</a>
+			</li>
+
+			<li class="divider is-hidden-mobile is-hidden-tablet-only"></li>
+			
+			<li class="is-hidden-mobile is-hidden-tablet-only">
+				<a href="/table/12390-kulinarnaya-kniga">
+					<svg class="icon"><use href="#iface-q"/></svg>
+					Как пользоваться Рецептосохранялкой
+				</a>
+			</li>
+			
+		</ul>
+	</li> 
+
+	<li class="column is-narrow">
+		
+		<a href='javascript:void(0)' class="is-hidden-mobile is-hidden-tablet-only">
+			<svg class="icon is-hidden-desktop"><use href="#iface-chef"/></svg>
+			Каналы
+		</a>
+		
+		<ul class="mob-opened">
+
+			<li class="is-hidden-mobile is-hidden-tablet-only white-space-reset">
+				<a href="/">
+					<svg class="icon inlbl va-base"><use href="#iface-home"/></svg>
+					<strong class="font-size-reset">Главная</strong>
+					<span class="info">- рецепты, советы, статьи, фото, отзывы, комментарии и многое другое!</span>
+				</a>
+			</li>
+
+			<li class="as-header">
+				Подписанные кулинарные каналы
+			</li>
+
+			<li class="bi">
+			Регистрируйся и подписывайся на каналы своих <a href="/user/list">любимых кулинаров</a>!
+		</li>
+		</ul>
+	</li>
+
+	<li class="column is-narrow">
+		
+		<a href='javascript:void(0)' class="is-hidden-mobile is-hidden-tablet-only">
+			<svg class="icon is-hidden-desktop"><use href="#iface-money"/></svg>
+			Работа
+		</a>
+
+
+		<ul class="mob-opened">
+
+			<li class="as-header is-hidden-desktop">
+				Работа на сайте
+			</li>
+
+			<li class="white-space-reset">
+				<a href="/booking">
+					<svg class="icon"><use href="#iface-money"/></svg>
+					<strong class="font-size-reset">Работай с нами</strong>
+					<span class="info">- выбирай оплачиваемые рецепты и зарабатывай!</span>
+				</a>
+			</li>
+
+			<li class="divider is-hidden-mobile is-hidden-tablet-only"></li>
+
+			<li class="is-hidden-mobile is-hidden-tablet-only">
+				<a href="/dobavlenie-receptov-po-zakazu">
+					<svg class="icon"><use href="#iface-q"/></svg>
+					Как начать зарабатывать на Хрумке
+				</a>
+			</li>
+
+			<li class="is-hidden-mobile is-hidden-tablet-only">
+				<a href="/forum/rabota">
+					<svg class="icon"><use href="#iface-q"/></svg>
+					Как брать в работу рецепты (форум)
+				</a>
+			</li>
+		</ul>
+	</li>
+	
+	<li class="column is-narrow is-hidden-mobile is-hidden-tablet-only">
+		<a href='/contest'>
+			Конкурсы		</a>
+	</li>
+</ul>
+					</div>
+				</div>
+			</div>
+
+			<div class="column narrow-compensator"></div>
+			
+			<div class="column is-narrow is-pulled-right">
+				<div class="level is-mobile user-office">
+
+					
+					<div class="level-item mx-2">
+
+    <button id="add-stuff-top-bt" class="header-top-button my-0 py-2 px-3 cochandler">
+		<svg class="icon small color-success"><use href="#iface-plus"/></svg>
+		<span class="pl-1 ">Добавить …</span>
+	</button>
+
+	<div id="add-stuff-top-menu" class="popup-menu-list-dropdown line-color-success cocpopup">
+		<ul>
+			<li>
+				<a href="/cooking/add">
+					<svg class="icon"><use href="#iface-plate"/></svg>
+					Рецепт				</a>
+			</li>
+			
+			
+			<li>
+									<a href="javascript:void(0)" onclick="loginbl(1, imes.get('can_add_wall_mes_reg_users'))">
+										<svg class="icon"><use href="#iface-chef"/></svg>
+						Запись на стене					</a>
+			</li>
+
+
+			<li>
+									<a href="javascript:void(0)" onclick="loginbl(1, imes.get('kk_only_registered_users', null, '<a href=\'/c/12390\'>$1</a>'))">
+										<svg class="icon"><use href="#iface-note"/></svg>
+						Заметку в Рецептосохранялке					</a>
+			</li>
+
+				
+			
+		</ul>
+	</div>
+</div>
+					
+					<span class="level-item mr-2 button-container is-hidden-desktop">
+	<a 
+		href="javascript:void(0)" 
+		onclick="loginbl(1, imes.get('kk_only_registered_users', null, '<a href=\'/c/12390\'>$1</a>'))" 
+		class="level-item"
+		title="Рецептосохранялка"
+	>
+		<svg class="icon"><use href="#iface-book"/></svg>
+	</a>
+</span>
+
+					<div class="top-login-register level-item links-default-style">
+	<button onclick="loginbl()" class="my-0 py-2 with-icon header-top-button">
+		<svg class="icon"><use href="#iface-profile"/></svg>
+		Войти
+	</button>
+</div>
+
+				</div>
+			</div>
+
+		</div>
+	</div>
+</nav>
+<div id='main'>
+	<div class="noprint"><div id="ad-top-info-banner-mes"></div>
+
+<script>
+
+  (function(){
+
+    if(Math.random() > 0.5){
+
+      if(/^\/contest\/luchshii\-foto/.test(window.location.pathname)){
+        return;
+      }
+
+      $("#ad-top-info-banner-mes").html(
+        `<div class="container wrap">
+          <div class="column pb-0">
+            <div  class="debug mesbox info cursor-hand">
+              <div class="columns is-vcentered is-mobile">
+                <div class="column is-narrow">
+                  <div class="cstsp contest_in_small"></div>
+                </div>
+                <div class="column text-placeholder"></div>
+              </div>
+            </div>
+          </div>
+        </div>`
+      );
+
+      $("#ad-top-info-banner-mes").find('.text-placeholder').html(
+        iface.viewport_is('tablet') ? 
+          '<div>Добавляй фотоотчеты, участвуй в конкурсе и используй отличную возможность зарабатывать на своём увлечении! Авторов лучших фотоотчетов ждут денежные призы и <strong>ШАНС РАБОТАТЬ НА САЙТЕ</strong>! Подробности в <a href="/contest/now/photoreport">условиях конкурса</a>.</div>'
+          : 
+          '<div>Еженедельный конкурс с денежными призами! Победители получат <a href="/contest/now/photoreport"><strong>шанс работать на сайте</strong></a>!</div>'
+      );
+
+      $("#ad-top-info-banner-mes").find('.mesbox').click(function(){
+        window.location.href="/contest/now/photoreport";
+      });
+    }
+    else {
+      if(/^\/anketa/.test(window.location.pathname)){
+        return;
+      }
+
+      $("#ad-top-info-banner-mes").html(
+        `<div class="container wrap">
+          <div class="column pb-0">
+              <div class="debug mesbox cursor-hand" style="background: #ff5300;color: white;">
+              <div class="columns is-vcentered is-mobile">
+                <div class="column is-narrow">` + 
+                (
+                  !iface.viewport_is('desktop') ? 
+                    `<svg width="90" height="37" viewBox="0 0 90 37" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path d="M52.8715 32.3229C52.8783 32.2606 52.8783 32.1977 52.8715 32.1354C52.8709 32.0957 52.8815 32.0568 52.9022 32.0234C52.9228 31.99 52.9525 31.9638 52.9875 31.9479C54.0161 31.5263 55.0186 31.0388 55.9892 30.4882C56.787 30.0348 57.5163 29.4617 58.1535 28.7875C58.7412 28.1747 59.2054 27.4463 59.5191 26.6448C59.7606 25.921 59.9205 25.1705 59.9957 24.4084C60.0398 24.0244 59.9432 23.6371 59.7252 23.3237C59.3036 22.7672 58.697 22.3946 58.0247 22.2792C57.4324 22.284 56.8481 22.421 56.3112 22.6809C55.6944 22.9803 55.1182 23.363 54.5978 23.8192C54.0231 24.3378 53.4969 24.9117 53.0261 25.5333C52.5354 26.1867 52.1041 26.8861 51.7378 27.6224C51.3788 28.353 51.0939 29.1205 50.8875 29.9124C50.6846 30.6712 50.5806 31.4549 50.5784 32.2425C50.5671 33.3059 50.9527 34.3324 51.6542 35.1065C52.3556 35.8806 53.3183 36.342 54.3402 36.3939C55.3808 36.2378 56.356 35.7728 57.1486 35.0547C57.9868 34.3478 58.7165 33.5124 59.3129 32.5773C59.4289 32.3363 59.4289 32.2827 59.3773 32.1756C59.3258 32.0684 59.197 32.1086 59.0939 32.1756C58.9955 32.2796 58.905 32.3916 58.8234 32.5103C58.6984 32.6782 58.5651 32.8391 58.424 32.9924L58.3081 33.1264C57.9778 33.481 57.6249 33.8121 57.2517 34.1173C56.821 34.4574 56.3541 34.7449 55.8603 34.9744C55.3939 35.2226 54.877 35.3511 54.353 35.3494C54.0809 35.3574 53.8153 35.2622 53.6058 35.0815C53.4143 34.9133 53.2679 34.6965 53.1807 34.4521C53.0734 34.2013 53.0039 33.9348 52.9746 33.662C52.9536 33.3946 52.9536 33.1259 52.9746 32.8585C52.9746 32.7246 52.9746 32.6041 52.9746 32.4568L52.8715 32.3229ZM53.1163 30.9837C53.327 30.1255 53.6295 29.2945 54.0181 28.5063C54.3698 27.7821 54.8022 27.1034 55.3064 26.4841C55.7392 25.9356 56.2521 25.4611 56.8265 25.078C57.3095 24.7465 57.8535 24.5231 58.424 24.4218H58.54C58.5648 24.4397 58.5848 24.4638 58.5983 24.4919C58.6118 24.52 58.6183 24.5512 58.6173 24.5825C58.5194 25.9912 57.9549 27.321 57.0198 28.3456C55.98 29.5229 54.7395 30.49 53.3611 31.198H53.2709C53.2387 31.2036 53.2056 31.1994 53.1757 31.1857C53.1458 31.1721 53.1204 31.1496 53.1026 31.1212C53.0848 31.0927 53.0754 31.0595 53.0755 31.0255C53.0757 30.9916 53.0854 30.9584 53.1034 30.9301L53.1163 30.9837Z" fill="#FFFFFFFF"/>
+                      <path d="M34.3966 7.66886C34.1014 5.39496 33.0208 3.31024 31.3562 1.80334C30.5051 1.09436 29.5228 0.57473 28.4705 0.2767C27.4279 -0.00351154 26.343 -0.0717191 25.2755 0.0758258C24.2146 0.206755 23.1923 0.569077 22.2754 1.13908C21.3585 1.70909 20.5678 2.47393 19.9549 3.38355C19.9447 3.39775 19.9403 3.41561 19.9427 3.43319C19.9451 3.45077 19.9541 3.46663 19.9678 3.47729C19.9815 3.48794 19.9986 3.49252 20.0156 3.49001C20.0325 3.4875 20.0477 3.4781 20.058 3.4639C20.6782 2.60268 21.4677 1.88857 22.374 1.36905C23.2803 0.849537 24.2825 0.536512 25.3142 0.45079C26.35 0.336765 27.3973 0.441531 28.3932 0.758797C29.3428 1.08056 30.2195 1.6 30.9698 2.28544C32.4481 3.73014 33.3649 5.68863 33.5463 7.78938C33.7244 9.91389 33.6247 12.0537 33.25 14.1504C32.5058 18.3704 30.917 22.3807 28.5864 25.9216C26.3823 29.2297 23.7852 32.2354 20.8567 34.8672C18.0869 32.1353 15.2784 29.457 12.5859 26.551L10.4345 24.261L9.35232 23.1094C8.98302 22.7076 8.60941 22.3193 8.23152 21.9443C6.76566 20.6109 5.44382 19.1157 4.28936 17.4849C3.82117 16.7993 3.48438 16.0263 3.29738 15.2083C3.17743 14.4838 3.28116 13.7385 3.59369 13.0791C3.97916 12.3156 4.4992 11.6342 5.12675 11.0703C5.67643 10.4946 6.35305 10.067 7.09782 9.8249C7.82135 9.60543 8.59015 9.60543 9.31368 9.8249C10.1774 10.1154 10.9939 10.5398 11.7357 11.0837C13.372 12.3332 14.9418 13.6743 16.4379 15.1012H16.5152C16.5677 15.152 16.6367 15.1803 16.7084 15.1803C16.7802 15.1803 16.8492 15.152 16.9017 15.1012C16.9298 15.0736 16.9521 15.0404 16.9674 15.0036C16.9827 14.9667 16.9906 14.927 16.9906 14.8869C16.9906 14.8468 16.9827 14.8071 16.9674 14.7703C16.9521 14.7334 16.9298 14.7002 16.9017 14.6727C16.5023 13.5879 16.0772 12.53 15.7422 11.4721C15.5789 10.9687 15.4498 10.4541 15.3557 9.93203C15.2683 9.49028 15.2683 9.03463 15.3557 8.59288C15.3929 8.46765 15.4559 8.3524 15.5405 8.25523C15.6251 8.15806 15.7291 8.08133 15.8453 8.03043C16.0073 7.94204 16.1809 7.87887 16.3606 7.84295C16.5309 7.8099 16.7056 7.8099 16.8759 7.84295C17.4814 7.84295 18.1642 8.61966 18.6924 9.5169C19.2641 10.4658 19.7804 11.4496 20.2383 12.463C20.7537 13.4808 21.2561 14.5253 21.8229 15.5565C22.9061 17.66 24.3976 19.5069 26.2031 20.9801C26.2589 21.0292 26.3297 21.0561 26.4028 21.0561C26.4759 21.0561 26.5466 21.0292 26.6025 20.9801C26.6313 20.9502 26.6542 20.9148 26.6698 20.8757C26.6854 20.8366 26.6934 20.7947 26.6934 20.7524C26.6934 20.7101 26.6854 20.6683 26.6698 20.6292C26.6542 20.5901 26.6313 20.5546 26.6025 20.5248C25.1576 18.8456 23.9791 16.9379 23.1112 14.8735C22.1708 12.8246 21.4493 10.6686 20.2512 8.53931C19.9237 7.97671 19.5346 7.45543 19.0918 6.98589C18.559 6.42528 17.8689 6.05486 17.1207 5.92795C16.7413 5.86024 16.3535 5.86024 15.9741 5.92795C15.6095 6.00884 15.258 6.14416 14.9306 6.3297C14.5635 6.54523 14.2467 6.84247 14.003 7.20015C13.7814 7.56149 13.6365 7.96781 13.5779 8.392C13.5138 8.9143 13.5356 9.44411 13.6423 9.95882C13.4748 9.77134 13.3202 9.57046 13.1399 9.38298C12.3053 8.52217 11.3388 7.81165 10.2799 7.2805C9.07026 6.70933 7.72032 6.54094 6.41503 6.7984C5.76897 6.94793 5.14506 7.18663 4.5599 7.50816C2.91744 8.46888 1.57574 9.90076 0.695045 11.6328C0.0730042 12.9094 -0.139199 14.3596 0.0895503 15.7708C0.325956 17.0627 0.826823 18.2867 1.5582 19.3597C2.8698 21.1759 4.36408 22.8414 6.01566 24.328C7.48431 25.6672 8.97872 27.2741 10.5247 28.7204C13.581 31.6812 16.8546 34.3901 20.3156 36.8223C20.4784 36.9484 20.6787 37.0107 20.8813 36.9985C21.0839 36.9862 21.2759 36.9002 21.4236 36.7554C24.6163 33.8259 27.4232 30.4714 29.7717 26.7787C32.0928 23.0235 33.629 18.8033 34.2807 14.3914C34.6283 12.1679 34.6674 9.90395 34.3966 7.66886Z" fill="#FFFFFFFF"/>
+                      <path d="M51.1575 3.1963L51.0415 3.30344C50.8746 3.44593 50.7195 3.60271 50.5777 3.77214C50.4431 3.93501 50.3224 4.10976 50.217 4.29441C49.8643 4.98472 49.5503 5.69566 49.2766 6.42368C48.9073 7.31645 48.5337 8.32082 48.1558 9.43678C47.7822 10.5483 47.3957 11.6866 47.035 12.8382C46.6742 13.9899 46.4295 14.7265 46.1589 15.6639V15.8514H47.3313C47.761 15.8245 48.1846 15.9681 48.5165 16.2531C48.6663 16.392 48.7844 16.5638 48.8624 16.756C48.9404 16.9483 48.9763 17.1562 48.9674 17.3646C48.9794 17.4937 48.9794 17.6238 48.9674 17.753C48.9556 17.8675 48.9296 17.9801 48.8901 18.0877V18.2484H48.7226L48.13 18.1681H47.4214C46.9908 18.1679 46.5606 18.1948 46.1331 18.2484L44.8449 18.4359L43.6468 18.6234C43.2838 18.6745 42.918 18.7013 42.5517 18.7038C42.042 18.7153 41.5375 18.5957 41.0831 18.3556C40.684 18.1547 40.3715 17.806 40.207 17.378V17.2575L40.2972 17.1637C40.4342 17.0458 40.5986 16.9674 40.7739 16.9361L41.5726 16.7084L42.629 16.4808L43.621 16.3067H43.7112V16.2263C43.9044 15.4094 44.1105 14.5925 44.3167 13.789C44.5228 12.9856 44.8062 11.9678 45.0639 11.1107C45.3215 10.2537 45.5792 9.30287 45.8626 8.43241C46.043 7.82979 46.2362 7.24056 46.4166 6.66473L46.4295 6.15584L46.1203 6.34333C45.8884 6.49063 45.6565 6.66473 45.4246 6.83882C44.9775 7.16286 44.5475 7.51154 44.1363 7.88336L43.9946 8.03067H43.8786C43.7605 7.95113 43.6665 7.83855 43.6072 7.70588C43.5479 7.57321 43.5259 7.42584 43.5437 7.28074C44.0245 6.518 44.5584 5.79292 45.1412 5.1113C45.6694 4.53546 46.2491 3.93284 46.8804 3.31683C47.0658 3.11953 47.238 2.90924 47.3957 2.68742C47.5906 2.42122 47.7712 2.14404 47.9367 1.85715V1.70984H48.0913C48.2846 1.7768 48.5165 1.83036 48.7999 1.89732C49.0833 1.96428 49.3925 2.04463 49.6759 2.13837C49.9515 2.22993 50.2187 2.34644 50.4747 2.48655C50.702 2.60562 50.8903 2.79202 51.0158 3.02221L51.1575 3.1963Z" fill="#FFFFFFFF"/>
+                      <path d="M62.8028 4.48158C62.6949 3.95658 62.494 3.45705 62.2102 3.00851C61.952 2.60313 61.6084 2.26423 61.2054 2.01753C60.7555 1.77743 60.2551 1.65776 59.7496 1.66935C59.0113 1.67943 58.2847 1.86253 57.6239 2.20501C56.907 2.58548 56.2473 3.07272 55.6657 3.6513C55.0184 4.28591 54.4434 4.99587 53.9523 5.76717C53.4365 6.57156 52.9841 7.41799 52.5996 8.29818C52.2248 9.18375 51.9273 10.1025 51.7107 11.0435C51.5067 11.9435 51.3986 12.8641 51.3886 13.7887C51.362 14.4688 51.427 15.1495 51.5819 15.8109C51.7259 16.2929 51.9481 16.7458 52.2389 17.15C52.5123 17.5302 52.8645 17.8414 53.2695 18.0606C53.6736 18.2867 54.1078 18.4492 54.5578 18.5427C55.3814 18.5416 56.1933 18.3398 56.9282 17.9535C57.6799 17.565 58.3671 17.0541 58.9637 16.4403C59.5949 15.7883 60.1486 15.06 60.6127 14.2708C61.106 13.4802 61.5327 12.6468 61.8881 11.78C62.226 10.8856 62.4889 9.96267 62.674 9.02133C62.8478 8.13982 62.9384 7.2428 62.9445 6.34301C62.9661 5.71894 62.9186 5.09435 62.8028 4.48158ZM60.9606 7.77591C60.8284 8.5759 60.6521 9.36731 60.4324 10.1462C60.189 11.0055 59.9008 11.8504 59.5692 12.6772C59.2583 13.472 58.8834 14.238 58.4484 14.9672C58.0995 15.5873 57.6655 16.1512 57.1601 16.6411C56.7794 17.0204 56.2822 17.248 55.7559 17.2839C55.2904 17.2251 54.8653 16.9801 54.5707 16.601C54.2443 16.0378 54.0998 15.3808 54.1584 14.7261C54.1679 14.0359 54.25 13.3489 54.4032 12.6772C54.5691 11.8635 54.7887 11.0626 55.0602 10.2801C55.3562 9.45121 55.7004 8.64176 56.0909 7.85626C56.4491 7.09416 56.8807 6.37179 57.3791 5.70021C57.7776 5.10281 58.2546 4.56639 58.7963 4.10662C59.2304 3.74276 59.7433 3.49453 60.2907 3.38347H60.3551C60.4967 3.44701 60.6218 3.54442 60.7203 3.66776C60.8188 3.7911 60.8879 3.93688 60.9219 4.09322C61.0818 4.69016 61.1556 5.30843 61.1409 5.92787C61.1271 6.54782 61.0668 7.1657 60.9606 7.77591Z" fill="#FFFFFFFF"/>
+                      <path d="M76.3044 4.48158C76.1909 3.95844 75.9903 3.45993 75.7118 3.00851C75.4489 2.60254 75.1009 2.26374 74.694 2.01753C74.2442 1.77743 73.7438 1.65776 73.2383 1.66935C72.5041 1.6796 71.7818 1.86275 71.1255 2.20501C70.4045 2.58519 69.7405 3.07239 69.1544 3.6513C68.5151 4.29011 67.9449 4.99961 67.4539 5.76717C66.9576 6.5722 66.5267 7.4188 66.1656 8.29818C65.7851 9.18144 65.4874 10.1008 65.2767 11.0435C65.0649 11.942 64.9567 12.8636 64.9546 13.7887C64.9411 14.4707 65.0192 15.1513 65.1865 15.8109C65.335 16.2936 65.5615 16.7464 65.8564 17.15C66.1268 17.5331 66.4798 17.845 66.887 18.0606C67.2916 18.2856 67.7256 18.4481 68.1753 18.5427C68.9994 18.5462 69.8123 18.3441 70.5458 17.9535C71.2974 17.565 71.9846 17.0541 72.5813 16.4403C73.2163 15.7918 73.7703 15.063 74.2303 14.2708C74.7341 13.4563 75.1654 12.5957 75.5186 11.6996C75.8539 10.8056 76.1126 9.88241 76.2915 8.94098C76.4653 8.05948 76.5559 7.16245 76.5621 6.26266C76.5349 5.66138 76.4486 5.06457 76.3044 4.48158ZM74.4622 7.77591C74.3333 8.51691 74.153 9.30701 73.9211 10.1462C73.6818 11.0052 73.398 11.8501 73.0708 12.6772C72.7547 13.4695 72.3799 14.2351 71.95 14.9672C71.585 15.5944 71.1287 16.1591 70.5973 16.6411C70.2211 17.0195 69.7282 17.2472 69.206 17.2839C68.7405 17.2251 68.3154 16.9801 68.0207 16.601C67.694 16.0376 67.5453 15.3819 67.5956 14.7261C67.6051 14.0367 67.6828 13.3501 67.8275 12.6772C67.9963 11.8628 68.2201 11.0618 68.4974 10.2801C68.7883 9.45116 69.1282 8.64166 69.5151 7.85626C69.8841 7.10039 70.3151 6.37903 70.8034 5.70021C71.2305 5.11394 71.7284 4.58733 72.285 4.1334C72.7204 3.77181 73.2328 3.52385 73.7794 3.41025H73.8567C73.9964 3.47458 74.1195 3.57245 74.2158 3.69584C74.3121 3.81922 74.3789 3.96459 74.4106 4.12001C74.5819 4.71471 74.6602 5.33414 74.6425 5.95465C74.6262 6.56557 74.5659 7.17435 74.4622 7.77591Z" fill="#FFFFFFFF"/>
+                      <path d="M89.7945 4.48158C89.6866 3.95658 89.4857 3.45705 89.2019 3.00851C88.9437 2.60313 88.6001 2.26423 88.197 2.01753C87.7472 1.77743 87.2468 1.65776 86.7413 1.66935C86.003 1.67943 85.2764 1.86253 84.6156 2.20501C83.9006 2.58881 83.2414 3.07572 82.6574 3.6513C82.0139 4.2897 81.4394 4.99919 80.944 5.76717C80.4453 6.57071 80.0142 7.41753 79.6557 8.29818C79.2748 9.18262 78.973 10.1016 78.7539 11.0435C78.5499 11.9435 78.4419 12.8641 78.4318 13.7887C78.4094 14.4695 78.4788 15.1501 78.638 15.8109C78.782 16.2929 79.0042 16.7458 79.295 17.15C79.5684 17.5302 79.9207 17.8414 80.3256 18.0606C80.7443 18.2547 81.1746 18.4202 81.6139 18.5561C82.4377 18.5565 83.2499 18.3546 83.9844 17.9669C84.736 17.5784 85.4232 17.0675 86.0198 16.4537C86.6461 15.8252 87.1956 15.1191 87.656 14.3512C88.1576 13.5354 88.5887 12.6749 88.9443 11.78C89.2821 10.8857 89.545 9.96267 89.7301 9.02133C89.9039 8.13983 89.9945 7.2428 90.0006 6.34301C90.0011 5.71636 89.9319 5.09174 89.7945 4.48158ZM87.9523 7.77591C87.8215 8.57619 87.6452 9.36769 87.4241 10.1462C87.1807 11.0055 86.8925 11.8504 86.5609 12.6772C86.25 13.472 85.8751 14.238 85.4401 14.9672C85.0912 15.5873 84.6572 16.1512 84.1518 16.6411C83.7711 17.0204 83.2738 17.248 82.7476 17.2839C82.2859 17.2245 81.865 16.9793 81.5753 16.601C81.2268 16.0449 81.0555 15.389 81.0857 14.7261C81.0952 14.0359 81.1773 13.3489 81.3305 12.6772C81.4933 11.8612 81.7172 11.0598 82.0004 10.2801C82.2913 9.45116 82.6312 8.64166 83.0181 7.85626C83.3809 7.0968 83.8123 6.37488 84.3064 5.70021C84.73 5.11087 85.2284 4.58382 85.788 4.1334C86.2234 3.77181 86.7358 3.52385 87.2824 3.41025H87.3468C87.4884 3.4738 87.6135 3.5712 87.712 3.69454C87.8105 3.81788 87.8796 3.96366 87.9136 4.12001C88.0799 4.71559 88.1538 5.3349 88.1326 5.95465C88.1239 6.56605 88.0635 7.17547 87.9523 7.77591Z" fill="#FFFFFFFF"/>
+                      <path d="M49.2753 23.2166C48.8748 23.9851 48.5593 24.7982 48.3349 25.6405C48.0783 26.6284 47.8719 27.6297 47.7165 28.6402C47.5361 29.6847 47.3944 30.7293 47.2914 31.7337C47.1883 32.738 47.1497 33.662 47.1497 34.5057V35.336C47.1497 35.6172 47.1497 35.9118 47.1497 36.2332H46.7374H46.5957C46.3788 36.2043 46.1666 36.1458 45.9644 36.0591C45.7675 36.0068 45.5772 35.9303 45.3976 35.8315C45.2624 35.7668 45.1433 35.6706 45.0498 35.5503C45.0498 35.3896 45.0498 35.2155 45.0498 35.0548V34.5459C45.0505 33.2014 45.1452 31.8587 45.3332 30.5284C45.5296 28.9728 45.8309 27.4334 46.235 25.9217C46.235 25.761 46.3252 25.5601 46.3896 25.2789L46.4798 24.8638C46.4899 24.843 46.4952 24.8201 46.4952 24.7968C46.4952 24.7735 46.4899 24.7506 46.4798 24.7299C46.4742 24.7094 46.4644 24.6904 46.451 24.6742C46.4377 24.658 46.4211 24.645 46.4025 24.6361C46.3731 24.6268 46.3417 24.6268 46.3123 24.6361C46.2851 24.6333 46.2576 24.6379 46.2327 24.6497C46.2078 24.6615 46.1864 24.6799 46.1706 24.7031L45.8743 24.9977L45.6295 25.2387L45.5007 25.386C45.054 25.909 44.649 26.4688 44.2897 27.06C43.8431 27.8099 43.4437 28.5331 43.0916 29.2294C42.7437 29.9392 42.3959 30.7159 42.0223 31.6801C41.7077 32.4896 41.4368 33.3167 41.2107 34.1575C41.0071 34.8869 40.8776 35.6365 40.8242 36.3939H40.6309C40.4061 36.3464 40.1892 36.2652 39.9868 36.1529C39.7809 36.1001 39.5786 36.033 39.3813 35.952C39.2088 35.8938 39.0443 35.8128 38.8917 35.711C38.7958 35.6536 38.7089 35.5814 38.6341 35.4967C38.6341 35.3494 38.6341 35.1753 38.6341 35.0146V34.5057C38.6339 33.1612 38.7287 31.8184 38.9175 30.4882C39.117 28.9474 39.4139 27.4219 39.8064 25.9217C39.818 25.8688 39.818 25.8139 39.8064 25.761C39.8113 25.7165 39.8113 25.6716 39.8064 25.6271L39.9481 25.078C39.9621 25.0352 39.9606 24.9885 39.944 24.9467C39.9275 24.9048 39.8969 24.8706 39.858 24.8504C39.8286 24.8411 39.7972 24.8411 39.7678 24.8504C39.7252 24.8426 39.6816 24.8426 39.639 24.8504L39.2654 25.2923C39.2219 25.3656 39.17 25.433 39.1108 25.4932C38.6951 26.0473 38.3081 26.6239 37.9513 27.2207C37.5262 27.8903 37.1139 28.5599 36.7274 29.3633C36.3409 30.1668 35.9545 30.9436 35.6195 31.7604C35.3214 32.5235 35.0592 33.3011 34.8336 34.0906C34.614 34.8001 34.4672 35.5318 34.3956 36.2734C34.0044 36.1737 33.6306 36.011 33.2877 35.7913C33.1942 35.7264 33.1172 35.6389 33.0634 35.5362C33.0095 35.4336 32.9804 35.319 32.9785 35.2021C32.9901 34.899 33.051 34.6001 33.1589 34.3182C33.2877 33.9165 33.4552 33.4746 33.6742 32.9791C33.8932 32.4836 34.2153 31.7738 34.4987 31.2248L35.0784 30.0865V29.9794C35.1944 29.7249 35.3361 29.4705 35.4778 29.2026C35.89 28.3858 36.3667 27.5689 36.7661 26.8056C37.1654 26.0422 37.5648 25.4664 38.0544 24.7968C38.4547 24.2452 38.8848 23.7176 39.3426 23.2166C39.6845 22.8282 40.0795 22.4943 40.515 22.2256C40.7242 22.2379 40.9316 22.2738 41.1334 22.3328H41.2235C41.456 22.408 41.684 22.4975 41.9063 22.6006C42.1369 22.711 42.3607 22.8362 42.5762 22.9756C42.7695 23.0961 42.8725 23.1764 42.8983 23.2702C42.6858 23.7448 42.5008 24.2323 42.3444 24.7299C42.0867 25.5066 41.8935 26.2163 41.7002 26.9529C41.507 27.6894 41.288 28.6134 41.0818 29.6312V29.6981V29.7919L40.8757 30.7829C40.8654 30.8273 40.87 30.8741 40.8887 30.9155C40.9074 30.9569 40.9392 30.9904 40.9788 31.0105C41.0082 31.0198 41.0396 31.0198 41.0689 31.0105C41.1226 31.0073 41.1733 30.9837 41.2113 30.9442C41.2493 30.9047 41.272 30.852 41.2751 30.7962L41.726 29.899C42.0223 29.2964 42.3315 28.7072 42.6793 28.0911C43.0388 27.4241 43.4301 26.776 43.8516 26.1494C44.3025 25.4128 44.6633 24.8102 44.9982 24.3951C45.3332 23.9799 45.7325 23.4175 46.0675 23.0559C46.3239 22.7379 46.6133 22.4505 46.9306 22.1989C47.1358 22.2103 47.3389 22.2463 47.5361 22.306L47.7423 22.3729L48.322 22.6006C48.5526 22.711 48.7763 22.8362 48.9919 22.9756C49.1465 23.0425 49.2496 23.1229 49.2753 23.2166Z" fill="#FFFFFFFF"/>
+                      <path d="M73.4833 23.6184C73.3674 23.8192 73.1355 24.2344 72.968 24.4888C72.578 25.1322 72.25 25.814 71.9889 26.5243C71.6926 27.2341 71.3963 28.0778 71.0742 29.1089C70.881 29.7919 70.6104 30.823 70.3657 31.7872C70.1209 32.7514 69.9921 33.5415 69.8761 34.2915C69.7602 35.0414 69.7344 35.4163 69.7086 35.8047C69.6901 35.8957 69.6496 35.9803 69.591 36.0505C69.5325 36.1208 69.4577 36.1744 69.3737 36.2065C68.936 36.207 68.5011 36.1347 68.0854 35.9922C67.7812 35.9236 67.5112 35.7428 67.3253 35.4833C67.0676 34.4254 66.8744 33.5014 66.7198 32.6309C66.5652 31.7604 66.4364 30.8632 66.3333 29.9526C66.2303 29.042 66.1272 27.8903 66.0757 27.2073C66.0241 26.5243 66.0112 26.1092 65.9855 25.5601V25.0111C65.9855 24.9853 65.9805 24.9598 65.9706 24.9361C65.9608 24.9124 65.9463 24.8911 65.9282 24.8735C65.91 24.856 65.8886 24.8424 65.8652 24.8338C65.8418 24.8252 65.817 24.8218 65.7922 24.8236C65.7555 24.8218 65.7191 24.8326 65.6888 24.8544C65.6586 24.8761 65.6361 24.9077 65.6248 24.9441C65.6248 24.9441 65.3285 25.5869 65.3027 25.6807C65.0193 26.3502 64.8003 26.9529 64.607 27.5287C64.4138 28.1045 64.1561 28.9482 63.95 29.658C63.7439 30.3677 63.5893 30.9971 63.4089 31.8274C63.2286 32.6577 62.9967 34.2111 62.9967 34.2111C62.921 34.5871 62.8651 34.9671 62.8292 35.3494C62.8451 35.5767 62.8144 35.8049 62.739 36.019C62.6746 36.1127 62.6102 36.0859 62.4169 36.0859C62.1526 36.001 61.9042 35.8697 61.6826 35.6976C61.5949 35.6122 61.5209 35.5127 61.4636 35.403C61.4035 35.2673 61.3644 35.1227 61.3477 34.9744C61.3649 34.4742 61.4472 33.9786 61.5924 33.5014C61.7213 32.9523 61.9145 32.2961 62.1979 31.3855C62.4813 30.4749 62.7261 29.8454 63.0611 28.9482C63.396 28.051 63.6923 27.3278 64.0531 26.5109C64.4138 25.6941 64.7874 24.8504 65.0193 24.3817C65.2512 23.913 65.8695 22.8149 65.8695 22.8149C65.9148 22.7311 65.9711 22.6545 66.037 22.5872C66.1113 22.5069 66.2019 22.4448 66.3022 22.4054C66.4024 22.366 66.5099 22.3503 66.6167 22.3596H66.7327L67.248 22.5336C67.5314 22.6542 67.7891 22.7747 68.0081 22.8952C68.2271 23.0157 68.343 23.1497 68.3559 23.1898C68.3559 23.4443 68.2786 23.8326 68.2271 24.462C68.1756 25.0914 68.2271 25.5869 68.2271 26.2565C68.2271 27.3948 68.2271 28.6402 68.3688 29.966C68.4285 30.7313 68.536 31.4918 68.6909 32.2425L68.8197 32.8586C68.836 32.8991 68.8626 32.9342 68.8966 32.9602C68.9307 32.9861 68.9709 33.0019 69.013 33.0059C69.057 33.0025 69.099 32.9853 69.1335 32.9566C69.168 32.9279 69.1933 32.8891 69.2062 32.8452C69.2062 32.8452 69.2062 32.7246 69.335 32.2425C69.67 30.5686 70.4172 27.5153 70.9454 25.9083C71.1 25.4396 71.3576 24.5692 71.5895 24.0201C71.7325 23.5542 71.9225 23.1053 72.1564 22.681C72.3754 22.306 72.5429 22.1989 72.6073 22.1989C72.7601 22.2223 72.9082 22.2721 73.0453 22.3462C73.1882 22.421 73.3259 22.506 73.4575 22.6006C73.5454 22.6737 73.6273 22.7544 73.7023 22.8416C73.7281 23.0961 73.5606 23.3907 73.4833 23.6184Z" fill="#FFFFFFFF"/>
+                      <path d="M85.1669 22.9622L85.0767 22.7613L84.8577 22.6676L84.5098 22.5738C84.3939 22.5738 84.3681 22.6542 84.3552 22.7881C84.1802 24.6779 83.8789 26.5528 83.4534 28.3992C83.291 29.1627 83.0801 29.9143 82.8222 30.6489C82.6004 31.3344 82.3291 32.0014 82.0106 32.6443C81.6126 33.4543 81.0904 34.1915 80.4646 34.8271C79.9528 35.3394 79.2684 35.623 78.558 35.6172C78.3108 35.6347 78.0634 35.5875 77.8383 35.4798C77.6133 35.3722 77.4177 35.2077 77.2697 35.0012C76.9714 34.3984 76.8377 33.7222 76.8832 33.046C76.8889 32.2501 76.9665 31.4565 77.1151 30.6757C77.2757 29.805 77.4909 28.9461 77.7592 28.1045C77.9267 27.6224 78.1457 27.0734 78.4935 26.2699L78.8027 25.5869C79.1196 24.9699 79.4679 24.3709 79.8462 23.7925C79.8774 23.6696 79.8774 23.5404 79.8462 23.4175C79.8463 23.322 79.8254 23.2278 79.7852 23.142C79.7451 23.0561 79.6866 22.9809 79.6144 22.922L79.099 22.6542C78.8046 22.5255 78.5035 22.4137 78.1972 22.3194C78.0008 22.2542 77.7975 22.2137 77.5917 22.1989C77.5917 22.1989 77.4887 22.2658 77.4629 22.3194C77.4372 22.3729 76.7544 23.8192 76.4323 24.6495C76.0855 25.5657 75.7845 26.4999 75.5305 27.4484C75.2728 28.3736 75.0621 29.3123 74.8992 30.2606C74.7462 31.0816 74.6643 31.9152 74.6545 32.7514C74.5763 33.7702 74.8863 34.7802 75.5176 35.5637C75.8299 35.888 76.2052 36.1394 76.6184 36.3011C77.0316 36.4627 77.4733 36.5309 77.9138 36.5011C78.8377 36.5156 79.7413 36.2197 80.4904 35.6574C81.2892 35.0161 81.9663 34.2259 82.4872 33.3273C82.9128 32.5948 83.2832 31.8292 83.5952 31.0373C83.9172 30.1267 84.2006 29.2696 84.4197 28.359C84.6803 27.4454 84.8826 26.5149 85.0252 25.5735C85.154 24.6897 85.2442 23.9264 85.3086 23.23C85.1797 23.0961 85.1797 23.0291 85.1669 22.9622Z" fill="#FFFFFFFF"/>
+                    </svg>`
+                    :
+                    `<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32">
+                      
+                      <path d="M31.522 7.02a7.91 7.91 0 00-2.756-4.951A7.308 7.308 0 0026.15.78a7.824 7.824 0 00-2.896-.17 7.033 7.033 0 00-2.72.898 6.796 6.796 0 00-2.103 1.894.055.055 0 00.011.08c.012.009.029.012.044.01a.058.058 0 00.038-.022 6.55 6.55 0 012.1-1.768 6.772 6.772 0 012.665-.775 7.227 7.227 0 012.79.26c.862.271 1.656.71 2.337 1.288a7.18 7.18 0 012.335 4.646c.162 1.793.071 3.6-.268 5.369a25.4 25.4 0 01-4.228 9.935 40.835 40.835 0 01-7.007 7.551c-2.51-2.306-5.057-4.567-7.497-7.02L9.8 21.025l-.981-.972c-.335-.34-.674-.667-1.016-.984a23.854 23.854 0 01-3.574-3.764 5.445 5.445 0 01-.9-1.921 2.856 2.856 0 01.27-1.797c.349-.645.82-1.22 1.39-1.696a4.372 4.372 0 011.786-1.051 3.7 3.7 0 012.009 0A8.284 8.284 0 0110.98 9.9a50.415 50.415 0 014.263 3.391h.07a.262.262 0 00.41-.082.246.246 0 000-.197.242.242 0 00-.06-.082c-.362-.916-.747-1.809-1.051-2.702a9.349 9.349 0 01-.35-1.3 2.717 2.717 0 010-1.13.75.75 0 01.167-.285.782.782 0 01.276-.19 1.73 1.73 0 01.468-.158c.154-.028.312-.028.467 0 .549 0 1.167.655 1.646 1.413.519.8.987 1.631 1.402 2.486.467.86.922 1.741 1.436 2.612a14.675 14.675 0 003.97 4.577.286.286 0 00.363 0 .268.268 0 00.06-.296.26.26 0 00-.06-.088 17.86 17.86 0 01-3.165-4.77c-.852-1.73-1.507-3.55-2.593-5.346a7.227 7.227 0 00-1.05-1.311 3.285 3.285 0 00-1.787-.893 3.17 3.17 0 00-1.04 0c-.33.068-.649.182-.946.339-.332.182-.62.432-.84.734-.201.305-.333.648-.386 1.006-.058.441-.038.888.058 1.323-.151-.158-.292-.328-.455-.486A9.616 9.616 0 009.66 6.69a6.016 6.016 0 00-3.503-.407 6.87 6.87 0 00-1.682.6 8.75 8.75 0 00-3.503 3.48 5.491 5.491 0 00-.55 3.494 7.614 7.614 0 001.332 3.029 27.319 27.319 0 004.04 4.193c1.332 1.13 2.687 2.487 4.088 3.708a72.59 72.59 0 008.876 6.838.8.8 0 001.004-.056 42.923 42.923 0 007.568-8.421 26.374 26.374 0 004.087-10.456c.315-1.877.35-3.787.105-5.674z" fill="#ffffffff"></path>
+                    </svg>`
+                ) + 
+                `</div>
+                <div class="column text-placeholder">
+                  Любишь готовить? Зарабатывай с <strong>1000.menu</strong>! <a href="/anketa" style="color: white;font-weight: bold;">Узнай подробнее</a> и присоединяйся к нам.
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>`
+      );
+
+      $("#ad-top-info-banner-mes").find('.mesbox').click(function(){
+        window.location.href="/anketa";
+      });
+    }
+
+  })();
+</script></div>
+	<div class="container wrap columns is-centered">
+		<div id="main-aside" class="column is-narrow is-hidden-touch is-hidden-desktop-only is-hidden-widescreen-only noprint">
+
+	<div class="ib" style="min-height:250px;max-height:300px;width:300px;overflow:hidden;">
+  <div id="yandex_rtb_R-A-418964-6"></div>
+  <div id="google_adman_side1"></div>
+  <script>
+    (function(w, d, n, s, t) {
+      var ww = iface.viewport().width;
+      if (ww < 1330) {
+        return;
+      }
+      w[n] = w[n] || [];
+      w[n].push(function() {
+        Ya.Context.AdvManager.render({
+          blockId: "R-A-418964-6",
+          renderTo: "yandex_rtb_R-A-418964-6"
+        }
+        // ,function(){
+        //   iface.jsappend.load('https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js', {crossorigin: "anonymous"}, {appendTo: "main"});
+        //   $("#google_adman_side1").append(
+        //     `<ins class="adsbygoogle cont_300"
+        //    style="display:inline-block;width:300px"
+        //    data-ad-client="ca-pub-9291873673890814"
+        //    data-ad-format="rectangle"
+        //    data-ad-slot="8698121683"></ins>`
+        //   );
+        //   (adsbygoogle = window.adsbygoogle || []).push({});
+        // }
+        );
+      });
+      iface.jsappend.load("https://yandex.ru/ads/system/context.js");
+    })(window, window.document, "yaContextCb");
+  </script>
+</div>
+	<aside>
+		<div><strong>Популярно сейчас:</strong></div>
+
+		<div id="trending-catalog-list" class="ib pr-5">
+			<div class="root-category"><div class="category"><div class="header"><a href="/catalog/salaty">Салаты</a></div><div class="list"><a href="/catalog/salatj-iz-kuritsj">Салат из курицы</a> <a href="/catalog/krabovji-salat">Крабовый салат</a> <a href="/catalog/salat-iz-kapustj">Салат с капустой</a> <a href="/catalog/salat-iz-ogurtsov">Салат из огурцов</a> <a href="/catalog/klassicheskie-salatj">Классические салаты</a> <a href="/catalog/salat-s-yaicami">Салат с яйцами</a> <a href="/catalog/prostje-salatj">Простые, легкие, быстрые салаты</a> <a href="/catalog/salat-iz-kukuruzy">Салат из кукурузы</a> <a href="/catalog/salaty-iz-morkovi">Салаты из моркови</a> <a href="/catalog/salat-s-sjrom">Салат с сыром</a> <a href="/catalog/vinegret">Винегрет</a> <a href="/catalog/salaty-iz-krabovyx-palochek">Салаты из крабовых палочек</a> <a href="/catalog/salat-s-fasolu">Салат с фасолью</a> <a href="/catalog/salat-iz-kalmarov">Салат из кальмаров</a> <a href="/catalog/salat-tsezar">Салат Цезарь</a> <a href="/catalog/salat-mimoza">Салат Мимоза</a> <a href="/catalog/salat-s-pekinskoi-kapustoi">Салат из пекинской капусты</a> <a href="/catalog/salat-iz-pomidorov">Салат из помидоров</a> <a href="/catalog/salaty-iz-svekly">Салаты из свеклы</a> </div></div><div class="category"><div class="header"><a href="/catalog/tortj">Торты домашние</a></div><div class="list"><a href="/catalog/tort-dlya-devochki">Торт для девочки</a> <a href="/catalog/torty-na-den-rojdeniya">Торты на день рождения</a> <a href="/catalog/tort-medovji">Медовый торт</a> <a href="/catalog/klassicheskie-torty">Классические торты</a> </div></div><div class="category"><div class="header"><a href="/catalog/prazdnichnji-stol">Праздничный стол</a></div><div class="list"><a href="/catalog/pasxalnye-kulichi">Пасхальные куличи</a> <a href="/catalog/pasxalnje-retseptj">Пасхальные рецепты</a> <a href="/catalog/tvorojnaya-pasxa">Творожная пасха</a> </div></div><div class="category"><div class="header"><a href="/catalog/supj">Супы первые блюда</a></div><div class="list"><a href="/catalog/borzsh">Борщ</a> <a href="/catalog/bulonj">Бульоны</a> <a href="/catalog/okroshka">Окрошка</a> <a href="/catalog/zhii">Щи</a> <a href="/catalog/rassolnik">Рассольник</a> <a href="/catalog/solyanka">Солянка</a> <a href="/catalog/xarcho">Харчо</a> <a href="/catalog/gorohovij-sup">Гороховый суп</a> </div></div><div class="category"><div class="header"><a href="/catalog/vjpechka">Выпечка</a></div><div class="list"><a href="/catalog/pirogi">Пироги</a> <a href="/catalog/blinj-i-blinchiki">Блины и блинчики</a> <a href="/catalog/pechenje-domashnee">Печенье домашнее</a> <a href="/catalog/pirozgki">Пирожки</a> <a href="/catalog/sjrniki">Сырники</a> <a href="/catalog/oladi">Оладьи</a> <a href="/catalog/bulochki">Булочки</a> <a href="/catalog/pirogi-v-duxovke">Пироги в духовке</a> <a href="/catalog/sharlotka">Шарлотка</a> <a href="/catalog/bliny-na-moloke">Блины  и блинчики на молоке</a> <a href="/catalog/lepeshki">Лепешки</a> <a href="/catalog/mannik">Манник - манный пирог</a> <a href="/catalog/oladi-na-kefire">Оладьи на кефире</a> <a href="/catalog/vatrushki">Ватрушки</a> <a href="/catalog/xachapuri">Хачапури</a> <a href="/catalog/ponchiki">Пончики</a> <a href="/catalog/sharlotka-s-yablokami">Шарлотка с яблоками</a> <a href="/catalog/kapkeiki">Капкейки</a> <a href="/catalog/chizkeik">Чизкейк</a> <a href="/catalog/keksj">Кексы, маффины, капкейки</a> <a href="/catalog/draniki">Драники</a> <a href="/catalog/zalivnoi-pirog">Заливной пирог</a> <a href="/catalog/pankeiki">Панкейки</a> <a href="/catalog/pyshnye-oladi">Пышные оладьи</a> <a href="/catalog/pirog-na-kefire">Пироги на кефире</a> <a href="/catalog/pirojnoe-beze">Безе и меренги</a> <a href="/catalog/sosiski-v-teste">Сосиски в тесте</a> </div></div><div class="category"><div class="header"><a href="/catalog/sposobj-prigotovleniya">Способы приготовления</a></div><div class="list"><a href="/catalog/zapekanie">В духовке</a> <a href="/catalog/na-skovorode">На сковороде</a> <a href="/catalog/zamorozka">Замораживание</a> <a href="/catalog/kartoshka-v-duxovke">Картошка в духовке</a> <a href="/catalog/kurica-v-duxovke">Курица в духовке</a> <a href="/catalog/myaso-v-duxovke">Мясо в духовке</a> <a href="/catalog/svinina-v-duxovke">Свинина в духовке</a> <a href="/catalog/farshirovannye">Фаршированные блюда</a> <a href="/catalog/retseptj-dlya-multivarki">В мультиварке</a> <a href="/catalog/farsh-na-skovorode">Фарш на сковороде</a> <a href="/catalog/svinina-na-skovorode">Свинина на сковороде</a> <a href="/catalog/syrniki-na-skovorode">Сырники на сковороде</a> <a href="/catalog/kurica-na-skovorode">Курица на сковороде</a> <a href="/catalog/iz-tvoroga-na-skovorode">Из творога на сковороде</a> <a href="/catalog/griby-v-duxovke">Грибы в духовке</a> <a href="/catalog/kapusta-v-duxovke">Капуста в духовке</a> <a href="/catalog/picca-v-duxovke">Пицца в духовке</a> <a href="/catalog/kartoshka-na-skovorode">Картошка на сковороде</a> </div></div><div class="category"><div class="header"><a href="/catalog/klassicheskie-recepty-blud">Классические рецепты блюд</a></div></div><div class="category"><div class="header"><a href="/catalog/vtoroe-bludo">Вторые горячие блюда</a></div><div class="list"><a href="/catalog/kasha-recipes">Каша</a> <a href="/catalog/kotletj">Котлеты</a> <a href="/catalog/shashljki">Шашлыки</a> <a href="/catalog/zapekanki">Запеканки</a> <a href="/catalog/plov">Плов</a> <a href="/catalog/steik">Стейки</a> <a href="/catalog/zapekanka-iz-tvoroga-tvorojnaya">Запеканка творожная</a> <a href="/catalog/molochnaya-kasha">Каши на молоке</a> <a href="/catalog/omlety-recipes">Омлет</a> <a href="/catalog/vareniki">Вареники</a> <a href="/catalog/golubtci">Голубцы</a> <a href="/catalog/chebureki">Чебуреки с мясом и без</a> <a href="/catalog/tefteli">Тефтели</a> <a href="/catalog/xinkali">Хинкали</a> <a href="/catalog/pitstsa">Пицца</a> <a href="/catalog/gulash">Гуляш</a> <a href="/catalog/lazanja">Лазанья</a> <a href="/catalog/klyar">В кляре</a> <a href="/catalog/pasta-karbonara">Паста карбонара</a> <a href="/catalog/kapusta-tushenaya">Капуста тушеная</a> <a href="/catalog/lagman">Лагман</a> <a href="/catalog/pshyonnaya-kasha">Пшённая каша</a> <a href="/catalog/kurica-v-souse">Курица в соусе</a> <a href="/catalog/kurinye-kotlety">Куриные котлеты</a> <a href="/catalog/otbivnye">Отбивные</a> <a href="/catalog/tvorozhnaya-zapekanka">Творожная запеканка в духовке</a> </div></div><div class="category"><div class="header"><a href="/catalog/dlya-tortov">Для тортов и выпечки</a></div><div class="list"><a href="/catalog/glazur-dlya-kulicha">Глазурь и помадка или крем для кулича</a> <a href="/catalog/glazur-dlya-torta">Глазурь для торта и выпечки</a> <a href="/catalog/krema-dlya-torta">Крем для торта </a> <a href="/catalog/zavarnoi-krem">Заварной крем</a> </div></div><div class="category"><div class="header"><a href="/catalog/bjstro-i-vkusno">Быстро, просто, вкусно</a></div></div><div class="category"><div class="header"><a href="/catalog/retsept-testa">Тесто домашнее </a></div><div class="list"><a href="/catalog/recepty-drojjevogo-testa">Дрожжевое тесто</a> <a href="/catalog/testo-dlya-piccy">Тесто для пиццы</a> <a href="/catalog/testo-dlya-pirojkov">Тесто для пирожков</a> <a href="/catalog/testo-dlya-pirogov">Тесто для пирогов</a> <a href="/catalog/testo-dlya-pelmenei">Тесто для пельменей </a> <a href="/catalog/testo-dlya-kulicha">Тесто для кулича</a> <a href="/catalog/testo-dlya-cheburekov">Тесто для чебуреков</a> </div></div><div class="category"><div class="header"><a href="/catalog/garnirj">Гарниры</a></div><div class="list"><a href="/catalog/pure">Пюре</a> </div></div><div class="category"><div class="header"><a href="/catalog/zakuski">Закуски</a></div><div class="list"><a href="/catalog/ruletj">Рулеты и рулетики</a> <a href="/catalog/shaurma">Шаурма</a> <a href="/catalog/zalivnoe">Заливное, холодец, студень</a> <a href="/catalog/pashtet">Паштет</a> </div></div><div class="category"><div class="header"><a href="/catalog/desert">Десерты</a></div><div class="list"><a href="/catalog/pirozjenoje">Пирожное</a> </div></div><div class="category"><div class="header"><a href="/catalog/buterbrodj">Бутерброды</a></div></div><div class="category"><div class="header"><a href="/catalog/kuxonnaya-utvar">Используем кухонную утварь</a></div><div class="list"><a href="/catalog/retseptj-v-folge">Фольга в духовке</a> </div></div><div class="category"><div class="header"><a href="/catalog/ogranicheniya-v-pitanii">Ограничения в питании</a></div><div class="list"><a href="/catalog/postnji-stol">Постный стол</a> </div></div><div class="category"><div class="header"><a href="/catalog/napitki">Напитки</a></div><div class="list"><a href="/catalog/kvas">Квас домашний</a> <a href="/catalog/mors">Морс </a> </div></div><div class="category"><div class="header"><a href="/catalog/sousj">Соусы</a></div><div class="list"><a href="/catalog/slivochnyi-sous">Сливочный соус</a> <a href="/catalog/podlivki">Подливки</a> <a href="/catalog/sous-dlya-kuricy">Соус для курицы</a> </div></div><div class="category"><div class="header"><a href="/catalog/ovoshchi">Овощи</a></div><div class="list"><a href="/catalog/kartoshka-s-myasom">Картошка с мясом</a> <a href="/catalog/kurica-s-kartoshkoi">Курица с картошкой</a> <a href="/catalog/morkov-s-lukom">Морковь с луком</a> <a href="/catalog/pomidory-s-syrom">Помидоры с сыром</a> </div></div><div class="category"><div class="header"><a href="/catalog/myaso-i-myasoproduktj">Мясо и мясопродукты</a></div><div class="list"><a href="/catalog/kurica-s-gribami">Курица с грибами</a> </div></div><div class="category"><div class="header"><a href="/catalog/domashnie-zagotovki">Заготовки на зиму</a></div><div class="list"><a href="/catalog/djem-na-zimu">Джем на зиму</a> </div></div><div class="category"><div class="header"><a href="/catalog/natsionalnaya-kuxnya">Национальные кухни</a></div><div class="list"><a href="/catalog/myaso-po-francuzski">Мясо по-французски в духовке</a> </div></div><div class="category"><div class="header"><a href="/catalog/molochnye-produkty-domashnie">Молочные продукты домашние</a></div><div class="list"><a href="/catalog/domashnii-sjr">Сыр домашний </a> </div></div></div>		</div>
+
+		<p>
+			<button type="button" onclick="iface.popup_all_cats()" class="with-icon">
+				<svg class="icon"><use href="#iface-tree-circles"/></svg>
+				Смотри весь каталог			</button>
+		</p>
+
+			</aside>
+	
+	<div id="adplace_side_panel_hp">
+  <div id="yandex_rtb_R-A-418964-7"></div>
+  <div id="google_adman_side2"></div>
+  <script>
+    $(window).on('load', function() {
+      if (!iface.viewport_is('fullhd')) {
+        return;
+      }
+      var adspace = $("main > .content").height() - $("#main-aside aside").height() - 27 - 300;
+      // min 600px is needed
+      if (adspace < 600) {
+        return;
+      }
+      $("#adplace_side_panel_hp").css({
+        'width': '300px',
+        // 'height': '600px', // redundant
+        'border-bottom-left-radius': '5px',
+        'position': 'relative'
+      });
+      (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+          Ya.Context.AdvManager.render({
+            blockId: "R-A-418964-7",
+            renderTo: "yandex_rtb_R-A-418964-7"
+          }
+          // ,function(){
+          //   iface.jsappend.load('https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js', {crossorigin: "anonymous"}, {appendTo: "main"});
+          //   $("#google_adman_side2").append(
+          //     `<ins class="adsbygoogle cont_300"
+          //    style="display:block;width:300px"
+          //    data-ad-format="rectangle,vertical"
+          //    data-ad-client="ca-pub-9291873673890814"
+          //    data-ad-slot="8698121683"></ins>`
+          //   );
+          //   (adsbygoogle = window.adsbygoogle || []).push({});
+          // }
+          );
+        });
+        iface.jsappend.load("https://yandex.ru/ads/system/context.js");
+      })(window, window.document, "yaContextCb");
+    });
+  </script>
+</div>
+</div>
+<main class="column is-relative is-centered">
+	<div id="info-box" class="clrl fb">
+	
+
+	<script>
+		(function(){
+
+			infoBox.storage.view();
+
+			$("#info-box .mesbox").each(function(){
+
+				var cl = $(this).hasAnyClass('ok err info') ? 'close-light' : 'close-dark';
+				
+				$(this).append(
+					$("<a href='#' class='close-button abs-tr pd-2 px-2 py-2'><span class='isp bl "+cl+"'></span></a>")
+					.click(function(event){
+
+						event.preventDefault();
+
+						if(event.ctrlKey){
+							$("#info-box .mesbox").remove();
+						} else {
+							$(this).closest('.mesbox').remove();
+						}
+					})
+				);
+			})
+		})();
+	</script>
+</div>
+<h1 itemprop="name">Домашние рецепты приготовления блюд с фото</h1><div class="description" itemprop="description">Удобный поиск рецептов по продуктам, калориям, времени итд. Своя кулинарная книга, изменение порций, отзывы, печать, фото пошагово</div><div class="content">
+<script>
+	$(document).on("xr_dom_ready", function (){
+		var hash = window.location.hash.substr(1);
+		if (hash && hash === "catalog") {
+			iface.popup_all_cats();
+		}
+	})
+</script>
+
+<section id='cooking_ratings' class='ib'>
+	<div class="rating-block ib">
+
+	<div class="is-flex is-align-items-center">
+		<h2 class="my-0">Новые рецепты</h2>
+		<a href="/cooking/oll" class="as-icon ml"><svg class="icon mr"><use href="#iface-new-window"/></svg></a>
+	</div>
+
+	<div class="cooking-block" > <div class="cn-item" data-cid="4459"><div class="photo is-relative"><a href="/cooking/4459-tvorozhnoe-sufle" title="" target='_blank'><img src='//static.1000.menu/img/content-v2/be/db/4459/tvorojnoe-sufle-v-duxovke_1676870025_prev_hor.jpg' alt="Творожное суфле в духовке" title=""  class='native'></a><div class="flags-panel abs-tr pr-1"><span class="icon-wrap circle has-video ml-1 my-1" title="С пошаговыми фото">
+						<svg class="icon smaller"><use href="#iface-steps"/></svg>
+					</span><span class="icon-wrap circle has-video ml-1 my-1" title="С видео">
+						<svg class="icon smaller"><use href="#iface-play"/></svg>
+					</span></div>	</div>	<div class="info-preview">		<div class="icons level is-mobile font-small my-0 pt-2">		<div class="level-left">
+									<svg class="icon color-mono small mr-1"><use href="#iface-cals"/></svg>  <span title="Калорийность блюда на 100г">190 ккал</span> </div>			<div class="level-right"><svg class="icon color-mono small mr-1"><use href="#iface-clock"/></svg>  <span title="Время приготовления блюда">45 мин </span>		</div>		</div><a class="h5" href="/cooking/4459-tvorozhnoe-sufle" target="_blank">Творожное суфле в духовке</a>		<div class="preview-text">Нежное, воздушное, очень вкусное, из самых простых продуктов		</div><div class="mt-1 is-flex is-flex-grow-1 is-flex-direction-column is-justify-content-flex-end"><div class="ctrl-add"></div><div><a href="#" class="details-open cb as-icon mx-0 mt-1 mb-0 icon-wrap circle fr"><svg class="icon color-mono"><use href="#iface-dots-horizontal"/></svg></a></div></div><div class="cn-details"></div>	</div></div> <div class="cn-item" data-cid="21815"><div class="photo is-relative"><a href="/cooking/21815-kartofelnye-shariki" title="" target='_blank'><img src='//static.1000.menu/img/content-v2/1d/38/21815/kartofelnye-shariki-s-syrom-vo-friture_1676363284_prev_hor.jpg' alt="Картофельные шарики с сыром во фритюре" title=""  class='native'></a><div class="flags-panel abs-tr pr-1"><span class="icon-wrap circle has-video ml-1 my-1" title="С видео">
+						<svg class="icon smaller"><use href="#iface-play"/></svg>
+					</span></div>	</div>	<div class="info-preview">		<div class="icons level is-mobile font-small my-0 pt-2">		<div class="level-left">
+									<svg class="icon color-mono small mr-1"><use href="#iface-cals"/></svg>  <span title="Калорийность блюда на 100г">283 ккал</span> </div>			<div class="level-right"><svg class="icon color-mono small mr-1"><use href="#iface-clock"/></svg>  <span title="Время приготовления блюда">50 мин </span>		</div>		</div><a class="h5" href="/cooking/21815-kartofelnye-shariki" target="_blank">Картофельные шарики с сыром во фритюре</a>		<div class="preview-text">Хрустящие снаружи и мягкие внутри, а еще такие вкусные!		</div><div class="mt-1 is-flex is-flex-grow-1 is-flex-direction-column is-justify-content-flex-end"><div class="ctrl-add"></div><div><a href="#" class="details-open cb as-icon mx-0 mt-1 mb-0 icon-wrap circle fr"><svg class="icon color-mono"><use href="#iface-dots-horizontal"/></svg></a></div></div><div class="cn-details"></div>	</div></div> <div class="cn-item" data-cid="72232"><div class="photo is-relative"><a href="/cooking/72232-sup-s-sosiskami-i-vermishelu" title="" target='_blank'><img src='//static.1000.menu/img/content-v2/d0/c1/72232/sup-s-sosiskami-i-vermishelu_1676874337_prev_hor.jpg' alt="Суп с сосисками и вермишелью" title=""  class='native'></a><div class="flags-panel abs-tr pr-1"><span class="icon-wrap circle has-video ml-1 my-1" title="С пошаговыми фото">
+						<svg class="icon smaller"><use href="#iface-steps"/></svg>
+					</span></div>	</div>	<div class="info-preview">		<div class="icons level is-mobile font-small my-0 pt-2">		<div class="level-left">
+									<svg class="icon color-mono small mr-1"><use href="#iface-cals"/></svg>  <span title="Калорийность блюда на 100г">41 ккал</span> </div>			<div class="level-right"><svg class="icon color-mono small mr-1"><use href="#iface-clock"/></svg>  <span title="Время приготовления блюда">30 мин </span>		</div>		</div><a class="h5" href="/cooking/72232-sup-s-sosiskami-i-vermishelu" target="_blank">Суп с сосисками и вермишелью</a>		<div class="preview-text">Очень быстро, очень просто и вкусно, из бюджетных продуктов!		</div><div class="mt-1 is-flex is-flex-grow-1 is-flex-direction-column is-justify-content-flex-end"><div class="ctrl-add"></div><div><a href="#" class="details-open cb as-icon mx-0 mt-1 mb-0 icon-wrap circle fr"><svg class="icon color-mono"><use href="#iface-dots-horizontal"/></svg></a></div></div><div class="cn-details"></div>	</div></div> <div class="cn-item" data-cid="34970"><div class="photo is-relative"><a href="/cooking/34970-myaso-po-derevenski-v-duxovke" title="" target='_blank'><img src='//static.1000.menu/img/content-v2/09/92/34970/myaso-po-derevenski-v-duxovke-s-kartofelem_1676624365_prev_hor.jpg' alt="Мясо по деревенски в духовке с картофелем" title=""  class='native'></a><div class="flags-panel abs-tr pr-1"><span class="icon-wrap circle has-video ml-1 my-1" title="С пошаговыми фото">
+						<svg class="icon smaller"><use href="#iface-steps"/></svg>
+					</span><span class="icon-wrap circle has-video ml-1 my-1" title="С видео">
+						<svg class="icon smaller"><use href="#iface-play"/></svg>
+					</span></div>	</div>	<div class="info-preview">		<div class="icons level is-mobile font-small my-0 pt-2">		<div class="level-left">
+									<svg class="icon color-mono small mr-1"><use href="#iface-cals"/></svg>  <span title="Калорийность блюда на 100г">145 ккал</span> </div>			<div class="level-right"><svg class="icon color-mono small mr-1"><use href="#iface-clock"/></svg>  <span title="Время приготовления блюда">1 ч 45 мин </span>		</div>		</div><a class="h5" href="/cooking/34970-myaso-po-derevenski-v-duxovke" target="_blank">Мясо по деревенски в духовке с картофелем</a>		<div class="preview-text">Сытное, аппетитное, ароматное, на ужин для всей семьи!		</div><div class="mt-1 is-flex is-flex-grow-1 is-flex-direction-column is-justify-content-flex-end"><div class="ctrl-add"></div><div><a href="#" class="details-open cb as-icon mx-0 mt-1 mb-0 icon-wrap circle fr"><svg class="icon color-mono"><use href="#iface-dots-horizontal"/></svg></a></div></div><div class="cn-details"></div>	</div></div> <div class="cn-item" data-cid="72003"><div class="photo is-relative"><a href="/cooking/72003-tiramisu-iz-pechenya-bez-vypechki" title="" target='_blank'><img src='//static.1000.menu/img/content-v2/55/26/72003/tiramisu-iz-pechenya-bez-vypechki_1676622775_prev_hor.jpg' alt="Тирамису из печенья без выпечки" title=""  class='native'></a><div class="flags-panel abs-tr pr-1"><span class="icon-wrap circle has-video ml-1 my-1" title="С пошаговыми фото">
+						<svg class="icon smaller"><use href="#iface-steps"/></svg>
+					</span><span class="icon-wrap circle has-video ml-1 my-1" title="С видео">
+						<svg class="icon smaller"><use href="#iface-play"/></svg>
+					</span></div>	</div>	<div class="info-preview">		<div class="icons level is-mobile font-small my-0 pt-2">		<div class="level-left">
+									<svg class="icon color-mono small mr-1"><use href="#iface-cals"/></svg>  <span title="Калорийность блюда на 100г">330 ккал</span> </div>			<div class="level-right"><svg class="icon color-mono small mr-1"><use href="#iface-clock"/></svg>  <span title="Время приготовления блюда">8 ч 45 мин </span>		</div>		</div><a class="h5" href="/cooking/72003-tiramisu-iz-pechenya-bez-vypechki" target="_blank">Тирамису из печенья без выпечки</a>		<div class="preview-text">Нежнейшее, ароматное, тает во рту, на праздничный стол!		</div><div class="mt-1 is-flex is-flex-grow-1 is-flex-direction-column is-justify-content-flex-end"><div class="ctrl-add"></div><div><a href="#" class="details-open cb as-icon mx-0 mt-1 mb-0 icon-wrap circle fr"><svg class="icon color-mono"><use href="#iface-dots-horizontal"/></svg></a></div></div><div class="cn-details"></div>	</div></div> <div class="cn-item" data-cid="2939"><div class="photo is-relative"><a href="/cooking/2939-salat-iz-syroi-morkovi-s-greckimi-orexami" title="" target='_blank'><img src='//static.1000.menu/img/content-v2/92/4b/2939/salat-morkov-s-greckim-orexom_1676623772_prev_hor.jpg' alt="Салат морковь с грецким орехом" title=""  class='native'></a><div class="flags-panel abs-tr pr-1"><span class="icon-wrap circle has-video ml-1 my-1" title="С пошаговыми фото">
+						<svg class="icon smaller"><use href="#iface-steps"/></svg>
+					</span><span class="icon-wrap circle has-video ml-1 my-1" title="С видео">
+						<svg class="icon smaller"><use href="#iface-play"/></svg>
+					</span></div>	</div>	<div class="info-preview">		<div class="icons level is-mobile font-small my-0 pt-2">		<div class="level-left">
+									<svg class="icon color-mono small mr-1"><use href="#iface-cals"/></svg>  <span title="Калорийность блюда на 100г">279 ккал</span> </div>			<div class="level-right"><svg class="icon color-mono small mr-1"><use href="#iface-clock"/></svg>  <span title="Время приготовления блюда">10 мин </span>		</div>		</div><a class="h5" href="/cooking/2939-salat-iz-syroi-morkovi-s-greckimi-orexami" target="_blank">Салат морковь с грецким орехом</a>		<div class="preview-text">Самый быстрый, простой, витаминный и очень вкусный!		</div><div class="mt-1 is-flex is-flex-grow-1 is-flex-direction-column is-justify-content-flex-end"><div class="ctrl-add"></div><div><a href="#" class="details-open cb as-icon mx-0 mt-1 mb-0 icon-wrap circle fr"><svg class="icon color-mono"><use href="#iface-dots-horizontal"/></svg></a></div></div><div class="cn-details"></div>	</div></div> <div class="cn-item" data-cid="24961"><div class="photo is-relative"><a href="/cooking/24961-telyatina-jarenaya" title="" target='_blank'><img src='//static.1000.menu/img/content-v2/29/fe/24961/telyatina-na-skovorode-myagkaya-jarenaya-sochnaya_1676491363_prev_hor.jpg' alt="Телятина на сковороде мягкая жареная сочная" title=""  class='native'></a>	</div>	<div class="info-preview">		<div class="icons level is-mobile font-small my-0 pt-2">		<div class="level-left">
+									<svg class="icon color-mono small mr-1"><use href="#iface-cals"/></svg>  <span title="Калорийность блюда на 100г">205 ккал</span> </div>			<div class="level-right"><svg class="icon color-mono small mr-1"><use href="#iface-clock"/></svg>  <span title="Время приготовления блюда">40 мин </span>		</div>		</div><a class="h5" href="/cooking/24961-telyatina-jarenaya" target="_blank">Телятина на сковороде мягкая жареная сочная</a>		<div class="preview-text">Такое нежное, такое вкусное, на праздник и на каждый день.		</div><div class="mt-1 is-flex is-flex-grow-1 is-flex-direction-column is-justify-content-flex-end"><div class="ctrl-add"></div><div><a href="#" class="details-open cb as-icon mx-0 mt-1 mb-0 icon-wrap circle fr"><svg class="icon color-mono"><use href="#iface-dots-horizontal"/></svg></a></div></div><div class="cn-details"></div>	</div></div> <div class="cn-item" data-cid="13298"><div class="photo is-relative"><a href="/cooking/13298-salat-koreiskaya-morkovka-kurica-griby" title="" target='_blank'><img src='//static.1000.menu/img/content-v2/90/c5/13298/salat-s-kuricei-koreiskoi-morkovu-i-gribami_1676625496_prev_hor.jpg' alt="Салат с курицей корейской морковью и грибами" title=""  class='native'></a><div class="flags-panel abs-tr pr-1"><span class="icon-wrap circle has-video ml-1 my-1" title="С пошаговыми фото">
+						<svg class="icon smaller"><use href="#iface-steps"/></svg>
+					</span></div>	</div>	<div class="info-preview">		<div class="icons level is-mobile font-small my-0 pt-2">		<div class="level-left">
+									<svg class="icon color-mono small mr-1"><use href="#iface-cals"/></svg>  <span title="Калорийность блюда на 100г">136 ккал</span> </div>			<div class="level-right"><svg class="icon color-mono small mr-1"><use href="#iface-clock"/></svg>  <span title="Время приготовления блюда">1 ч </span>		</div>		</div><a class="h5" href="/cooking/13298-salat-koreiskaya-morkovka-kurica-griby" target="_blank">Салат с курицей корейской морковью и грибами</a>		<div class="preview-text">Простой, но очень вкусный, подходит на каждый день.		</div><div class="mt-1 is-flex is-flex-grow-1 is-flex-direction-column is-justify-content-flex-end"><div class="ctrl-add"></div><div><a href="#" class="details-open cb as-icon mx-0 mt-1 mb-0 icon-wrap circle fr"><svg class="icon color-mono"><use href="#iface-dots-horizontal"/></svg></a></div></div><div class="cn-details"></div>	</div></div> <div class="cn-item" data-cid="17801"><div class="photo is-relative"><a href="/cooking/17801-sosiski-i-syr-v-teste" title="" target='_blank'><img src='//static.1000.menu/img/content-v2/e2/77/17801/sosiski-s-syrom-v-teste-v-duxovke_1676279086_prev_hor.jpg' alt="Сосиски с сыром в тесте в духовке" title=""  class='native'></a><div class="flags-panel abs-tr pr-1"><span class="icon-wrap circle has-video ml-1 my-1" title="С пошаговыми фото">
+						<svg class="icon smaller"><use href="#iface-steps"/></svg>
+					</span><span class="icon-wrap circle has-video ml-1 my-1" title="С видео">
+						<svg class="icon smaller"><use href="#iface-play"/></svg>
+					</span></div>	</div>	<div class="info-preview">		<div class="icons level is-mobile font-small my-0 pt-2">		<div class="level-left">
+									<svg class="icon color-mono small mr-1"><use href="#iface-cals"/></svg>  <span title="Калорийность блюда на 100г">282 ккал</span> </div>			<div class="level-right"><svg class="icon color-mono small mr-1"><use href="#iface-clock"/></svg>  <span title="Время приготовления блюда">2 ч </span>		</div>		</div><a class="h5" href="/cooking/17801-sosiski-i-syr-v-teste" target="_blank">Сосиски с сыром в тесте в духовке</a>		<div class="preview-text">Пышное мягкое тесто и нежная ароматная начинка!		</div><div class="mt-1 is-flex is-flex-grow-1 is-flex-direction-column is-justify-content-flex-end"><div class="ctrl-add"></div><div><a href="#" class="details-open cb as-icon mx-0 mt-1 mb-0 icon-wrap circle fr"><svg class="icon color-mono"><use href="#iface-dots-horizontal"/></svg></a></div></div><div class="cn-details"></div>	</div></div> <div class="cn-item" data-cid="71958"><div class="photo is-relative"><a href="/cooking/71958-salat-iz-rolltona-s-kolbasoi" title="" target='_blank'><img src='//static.1000.menu/img/content-v2/25/75/71958/salat-iz-rolltona-s-kolbasoi_1675950030_prev_hor.jpg' alt="Салат из роллтона с колбасой" title=""  class='native'></a><div class="flags-panel abs-tr pr-1"><span class="icon-wrap circle has-video ml-1 my-1" title="С пошаговыми фото">
+						<svg class="icon smaller"><use href="#iface-steps"/></svg>
+					</span><span class="icon-wrap circle has-video ml-1 my-1" title="С видео">
+						<svg class="icon smaller"><use href="#iface-play"/></svg>
+					</span></div>	</div>	<div class="info-preview">		<div class="icons level is-mobile font-small my-0 pt-2">		<div class="level-left">
+									<svg class="icon color-mono small mr-1"><use href="#iface-cals"/></svg>  <span title="Калорийность блюда на 100г">229 ккал</span> </div>			<div class="level-right"><svg class="icon color-mono small mr-1"><use href="#iface-clock"/></svg>  <span title="Время приготовления блюда">10 мин </span>		</div>		</div><a class="h5" href="/cooking/71958-salat-iz-rolltona-s-kolbasoi" target="_blank">Салат из роллтона с колбасой</a>		<div class="preview-text">Оригинальный, на скорую руку, сытный и вкусный!		</div><div class="mt-1 is-flex is-flex-grow-1 is-flex-direction-column is-justify-content-flex-end"><div class="ctrl-add"></div><div><a href="#" class="details-open cb as-icon mx-0 mt-1 mb-0 icon-wrap circle fr"><svg class="icon color-mono"><use href="#iface-dots-horizontal"/></svg></a></div></div><div class="cn-details"></div>	</div></div> <div class="cn-item" data-cid="48119"><div class="photo is-relative"><a href="/cooking/48119-gorbusha-s-maionezom-morkovkoi-i-lukom" title="" target='_blank'><img src='//static.1000.menu/img/content-v2/2c/18/48119/gorbusha-v-maioneze-s-lukom-i-morkovkoi-sochnaya_1676624796_prev_hor.jpg' alt="Горбуша в майонезе с луком и морковкой сочная" title=""  class='native'></a><div class="flags-panel abs-tr pr-1"><span class="icon-wrap circle has-video ml-1 my-1" title="С пошаговыми фото">
+						<svg class="icon smaller"><use href="#iface-steps"/></svg>
+					</span></div>	</div>	<div class="info-preview">		<div class="icons level is-mobile font-small my-0 pt-2">		<div class="level-left">
+									<svg class="icon color-mono small mr-1"><use href="#iface-cals"/></svg>  <span title="Калорийность блюда на 100г">154 ккал</span> </div>			<div class="level-right"><svg class="icon color-mono small mr-1"><use href="#iface-clock"/></svg>  <span title="Время приготовления блюда">40 мин </span>		</div>		</div><a class="h5" href="/cooking/48119-gorbusha-s-maionezom-morkovkoi-i-lukom" target="_blank">Горбуша в майонезе с луком и морковкой сочная</a>		<div class="preview-text">Невероятно вкусно и очень аппетитно, на скорую руку!		</div><div class="mt-1 is-flex is-flex-grow-1 is-flex-direction-column is-justify-content-flex-end"><div class="ctrl-add"></div><div><a href="#" class="details-open cb as-icon mx-0 mt-1 mb-0 icon-wrap circle fr"><svg class="icon color-mono"><use href="#iface-dots-horizontal"/></svg></a></div></div><div class="cn-details"></div>	</div></div> <div class="cn-item" data-cid="72089"><div class="photo is-relative"><a href="/cooking/72089-yaica-farshirovannye-tuncom-konservirovannym" title="" target='_blank'><img src='//static.1000.menu/img/content-v2/c8/5a/72089/yaica-farshirovannye-tuncom-konservirovannym_1676306101_prev_hor.jpg' alt="Яйца фаршированные тунцом консервированным" title=""  class='native'></a><div class="flags-panel abs-tr pr-1"><span class="icon-wrap circle has-video ml-1 my-1" title="С пошаговыми фото">
+						<svg class="icon smaller"><use href="#iface-steps"/></svg>
+					</span></div>	</div>	<div class="info-preview">		<div class="icons level is-mobile font-small my-0 pt-2">		<div class="level-left">
+									<svg class="icon color-mono small mr-1"><use href="#iface-cals"/></svg>  <span title="Калорийность блюда на 100г">171 ккал</span> </div>			<div class="level-right"><svg class="icon color-mono small mr-1"><use href="#iface-clock"/></svg>  <span title="Время приготовления блюда">20 мин </span>		</div>		</div><a class="h5" href="/cooking/72089-yaica-farshirovannye-tuncom-konservirovannym" target="_blank">Яйца фаршированные тунцом консервированным</a>		<div class="preview-text">Это так просто, быстро и вкусно, что вы удивитесь!		</div><div class="mt-1 is-flex is-flex-grow-1 is-flex-direction-column is-justify-content-flex-end"><div class="ctrl-add"></div><div><a href="#" class="details-open cb as-icon mx-0 mt-1 mb-0 icon-wrap circle fr"><svg class="icon color-mono"><use href="#iface-dots-horizontal"/></svg></a></div></div><div class="cn-details"></div>	</div></div></div>	<div class='ta-right'>
+		<span class='isp q helper-q' title='Все новые рецепты, имеющие пошаговые фото, в течении суток после прохождения модерации попадают в этот рейтинг'></span>
+		<a href="/cooking/oll" class="cb with-icon info"><svg class="icon"><use href="#iface-new-window"/></svg>Смотреть все новые рецепты</a>
+	</div>
+</div>
+
+<div id="ads_main_gen" class="ib"></div>
+<div class="rating-block ib">
+
+	<div class="is-flex is-align-items-center">
+		<h2 class="my-0">Самые популярные подборки рецептов</h2>
+		<a href="/catalog/popular" class="as-icon ml"><svg class="icon mr"><use href="#iface-new-window"/></svg></a>
+	</div>
+
+	<div class="cooking-block"><div class='item-catalog'><div class="photo"><a href="/catalog/iz-kalmarov" title="Блюда с кальмарами"><img src='//static.1000.menu/img/content_catalog/180.jpg' alt="Блюда с кальмарами" title="Блюда с кальмарами" ></a></div><div class='name elli multiline'><a title='Блюда с кальмарами' href='/catalog/iz-kalmarov' class='h5'>Блюда с кальмарами</a></div></div><div class='item-catalog'><div class="photo"><a href="/catalog/pechenje-domashnee" title="Печенье домашнее"><img src='//static.1000.menu/img/content/834/biskvitnoe-pechene-savoyardi_30107_1336734064.jpg' alt="Печенье домашнее" title="Печенье домашнее" ></a></div><div class='name elli multiline'><a title='Печенье домашнее' href='/catalog/pechenje-domashnee' class='h5'>Печенье домашнее</a></div></div><div class='item-catalog'><div class="photo"><a href="/catalog/iz-risa" title="Блюда с рисом"><img src='//static.1000.menu/img/content_catalog/129.jpg' alt="Блюда с рисом" title="Блюда с рисом" ></a></div><div class='name elli multiline'><a title='Блюда с рисом' href='/catalog/iz-risa' class='h5'>Блюда с рисом</a></div></div><div class='item-catalog'><div class="photo"><a href="/catalog/iz-morkovi" title="Блюда с морковью"><img src='//static.1000.menu/img/content_catalog/157.jpg' alt="Блюда с морковью" title="Блюда с морковью" ></a></div><div class='name elli multiline'><a title='Блюда с морковью' href='/catalog/iz-morkovi' class='h5'>Блюда с морковью</a></div></div><div class='item-catalog'><div class="photo"><a href="/catalog/blinj-i-blinchiki" title="Блины и блинчики"><img src='//static.1000.menu/img/content/13358/pankeiki-na-kefire_1434209040_0_min.jpg' alt="Блины и блинчики" title="Блины и блинчики" ></a></div><div class='name elli multiline'><a title='Блины и блинчики' href='/catalog/blinj-i-blinchiki' class='h5'>Блины и блинчики</a></div></div><div class='item-catalog'><div class="photo"><a href="/catalog/pasxalnye-kulichi" title="Пасхальные куличи"><img src='//static.1000.menu/img/content/11667/pasxalnyi-kulich-na-jeltkax_1398190597_0_min.jpg' alt="Пасхальные куличи" title="Пасхальные куличи" ></a></div><div class='name elli multiline'><a title='Пасхальные куличи' href='/catalog/pasxalnye-kulichi' class='h5'>Пасхальные куличи</a></div></div></div>	<div class='ta-right'>
+		<a href="/catalog/popular" class="cb with-icon info"><svg class="icon"><use href="#iface-new-window"/></svg>Смотреть 100 самых популярных подборок</a>
+	</div>
+</div>
+
+<div class="rating-block ib">
+
+	<div class="is-flex is-align-items-center">
+		<h2 class="my-0">Самые лучшие рецепты</h2>
+		<a href="/cooking" class="as-icon ml"><svg class="icon mr"><use href="#iface-new-window"/></svg></a>
+	</div>
+
+	<div class="cooking-block" > <div class="cn-item" data-cid="34010"><div class="photo is-relative"><a href="/cooking/34010-aleksandriiskii-kulich-na-toplenom-moloke" title="" target='_blank'><img src='//static.1000.menu/img/content-v2/62/4e/34010/aleksandriiskii-kulich-na-toplenom-moloke_1615378648_prev_hor.jpg' alt="Александрийский кулич на топленом молоке" title=""  class='native'></a><div class="flags-panel abs-tr pr-1"><span class="icon-wrap circle has-video ml-1 my-1" title="С пошаговыми фото">
+						<svg class="icon smaller"><use href="#iface-steps"/></svg>
+					</span><span class="icon-wrap circle has-video ml-1 my-1" title="С видео">
+						<svg class="icon smaller"><use href="#iface-play"/></svg>
+					</span></div>	</div>	<div class="info-preview">		<div class="icons level is-mobile font-small my-0 pt-2">		<div class="level-left">
+									<svg class="icon color-mono small mr-1"><use href="#iface-cals"/></svg>  <span title="Калорийность блюда на 100г">315 ккал</span> </div>			<div class="level-right"><svg class="icon color-mono small mr-1"><use href="#iface-clock"/></svg>  <span title="Время приготовления блюда">12 ч </span>		</div>		</div><a class="h5" href="/cooking/34010-aleksandriiskii-kulich-na-toplenom-moloke" target="_blank">Александрийский кулич на топленом молоке</a>		<div class="preview-text">Воздушная, ароматная, нежная, самая лучшая выпечка на Пасху!		</div><div class="mt-1 is-flex is-flex-grow-1 is-flex-direction-column is-justify-content-flex-end"><div class="ctrl-add"></div><div><a href="#" class="details-open cb as-icon mx-0 mt-1 mb-0 icon-wrap circle fr"><svg class="icon color-mono"><use href="#iface-dots-horizontal"/></svg></a></div></div><div class="cn-details"></div>	</div></div> <div class="cn-item" data-cid="46897"><div class="photo is-relative"><a href="/cooking/46897-kulich-kraffin-pasxalnyi" title="" target='_blank'><img src='//static.1000.menu/img/content-v2/41/29/46897/kulich-kraffen_1552084416_prev_hor.jpg' alt="Кулич краффин пасхальный" title=""  class='native'></a><div class="flags-panel abs-tr pr-1"><span class="icon-wrap circle has-video ml-1 my-1" title="С пошаговыми фото">
+						<svg class="icon smaller"><use href="#iface-steps"/></svg>
+					</span><span class="icon-wrap circle has-video ml-1 my-1" title="С видео">
+						<svg class="icon smaller"><use href="#iface-play"/></svg>
+					</span></div>	</div>	<div class="info-preview">		<div class="icons level is-mobile font-small my-0 pt-2">		<div class="level-left">
+									<svg class="icon color-mono small mr-1"><use href="#iface-cals"/></svg>  <span title="Калорийность блюда на 100г">313 ккал</span> </div>			<div class="level-right"><svg class="icon color-mono small mr-1"><use href="#iface-clock"/></svg>  <span title="Время приготовления блюда">2 ч </span>		</div>		</div><a class="h5" href="/cooking/46897-kulich-kraffin-pasxalnyi" target="_blank">Кулич краффин пасхальный</a>		<div class="preview-text">Очень красиво и вкусно! Испеки на Пасху!		</div><div class="mt-1 is-flex is-flex-grow-1 is-flex-direction-column is-justify-content-flex-end"><div class="ctrl-add"></div><div><a href="#" class="details-open cb as-icon mx-0 mt-1 mb-0 icon-wrap circle fr"><svg class="icon color-mono"><use href="#iface-dots-horizontal"/></svg></a></div></div><div class="cn-details"></div>	</div></div> <div class="cn-item" data-cid="27902"><div class="photo is-relative"><a href="/cooking/27902-kotlety-iz-farsha-klassicheskie-na-skovorode" title="" target='_blank'><img src='//static.1000.menu/img/content-v2/b8/15/27902/kotlety-iz-farsha-na-skovorode_1573240382_prev_hor.jpg' alt="Сочные котлеты из фарша классические на сковороде" title=""  class='native'></a><div class="flags-panel abs-tr pr-1"><span class="icon-wrap circle has-video ml-1 my-1" title="С пошаговыми фото">
+						<svg class="icon smaller"><use href="#iface-steps"/></svg>
+					</span><span class="icon-wrap circle has-video ml-1 my-1" title="С видео">
+						<svg class="icon smaller"><use href="#iface-play"/></svg>
+					</span></div>	</div>	<div class="info-preview">		<div class="icons level is-mobile font-small my-0 pt-2">		<div class="level-left">
+									<svg class="icon color-mono small mr-1"><use href="#iface-cals"/></svg>  <span title="Калорийность блюда на 100г">272 ккал</span> </div>			<div class="level-right"><svg class="icon color-mono small mr-1"><use href="#iface-clock"/></svg>  <span title="Время приготовления блюда">1 ч </span>		</div>		</div><a class="h5" href="/cooking/27902-kotlety-iz-farsha-klassicheskie-na-skovorode" target="_blank">Сочные котлеты из фарша классические на сковороде</a>		<div class="preview-text">Вкусные, сытные, мягкие, на каждый день.		</div><div class="mt-1 is-flex is-flex-grow-1 is-flex-direction-column is-justify-content-flex-end"><div class="ctrl-add"></div><div><a href="#" class="details-open cb as-icon mx-0 mt-1 mb-0 icon-wrap circle fr"><svg class="icon color-mono"><use href="#iface-dots-horizontal"/></svg></a></div></div><div class="cn-details"></div>	</div></div> <div class="cn-item" data-cid="39422"><div class="photo is-relative"><a href="/cooking/39422-ris-na-skovorode" title="" target='_blank'><img src='//static.1000.menu/img/content-v2/22/45/39422/ris-na-skovorode_1569958648_prev_hor.jpg' alt="Рис на сковороде рассыпчатый" title=""  class='native'></a><div class="flags-panel abs-tr pr-1"><span class="icon-wrap circle has-video ml-1 my-1" title="С пошаговыми фото">
+						<svg class="icon smaller"><use href="#iface-steps"/></svg>
+					</span><span class="icon-wrap circle has-video ml-1 my-1" title="С видео">
+						<svg class="icon smaller"><use href="#iface-play"/></svg>
+					</span></div>	</div>	<div class="info-preview">		<div class="icons level is-mobile font-small my-0 pt-2">		<div class="level-left">
+									<svg class="icon color-mono small mr-1"><use href="#iface-cals"/></svg>  <span title="Калорийность блюда на 100г">147 ккал</span> </div>			<div class="level-right"><svg class="icon color-mono small mr-1"><use href="#iface-clock"/></svg>  <span title="Время приготовления блюда">30 мин </span>		</div>		</div><a class="h5" href="/cooking/39422-ris-na-skovorode" target="_blank">Рис на сковороде рассыпчатый</a>		<div class="preview-text">Просто, очень вкусно, на скорую руку, на каждый день!		</div><div class="mt-1 is-flex is-flex-grow-1 is-flex-direction-column is-justify-content-flex-end"><div class="ctrl-add"></div><div><a href="#" class="details-open cb as-icon mx-0 mt-1 mb-0 icon-wrap circle fr"><svg class="icon color-mono"><use href="#iface-dots-horizontal"/></svg></a></div></div><div class="cn-details"></div>	</div></div> <div class="cn-item" data-cid="45425"><div class="photo is-relative"><a href="/cooking/45425-tvorojnyi-kulich-bez-drojjei" title="" target='_blank'><img src='//static.1000.menu/img/content-v2/31/83/45425/tvorojnyi-kulich-bez-drojjei_1675001706_prev_hor.jpg' alt="Творожный кулич без дрожжей как кекс" title=""  class='native'></a><div class="flags-panel abs-tr pr-1"><span class="icon-wrap circle has-video ml-1 my-1" title="С пошаговыми фото">
+						<svg class="icon smaller"><use href="#iface-steps"/></svg>
+					</span><span class="icon-wrap circle has-video ml-1 my-1" title="С видео">
+						<svg class="icon smaller"><use href="#iface-play"/></svg>
+					</span></div>	</div>	<div class="info-preview">		<div class="icons level is-mobile font-small my-0 pt-2">		<div class="level-left">
+									<svg class="icon color-mono small mr-1"><use href="#iface-cals"/></svg>  <span title="Калорийность блюда на 100г">313 ккал</span> </div>			<div class="level-right"><svg class="icon color-mono small mr-1"><use href="#iface-clock"/></svg>  <span title="Время приготовления блюда">2 ч </span>		</div>		</div><a class="h5" href="/cooking/45425-tvorojnyi-kulich-bez-drojjei" target="_blank">Творожный кулич без дрожжей как кекс</a>		<div class="preview-text">Пышный, нежный, мягкий, потрясающе вкусный!		</div><div class="mt-1 is-flex is-flex-grow-1 is-flex-direction-column is-justify-content-flex-end"><div class="ctrl-add"></div><div><a href="#" class="details-open cb as-icon mx-0 mt-1 mb-0 icon-wrap circle fr"><svg class="icon color-mono"><use href="#iface-dots-horizontal"/></svg></a></div></div><div class="cn-details"></div>	</div></div> <div class="cn-item" data-cid="17348"><div class="photo is-relative"><a href="/cooking/17348-steik-ribai-na-skovorode" title="" target='_blank'><img src='//static.1000.menu/img/content-v2/63/69/17348/steik-ribai-na-skovorode_1602145151_prev_hor.jpg' alt="Стейк рибай на сковороде" title=""  class='native'></a><div class="flags-panel abs-tr pr-1"><span class="icon-wrap circle has-video ml-1 my-1" title="С пошаговыми фото">
+						<svg class="icon smaller"><use href="#iface-steps"/></svg>
+					</span><span class="icon-wrap circle has-video ml-1 my-1" title="С видео">
+						<svg class="icon smaller"><use href="#iface-play"/></svg>
+					</span></div>	</div>	<div class="info-preview">		<div class="icons level is-mobile font-small my-0 pt-2">		<div class="level-left">
+									<svg class="icon color-mono small mr-1"><use href="#iface-cals"/></svg>  <span title="Калорийность блюда на 100г">206 ккал</span> </div>			<div class="level-right"><svg class="icon color-mono small mr-1"><use href="#iface-clock"/></svg>  <span title="Время приготовления блюда">30 мин </span>		</div>		</div><a class="h5" href="/cooking/17348-steik-ribai-na-skovorode" target="_blank">Стейк рибай на сковороде</a>		<div class="preview-text">Такой вкуснятины ты еще не пробовала!		</div><div class="mt-1 is-flex is-flex-grow-1 is-flex-direction-column is-justify-content-flex-end"><div class="ctrl-add"></div><div><a href="#" class="details-open cb as-icon mx-0 mt-1 mb-0 icon-wrap circle fr"><svg class="icon color-mono"><use href="#iface-dots-horizontal"/></svg></a></div></div><div class="cn-details"></div>	</div></div></div>	<div class='ta-right'>
+		<a href="/cooking" class="cb with-icon info"><svg class="icon"><use href="#iface-new-window"/></svg>Смотреть самые популярные рецепты</a>
+	</div>
+</div>
+
+
+	<div class="rating-block ib">
+
+		<div class="is-flex is-align-items-center">
+			<h2 class="my-0">Рейтинг по добавлению в Рецептосохранялки</h2>
+			<a href="/cooking/book" class="as-icon ml"><svg class="icon mr"><use href="#iface-new-window"/></svg></a>
+		</div>
+
+		<div class="cooking-block" > <div class="cn-item" data-cid="50724"><div class="photo is-relative"><a href="/cooking/50724-tvorojnaya-zapekanka-pp-v-duxovke-bez-muki" title="" target='_blank'><img src='//static.1000.menu/img/content-v2/a2/a1/50724/tvorojnaya-zapekanka-pp-v-duxovke-bez-muki_1602407336_prev_hor.jpg' alt="Творожная запеканка пп без муки и манки в духовке" title=""  class='native'></a><div class="flags-panel abs-tr pr-1"><span class="icon-wrap circle has-video ml-1 my-1" title="С пошаговыми фото">
+						<svg class="icon smaller"><use href="#iface-steps"/></svg>
+					</span><span class="icon-wrap circle has-video ml-1 my-1" title="С видео">
+						<svg class="icon smaller"><use href="#iface-play"/></svg>
+					</span></div>	</div>	<div class="info-preview">		<div class="icons level is-mobile font-small my-0 pt-2">		<div class="level-left">
+									<svg class="icon color-mono small mr-1"><use href="#iface-cals"/></svg>  <span title="Калорийность блюда на 100г">138 ккал</span> </div>			<div class="level-right"><svg class="icon color-mono small mr-1"><use href="#iface-clock"/></svg>  <span title="Время приготовления блюда">1 ч </span>		</div>		</div><a class="h5" href="/cooking/50724-tvorojnaya-zapekanka-pp-v-duxovke-bez-muki" target="_blank">Творожная запеканка пп без муки и манки в духовке</a>		<div class="preview-text">Нежная, воздушная, тающая во рту!		</div><div class="mt-1 is-flex is-flex-grow-1 is-flex-direction-column is-justify-content-flex-end"><div class="ctrl-add"></div><div><a href="#" class="details-open cb as-icon mx-0 mt-1 mb-0 icon-wrap circle fr"><svg class="icon color-mono"><use href="#iface-dots-horizontal"/></svg></a></div></div><div class="cn-details"></div>	</div></div> <div class="cn-item" data-cid="70840"><div class="photo is-relative"><a href="/cooking/70840-kotlety-pp-iz-kurinogo-farsha-v-duxovke" title="" target='_blank'><img src='//static.1000.menu/img/content-v2/5f/49/70840/kotlety-pp-iz-kurinogo-farsha-v-duxovke_1673125670_prev_hor.jpg' alt="Котлеты ПП из куриного фарша в духовке" title=""  class='native'></a><div class="flags-panel abs-tr pr-1"><span class="icon-wrap circle has-video ml-1 my-1" title="С пошаговыми фото">
+						<svg class="icon smaller"><use href="#iface-steps"/></svg>
+					</span><span class="icon-wrap circle has-video ml-1 my-1" title="С видео">
+						<svg class="icon smaller"><use href="#iface-play"/></svg>
+					</span></div>	</div>	<div class="info-preview">		<div class="icons level is-mobile font-small my-0 pt-2">		<div class="level-left">
+									<svg class="icon color-mono small mr-1"><use href="#iface-cals"/></svg>  <span title="Калорийность блюда на 100г">102 ккал</span> </div>			<div class="level-right"><svg class="icon color-mono small mr-1"><use href="#iface-clock"/></svg>  <span title="Время приготовления блюда">1 ч </span>		</div>		</div><a class="h5" href="/cooking/70840-kotlety-pp-iz-kurinogo-farsha-v-duxovke" target="_blank">Котлеты ПП из куриного фарша в духовке</a>		<div class="preview-text">Очень полезные, диетические, а еще нежные и сочные!		</div><div class="mt-1 is-flex is-flex-grow-1 is-flex-direction-column is-justify-content-flex-end"><div class="ctrl-add"></div><div><a href="#" class="details-open cb as-icon mx-0 mt-1 mb-0 icon-wrap circle fr"><svg class="icon color-mono"><use href="#iface-dots-horizontal"/></svg></a></div></div><div class="cn-details"></div>	</div></div> <div class="cn-item" data-cid="62245"><div class="photo is-relative"><a href="/cooking/62245-pp-brauni-s-bananom-i-kakao-v-duxovke" title="" target='_blank'><img src='//static.1000.menu/img/content-v2/09/b0/62245/pp-brauni-s-bananom-i-kakao-v-duxovke_1643292663_prev_hor.jpg' alt="ПП брауни с бананом и какао в духовке" title=""  class='native'></a><div class="flags-panel abs-tr pr-1"><span class="icon-wrap circle has-video ml-1 my-1" title="С пошаговыми фото">
+						<svg class="icon smaller"><use href="#iface-steps"/></svg>
+					</span><span class="icon-wrap circle has-video ml-1 my-1" title="С видео">
+						<svg class="icon smaller"><use href="#iface-play"/></svg>
+					</span></div>	</div>	<div class="info-preview">		<div class="icons level is-mobile font-small my-0 pt-2">		<div class="level-left">
+									<svg class="icon color-mono small mr-1"><use href="#iface-cals"/></svg>  <span title="Калорийность блюда на 100г">168 ккал</span> </div>			<div class="level-right"><svg class="icon color-mono small mr-1"><use href="#iface-clock"/></svg>  <span title="Время приготовления блюда">1 ч </span>		</div>		</div><a class="h5" href="/cooking/62245-pp-brauni-s-bananom-i-kakao-v-duxovke" target="_blank">ПП брауни с бананом и какао в духовке</a>		<div class="preview-text">Невероятно вкусное шоколадное лакомство без сахара!		</div><div class="mt-1 is-flex is-flex-grow-1 is-flex-direction-column is-justify-content-flex-end"><div class="ctrl-add"></div><div><a href="#" class="details-open cb as-icon mx-0 mt-1 mb-0 icon-wrap circle fr"><svg class="icon color-mono"><use href="#iface-dots-horizontal"/></svg></a></div></div><div class="cn-details"></div>	</div></div> <div class="cn-item" data-cid="71297"><div class="photo is-relative"><a href="/cooking/71297-tort-minutka-na-skovorode-so-sguschenkoi" title="" target='_blank'><img src='//static.1000.menu/img/content-v2/f7/2a/71297/tort-minutka-na-skovorode-so-sguschenkoi_1674489932_prev_hor.jpg' alt="Торт Минутка на сковороде со сгущенкой" title=""  class='native'></a><div class="flags-panel abs-tr pr-1"><span class="icon-wrap circle has-video ml-1 my-1" title="С пошаговыми фото">
+						<svg class="icon smaller"><use href="#iface-steps"/></svg>
+					</span></div>	</div>	<div class="info-preview">		<div class="icons level is-mobile font-small my-0 pt-2">		<div class="level-left">
+									<svg class="icon color-mono small mr-1"><use href="#iface-cals"/></svg>  <span title="Калорийность блюда на 100г">285 ккал</span> </div>			<div class="level-right"><svg class="icon color-mono small mr-1"><use href="#iface-clock"/></svg>  <span title="Время приготовления блюда">1 ч 45 мин </span>		</div>		</div><a class="h5" href="/cooking/71297-tort-minutka-na-skovorode-so-sguschenkoi" target="_blank">Торт Минутка на сковороде со сгущенкой</a>		<div class="preview-text">Потрясающе вкусный, без духовки и без миксера!		</div><div class="mt-1 is-flex is-flex-grow-1 is-flex-direction-column is-justify-content-flex-end"><div class="ctrl-add"></div><div><a href="#" class="details-open cb as-icon mx-0 mt-1 mb-0 icon-wrap circle fr"><svg class="icon color-mono"><use href="#iface-dots-horizontal"/></svg></a></div></div><div class="cn-details"></div>	</div></div> <div class="cn-item" data-cid="69579"><div class="photo is-relative"><a href="/cooking/69579-tureckii-shokoladnyi-keks-mokryi" title="" target='_blank'><img src='//static.1000.menu/img/content-v2/6e/bc/69579/tureckii-shokoladnyi-keks-mokryi_1668894354_prev_hor.jpg' alt="Турецкий шоколадный кекс мокрый" title=""  class='native'></a><div class="flags-panel abs-tr pr-1"><span class="icon-wrap circle has-video ml-1 my-1" title="С пошаговыми фото">
+						<svg class="icon smaller"><use href="#iface-steps"/></svg>
+					</span><span class="icon-wrap circle has-video ml-1 my-1" title="С видео">
+						<svg class="icon smaller"><use href="#iface-play"/></svg>
+					</span></div>	</div>	<div class="info-preview">		<div class="icons level is-mobile font-small my-0 pt-2">		<div class="level-left">
+									<svg class="icon color-mono small mr-1"><use href="#iface-cals"/></svg>  <span title="Калорийность блюда на 100г">363 ккал</span> </div>			<div class="level-right"><svg class="icon color-mono small mr-1"><use href="#iface-clock"/></svg>  <span title="Время приготовления блюда">2 ч </span>		</div>		</div><a class="h5" href="/cooking/69579-tureckii-shokoladnyi-keks-mokryi" target="_blank">Турецкий шоколадный кекс мокрый</a>		<div class="preview-text">Пористый, мягкий, ароматный, из обычных продуктов!		</div><div class="mt-1 is-flex is-flex-grow-1 is-flex-direction-column is-justify-content-flex-end"><div class="ctrl-add"></div><div><a href="#" class="details-open cb as-icon mx-0 mt-1 mb-0 icon-wrap circle fr"><svg class="icon color-mono"><use href="#iface-dots-horizontal"/></svg></a></div></div><div class="cn-details"></div>	</div></div> <div class="cn-item" data-cid="40300"><div class="photo is-relative"><a href="/cooking/40300-tvorog-s-bananom" title="" target='_blank'><img src='//static.1000.menu/img/content-v2/65/97/40300/tvorog-s-bananom_1572608832_prev_hor.jpg' alt="Творог с бананом" title=""  class='native'></a><div class="flags-panel abs-tr pr-1"><span class="icon-wrap circle has-video ml-1 my-1" title="С пошаговыми фото">
+						<svg class="icon smaller"><use href="#iface-steps"/></svg>
+					</span><span class="icon-wrap circle has-video ml-1 my-1" title="С видео">
+						<svg class="icon smaller"><use href="#iface-play"/></svg>
+					</span></div>	</div>	<div class="info-preview">		<div class="icons level is-mobile font-small my-0 pt-2">		<div class="level-left">
+									<svg class="icon color-mono small mr-1"><use href="#iface-cals"/></svg>  <span title="Калорийность блюда на 100г">145 ккал</span> </div>			<div class="level-right"><svg class="icon color-mono small mr-1"><use href="#iface-clock"/></svg>  <span title="Время приготовления блюда">15 мин </span>		</div>		</div><a class="h5" href="/cooking/40300-tvorog-s-bananom" target="_blank">Творог с бананом</a>		<div class="preview-text">Нежный, полезный, безумно вкусный. Для всей семьи.		</div><div class="mt-1 is-flex is-flex-grow-1 is-flex-direction-column is-justify-content-flex-end"><div class="ctrl-add"></div><div><a href="#" class="details-open cb as-icon mx-0 mt-1 mb-0 icon-wrap circle fr"><svg class="icon color-mono"><use href="#iface-dots-horizontal"/></svg></a></div></div><div class="cn-details"></div>	</div></div></div>
+		<div class='ta-right'>
+			<a href="/cooking/book" class="cb with-icon info"><svg class="icon"><use href="#iface-new-window"/></svg>Смотреть самые добавляемые рецепты в Рецептосохранялки</a>
+		</div>
+	</div>
+	
+	<div class="noprint"><script>
+  $(function(){
+    var ww = iface.viewport().width, c = $('#ads_main_gen');
+    if(!c||!c.length||iface.viewport_is('fullhd')){
+      return;
+    }
+    c.addClass('ta-center fb ib');
+    (function(w, d, n, s, t) {
+      w[n] = w[n] || [];
+      w[n].push(function() {
+        Ya.Context.AdvManager.render({
+          blockId: "R-A-418964-1",
+          renderTo: c.attr('id')
+        }
+        // ,function(){
+        //   iface.jsappend.load('https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js', {crossorigin: "anonymous"}, {appendTo: "main"});
+        //   c.append(
+        //      `<ins class="adsbygoogle cont_300"
+        //      style="display:block"
+        //      data-ad-client="ca-pub-9291873673890814"
+        //      data-ad-format="auto"
+        //      data-ad-slot="8698121683"
+        //      data-full-width-responsive="true"></ins>`
+        //   );
+        //   (adsbygoogle = window.adsbygoogle || []).push({});
+        // }
+        );
+      });
+      iface.jsappend.load("https://yandex.ru/ads/system/context.js");
+    })(window, window.document, "yaContextCb");
+  });
+</script></div>
+</section>
+
+
+	<section id='magazine' class='ib'>
+
+		<div class="is-flex is-align-items-center ib">
+			<h2 class="my-0">Кулинарный журнал Февраль 2023</h2>
+			<a href="/journal" class="as-icon ml"><svg class="icon mr"><use href="#iface-new-window"/></svg></a>
+		</div>
+
+
+		<div class='articles clf'>
+			<div class="cooking-block"> <div class="cn-item" data-cid="57049"><div class="photo is-relative"><a href="/table/57049-luchshee-maslo-dlya-jarki-kakoe-ono" title="" target='_blank'><img src='//static.1000.menu/files/user-v2/8c/c2/489082/cont/57049_luchshee-maslo-dlya-jarki-kakoe-ono_min.jpg' alt="Лучшее масло для жарки какое оно" title="" ></a>	</div>	<div class="info-preview">		<div class="icons level is-mobile font-small my-0 pt-2">			<div class="level-right">		</div>		</div><a class="h5" href="/table/57049-luchshee-maslo-dlya-jarki-kakoe-ono" target="_blank">Лучшее масло для жарки какое оно</a>		<div class="preview-text">Узнаем о различиях между маслами и о том, почему их нельзя перегревать!		</div><div class="mt-1 is-flex is-flex-grow-1 is-flex-direction-column is-justify-content-flex-end"><div class="ctrl-add"></div><div></div></div><div class="cn-details"></div>	</div></div> <div class="cn-item" data-cid="71924"><div class="photo is-relative"><a href="/table/71924-ovsyanaya-muka" title="" target='_blank'><img src='//static.1000.menu/img/content-v2/ec/19/71924/ovsyanaya-muka_1676567288_prev_hor.jpg' alt="Овсяная мука" title="" ></a>	</div>	<div class="info-preview">		<div class="icons level is-mobile font-small my-0 pt-2">			<div class="level-right">		</div>		</div><a class="h5" href="/table/71924-ovsyanaya-muka" target="_blank">Овсяная мука</a>		<div class="preview-text">Все секреты приготовления лучшей выпечки с овсяной мукой!		</div><div class="mt-1 is-flex is-flex-grow-1 is-flex-direction-column is-justify-content-flex-end"><div class="ctrl-add"></div><div></div></div><div class="cn-details"></div>	</div></div></div><div class="ta-right">
+	<div class="button-group split-dropdown">
+		<a href="/journal" class="cb info with-icon">
+			<svg class="icon"><use href="#iface-new-window"></use></svg>
+			Кулинарный журнал Февраль 2023		</a>
+		<button type="button" class="info cochandler"></button>
+		<div class="cocpopup">
+			<ul>
+				<li>
+					<a href="/journal/archive/2023-1">
+						Кулинарный журнал Январь 2023					</a>
+				</li>
+				<li>
+					<a href="/journal/archive">
+						Архив журнала					</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
+		</div>
+
+	</section>
+
+
+<section id='user_ratings' class='ib'>
+	
+	<div class="is-flex is-align-items-center mb-5">
+		<h2 class="my-0">Топ кулинаров</h2>
+		<a href="#" data-loc="/user" class="as-icon ml"><svg class="icon mr"><use href="#iface-new-window"/></svg></a>
+	</div>
+
+	<div class="user-list"><div class="item user"><div class="photo"><a  data-loc="/user/158802"  href="#" title="katushafin" class=' clinks'><img src='//static.1000.menu/files/user-v2/f5/51/158802/avatar_1638445899.jpg' alt="katushafin" title="katushafin" ></a><div class="rating-wrap"><div class="user-main-rating-small rating r6 m-auto"></div></div></div><a class='name clinks' href='#'  data-loc="/user/158802" >katushafin</a></div><div class="item user"><div class="photo"><a  data-loc="/user/72132"  href="#" title="Мария" class=' clinks clinks'><img src='//static.1000.menu/files/user-v2/4f/12/72132/avatar_1638288391.jpg' alt="Мария" title="Мария" ></a><div class="rating-wrap"><div class="user-main-rating-small rating r6 m-auto"></div></div></div><a class='name clinks clinks' href='#'  data-loc="/user/72132" >Мария</a></div><div class="item user"><div class="photo"><a  data-loc="/user/179999"  href="#" title="Юлия М." class=' clinks clinks clinks'><img src='//static.1000.menu/files/user-v2/c1/a4/179999/ava_179999.1627155665.jpg' alt="Юлия М." title="Юлия М." ></a><div class="rating-wrap"><div class="user-main-rating-small rating r6 m-auto"></div></div></div><a class='name clinks clinks clinks' href='#'  data-loc="/user/179999" >Юлия М.</a></div><div class="item user"><div class="photo"><a  data-loc="/user/640904"  href="#" title="Irinyshka" class=' clinks clinks clinks clinks'><img src='//static.1000.menu/files/user-v2/d5/33/640904/avatar_1664041220.jpg' alt="Irinyshka" title="Irinyshka" ></a><div class="rating-wrap"><div class="user-main-rating-small rating r6 m-auto"></div></div></div><a class='name clinks clinks clinks clinks' href='#'  data-loc="/user/640904" >Irinyshka</a></div><div class="item user"><div class="photo"><a  data-loc="/user/44552"  href="#" title="Юлия" class=' clinks clinks clinks clinks clinks'><img src='//static.1000.menu/img/user/ava_44552_1449752798.jpg' alt="Юлия" title="Юлия" ></a><div class="rating-wrap"><div class="user-main-rating-small rating r6 m-auto"></div></div></div><a class='name clinks clinks clinks clinks clinks' href='#'  data-loc="/user/44552" >Юлия</a></div><div class="item user"><div class="photo"><a  data-loc="/user/194321"  href="#" title="Жемчужинка" class=' clinks clinks clinks clinks clinks clinks'><img src='//static.1000.menu/files/user-v2/8c/a4/194321/ava_194321.1568294286.jpg' alt="Жемчужинка" title="Жемчужинка" ></a><div class="rating-wrap"><div class="user-main-rating-small rating r6 m-auto"></div></div></div><a class='name clinks clinks clinks clinks clinks clinks' href='#'  data-loc="/user/194321" >Жемчужинка</a></div></div>
+	<div class='ta-right fb'>
+		<span class='isp q helper-q' title='Топ кулинаров выводится по результатам добавления пользователями своих рецептов с пошаговыми фотографиями за последние 60 дней'></span>
+		<a href="#" data-loc="/user" class="cb with-icon info clinks"><svg class="icon"><use href="#iface-new-window"/></svg>Смотреть всех пользователей</a>
+	</div>
+
+</section>
+
+<section id='prop_text'>
+	<h2>Самые вкусные кулинарные рецепты. Готовим дома вкусно и с любовью</h2><p>"Что сегодня приготовить?" - вопрос, который рано или поздно возникает у любой хозяйки. Ведь каждой из нас так хочется порадовать своих родных или гостей каким-то абсолютно новым, но от этого не менее вкусным блюдом. Да таким, чтоб услышать в свой адрес что-то более существенное и приятное, чем: "Спасибо, очень вкусно". И при этом абсолютно неважно, кто Вы, новичок в создании домашних кулинарных шедевров или же кулинар-виртуоз со стажем, успевший уже постичь все тайны и премудрости этого нелегкого мастерства. Благодарности за свой труд желает каждый!<br />
+Так что поздравляем, Вы оказались в нужное время в нужном месте, коим и является наш кулинарный сайт. Ведь здесь собрано множество разнообразных рецептов, которые обязательно придутся по вкусу Вашим домашним гурманам. Отныне приготовление вкусных блюд и еды в домашних условиях станет для Вас намного проще, интереснее, а главное, разнообразнее и еще вкуснее. <br />
+Наши кулинарные рецепты с фото (а куда ж сейчас без них?) помогут Вам справиться с любой задачей: от завтрака до ужина, включая полдники, обеды, десерты, напитки, в общем, все, что только можно приготовить. Здесь собраны рецепты разных стран (от голубцов до суши), рецепты любой сложности, длительности и разнообразия ингредиентов. Повседневные и праздничные блюда, сложные и простые рецепты вкусных блюд с фото на скорую руку. Поверьте, на просторах нашего кулинарного сайта Вы найдете рецепт на любой случай жизни, способный привести в восторг даже самого требовательного гурмана. <br />
+Говорят, самое главное в приготовлении любого блюда - это готовить его с любовью. А благодаря нашим рецептам Вы непременно полюбите готовить!<p></section>
+
+<script>
+	$(function(){
+		if (window.location.hash == '#catalog'){
+			$("#catalog_list").slideToggle();
+			scrollto_byid('catalog_list');
+		}
+	});
+</script>
+</div>
+<div class='mfp-hide'>
+	<div id="enter_login" class='login-form win-popup win-narrow'>
+		
+		<div id="enter_login_info"></div>
+		
+		<form action="/script/login" method="POST">
+
+	<span class="as-header mt-0">Вход</span>
+
+	<div class="ib-s grid-form mw-hs">
+		
+		<div class="font-bold">
+			Е-майл:
+		</div>
+		<div>
+			<input type="text" maxlength="250" name="login" size="25" class="extended-item">
+		</div>
+		
+		<div class="font-bold">
+			Пароль:
+		</div>
+		<div class="columns is-mobile is-gapless">
+
+			<div class="column is-flex is-align-items-center">
+				<input type="password" maxlength="250" name="password" class="pass_login_header extended-item" size="25">
+			</div>
+
+			<div class="column is-narrow">
+				<button type="button" onclick='iface.show_hide_pass("pass_login_header")' class="ml-2 cb as-icon my-0">
+					<span class="pass_login_header_swi">
+						<svg class="icon"><use href="#iface-unlocked"/></svg>
+					</span>
+				</button>
+			</div>
+
+		</div>
+	</div>
+
+	<div class='ib-s'>
+		<label><input type="checkbox" name="remember" value="1"> Запомнить меня</label>
+		<span class="isp q helper-q" title="Данная опция позволяет запомнить вход на этом устройстве. Зачеркните эту опцию, если вы полностью доверяете данному устройству и месту подключения. Если же вы заходите с чужого устройства или находитесь на публичном Wi-Fi, не используйте данную опцию"></span>
+	</div>
+	
+	<div class='ib-s'>
+		<input type="submit" value="Вход" class="cb green">
+	</div>
+</form>		
+		<div class='ib-s'><a href="#" class="err cbpopup" data-loc='#enter_reset_pass'>Забыли свой пароль?</a></div>
+		
+		<div class='ib-s'><a href="/user/new">Еще не зарегистрированы?</a></div>
+		
+		<span class="as-header fb">Вход через социальную сеть</span>
+		
+		<div class="ta-center">
+			<form action="/ajax/free/auth_get" method="POST"><button class="btn-social-reg as-icon mx-1 my-1" name="provider" type="submit" title="Facebook" value="facebook"><svg class="icon"><use href="#iface-soc-facebook"/></svg></button><button class="btn-social-reg as-icon mx-1 my-1" name="provider" type="submit" title="Google" value="google"><svg class="icon"><use href="#iface-soc-google"/></svg></button><button class="btn-social-reg as-icon mx-1 my-1" name="provider" type="submit" title="ВКонтакте" value="vk"><svg class="icon"><use href="#iface-soc-vkontakte"/></svg></button><button class="btn-social-reg as-icon mx-1 my-1" name="provider" type="submit" title="Яндекс" value="yandex"><svg class="icon"><use href="#iface-soc-yandex"/></svg></button><button class="btn-social-reg as-icon mx-1 my-1" name="provider" type="submit" title="Одноклассники" value="odnoklassniki"><svg class="icon"><use href="#iface-soc-odnoklassniki"/></svg></button></form>		</div>
+
+	</div>
+	
+	<form action="/script/my_password" method="POST" id="enter_reset_pass" class='login-form win-popup'>
+
+		<span class="as-header mt-0">Восстановление пароля</span>
+
+		<div class='bi ib'>
+			Введите ваш адрес электронной почты (E-mail) и нажмите на кнопку "Выслать новый пароль". В течение пары минут вы получите на него ссылку для обновления вашего пароля.		</div>
+
+		<div class='ib'>
+			Введите ваш E-mail: <input type="text" maxlength="250" name="mail" class="mr mb-2" size="25">
+			
+			<input type="submit" value="Выслать ссылку для обновления пароля" class="cb">
+		</div>
+
+		<div>
+			<a href="#" class="cbpopup" data-loc='#enter_login'>Я знаю свой е-майл и пароль и хочу войти на сайт</a>
+		</div>
+	</form>
+</div>
+</main>	</div>
+</div><footer>
+	<div class="container wrap py-4 px-4 noprint">
+
+		<div class="columns has-flex-row-reverse">
+			<div id="fast-subscribe-box" class="column is-3">
+				
+				<div class="font-bold text-uppercased font-big">
+					Подписывайся на рассылку новых рецептов и советов!
+				</div>
+				
+				<div class="inputs is-flex my-2 is-flex-wrap-wrap cb-box-mob">
+					
+					<input type="text" size="20" placeholder="Введите е-майл" id="e-subscribe-mail" class="br px-2 py-2 my-1">
+					
+					<button class="with-icon with-icon my-1" id="e-subscribe">
+						<svg class="icon">
+							<use href="#iface-mail"></use>
+						</svg>
+						Подписаться
+					</button>
+				</div>
+				
+				<div class="my-1">Подписавшись на рассылку новостей, Вы соглашаетесь с <a href="/pravila-saita">правилами и регистрацией на сайте 1000.menu</a></div>
+			</div>
+
+			<div class="column">
+
+				<nav class="columns is-multiline">
+					
+					<ul class="footer-menu-block column is-narrow">
+						<li>
+							<a href="#" class="clinks" data-loc="/">Главная</a>
+						</li>
+						<li>
+							<a href="#" class="clinks" data-loc="/pravila-saita">Правила сайта</a>
+						</li>
+						<li>
+							<a href="#" class="clinks" data-loc="/politika-konfidencialnosti">Политика конфиденциальности</a>
+						</li>
+						<li>
+							<a href="/cookie-policy">Политика Cookies</a>
+						</li>
+						<li>
+							<a href="/dobavlenie-receptov-po-zakazu">Работа на сайте</a>
+						</li>
+						<li>
+							<a href="/contact">Контакты</a>
+						</li>
+					</ul>
+
+					<ul class="footer-menu-block column is-narrow">
+						<li>
+							<a href="#" class="clinks" data-loc="/cooking">Лучшие рецепты</a>
+						</li>
+						<li>
+							<a href="#" class="clinks" data-loc="/advice">Кулинарные советы</a>
+						</li>
+						<li>
+							<a href="#" class="clinks" data-loc="/slovar">Кулинарный словарь</a>
+						</li>
+						<li>
+							<a href="#" class="clinks" data-loc="/kalorijnost-produkta">Калорийность продуктов</a>
+						</li>
+						<li>
+							<a href="#" class="clinks" data-loc="/journal">Кулинарный журнал</a>
+						</li>
+						<li>
+							<a href="#" class="clinks" data-loc="/journal/archive">Архив кулинарного журнала</a>
+						</li>
+
+					</ul>
+
+					<ul class="footer-menu-block column is-narrow">
+						<li>
+							<a href="#" class="clinks" data-loc="/cooking/search">Расширенный поиск</a>
+						</li>
+						<li>
+							<a href="#" class="clinks" data-loc="/foto-otchety">Фотоотчеты и комментарии</a>
+						</li>
+						<li>
+							<a href="#" class="clinks" data-loc="/forum">Форум кулинарных рецептов</a>
+						</li>
+						<li>
+							<a href="#" class="clinks" data-loc="/user/list">Кулинарные каналы</a>
+						</li>				
+						
+					</ul>
+				</nav>
+				
+			</div>
+
+		</div>
+	</div>
+
+	<div class="copyright">
+		<strong>
+			© 2010 - 2023 - 1000.menu / Хрумка со вкусом / Рецептосохранялка - моя кулинарная книга		</strong>
+	</div>
+</footer>
+<script>
+	$(document).trigger('xr_dom_ready');
+	
+	if (iface.init_lazy_img.init_lazy_img_call) {
+
+		// window.lazySizesConfig = window.lazySizesConfig || {};
+		window.lazySizesConfig = {
+			// use .lazy instead of .lazyload
+			lazyClass: 'lazy',
+			// use data-original instead of data-src
+			srcAttr: 'data-original',
+		};
+
+		jsasync('https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.3.2/lazysizes.min.js');
+	}
+</script>
+<div class="noprint"></div>	<div id="ad-bottom" class="adbox noprint" data-adplace="4">
+		<div id="ad-bottom-inner">
+			<div id="yandex_rtb_R-A-418964-13"></div>
+
+<script>
+  (function(){
+    if(iface.viewport_is('desktop')){
+      return;
+    }
+
+    // "out-of-the-box" floor ad
+    // if(Math.random() >= 0.5){
+    //   window.yaContextCb = window.yaContextCb || [];
+      
+    //   window.yaContextCb.push(()=>{
+    //     Ya.Context.AdvManager.render({
+    //       type: 'floorAd',
+    //       blockId: 'R-A-418964-14'
+    //     })
+    //   });
+     
+    //   jsasync("https://yandex.ru/ads/system/context.js");
+
+    //   return;
+    // }
+
+    // toggle button
+    $("#ad-bottom").addClass('ready').append(
+      $('<a href="javascript:void(0)" class="hide-toggle-bt opened"><svg class="icon small"><use href="#iface-to-bottom"/></svg></a>').click(function(){
+        var a = $(this);
+        var c = 'opened';
+        $("#ad-bottom-inner").slideToggle();
+        if(a.hasClass('opened')){
+          a.html('<svg class="icon small"><use href="#iface-to-top"/></svg>');
+          a.removeClass(c);
+        }
+        else {
+          a.html('<svg class="icon small"><use href="#iface-to-bottom"/></svg>');
+          a.addClass(c);
+        }
+      })
+    );
+
+    // placeholder
+    $("#yandex_rtb_R-A-418964-13").append(
+      '<div class="adplaceholder">Рекламный блок</div>'
+    );
+
+    // init ad
+    window.yaContextCb = window.yaContextCb || [];
+    window.yaContextCb.push(function(){
+      Ya.Context.AdvManager.render({
+        renderTo: 'yandex_rtb_R-A-418964-13',
+        blockId: 'R-A-418964-13'
+      })
+    });
+    jsasync("https://yandex.ru/ads/system/context.js");
+  })();
+</script>
+
+<style>
+  #ad-bottom.ready {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    padding-top: 0px;
+    background: #f8f8f8;
+    border-top: 1px solid #f0f0f0;
+    z-index: 10;
+  }
+
+  #ad-bottom.ready > .hide-toggle-bt {
+    position: absolute;
+    bottom: 100%;
+    left: 0;
+    width: 50px;
+    height: 30px;
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
+    background: #f8f8f8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #f0f0f0;
+    border-bottom: 1px solid #f8f8f8;
+  }
+
+  #ad-bottom.ready #ad-bottom-inner {
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    width: 100%;
+    height: 100px;
+    position: relative;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  #ad-bottom.ready #yandex_rtb_R-A-418964-13 > .adplaceholder {
+    text-align: center;
+    color: #e9e9e9;
+  }
+</style>		</div>
+	</div>
+	</div></body>
+</html>

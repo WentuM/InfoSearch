@@ -1,0 +1,2395 @@
+<!DOCTYPE html>
+<html lang="ru" ng-app="uraruApp">
+<head>
+	<title ng-bind-html="metaService.metaTitle('РИА URA.RU: Главные новости Урала, России и мира сегодня');">РИА URA.RU: Главные новости Урала, России и мира сегодня</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8;" />
+<!--<meta name="viewport" content="width=device-width, user-scalable=1"/>-->
+<meta name="viewport" content="width=768, user-scalable=1"/>
+
+<meta name="Keywords"
+      content="новости, новости России, новости России и мира, новости сегодня, последние новости, новости Урала"
+      ng-attr-content="{{ metaService.metaKeywords('новости, новости России, новости России и мира, новости сегодня, последние новости, новости Урала') }}"/>
+<meta name="Description"
+      content="Будьте в курсе самых главных и свежих новостей России и мира на сегодняшний день. Читайте о событиях последнего часа и эксклюзивные новости Урала только на URA.RU"
+      ng-attr-content="{{ metaService.metaDescription('Будьте в курсе самых главных и свежих новостей России и мира на сегодняшний день. Читайте о событиях последнего часа и эксклюзивные новости Урала только на URA.RU') }}" />
+<meta property="og:type"
+      content="website"
+      ng-attr-content="{{ metaService.ogType('website') }}" />
+<meta property="og:title"
+      content="РИА URA.RU: Главные новости Урала, России и мира сегодня"
+      ng-attr-content="{{ metaService.ogTitle('РИА URA.RU: Главные новости Урала, России и мира сегодня') }}" />
+<meta property="og:url"
+      content="https://ura.news/"
+      ng-attr-content="{{ metaService.ogUrl('https://ura.news/') }}" />
+<meta property="og:description"
+      content="Читайте на URA.RU"
+      ng-attr-content="{{ metaService.ogDescription('Читайте на URA.RU') }}"  />
+<meta property="fb:app_id"
+      content="204956386294609"
+      ng-attr-content="{{ metaService.fbAppId('204956386294609') }}" />
+<meta property="fb:pages"
+      content="185226544854775"
+      ng-attr-content="{{ metaService.ogPages('185226544854775') }}" />
+<meta name="twitter:card"
+      content="summary_large_image"
+      ng-attr-content="{{ metaService.twitterCard('summary_large_image') }}" />
+<meta name="twitter:site"
+      content="@ura_ru"
+      ng-attr-content="{{ metaService.twitterSite('@ura_ru') }}" />
+<meta name="twitter:creator"
+      content="@ura_ru"
+      ng-attr-content="{{ metaService.twitterCreator('@ura_ru') }}" />
+<meta name="twitter:title"
+      content="РИА URA.RU: Главные новости Урала, России и мира сегодня"
+      ng-attr-content="{{ metaService.twitterTitle('РИА URA.RU: Главные новости Урала, России и мира сегодня') }}" />
+<meta name="twitter:description"
+      content="Читайте на URA.RU"
+      ng-attr-content="{{ metaService.twitterDescription('Читайте на URA.RU') }}" />
+
+
+    <meta property="og:image"
+          content="https://s.ura.news/img/fbimage.jpg"
+          ng-attr-content="{{ metaService.ogImage('https://s.ura.news/img/fbimage.jpg') }}" SOCIALONLY />
+    <meta name="twitter:image"
+          content="https://s.ura.news/img/fbimage.jpg"
+          ng-attr-content="{{ metaService.twitterImage('https://s.ura.news/img/fbimage.jpg') }}" />
+
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+
+    <meta name="robots" content="noyaca"/>
+
+    <meta content="" />
+
+    <meta content="" />
+
+    <link rel="shortcut icon" href="https://s.ura.news/favicon.ico?3" type="image/x-icon">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#0037a1"/>
+    <meta name="theme-color" content="#0037a1">
+    <meta name="msapplication-config" content="browserconfig.xml"/>
+        <link rel="canonical"
+              ng-href="{{ (metaService && metaService.ogUrl()) ? metaService.ogUrl() : 'https://ura.news/' }}"
+              href="https://ura.news/" />
+    <link rel="alternate" type="application/rss+xml" title="URA.RU RSS" href="/rss" />
+    <link rel="alternate"
+          media="only screen and (max-width: 640px)"
+          ng-href="{{ (metaService && metaService.pdaUrl()) ? metaService.pdaUrl() : 'https://m.ura.news/' }}"
+          href="https://m.ura.news/" />
+    <link rel="alternate"
+          media="handheld"
+          ng-href="{{ (metaService && metaService.pdaUrl()) ? metaService.pdaUrl() : 'https://m.ura.news/' }}"
+          href="https://m.ura.news/" />
+    <link rel="search"
+          type="application/opensearchdescription+xml"
+          href="https://ura.news/opensearch.xml"/>
+
+    <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	
+
+    <link rel="preload" href="https://s.ura.news/css/components/cl-main-carousel.min.css?v=16.02.2023-1.0.1" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+    <style>.cl-main-carousel{position:relative;border-bottom:1px solid #e93c4f;width:calc(50% + 275px);margin:0 calc((100% - 1100px)/ 4) 30px 0}.day-news-items__title{position:relative;height:12px;margin-bottom:18px;background:0 0;z-index:1}.day-news-items__title:before{display:block;position:absolute;width:100%;height:1px;border-top:1px solid #e93c4f;content:' ';top:6px}.day-news-items__title h1{color:#e93c4f;position:absolute;background:#fff;top:0;font-size:12px;text-transform:uppercase;letter-spacing:1px;font-weight:400;padding-right:10px;margin:0;line-height:1}.day-news-items__list{height:220px;overflow:hidden;margin:0 20px 0 40px}.day-news-items__item{position:relative;height:220px;float:left;margin:0 20px 0 0;width:220px}.day-news-items__img{width:100%;height:auto;margin-bottom:10px}.day-news-items__item-position{position:absolute;top:10px;left:10px;width:36px;height:36px;border-radius:50%;background-color:rgba(255,255,255,.9)}.day-news-items__item-position:after{position:absolute;left:49%;top:47%;transform:translate(-50%,-50%);font-family:"Segoe UI",sans-serif;font-style:normal;font-weight:600;font-size:24px;color:#000;content:''}.day-news-items__item-position_1:after{content:'1'}.day-news-items__item-position_2:after{content:'2'}.day-news-items__item-position_3:after{content:'3'}.day-news-items__item-position_4:after{content:'4'}.day-news-items__item-position_5:after{content:'5'}.day-news-items__item-position_6:after{content:'6'}.day-news-items__item-position_7:after{content:'7'}.day-news-items__item-position_8:after{content:'8'}.day-news-items__announce{color:#000;font-size:15px;line-height:1.25}@media all and (max-width:1479px){.day-news-items__item{width:175px}}@media all and (max-width:1365px){.cl-main-carousel{width:calc(33% + 270px);margin:0 calc((100% - 810px)/ 3) 30px 0}.day-news-items__list{margin:0 15px 0 35px}.day-news-items__item:nth-child(-n+4){width:calc(100% / 3 - 20px)}}@media all and (max-width:1219px){.day-news-items__item{width:155px}.day-news-items__img{margin-bottom:5px}}@media all and (max-width:1024px){.cl-main-carousel{width:calc(50% + 270px);margin:0 0 30px}.day-news-items__list{height:195px}.day-news-items__item{width:170px;height:195px}.day-news-items__announce{font-size:13px}}@media all and (max-width:767px){.day-news-items__list{height:175px;margin:0 10px 0 30px}.day-news-items__item{width:170px;height:175px}.day-news-items__img{margin-bottom:10px}}.cl-main-carousel #day_news_items .day-news-items__left,.cl-main-carousel #day_news_items .day-news-items__right{position:absolute;top:7px;width:30px;height:calc(100% - 7px);background-image:url(/img/main-carousel/arrow_2.svg);background-repeat:no-repeat;background-color:#fff;background-size:100% auto;background-position:100% 50%;border:none;text-indent:-9000px;padding:0}@media (max-width:1365px){.cl-main-carousel #day_news_items .day-news-items__left,.cl-main-carousel #day_news_items .day-news-items__right{width:25px}}.cl-main-carousel #day_news_items .day-news-items__right{right:0;transform:rotate(180deg)}.cl-main-carousel #day_news_items .day-news-items__container{overflow:hidden;margin:0 20px 0 40px}.cl-main-carousel #day_news_items .day-news-items__list{display:flex;position:relative;height:auto;overflow:initial;margin:0}.cl-main-carousel #day_news_items .day-news-items__list .day-news-items__item{min-width:195px;margin-right:0;padding-right:20px}.h1,body,h1{text-rendering:optimizeLegibility}.h1,h1,h2{font-weight:700}[ng-cloak]{display:none!important}body,img{margin:0;padding:0;border:0}img{display:block}.h1,h1{font-style:normal;font-size:35px;line-height:40px;margin:0 0 20px}h3{margin:0;padding:0}h2{font-size:26px;line-height:28px;margin:10px 0}h3{font-size:16px;line-height:20px;font-weight:400}a{text-decoration:none}.block-title>span{color:#8c8c8c}.block-title{margin:0 0 10px;line-height:10px;letter-spacing:1px;background:url(/img/block-title-bg.png) left center repeat-x}.block-title>span{padding-right:10px;background-color:#fff}.block-title>span{text-transform:uppercase;font-size:9px;line-height:9px;letter-spacing:1px}.eula{color:#000;background-color:#f5f5f5;position:fixed;width:100%;height:100%;top:0;left:0;z-index:5000;padding:20px;box-sizing:border-box}.eula_close{position:relative}.eula_close{width:26px;height:26px;background:url(/img/eula-close.png) center no-repeat;float:right;top:0}.cl-right{width:240px;min-width:240px;max-width:240px;padding-left:20px;padding-right:20px}body{line-height:18px}.col{top:100px;width:auto;height:100%}.list-scroll-date{background:url(/img/block-title-bg.png) left center repeat-x}.list-news>.list-scroll-container:first-child>.list-scroll-date{display:none}.list-scroll-container>ul{margin:0;padding:0;list-style:none}.list-scroll-item .time{font-size:11px;padding-right:5px}input{display:block;outline:0}input[type=text]{color:#000;background-color:#fff;border:1px solid #0039a6;font-size:11px;letter-spacing:1px}button,input[type=text]{font-family:museo_sans_cyrl300,Source-sans-pro,sans-serif}input[type=text]{margin:3px 0 20px;padding:5px 10px;height:26px}.btn,.btn:visited{line-height:23px}.btn,.btn:visited{color:#0039a6;background-color:#fff;border:none;text-align:center;text-decoration:none;padding:0 20px;overflow:hidden;white-space:nowrap;height:23px;top:1px;outline:0}button.btn{box-sizing:border-box}.top-news{margin-right:20px;margin-bottom:40px}.top-news-content{padding:20px 0;width:580px;max-width:580px;margin:0 auto;border-bottom:1px solid #e93c4f}.top-news a{color:#000;text-decoration:none}.top-news .block-title>span{color:#e93c4f}.top-news .block-title{background-image:url(/img/block-title-bg-main.gif)}.top-news-title{font-family:institutregular,sans-serif;font-size:28px;line-height:31px;margin:10px 0}.form-a{color:#c8c8c8}@media only screen and (min-width:1420px){.top-news-content{width:700px}.top-news-content{max-width:700px}}.form{border:1px solid #9b9b9b;border-radius:5px;font-size:12px}.form-a{background-color:#fffdf1}.form-pad{padding:10px;overflow:hidden}button,input{outline:0}.btn{padding:0 9px}.form-a .btn{color:rgba(0,57,166,.7);border-color:rgba(0,57,166,.7)}.icons:before{background-repeat:no-repeat}.icons:before{background-position:center}input[type=text]{border:1px dotted #000;height:35px;line-height:35px;padding:0 10px;margin:0;font-family:'skolar pe';font-size:16px}.clear{clear:both}.icons,.icons:before{width:22px;height:22px}.icons{float:left;margin-left:12px}.icons:before{content:'';display:block;background-size:32px}.icons-mail:before{background-image:url(/img/svg/0038A6/email.svg)}.icons-rss:before{background-image:url(/img/svg/0038A6/rss.svg)}.icons-vk:before{background-image:url(/img/svg/0038A6/vk.svg)}.icons-tw:before{background-image:url(/img/svg/0038A6/twitter.svg)}.icons-ok:before{background-image:url(/img/svg/0038A6/odn.svg)}#header_search_form>.form{border:0;border-radius:0}#header_search_form>.form:before{content:'';display:block;width:55px;background:url(/img/svg/000000/search.svg) center no-repeat;float:left}#header_search_form .btn{height:36px;line-height:32px}#header_search_input{float:left;width:360px;background-color:#fffdf1;border:none;padding:0;font-size:21px;line-height:42px;height:37px}#header_search_submit{float:right;width:100px;position:relative;color:#c8c8c8;border-color:#c8c8c8}.left-col,.list-scroll-date>span{background-color:#f9f9f9}#top_banner_A{background-color:#f1f6ff;height:100px;width:100%;top:0}#top_banner_A>div{display:block;width:100%}.list-scroll-item.is_momenty>a,.list-scroll-item.is_momenty>a:visited{color:#0099bc}.list-scroll-item.is_momenty>a:before{content:' ';display:inline-block;width:18px;height:14px;background:url(/img/svg/momenty-icon.svg) center no-repeat;margin:0 5px 0 0}.list-scroll-item.is_momenty>a:after{content:'  →';display:inline-block}.list-scroll-item.is_momenty .time{display:none}.spec-position{display:none;float:left;clear:both;margin:0 0 30px;height:265px}#cl-main-inner .spec-position{display:none!important}@media all and (min-width:1366px) and (max-width:1479px){#cl-main-inner{padding:30px 0 0 calc((100% - 1000px)/ 4)}#cl-main-inner .top-news{display:block;width:calc(50% + 250px);margin:0 calc((100% - 1000px)/ 4) 30px 0}#cl-main-inner .publication-item{display:block;float:left;width:250px;height:355px;margin:0 calc((100% - 1000px)/ 4) 0 0;padding:0 0 30px;content-visibility:auto}#cl-main-inner .publication-item .publication-item--img{display:block}#cl-main-inner .publication-item:nth-child(11),#cl-main-inner .publication-item:nth-child(5),#cl-main-inner .publication-item:nth-child(8){float:none;overflow:hidden;width:calc(50% + 250px);height:auto}#cl-main-inner .publication-item:nth-child(11) .publication-item--title,#cl-main-inner .publication-item:nth-child(5) .publication-item--title,#cl-main-inner .publication-item:nth-child(8) .publication-item--title{display:inline;font-size:20px}#cl-main-inner .publication-item:nth-child(11) .publication-item--sub-title,#cl-main-inner .publication-item:nth-child(5) .publication-item--sub-title,#cl-main-inner .publication-item:nth-child(8) .publication-item--sub-title{display:inline;vertical-align:baseline;font-size:15px}#cl-main-inner .publication-item:nth-child(11) .publication-item--img,#cl-main-inner .publication-item:nth-child(5) .publication-item--img,#cl-main-inner .publication-item:nth-child(8) .publication-item--img{display:none}#cl-main-inner .publication-item:nth-child(11) .publication-item--sub-title,#cl-main-inner .publication-item:nth-child(11) .publication-item--title{display:inline}#cl-main-inner .cl-right{display:none;min-width:0;max-width:none}#cl-main-inner .cl-right .cl-game-block-position,#cl-main-inner .cl-right .cl-tooday-smi-position{display:block;width:250px;height:355px}#cl-main-inner .cl-right:nth-child(1){display:block;float:right;width:250px;margin:0 calc((100% - 1000px)/ 4) 0 0}#cl-main-inner .cl-right:nth-child(13){display:block;width:250px;height:740px;margin:0 calc((100% - 1000px)/ 4) 30px 0;float:right;min-width:0;max-width:none}#cl-main-inner .cl-right:nth-child(13) .cl-game-block-position{width:250px;height:355px;margin:0 0 30px}#cl-main-inner .spec-position:nth-child(42),#cl-main-inner .spec-position:nth-child(54){display:block;width:calc(75% + 250px)}}@media all and (min-width:1220px) and (max-width:1365px){#cl-main-inner{padding:30px 0 0 calc((100% - 810px)/ 3)}#cl-main-inner .publication-item{display:block;float:left;width:270px;height:365px;margin:0 calc((100% - 810px)/ 3) 0 0;padding:0 0 30px}#cl-main-inner .publication-item .publication-item--img{display:block}#cl-main-inner .spec-position+.cl-right{display:none}#cl-main-inner .cl-right:first-child{display:block;width:270px;margin:0 calc((100% - 810px)/ 3) 30px 0;float:right;min-width:0;max-width:none;height:auto}#cl-main-inner .publication-item:nth-child(5),#cl-main-inner .publication-item:nth-child(8){float:none;overflow:hidden;width:calc(33% + 270px);height:auto}#cl-main-inner .publication-item:nth-child(5) .publication-item--title,#cl-main-inner .publication-item:nth-child(8) .publication-item--title{display:inline}#cl-main-inner .publication-item:nth-child(5) .publication-item--sub-title,#cl-main-inner .publication-item:nth-child(8) .publication-item--sub-title{display:inline;vertical-align:baseline}#cl-main-inner .publication-item:nth-child(5) .publication-item--img,#cl-main-inner .publication-item:nth-child(8) .publication-item--img{display:none}#cl-main-inner .cl-right:nth-child(10){display:block;width:270px;height:760px;margin:0 calc((100% - 810px)/ 3) 30px 0;float:right;min-width:0;max-width:none;clear:both}#cl-main-inner .cl-right:nth-child(10) .cl-game-block-position{width:270px;height:365px;margin:0 0 30px}#cl-main-inner .cl-right:nth-child(10) .cl-tooday-smi-position{width:270px;height:365px;margin:0}#cl-main-inner .spec-position:nth-child(30),#cl-main-inner .spec-position:nth-child(39){display:block;width:calc((200% + 810px)/ 3)}#cl-main-inner .top-news{display:block;width:calc(33% + 270px);margin:0 calc((100% - 810px)/ 3) 30px 0}#cl-main-inner .top-news{margin-bottom:20px}#cl-main-inner .publication-item:nth-child(5) .publication-item--title,#cl-main-inner .publication-item:nth-child(8) .publication-item--title{font-size:28px}#cl-main-inner .publication-item:nth-child(5) .publication-item--sub-title,#cl-main-inner .publication-item:nth-child(8) .publication-item--sub-title{font-size:17px}#cl-main-inner .publication-item:nth-child(5) .publication-item--sub-title,#cl-main-inner .publication-item:nth-child(5) .publication-item--title,#cl-main-inner .publication-item:nth-child(8) .publication-item--sub-title,#cl-main-inner .publication-item:nth-child(8) .publication-item--title{line-height:30px}}@media all and (min-width:1025px) and (max-width:1219px){body{overflow-x:auto}#cl-main-inner{padding:30px 0 0 calc((100% - 750px)/ 3)}#cl-main-inner .publication-item{display:block;float:left;width:250px;height:350px;margin:0 calc((100% - 750px)/ 3) 0 0;padding:0 0 30px}#cl-main-inner .publication-item .publication-item--img{display:block}#cl-main-inner .spec-position+.cl-right{display:none}#cl-main-inner .cl-right:first-child{display:block;width:250px;margin:0 calc((100% - 750px)/ 3) 30px 0;float:right;min-width:0;max-width:none;height:auto}#cl-main-inner .publication-item:nth-child(5),#cl-main-inner .publication-item:nth-child(8){float:none;overflow:hidden;width:calc(33% + 250px);height:auto}#cl-main-inner .publication-item:nth-child(5) .publication-item--title,#cl-main-inner .publication-item:nth-child(8) .publication-item--title{display:inline}#cl-main-inner .publication-item:nth-child(5) .publication-item--sub-title,#cl-main-inner .publication-item:nth-child(8) .publication-item--sub-title{display:inline;vertical-align:baseline}#cl-main-inner .publication-item:nth-child(5) .publication-item--img,#cl-main-inner .publication-item:nth-child(8) .publication-item--img{display:none}#cl-main-inner .cl-right:nth-child(10){display:block;width:250px;height:730px;margin:0 calc((100% - 750px)/ 3) 30px 0;float:right;min-width:0;max-width:none;clear:both}#cl-main-inner .cl-right:nth-child(10) .cl-game-block-position{width:250px;height:350px;margin:0 0 30px}#cl-main-inner .cl-right:nth-child(10) .cl-tooday-smi-position{width:250px;height:350px;margin:0}#cl-main-inner .spec-position:nth-child(30),#cl-main-inner .spec-position:nth-child(39){display:block;width:calc((200% + 750px)/ 3)}#cl-main-inner .top-news{display:block;width:calc(33% + 250px);margin:0 calc((100% - 750px)/ 3) 30px 0}#cl-main-inner .top-news{margin-bottom:20px}#cl-main-inner .top-news-announce{font-size:15px;line-height:20px}#cl-main-inner .top-news-title{line-height:24px}}@media all and (min-width:768px) and (max-width:1024px){body{min-width:768px}#cl-main-inner{padding:20px 0 0 calc((100% - 540px)/ 3)}#cl-main-inner .top-news{display:block;width:calc(50% + 270px);margin:0 calc((100% - 540px)/ 2) 30px 0}#cl-main-inner .publication-item{display:block;float:left;width:270px;height:360px;margin:0 calc((100% - 540px)/ 2) 0 0;padding:0 0 30px}#cl-main-inner .publication-item .publication-item--img{display:block}#cl-main-inner .cl-right,#cl-main-inner .cl-right:first-child{display:none}#cl-main-inner .publication-item:nth-child(5),#cl-main-inner .publication-item:nth-child(8){float:none;overflow:hidden;width:calc(50% + 270px);height:auto}#cl-main-inner .publication-item:nth-child(5) .publication-item--title,#cl-main-inner .publication-item:nth-child(8) .publication-item--title{display:inline}#cl-main-inner .publication-item:nth-child(5) .publication-item--sub-title,#cl-main-inner .publication-item:nth-child(8) .publication-item--sub-title{display:inline;vertical-align:baseline}#cl-main-inner .publication-item:nth-child(5) .publication-item--img,#cl-main-inner .publication-item:nth-child(8) .publication-item--img{display:none}#cl-main-inner .cl-right:nth-child(16){display:block;width:270px;height:750px;margin:0 calc((100% - 540px)/ 2) 30px 0;float:right;min-width:0;max-width:none}#cl-main-inner .cl-right:nth-child(16) .cl-game-block-position{width:270px;height:360px;margin:0 0 30px}#cl-main-inner .cl-right:nth-child(16) .cl-tooday-smi-position{width:270px;height:360px;margin:0}#cl-main-inner .spec-position:nth-child(27),#cl-main-inner .spec-position:nth-child(39){display:block;width:calc(50% + 270px)}#cl-main-inner .top-news{margin-bottom:20px}#cl-main-inner .top-news-announce{font-size:15px;line-height:20px}#cl-main-inner .top-news-title{line-height:24px}}@media all and (max-width:767px){#cl-main-inner{padding:20px 0 0 calc((100% - 520px)/ 3);padding-left:15px}#cl-main-inner .top-news{display:block;width:calc(50% + 260px);margin:0 calc((100% - 520px)/ 2) 30px 0}#cl-main-inner .publication-item{display:block;float:left;width:260px;height:360px;margin:0 calc((100% - 520px)/ 2) 0 0;padding:0 0 30px}#cl-main-inner .publication-item .publication-item--img{display:block}#cl-main-inner .cl-right,#cl-main-inner .cl-right:first-child{display:none}#cl-main-inner .publication-item:nth-child(5),#cl-main-inner .publication-item:nth-child(8){float:none;overflow:hidden;width:calc(50% + 260px);height:auto}#cl-main-inner .publication-item:nth-child(5) .publication-item--title,#cl-main-inner .publication-item:nth-child(8) .publication-item--title{display:inline}#cl-main-inner .publication-item:nth-child(5) .publication-item--sub-title,#cl-main-inner .publication-item:nth-child(8) .publication-item--sub-title{display:inline;vertical-align:baseline}#cl-main-inner .publication-item:nth-child(5) .publication-item--img,#cl-main-inner .publication-item:nth-child(8) .publication-item--img{display:none}#cl-main-inner .cl-right:nth-child(16){display:block;width:260px;height:750px;margin:0 calc((100% - 520px)/ 2) 30px 0;float:right;min-width:0;max-width:none}#cl-main-inner .cl-right:nth-child(16) .cl-game-block-position{width:260px;height:360px;margin:0 0 30px}#cl-main-inner .cl-right:nth-child(16) .cl-tooday-smi-position{width:260px;height:360px;margin:0}#cl-main-inner .spec-position:nth-child(27),#cl-main-inner .spec-position:nth-child(39){display:block;width:calc(50% + 260px)}#cl-main-inner .top-news{margin-bottom:20px}#cl-main-inner .top-news-announce{font-size:15px;line-height:20px}#cl-main-inner .top-news-title{line-height:24px}}:focus{outline:0}.left-col{background-color:#fff}body,h1,h2,h3,input[type=text]{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",sans-serif}*{box-sizing:border-box}body,html{height:100%}body{min-height:100%;font-size:14px;background:#fff;color:#000;overflow:visible;margin:0;-webkit-text-size-adjust:none;-webkit-font-smoothing:subpixel-antialiased;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}body{min-width:768px}@media (max-width:767px){body{min-width:auto}}a{color:#1964e7}.time{font-size:12px;line-height:19px;color:#aaa}.vc-content{display:flex;width:100%;min-width:768px;max-width:1600px;background:#fff;margin:0 auto 0 0;position:relative;z-index:1001}.vc-left{width:300px;min-width:300px;max-width:300px;height:100%;overflow:hidden;border-right:2px solid #ddd}@media (max-width:1219px){.vc-left{width:240px;min-width:240px;max-width:240px}}@media (max-width:859px){.vc-left{width:185px;min-width:185px;max-width:185px}}.vc-left-inner{position:relative}.vc-left-inner:before{display:block;content:'';width:100%;height:149px;background-image:linear-gradient(to bottom,rgba(255,255,255,0),#fff);position:absolute;bottom:0;left:0;right:0;z-index:202}.vc-center{width:100%;height:100%;overflow:hidden}.vc-center-inner{padding-top:35px;padding-left:50px}@media (max-width:1659px){.vc-center-inner{padding-left:45px}}@media (max-width:1023px){.vc-center-inner{padding-left:30px}}.left-col{bottom:0;z-index:201;width:100%}.list-news>.list-scroll-container:first-child>.list-scroll-date{display:none}.list-scroll-item{font-size:14px;line-height:18px;border:0;display:block;overflow:hidden;padding:10px 20px}@media (max-width:1023px){.list-scroll-item{font-size:13px;line-height:16px}}.list-scroll-item>a{padding:0 0 4px;text-decoration:none;color:#000;display:block;position:relative}.list-scroll-item .time{color:#1964e7}.list-scroll-date{width:auto;padding:0;color:#8c8c8c;font-size:12px;line-height:20px;text-align:center;text-transform:uppercase;position:relative}.list-scroll-date:before{display:block;content:'';position:absolute;top:10px;left:0;right:0;background-color:#ddd;height:1px}.list-scroll-date>span{background-color:#fff;padding:0 10px;font-size:10px;letter-spacing:2px;position:relative}#top_banner_A{z-index:1002;position:relative}.spec-projects-banner{display:block;background:url(/img/spec-projects-link.svg) 50% 50% no-repeat;width:174px;height:45px;margin:-30px auto 30px;text-indent:-9999px;overflow:hidden}input[type=text]{font-size:14px;font-weight:400;line-height:normal;letter-spacing:normal;color:#000;background-color:#fff;border:1px solid #dadada;border-radius:2px;padding:0 15px;margin:0;text-align:left}button,input[type=text]{height:40px;line-height:38px}.btn,.btn:visited,button.btn{display:inline-block;height:40px;text-align:center;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",sans-serif}.btn,.btn:visited,button.btn{border:2px solid #eaf1f8;border-radius:3px;font-size:14px;font-weight:500;line-height:36px;color:#1964e7;background:#eaf1f8}.vc-header{width:100%;height:70px;background:#fff;color:#000;position:-webkit-sticky;position:-moz-sticky;position:-ms-sticky;position:-o-sticky;position:sticky;top:0;border-bottom:1px solid #ddd;z-index:1002}.vc-header-content{display:flex;justify-content:space-between;width:100%;min-width:768px;max-width:1580px}@media (max-width:767px){.vc-header-content{min-width:auto}}.vc-header-logo{position:relative;width:187px;min-width:187px;height:69px;background-color:#fff;z-index:1000;display:block}.vc-header-logo>img{width:100%;height:100%;display:block;position:absolute;top:0}.vc-header-logo:before{content:"";display:block;width:100%;height:100%;background-repeat:no-repeat;background-position:center;background-size:147px auto;background-image:url(/img/logos/logo_07_2020.svg);position:absolute;top:0}.vc-header-menu{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",sans-serif;font-size:11px;font-weight:700;line-height:1.64;letter-spacing:.3px;text-transform:uppercase;overflow:hidden;text-align:center;white-space:nowrap;width:100%;position:relative}.vc-header-menu-items{width:100%;height:100%;overflow:hidden;position:absolute}.vc-header-menu ul{margin:0;padding:0;display:flex;-ms-flex:1;-webkit-flex:1;flex:1;justify-content:space-around;min-width:840px;width:100%;position:absolute;left:0;top:0}@media (max-width:1279px){.vc-header-menu ul{justify-content:space-between;padding:0 40px}}.vc-header-menu-item{margin:0;padding:0;list-style:none;line-height:72px}@media (max-width:1659px){.vc-header-menu-item{font-size:10.5px}}@media (max-width:1339px){.vc-header-menu-item{font-size:10px}}@media (max-width:1279px){.vc-header-menu-item{font-size:9px}}.vc-header-menu-item>a{color:#000;padding:3px 0;border-bottom:2px solid transparent}.vc-header-menu-scroll-left,.vc-header-menu-scroll-right{display:none;position:absolute;top:0;left:0;width:90px;height:100%;background-image:linear-gradient(to left,rgba(255,255,255,.4),#fff)}.vc-header-menu-scroll-left:before,.vc-header-menu-scroll-right:before{display:block;content:"";position:absolute;background:url(/img/svg/1964E7/arrow_left.svg) 10px center no-repeat;width:100%;height:100%}.vc-header-right{background-color:#fff}.vc-header-menu-scroll-right{left:auto;right:0;background-image:linear-gradient(to right,rgba(255,255,255,.4),#fff)}.vc-header-menu-scroll-right:before{background-image:url(/img/svg/1964E7/arrow_right.svg);background-position:right center}.vc-header-right{width:180px;min-width:180px;height:69px;position:relative;z-index:1000}.vc-header-btn{width:42px;height:26px;margin:22px 0;float:left;position:relative;border-right:1px solid #ddd;background-position:center;background-repeat:no-repeat}.vc-header-search-btn{background-image:url(/img/svg/1964E7/search.svg);background-size:36px}.vc-header-notification-btn{background-image:url(/img/svg/1964E7/notifications.svg);background-size:29px}#header_search_form #header_search_input,#header_search_form>.form-a{border:1px solid #dadada;background-color:#fff}.vc-header-login-btn{background-image:url(/img//svg/1964E7/enter.svg)}.vc-header-age{width:21px;height:70px;float:left;position:relative;margin:0 10px 0 15px;background:url(/img/svg/1964E7/18+.svg) center no-repeat}#header_search_form{position:absolute;right:180px;width:602px;height:70px;z-index:303}#header_search_form>.form{height:100%}#header_search_form>.form:before{height:70px}#header_search_form>.form>.form-pad{padding:15px 10px 17px 0}#header_search_form #header_search_input{padding:2px 8px;width:350px}#header_search_form .btn{background-color:#fff}.vc-footer .h4{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",sans-serif;font-size:13px;line-height:18px;font-weight:700}.vc-footer-column:first-child .vc-footer-text{display:none}@media (max-width:1279px){.vc-footer-column:first-child .vc-footer-text{display:block}}.vc-footer-column:nth-child(2)>div{width:420px}@media (max-width:1279px){.vc-footer-column:nth-child(2)>div{width:620px}}@media (max-width:1023px){.vc-footer-column:nth-child(2)>div{width:400px}}.vc-footer-column:nth-child(2)>div:nth-child(2){display:none}@media (max-width:1279px){.vc-footer-column:nth-child(2)>div:nth-child(2){display:block}}.vc-footer a{color:#000}.vc-footer .footer-button{color:#1964e7}.vc-footer-text{color:#888}.vc-footer .socials-btn-group{width:100%;height:38px;overflow:hidden;display:flex;justify-content:space-between;margin:15px 0}.vc-footer .socials-btn-group .icons{width:38px;height:38px;background:#eef3f9;border-radius:50%;margin:0;padding:0}.vc-footer .socials-btn-group .icons:before{width:38px;height:38px}.vc-footer .socials-btn-group .icons-vk:before{background-image:url(/img/socials/vk.svg);background-size:38px}.vc-footer .socials-btn-group .icons-tw:before{background-image:url(/img/socials/tw.svg);background-size:38px}.vc-footer .socials-btn-group .icons-ok:before{background-image:url(/img/socials/ok.svg);background-size:38px}.vc-footer .socials-btn-group .icons-rss:before{background-image:url(/img/socials/rss.svg);background-size:38px}.vc-footer .socials-btn-group .icons-mail:before{background-image:url(/img/socials/email.svg);background-size:38px}.vc-footer .socials-btn-group .icons-tg:before{background-image:url(/img/socials/tg.svg);background-size:38px}.vc-footer .socials-btn-group .icons-vb:before{background-image:url(/img/socials/vb.svg);background-size:38px}#cl-main-inner{display:block;overflow:hidden;padding:0;box-sizing:border-box;width:100%;max-width:1299px;margin-bottom:-352px;min-height:700px}#cl-main-inner .cl-right{float:right;clear:right;padding:0;width:auto;margin-bottom:0}#cl-main-inner .cl-right-addition{display:block;overflow:hidden;width:240px;margin:0 0 30px;float:right}#cl-main-inner .top-news{width:calc(100% - 265px);display:inline-block}#cl-main-inner .top-news-content{width:auto;max-width:none;padding:0;border-bottom:none}#cl-main-inner .top-news-announce,#cl-main-inner .top-news-title{display:inline}#cl-main-inner .cl-game-block-position,#cl-main-inner .cl-tooday-smi-position{display:inline-block;clear:right;width:250px;height:320px;margin:0 0 30px}#cl-main-inner .publication-item{display:inline-block;overflow:hidden;width:250px;box-sizing:content-box}#cl-main-inner .publication-item--img{display:block;width:100%;height:auto;margin-bottom:15px}#cl-main-inner .publication-item--title{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",sans-serif;font-size:20px;line-height:24px;display:block;font-weight:700;margin-bottom:5px}#cl-main-inner .publication-item--title a{color:#000;text-decoration:none}#cl-main-inner .publication-item--sub-title{font-size:15px;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",sans-serif;line-height:20px}#cl-main-inner .publication-item--sub-title a{color:#000;text-decoration:none}@media all and (min-width:1366px) and (max-width:1479px){#cl-main-inner{margin-bottom:-385px;padding:30px 0 0 calc((100% - 1000px)/ 4)}#cl-main-inner .top-news{display:block;width:calc(50% + 250px);margin:0 calc((100% - 1000px)/ 4) 30px 0}#cl-main-inner .publication-item{display:block;float:left;width:250px;height:355px;margin:0 calc((100% - 1000px)/ 4) 0 0;padding:0 0 30px}#cl-main-inner .publication-item .publication-item--img{display:block}#cl-main-inner .publication-item:nth-child(11),#cl-main-inner .publication-item:nth-child(5),#cl-main-inner .publication-item:nth-child(8){float:none;overflow:hidden;width:calc(50% + 250px);height:auto}#cl-main-inner .publication-item:nth-child(11) .publication-item--title,#cl-main-inner .publication-item:nth-child(5) .publication-item--title,#cl-main-inner .publication-item:nth-child(8) .publication-item--title{display:inline;font-size:20px}#cl-main-inner .publication-item:nth-child(11) .publication-item--sub-title,#cl-main-inner .publication-item:nth-child(5) .publication-item--sub-title,#cl-main-inner .publication-item:nth-child(8) .publication-item--sub-title{display:inline;vertical-align:baseline;font-size:15px}#cl-main-inner .publication-item:nth-child(11) .publication-item--img,#cl-main-inner .publication-item:nth-child(5) .publication-item--img,#cl-main-inner .publication-item:nth-child(8) .publication-item--img{display:none}#cl-main-inner .publication-item:nth-child(11) .publication-item--sub-title,#cl-main-inner .publication-item:nth-child(11) .publication-item--title{display:inline}#cl-main-inner .cl-right{display:none;min-width:0;max-width:none}#cl-main-inner .cl-right .cl-game-block-position,#cl-main-inner .cl-right .cl-tooday-smi-position{display:block;width:250px;height:355px}#cl-main-inner .cl-right:nth-child(1){display:block;float:right;width:250px;margin:0 calc((100% - 1000px)/ 4) 0 0}#cl-main-inner .cl-right:nth-child(13){display:block;width:250px;height:740px;margin:0 calc((100% - 1000px)/ 4) 30px 0;float:right;min-width:0;max-width:none}#cl-main-inner .cl-right:nth-child(13) .cl-game-block-position{width:250px;height:355px;margin:0 0 30px}#cl-main-inner .spec-position:nth-child(42),#cl-main-inner .spec-position:nth-child(54){display:block;width:calc(75% + 250px)}}@media all and (min-width:1220px) and (max-width:1365px){#cl-main-inner{margin-bottom:-395px;padding:30px 0 0 calc((100% - 810px)/ 3)}#cl-main-inner .publication-item{display:block;float:left;width:270px;height:365px;margin:0 calc((100% - 810px)/ 3) 0 0;padding:0 0 30px}#cl-main-inner .publication-item .publication-item--img{display:block}#cl-main-inner .spec-position+.cl-right{display:none}#cl-main-inner .cl-right:first-child{display:block;width:270px;margin:0 calc((100% - 810px)/ 3) 30px 0;float:right;min-width:0;max-width:none;height:auto}#cl-main-inner .publication-item:nth-child(5),#cl-main-inner .publication-item:nth-child(8){float:none;overflow:hidden;width:calc(33% + 270px);height:auto}#cl-main-inner .publication-item:nth-child(5) .publication-item--title,#cl-main-inner .publication-item:nth-child(8) .publication-item--title{display:inline}#cl-main-inner .publication-item:nth-child(5) .publication-item--sub-title,#cl-main-inner .publication-item:nth-child(8) .publication-item--sub-title{display:inline;vertical-align:baseline}#cl-main-inner .publication-item:nth-child(5) .publication-item--img,#cl-main-inner .publication-item:nth-child(8) .publication-item--img{display:none}#cl-main-inner .cl-right:nth-child(10){display:block;width:270px;height:760px;margin:0 calc((100% - 810px)/ 3) 30px 0;float:right;min-width:0;max-width:none;clear:both}#cl-main-inner .cl-right:nth-child(10) .cl-game-block-position{width:270px;height:365px;margin:0 0 30px}#cl-main-inner .cl-right:nth-child(10) .cl-tooday-smi-position{width:270px;height:365px;margin:0}#cl-main-inner .spec-position:nth-child(30),#cl-main-inner .spec-position:nth-child(39){display:block;width:calc((200% + 810px)/ 3)}#cl-main-inner .top-news{display:block;width:calc(33% + 270px);margin:0 calc((100% - 810px)/ 3) 30px 0}#cl-main-inner .top-news{margin-bottom:20px}#cl-main-inner .publication-item:nth-child(5) .publication-item--title,#cl-main-inner .publication-item:nth-child(8) .publication-item--title{font-size:28px}#cl-main-inner .publication-item:nth-child(5) .publication-item--sub-title,#cl-main-inner .publication-item:nth-child(8) .publication-item--sub-title{font-size:17px}#cl-main-inner .publication-item:nth-child(5) .publication-item--sub-title,#cl-main-inner .publication-item:nth-child(5) .publication-item--title,#cl-main-inner .publication-item:nth-child(8) .publication-item--sub-title,#cl-main-inner .publication-item:nth-child(8) .publication-item--title{line-height:30px}}@media all and (min-width:1025px) and (max-width:1219px){body{overflow-x:auto}#cl-main-inner{margin-bottom:-380px;padding:30px 0 0 calc((100% - 750px)/ 3)}#cl-main-inner .publication-item{display:block;float:left;width:250px;height:350px;margin:0 calc((100% - 750px)/ 3) 0 0;padding:0 0 30px}#cl-main-inner .publication-item .publication-item--img{display:block}#cl-main-inner .spec-position+.cl-right{display:none}#cl-main-inner .cl-right:first-child{display:block;width:250px;margin:0 calc((100% - 750px)/ 3) 30px 0;float:right;min-width:0;max-width:none;height:auto}#cl-main-inner .publication-item:nth-child(5),#cl-main-inner .publication-item:nth-child(8){float:none;overflow:hidden;width:calc(33% + 250px);height:auto}#cl-main-inner .publication-item:nth-child(5) .publication-item--title,#cl-main-inner .publication-item:nth-child(8) .publication-item--title{display:inline}#cl-main-inner .publication-item:nth-child(5) .publication-item--sub-title,#cl-main-inner .publication-item:nth-child(8) .publication-item--sub-title{display:inline;vertical-align:baseline}#cl-main-inner .publication-item:nth-child(5) .publication-item--img,#cl-main-inner .publication-item:nth-child(8) .publication-item--img{display:none}#cl-main-inner .cl-right:nth-child(10){display:block;width:250px;height:730px;margin:0 calc((100% - 750px)/ 3) 30px 0;float:right;min-width:0;max-width:none;clear:both}#cl-main-inner .cl-right:nth-child(10) .cl-game-block-position{width:250px;height:350px;margin:0 0 30px}#cl-main-inner .cl-right:nth-child(10) .cl-tooday-smi-position{width:250px;height:350px;margin:0}#cl-main-inner .spec-position:nth-child(30),#cl-main-inner .spec-position:nth-child(39){display:block;width:calc((200% + 750px)/ 3)}#cl-main-inner .top-news{display:block;width:calc(33% + 250px);margin:0 calc((100% - 750px)/ 3) 30px 0}#cl-main-inner .top-news{margin-bottom:20px}#cl-main-inner .top-news-announce{font-size:15px;line-height:20px}#cl-main-inner .top-news-title{line-height:24px}}@media all and (min-width:768px) and (max-width:1024px){body{min-width:768px}#cl-main-inner{margin-bottom:-390px;padding:20px 0 0 calc((100% - 540px)/ 3)}#cl-main-inner .top-news{display:block;width:calc(50% + 270px);margin:0 calc((100% - 540px)/ 2) 30px 0}#cl-main-inner .publication-item{display:block;float:left;width:270px;height:360px;margin:0 calc((100% - 540px)/ 2) 0 0;padding:0 0 30px}#cl-main-inner .publication-item .publication-item--img{display:block}#cl-main-inner .cl-right,#cl-main-inner .cl-right:first-child{display:none}#cl-main-inner .publication-item:nth-child(5),#cl-main-inner .publication-item:nth-child(8){float:none;overflow:hidden;width:calc(50% + 270px);height:auto}#cl-main-inner .publication-item:nth-child(5) .publication-item--title,#cl-main-inner .publication-item:nth-child(8) .publication-item--title{display:inline}#cl-main-inner .publication-item:nth-child(5) .publication-item--sub-title,#cl-main-inner .publication-item:nth-child(8) .publication-item--sub-title{display:inline;vertical-align:baseline}#cl-main-inner .publication-item:nth-child(5) .publication-item--img,#cl-main-inner .publication-item:nth-child(8) .publication-item--img{display:none}#cl-main-inner .cl-right:nth-child(16){display:block;width:270px;height:750px;margin:0 calc((100% - 540px)/ 2) 30px 0;float:right;min-width:0;max-width:none}#cl-main-inner .cl-right:nth-child(16) .cl-game-block-position{width:270px;height:360px;margin:0 0 30px}#cl-main-inner .cl-right:nth-child(16) .cl-tooday-smi-position{width:270px;height:360px;margin:0}#cl-main-inner .spec-position:nth-child(27),#cl-main-inner .spec-position:nth-child(39){display:block;width:calc(50% + 270px)}#cl-main-inner .top-news{margin-bottom:20px}#cl-main-inner .top-news-announce{font-size:15px;line-height:20px}#cl-main-inner .top-news-title{line-height:24px}}@media all and (max-width:767px){#cl-main-inner{margin-bottom:-390px;padding:20px 0 0 calc((100% - 520px)/ 3);padding-left:15px}#cl-main-inner .top-news{display:block;width:calc(50% + 260px);margin:0 calc((100% - 520px)/ 2) 30px 0}#cl-main-inner .publication-item{display:block;float:left;width:260px;height:360px;margin:0 calc((100% - 520px)/ 2) 0 0;padding:0 0 30px}#cl-main-inner .publication-item .publication-item--img{display:block}#cl-main-inner .cl-right,#cl-main-inner .cl-right:first-child{display:none}#cl-main-inner .publication-item:nth-child(5),#cl-main-inner .publication-item:nth-child(8){float:none;overflow:hidden;width:calc(50% + 260px);height:auto}#cl-main-inner .publication-item:nth-child(5) .publication-item--title,#cl-main-inner .publication-item:nth-child(8) .publication-item--title{display:inline}#cl-main-inner .publication-item:nth-child(5) .publication-item--sub-title,#cl-main-inner .publication-item:nth-child(8) .publication-item--sub-title{display:inline;vertical-align:baseline}#cl-main-inner .publication-item:nth-child(5) .publication-item--img,#cl-main-inner .publication-item:nth-child(8) .publication-item--img{display:none}#cl-main-inner .cl-right:nth-child(16){display:block;width:260px;height:750px;margin:0 calc((100% - 520px)/ 2) 30px 0;float:right;min-width:0;max-width:none}#cl-main-inner .cl-right:nth-child(16) .cl-game-block-position{width:260px;height:360px;margin:0 0 30px}#cl-main-inner .cl-right:nth-child(16) .cl-tooday-smi-position{width:260px;height:360px;margin:0}#cl-main-inner .spec-position:nth-child(27),#cl-main-inner .spec-position:nth-child(39){display:block;width:calc(50% + 260px)}#cl-main-inner .top-news{margin-bottom:20px}#cl-main-inner .top-news-announce{font-size:15px;line-height:20px}#cl-main-inner .top-news-title{line-height:24px}}@media all and (-ms-high-contrast:none),(-ms-high-contrast:active){.vc-header{position:fixed;top:130px}#top_banner_A{position:fixed;top:0}.vc-content{margin-top:200px}}
+</style>
+
+
+<link rel="preload" href="https://s.ura.news/css/all_v3.min.css?v=16.02.2023-1.0.1" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+<link rel="preload" href="https://s.ura.news/css/all_v3_ie.css?v=16.02.2023-1.0.1" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+	<script src="https://s.ura.news/lib/jquery-param-1.1.8/jquery-param.min.js"></script>
+<script src="/lib/platform.js"></script>
+<script src="https://s.ura.news/js/dist/libs.bundle.js?v=16.02.2023-1.0.1"></script>
+<script>
+    window.MAIN_HOST = 'https://ura.news';
+    window.IMAGE_PATH = 'https://s.ura.news';
+    window.STATIC_HOST = 'https://s.ura.news';
+    window.PDA_HOST = 'https://m.ura.news';
+    window.AMP_HOST = 'https://amp.ura.news';
+    window.STAT_HOST = 'https://p.ura.news';
+    window.VERSION = '16.02.2023-1.0.1';
+    window.IS_NEW_SITE = 1;
+    window.config = {
+        currentRegion: ''
+    };
+    window.FONTS_TYPE = '(none)';
+    window.MOMENTY_LEFT_LINK = '(none)';
+
+    window.prerenderReady = false;
+    window.socialLikesButtons = {
+        facebook: {
+            icon: ''
+        },
+        twitter: {
+            icon: ''
+        },
+        vkontakte: {
+            icon: ''
+        },
+        odnoklassniki: {
+            icon: ''
+        },
+        telegram: {
+            icon: '',
+            data: {
+                text: 'Канал URA.RU: @uranews'
+            }
+        },
+        whatsapp: {
+            popupUrl: 'https://wa.me/?text={title} {url}',
+            popupWidth: 600,
+            popupHeight: 500,
+        },
+        viber: {
+            popupUrl: 'viber://forward?text={title} {url}',
+            popupWidth: 600,
+            popupHeight: 500,
+        }
+    };
+</script>
+<script>
+    if (typeof Promise !== "function")
+        document.write('<script src="https://s.ura.news/js/polyfill/promise.min.js"><\/script>');
+</script>
+    <script src="https://s.ura.news/js/dist/main.bundle.js?v=16.02.2023-1.0.1"></script>
+    <script src="https://s.ura.news/js/dist/app.bundle.js?v=16.02.2023-1.0.1"></script>
+            <script src="https://s.ura.news/js/dist/main_page.bundle.js?v=16.02.2023-1.0.1"></script>
+        
+<script>
+    let fired = false;
+    window.addEventListener('scroll',initExtJS,{passive: true});
+    window.addEventListener('click',initExtJS,{passive: true});
+    window.addEventListener('mousemove',initExtJS,{passive: true});
+    window.addEventListener('touchstart',initExtJS,{passive: true});
+    window.addEventListener('keydown',initExtJS,{passive: true});
+    setTimeout(initExtJS,7000);
+    function initExtJS(){
+        if (fired === false) {
+            fired = true;
+            setTimeout(function(){
+                // Подключение и инициализация внешних скриптов
+                let Script1 = document.createElement("script");
+                Script1.src = 'https://s.ura.news/js/dist/analytics.bundle.js?v=16.02.2023-1.0.1';
+                Script1.async = true;
+                document.getElementsByTagName('head')[0].appendChild(Script1);
+                window.removeEventListener('scroll', initExtJS, false);
+                window.removeEventListener('click', initExtJS, false);
+                window.removeEventListener('mousemove', initExtJS, false);
+                window.removeEventListener('touchstart', initExtJS, false);
+                window.removeEventListener('keydown', initExtJS, false);
+            }, 100);
+        }
+    }
+</script>
+	
+
+<script>window.yaContextCb = window.yaContextCb || []</script>
+
+
+    
+</head>
+<body scrolly ng-style="eula.visible ? {'overflow':'hidden'} : {};">
+<div ng-controller="UserCtrl">
+	<div id="vc_content_block">
+		
+			
+
+	<div id="top_banner_A" style="height:200px; width:100%;overflow: hidden;">
+		<div>
+			<!--AdFox START-->
+			<!--uraru-->
+			<!--Площадка: ura.news / Все страницы / A1_130px-->
+			<!--Категория: <не задана>-->
+			<!--Тип баннера: A_100%x130-->
+			<div id="adfox_156716587437438580"></div>
+			<script>
+                window.yaContextCb.push(function(){
+                    Ya.adfoxCode.createAdaptive({
+                        ownerId: 227654,
+                        containerId: 'adfox_156716587437438580',
+                        params: {
+                            p1: 'buudz',
+                            p2: 'fjcz'
+                        },
+                        lazyload: {
+                            fetchMargin: 100,
+                            mobileScaling: 1
+                        }
+                    }, ['desktop', 'tablet', 'phone'], {
+                        tabletWidth: 768,
+                        phoneWidth: 640,
+                        isAutoReloads: false
+                    })
+                })
+            </script>
+		</div>
+	</div>
+
+
+
+<div class="vc-header" id="header">
+	<div class="vc-header-content">
+
+		
+
+        
+		
+
+		<a href="/" class="vc-header-logo " id="logo" ng-click="changeRegion('');">
+			<img src="https://s.ura.news/img/blank.png" alt="Информационное агентство URA.RU" />
+		</a>
+
+        <!--a href="https://ura.news/20desktop" class="aeneivah" target="_blank"></a-->
+
+		<div class="vc-header-menu">
+			<div class="vc-header-menu-items">
+				<ul>
+											<li class="vc-header-menu-item" data-region="" ng-class="sectionService.get_currentSection().id==23 ? 'active' : ''">
+							<a href="/" ng-click="sectionService.set_currentRegion(23);">Все&nbsp;регионы</a>						</li>
+											<li class="vc-header-menu-item" data-region="msk" ng-class="sectionService.get_currentSection().id==41 ? 'active' : ''">
+							<a href="/msk" ng-click="sectionService.set_currentRegion(41);">Московская&nbsp;обл.</a>						</li>
+											<li class="vc-header-menu-item" data-region="svrd" ng-class="sectionService.get_currentSection().id==1 ? 'active' : ''">
+							<a href="/svrd" ng-click="sectionService.set_currentRegion(1);">Свердловская&nbsp;обл.</a>						</li>
+											<li class="vc-header-menu-item" data-region="chel" ng-class="sectionService.get_currentSection().id==2 ? 'active' : ''">
+							<a href="/chel" ng-click="sectionService.set_currentRegion(2);">Челябинская&nbsp;обл.</a>						</li>
+											<li class="vc-header-menu-item" data-region="kurgan" ng-class="sectionService.get_currentSection().id==3 ? 'active' : ''">
+							<a href="/kurgan" ng-click="sectionService.set_currentRegion(3);">Курганская&nbsp;обл.</a>						</li>
+											<li class="vc-header-menu-item" data-region="tumen" ng-class="sectionService.get_currentSection().id==4 ? 'active' : ''">
+							<a href="/tumen" ng-click="sectionService.set_currentRegion(4);">Тюменская&nbsp;обл.</a>						</li>
+											<li class="vc-header-menu-item" data-region="khanti" ng-class="sectionService.get_currentSection().id==5 ? 'active' : ''">
+							<a href="/khanti" ng-click="sectionService.set_currentRegion(5);">Югра</a>						</li>
+											<li class="vc-header-menu-item" data-region="yamal" ng-class="sectionService.get_currentSection().id==6 ? 'active' : ''">
+							<a href="/yamal" ng-click="sectionService.set_currentRegion(6);">Ямал</a>						</li>
+											<li class="vc-header-menu-item" data-region="perm" ng-class="sectionService.get_currentSection().id==22 ? 'active' : ''">
+							<a href="/perm" ng-click="sectionService.set_currentRegion(22);">Пермский&nbsp;край</a>						</li>
+									</ul>
+			</div>
+            <div class="vc-header-menu-scroll-left" style="display: none;"></div>
+            <div class="vc-header-menu-scroll-right" style="display: none;"></div>
+		</div>
+
+		<div class="vc-header-right">
+	<div ng-cloak>
+		<div class="vc-header-btn vc-header-search-btn"
+		     ng-click="searchPanel.toggle()"
+		     ng-class="{'active': searchPanel.visible}"></div>
+
+		<div id="header_search_form" ng-show="searchPanel.visible">
+			<div class="form form-a">
+				<div class="form-pad">
+					<button class="btn" id="header_search_submit" ng-click="searchPanel.submit()">искать</button>
+					<input type="text" id="header_search_input" ng-model="searchPanel.q"
+					       on-enter="searchPanel.submit()"/>
+
+					<div class="clear"></div>
+				</div>
+			</div>
+		</div>
+
+		<notification-popover class="vc-header-btn vc-header-notification-btn"></notification-popover>
+
+		<user-popover ng-if="userService.isAuth() && !userService.isAnonymous()"
+		              class="vc-header-btn"></user-popover>
+
+		<login-popover ng-if="!userService.isAuth() || userService.isAnonymous()"
+		               class="vc-header-btn vc-header-login-btn" id="login_popover"></login-popover>
+
+		<div class="vc-header-age"></div>
+
+	</div>
+
+</div>
+	</div>
+</div>
+
+		
+		<div class="vc-content">
+	<div class="vc-left vc-left-main" id="cl_left">
+		<div class="vc-left-inner">
+			
+			
+<div class="col left-col">
+
+	<div id="vc_list_news_all" data-last-modified="Mon, 20 Feb 2023 10:37:14 GMT" class="list-news" data-last-date="2023-02-20">
+					<div class="list-scroll-container">
+				<div class="list-scroll-date"><span>20&nbsp;февраля&nbsp;2023</span></div>
+				<ul>
+											<li class="list-scroll-item  "
+                            data-id="1052627722"
+                            >
+							<a href="/news/1052627722" >
+								<span class="time">15:28</span>
+								Многодетным семьям ХМАО подарят сертификаты на лекарства							</a>
+							<div>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627733"
+                            >
+							<a href="/news/1052627733" >
+								<span class="time">15:27</span>
+								Собака искусала 6-летнюю девочку во время экскурсии в свердловском питомнике. Фото							</a>
+							<div>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627742"
+                            >
+							<a href="/news/1052627742" >
+								<span class="time">15:23</span>
+								В Перми более 50 гитаристов на одной сцене сыграют бессмертный хит группы Nirvana							</a>
+							<div>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627734"
+                            >
+							<a href="/news/1052627734" >
+								<span class="time">15:22</span>
+								В аэропорту ЯНАО задержали вылет рейса Новый-Уренгой &mdash; Екатеринбург							</a>
+							<div>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627741"
+                            >
+							<a href="/news/1052627741" >
+								<span class="time">15:19</span>
+								Строительный бизнес Тюмени &laquo;зачищают&raquo; от лишних игроков							</a>
+							<div>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627725"
+                            >
+							<a href="/news/1052627725" >
+								<span class="time">15:16</span>
+								Тагильских полицейских, в чьей машине погиб задержанный, побоялись выпускать из СИЗО							</a>
+							<div>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627740"
+                            data-story-id="919">
+							<a href="/news/1052627740" >
+								<span class="time">15:14</span>
+								Байден заявил о новой военной помощи Украине							</a>
+							<div>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627726"
+                            >
+							<a href="/news/1052627726" >
+								<span class="time">15:10</span>
+								Пермячка шьет одежду для участников СВО на деньги соцконтракта							</a>
+							<div>
+															</div>
+						</li>
+											<li class="list-scroll-item is_momenty "
+                            data-id="19944"
+                            >
+							<a href="https://momenty.org/city/19944"  target="_blank" >
+								<span class="time">15:10</span>
+								В&nbsp;уральской сети кофеен начали продавать оригинальную Coca-Cola							</a>
+							<div>
+															</div>
+						</li>
+											<li class="list-scroll-item list-scroll-item-important "
+                            data-id="1052627739"
+                            data-story-id="919">
+							<a href="/news/1052627739" >
+								<span class="time">15:07</span>
+								Зеленский встретился с Байденом в Киеве. Фото							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627739')"
+										class="vc-comments-count ">4</span>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627738"
+                            >
+							<a href="/news/1052627738" >
+								<span class="time">15:05</span>
+								Бывший ректор Челябинского института культуры покончил жизнь самоубийством							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627738')"
+										class="vc-comments-count ">1</span>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627714"
+                            >
+							<a href="/news/1052627714" >
+								<span class="time">14:57</span>
+								В Кургане ищут ловцов птиц за 120 000 рублей в Свердловской области							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627714')"
+										class="vc-comments-count ">1</span>
+															</div>
+						</li>
+											<li class="list-scroll-item list-scroll-item-important "
+                            data-id="1052627737"
+                            >
+							<a href="/news/1052627737" >
+								<span class="time">14:51</span>
+								Украинские СМИ опубликовали видео с Байденом на улицах Киева							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627737')"
+										class="vc-comments-count ">7</span>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627731"
+                            >
+							<a href="/news/1052627731" >
+								<span class="time">14:48</span>
+								Пермский военный музей раздаст каски и плащ-палатки							</a>
+							<div>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627729"
+                            data-story-id="919">
+							<a href="/news/1052627729" >
+								<span class="time">14:47</span>
+								К челябинскому бойцу отряда Кадырова приехали боевые товарищи из Чечни. Фото							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627729')"
+										class="vc-comments-count ">2</span>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627724"
+                            >
+							<a href="/news/1052627724" >
+								<span class="time">14:47</span>
+								Житель ЯНАО пожаловался на опасных паразитов в оленине из &laquo;Пятерочки&raquo;. Фото							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627724')"
+										class="vc-comments-count ">2</span>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627716"
+                            data-story-id="919">
+							<a href="/news/1052627716" >
+								<span class="time">14:44</span>
+								МИД Китая жестко ответил США на обвинения в помощи России							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627716')"
+										class="vc-comments-count ">1</span>
+															</div>
+						</li>
+											<li class="list-scroll-item list-scroll-item-important "
+                            data-id="1052627728"
+                            >
+							<a href="/news/1052627728" >
+								<span class="time">14:42</span>
+								Журналист Bild Репке: Байден приехал в Киев							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627728')"
+										class="vc-comments-count ">5</span>
+															</div>
+						</li>
+											<li class="list-scroll-item is_momenty "
+                            data-id="19943"
+                            >
+							<a href="https://momenty.org/style/19943"  target="_blank" >
+								<span class="time">14:30</span>
+								В&nbsp;Екатеринбурге закрыли последний магазин Levi&#8217;s							</a>
+							<div>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627706"
+                            >
+							<a href="/news/1052627706" >
+								<span class="time">14:28</span>
+								Рекламные стенды в Перми заклеили объявлениями с акциями на надгробия. Фото							</a>
+							<div>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627710"
+                            >
+							<a href="/news/1052627710" >
+								<span class="time">14:26</span>
+								Минздрав назвал лучшие больницы Свердловской области							</a>
+							<div>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627698"
+                            >
+							<a href="/news/1052627698" >
+								<span class="time">14:25</span>
+								Тагильский полицейский, в машине которого умер задержанный, не смог выйти из СИЗО							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627698')"
+										class="vc-comments-count ">1</span>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627717"
+                            >
+							<a href="/news/1052627717" >
+								<span class="time">14:24</span>
+								Мэр Копейска приказал закрыть доступ на лесопилку бродячим собакам							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627717')"
+										class="vc-comments-count ">1</span>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627712"
+                            >
+							<a href="/news/1052627712" >
+								<span class="time">14:24</span>
+								Кремль ответил властям Молдавии на заявление о Приднестровье							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627712')"
+										class="vc-comments-count ">1</span>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627720"
+                            >
+							<a href="/news/1052627720" >
+								<span class="time">14:23</span>
+								Тюменские фермеры массово используют опасные для человека пестициды							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627720')"
+										class="vc-comments-count ">2</span>
+															</div>
+						</li>
+											<li class="list-scroll-item list-scroll-item-important "
+                            data-id="1052627719"
+                            >
+							<a href="/news/1052627719" >
+								<span class="time">14:20</span>
+								В Кремле в двух словах оценили современный этап в истории России							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627719')"
+										class="vc-comments-count ">3</span>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627718"
+                            >
+							<a href="/news/1052627718" >
+								<span class="time">14:20</span>
+								Многодетную чиновницу из ХМАО восстановили на работе после вмешательства прокуратуры							</a>
+							<div>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627721"
+                            >
+							<a href="/news/1052627721" >
+								<span class="time">14:15</span>
+								Песков заявил о рекордном количестве приглашенных на послание Путина							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627721')"
+										class="vc-comments-count ">1</span>
+															</div>
+						</li>
+											<li class="list-scroll-item list-scroll-item-important "
+                            data-id="1052627715"
+                            >
+							<a href="/news/1052627715" >
+								<span class="time">14:15</span>
+								В Кремле объяснили высокий рейтинг Путина							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627715')"
+										class="vc-comments-count ">2</span>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627713"
+                            >
+							<a href="/news/1052627713" >
+								<span class="time">14:12</span>
+								В странах СНГ вырос спрос на челябинскую газировку. Фото							</a>
+							<div>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627707"
+                            >
+							<a href="/news/1052627707" >
+								<span class="time">14:02</span>
+								На СВО погиб старшина из пермского города, воевавший в Чечне							</a>
+							<div>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627709"
+                            data-story-id="919">
+							<a href="/news/1052627709" >
+								<span class="time">13:54</span>
+								Евросоюз пообещал ввести санкции против Китая из-за помощи России в СВО							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627709')"
+										class="vc-comments-count ">1</span>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627694"
+                            >
+							<a href="/news/1052627694" >
+								<span class="time">13:50</span>
+								Под Екатеринбургом нашли пропавшего подростка							</a>
+							<div>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627703"
+                            >
+							<a href="/news/1052627703" >
+								<span class="time">13:45</span>
+								Курганский военный завод проводит вербовку новых сотрудников на выездных собеседованиях							</a>
+							<div>
+															</div>
+						</li>
+											<li class="list-scroll-item list-scroll-item-important "
+                            data-id="1052627705"
+                            data-story-id="919">
+							<a href="/news/1052627705" >
+								<span class="time">13:42</span>
+								В секторе СВО погиб муж старшей дочери омбудсмена ХМАО							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627705')"
+										class="vc-comments-count ">1</span>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627699"
+                            >
+							<a href="/news/1052627699" >
+								<span class="time">13:38</span>
+								Жители Озерска и Снежинска стали чаще покупать квартиры в Москве и Санкт-Петербурге							</a>
+							<div>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627695"
+                            >
+							<a href="/news/1052627695" >
+								<span class="time">13:38</span>
+								В Пермском крае зафиксировали вспышку смертельно опасного заболевания							</a>
+							<div>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627701"
+                            data-story-id="1002">
+							<a href="/news/1052627701" >
+								<span class="time">13:37</span>
+								В МИД Китая заявили о необходимости тщательного расследования подрыва &laquo;Северных потоков&raquo;							</a>
+							<div>
+															</div>
+						</li>
+											<li class="list-scroll-item list-scroll-item-important "
+                            data-id="1052627697"
+                            data-story-id="919">
+							<a href="/news/1052627697" >
+								<span class="time">13:32</span>
+								El Pais раскрыла, почему Украина до сих пор не проиграла России							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627697')"
+										class="vc-comments-count ">6</span>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627696"
+                            >
+							<a href="/news/1052627696" >
+								<span class="time">13:30</span>
+								Пермякам предлагают потратить миллионы, чтобы солить и вялить рыбу. Фото							</a>
+							<div>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627689"
+                            >
+							<a href="/news/1052627689" >
+								<span class="time">13:26</span>
+								В Тюмени задержан подозреваемый в убийстве любовника и матери своей бывшей жены							</a>
+							<div>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627693"
+                            >
+							<a href="/news/1052627693" >
+								<span class="time">13:24</span>
+								Энергетики рассказали об обновлении сетей у сургутских дачников							</a>
+							<div>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627688"
+                            >
+							<a href="/news/1052627688" >
+								<span class="time">13:23</span>
+								Роспотребнадзор предостерег тюменцев от отравлений блинами							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627688')"
+										class="vc-comments-count ">2</span>
+															</div>
+						</li>
+											<li class="list-scroll-item list-scroll-item-important "
+                            data-id="1052627692"
+                            data-story-id="919">
+							<a href="/news/1052627692" >
+								<span class="time">13:16</span>
+								Российская разведка сообщила об уничтожении большей части техники НАТО на Украине							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627692')"
+										class="vc-comments-count ">4</span>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627691"
+                            >
+							<a href="/news/1052627691" >
+								<span class="time">13:13</span>
+								Глава СКР Бастрыкин поручил проверить выдачу компенсаций челябинцам за старое жилье							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627691')"
+										class="vc-comments-count ">1</span>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627055"
+                            data-story-id="919">
+							<a href="/news/1052627055" >
+								<span class="time">13:10</span>
+								Штурмовик из Кургана рассказал, почему украинские военные завидуют бойцам ВС РФ							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627055')"
+										class="vc-comments-count ">3</span>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627686"
+                            >
+							<a href="/news/1052627686" >
+								<span class="time">13:07</span>
+								В Перми неизвестные испортили граффити с военными. Фото							</a>
+							<div>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627680"
+                            >
+							<a href="/news/1052627680" >
+								<span class="time">13:03</span>
+								Свердловские власти передумали отменять трехлетний мораторий на плату за капремонт в новостройках							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627680')"
+										class="vc-comments-count ">4</span>
+															</div>
+						</li>
+											<li class="list-scroll-item list-scroll-item-important "
+                            data-id="1052627684"
+                            data-story-id="919">
+							<a href="/news/1052627684" >
+								<span class="time">13:01</span>
+								Бастрыкин раскрыл схему Украины по вербовке наемников							</a>
+							<div>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627682"
+                            >
+							<a href="/news/1052627682" >
+								<span class="time">12:59</span>
+								В Свердловской области возник дефицит на работников всех видов профессий							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627682')"
+										class="vc-comments-count ">1</span>
+															</div>
+						</li>
+											<li class="list-scroll-item list-scroll-item-important "
+                            data-id="1052627683"
+                            >
+							<a href="/news/1052627683" >
+								<span class="time">12:52</span>
+								Пермские врачи впервые пересадили пациентам почки от посмертного донора							</a>
+							<div>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627639"
+                            >
+							<a href="/news/1052627639" >
+								<span class="time">12:48</span>
+								Курганские чиновники составили список самых востребованных вакансий							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627639')"
+										class="vc-comments-count ">4</span>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627681"
+                            >
+							<a href="/news/1052627681" >
+								<span class="time">12:47</span>
+								В Тюмени закрывается известная сеть магазинов							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627681')"
+										class="vc-comments-count ">2</span>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627673"
+                            >
+							<a href="/news/1052627673" >
+								<span class="time">12:47</span>
+								РИА Новости: Россия перехватила лидерство по экспорту нефти в Китай							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627673')"
+										class="vc-comments-count ">3</span>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627671"
+                            >
+							<a href="/news/1052627671" >
+								<span class="time">12:45</span>
+								Омбудсмен помог пермяку найти сестру в ЛНР							</a>
+							<div>
+															</div>
+						</li>
+											<li class="list-scroll-item list-scroll-item-important "
+                            data-id="1052627678"
+                            data-story-id="919">
+							<a href="/news/1052627678" >
+								<span class="time">12:42</span>
+								Бастрыкин обвинил уехавших из России звезд шоу-бизнеса в предательстве							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627678')"
+										class="vc-comments-count ">11</span>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627679"
+                            >
+							<a href="/news/1052627679" >
+								<span class="time">12:40</span>
+								В пермском ЖК неизвестный расстрелял окна квартиры. Фото							</a>
+							<div>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627675"
+                            >
+							<a href="/news/1052627675" >
+								<span class="time">12:39</span>
+								Пенсионер из ХМАО выиграл два миллиона в лотерею							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627675')"
+										class="vc-comments-count ">3</span>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627674"
+                            >
+							<a href="/news/1052627674" >
+								<span class="time">12:38</span>
+								В Кургане на охранника бара напали с автоматом. Видео							</a>
+							<div>
+															</div>
+						</li>
+											<li class="list-scroll-item list-scroll-item-important "
+                            data-id="1052627672"
+                            data-story-id="1002">
+							<a href="/news/1052627672" >
+								<span class="time">12:31</span>
+								ЕК обвинила журналиста из США Херша в спекуляции из-за расследования теракта на &laquo;Северных потоках&raquo;							</a>
+							<div>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627662"
+                            >
+							<a href="/news/1052627662" >
+								<span class="time">12:29</span>
+								Персонал больницы в ЯНАО пожаловался, что их заставляют покупать средства защиты за свой счет							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627662')"
+										class="vc-comments-count ">3</span>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627660"
+                            >
+							<a href="/news/1052627660" >
+								<span class="time">12:28</span>
+								В Екатеринбурге открыли заведение с меню от участника &laquo;Битвы шефов&raquo;. Фото							</a>
+							<div>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627669"
+                            >
+							<a href="/news/1052627669" >
+								<span class="time">12:26</span>
+								Военком пермского города покинул свой пост							</a>
+							<div>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627667"
+                            data-story-id="919">
+							<a href="/news/1052627667" >
+								<span class="time">12:26</span>
+								Тюменские улицы назвали в честь погибших героев спецоперации							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627667')"
+										class="vc-comments-count ">1</span>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627670"
+                            data-story-id="919">
+							<a href="/news/1052627670" >
+								<span class="time">12:24</span>
+								Бастрыкин оценил вероятность проведения судов над украинскими боевиками							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627670')"
+										class="vc-comments-count ">1</span>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627665"
+                            data-story-id="919">
+							<a href="/news/1052627665" >
+								<span class="time">12:24</span>
+								В Перми появился колл-центр для участников спецоперации							</a>
+							<div>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627668"
+                            data-story-id="919">
+							<a href="/news/1052627668" >
+								<span class="time">12:22</span>
+								Челябинский депутат Госдумы сводил участников СВО на хоккейный матч. Фото							</a>
+							<div>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627664"
+                            >
+							<a href="/news/1052627664" >
+								<span class="time">12:21</span>
+								В Свердловской области прогнозируют аномальное потепление							</a>
+							<div>
+															</div>
+						</li>
+											<li class="list-scroll-item is_momenty "
+                            data-id="19940"
+                            >
+							<a href="https://momenty.org/restaurants/19940"  target="_blank" >
+								<span class="time">12:14</span>
+								Японский и&nbsp;греческий&nbsp;&mdash; в&nbsp;&laquo;Гринвиче&raquo; запустили гастропроект с&nbsp;хот-догами							</a>
+							<div>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627666"
+                            >
+							<a href="/news/1052627666" >
+								<span class="time">12:11</span>
+								В ХМАО убийца пытался взять кредит на покойника							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627666')"
+										class="vc-comments-count ">1</span>
+															</div>
+						</li>
+											<li class="list-scroll-item list-scroll-item-important "
+                            data-id="1052627663"
+                            >
+							<a href="/news/1052627663" >
+								<span class="time">12:04</span>
+								&laquo;Коммерсант&raquo;: власти РФ отказались ограничивать цены на важные продукты							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627663')"
+										class="vc-comments-count ">13</span>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627661"
+                            >
+							<a href="/news/1052627661" >
+								<span class="time">12:01</span>
+								К фестивалю феминизма в Перми ищут героинь комикса о суперженщинах							</a>
+							<div>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627658"
+                            >
+							<a href="/news/1052627658" >
+								<span class="time">11:56</span>
+								ФНС банкротит старейший ГОК в Нижнем Тагиле							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627658')"
+										class="vc-comments-count ">3</span>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627659"
+                            data-story-id="919">
+							<a href="/news/1052627659" >
+								<span class="time">11:53</span>
+								Global Times: Европа погрязла в ненависти и антагонизме к России							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627659')"
+										class="vc-comments-count ">6</span>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627652"
+                            >
+							<a href="/news/1052627652" >
+								<span class="time">11:53</span>
+								Армянская авиакомпания прокомментировала отмену рейса из Екатеринбурга в Ереван							</a>
+							<div>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627657"
+                            >
+							<a href="/news/1052627657" >
+								<span class="time">11:50</span>
+								Губернатор Шумков подсчитал, сколько в области отремонтировали &laquo;жалких развалюх&raquo;. Фото							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627657')"
+										class="vc-comments-count ">14</span>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627656"
+                            >
+							<a href="/news/1052627656" >
+								<span class="time">11:45</span>
+								Роспотребнадзор ХМАО предупредил об опасности отравлений на Масленицу							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627656')"
+										class="vc-comments-count ">1</span>
+															</div>
+						</li>
+											<li class="list-scroll-item list-scroll-item-important "
+                            data-id="1052627654"
+                            >
+							<a href="/news/1052627654" >
+								<span class="time">11:37</span>
+								В военную часть Челябинской области набирают контрактников							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627654')"
+										class="vc-comments-count ">4</span>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627619"
+                            >
+							<a href="/news/1052627619" >
+								<span class="time">11:35</span>
+								Мэрия Кургана составила портрет типичного безработного							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627619')"
+										class="vc-comments-count ">4</span>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627653"
+                            >
+							<a href="/news/1052627653" >
+								<span class="time">11:33</span>
+								Пермские власти продают под музей сельское отделение сестринского ухода. Фото							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627653')"
+										class="vc-comments-count ">1</span>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627643"
+                            >
+							<a href="/news/1052627643" >
+								<span class="time">11:33</span>
+								Авиакомпания Utair ужесточила правила для тюменских пассажиров							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627643')"
+										class="vc-comments-count ">2</span>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627646"
+                            >
+							<a href="/news/1052627646" >
+								<span class="time">11:32</span>
+								В Екатеринбурге предлагают блины с сусальным золотом за пять тысяч рублей. Фото							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627646')"
+										class="vc-comments-count ">4</span>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627641"
+                            >
+							<a href="/news/1052627641" >
+								<span class="time">11:28</span>
+								В Пермский край стали чаще приезжать трудовые мигранты							</a>
+							<div>
+															</div>
+						</li>
+											<li class="list-scroll-item list-scroll-item-important "
+                            data-id="1052627649"
+                            >
+							<a href="/news/1052627649" >
+								<span class="time">11:25</span>
+								Инвалиды из ЛНР приехали в ХМАО на реабилитацию							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627649')"
+										class="vc-comments-count ">1</span>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627651"
+                            data-story-id="919">
+							<a href="/news/1052627651" >
+								<span class="time">11:23</span>
+								Мэр Александровска призвала земляков помочь мобилизованному							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627651')"
+										class="vc-comments-count ">2</span>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627650"
+                            >
+							<a href="/news/1052627650" >
+								<span class="time">11:19</span>
+								Риелторы рассказали, где в Тюмени можно купить самые дешевые садовые участки							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627650')"
+										class="vc-comments-count ">3</span>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627647"
+                            >
+							<a href="/news/1052627647" >
+								<span class="time">11:17</span>
+								В магазинах Екатеринбурга резко взлетели цены на крупы							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627647')"
+										class="vc-comments-count ">3</span>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627645"
+                            >
+							<a href="/news/1052627645" >
+								<span class="time">11:06</span>
+								Губернатор Комарова встретилась с главой Макеевки							</a>
+							<div>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627644"
+                            >
+							<a href="/news/1052627644" >
+								<span class="time">11:04</span>
+								В Пермском крае проблемный поселок остался без воды							</a>
+							<div>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627635"
+                            >
+							<a href="/news/1052627635" >
+								<span class="time">11:01</span>
+								В Кургане обрушается дом из-за коммунальной аварии. Фото							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627635')"
+										class="vc-comments-count ">11</span>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627642"
+                            >
+							<a href="/news/1052627642" >
+								<span class="time">10:59</span>
+								Владимир Путин подписал указ о назначении тюменских судей							</a>
+							<div>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627637"
+                            >
+							<a href="/news/1052627637" >
+								<span class="time">10:56</span>
+								Артист Гальцев приехал на отдых в Челябинскую область							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627637')"
+										class="vc-comments-count ">2</span>
+															</div>
+						</li>
+											<li class="list-scroll-item list-scroll-item-important "
+                            data-id="1052627618"
+                            >
+							<a href="/news/1052627618" >
+								<span class="time">10:56</span>
+								Астроном пообещал уральцам в феврале самый красивый вечер года. Фото							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627618')"
+										class="vc-comments-count ">2</span>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627634"
+                            >
+							<a href="/news/1052627634" >
+								<span class="time">10:54</span>
+								Экс-полицейского из Екатеринбурга отправили в колонию на 12 лет							</a>
+							<div>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627636"
+                            >
+							<a href="/news/1052627636" >
+								<span class="time">10:52</span>
+								Мэр Челябинска отправила глав районов бороться с гололедом							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627636')"
+										class="vc-comments-count ">1</span>
+															</div>
+						</li>
+											<li class="list-scroll-item list-scroll-item-important "
+                            data-id="1052627638"
+                            >
+							<a href="/news/1052627638" >
+								<span class="time">10:47</span>
+								После массового заболевания в лицее мэр Челябинска требует взять на контроль питание в школах							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627638')"
+										class="vc-comments-count ">3</span>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627640"
+                            >
+							<a href="/news/1052627640" >
+								<span class="time">10:46</span>
+								Челябинская ГИБДД предупредила водителей о снегопадах							</a>
+							<div>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627631"
+                            data-story-id="919">
+							<a href="/news/1052627631" >
+								<span class="time">10:40</span>
+								Губернатор ХМАО посетила свадьбу мобилизованного в зоне СВО. Фото							</a>
+							<div>
+															</div>
+						</li>
+											<li class="list-scroll-item list-scroll-item-important "
+                            data-id="1052627633"
+                            data-story-id="919">
+							<a href="/news/1052627633" >
+								<span class="time">10:38</span>
+								Марочко: ВСУ сменили тактику обстрелов							</a>
+							<div>
+																	<span onclick="showNews(event, '1052627633')"
+										class="vc-comments-count ">2</span>
+															</div>
+						</li>
+											<li class="list-scroll-item  "
+                            data-id="1052627626"
+                            >
+							<a href="/news/1052627626" >
+								<span class="time">10:32</span>
+								Зарплаты пермяков выросли, но отстают от среднероссийских							</a>
+							<div>
+															</div>
+						</li>
+									</ul>
+			</div>
+			</div>
+</div>
+
+			
+		</div>
+	</div>
+
+	<div class="vc-center" style="overflow: hidden;">
+		<div class="vc-center-inner" style="padding-top: 0; padding-left: 0;">
+
+
+
+			<div id="cl-main-inner">
+				<div class="cl-right">
+					<a href="/specials" class="spec-projects-banner">URA ПРОЕКТЫ</a>
+										<div class="cl-right-addition">
+						<div style="height:416px;">        <div id="7pXxmRBbSvlqCyI" class="bannerPosition_b1"></div>
+        <script type="text/javascript">
+            ready(function() {
+                (function() {
+                    window.addEventListener('header-bidding-loaded', function(){
+                        var banner_data = {
+                            banner_id:  Math.random().toString(36).substring(7)
+                        };
+                        
+                        var xhr = new XMLHttpRequest();
+                        xhr.responseType = 'json';
+                        
+                        xhr.onload = (function(position, banner_data){
+                                return function(){
+                                    if (xhr.status !== 200) return;
+                                    var data = xhr.response;
+                                    if (data.length > 0) {
+                                        var banner_code = data[Math.floor(Math.random()*data.length)];
+                                        banner_code = banner_code.replace(
+                                            /%%([a-z_]+)%%/g,
+                                            (function(banner_data){return function(str, value_name, offset, banner_code){
+                                                return banner_data[value_name] ? banner_data[value_name] : '';
+                                            };})(banner_data));
+                                        window.setHtml(document.getElementById('7pXxmRBbSvlqCyI'), banner_code);
+                                    }
+                                };
+                            })('b1', banner_data);
+                        
+                        xhr.open("GET", '/widgets/banner_loader/loader.php?type=b1');
+                        xhr.send();
+        
+                    });
+                })();
+            });
+        </script></div>
+					</div>
+				</div>
+
+				<div>
+					
+					
+
+					
+					
+						<div class="top-news">
+		<div class="top-news-content">
+			<div class="block-title"><span>срочная новость</span></div>
+							<div class="top-news-title"><a href="/story/919">Последние новости о спецоперации на Украине</a></div>
+				<div class="top-news-announce"><a href="/story/919"></a></div>
+					</div>
+	</div>
+
+					
+
+					<div class="cl-main-carousel">
+						
+						
+    <div class="day-news-items" id="day_news_items" data-last-modified="Mon, 20 Feb 2023 10:37:14 GMT">
+        <div class="day-news-items__title">
+            <h1>Главное за день</h1>
+        </div>
+        <div class="day-news-items__left"></div>
+        <div class="day-news-items__container">
+            <div class="day-news-items__list">
+                                    <div
+                        class="day-news-items__item">
+                                                    <a href="/news/1052627739" class="img-link" onclick="ga('send','event','NS Главные новости ','Переход на /news/1052627739 mbid:232792',window.location.href); gtag('event', 'Переход на /news/1052627739 mbid:232792', {'event_category': 'NS Главные новости ', 'event_label': window.location.href}); mb_stat('232792');">
+                                <img src="https://s.ura.news/pics/280/200/images/news/upload/news/627/739/1052627739/767513_Prezident_SShA_stock_stock_Dzho_Bayden_250x0_1620.1080.0.0_280.jpg" class="day-news-items__img">
+                                <div
+                                    class="day-news-items__item-position day-news-items__item-position_1"></div>
+                            </a>
+                                                <a href="/news/1052627739" class="day-news-items__announce" onclick="ga('send','event','NS Главные новости ','Переход на /news/1052627739 mbid:232792',window.location.href); gtag('event', 'Переход на /news/1052627739 mbid:232792', {'event_category': 'NS Главные новости ', 'event_label': window.location.href}); mb_stat('232792');">
+                                                        Зеленский встретился с Байденом в Киеве                        </a>
+                    </div>
+                                    <div
+                        class="day-news-items__item">
+                                                    <a href="/news/1052627719" class="img-link" onclick="ga('send','event','NS Главные новости ','Переход на /news/1052627719 mbid:232790',window.location.href); gtag('event', 'Переход на /news/1052627719 mbid:232790', {'event_category': 'NS Главные новости ', 'event_label': window.location.href}); mb_stat('232790');">
+                                <img src="https://s.ura.news/pics/280/200/images/news/upload/news/627/719/1052627719/656751_Semnadtsataya_ezhegodnaya_press_konferentsiya_prezidenta_RF_Moskva_peskov_dmitriy_portret_250x0_2400.1600.0.0_280.jpg" class="day-news-items__img">
+                                <div
+                                    class="day-news-items__item-position day-news-items__item-position_2"></div>
+                            </a>
+                                                <a href="/news/1052627719" class="day-news-items__announce" onclick="ga('send','event','NS Главные новости ','Переход на /news/1052627719 mbid:232790',window.location.href); gtag('event', 'Переход на /news/1052627719 mbid:232790', {'event_category': 'NS Главные новости ', 'event_label': window.location.href}); mb_stat('232790');">
+                                                        В Кремле заявили об очень сложном этапе для России                        </a>
+                    </div>
+                                    <div
+                        class="day-news-items__item">
+                                                    <a href="/news/1052627684" class="img-link" onclick="ga('send','event','NS Главные новости ','Переход на /news/1052627684 mbid:232788',window.location.href); gtag('event', 'Переход на /news/1052627684 mbid:232788', {'event_category': 'NS Главные новости ', 'event_label': window.location.href}); mb_stat('232788');">
+                                <img src="https://s.ura.news/pics/280/200/images/news/upload/news/627/684/1052627684/768098_Vooruzhennie_sili_Velikobritanii_stock_desant_voennie_nato_naemnik_stock_250x0_1620.1080.0.0_280.jpg" class="day-news-items__img">
+                                <div
+                                    class="day-news-items__item-position day-news-items__item-position_3"></div>
+                            </a>
+                                                <a href="/news/1052627684" class="day-news-items__announce" onclick="ga('send','event','NS Главные новости ','Переход на /news/1052627684 mbid:232788',window.location.href); gtag('event', 'Переход на /news/1052627684 mbid:232788', {'event_category': 'NS Главные новости ', 'event_label': window.location.href}); mb_stat('232788');">
+                                                        В СК РФ раскрыли схему Украины по вербовке наемников                        </a>
+                    </div>
+                                    <div
+                        class="day-news-items__item">
+                                                    <a href="/news/1052627678" class="img-link" onclick="ga('send','event','NS Главные новости ','Переход на /news/1052627678 mbid:232786',window.location.href); gtag('event', 'Переход на /news/1052627678 mbid:232786', {'event_category': 'NS Главные новости ', 'event_label': window.location.href}); mb_stat('232786');">
+                                <img src="https://s.ura.news/pics/280/200/images/news/upload/news/627/678/1052627678/325034_Bastrikin_Aleksandr_bastrikin_aleksandr_250x0_1880.1162.0.0_280.jpg" class="day-news-items__img">
+                                <div
+                                    class="day-news-items__item-position day-news-items__item-position_4"></div>
+                            </a>
+                                                <a href="/news/1052627678" class="day-news-items__announce" onclick="ga('send','event','NS Главные новости ','Переход на /news/1052627678 mbid:232786',window.location.href); gtag('event', 'Переход на /news/1052627678 mbid:232786', {'event_category': 'NS Главные новости ', 'event_label': window.location.href}); mb_stat('232786');">
+                                                        Бастрыкин обвинил уехавших из РФ звезд в предательстве                        </a>
+                    </div>
+                                    <div
+                        class="day-news-items__item">
+                                                    <a href="/news/1052627633" class="img-link" onclick="ga('send','event','NS Главные новости ','Переход на /news/1052627633 mbid:232772',window.location.href); gtag('event', 'Переход на /news/1052627633 mbid:232772', {'event_category': 'NS Главные новости ', 'event_label': window.location.href}); mb_stat('232772');">
+                                <img src="https://s.ura.news/pics/280/200/images/news/upload/news/627/633/1052627633/767190_Vooruzhennie_sili_Ukraini_stock_pvo_zenitka_VSU_stock_ZU_23_250x0_1156.769.0.0_280.jpg" class="day-news-items__img">
+                                <div
+                                    class="day-news-items__item-position day-news-items__item-position_5"></div>
+                            </a>
+                                                <a href="/news/1052627633" class="day-news-items__announce" onclick="ga('send','event','NS Главные новости ','Переход на /news/1052627633 mbid:232772',window.location.href); gtag('event', 'Переход на /news/1052627633 mbid:232772', {'event_category': 'NS Главные новости ', 'event_label': window.location.href}); mb_stat('232772');">
+                                                        Марочко: ВСУ сменили тактику обстрелов                        </a>
+                    </div>
+                                    <div
+                        class="day-news-items__item">
+                                                    <a href="/news/1052627606" class="img-link" onclick="ga('send','event','NS Главные новости ','Переход на /news/1052627606 mbid:232764',window.location.href); gtag('event', 'Переход на /news/1052627606 mbid:232764', {'event_category': 'NS Главные новости ', 'event_label': window.location.href}); mb_stat('232764');">
+                                <img src="https://s.ura.news/pics/280/200/images/news/upload/news/627/606/1052627606/761548_Vruchenie_Geroya_Rossii_v_Kremle_Moskva_bastrikin_aleksandr_250x0_3600.2406.0.0_280.jpg" class="day-news-items__img">
+                                <div
+                                    class="day-news-items__item-position day-news-items__item-position_6"></div>
+                            </a>
+                                                <a href="/news/1052627606" class="day-news-items__announce" onclick="ga('send','event','NS Главные новости ','Переход на /news/1052627606 mbid:232764',window.location.href); gtag('event', 'Переход на /news/1052627606 mbid:232764', {'event_category': 'NS Главные новости ', 'event_label': window.location.href}); mb_stat('232764');">
+                                                        Бастрыкин раскрыл число жертв Донбасса за 9 лет                        </a>
+                    </div>
+                                    <div
+                        class="day-news-items__item">
+                                                    <a href="/news/1052627602" class="img-link" onclick="ga('send','event','NS Главные новости ','Переход на /news/1052627602 mbid:232762',window.location.href); gtag('event', 'Переход на /news/1052627602 mbid:232762', {'event_category': 'NS Главные новости ', 'event_label': window.location.href}); mb_stat('232762');">
+                                <img src="https://s.ura.news/pics/280/200/images/news/upload/news/627/602/1052627602/88799_Berlin_flag_germanii_reyhstag_250x0_3264.2448.0.0_280.jpg" class="day-news-items__img">
+                                <div
+                                    class="day-news-items__item-position day-news-items__item-position_7"></div>
+                            </a>
+                                                <a href="/news/1052627602" class="day-news-items__announce" onclick="ga('send','event','NS Главные новости ','Переход на /news/1052627602 mbid:232762',window.location.href); gtag('event', 'Переход на /news/1052627602 mbid:232762', {'event_category': 'NS Главные новости ', 'event_label': window.location.href}); mb_stat('232762');">
+                                                        В ФРГ пожаловались на миллиардные убытки из-за Украины                        </a>
+                    </div>
+                                    <div
+                        class="day-news-items__item">
+                                                    <a href="/news/1052627596" class="img-link" onclick="ga('send','event','NS Главные новости ','Переход на /news/1052627596 mbid:232761',window.location.href); gtag('event', 'Переход на /news/1052627596 mbid:232761', {'event_category': 'NS Главные новости ', 'event_label': window.location.href}); mb_stat('232761');">
+                                <img src="https://s.ura.news/pics/280/200/images/news/upload/news/627/596/1052627596/748793_Boevoe_slazhivanie_mobilizovannih_na_Chebarkulyskom_poligone_TsVO_Chelyabinskaya_oblasty_ucheniya_armiya_voennie_soldati_oruzhie_vooruzhenie_voyna_boytsi_boevie_deystviya_250x0_2881.1925.0.0_280.jpg" class="day-news-items__img">
+                                <div
+                                    class="day-news-items__item-position day-news-items__item-position_8"></div>
+                            </a>
+                                                <a href="/news/1052627596" class="day-news-items__announce" onclick="ga('send','event','NS Главные новости ','Переход на /news/1052627596 mbid:232761',window.location.href); gtag('event', 'Переход на /news/1052627596 mbid:232761', {'event_category': 'NS Главные новости ', 'event_label': window.location.href}); mb_stat('232761');">
+                                                        Украинским боевикам урежут зарплаты в несколько раз                        </a>
+                    </div>
+                            </div>
+        </div>
+        <div class="day-news-items__right"></div>
+    </div>
+
+						
+					</div>
+				</div>
+				
+				
+
+				
+				
+<div class="spec-position" id="main_news" data-last-modified="Mon, 20 Feb 2023 10:37:14 GMT"
+     data-next-date="2023-02-16">&nbsp;</div>
+
+<div class="cl-right">
+	<div class="cl-game-block-position"></div>
+</div>
+
+
+
+    <div class="publication-item"
+         data-story-id=""
+         data-main-item-id="144450"
+         data-id="1036286269"
+         data-type="articles">
+		<a href="/articles/1036286269" onclick="gtag('event', 'Переход на /articles/1036286269', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'0', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286269', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'0', send_to: 'G-46M646YY6Y'});mi_stat('144450', '', '1036286269', '23', 1, 'main');">
+			<img src="https://s.ura.news/pics/280/200/images/news/upload/articles/286/269/1036286269/308609_Lunnoe_zatmenie_Ekaterinburg_mnogoetazhka_okna_luna_nochy_760x0_5127.3482.0.0_420.jpg" class="publication-item--img"/>
+		</a>
+
+		<div class="publication-item--title">
+			<a href="/articles/1036286269" onclick="gtag('event', 'Переход на /articles/1036286269', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'0', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286269', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'0', send_to: 'G-46M646YY6Y'});mi_stat('144450', '', '1036286269', '23', 1, 'main');">Подборка самых жутких хоррор-квестов Перми</a>
+		</div>
+
+		<div class="publication-item--sub-title">
+			<a href="/articles/1036286269"
+			   onclick="gtag('event', 'Переход на /articles/1036286269', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'0', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286269', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'0', send_to: 'G-46M646YY6Y'});mi_stat('144450', '', '1036286269', '23', 1, 'main');">Побег из психбольницы, кошмар Фредди Крюгера и маньяк с бензопилой</a>
+		</div>
+	</div>
+
+	<div class="spec-position">&nbsp;</div>
+
+	<div class="cl-right">
+		<div class="cl-game-block-position"></div>
+		<div class="cl-tooday-smi-position"></div>
+	</div>
+
+	
+
+    <div class="publication-item"
+         data-story-id=""
+         data-main-item-id="144447"
+         data-id="1036286272"
+         data-type="articles">
+		<a href="/articles/1036286272" onclick="gtag('event', 'Переход на /articles/1036286272', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'1', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286272', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'1', send_to: 'G-46M646YY6Y'});mi_stat('144447', '', '1036286272', '23', 2, 'main');">
+			<img src="https://s.ura.news/pics/280/200/images/news/upload/articles/286/272/1036286272/534321_Snegopad_v_aprele_vo_vremya_pandemii_koronavirusa_Kurgan_sneg_snegopad_holod_plohaya_vidimosty_invalid_sneg_v_gorode_sugrobi_v_gorode_plohaya_pogoda_vyyuga_metely_760x0_6240.4160.0.0_420.jpg" class="publication-item--img"/>
+		</a>
+
+		<div class="publication-item--title">
+			<a href="/articles/1036286272" onclick="gtag('event', 'Переход на /articles/1036286272', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'1', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286272', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'1', send_to: 'G-46M646YY6Y'});mi_stat('144447', '', '1036286272', '23', 2, 'main');">Екатеринбуржцы спасли мужчину, замерзавшего после ампутации ног</a>
+		</div>
+
+		<div class="publication-item--sub-title">
+			<a href="/articles/1036286272"
+			   onclick="gtag('event', 'Переход на /articles/1036286272', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'1', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286272', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'1', send_to: 'G-46M646YY6Y'});mi_stat('144447', '', '1036286272', '23', 2, 'main');">Пожилой человек 2 месяца просидел на паперти в морозы в окровавленных бинтах. Фото, видео</a>
+		</div>
+	</div>
+
+	<div class="spec-position">&nbsp;</div>
+
+	<div class="cl-right">
+		<div class="cl-game-block-position"></div>
+		<div class="cl-tooday-smi-position"></div>
+	</div>
+
+	
+
+    <div class="publication-item"
+         data-story-id="919"
+         data-main-item-id="144440"
+         data-id="1052627554"
+         data-type="news">
+		<a href="/news/1052627554" onclick="gtag('event', 'Переход на /news/1052627554', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'0', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /news/1052627554', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'0', send_to: 'G-46M646YY6Y'});mi_stat('144440', '1052627554', '', '23', 1, 'main');">
+			<img src="https://s.ura.news/pics/280/200/images/news/upload/news/627/554/1052627554/667638_Otvoevannie_sela_Bugas_Novognatovka_i_Nikolaevka_DNR_armiya_dnr_sau_artilleriya_samohodnaya_gaubitsa_2s1_gvozdika_122_mm_samohodnaya_gaubitsa_sboyka_250x0_4500.3008.0.0_280.jpg" class="publication-item--img"/>
+		</a>
+
+		<div class="publication-item--title">
+			<a href="/news/1052627554" onclick="gtag('event', 'Переход на /news/1052627554', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'0', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /news/1052627554', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'0', send_to: 'G-46M646YY6Y'});mi_stat('144440', '1052627554', '', '23', 1, 'main');">Киев готовит ядерную провокацию, МО РФ опровергло увольнение офицеров Донбасса: главное за 19 февраля</a>
+		</div>
+
+		<div class="publication-item--sub-title">
+			<a href="/news/1052627554"
+			   onclick="gtag('event', 'Переход на /news/1052627554', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'0', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /news/1052627554', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'0', send_to: 'G-46M646YY6Y'});mi_stat('144440', '1052627554', '', '23', 1, 'main');"></a>
+		</div>
+	</div>
+
+	<div class="spec-position">&nbsp;</div>
+
+	<div class="cl-right">
+		<div class="cl-game-block-position"></div>
+		<div class="cl-tooday-smi-position"></div>
+	</div>
+
+	
+
+    <div class="publication-item"
+         data-story-id="919"
+         data-main-item-id="144437"
+         data-id="1036286266"
+         data-type="articles">
+		<a href="/articles/1036286266" onclick="gtag('event', 'Переход на /articles/1036286266', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'1', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286266', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'1', send_to: 'G-46M646YY6Y'});mi_stat('144437', '', '1036286266', '23', 2, 'main');">
+			<img src="https://s.ura.news/pics/280/200/images/news/upload/articles/286/266/1036286266/770518_Intervyyu_s_Evgeniem_Minchenko_Moskva_minchenko_evgeniy_760x0_3600.2406.0.0_420.jpg" class="publication-item--img"/>
+		</a>
+
+		<div class="publication-item--title">
+			<a href="/articles/1036286266" onclick="gtag('event', 'Переход на /articles/1036286266', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'1', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286266', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'1', send_to: 'G-46M646YY6Y'});mi_stat('144437', '', '1036286266', '23', 2, 'main');">«В истории с Украиной и Западом возможна не точка, а многоточие»</a>
+		</div>
+
+		<div class="publication-item--sub-title">
+			<a href="/articles/1036286266"
+			   onclick="gtag('event', 'Переход на /articles/1036286266', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'1', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286266', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'1', send_to: 'G-46M646YY6Y'});mi_stat('144437', '', '1036286266', '23', 2, 'main');">Реален ли мирный договор с Киевом и что Россию ждет после — в колонке политолога Минченко</a>
+		</div>
+	</div>
+
+	<div class="spec-position">&nbsp;</div>
+
+	<div class="cl-right">
+		<div class="cl-game-block-position"></div>
+		<div class="cl-tooday-smi-position"></div>
+	</div>
+
+	
+
+    <div class="publication-item"
+         data-story-id="919"
+         data-main-item-id="144434"
+         data-id="1052627415"
+         data-type="news">
+		<a href="/news/1052627415" onclick="gtag('event', 'Переход на /news/1052627415', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'0', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /news/1052627415', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'0', send_to: 'G-46M646YY6Y'});mi_stat('144434', '1052627415', '', '23', 1, 'main');">
+			<img src="https://s.ura.news/pics/280/200/images/news/upload/news/627/415/1052627415/771615_Klipart_ofitsialyniy_sayt_ministerstva_oboroni_RF_stock_vertolet_strelyba_zalp_pusk_raketa_vks_ka_alligator_stock_sboyka_250x0_1200.800.0.0_280.jpg" class="publication-item--img"/>
+		</a>
+
+		<div class="publication-item--title">
+			<a href="/news/1052627415" onclick="gtag('event', 'Переход на /news/1052627415', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'0', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /news/1052627415', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'0', send_to: 'G-46M646YY6Y'});mi_stat('144434', '1052627415', '', '23', 1, 'main');">ВСУ эвакуировали военное командование из Бахмута: главное к вечеру 18 февраля</a>
+		</div>
+
+		<div class="publication-item--sub-title">
+			<a href="/news/1052627415"
+			   onclick="gtag('event', 'Переход на /news/1052627415', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'0', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /news/1052627415', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'0', send_to: 'G-46M646YY6Y'});mi_stat('144434', '1052627415', '', '23', 1, 'main');"></a>
+		</div>
+	</div>
+
+	<div class="spec-position">&nbsp;</div>
+
+	<div class="cl-right">
+		<div class="cl-game-block-position"></div>
+		<div class="cl-tooday-smi-position"></div>
+	</div>
+
+	
+
+    <div class="publication-item"
+         data-story-id="919"
+         data-main-item-id="144432"
+         data-id="1036286267"
+         data-type="articles">
+		<a href="/articles/1036286267" onclick="gtag('event', 'Переход на /articles/1036286267', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'1', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286267', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'1', send_to: 'G-46M646YY6Y'});mi_stat('144432', '', '1036286267', '23', 2, 'main');">
+			<img src="https://s.ura.news/pics/280/200/images/news/upload/articles/286/267/1036286267/669198_Situatsiya_v_Volnovahe_posle_chastichnogo_osvobozhdeniya_DNR_voennaya_tehnika_armiya_voennie_pozharishte_ruini_dnr_razrusheniya_zachistka_tank_VSU_posledstviya_obstrela_760x0_4500.3008.0.0_420.jpg" class="publication-item--img"/>
+		</a>
+
+		<div class="publication-item--title">
+			<a href="/articles/1036286267" onclick="gtag('event', 'Переход на /articles/1036286267', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'1', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286267', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'1', send_to: 'G-46M646YY6Y'});mi_stat('144432', '', '1036286267', '23', 2, 'main');">Чем важен Бахмут для России и почему его так долго не могут взять</a>
+		</div>
+
+		<div class="publication-item--sub-title">
+			<a href="/articles/1036286267"
+			   onclick="gtag('event', 'Переход на /articles/1036286267', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'1', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286267', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'1', send_to: 'G-46M646YY6Y'});mi_stat('144432', '', '1036286267', '23', 2, 'main');">Бои за город превратились в кровавую мясорубку между российскими бойцами и ВСУ</a>
+		</div>
+	</div>
+
+	<div class="spec-position">&nbsp;</div>
+
+	<div class="cl-right">
+		<div class="cl-game-block-position"></div>
+		<div class="cl-tooday-smi-position"></div>
+	</div>
+
+	
+
+    <div class="publication-item"
+         data-story-id="919"
+         data-main-item-id="144430"
+         data-id="1052627277"
+         data-type="news">
+		<a href="/news/1052627277" onclick="gtag('event', 'Переход на /news/1052627277', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'0', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /news/1052627277', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'0', send_to: 'G-46M646YY6Y'});mi_stat('144430', '1052627277', '', '23', 1, 'main');">
+			<img src="https://s.ura.news/pics/280/200/images/news/upload/news/627/277/1052627277/748820_Boevoe_slazhivanie_mobilizovannih_na_Chebarkulyskom_poligone_TsVO_Chelyabinskaya_oblasty_ucheniya_armiya_voennie_soldati_oruzhie_vooruzhenie_voyna_boytsi_boevie_deystviya_250x0_3466.2316.0.0_280.jpg" class="publication-item--img"/>
+		</a>
+
+		<div class="publication-item--title">
+			<a href="/news/1052627277" onclick="gtag('event', 'Переход на /news/1052627277', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'0', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /news/1052627277', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'0', send_to: 'G-46M646YY6Y'});mi_stat('144430', '1052627277', '', '23', 1, 'main');">Фронтовая сводка за неделю: ВС РФ окружают Бахмут со всех сторон</a>
+		</div>
+
+		<div class="publication-item--sub-title">
+			<a href="/news/1052627277"
+			   onclick="gtag('event', 'Переход на /news/1052627277', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'0', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /news/1052627277', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'0', send_to: 'G-46M646YY6Y'});mi_stat('144430', '1052627277', '', '23', 1, 'main');"></a>
+		</div>
+	</div>
+
+	<div class="spec-position">&nbsp;</div>
+
+	<div class="cl-right">
+		<div class="cl-game-block-position"></div>
+		<div class="cl-tooday-smi-position"></div>
+	</div>
+
+	
+
+    <div class="publication-item"
+         data-story-id="919"
+         data-main-item-id="144428"
+         data-id="1052627268"
+         data-type="news">
+		<a href="/news/1052627268" onclick="gtag('event', 'Переход на /news/1052627268', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'1', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /news/1052627268', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'1', send_to: 'G-46M646YY6Y'});mi_stat('144428', '1052627268', '', '23', 2, 'main');">
+			<img src="https://s.ura.news/pics/280/200/images/news/upload/news/627/268/1052627268/492532_Etap_spetsialynih_ucheniy_materialyno_tehnicheskogo_obespecheniya_na_stantsii_Aduy_Sverdlovskaya_oblasty_voennie_general_pogoni_250x0_2272.1515.0.0_280.jpg" class="publication-item--img"/>
+		</a>
+
+		<div class="publication-item--title">
+			<a href="/news/1052627268" onclick="gtag('event', 'Переход на /news/1052627268', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'1', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /news/1052627268', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'1', send_to: 'G-46M646YY6Y'});mi_stat('144428', '1052627268', '', '23', 2, 'main');">Минобороны РФ сменило командующих военными округами: главное к вечеру 17 февраля</a>
+		</div>
+
+		<div class="publication-item--sub-title">
+			<a href="/news/1052627268"
+			   onclick="gtag('event', 'Переход на /news/1052627268', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'1', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /news/1052627268', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'1', send_to: 'G-46M646YY6Y'});mi_stat('144428', '1052627268', '', '23', 2, 'main');"></a>
+		</div>
+	</div>
+
+	<div class="spec-position">&nbsp;</div>
+
+	<div class="cl-right">
+		<div class="cl-game-block-position"></div>
+		<div class="cl-tooday-smi-position"></div>
+	</div>
+
+	
+
+    <div class="publication-item"
+         data-story-id="8"
+         data-main-item-id="144426"
+         data-id="1036286265"
+         data-type="articles">
+		<a href="/articles/1036286265" onclick="gtag('event', 'Переход на /articles/1036286265', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'2', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286265', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'2', send_to: 'G-46M646YY6Y'});mi_stat('144426', '', '1036286265', '23', 3, 'main');">
+			<img src="https://s.ura.news/pics/280/200/images/news/upload/articles/286/265/1036286265/745273_Putin_v_Astane_Astana_putin_vladimir_760x0_3600.2406.0.0_420.jpg" class="publication-item--img"/>
+		</a>
+
+		<div class="publication-item--title">
+			<a href="/articles/1036286265" onclick="gtag('event', 'Переход на /articles/1036286265', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'2', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286265', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'2', send_to: 'G-46M646YY6Y'});mi_stat('144426', '', '1036286265', '23', 3, 'main');">Путин показал, что Запад зря отказался от газа из России</a>
+		</div>
+
+		<div class="publication-item--sub-title">
+			<a href="/articles/1036286265"
+			   onclick="gtag('event', 'Переход на /articles/1036286265', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'2', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286265', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'2', send_to: 'G-46M646YY6Y'});mi_stat('144426', '', '1036286265', '23', 3, 'main');">Европе все же придется открыть свой рынок для РФ</a>
+		</div>
+	</div>
+
+	<div class="spec-position">&nbsp;</div>
+
+	<div class="cl-right">
+		<div class="cl-game-block-position"></div>
+		<div class="cl-tooday-smi-position"></div>
+	</div>
+
+	
+
+    <div class="publication-item"
+         data-story-id=""
+         data-main-item-id="144425"
+         data-id="1036286259"
+         data-type="articles">
+		<a href="/articles/1036286259" onclick="gtag('event', 'Переход на /articles/1036286259', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'3', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286259', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'3', send_to: 'G-46M646YY6Y'});mi_stat('144425', '', '1036286259', '23', 4, 'main');">
+			<img src="https://s.ura.news/pics/280/200/images/news/upload/articles/286/259/1036286259/e8a1ab4ac242509e6683ab38233a220b_760x0_1280.853.0.0_420.jpg" class="publication-item--img"/>
+		</a>
+
+		<div class="publication-item--title">
+			<a href="/articles/1036286259" onclick="gtag('event', 'Переход на /articles/1036286259', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'3', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286259', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'3', send_to: 'G-46M646YY6Y'});mi_stat('144425', '', '1036286259', '23', 4, 'main');">Слухи ХМАО: Комарова ушла на самоизоляцию</a>
+		</div>
+
+		<div class="publication-item--sub-title">
+			<a href="/articles/1036286259"
+			   onclick="gtag('event', 'Переход на /articles/1036286259', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'3', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286259', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'3', send_to: 'G-46M646YY6Y'});mi_stat('144425', '', '1036286259', '23', 4, 'main');">О распродаже мэра, «стукаче» единороссов и воре в законе. Выпуск 1010</a>
+		</div>
+	</div>
+
+	<div class="spec-position">&nbsp;</div>
+
+	<div class="cl-right">
+		<div class="cl-game-block-position"></div>
+		<div class="cl-tooday-smi-position"></div>
+	</div>
+
+	
+
+    <div class="publication-item"
+         data-story-id=""
+         data-main-item-id="144423"
+         data-id="1036286264"
+         data-type="articles">
+		<a href="/articles/1036286264" onclick="gtag('event', 'Переход на /articles/1036286264', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'4', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286264', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'4', send_to: 'G-46M646YY6Y'});mi_stat('144423', '', '1036286264', '23', 5, 'main');">
+			<img src="https://s.ura.news/pics/280/200/images/news/upload/articles/286/264/1036286264/24b2b564ab7b3e669c72ca43026d4413_760x0_1280.853.0.0_420.jpg" class="publication-item--img"/>
+		</a>
+
+		<div class="publication-item--title">
+			<a href="/articles/1036286264" onclick="gtag('event', 'Переход на /articles/1036286264', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'4', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286264', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'4', send_to: 'G-46M646YY6Y'});mi_stat('144423', '', '1036286264', '23', 5, 'main');">Свердловские слухи: силовики разругались из-за открыток</a>
+		</div>
+
+		<div class="publication-item--sub-title">
+			<a href="/articles/1036286264"
+			   onclick="gtag('event', 'Переход на /articles/1036286264', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'4', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286264', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'4', send_to: 'G-46M646YY6Y'});mi_stat('144423', '', '1036286264', '23', 5, 'main');">О новых тарифах, приезде Медведева и скандале с шаурмой. Выпуск 1010</a>
+		</div>
+	</div>
+
+	<div class="spec-position">&nbsp;</div>
+
+	<div class="cl-right">
+		<div class="cl-game-block-position"></div>
+		<div class="cl-tooday-smi-position"></div>
+	</div>
+
+	
+
+    <div class="publication-item"
+         data-story-id=""
+         data-main-item-id="144421"
+         data-id="1036286256"
+         data-type="articles">
+		<a href="/articles/1036286256" onclick="gtag('event', 'Переход на /articles/1036286256', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'5', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286256', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'5', send_to: 'G-46M646YY6Y'});mi_stat('144421', '', '1036286256', '23', 6, 'main');">
+			<img src="https://s.ura.news/pics/280/200/images/news/upload/articles/286/256/1036286256/55d5d7558ed57f8f5e3112f26f590e21_760x0_1280.853.0.0_420.jpg" class="publication-item--img"/>
+		</a>
+
+		<div class="publication-item--title">
+			<a href="/articles/1036286256" onclick="gtag('event', 'Переход на /articles/1036286256', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'5', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286256', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'5', send_to: 'G-46M646YY6Y'});mi_stat('144421', '', '1036286256', '23', 6, 'main');">Тюменские слухи: Моор станет министром</a>
+		</div>
+
+		<div class="publication-item--sub-title">
+			<a href="/articles/1036286256"
+			   onclick="gtag('event', 'Переход на /articles/1036286256', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'5', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286256', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'5', send_to: 'G-46M646YY6Y'});mi_stat('144421', '', '1036286256', '23', 6, 'main');">О матриархате в облдуме, обиде мэрии и переделе рынка секс-услуг. Выпуск 1010</a>
+		</div>
+	</div>
+
+	<div class="spec-position">&nbsp;</div>
+
+	<div class="cl-right">
+		<div class="cl-game-block-position"></div>
+		<div class="cl-tooday-smi-position"></div>
+	</div>
+
+	
+
+    <div class="publication-item"
+         data-story-id=""
+         data-main-item-id="144419"
+         data-id="1036286253"
+         data-type="articles">
+		<a href="/articles/1036286253" onclick="gtag('event', 'Переход на /articles/1036286253', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'6', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286253', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'6', send_to: 'G-46M646YY6Y'});mi_stat('144419', '', '1036286253', '23', 7, 'main');">
+			<img src="https://s.ura.news/pics/280/200/images/news/upload/articles/286/253/1036286253/839c824b5eefe250c9d51ccb474c1aa0_760x0_1280.853.0.0_420.jpg" class="publication-item--img"/>
+		</a>
+
+		<div class="publication-item--title">
+			<a href="/articles/1036286253" onclick="gtag('event', 'Переход на /articles/1036286253', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'6', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286253', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'6', send_to: 'G-46M646YY6Y'});mi_stat('144419', '', '1036286253', '23', 7, 'main');">Слухи ЯНАО: чиновники бунтуют из-за водителей</a>
+		</div>
+
+		<div class="publication-item--sub-title">
+			<a href="/articles/1036286253"
+			   onclick="gtag('event', 'Переход на /articles/1036286253', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'6', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286253', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'6', send_to: 'G-46M646YY6Y'});mi_stat('144419', '', '1036286253', '23', 7, 'main');">Об уволенном управленце, скандалах в больницах и экономном подрядчике. Выпуск 1010</a>
+		</div>
+	</div>
+
+	<div class="spec-position">&nbsp;</div>
+
+	<div class="cl-right">
+		<div class="cl-game-block-position"></div>
+		<div class="cl-tooday-smi-position"></div>
+	</div>
+
+	
+
+    <div class="publication-item"
+         data-story-id=""
+         data-main-item-id="144417"
+         data-id="1036286255"
+         data-type="articles">
+		<a href="/articles/1036286255" onclick="gtag('event', 'Переход на /articles/1036286255', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'7', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286255', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'7', send_to: 'G-46M646YY6Y'});mi_stat('144417', '', '1036286255', '23', 8, 'main');">
+			<img src="https://s.ura.news/pics/280/200/images/news/upload/articles/286/255/1036286255/d555d8ba8590eabe15342757fe80ab37_760x0_1280.853.0.0_420.jpg" class="publication-item--img"/>
+		</a>
+
+		<div class="publication-item--title">
+			<a href="/articles/1036286255" onclick="gtag('event', 'Переход на /articles/1036286255', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'7', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286255', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'7', send_to: 'G-46M646YY6Y'});mi_stat('144417', '', '1036286255', '23', 8, 'main');">Пермские слухи: депутат обманул таксиста</a>
+		</div>
+
+		<div class="publication-item--sub-title">
+			<a href="/articles/1036286255"
+			   onclick="gtag('event', 'Переход на /articles/1036286255', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'7', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286255', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'7', send_to: 'G-46M646YY6Y'});mi_stat('144417', '', '1036286255', '23', 8, 'main');">О претензиях Махонина, использовании миллиардера и странном проректоре. Выпуск 1010</a>
+		</div>
+	</div>
+
+	<div class="spec-position">&nbsp;</div>
+
+	<div class="cl-right">
+		<div class="cl-game-block-position"></div>
+		<div class="cl-tooday-smi-position"></div>
+	</div>
+
+	
+
+    <div class="publication-item"
+         data-story-id=""
+         data-main-item-id="144415"
+         data-id="1036286257"
+         data-type="articles">
+		<a href="/articles/1036286257" onclick="gtag('event', 'Переход на /articles/1036286257', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'8', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286257', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'8', send_to: 'G-46M646YY6Y'});mi_stat('144415', '', '1036286257', '23', 9, 'main');">
+			<img src="https://s.ura.news/pics/280/200/images/news/upload/articles/286/257/1036286257/f0b974bd24546932ec0724c558b730f5_760x0_1280.853.0.0_420.jpg" class="publication-item--img"/>
+		</a>
+
+		<div class="publication-item--title">
+			<a href="/articles/1036286257" onclick="gtag('event', 'Переход на /articles/1036286257', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'8', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286257', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'8', send_to: 'G-46M646YY6Y'});mi_stat('144415', '', '1036286257', '23', 9, 'main');">Курганские слухи: новому замгубернатора сочувствуют коллеги</a>
+		</div>
+
+		<div class="publication-item--sub-title">
+			<a href="/articles/1036286257"
+			   onclick="gtag('event', 'Переход на /articles/1036286257', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'8', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286257', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'8', send_to: 'G-46M646YY6Y'});mi_stat('144415', '', '1036286257', '23', 9, 'main');">Об амбассадоре строек, срыве контракта и искушении грехом. Выпуск 1009</a>
+		</div>
+	</div>
+
+	<div class="spec-position">&nbsp;</div>
+
+	<div class="cl-right">
+		<div class="cl-game-block-position"></div>
+		<div class="cl-tooday-smi-position"></div>
+	</div>
+
+	
+
+    <div class="publication-item"
+         data-story-id=""
+         data-main-item-id="144413"
+         data-id="1036286258"
+         data-type="articles">
+		<a href="/articles/1036286258" onclick="gtag('event', 'Переход на /articles/1036286258', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'9', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286258', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'9', send_to: 'G-46M646YY6Y'});mi_stat('144413', '', '1036286258', '23', 10, 'main');">
+			<img src="https://s.ura.news/pics/280/200/images/news/upload/articles/286/258/1036286258/314fd21a9db4719382d13491c5ce55a0_760x0_1280.853.0.0_420.jpg" class="publication-item--img"/>
+		</a>
+
+		<div class="publication-item--title">
+			<a href="/articles/1036286258" onclick="gtag('event', 'Переход на /articles/1036286258', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'9', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286258', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'9', send_to: 'G-46M646YY6Y'});mi_stat('144413', '', '1036286258', '23', 10, 'main');">Челябинские слухи: Текслер соберет олигархов на курорте</a>
+		</div>
+
+		<div class="publication-item--sub-title">
+			<a href="/articles/1036286258"
+			   onclick="gtag('event', 'Переход на /articles/1036286258', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'9', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286258', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'9', send_to: 'G-46M646YY6Y'});mi_stat('144413', '', '1036286258', '23', 10, 'main');">О структуре правительства, массовой смене мэров и срочном сборе олигархов. Выпуск 1010</a>
+		</div>
+	</div>
+
+	<div class="spec-position">&nbsp;</div>
+
+	<div class="cl-right">
+		<div class="cl-game-block-position"></div>
+		<div class="cl-tooday-smi-position"></div>
+	</div>
+
+	
+
+    <div class="publication-item"
+         data-story-id=""
+         data-main-item-id="144406"
+         data-id="1036286238"
+         data-type="articles">
+		<a href="/articles/1036286238" onclick="gtag('event', 'Переход на /articles/1036286238', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'10', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286238', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'10', send_to: 'G-46M646YY6Y'});mi_stat('144406', '', '1036286238', '23', 11, 'main');">
+			<img src="https://s.ura.news/pics/280/200/images/news/upload/articles/286/238/1036286238/567346_bla_bla_bar_Ekaterinburg_bar_nochnoy_klub_bar_bla_bla_bar_760x0_4256.2837.0.0_420.jpg" class="publication-item--img"/>
+		</a>
+
+		<div class="publication-item--title">
+			<a href="/articles/1036286238" onclick="gtag('event', 'Переход на /articles/1036286238', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'10', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286238', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'10', send_to: 'G-46M646YY6Y'});mi_stat('144406', '', '1036286238', '23', 11, 'main');">Изнанка тюменского общепита глазами его сотрудников</a>
+		</div>
+
+		<div class="publication-item--sub-title">
+			<a href="/articles/1036286238"
+			   onclick="gtag('event', 'Переход на /articles/1036286238', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'10', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286238', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'10', send_to: 'G-46M646YY6Y'});mi_stat('144406', '', '1036286238', '23', 11, 'main');">«Я похож на собаку? Почему ты мне свистишь?»: бармен о хамстве на работе и пьяном быдле</a>
+		</div>
+	</div>
+
+	<div class="spec-position">&nbsp;</div>
+
+	<div class="cl-right">
+		<div class="cl-game-block-position"></div>
+		<div class="cl-tooday-smi-position"></div>
+	</div>
+
+	
+
+    <div class="publication-item"
+         data-story-id=""
+         data-main-item-id="144393"
+         data-id="1036286241"
+         data-type="articles">
+		<a href="/articles/1036286241" onclick="gtag('event', 'Переход на /articles/1036286241', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'11', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286241', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'11', send_to: 'G-46M646YY6Y'});mi_stat('144393', '', '1036286241', '23', 12, 'main');">
+			<img src="https://s.ura.news/pics/280/200/images/news/upload/articles/286/241/1036286241/770897_Svetofori_Dorozhnoe_dvizhenie_Kurgan_svetofor_zeleniy_svet_zeleniy_tsvet_760x0_5472.3648.0.0_420.jpg" class="publication-item--img"/>
+		</a>
+
+		<div class="publication-item--title">
+			<a href="/articles/1036286241" onclick="gtag('event', 'Переход на /articles/1036286241', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'11', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286241', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'11', send_to: 'G-46M646YY6Y'});mi_stat('144393', '', '1036286241', '23', 12, 'main');">Водители Кургана стоят в пробках из-за многочисленных светофоров</a>
+		</div>
+
+		<div class="publication-item--sub-title">
+			<a href="/articles/1036286241"
+			   onclick="gtag('event', 'Переход на /articles/1036286241', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'11', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286241', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'11', send_to: 'G-46M646YY6Y'});mi_stat('144393', '', '1036286241', '23', 12, 'main');">URA.RU узнало, кто зарабатывает на их установке и обслуживании</a>
+		</div>
+	</div>
+
+	<div class="spec-position">&nbsp;</div>
+
+	<div class="cl-right">
+		<div class="cl-game-block-position"></div>
+		<div class="cl-tooday-smi-position"></div>
+	</div>
+
+	
+
+    <div class="publication-item"
+         data-story-id=""
+         data-main-item-id="144391"
+         data-id="1036286232"
+         data-type="articles">
+		<a href="/articles/1036286232" onclick="gtag('event', 'Переход на /articles/1036286232', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'12', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286232', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'12', send_to: 'G-46M646YY6Y'});mi_stat('144391', '', '1036286232', '23', 13, 'main');">
+			<img src="https://s.ura.news/pics/280/200/images/news/upload/articles/286/232/1036286232/108088_Portugaliya_hristos_lissabon_760x0_2048.1536.0.0_420.jpg" class="publication-item--img"/>
+		</a>
+
+		<div class="publication-item--title">
+			<a href="/articles/1036286232" onclick="gtag('event', 'Переход на /articles/1036286232', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'12', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286232', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'12', send_to: 'G-46M646YY6Y'});mi_stat('144391', '', '1036286232', '23', 13, 'main');">Эмигрант из Тюмени рассказала, за что полюбила Португалию</a>
+		</div>
+
+		<div class="publication-item--sub-title">
+			<a href="/articles/1036286232"
+			   onclick="gtag('event', 'Переход на /articles/1036286232', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'12', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286232', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'12', send_to: 'G-46M646YY6Y'});mi_stat('144391', '', '1036286232', '23', 13, 'main');">Переселенец из Тюменской области — об океане, спецоперации и работе для русских за рубежом</a>
+		</div>
+	</div>
+
+	<div class="spec-position">&nbsp;</div>
+
+	<div class="cl-right">
+		<div class="cl-game-block-position"></div>
+		<div class="cl-tooday-smi-position"></div>
+	</div>
+
+	
+
+    <div class="publication-item"
+         data-story-id="977"
+         data-main-item-id="144388"
+         data-id="1036286252"
+         data-type="articles">
+		<a href="/articles/1036286252" onclick="gtag('event', 'Переход на /articles/1036286252', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'13', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286252', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'13', send_to: 'G-46M646YY6Y'});mi_stat('144388', '', '1036286252', '23', 14, 'main');">
+			<img src="https://s.ura.news/pics/280/200/images/news/upload/articles/286/252/1036286252/620892_Perviy_deny_Moskovskogo_aviakosmicheskogo_salona_MAKS_2021_Moskovskaya_oblasty_Zhukovskiy_paraplan_ms_21_ms21_760x0_3600.2400.0.0_420.jpg" class="publication-item--img"/>
+		</a>
+
+		<div class="publication-item--title">
+			<a href="/articles/1036286252" onclick="gtag('event', 'Переход на /articles/1036286252', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'13', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286252', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'13', send_to: 'G-46M646YY6Y'});mi_stat('144388', '', '1036286252', '23', 14, 'main');">Россиян пересадят с Boeing и Airbus на отечественные самолеты</a>
+		</div>
+
+		<div class="publication-item--sub-title">
+			<a href="/articles/1036286252"
+			   onclick="gtag('event', 'Переход на /articles/1036286252', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'13', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286252', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'13', send_to: 'G-46M646YY6Y'});mi_stat('144388', '', '1036286252', '23', 14, 'main');">Страна вернет себе лидирующие позиции в авиастроении</a>
+		</div>
+	</div>
+
+	<div class="spec-position">&nbsp;</div>
+
+	<div class="cl-right">
+		<div class="cl-game-block-position"></div>
+		<div class="cl-tooday-smi-position"></div>
+	</div>
+
+	
+
+    <div class="publication-item"
+         data-story-id="919"
+         data-main-item-id="144386"
+         data-id="1036286251"
+         data-type="articles">
+		<a href="/articles/1036286251" onclick="gtag('event', 'Переход на /articles/1036286251', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'14', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286251', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'14', send_to: 'G-46M646YY6Y'});mi_stat('144386', '', '1036286251', '23', 15, 'main');">
+			<img src="https://s.ura.news/pics/280/200/images/news/upload/articles/286/251/1036286251/526880_Pamyatnie_meropriyatiya_v_Pskove_ko_dnyu_20_ti_letiya_podviga_6_roti_104_gvardeyskogo_parashyutno_desantnogo_polka_Pskov_putin_vladimir_760x0_3600.2400.0.0_420.jpg" class="publication-item--img"/>
+		</a>
+
+		<div class="publication-item--title">
+			<a href="/articles/1036286251" onclick="gtag('event', 'Переход на /articles/1036286251', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'14', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286251', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'14', send_to: 'G-46M646YY6Y'});mi_stat('144386', '', '1036286251', '23', 15, 'main');">Путин меняет отношение государства и общества к бойцам ЧВК</a>
+		</div>
+
+		<div class="publication-item--sub-title">
+			<a href="/articles/1036286251"
+			   onclick="gtag('event', 'Переход на /articles/1036286251', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'14', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /articles/1036286251', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'14', send_to: 'G-46M646YY6Y'});mi_stat('144386', '', '1036286251', '23', 15, 'main');">К этому президента подтолкнули дети</a>
+		</div>
+	</div>
+
+	<div class="spec-position">&nbsp;</div>
+
+	<div class="cl-right">
+		<div class="cl-game-block-position"></div>
+		<div class="cl-tooday-smi-position"></div>
+	</div>
+
+	
+
+    <div class="publication-item"
+         data-story-id="919"
+         data-main-item-id="144384"
+         data-id="1052626965"
+         data-type="news">
+		<a href="/news/1052626965" onclick="gtag('event', 'Переход на /news/1052626965', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'15', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /news/1052626965', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'15', send_to: 'G-46M646YY6Y'});mi_stat('144384', '1052626965', '', '23', 16, 'main');">
+			<img src="https://s.ura.news/pics/280/200/images/news/upload/news/626/965/1052626965/771602_Klipart_ofitsialyniy_sayt_ministerstva_oboroni_RF_stock_zalp_pusk_grad_raketa_rszo_stock_sboyka_250x0_1200.800.0.0_280.jpg" class="publication-item--img"/>
+		</a>
+
+		<div class="publication-item--title">
+			<a href="/news/1052626965" onclick="gtag('event', 'Переход на /news/1052626965', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'15', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /news/1052626965', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'15', send_to: 'G-46M646YY6Y'});mi_stat('144384', '1052626965', '', '23', 16, 'main');">В РФ вернулись пленные, Путин уравняет бойцов ЧВК и военных: главное к вечеру 16 февраля</a>
+		</div>
+
+		<div class="publication-item--sub-title">
+			<a href="/news/1052626965"
+			   onclick="gtag('event', 'Переход на /news/1052626965', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'15', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /news/1052626965', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'15', send_to: 'G-46M646YY6Y'});mi_stat('144384', '1052626965', '', '23', 16, 'main');"></a>
+		</div>
+	</div>
+
+	<div class="spec-position">&nbsp;</div>
+
+	<div class="cl-right">
+		<div class="cl-game-block-position"></div>
+		<div class="cl-tooday-smi-position"></div>
+	</div>
+
+	
+
+    <div class="publication-item"
+         data-story-id=""
+         data-main-item-id="144397"
+         data-id="1052627096"
+         data-type="news">
+		<a href="/news/1052627096" onclick="gtag('event', 'Переход на /news/1052627096', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'16', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /news/1052627096', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'16', send_to: 'G-46M646YY6Y'});mi_stat('144397', '1052627096', '', '23', 17, 'main');">
+			<img src="https://s.ura.news/pics/280/200/images/news/upload/news/627/096/1052627096/543ca3847a9119efd08eecc2ee0a966b_250x0_940.580.0.0_280.jpg" class="publication-item--img"/>
+		</a>
+
+		<div class="publication-item--title">
+			<a href="/news/1052627096" onclick="gtag('event', 'Переход на /news/1052627096', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'16', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /news/1052627096', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'16', send_to: 'G-46M646YY6Y'});mi_stat('144397', '1052627096', '', '23', 17, 'main');">Путин поддержал идею Алексея Нечаева о новой промышленной политике</a>
+		</div>
+
+		<div class="publication-item--sub-title">
+			<a href="/news/1052627096"
+			   onclick="gtag('event', 'Переход на /news/1052627096', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'16', send_to: 'UA-56019874-1'});gtag('event', 'Переход на /news/1052627096', {'event_category': 'NS Картина дня', 'event_label': window.location.href+'16', send_to: 'G-46M646YY6Y'});mi_stat('144397', '1052627096', '', '23', 17, 'main');"></a>
+		</div>
+	</div>
+
+	<div class="spec-position">&nbsp;</div>
+
+	<div class="cl-right">
+		<div class="cl-game-block-position"></div>
+		<div class="cl-tooday-smi-position"></div>
+	</div>
+
+	
+
+				
+
+				
+				
+				
+
+				
+				
+<div class="cl-game-block">
+    <div class="block-title"><span>Лонгрид</span></div>
+    <div onclick="gtag('event', 'Переход на https://ura.news/specials/ural-airlines', {'event_category': 'NS Блок игры', 'event_label': window.location.href, send_to: 'UA-56019874-1'});gtag('event', 'Переход на https://ura.news/specials/ural-airlines', {'event_category': 'NS Блок игры', 'event_label': window.location.href, send_to: 'G-46M646YY6Y'});">
+    <a href="https://ura.news/specials/ural-airlines">
+        <img src="https://s.ura.news/images/news/upload/main_game/0/b2e0e3c6db489d6102f451eda175339d_275x275_275.275.0.0.jpg"
+             style="display: block; width: 100%; height: auto;">
+    </a>
+    <a href="https://ura.news/specials/ural-airlines"
+       class="cl-game-block-title">Откровенные истории пилотов "Уральских авиалиний"</a>
+    </div>
+</div>
+
+				
+
+			</div>
+
+			<div class="vc-btn vc-btn-lg vc-btn-primary w100" id="vc_load_more"
+                 onclick="gtag('event', 'click', {'event_category': 'NS Load More', 'event_label': '', send_to: 'UA-56019874-1'});gtag('event', 'click', {'event_category': 'NS Load More', 'event_label': '', send_to: 'G-46M646YY6Y'});">загрузить ещё новостей
+			</div>
+
+		</div>
+	</div>
+
+</div>		
+	</div>
+			<div class="vc-footer">
+	<div class="vc-footer-content">
+				<div class="vc-footer-column">
+			<div class="p">
+				<div class="h4">Главный редактор ИАА УРА.РУ</div>
+				<div>Диана Козлова, <a href="mailto:kozlova@ura.ru">kozlova@ura.ru</a></div>
+			</div>
+			<div class="p">
+				<div class="h4">Редакция</div>
+				<div>Екатеринбург, ул.&nbsp;Карла&nbsp;Либкнехта,&nbsp;5</div>
+				<div><a href="tel:+73433820006">+7&nbsp;(343)&nbsp;382-000-6</a>,
+					<a href="mailto:obzor@ura.ru">obzor@ura.ru</a></div>
+			</div>
+			<div class="p">
+				<div>Пермь, ул.&nbsp;Куйбышева,&nbsp;50</div>
+				<div><a href="tel:+73422563707">+7&nbsp;(342)&nbsp;256-37-07</a>
+					<a href="mailto:perm@ura.ru">perm@ura.ru</a></div>
+			</div>
+			<div class="vc-footer-text">
+				URA.RU&nbsp;&mdash;&nbsp;это информационное агентство.
+				Мы&nbsp;пишем интересные свежие новости России, мира&nbsp;и&nbsp;Большого Урала.
+				У&nbsp;нас развитая сеть журналистов, которые работают в&nbsp;Екатеринбурге, Челябинске, Тюмени, Кургане, Перми, Ханты-Мансийске, Салехарде, Сургуте, Нижневартовске, Новом Уренгое, Ноябрьске.
+				В&nbsp;работе с&nbsp;информацией мы&nbsp;придерживаемся <a href="https://ura.news/banners/advert/editorial-standart.pdf" class="footer-button">редакционных стандартов</a>.
+			</div>
+		</div>
+
+		<div class="vc-footer-column">
+			<div style="flex-wrap: wrap;">
+				<div>
+					<div class="p">
+						<div class="h4"><a href="/specials/advert" class="footer-button btn-link">Размещение рекламы</a></div>
+					</div>
+					<div class="p"><a href="tel:+73433820006">+7&nbsp;(343)&nbsp;382-00-06</a></div>
+					<div class="p"><a href="mailto:progress@ura.ru">progress@ura.ru</a></div>
+                    <div class="p">
+                        <a href="/specials/pro-science/" class="footer-button btn-link special-projects">Спецпроект PROНаука</a>
+                    </div>
+                    <div class="p">
+                        <a href="/specials/digital-russia" class="btn-link download-mediakit">Спецпроект Цифровая Россия</a>
+                    </div>
+					<div class="p">
+						<a href="/specials/iamural" class="footer-button btn-link special-projects">Спецпроект #ЯсУрала</a>
+					</div>
+                    <div class="p">
+                        <a href="/specials/dreams" class="footer-button btn-link special-projects">Спецпроект #Куда приводят мечты</a>
+                    </div>
+				</div>
+				<div>
+					<div class="p">
+						<a href="https://m.ura.news" class="footer-button" id="footer_pda">Мобильная версия</a>
+					</div>
+					<div class="p">
+						<a href="/specials" class="footer-button special-projects">Спецпроекты</a>
+					</div>
+					<div class="p">
+						<a href="/story" class="footer-button">Сюжеты</a>
+					</div>
+					<div class="p">
+						<a href="/archive" class="footer-button archive">Архив новостей</a>
+					</div>
+					<div class="p">
+						<a href="mailto:obzor@ura.ru" class="footer-button send-news">Сообщить новость</a>
+					</div>
+
+				</div>
+			</div>
+			<div>
+				<div class="h4">Подписаться на новости</div>
+				<div class="socials-btn-group">
+					<a class="icons icons-tw" href="https://twitter.com/ura_ru" target="_blank"></a>
+					<a class="icons icons-vk" href="http://vk.com/ura_ru" targe="_blank"></a>
+					<a class="icons icons-ok" href="http://ok.ru/uraru" target="_blank"></a>
+					<a class="icons icons-tg" href="https://t.me/uranews" target="_blank"></a>
+					<a class="icons icons-vb" href="https://invite.viber.com/?g2=AQB4A0BMe22kqUs9wwonJwv1%2FPv5Xjb%2BLpTzQTu4U9MYEaAnbDvKvDihkOyttMc%2B" target="_blank"></a>
+					<a class="icons icons-rss" href="/rss" target="_blank"></a>
+					<a class="icons icons-mail" href="/subscribe/"></a>
+				</div>
+			</div>
+			<div>
+				<noindex>
+					<div class="h4">При использовании материалов ссылка обязательна</div>
+					<div class="vc-footer-text">
+						<div>Свидетельство о&nbsp;регистрации СМИ&nbsp;ИАА&nbsp;«УРА.РУ»&nbsp;Эл&nbsp;№ФС77-77908
+							от&nbsp;19&nbsp;февраля&nbsp;2020 года выдано Федеральной службой по&nbsp;надзору
+							в&nbsp;сфере связи, информационных технологий и&nbsp;массовых коммуникаций (Роскомнадзор)</div>
+
+						<div>Название СМИ: Информационно-аналитическое агентство «УРА.РУ»</div>
+
+						<div>Учредитель: Общество с ограниченной ответственностью «Сибирско-Уральская медиакомпания»
+							(620075, Свердловская обл., г. Екатеринбург, ул. Карла Либкнехта, д. 5, пом. № 317)</div>
+
+						<div>Главный редактор ИАА УРА.РУ Диана Козлова</div>
+
+						<div>Телефон редакции: +7(343) 382-00-06</div>
+
+						<div>Адрес электронной почты редакции: obzor@ura.ru</div>
+
+					</div>
+					<div>
+						<span class="btn-link" ng-click="eula.showTermOfUse()">Пользовательское соглашение</span>
+						<span class="btn-link" ng-click="eula.showPrivacyPolicy()">Политика конфиденциальности</span>
+					</div>
+				</noindex>
+			</div>
+		</div>
+
+		<div class="vc-footer-column">
+			<div class="h4">Подписаться на новости</div>
+				<div>
+					<div class="socials-btn-group">
+						<a class="icons icons-tw" href="https://twitter.com/ura_ru" target="_blank"></a>
+						<a class="icons icons-vk" href="http://vk.com/ura_ru" targe="_blank"></a>
+						<a class="icons icons-ok" href="http://ok.ru/uraru" target="_blank"></a>
+						<a class="icons icons-tg" href="https://t.me/uranews" target="_blank"></a>
+						<a class="icons icons-vb" href="https://invite.viber.com/?g2=AQB4A0BMe22kqUs9wwonJwv1%2FPv5Xjb%2BLpTzQTu4U9MYEaAnbDvKvDihkOyttMc%2B" target="_blank"></a>
+						<a class="icons icons-rss" href="/rss" target="_blank"></a>
+						<a class="icons icons-mail" href="/subscribe/"></a>
+					</div>
+				</div>
+
+			<div class="vc-footer-text">
+				URA.RU&nbsp;&mdash;&nbsp;это информационное агентство.
+				Мы&nbsp;пишем интересные свежие новости России, мира&nbsp;и&nbsp;Большого Урала.
+				У&nbsp;нас развитая сеть журналистов, которые работают в&nbsp;Екатеринбурге, Челябинске, Тюмени, Кургане, Перми, Ханты-Мансийске, Салехарде, Сургуте, Нижневартовске, Новом Уренгое, Ноябрьске.
+				В&nbsp;работе с&nbsp;информацией мы&nbsp;придерживаемся <a href="https://ura.news/banners/advert/editorial-standart.pdf" class="footer-button">редакционных стандартов</a>.
+			</div>
+			<div class="vc-footer-text">
+				&nbsp;
+			</div>
+			<div>
+				<noindex>
+<div class="counter">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write('<a href="//www.liveinternet.ru/click" '+
+'target=_blank><img src="//counter.yadro.ru/hit?t11.6;r'+
+escape(document.referrer)+((typeof(screen)=='undefined')?'':
+';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+
+';i'+escape('Жж'+document.title.substring(0,80))+';'+Math.random()+
+'" alt="" title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня" '+
+'border=0 width=88 height=31></a>')//--></script><!--/LiveInternet-->
+</div>
+<div class="counter">
+  <!-- Top100 (Kraken) Widget -->
+  <span id="top100_widget"></span>
+  <!-- END Top100 (Kraken) Widget -->
+
+  <!-- Top100 (Kraken) Counter -->
+  <noscript>
+    <img src="//counter.rambler.ru/top100.cnt?pid=2944851" alt="Топ-100" />
+  </noscript>
+  <!-- END Top100 (Kraken) Counter -->
+</div>
+
+<div class="counter">
+  <!-- Rating@Mail.ru counter -->
+    <noscript><div>
+      <img src="//top-fwz1.mail.ru/counter?id=1016715;js=na" style="border:0;position:absolute;left:-9999px;" alt="" />
+    </div></noscript>
+  <!-- //Rating@Mail.ru counter -->
+
+  <!-- Rating@Mail.ru logo -->
+  <a href="http://top.mail.ru/jump?from=1016715">
+    <img src="//top-fwz1.mail.ru/counter?id=1016715;t=502;l=1"
+         style="border:0;" height="31" width="88" alt="Рейтинг@Mail.ru" /></a>
+  <!-- //Rating@Mail.ru logo -->
+
+</div>
+  
+</noindex>				<div class="vc-footer-age">Для лиц старше 18 лет</div>
+			</div>
+		</div>
+			</div>
+</div>
+		
+</div>
+
+<div id="eula" 
+	 class="eula"
+	 ng-if="$root.eula && $root.eula.visible"
+	 style="display: none;"
+	 ng-style="$root.eula.visible ? {'display':'block'} : {};">
+	<div id="eula_header">
+		<div id="eula_close" class="eula_close"
+			 ng-click="eula.hideEula();"></div>
+		<noindex><div class="h1" ng-bind="eula.title"></div></noindex>
+	</div>
+	<div style="overflow-y: scroll;height: calc(100% - 60px);">
+		<div>
+			<div><noindex>
+				<ng-include src="eula.content_template"></ng-include>
+			</noindex></div>
+		</div>
+	</div>
+</div>
+
+	    <div id="fb-root"></div>
+
+    <!-- Yandex.Metrika counter -->
+    <noscript><div><img src="https://mc.yandex.ru/watch/1130914" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+
+    <!-- VK Pixel Code -->
+    <noscript><img src="https://vk.com/rtrg?p=VK-RTRG-874519-8pKqf" style="position:fixed; left:-999px;" alt=""/></noscript>
+    <!-- End VK  Pixel Code -->
+
+    <!-- Rating Mail.ru counter -->
+    <noscript><div>
+    <img src="https://top-fwz1.mail.ru/counter?id=3212055;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru" />
+    </div></noscript>
+    <!-- End Rating Mail.ru counter -->
+
+</body>
+
+</html>

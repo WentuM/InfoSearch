@@ -1,0 +1,3433 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="ru" xml:lang="ru">
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+		<title>&#171;ВЗГЛЯД.РУ&#187; - последние новости и аналитические материалы</title>
+
+			<meta property="fb:app_id" content="1265905060095681" />
+	<meta name="pmail-verification" content="77a49b1977eb91752b16806d6d9ebaf5">
+	<link rel="manifest" href="/static/manifest.json"></link>
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png"/>
+	<link rel="shortcut icon" href="/static/images/favicon.ico"/>
+		
+	<link rel="icon" type="image/ico" href="/static/images/favicon.ico"/>
+		
+	<script src="/static/js/jquery-1.11.1.min.js"></script>
+	<script src="/static/js/lib/jquery.json.js"></script>
+		
+	<link href="/static/css/screen_2.css?v=111" rel="stylesheet" type="text/css"/>
+	<script src="/static/js/lib/jquery.jcarousel.js"></script>
+	<script type="text/javascript" src="/static/js/jquery.jscroll.js"></script>
+	<script type="text/javascript" src="/static/js/adfox.asyn.code.ver3.js"> </script>
+	<script type="text/javascript" src="/static/js/adfox.asyn.code.scroll.js"> </script>
+	<script src="https://yastatic.net/pcode/adfox/loader.js"></script>
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script src="/static/js/easyXDM.js" type="text/javascript"></script>
+	<script src="/static/js/vengine.js?195" type="text/javascript" charset="UTF-8"></script>
+	<script src="/static/js/push.js" type="text/javascript"></script>
+	<script src="/static/js/advert.js" type="text/javascript"></script>
+
+<script language="JavaScript"></script><script type="text/javascript">
+var SITE_URL = 'vz.ru';
+</script>
+<script>window.yaContextCb = window.yaContextCb || []</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+
+		
+		
+		
+		
+		
+		
+<meta name="Robots"             content="index,follow,max-image-preview:large" />
+
+<meta name="keywords"           content="новости, политика, в мире, взру, последние, кризис, путин" />
+<meta name="description"        content="Электронное периодическое издание Взгляд.ру. Специализируется на оперативных новостях, публикации актуальной информации и аналитических материалов о российской и международной политике, бизнесе и финансах, а также событиях культуры и спорта. Взгляд отличается от традиционной печатной прессы только способом доставки." />
+
+
+
+	<meta property="og:image" content="https://vz.ru/images/600x400_vz.jpg"/>
+	<meta property="og:image:width" content="600"/>
+	<meta property="og:image:height" content="400"/>
+
+		
+	</head>
+	<body >
+		
+		<div class="main-container">
+			
+			<div id="top">
+				
+					<table width="100%" cellspacing="0" cellpadding="0">
+        <tr>
+                <td>
+                        <table width="100%" cellspacing="0" cellpadding="0">
+                                <tr>
+                    					
+                                        <td width="45%">
+                                                <a href="/"><img src="https://vz.ru/images/logov4.gif" border="0" width="225" height="100" alt="Взгляд" title="Взгляд" style="display:block;padding-right:25px;"></a>
+                                        		
+                                        </td>
+                                        <td width="55%" valign="top">
+                                                <div class="z12" id="hot-news" >
+                                                        
+    <h4 style="background:#656565">НОВОСТЬ ЧАСА</h4>
+	<span></span>
+	<p>
+		
+			<a href = "/redir/?source=vz_hour_news&id=1200042&vzurl=/news/2023/2/20/1200042.html">
+				<img alt = "" title = "" width = "63" height = " 50" src = "https://img.vz.ru/upimg/m12/m1200042.jpg"/>
+			</a>
+		
+		<a href = "/redir/?source=vz_hour_news&id=1200042&vzurl=/news/2023/2/20/1200042.html">Байден и Зеленский встретились в Киеве</a>
+	</p>
+	<div class = "clear"></div>
+	
+<div class="hot-news-bottom">
+<div>
+<a class = "allnews" href = "/news/">лента новостей</a>&#160;&#160;&#160;&#160;&#160;<a class="allnews" href="/hournews/">все новости часа</a>
+</div>
+</div>
+
+
+                                                </div>
+                                        </td>
+                                        
+                                </tr>
+                        </table>
+                </td>
+				
+                <td width="290" valign="top">
+                </td>
+                
+        </tr>
+</table>
+<div class="plus181"></div>
+
+				
+			</div>
+			
+			<div class="top_menu"><div class="menui">
+<div class="taggroup-menu">
+	<div class="taggroup sys_thumbs">
+		<ul>
+			
+				
+					<li style = "float: left;" class="thumb">
+						<a href ="/tags/ukraina/" class="thumb sys_thumb" style = "margin-left: 10px"><nobr><img src="/static/images/red.png" alt="" title="Горячая тема" style="top: 2px;position: relative;margin-right: 2px;margin-left: 2px;"/>Украина</nobr></a>
+					</li>
+				
+			
+				
+					<li style = "float: left;" class="thumb">
+						<a href ="/tags/russia-usa/" class="thumb sys_thumb" style = ""><nobr>Россия и США</nobr></a>
+					</li>
+				
+			
+				
+					<li style = "float: left;" class="thumb">
+						<a href ="/tags/putin/" class="thumb sys_thumb" style = ""><nobr>Президент Путин</nobr></a>
+					</li>
+				
+			
+				
+					<li style = "float: left;" class="thumb">
+						<a href ="/tags/energycrisis/" class="thumb sys_thumb" style = ""><nobr>Энергетический кризис</nobr></a>
+					</li>
+				
+			
+				
+					<li style = "float: left;" class="thumb">
+						<a href ="/tags/military/" class="thumb sys_thumb" style = ""><nobr>Армия и вооружение</nobr></a>
+					</li>
+				
+			
+				
+					<li style = "float: left;" class="thumb">
+						<a href ="/tags/oil/" class="thumb sys_thumb" style = ""><nobr>Нефть и рубль</nobr></a>
+					</li>
+				
+			
+		</ul>
+		<div class="clear"></div>
+	</div>
+	<div class = "jcarousel-buttons"></div>
+</div>
+
+</div></div>
+
+			
+			
+			<table width="100%" cellspacing="0" cellpadding="0"><tr><td id="main">
+				<div id="topdate">
+						<div class="fly-panel__box">
+		<div class="fly-panel">
+			<div class="fly-panel__content">
+				<a href="/games/?utm_campaign=vz&utm_medium=referral&utm_source=18plus"><i class="icon-age"></i></a>
+				<span class="fly-panel__info">
+					20 февраля, понедельник &#160;|&#160; Последнее обновление&#160;&#8212; 13:35&#160;&#160;|&#160;&#160;vz.ru
+				</span>
+								
+				<div class="fly-panel__drop">
+					<div class="fly-panel__burger">
+						<span class="_title">Разделы</span><span class="_burger">
+							<i></i>
+							<i></i>
+							<i></i>
+						</span>
+					</div>
+					
+					<div class="fly-panel__search">
+						<form action="/search/" method="get">
+							<input type="text" name="q" value="" placeholder="Поиск по сайту"></input>
+							<button type="button">
+								<i class="icon-search"></i>
+							</button>
+						</form>
+					</div>
+					
+					<div class="fly-panel__social">
+						<a href="https://dzen.ru/vz.ru"><i class="icon-zen"></i></a>
+						<a href="https://twitter.com/vzglyad"><i class="icon-twitter"></i></a>
+						<a href="https://vk.com/vz"><i class="icon-vkontakte"></i></a>
+						<a href="https://t.me/vzglyad_ru"><i class="icon-telegram"></i></a>
+						
+						<a href="https://ok.ru/vzglyadru"><i class="icon-odnoklassniki"></i></a>
+						
+						<a href="https://www.youtube.com/@vzru"><i class="icon-youtube"></i></a>
+						<a href="https://vz.ru/rss.xml"><i class="icon-rss"></i></a>
+					</div>
+
+					<div class="fly-panel__sections">
+						<div class="_top-news">
+							<div class="_inner">
+							    
+							        
+							        <div class="_top-news__list-item active" data-section="1">
+						                
+
+
+	
+		<div class="mainnews">
+			 
+			<h1><a href="/redir/?source=vz_top_news&id=1199730&vzurl=/economy/2023/2/19/1199730.html">Почему Европа не запрещает российский атом</a></h1>
+			
+			
+				
+				<table width="100%" cellspacing="0" cellpadding="0" style="margin: 10px 0 10px 0;">
+				<tr>
+				<td width="1%" valign="top"><a href="/redir/?source=vz_top_news&id=1199730&vzurl=/economy/2023/2/19/1199730.html"><img src="https://img.vz.ru/upimg/m11/m1199730.jpg" width="300" height="233" border="0" title="Евросоюз отказался вводить санкции против Росатома" alt="Евросоюз отказался вводить санкции против Росатома"/></a></td>
+				<td width="99%" valign="bottom" class="description"><span>Рамиль Ситдиков/РИА Новости</span></td>
+				</tr>
+				</table>
+				
+				<a href="/redir/?source=vz_top_news&id=1199730&vzurl=/economy/2023/2/19/1199730.html" class="text">Польша сильно расстроилась, потому что российский Росатом смог избежать санкций в новом 10-м пакете. Отстояли право работать с Россией Венгрия и Франция. Но даже Германия, отказавшаяся от своих АЭС, здесь оказалась не на стороне жесткой позиции Варшавы. Почему отказаться от российской ядерной энергетики Европе даже сложнее, чем отказаться от угля, нефти и газа?</a>&#160;<a href="/redir/?source=vz_top_news&id=1199730&vzurl=/economy/2023/2/19/1199730.html" class="more">Подробности...</a>
+					
+		</div>
+	
+
+ 
+						                
+
+
+
+
+ 
+										<ul class="_more-news">
+										    
+												<li>
+													<a href="/news/2023/2/20/1200026.html">Maersk завершила продажу активов в России</a>
+												</li>
+										    
+												<li>
+													<a href="/news/2023/2/20/1200001.html">Цена нефти начала восстанавливаться после падения</a>
+												</li>
+										    
+												<li>
+													<a href="/news/2023/2/20/1199998.html">Рубль на открытии торгов укрепился к основным валютам</a>
+												</li>
+										    
+										</ul>
+	
+										<div class="_goto-section">
+											<a href="/economy/">Перейти в раздел…</a>
+										</div>
+							            							            
+									</div>
+							    
+							        
+							        <div class="_top-news__list-item " data-section="2">
+						                
+
+
+	
+		<div class="mainnews">
+			 
+			<h1><a href="/redir/?source=vz_top_news&id=1199590&vzurl=/politics/2023/2/17/1199590.html">«Турецкий поток» может стать новой целью террора США</a></h1>
+			
+			
+				
+				<table width="100%" cellspacing="0" cellpadding="0" style="margin: 10px 0 10px 0;">
+				<tr>
+				<td width="1%" valign="top"><a href="/redir/?source=vz_top_news&id=1199590&vzurl=/politics/2023/2/17/1199590.html"><img src="https://img.vz.ru/upimg/m11/m1199590.jpg" width="300" height="233" border="0" title="Эксперты не исключают, что после «Северного потока» целью диверсантов станет «Турецкий поток»" alt="Эксперты не исключают, что после «Северного потока» целью диверсантов станет «Турецкий поток»"/></a></td>
+				<td width="99%" valign="bottom" class="description"><span> Виталий Тимкив/РИА Новости</span></td>
+				</tr>
+				</table>
+				
+				<a href="/redir/?source=vz_top_news&id=1199590&vzurl=/politics/2023/2/17/1199590.html" class="text">Идущие из России в Турцию газопроводы могут повторить судьбу «Северного потока». Страхи по этому поводу возникли в экспертном сообществе Турции после того, как американский журналист-расследователь Сеймур Херш раскрыл дело о взрывах на дне Балтики, прогремевших полгода назад. Главным подозреваемым в диверсии стали США. Есть у них мотив и технические возможности для атаки на «Турецкий поток»?</a>&#160;<a href="/redir/?source=vz_top_news&id=1199590&vzurl=/politics/2023/2/17/1199590.html" class="more">Подробности...</a>
+					
+		</div>
+	
+
+ 
+						                
+
+
+
+
+ 
+										<ul class="_more-news">
+										    
+												<li>
+													<a href="/news/2023/2/20/1200053.html">Анкара предложила НАТО рассмотреть заявку Финляндии на вступление отдельно</a>
+												</li>
+										    
+												<li>
+													<a href="/news/2023/2/20/1200049.html">Захарова отреагировала на фото Зеленского и Байдена возле собора в Киеве</a>
+												</li>
+										    
+												<li>
+													<a href="/news/2023/2/20/1200042.html">Байден и Зеленский встретились в Киеве</a>
+												</li>
+										    
+										</ul>
+	
+										<div class="_goto-section">
+											<a href="/politics/">Перейти в раздел…</a>
+										</div>
+							            							            
+									</div>
+							    
+							        
+							        <div class="_top-news__list-item " data-section="3">
+						                
+
+
+	
+		<div class="mainnews">
+			 
+			<h1><a href="/redir/?source=vz_top_news&id=1198966&vzurl=/society/2023/2/19/1198966.html">Как «длинная рука» поможет Военно-морскому флоту России</a></h1>
+			
+			
+				
+				<table width="100%" cellspacing="0" cellpadding="0" style="margin: 10px 0 10px 0;">
+				<tr>
+				<td width="1%" valign="top"><a href="/redir/?source=vz_top_news&id=1198966&vzurl=/society/2023/2/19/1198966.html"><img src="https://img.vz.ru/upimg/m11/m1198966.jpg" width="300" height="233" border="0" title="ВМФ России получит зенитные ракеты повышенной дальности" alt="ВМФ России получит зенитные ракеты повышенной дальности"/></a></td>
+				<td width="99%" valign="bottom" class="description"><span>кадр из видео</span></td>
+				</tr>
+				</table>
+				
+				<a href="/redir/?source=vz_top_news&id=1198966&vzurl=/society/2023/2/19/1198966.html" class="text">Поражать воздушные цели на расстоянии до четырехсот километров! Это крайне амбициозная цель поставлена сегодня перед ВМФ России – и работы в данном направлении уже начались. Однако для успеха в этом деле необходимо решить по крайней мере две задачи – впрочем, они не слишком сложны, а эффект будет крайне высоким.</a>&#160;<a href="/redir/?source=vz_top_news&id=1198966&vzurl=/society/2023/2/19/1198966.html" class="more">Подробности...</a>
+					
+		</div>
+	
+
+ 
+						                
+
+
+
+
+ 
+										<ul class="_more-news">
+										    
+												<li>
+													<a href="/news/2023/2/20/1200046.html">Пойманы продававшие тряпки под видом брендовой одежды петербургские мошенники</a>
+												</li>
+										    
+												<li>
+													<a href="/news/2023/2/20/1200050.html">Ростех впервые представил за рубежом вертолет Ми-171А3</a>
+												</li>
+										    
+												<li>
+													<a href="/news/2023/2/20/1200051.html">Марина Ким презентовала документальный фильм «Пятнашка: Дикая дивизия Донбасса»</a>
+												</li>
+										    
+										</ul>
+	
+										<div class="_goto-section">
+											<a href="/society/">Перейти в раздел…</a>
+										</div>
+							            							            
+									</div>
+							    
+							        
+							        <div class="_top-news__list-item " data-section="4">
+						                
+
+
+	
+		<div class="mainnews">
+			 
+			<h1><a href="/redir/?source=vz_top_news&id=1199747&vzurl=/world/2023/2/20/1199747.html">Запад меняет свое представление об украинском конфликте</a></h1>
+			
+			
+				
+				<table width="100%" cellspacing="0" cellpadding="0" style="margin: 10px 0 10px 0;">
+				<tr>
+				<td width="1%" valign="top"><a href="/redir/?source=vz_top_news&id=1199747&vzurl=/world/2023/2/20/1199747.html"><img src="https://img.vz.ru/upimg/m11/m1199747.jpg" width="300" height="233" border="0" title="Запад задумывается о том, как завершать украинский конфликт" alt="Запад задумывается о том, как завершать украинский конфликт"/></a></td>
+				<td width="99%" valign="bottom" class="description"><span>REUTERS/Oleksandr Ratushniak</span></td>
+				</tr>
+				</table>
+				
+				<a href="/redir/?source=vz_top_news&id=1199747&vzurl=/world/2023/2/20/1199747.html" class="text">Является ли происходящее на Украине вызовом для существования всего западного мира или же это локальный конфликт, жизненно важный прежде всего для России? От ответа на этот вопрос зависит вся система поддержки киевского режима со стороны его западных спонсоров, а значит, во многом и сам исход этого противостояния. Это понимание меняется на Западе прямо сейчас.</a>&#160;<a href="/redir/?source=vz_top_news&id=1199747&vzurl=/world/2023/2/20/1199747.html" class="more">Подробности...</a>
+					
+		</div>
+	
+
+ 
+						                
+
+
+
+
+ 
+										<ul class="_more-news">
+										    
+												<li>
+													<a href="/news/2023/2/20/1200048.html">Байден анонсировал в Киеве новый пакет военной помощи на 500 млн долларов</a>
+												</li>
+										    
+												<li>
+													<a href="/news/2023/2/20/1200047.html">Зеленский подтвердил прибытие Байдена в Киев</a>
+												</li>
+										    
+												<li>
+													<a href="/news/2023/2/20/1200041.html">На Западе заявили о критическом значении артиллерии НАТО для Украины</a>
+												</li>
+										    
+										</ul>
+	
+										<div class="_goto-section">
+											<a href="/world/">Перейти в раздел…</a>
+										</div>
+							            							            
+									</div>
+							    
+							        
+							        <div class="_top-news__list-item " data-section="5">
+						                
+
+
+	
+		<div class="mainnews">
+			 
+			<h1><a href="/redir/?source=vz_top_news&id=1198739&vzurl=/incidents/2023/2/10/1198739.html">«Дело Фургала» показало главенство закона и права в России</a></h1>
+			
+			
+				
+				<table width="100%" cellspacing="0" cellpadding="0" style="margin: 10px 0 10px 0;">
+				<tr>
+				<td width="1%" valign="top"><a href="/redir/?source=vz_top_news&id=1198739&vzurl=/incidents/2023/2/10/1198739.html"><img src="https://img.vz.ru/upimg/m11/m1198739.jpg" width="300" height="233" border="0" title="" alt=""/></a></td>
+				<td width="99%" valign="bottom" class="description"><span>Сергей Карпухин/ТАСС</span></td>
+				</tr>
+				</table>
+				
+				<a href="/redir/?source=vz_top_news&id=1198739&vzurl=/incidents/2023/2/10/1198739.html" class="text">Суд вынес приговор экс-губернатору Хабаровского края Сергею Фургалу, обвиненному в убийствах и покушениях на убийство. На основании вердикта присяжных его приговорили к 22 годам колонии. Какой прецедент для региональных элит создает данное судебное решение и почему экс-чиновник, совершивший тяжкие преступления, оказался за решеткой лишь спустя годы? </a>&#160;<a href="/redir/?source=vz_top_news&id=1198739&vzurl=/incidents/2023/2/10/1198739.html" class="more">Подробности...</a>
+					
+		</div>
+	
+
+ 
+						                
+
+
+
+
+ 
+										<ul class="_more-news">
+										    
+												<li>
+													<a href="/news/2023/2/20/1200052.html">Организатора ячейки «Свидетелей Иеговы» задержали в Ленинградской области</a>
+												</li>
+										    
+												<li>
+													<a href="/news/2023/2/20/1200027.html">Вертолет совершил жесткую посадку у кузбасской горы, погиб человек</a>
+												</li>
+										    
+												<li>
+													<a href="/news/2023/2/20/1200005.html">На Крымском мосту остановлено движение автотранспорта из-за крупного ДТП с жертвами</a>
+												</li>
+										    
+										</ul>
+	
+										<div class="_goto-section">
+											<a href="/incidents/">Перейти в раздел…</a>
+										</div>
+							            							            
+									</div>
+							    
+							        
+							        <div class="_top-news__list-item " data-section="6">
+						                
+
+
+ 
+						                
+
+
+	   
+			<div class="othnews opinions">
+				
+				<table cellspacing="0" cellpadding="0">
+					<tr>
+						<td>
+   							
+								
+								
+							
+						</td>
+					</tr>
+				</table>
+				
+
+				
+					<h4>
+						<a href = "/opinions/2023/2/20/1199833.html">Как Украина начала войну</a>
+					</h4>
+					
+						
+						<a href="/opinions/expert/4397/""><img class="expert_photo" src="https://img.vz.ru/upimg/experts/4397_9.jpg" width="63" height="50" title="Евдокия Шереметьева" alt="Евдокия Шереметьева" border="0"/></a>
+						
+					    <h5><a href = "/opinions/expert/4397/">Евдокия Шереметьева, <span>писатель, организатор гуманитарной помощи в Донбасс</span></a></h5>
+					    <div class="clear"></div>
+					
+				
+				
+						<div class = "text">
+																
+									До начала СВО еще несколько дней. Но это, видимо, так «мирная Украина» пыталась договориться о перемирии, начав массированные обстрелы ЛДНР в конце февраля 2022-го?
+									<a href = "/opinions/2023/2/20/1199833.html" class = "more">Подробности...</a>
+							
+						</div>
+				
+				
+				
+					<div>
+					<strong class = "material-type">Обсуждение:</strong>
+					<a target = "_blank" href = "/opinions/2023/2/20/1199833.html#comments" class = "more">
+						<span class = "material-title">2092 комментария</span>
+					</a>
+					</div>
+				
+			</div>
+		
+
+	   
+			<div class="othnews opinions">
+				
+				<table cellspacing="0" cellpadding="0">
+					<tr>
+						<td>
+   							
+								
+								
+							
+						</td>
+					</tr>
+				</table>
+				
+
+				
+					<h4>
+						<a href = "/opinions/2023/2/20/1199501.html">Переживет ли мир лихие 2020-е</a>
+					</h4>
+					
+						
+						<a href="/opinions/expert/4108/""><img class="expert_photo" src="https://img.vz.ru/upimg/experts/4108_9.jpg" width="63" height="50" title="Геворг Мирзаян" alt="Геворг Мирзаян" border="0"/></a>
+						
+					    <h5><a href = "/opinions/expert/4108/">Геворг Мирзаян, <span>доцент департамента политологии Финансового университета при Правительстве РФ</span></a></h5>
+					    <div class="clear"></div>
+					
+				
+				
+						<div class = "text">
+																
+									Впереди самое опасное для человечества десятилетие. А все потому, что между великими державами более нет правил, воли и доверия. Большим игрокам просто необходимо сесть и договориться о новых правилах – чтобы пройти это десятилетие без большой войны.
+									<a href = "/opinions/2023/2/20/1199501.html" class = "more">Подробности...</a>
+							
+						</div>
+				
+				
+				
+			</div>
+		
+
+	   
+			<div class="othnews opinions">
+				
+				<table cellspacing="0" cellpadding="0">
+					<tr>
+						<td>
+   							
+								
+								
+							
+						</td>
+					</tr>
+				</table>
+				
+
+				
+					<h4>
+						<a href = "/opinions/2023/2/19/1199329.html">Прекрасны русские закаты на севере Западенщины</a>
+					</h4>
+					
+						
+						<a href="/opinions/expert/4375/""><img class="expert_photo" src="https://img.vz.ru/upimg/experts/4375_9.jpg" width="63" height="50" title="Андрей Полонский" alt="Андрей Полонский" border="0"/></a>
+						
+					    <h5><a href = "/opinions/expert/4375/">Андрей Полонский, <span>писатель, историк</span></a></h5>
+					    <div class="clear"></div>
+					
+				
+				
+						<div class = "text">
+																
+									В судьбе Владимира Волынского удивительным образом оказалась запечатлена и проявлена трагическая участь этих мест, когда-то бывших естественной частью Руси, потом ушедших в польско-литовский мир, в конце XVIII века вернувшихся на Родину и совершенно изменившихся после Второй мировой войны.
+									<a href = "/opinions/2023/2/19/1199329.html" class = "more">Подробности...</a>
+							
+						</div>
+				
+				
+				
+					<div>
+					<strong class = "material-type">Обсуждение:</strong>
+					<a target = "_blank" href = "/opinions/2023/2/19/1199329.html#comments" class = "more">
+						<span class = "material-title">2084 комментария</span>
+					</a>
+					</div>
+				
+			</div>
+		
+
+
+
+ 
+										<ul class="_more-news">
+										    
+												<li>
+													<a href="/news/2022/1/1/1137094.html">Украинцев возмутило новогоднее обращение Зеленского</a>
+												</li>
+										    
+												<li>
+													<a href="/news/2019/7/30/990045.html">По факту нападения на росгвардейцев на незаконной акции в Москве возбуждены новые дела</a>
+												</li>
+										    
+												<li>
+													<a href="/news/2018/10/5/944718.html">Глава ВЦИОМ назвал россиян «тоскующими индивидуалистами»</a>
+												</li>
+										    
+										</ul>
+	
+										<div class="_goto-section">
+											<a href="/opinions/">Перейти в раздел…</a>
+										</div>
+							            							            
+									</div>
+							    
+							        
+							        <div class="_top-news__list-item " data-section="7">
+						                
+
+
+ 
+						                
+
+
+	   
+			<div class="othnews video_stream">
+				
+				<table cellspacing="0" cellpadding="0">
+					<tr>
+						<td>
+   							
+								
+								
+							
+						</td>
+					</tr>
+				</table>
+				
+
+				
+					<h4>
+						<a href = "/video/2023/2/4/1197770.html">Истребители НАТО для ВСУ. Дадут?</a>
+					</h4>
+					
+				
+				
+				        <iframe width="475" height="267" src="https://www.youtube.com/embed/eEgGrsRjapY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+				
+				
+				
+					<div>
+					<strong class = "material-type">Обсуждение:</strong>
+					<a target = "_blank" href = "/video/2023/2/4/1197770.html#comments" class = "more">
+						<span class = "material-title">7 комментариев</span>
+					</a>
+					</div>
+				
+			</div>
+		
+
+	   
+			<div class="othnews video_stream">
+				
+				<table cellspacing="0" cellpadding="0">
+					<tr>
+						<td>
+   							
+								
+								
+							
+						</td>
+					</tr>
+				</table>
+				
+
+				
+					<h4>
+						<a href = "/video/2023/2/3/1197767.html">Президентша Грузии совсем обнаглела</a>
+					</h4>
+					
+				
+				
+				        <iframe width="475" height="267" src="https://www.youtube.com/embed/hgEk49eIHqY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+				
+				
+				
+					<div>
+					<strong class = "material-type">Обсуждение:</strong>
+					<a target = "_blank" href = "/video/2023/2/3/1197767.html#comments" class = "more">
+						<span class = "material-title">5 комментариев</span>
+					</a>
+					</div>
+				
+			</div>
+		
+
+	   
+			<div class="othnews video_stream">
+				
+				<table cellspacing="0" cellpadding="0">
+					<tr>
+						<td>
+   							
+								
+								
+							
+						</td>
+					</tr>
+				</table>
+				
+
+				
+					<h4>
+						<a href = "/video/2023/2/2/1197594.html">Украина добила британскую армию</a>
+					</h4>
+					
+				
+				
+				        <iframe width="475" height="267" src="https://www.youtube.com/embed/suugMA4vimU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+				
+				
+				
+			</div>
+		
+
+
+
+ 
+										<ul class="_more-news">
+										    
+										</ul>
+	
+										<div class="_goto-section">
+											<a href="/video/">Перейти в раздел…</a>
+										</div>
+							            							            
+									</div>
+							    
+							        
+							        <div class="_top-news__list-item " data-section="8">
+						                
+
+
+ 
+						                
+
+
+	   
+			<div class="othnews photo">
+				
+				<table cellspacing="0" cellpadding="0">
+					<tr>
+						<td>
+   							
+								
+										<br/>
+
+										<a class="img sys_img" href="/photoreport/1198918/">
+											<img src="https://img.vz.ru/upimg/214/2146469b.jpg" class="grayscale"/>
+											<img src="https://img.vz.ru/upimg/214/2146469.jpg" class="color"/>
+										</a>
+								
+							
+						</td>
+					</tr>
+				</table>
+				
+
+				
+					<h4>
+						<a href = "/photoreport/1198918/">Францию охватили массовые беспорядки из-за пенсионной реформы</a>
+					</h4>
+					
+				
+				
+						<div class = "text">
+							
+									
+									<div class="photorep-details">Во французской столице и в других городах республики в субботу прошла четвертая общенациональная демонстрация против пенсионной реформы. В общей сложности участниками акций протеста стали по меньшей мере 963 тыс. французов </div>
+									<a href = "/photoreport/1198918/" class = "more">Подробности...</a>
+							
+						</div>
+				
+				
+				
+			</div>
+		
+
+	   
+			<div class="othnews photo">
+				
+				<table cellspacing="0" cellpadding="0">
+					<tr>
+						<td>
+   							
+								
+										<br/>
+
+										<a class="img sys_img" href="/photoreport/1198319/">
+											<img src="https://img.vz.ru/upimg/214/2144747b.jpg" class="grayscale"/>
+											<img src="https://img.vz.ru/upimg/214/2144747.jpg" class="color"/>
+										</a>
+								
+							
+						</td>
+					</tr>
+				</table>
+				
+
+				
+					<h4>
+						<a href = "/photoreport/1198319/">Иран показал уникальную подземную авиабазу</a>
+					</h4>
+					
+				
+				
+						<div class = "text">
+							
+									
+									<div class="photorep-details">Иран впервые продемонстрировал кадры со своей подземной базы «Орел 44», на которой хранятся истребители с крылатыми ракетами большой дальности и беспилотники. Местонахождение объекта не раскрывается, однако в Тегеране утверждают, что располагают несколькими такими объектами в разных уголках страны </div>
+									<a href = "/photoreport/1198319/" class = "more">Подробности...</a>
+							
+						</div>
+				
+				
+				
+			</div>
+		
+
+	   
+			<div class="othnews photo">
+				
+				<table cellspacing="0" cellpadding="0">
+					<tr>
+						<td>
+   							
+								
+										<br/>
+
+										<a class="img sys_img" href="/photoreport/1198098/">
+											<img src="https://img.vz.ru/upimg/214/2144210b.jpg" class="grayscale"/>
+											<img src="https://img.vz.ru/upimg/214/2144210.jpg" class="color"/>
+										</a>
+								
+							
+						</td>
+					</tr>
+				</table>
+				
+
+				
+					<h4>
+						<a href = "/photoreport/1198098/">Мощное землетрясение в Турции и Сирии унесло сотни жизней</a>
+					</h4>
+					
+				
+				
+						<div class = "text">
+							
+									
+									<div class="photorep-details">В Турции произошло мощное землетрясение, толчки от которого ощущались также в Сирии, Ливане, Иордании и Израиле. Зарегистрирована магнитуда 7,4. Землетрясение привело к большим разрушениям и унесло сотни человеческих жизней. Россия уже предложила помощь в ликвидации последствий бедствия</div>
+									<a href = "/photoreport/1198098/" class = "more">Подробности...</a>
+							
+						</div>
+				
+				
+				
+			</div>
+		
+
+
+
+ 
+										<ul class="_more-news">
+										    
+										</ul>
+	
+										<div class="_goto-section">
+											<a href="/photo/">Перейти в раздел…</a>
+										</div>
+							            							            
+									</div>
+							    
+							        
+							        <div class="_top-news__list-item " data-section="9">
+						                
+
+
+ 
+						                
+
+
+	   
+			<div class = "othnews">
+				
+				<div class = "othtime">
+					
+							<div class = "ournews">12:42</div>
+							<div class = "ournews-subtitle">собственная новость</div>
+					
+				</div>
+				
+				<div class = "othnews-container">
+					<table cellspacing = "0" cellpadding =" 0">
+						<tr>
+							<td>
+   								
+									<br/>
+									<a href = "/news/2022/12/29/1192814.html">
+										<img src = "https://img.vz.ru/upimg/m11/m1192814_150.jpg" border = "0"/>
+									</a>
+									<div class="alt"></div>
+								
+							</td>
+						</tr>
+					</table>
+					<h4>
+						<a href = "/news/2022/12/29/1192814.html">В Госдуме подвели итоги реализации нацпроектов в 2022 году </a>
+					</h4>
+					
+					<div class = "text">Нацпроекты показали свою гибкость и востребованность в условиях возникших перед Россией вызовов. За счет чего была оказана необходимая поддержка гражданам, отраслям экономики, а также новым регионам России. Об этом газете ВЗГЛЯД рассказал депутат Госдумы Олег Матвейчев, комментируя итоги реализации национальных проектов в 2022 году.</div>
+					<a href = "/news/2022/12/29/1192814.html" class = "more">Подробности...</a>
+				</div>
+			</div>
+		
+
+	   
+			<div class = "othnews">
+				
+				<div class = "othtime">
+					
+							<div>11:59</div>
+					
+				</div>
+				
+				<div class = "othnews-container">
+					<table cellspacing = "0" cellpadding =" 0">
+						<tr>
+							<td>
+   								
+							</td>
+						</tr>
+					</table>
+					<h4>
+						<a href = "/news/2022/11/2/1185006.html">Первый передвижной клуб культуры появился в Подмосковье</a>
+					</h4>
+					
+					<div class = "text">Первый многофункциональный передвижной культурный центр появился в Домодедово в Московской области Подмосковье, в нем есть все необходимое для концертов и кинопоказов: сцена, полный набор световой и звуковой мультимедийной аппаратуры.</div>
+					<a href = "/news/2022/11/2/1185006.html" class = "more">Подробности...</a>
+				</div>
+			</div>
+		
+
+	   
+			<div class = "othnews">
+				
+				<div class = "othtime">
+					
+							<div class = "ournews">21:02</div>
+							<div class = "ournews-subtitle">собственная новость</div>
+					
+				</div>
+				
+				<div class = "othnews-container">
+					<table cellspacing = "0" cellpadding =" 0">
+						<tr>
+							<td>
+   								
+									<br/>
+									<a href = "/news/2022/8/3/1170873.html">
+										<img src = "https://img.vz.ru/upimg/m11/m1170873_150.jpg" border = "0"/>
+									</a>
+									<div class="alt"></div>
+								
+							</td>
+						</tr>
+					</table>
+					<h4>
+						<a href = "/news/2022/8/3/1170873.html">Центр реставрации книг решили создать в Кирове</a>
+					</h4>
+					
+					<div class = "text">Перспективы создания на базе библиотеки имени А. И. Герцена регионального центра реставрации книг обсудила министр культуры России Ольга Любимова с главой Кировской области Александром Соколовым. </div>
+					<a href = "/news/2022/8/3/1170873.html" class = "more">Подробности...</a>
+				</div>
+			</div>
+		
+
+
+
+ 
+										<ul class="_more-news">
+										    
+										</ul>
+	
+										<div class="_goto-section">
+											<a href="/tags/8051/">Перейти в раздел…</a>
+										</div>
+							            							            
+									</div>
+							    
+							        <div class="_top-news__list-item" data-section="10">
+						                
+<hr/>
+<div class = "popular-votes">
+	
+		
+		<div class = "vote">
+			<table cellspacing = "0" cellpadding = "0">
+				
+					<tr><td align = "left" valign = "top">
+						<a href = "/vote/2107/">
+							<img src = "https://img.vz.ru/upimg/vot/vote_8416731385929080196.jpg" width = "240" border = "0"/>
+						</a>
+					</td></tr>
+				
+			    <tr>
+					<td class = "content">
+						<div class = "title">Вас волнует прекращение поставок &laquo;Виагры&raquo; в Россию?</div>
+						<div class = "z11 m5" style="font-size: 16px">
+							<ul>
+								
+									<li>Да, волнует</li>
+									<br/>
+								
+									<li>Нет, воспользуюсь аналогичными препаратами</li>
+									<br/>
+								
+									<li>Нет, не пользуюсь такими препаратами</li>
+									<br/>
+								
+									<li>Затрудняюсь ответить</li>
+									<br/>
+								
+							</ul>
+						</div>
+					</td>
+				</tr>
+			</table>
+
+			<div class = "clear"></div>
+			
+				<input type = "button" value = "Проголосовать" onclick = "document.location.href = '/vote/2107/'"></input>
+			
+				<input type = "button" value = "Результаты" onclick = "document.location.href = '/vote/result/2107/'"></input>
+			
+				<input type = "button" value = "Обсуждение (12)" onclick = "document.location.href = '/vote/2107/#comments'"></input>
+			
+			
+				<hr/>
+			
+		</div>
+		
+	
+		
+		<div class = "vote">
+			<table cellspacing = "0" cellpadding = "0">
+				
+					<tr><td align = "left" valign = "top">
+						<a href = "/vote/2106/">
+							<img src = "https://img.vz.ru/upimg/vot/vote_8789759618363454766.jpg" width = "240" border = "0"/>
+						</a>
+					</td></tr>
+				
+			    <tr>
+					<td class = "content">
+						<div class = "title">Верите ли вы в существование НЛО?</div>
+						<div class = "z11 m5" style="font-size: 16px">
+							<ul>
+								
+									<li>Да</li>
+									<br/>
+								
+									<li>Нет</li>
+									<br/>
+								
+									<li>Затрудняюсь ответить</li>
+									<br/>
+								
+							</ul>
+						</div>
+					</td>
+				</tr>
+			</table>
+
+			<div class = "clear"></div>
+			
+				<input type = "button" value = "Проголосовать" onclick = "document.location.href = '/vote/2106/'"></input>
+			
+				<input type = "button" value = "Результаты" onclick = "document.location.href = '/vote/result/2106/'"></input>
+			
+				<input type = "button" value = "Обсуждение (14)" onclick = "document.location.href = '/vote/2106/#comments'"></input>
+			
+			
+				<hr/>
+			
+		</div>
+		
+	
+		
+		<div class = "vote">
+			<table cellspacing = "0" cellpadding = "0">
+				
+					<tr><td align = "left" valign = "top">
+						<a href = "/vote/2105/">
+							<img src = "https://img.vz.ru/upimg/vot/vote_4492971475766785889.jpg" width = "240" border = "0"/>
+						</a>
+					</td></tr>
+				
+			    <tr>
+					<td class = "content">
+						<div class = "title">Является ли Молдавия частью Русского мира?</div>
+						<div class = "z11 m5" style="font-size: 16px">
+							<ul>
+								
+									<li>Да</li>
+									<br/>
+								
+									<li>Нет</li>
+									<br/>
+								
+									<li>Только Приднестровье</li>
+									<br/>
+								
+									<li>Затрудняюсь ответить</li>
+									<br/>
+								
+							</ul>
+						</div>
+					</td>
+				</tr>
+			</table>
+
+			<div class = "clear"></div>
+			
+				<input type = "button" value = "Проголосовать" onclick = "document.location.href = '/vote/2105/'"></input>
+			
+				<input type = "button" value = "Результаты" onclick = "document.location.href = '/vote/result/2105/'"></input>
+			
+				<input type = "button" value = "Обсуждение (14)" onclick = "document.location.href = '/vote/2105/#comments'"></input>
+			
+			
+			
+		</div>
+		
+	
+	<div class = "clear"></div>
+</div>
+
+ 
+						                <ul class="_more-news"></ul>
+										<div class="_goto-section">
+											<a href="/vote/">Перейти в раздел…</a>
+										</div>
+									</div>
+							    
+							</div>
+						</div>
+
+						<div class="_navi">
+							<div class="_inner">
+								<ul>
+								    
+										<li><a href="/economy/" data-section="1" class="active">Экономика</a></li>
+									
+										<li><a href="/politics/" data-section="2" class="">Политика</a></li>
+									
+										<li><a href="/society/" data-section="3" class="">Общество</a></li>
+									
+										<li><a href="/world/" data-section="4" class="">В мире</a></li>
+									
+										<li><a href="/incidents/" data-section="5" class="">Происшествия</a></li>
+									
+										<li><a href="/opinions/" data-section="6" class="">Мнения</a></li>
+									
+										<li><a href="/video/" data-section="7" class="">Видео</a></li>
+									
+										<li><a href="/photo/" data-section="8" class="">Фото</a></li>
+									
+										<li><a href="/tags/8051/" data-section="9" class="">Нацпроект «Культура»</a></li>
+									
+									<li><a href="/vote/" data-section="10">Голосования</a></li>
+								</ul>
+
+								<ul>
+									<li><a href="/about/staff.html">О газете</a></li>
+									<li><a href="/about/vacancy.html">Вакансии</a></li>
+									<li><a href="/about/advertise.html#journal">Реклама на сайте</a></li>
+								</ul>
+								
+								<div style="padding: 0px 10px">Функционирует при финансовой поддержке Министерства цифрового развития, связи и массовых коммуникаций Российской Федерации</div>
+
+								<div class="_corner"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<span class="fly-panel__topnews">
+					
+					    <strong>НОВОСТЬ ЧАСА:</strong> <a href = "/redir/?source=vz_hour_news&amp;id=1200042&amp;vzurl=/news/2023/2/20/1200042.html">Байден и Зеленский встретились в Киеве</a>					
+					
+				</span>
+								
+			</div>
+		</div>
+	</div>
+
+				</div>
+				<!--LiveInternet counter--><script type="text/javascript">
+document.write("<img style='position:absolute;left: -999999px;' src='https://counter.yadro.ru/hit?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' width=1 height=1 alt=''>")//</script><!--/LiveInternet-->
+
+<script type="text/javascript">
+    var ttsmi2_data = { siteid: 41198, count: 'site' };
+    (function() {
+      var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+      sc.src = '//target.smi2.net/client/target.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+    }());
+  </script>
+
+
+				
+				
+				
+					<div class="clear"></div>
+<style>
+#topor {
+margin-bottom: 14px;
+}
+#topor {
+        background-color: #e2e2e2;
+        text-align: center;
+        height: 100px;
+         max-width: 990px;
+        overflow: hidden;
+}
+#topor .border2 {
+        border: 1px #696969 solid;
+        padding: 4px 0px;
+}
+.main-container.narrow #topor {
+        width: 100%;
+        background: none;
+}
+.main-container.narrow #topor .border2 {
+        //margin-bottom: 120px;
+        border: 0px none;
+}
+</style>
+
+
+<div id="topor"><div class="border2">
+<!-- Yandex.RTB R-A-276631-32 -->
+<div id="yandex_rtb_R-A-276631-32"></div>
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.render({
+    renderTo: 'yandex_rtb_R-A-276631-32',
+    blockId: 'R-A-276631-32'
+  })
+})</script>
+
+</div></div>
+
+					
+					
+						<div class="menu"><div class="menui">
+							<noscript>
+	<style type="text/css">
+		.main-menu li.thumb
+		{
+			padding-top: 0;
+		}
+		.taggroup-menu li.thumb
+		{
+			margin-bottom: 10px;
+			margin-top: -13px;
+		}
+		*+html .taggroup-menu li.thumb
+		{
+			margin-bottom: 0px;
+			margin-top: 0px;
+		}
+		*+html .main-menu li.thumb
+		{
+			margin-top: 8px;
+		}
+		* html .taggroup-menu li.thumb
+		{
+			margin-bottom: 0px;
+			margin-top: 0px;
+		}
+		.main-menu .jcarousel-buttons, .taggroup-menu .jcarousel-buttons
+		{
+			display: none;
+		}
+	</style>
+</noscript>
+<table class = "top-news" cellspacing = "0" cellpadding = "0">
+	<tr>
+	
+			<td class = "top">
+				<ptl:if test = "hasNews">
+					<a href="/redir/?source=vz_menu_links&amp;nomain=1&amp;id=1200002&amp;vzurl=/news/2023/2/20/1200002.html">Российские военные взяли Артемовск в полукольцо</a>
+				</ptl:if>
+			</td>
+		
+	
+			<td class = "top">
+				<ptl:if test = "hasNews">
+					<a href="/redir/?source=vz_menu_links&amp;nomain=1&amp;id=1200049&amp;vzurl=/news/2023/2/20/1200049.html">Захарова отреагировала на фото Зеленского и Байдена возле собора в Киеве</a>
+				</ptl:if>
+			</td>
+		
+	
+			<td class = "top">
+				<ptl:if test = "hasNews">
+					<a href="/redir/?source=vz_menu_links&amp;nomain=1&amp;id=1199972&amp;vzurl=/news/2023/2/19/1199972.html">Politico: Байден потребовал от Зеленского успехов ВСУ на поле боя</a>
+				</ptl:if>
+			</td>
+		
+	
+			<td class = "top">
+				<ptl:if test = "hasNews">
+					<a href="/redir/?source=vz_menu_links&amp;nomain=1&amp;id=1200020&amp;vzurl=/news/2023/2/20/1200020.html">Швейцарские болельщики напали на россиянина за русскую речь</a>
+				</ptl:if>
+			</td>
+		
+			</tr></tr>
+		
+	
+			<td class = "top">
+				<ptl:if test = "hasNews">
+					<a href="/redir/?source=vz_menu_links&amp;nomain=1&amp;id=1200021&amp;vzurl=/news/2023/2/20/1200021.html">ВС РФ уничтожили на Украине большую часть западной военной техники</a>
+				</ptl:if>
+			</td>
+		
+	
+			<td class = "top">
+				<ptl:if test = "hasNews">
+					<a href="/redir/?source=vz_menu_links&amp;nomain=1&amp;id=1199999&amp;vzurl=/news/2023/2/20/1199999.html">Министр обороны Германии предрек решающий для Украины момент</a>
+				</ptl:if>
+			</td>
+		
+	
+			<td class = "top">
+				<ptl:if test = "hasNews">
+					<a href="/redir/?source=vz_menu_links&amp;nomain=1&amp;id=1199989&amp;vzurl=/news/2023/2/20/1199989.html">Президент Польши призвал НАТО пообещать Украине гарантии безопасности</a>
+				</ptl:if>
+			</td>
+		
+	
+			<td class = "top">
+				<ptl:if test = "hasNews">
+					<a href="/redir/?source=vz_menu_links&amp;nomain=1&amp;id=1200015&amp;vzurl=/news/2023/2/20/1200015.html">В Германии подсчитали убытки от спецоперации на Украине</a>
+				</ptl:if>
+			</td>
+		
+			</tr></tr>
+		
+	
+			<td class = "top">
+				<ptl:if test = "hasNews">
+					<a href="/redir/?source=vz_menu_links&amp;nomain=1&amp;id=1200007&amp;vzurl=/news/2023/2/20/1200007.html">На Крымском мосту восстановлено движение автотранспорта после крупного ДТП с жертвами</a>
+				</ptl:if>
+			</td>
+		
+	
+			<td class = "top">
+				<ptl:if test = "hasNews">
+					<a href="/redir/?source=vz_menu_links&amp;nomain=1&amp;id=1200003&amp;vzurl=/news/2023/2/20/1200003.html">В Варшаве сорвали выступление украинской писательницы из-за «пропаганды лжи»</a>
+				</ptl:if>
+			</td>
+		
+	
+			<td class = "top">
+				<ptl:if test = "hasNews">
+					<a href="/redir/?source=vz_menu_links&amp;nomain=1&amp;id=1200043&amp;vzurl=/news/2023/2/20/1200043.html">В Тбилиси заявили о подготовке радикальной оппозицией антибелорусской провокации</a>
+				</ptl:if>
+			</td>
+		
+	
+			<td class = "top">
+				<ptl:if test = "hasNews">
+					<a href="/redir/?source=vz_menu_links&amp;nomain=1&amp;id=1200014&amp;vzurl=/news/2023/2/20/1200014.html">Еврокомиссия отказалась комментировать расследование Херша о взрывах на «Северных потоках»</a>
+				</ptl:if>
+			</td>
+		
+	
+	</tr>
+</table>
+
+<div class = "clear"></div>
+
+						</div></div>
+					
+				
+				
+				
+
+<table width = "100%" cellspacing = "0" cellpadding = "0" style = "background: #fff;" class="mainpage">
+	<tr>
+		<td width = "240px" valign = "top" style = "padding: 15px 0px 10px 15px; min-width: 160px;" id="left_td">
+			<div class="fixed_wrap">
+			
+
+
+
+
+
+<h3>деоккупация донбасса</h3>
+<dl class="lenta2">
+<dt><a href="/redir/?source=vz_teasers_main2&id=1200010&exturl=https://vz.ru/news/2023/2/20/1200010.html&nomain=1"><img width="150" height="116" src="https://img.vz.ru/upimg/mto/mto76n1200010539360010.jpg" /></a><br/>
+<a href="/redir/?source=vz_teasers_main2&id=1200010&exturl=https://vz.ru/news/2023/2/20/1200010.html&nomain=1">Мирошник объяснил отказ Зеленского защищать Артемовск «любой ценой»</a>
+</dt>
+</dl>
+
+
+
+
+
+
+
+
+
+<h3>противостояние Запада и России</h3>
+<dl class="lenta2">
+<dt><a href="/redir/?source=vz_teasers_main2&id=1200011&exturl=https://vz.ru/news/2023/2/20/1200011.html&nomain=1"><img width="150" height="116" src="https://img.vz.ru/upimg/mto/mto80n12000111631043358.jpg" /></a><br/>
+<a href="/redir/?source=vz_teasers_main2&id=1200011&exturl=https://vz.ru/news/2023/2/20/1200011.html&nomain=1">В России оценили итоги Мюнхенской конференции по безопасности</a>
+</dt>
+</dl>
+
+
+
+
+
+
+
+
+
+<h3>ответ на действия США</h3>
+<dl class="lenta2">
+<dt><a href="/redir/?source=vz_teasers_main2&id=1199991&exturl=https://vz.ru/news/2023/2/20/1199991.html&nomain=1"><img width="150" height="116" src="https://img.vz.ru/upimg/mto/mto16n11999911452389312.jpg" /></a><br/>
+<a href="/redir/?source=vz_teasers_main2&id=1199991&exturl=https://vz.ru/news/2023/2/20/1199991.html&nomain=1">Сестра Ким Чен Ына пригрозила активизировать пуски ракет в Тихий океан</a>
+</dt>
+</dl>
+
+
+
+
+
+
+
+
+
+
+
+			<h3><a href = "/news/">Новости дня</a></h3>
+			<dl class = "lenta">
+				
+	<dt >
+		
+		<span >&#160; 13:35&#160;</span>&#160;
+		<a href="/news/2023/2/20/1200046.html">Пойманы продававшие тряпки под видом брендовой одежды петербургские мошенники</a>
+		<dd>Петербургские мошенники на своих сайтах под видом брендовой одежды и электроники продавали кустарный текстиль и дешевую технику, закупленную оптом в разных регионах России, сообщили в ГУ МВД по городу и области.</dd>
+	</dt>
+
+	<dt >
+		
+		<span >&#160; 13:32&#160;</span>&#160;
+		<a href="/news/2023/2/20/1200053.html">Анкара предложила НАТО рассмотреть заявку Финляндии на вступление отдельно</a>
+		<dd>Президент Турции Тайип Эрдоган сообщил генеральному секретарю НАТО Йенсу Столтенбергу о готовности Анкары рассмотреть отдельно заявку Финляндии на вступление в альянс, заявил министр иностранных дел Турции Мевлют Чавушоглу.</dd>
+	</dt>
+
+	<dt >
+		
+		<span >&#160; 13:30&#160;</span>&#160;
+		<a href="/news/2023/2/20/1200050.html">Ростех впервые представил за рубежом вертолет Ми-171А3</a>
+		<dd>Ростех впервые представил за рубежом, на крупнейшей международной выставке IDEX-2023 в Абу-Даби, отечественный вертолет Ми-171А3, предназначенный для длительных полетов над морем, говорится в релизе госкорпорации.</dd>
+	</dt>
+
+	<dt >
+		<img class = "our-news"  src = "/static/images/favicon.ico"/>
+		<span class = "our-news-time">&#160; 13:28&#160;</span>&#160;
+		<a href="/news/2023/2/20/1200052.html">Организатора ячейки «Свидетелей Иеговы» задержали в Ленинградской области</a>
+		<dd>Организатор и пятеро участников местной запрещенной в РФ религиозной организации «Управленческий центр Свидетелей Иеговы в России*» в Ленинградской области, их обвиняют в экстремизме, сообщили в СУ СК по региону.</dd>
+	</dt>
+
+	<dt >
+		<img class = "our-news"  src = "/static/images/favicon.ico"/>
+		<span class = "our-news-time">&#160; 13:23&#160;</span>&#160;
+		<a href="/news/2023/2/20/1200051.html">Марина Ким презентовала документальный фильм «Пятнашка: Дикая дивизия Донбасса»</a>
+		<dd>Журналистка Марина Ким выпустила документальный фильм, посвященный батальону Донбасса «Пятнашка», в котором служат добровольцы из 15 республик бывшего СССР.</dd>
+	</dt>
+
+	<dt >
+		<img class = "our-news"  src = "/static/images/favicon.ico"/>
+		<span class = "our-news-time">&#160; 13:16&#160;</span>&#160;
+		<a href="/news/2023/2/20/1200049.html">Захарова отреагировала на фото Зеленского и Байдена возле собора в Киеве</a>
+		<dd>Официальный представитель МИД Мария Захарова отреагировала на фото президента США Джо Байдена у стен Михайловского собора в Киеве.</dd>
+	</dt>
+
+	<dt >
+		
+		<span >&#160; 13:16&#160;</span>&#160;
+		<a href="/news/2023/2/20/1200048.html">Байден анонсировал в Киеве новый пакет военной помощи на 500 млн долларов</a>
+		<dd>США выделят Украине новый пакет военной помощи на 500 млн долларов, он будет объявлен во вторник, сообщил президент США Джо Байден во время своего визита в Киев.</dd>
+	</dt>
+
+	<dt >
+		
+		<span >&#160; 13:14&#160;</span>&#160;
+		<a href="/news/2023/2/20/1200044.html">Роскомнадзор объяснил блокировку The Bell</a>
+		<dd>Доступ к The Bell в России ограничили из-за недостоверных данных о спецоперации на Украине, сообщили в Роскомнадзоре в понедельник.</dd>
+	</dt>
+
+	<dt >
+		
+		<span >&#160; 13:12&#160;</span>&#160;
+		<a href="/news/2023/2/20/1200047.html">Зеленский подтвердил прибытие Байдена в Киев</a>
+		<dd>Президент Украины Владимир Зеленский подтвердил, что глава США Джо Байден находится с визитом в Киеве.</dd>
+	</dt>
+
+	<dt >
+		
+		<span >&#160; 13:06&#160;</span>&#160;
+		<a href="/news/2023/2/20/1200041.html">На Западе заявили о критическом значении артиллерии НАТО для Украины</a>
+		<dd>Украина могла бы уже потерпеть поражение в конфликте, если бы не поставки артиллерии калибра 155 мм стран НАТО, сообщила испанская газета Pais.</dd>
+	</dt>
+
+	<dt >
+		<img class = "our-news"  src = "/static/images/favicon.ico"/>
+		<span class = "our-news-time">&#160; 13:02&#160;</span>&#160;
+		<a href="/news/2023/2/20/1200043.html">В Тбилиси заявили о подготовке радикальной оппозицией антибелорусской провокации</a>
+		<dd>Председатель правящей «Грузинской мечты» Ираклий Кобахидзе заявил о подготовке радикальной оппозицией провокации по срыву авиасообщения между Грузией и Белоруссией, передает корреспондент газеты ВЗГЛЯД в Тбилиси.</dd>
+	</dt>
+
+	<dt class = "hournews">
+		
+		<span >&#160; 13:00&#160;</span>&#160;
+		<a href="/news/2023/2/20/1200042.html">Байден и Зеленский встретились в Киеве</a>
+		<dd>Президент США Джо Байден и президент Украины Владимир Зеленский провели встречу в Михайловском соборе в Киеве, сообщает украинское издание «Страна».</dd>
+	</dt>
+
+	<dt >
+		
+		<span >&#160; 12:59&#160;</span>&#160;
+		<a href="/news/2023/2/20/1200040.html">Отвергнутого девушкой мужчину заподозрили в отправке взорвавшегося подарка в Троицке</a>
+		<dd>В Троицке (в составе Троицкого административного округа Москвы) девушке прислали подарок со взрывным устройством, при открытии она получила ожоги лица и рук; презент мог отправить преследовавший девушку молодой человек, сказал источник правоохранительных органах.</dd>
+	</dt>
+
+	<dt >
+		
+		<span >&#160; 12:55&#160;</span>&#160;
+		<a href="/news/2023/2/20/1200039.html">СМИ сообщили о прибытии Байдена в Киев</a>
+		<dd>Президент США Джо Байден прибыл в Киев, об этом сообщило издание «Украинская правда».</dd>
+	</dt>
+
+	<dt >
+		
+		<span >&#160; 12:55&#160;</span>&#160;
+		<a href="/news/2023/2/20/1200036.html">В Кремле подтвердили приглашение участников спецоперации на послание Путина</a>
+		<dd>Участники специальной военной операции приглашены на послание президента Владимира Путина Федеральному собранию, заявил пресс-секретарь главы государства Дмитрий Песков.</dd>
+	</dt>
+
+			</dl>
+			<div class = "rmore">
+				<a href = "/news/">Все новости...</a>
+			</div>
+			<br/>
+			</div>
+		</td>
+		<td valign = "top" style = "padding:15px 0px 10px 15px;">
+			<div class="fixed_wrap2">
+				
+
+
+	
+		<div class="mainnews">
+			 
+			<h1><a href="/redir/?source=vz_top_news&id=1199747&vzurl=/world/2023/2/20/1199747.html">Запад меняет свое представление об украинском конфликте</a></h1>
+			
+			
+				
+				<table width="100%" cellspacing="0" cellpadding="0" style="margin: 10px 0 10px 0;">
+				<tr>
+				<td width="1%" valign="top"><a href="/redir/?source=vz_top_news&id=1199747&vzurl=/world/2023/2/20/1199747.html"><img src="https://img.vz.ru/upimg/m11/m1199747.jpg" width="300" height="233" border="0" title="Запад задумывается о том, как завершать украинский конфликт" alt="Запад задумывается о том, как завершать украинский конфликт"/></a></td>
+				<td width="99%" valign="bottom" class="description"><span>REUTERS/Oleksandr Ratushniak</span></td>
+				</tr>
+				</table>
+				
+				<a href="/redir/?source=vz_top_news&id=1199747&vzurl=/world/2023/2/20/1199747.html" class="text">Является ли происходящее на Украине вызовом для существования всего западного мира или же это локальный конфликт, жизненно важный прежде всего для России? От ответа на этот вопрос зависит вся система поддержки киевского режима со стороны его западных спонсоров, а значит, во многом и сам исход этого противостояния. Это понимание меняется на Западе прямо сейчас.</a>&#160;<a href="/redir/?source=vz_top_news&id=1199747&vzurl=/world/2023/2/20/1199747.html" class="more">Подробности...</a>
+					
+		</div>
+	
+
+
+				
+
+
+
+
+
+	
+	
+
+	<div class = "othnews">
+		<table cellspacing = "0" cellpadding = "0" >
+			<tr>
+				<td valign = "top">
+				    
+						<h5><a href = "/world/">В мире</a></h5>
+					
+					
+						<a href = "/world/2023/2/20/1199948.html">
+							<img src = "https://img.vz.ru/upimg/m11/m1199948_150.jpg" width = "150" border = "0"/>
+						</a>
+						<div class="alt">Алексей Арестович – лжец и манипулятор</div>
+					
+				</td>
+			</tr>
+		</table>
+		
+		<h4>
+			<a href = "/world/2023/2/20/1199948.html" name = "mn1199948">Зеленский готовит новый обман русских жителей Украины</a>
+		</h4>
+		
+					    
+				<div class = "text">«Украинцы – это настоящие русские», – такой новостью огорошил Алексей Арестович слушателей по обе стороны российско-украинской границы. Впрочем, особенно очаровываться не стоит. Когда Арестович говорит: «Мы тут русские» – это вовсе не значит, что он внезапно осознал единство людей, проживающих в Киеве и Москве. Зачем это сказано именно сейчас и в чем уловка киевского режима?
+
+&#160;&#160;
+					<a href = "/world/2023/2/20/1199948.html" class = "more">Подробности...</a>
+				</div>
+		
+		
+			<div>
+				<strong class = "material-type">Мнение:</strong>
+				<a href = "https://vz.ru/opinions/2023/2/19/1199329.html" class = "more"><span class = "material-title">Прекрасны русские закаты на севере Западенщины</span></a>
+			</div>
+		
+			<div>
+				<strong class = "material-type">Мнение:</strong>
+				<a href = "https://vz.ru/opinions/2023/2/12/1197887.html" class = "more"><span class = "material-title">СВО – это ответ, а не начало</span></a>
+			</div>
+		
+		
+			<div>
+			<strong class = "material-type">Обсуждение:</strong>
+			<a target = "_blank" href = "/world/2023/2/20/1199948.html#comments" class = "more">
+				<span class = "material-title">43 комментария</span>
+			</a>
+			</div>
+		
+	</div>
+
+	
+	    <div>
+		    
+	    </div>
+	
+	
+
+
+
+	
+	
+
+	<div class = "othnews">
+		<table cellspacing = "0" cellpadding = "0" >
+			<tr>
+				<td valign = "top">
+				    
+						<h5><a href = "/world/">В мире</a></h5>
+					
+					
+						<a href = "/world/2023/2/19/1199955.html">
+							<img src = "https://img.vz.ru/upimg/m11/m1199955_150.jpg" width = "150" border = "0"/>
+						</a>
+						<div class="alt">Анналене Бербок прощают ляпы из-за искренности</div>
+					
+				</td>
+			</tr>
+		</table>
+		
+		<h4>
+			<a href = "/world/2023/2/19/1199955.html" name = "mn1199955">«Знаток геометрии» Бербок может стать главным лицом Германии</a>
+		</h4>
+		
+					    
+				<div class = "text">Глава германского МИД Анналена Бербок вновь оконфузилась в публичных заявлениях. На этот раз она рекомендовала президенту России Владимиру Путину совершить «разворот курса на 360 градусов» ради достижения мира. Почему регулярная демонстрация невежества не вредит популярности Бербок в Германии, где ей сулят пост федерального канцлера?&#160;&#160;
+					<a href = "/world/2023/2/19/1199955.html" class = "more">Подробности...</a>
+				</div>
+		
+		
+			<div>
+				<strong class = "material-type">Аналитика:</strong>
+				<a href = "https://vz.ru/world/2023/1/30/1197170.html" class = "more"><span class = "material-title">Шольц начал борьбу с главной русофобкой в Германии</span></a>
+			</div>
+		
+			<div>
+				<strong class = "material-type">Видео:</strong>
+				<a href = "https://vz.ru/video/2023/1/16/1195156.html#video" class = "more"><span class = "material-title">Странная отставка министра обороны ФРГ</span></a>
+			</div>
+		
+			<div>
+				<strong class = "material-type">Мнение:</strong>
+				<a href = "https://vz.ru/opinions/2023/2/17/1198924.html" class = "more"><span class = "material-title">Западный расизм определил агрессию против России</span></a>
+			</div>
+		
+		
+			<div>
+			<strong class = "material-type">Обсуждение:</strong>
+			<a target = "_blank" href = "/world/2023/2/19/1199955.html#comments" class = "more">
+				<span class = "material-title">61 комментарий</span>
+			</a>
+			</div>
+		
+	</div>
+
+	
+	
+
+
+
+	
+	
+
+	<div class = "othnews">
+		<table cellspacing = "0" cellpadding = "0" >
+			<tr>
+				<td valign = "top">
+				    
+						<h5><a href = "/society/">Общество</a></h5>
+					
+					
+						<a href = "/society/2023/2/19/1198966.html">
+							<img src = "https://img.vz.ru/upimg/m11/m1198966_150.jpg" width = "150" border = "0"/>
+						</a>
+						<div class="alt">ВМФ России получит зенитные ракеты повышенной дальности</div>
+					
+				</td>
+			</tr>
+		</table>
+		
+		<h4>
+			<a href = "/society/2023/2/19/1198966.html" name = "mn1198966">Как «длинная рука» поможет Военно-морскому флоту России</a>
+		</h4>
+		
+					    
+				<div class = "text">Поражать воздушные цели на расстоянии до четырехсот километров! Это крайне амбициозная цель поставлена сегодня перед ВМФ России – и работы в данном направлении уже начались. Однако для успеха в этом деле необходимо решить по крайней мере две задачи – впрочем, они не слишком сложны, а эффект будет крайне высоким.&#160;&#160;
+					<a href = "/society/2023/2/19/1198966.html" class = "more">Подробности...</a>
+				</div>
+		
+		
+			<div>
+				<strong class = "material-type">Ранее по теме:</strong>
+				<a href = "https://vz.ru/world/2023/1/25/1196451.html" class = "more"><span class = "material-title">Россия отправила НАТО мощный сигнал «Цирконом»</span></a>
+			</div>
+		
+			<div>
+				<strong class = "material-type">Ранее по теме:</strong>
+				<a href = "https://vz.ru/society/2023/1/5/1192251.html" class = "more"><span class = "material-title">Какие беспилотники больше всего нужны России</span></a>
+			</div>
+		
+		
+			<div>
+			<strong class = "material-type">Обсуждение:</strong>
+			<a target = "_blank" href = "/society/2023/2/19/1198966.html#comments" class = "more">
+				<span class = "material-title">30 комментариев</span>
+			</a>
+			</div>
+		
+	</div>
+
+	
+	
+
+
+
+	
+		
+	
+	
+	
+
+	<div class = "othnews">
+		<table cellspacing = "0" cellpadding = "0" >
+			<tr>
+				<td valign = "top">
+				    
+						<h5><a href = "/economy/">Экономика</a></h5>
+					
+					
+						<a href = "/economy/2023/2/19/1199730.html">
+							<img src = "https://img.vz.ru/upimg/m11/m1199730_150.jpg" width = "150" border = "0"/>
+						</a>
+						<div class="alt">Евросоюз отказался вводить санкции против Росатома</div>
+					
+				</td>
+			</tr>
+		</table>
+		
+		<h4>
+			<a href = "/economy/2023/2/19/1199730.html" name = "mn1199730">Почему Европа не запрещает российский атом</a>
+		</h4>
+		
+					    
+				<div class = "text">Польша сильно расстроилась, потому что российский Росатом смог избежать санкций в новом 10-м пакете. Отстояли право работать с Россией Венгрия и Франция. Но даже Германия, отказавшаяся от своих АЭС, здесь оказалась не на стороне жесткой позиции Варшавы. Почему отказаться от российской ядерной энергетики Европе даже сложнее, чем отказаться от угля, нефти и газа?&#160;&#160;
+					<a href = "/economy/2023/2/19/1199730.html" class = "more">Подробности...</a>
+				</div>
+		
+		
+			<div>
+				<strong class = "material-type">Ранее по теме:</strong>
+				<a href = "https://vz.ru/economy/2022/11/15/1186706.html" class = "more"><span class = "material-title">Российское ядерное топливо раскололо Европу</span></a>
+			</div>
+		
+		
+			<div>
+			<strong class = "material-type">Обсуждение:</strong>
+			<a target = "_blank" href = "/economy/2023/2/19/1199730.html#comments" class = "more">
+				<span class = "material-title">17 комментариев</span>
+			</a>
+			</div>
+		
+	</div>
+
+	
+	
+
+
+
+	
+	
+
+	<div class = "othnews">
+		<table cellspacing = "0" cellpadding = "0" >
+			<tr>
+				<td valign = "top">
+				    
+						<h5><a href = "/world/">В мире</a></h5>
+					
+					
+						<a href = "/world/2023/2/18/1199824.html">
+							<img src = "https://img.vz.ru/upimg/m11/m1199824_150.jpg" width = "150" border = "0"/>
+						</a>
+						<div class="alt">Вопрос с поставками современных истребителей на Украину стал элементом информационной войны</div>
+					
+				</td>
+			</tr>
+		</table>
+		
+		<h4>
+			<a href = "/world/2023/2/18/1199824.html" name = "mn1199824">Почему Запад решил оставить Украину без истребителей</a>
+		</h4>
+		
+					    
+				<div class = "text">На Западе решили не передавать Украине современные истребители. Как заявил министр обороны Британии Бен Уоллес, Киев сможет получить самолеты только после завершения российской спецоперации. На Украине уже были уверены, что истребители «на столе», осталось определиться: будет ли это американский F-16 или шведский Gripen. Можно ли доверять заявлениям Уоллеса или это очередная дезинформация Запада? И как все это отразится на ходе конфликта?&#160;&#160;
+					<a href = "/world/2023/2/18/1199824.html" class = "more">Подробности...</a>
+				</div>
+		
+		
+			<div>
+				<strong class = "material-type">Аналитика:</strong>
+				<a href = "https://vz.ru/world/2023/1/30/1196745.html" class = "more"><span class = "material-title">Куда Украина бросит «Леопарды» и «Абрамсы»</span></a>
+			</div>
+		
+			<div>
+				<strong class = "material-type">Мнение:</strong>
+				<a href = "https://vz.ru/opinions/2022/8/11/1170350.html" class = "more"><span class = "material-title">Американские ВВС беспомощны против России</span></a>
+			</div>
+		
+			<div>
+				<strong class = "material-type">Ранее по теме:</strong>
+				<a href = "https://vz.ru/world/2023/1/27/1196513.html" class = "more"><span class = "material-title">Утилизация западных вооружений на Украине озолотит ВПК США</span></a>
+			</div>
+		
+		
+			<div>
+			<strong class = "material-type">Обсуждение:</strong>
+			<a target = "_blank" href = "/world/2023/2/18/1199824.html#comments" class = "more">
+				<span class = "material-title">27 комментариев</span>
+			</a>
+			</div>
+		
+	</div>
+
+	
+	
+
+
+
+	
+	
+
+	<div class = "othnews">
+		<table cellspacing = "0" cellpadding = "0" >
+			<tr>
+				<td valign = "top">
+				    
+						<h5><a href = "/world/">В мире</a></h5>
+					
+					
+						<a href = "/world/2023/2/18/1199749.html">
+							<img src = "https://img.vz.ru/upimg/m11/m1199749_150.jpg" width = "150" border = "0"/>
+						</a>
+						<div class="alt">Польские националисты любят поспекулировать на теме немецкой оккупации 80-летней давности</div>
+					
+				</td>
+			</tr>
+		</table>
+		
+		<h4>
+			<a href = "/world/2023/2/18/1199749.html" name = "mn1199749">Как долго Германия будет терпеть польские пощечины</a>
+		</h4>
+		
+					    
+				<div class = "text">Не проходит и недели, чтобы Варшава не нагрубила Берлину. То один польский министр заявит, что ФРГ «сама виновата» в украинском конфликте, потому что «годами укрепляла силу» России. То другой попеняет за медлительность в поставке Киеву «Леопардов». Третий – напомнит, что Польша по-прежнему ждет репараций за преступления Гитлера. Возникает вопрос: когда у немцев лопнет терпение и они ответят на польское хамство?&#160;&#160;
+					<a href = "/world/2023/2/18/1199749.html" class = "more">Подробности...</a>
+				</div>
+		
+		
+			<div>
+				<strong class = "material-type">Видео:</strong>
+				<a href = "https://vz.ru/video/2022/7/13/1167481.html#video" class = "more"><span class = "material-title">Как Валенса разрушал Россию</span></a>
+			</div>
+		
+			<div>
+				<strong class = "material-type">Мнение:</strong>
+				<a href = "https://vz.ru/opinions/2023/2/14/1199219.html" class = "more"><span class = "material-title">Почему Германия не может дать сдачи Польше </span></a>
+			</div>
+		
+			<div>
+				<strong class = "material-type">Ранее по теме:</strong>
+				<a href = "https://vz.ru/world/2023/1/10/1194312.html" class = "more"><span class = "material-title">Польша требует от немцев репараций в интересах США</span></a>
+			</div>
+		
+		
+			<div>
+			<strong class = "material-type">Обсуждение:</strong>
+			<a target = "_blank" href = "/world/2023/2/18/1199749.html#comments" class = "more">
+				<span class = "material-title">51 комментарий</span>
+			</a>
+			</div>
+		
+	</div>
+
+	
+	
+
+
+
+	
+	
+
+	<div class = "othnews">
+		<table cellspacing = "0" cellpadding = "0" >
+			<tr>
+				<td valign = "top">
+				    
+						<h5><a href = "/world/">В мире</a></h5>
+					
+					
+						<a href = "/world/2023/2/17/1199746.html">
+							<img src = "https://img.vz.ru/upimg/m11/m1199746_150.jpg" width = "150" border = "0"/>
+						</a>
+						<div class="alt">Bloomberg: В Европе начинается новая милитаризация
+</div>
+					
+				</td>
+			</tr>
+		</table>
+		
+		<h4>
+			<a href = "/world/2023/2/17/1199746.html" name = "mn1199746">Конфликт на Украине вдохнул новую жизнь в ВПК стран НАТО</a>
+		</h4>
+		
+					    
+				<div class = "text">Европа наращивает военное производство, объясняя это украинским кризисом. Акции компаний ВПК растут, а расходы на оборону стремятся к 2–4% ВВП. На этом фоне американские компании оказались в еще более выгодном положении. К чему может привести интенсивная милитаризация стран НАТО и как Россия должна реагировать на происходящее? &#160;&#160;
+					<a href = "/world/2023/2/17/1199746.html" class = "more">Подробности...</a>
+				</div>
+		
+		
+			<div>
+				<strong class = "material-type">Аналитика:</strong>
+				<a href = "https://vz.ru/opinions/2022/12/19/1191068.html" class = "more"><span class = "material-title">Российский ВПК может стать новым локомотивом</span></a>
+			</div>
+		
+			<div>
+				<strong class = "material-type">Аналитика:</strong>
+				<a href = "https://vz.ru/society/2023/2/15/1199239.html" class = "more"><span class = "material-title">России предстоит изолировать Украину от НАТО</span></a>
+			</div>
+		
+			<div>
+				<strong class = "material-type">Фото:</strong>
+				<a href = "https://vz.ru/photoreport/1196636/#ad-image-0" class = "more"><span class = "material-title">Какие танки Запад может отправить Украине</span></a>
+			</div>
+		
+		
+			<div>
+			<strong class = "material-type">Обсуждение:</strong>
+			<a target = "_blank" href = "/world/2023/2/17/1199746.html#comments" class = "more">
+				<span class = "material-title">31 комментарий</span>
+			</a>
+			</div>
+		
+	</div>
+
+	
+	
+
+
+
+	
+	
+
+	<div class = "othnews">
+		<table cellspacing = "0" cellpadding = "0" >
+			<tr>
+				<td valign = "top">
+				    
+						<h5><a href = "/world/">В мире</a></h5>
+					
+					
+						<a href = "/world/2023/2/17/1199704.html">
+							<img src = "https://img.vz.ru/upimg/m11/m1199704_150.jpg" width = "150" border = "0"/>
+						</a>
+						<div class="alt">Материал FT о торговле людьми и оружием на Украине – это только верхушка айсберга</div>
+					
+				</td>
+			</tr>
+		</table>
+		
+		<h4>
+			<a href = "/world/2023/2/17/1199704.html" name = "mn1199704">Украина решила навязать цензуру западной прессе</a>
+		</h4>
+		
+					    
+				<div class = "text">Власти Украины разозлились на газету Financial Times из-за материала о торговле людьми и контрабанде оружия. МИД страны назвал публикацию «очередной дезинформацией» в «интересах России» и потребовал провести редакционное расследование. Почему власти Украины так остро реагируют на критику в свой адрес и чем для них может обернуться подобный конфликт? &#160;&#160;
+					<a href = "/world/2023/2/17/1199704.html" class = "more">Подробности...</a>
+				</div>
+		
+		
+			<div>
+				<strong class = "material-type">Аналитика:</strong>
+				<a href = "https://vz.ru/world/2023/2/16/1199574.html" class = "more"><span class = "material-title">НАТО обвинило украинских артиллеристов в расточительности</span></a>
+			</div>
+		
+			<div>
+				<strong class = "material-type">Аналитика:</strong>
+				<a href = "https://vz.ru/news/2023/2/17/1199681.html" class = "more"><span class = "material-title">Эксперт указал на хамство МИД Украины в адрес Financial Times</span></a>
+			</div>
+		
+			<div>
+				<strong class = "material-type">Очерк:</strong>
+				<a href = "https://vz.ru/world/2022/8/9/1171697.html" class = "more"><span class = "material-title">Запад лишает Украину маски невинной жертвы</span></a>
+			</div>
+		
+		
+			<div>
+			<strong class = "material-type">Обсуждение:</strong>
+			<a target = "_blank" href = "/world/2023/2/17/1199704.html#comments" class = "more">
+				<span class = "material-title">5 комментариев</span>
+			</a>
+			</div>
+		
+	</div>
+
+	
+	
+
+
+
+	
+	
+
+	<div class = "othnews">
+		<table cellspacing = "0" cellpadding = "0" >
+			<tr>
+				<td valign = "top">
+				    
+						<h5><a href = "/world/">В мире</a></h5>
+					
+					
+						<a href = "/world/2023/2/17/1199731.html">
+							<img src = "https://img.vz.ru/upimg/m11/m1199731_150.jpg" width = "150" border = "0"/>
+						</a>
+						<div class="alt">Назарбаев больше не елбасы</div>
+					
+				</td>
+			</tr>
+		</table>
+		
+		<h4>
+			<a href = "/world/2023/2/17/1199731.html" name = "mn1199731">«Культ личности Назарбаева» ликвидируют с особенной осторожностью</a>
+		</h4>
+		
+					    
+				<div class = "text">Легендарный титул «елбасы» (лидер нации) больше не будет употребляться по отношению к первому руководителю независимого Казахстана Нурсултану Назарбаеву. Идет процесс лишения неприкосновенности членов его семьи, лишения их активов и собственности. Однако то, что открыто называют «развенчанием культа личности Назарбаева», происходит в Казахстане в весьма особом, крайне осторожном режиме. Почему? &#160;&#160;
+					<a href = "/world/2023/2/17/1199731.html" class = "more">Подробности...</a>
+				</div>
+		
+		
+			<div>
+				<strong class = "material-type">Мнение:</strong>
+				<a href = "https://vz.ru/opinions/2023/1/20/1195760.html" class = "more"><span class = "material-title">Как не замерзнуть Центральной Азии </span></a>
+			</div>
+		
+			<div>
+				<strong class = "material-type">Ранее по теме:</strong>
+				<a href = "https://vz.ru/world/2023/1/11/1194526.html" class = "more"><span class = "material-title">Казахская диаспора Украины пытается рассорить Москву и Астану</span></a>
+			</div>
+		
+		
+			<div>
+			<strong class = "material-type">Обсуждение:</strong>
+			<a target = "_blank" href = "/world/2023/2/17/1199731.html#comments" class = "more">
+				<span class = "material-title">45 комментариев</span>
+			</a>
+			</div>
+		
+	</div>
+
+	
+	
+
+
+
+	
+	
+
+	<div class = "othnews">
+		<table cellspacing = "0" cellpadding = "0" >
+			<tr>
+				<td valign = "top">
+				    
+						<h5><a href = "/world/">В мире</a></h5>
+					
+					
+						<a href = "/world/2023/2/17/1199528.html">
+							<img src = "https://img.vz.ru/upimg/m11/m1199528_150.jpg" width = "150" border = "0"/>
+						</a>
+						<div class="alt">Немцы не уверены, что полиция способна их защитить</div>
+					
+				</td>
+			</tr>
+		</table>
+		
+		<h4>
+			<a href = "/world/2023/2/17/1199528.html" name = "mn1199528">Мигранты-насильники сталкивают немцев между собой</a>
+		</h4>
+		
+					    
+				<div class = "text">До какой степени нужно быть терпимыми к мигрантам, совершающим сексуальную агрессию по отношению к местным женщинам? Где преступление, а где – культурные особенности? Прямо сейчас этот вопрос для себя решает немецкое общество – сторонники толерантности и мультикультурализма столкнулись с недовольством пострадавших от действий мигрантов. 
+&#160;&#160;
+					<a href = "/world/2023/2/17/1199528.html" class = "more">Подробности...</a>
+				</div>
+		
+		
+			<div>
+				<strong class = "material-type">Мнение:</strong>
+				<a href = "https://vz.ru/opinions/2023/1/9/1192708.html" class = "more"><span class = "material-title">Россия может извлечь пользу из проблем с мигрантами в Европе</span></a>
+			</div>
+		
+			<div>
+				<strong class = "material-type">Мнение:</strong>
+				<a href = "https://vz.ru/opinions/2022/9/27/1179628.html" class = "more"><span class = "material-title">Нужно ли опасаться смены элит в Европе</span></a>
+			</div>
+		
+			<div>
+				<strong class = "material-type">Ранее по теме:</strong>
+				<a href = "https://vz.ru/news/2022/12/11/1190535.html" class = "more"><span class = "material-title">На Западе заявили об усталости от украинских беженцев</span></a>
+			</div>
+		
+		
+			<div>
+			<strong class = "material-type">Обсуждение:</strong>
+			<a target = "_blank" href = "/world/2023/2/17/1199528.html#comments" class = "more">
+				<span class = "material-title">57 комментариев</span>
+			</a>
+			</div>
+		
+	</div>
+
+	
+	
+
+
+
+	
+	
+
+	<div class = "othnews">
+		<table cellspacing = "0" cellpadding = "0" >
+			<tr>
+				<td valign = "top">
+				    
+						<h5><a href = "/economy/">Экономика</a></h5>
+					
+					
+						<a href = "/economy/2023/2/17/1199607.html">
+							<img src = "https://img.vz.ru/upimg/m11/m1199607_150.jpg" width = "150" border = "0"/>
+						</a>
+						<div class="alt">Новые санкции ЕС под угрозой из-за российского каучука</div>
+					
+				</td>
+			</tr>
+		</table>
+		
+		<h4>
+			<a href = "/economy/2023/2/17/1199607.html" name = "mn1199607">Российский каучук расколол Евросоюз</a>
+		</h4>
+		
+					    
+				<div class = "text">Принятие десятого пакета санкций неожиданно застопорилось из-за российского синтетического каучука, который Европа закупала для производства автомобильных шин. Италия и Германия выступили против инициативы Польши запретить поставки российского каучука. Хотя до сих пор Польша сама активно закупала это сырье. Почему этот товар вызвал такие жаркие споры внутри Евросоюза?&#160;&#160;
+					<a href = "/economy/2023/2/17/1199607.html" class = "more">Подробности...</a>
+				</div>
+		
+		
+			<div>
+				<strong class = "material-type">Аналитика:</strong>
+				<a href = "https://vz.ru/economy/2022/12/20/1191735.html" class = "more"><span class = "material-title">Европа поплатилась за вражду с Россией триллионным ущербом</span></a>
+			</div>
+		
+		
+			<div>
+			<strong class = "material-type">Обсуждение:</strong>
+			<a target = "_blank" href = "/economy/2023/2/17/1199607.html#comments" class = "more">
+				<span class = "material-title">35 комментариев</span>
+			</a>
+			</div>
+		
+	</div>
+
+	
+	
+
+
+
+	
+	
+
+	<div class = "othnews">
+		<table cellspacing = "0" cellpadding = "0" >
+			<tr>
+				<td valign = "top">
+				    
+						<h5><a href = "/politics/">Политика</a></h5>
+					
+					
+						<a href = "/politics/2023/2/17/1199590.html">
+							<img src = "https://img.vz.ru/upimg/m11/m1199590_150.jpg" width = "150" border = "0"/>
+						</a>
+						<div class="alt">Эксперты не исключают, что после «Северного потока» целью диверсантов станет «Турецкий поток»</div>
+					
+				</td>
+			</tr>
+		</table>
+		
+		<h4>
+			<a href = "/politics/2023/2/17/1199590.html" name = "mn1199590">«Турецкий поток» может стать новой целью террора США</a>
+		</h4>
+		
+					    
+				<div class = "text">Идущие из России в Турцию газопроводы могут повторить судьбу «Северного потока». Страхи по этому поводу возникли в экспертном сообществе Турции после того, как американский журналист-расследователь Сеймур Херш раскрыл дело о взрывах на дне Балтики, прогремевших полгода назад. Главным подозреваемым в диверсии стали США. Есть у них мотив и технические возможности для атаки на «Турецкий поток»?&#160;&#160;
+					<a href = "/politics/2023/2/17/1199590.html" class = "more">Подробности...</a>
+				</div>
+		
+		
+			<div>
+				<strong class = "material-type">Видео:</strong>
+				<a href = "https://vz.ru/video/2022/9/27/1179650.html#video" class = "more"><span class = "material-title">Диверсия на «Северных потоках»</span></a>
+			</div>
+		
+			<div>
+				<strong class = "material-type">Голосование:</strong>
+				<a href = "https://vz.ru/vote/result/2067/" class = "more"><span class = "material-title">На что больше похожа авария на морском газопроводе «Северный поток»?</span></a>
+			</div>
+		
+			<div>
+				<strong class = "material-type">Ранее по теме:</strong>
+				<a href = "https://vz.ru/world/2023/2/4/1197817.html" class = "more"><span class = "material-title">Турция обвинила посла США в подготовке цветной революции</span></a>
+			</div>
+		
+		
+			<div>
+			<strong class = "material-type">Обсуждение:</strong>
+			<a target = "_blank" href = "/politics/2023/2/17/1199590.html#comments" class = "more">
+				<span class = "material-title">20 комментариев</span>
+			</a>
+			</div>
+		
+	</div>
+
+	
+	
+
+
+
+	
+	
+
+	<div class = "othnews">
+		<table cellspacing = "0" cellpadding = "0" >
+			<tr>
+				<td valign = "top">
+				    
+						<h5><a href = "/politics/">Политика</a></h5>
+					
+					
+						<a href = "/politics/2023/2/16/1199582.html">
+							<img src = "https://img.vz.ru/upimg/m11/m1199582_150.jpg" width = "150" border = "0"/>
+						</a>
+						<div class="alt">Новые регионы России окажут влияние на итоги выборов в стране </div>
+					
+				</td>
+			</tr>
+		</table>
+		
+		<h4>
+			<a href = "/politics/2023/2/16/1199582.html" name = "mn1199582">Выборы-2023 определят вторую партию страны</a>
+		</h4>
+		
+					    
+				<div class = "text">Российские партии начинают активную подготовку к Единому дню голосования. При этом, как выяснили социологи, СВО – важная, но не единственная тема, которая волнует избирателей. С какими программами партии пойдут на выборы, кто из них лидирует в опросах общественного мнения и каковы настроения избирателей в новых регионах страны? &#160;&#160;
+					<a href = "/politics/2023/2/16/1199582.html" class = "more">Подробности...</a>
+				</div>
+		
+		
+			<div>
+				<strong class = "material-type">Аналитика:</strong>
+				<a href = "https://vz.ru/incidents/2023/2/10/1198739.html" class = "more"><span class = "material-title">«Дело Фургала» показало главенство закона и права в России</span></a>
+			</div>
+		
+			<div>
+				<strong class = "material-type">Комментарий:</strong>
+				<a href = "https://vz.ru/news/2023/2/15/1199356.html" class = "more"><span class = "material-title">Эксперт оценил результаты встреч Путина с лидерами думских фракций</span></a>
+			</div>
+		
+			<div>
+				<strong class = "material-type">Ранее по теме:</strong>
+				<a href = "https://vz.ru/politics/2023/2/1/1197516.html" class = "more"><span class = "material-title">Россияне сформировали новые требования к политикам</span></a>
+			</div>
+		
+		
+			<div>
+			<strong class = "material-type">Обсуждение:</strong>
+			<a target = "_blank" href = "/politics/2023/2/16/1199582.html#comments" class = "more">
+				<span class = "material-title">27 комментариев</span>
+			</a>
+			</div>
+		
+	</div>
+
+	
+	
+
+
+
+	
+	
+
+	<div class = "othnews">
+		<table cellspacing = "0" cellpadding = "0" >
+			<tr>
+				<td valign = "top">
+				    
+						<h5><a href = "/world/">В мире</a></h5>
+					
+					
+						<a href = "/world/2023/2/16/1199574.html">
+							<img src = "https://img.vz.ru/upimg/m11/m1199574_150.jpg" width = "150" border = "0"/>
+						</a>
+						<div class="alt">Лондон и Вашингтон просят ВСУ экономить снаряды </div>
+					
+				</td>
+			</tr>
+		</table>
+		
+		<h4>
+			<a href = "/world/2023/2/16/1199574.html" name = "mn1199574">НАТО обвинило украинских артиллеристов в расточительности</a>
+		</h4>
+		
+					    
+				<div class = "text">Странам НАТО все сложнее обеспечивать Украину боеприпасами. В Британии и США это объясняют тем, что ВСУ из-за «советской стратегии» расточительно ведут себя на поле боя, поэтому они намерены обучить украинцев военной экономии. Насколько этот план реализуем, в чем его изъяны и какие преимущества «снарядный голод» в рядах противника дает России? &#160;&#160;
+					<a href = "/world/2023/2/16/1199574.html" class = "more">Подробности...</a>
+				</div>
+		
+		
+			<div>
+				<strong class = "material-type">Аналитика:</strong>
+				<a href = "https://vz.ru/world/2023/1/18/1195472.html" class = "more"><span class = "material-title">Россия заставила НАТО испытать «снарядный голод» </span></a>
+			</div>
+		
+			<div>
+				<strong class = "material-type">Аналитика:</strong>
+				<a href = "https://vz.ru/news/2023/1/17/1194251.html" class = "more"><span class = "material-title">Эксперт сравнил обеспеченность снарядами российской армии и ВСУ</span></a>
+			</div>
+		
+			<div>
+				<strong class = "material-type">Аналитика:</strong>
+				<a href = "https://vz.ru/world/2023/1/27/1196513.html" class = "more"><span class = "material-title">Утилизация западных вооружений на Украине озолотит ВПК США</span></a>
+			</div>
+		
+		
+			<div>
+			<strong class = "material-type">Обсуждение:</strong>
+			<a target = "_blank" href = "/world/2023/2/16/1199574.html#comments" class = "more">
+				<span class = "material-title">39 комментариев</span>
+			</a>
+			</div>
+		
+	</div>
+
+	
+	
+
+
+
+	
+	
+
+	<div class = "othnews">
+		<table cellspacing = "0" cellpadding = "0" >
+			<tr>
+				<td valign = "top">
+				    
+						<h5><a href = "/society/">Общество</a></h5>
+					
+					
+						<a href = "/society/2023/2/16/1199603.html">
+							<img src = "https://img.vz.ru/upimg/m11/m1199603_150.jpg" width = "150" border = "0"/>
+						</a>
+						<div class="alt">Вывести из строя космический аппарат можно простым столкновением с ним</div>
+					
+				</td>
+			</tr>
+		</table>
+		
+		<h4>
+			<a href = "/society/2023/2/16/1199603.html" name = "mn1199603">Как США угрожают российским спутникам</a>
+		</h4>
+		
+					    
+				<div class = "text">Противостояние между Москвой и НАТО может перекинуться в космос совсем скоро. Американцы уже испытывают спутники, способные уничтожать российские космические аппараты военного и гражданского назначения. Насколько эта угроза опасна для российской орбитальной группировки и есть ли у России на нее ответ?&#160;&#160;
+					<a href = "/society/2023/2/16/1199603.html" class = "more">Подробности...</a>
+				</div>
+		
+		
+			<div>
+				<strong class = "material-type">Ранее по теме:</strong>
+				<a href = "https://vz.ru/society/2022/12/1/1189111.html" class = "more"><span class = "material-title">Как России лишить Украину поддержки из космоса</span></a>
+			</div>
+		
+		
+			<div>
+			<strong class = "material-type">Обсуждение:</strong>
+			<a target = "_blank" href = "/society/2023/2/16/1199603.html#comments" class = "more">
+				<span class = "material-title">28 комментариев</span>
+			</a>
+			</div>
+		
+	</div>
+
+	
+	
+
+
+
+	
+	
+
+	<div class = "othnews">
+		<table cellspacing = "0" cellpadding = "0" >
+			<tr>
+				<td valign = "top">
+				    
+						<h5><a href = "/politics/">Политика</a></h5>
+					
+					
+						<a href = "/politics/2023/2/16/1199410.html">
+							<img src = "https://img.vz.ru/upimg/m11/m1199410_150.jpg" width = "150" border = "0"/>
+						</a>
+						<div class="alt">Адепты теории «деколонизации» мечтают раздробить Россию на десятки удельных княжеств</div>
+					
+				</td>
+			</tr>
+		</table>
+		
+		<h4>
+			<a href = "/politics/2023/2/16/1199410.html" name = "mn1199410">План «деколонизации» России опирается на историческую безграмотность</a>
+		</h4>
+		
+					    
+				<div class = "text">Что общего у татар, башкир, бурятов и чеченцев? Западные идеологи и российская беглая оппозиция почему-то верят, что именно эти четыре этноса можно подбить на «антиколониальное восстание», и тогда Россия развалится на три дюжины мелких государств. Особенно активно теорию «деколонизации» продвигают в Польше и Прибалтике. &#160;&#160;
+					<a href = "/politics/2023/2/16/1199410.html" class = "more">Подробности...</a>
+				</div>
+		
+		
+			<div>
+				<strong class = "material-type">Видео:</strong>
+				<a href = "https://vz.ru/video/2022/7/13/1167481.html#video" class = "more"><span class = "material-title">Как Валенса разрушал Россию</span></a>
+			</div>
+		
+			<div>
+				<strong class = "material-type">Мнение:</strong>
+				<a href = "https://vz.ru/opinions/2023/2/15/1199108.html" class = "more"><span class = "material-title">Уехавшие из России делятся на четыре разные группы</span></a>
+			</div>
+		
+			<div>
+				<strong class = "material-type">Мнение:</strong>
+				<a href = "https://vz.ru/opinions/2023/1/23/1196067.html" class = "more"><span class = "material-title">Поход на восток заложен в генетической памяти европейцев</span></a>
+			</div>
+		
+		
+			<div>
+			<strong class = "material-type">Обсуждение:</strong>
+			<a target = "_blank" href = "/politics/2023/2/16/1199410.html#comments" class = "more">
+				<span class = "material-title">47 комментариев</span>
+			</a>
+			</div>
+		
+	</div>
+
+	
+	
+
+
+
+	
+	
+
+	<div class = "othnews">
+		<table cellspacing = "0" cellpadding = "0" >
+			<tr>
+				<td valign = "top">
+				    
+						<h5><a href = "/economy/">Экономика</a></h5>
+					
+					
+						<a href = "/economy/2023/2/16/1199463.html">
+							<img src = "https://img.vz.ru/upimg/m11/m1199463_150.jpg" width = "150" border = "0"/>
+						</a>
+						<div class="alt">Продолжается тренд на ослабление национальной валюты</div>
+					
+				</td>
+			</tr>
+		</table>
+		
+		<h4>
+			<a href = "/economy/2023/2/16/1199463.html" name = "mn1199463">У рубля не осталось причин для укрепления</a>
+		</h4>
+		
+					    
+				<div class = "text">Российская валюта продолжает ослабление и уже ушла до апрельских уровней прошлого года. Эксперты уверены, что это не временное явление, а долгосрочный тренд. Для роста курса рубля причин не видно. Что изменилось по сравнению с прошлым годом, когда рублю удавалось, казалось, невозможное – оставаться чересчур крепким? Какой курс станет реальностью этого года?&#160;&#160;
+					<a href = "/economy/2023/2/16/1199463.html" class = "more">Подробности...</a>
+				</div>
+		
+		
+			<div>
+				<strong class = "material-type">Аналитика:</strong>
+				<a href = "https://vz.ru/economy/2023/1/12/1194503.html" class = "more"><span class = "material-title">На валютном рынке появился новый крупный игрок </span></a>
+			</div>
+		
+			<div>
+				<strong class = "material-type">Аналитика:</strong>
+				<a href = "https://vz.ru/economy/2023/1/4/1192731.html" class = "more"><span class = "material-title">Какой курс рубля нужен экономике в 2023 году</span></a>
+			</div>
+		
+		
+			<div>
+			<strong class = "material-type">Обсуждение:</strong>
+			<a target = "_blank" href = "/economy/2023/2/16/1199463.html#comments" class = "more">
+				<span class = "material-title">76 комментариев</span>
+			</a>
+			</div>
+		
+	</div>
+
+	
+	
+
+
+
+	
+	
+
+	<div class = "othnews">
+		<table cellspacing = "0" cellpadding = "0" >
+			<tr>
+				<td valign = "top">
+				    
+						<h5><a href = "/world/">В мире</a></h5>
+					
+					
+						<a href = "/world/2023/2/16/1199452.html">
+							<img src = "https://img.vz.ru/upimg/m11/m1199452_150.jpg" width = "150" border = "0"/>
+						</a>
+						<div class="alt">В НАТО решили создать координационную группу по защите подводной инфраструктуры
+</div>
+					
+				</td>
+			</tr>
+		</table>
+		
+		<h4>
+			<a href = "/world/2023/2/16/1199452.html" name = "mn1199452">Подрыв «Северных потоков» обернулся новой проблемой для НАТО</a>
+		</h4>
+		
+					    
+				<div class = "text">В НАТО озаботились безопасностью своей подводной инфраструктуры. Инициатива по ее защите появилась одновременно с расследованием журналиста Сеймура Херша о подрыве «Северных потоков». Как взаимосвязаны эти события и какие коммуникации НАТО в бассейне Атлантического океана наиболее уязвимы? &#160;&#160;
+					<a href = "/world/2023/2/16/1199452.html" class = "more">Подробности...</a>
+				</div>
+		
+		
+			<div>
+				<strong class = "material-type">Аналитика:</strong>
+				<a href = "https://vz.ru/economy/2023/2/15/1199243.html" class = "more"><span class = "material-title">Брюссель готовит захват власти на газовом рынке</span></a>
+			</div>
+		
+			<div>
+				<strong class = "material-type">Аналитика:</strong>
+				<a href = "https://vz.ru/economy/2023/2/14/1199099.html" class = "more"><span class = "material-title">Как Россия справится с историческим падением экспорта газа в ЕС</span></a>
+			</div>
+		
+			<div>
+				<strong class = "material-type">Аналитика:</strong>
+				<a href = "https://vz.ru/economy/2023/2/12/1198775.html" class = "more"><span class = "material-title">Россия применит агрессивный метод повышения доходов от нефти</span></a>
+			</div>
+		
+		
+			<div>
+			<strong class = "material-type">Обсуждение:</strong>
+			<a target = "_blank" href = "/world/2023/2/16/1199452.html#comments" class = "more">
+				<span class = "material-title">34 комментария</span>
+			</a>
+			</div>
+		
+	</div>
+
+	
+	
+
+
+
+			</div>
+		</td>
+		<td width = "240px" valign = "top" style = "padding:15px 0px 10px 15px;">
+			<div class="fixed_wrap">
+			<h3><a href = "/opinions/">Мнения</a></h3>
+			<div class = "author">
+				
+
+<div class = "author">
+
+
+<a name="ac1199833"></a>
+
+
+<a href="/redir/?source=vz_index_author&id=1199833&vzurl=/opinions/2023/2/20/1199833.html"><img src="https://img.vz.ru/upimg/experts/4397_9.jpg" width="63" height="50" title="Евдокия Шереметьева" alt="Евдокия Шереметьева" border="0"/></a>
+
+<div class="title">
+	<a href="/redir/?source=vz_index_author&id=1199833&vzurl=/opinions/2023/2/20/1199833.html">
+		Евдокия Шереметьева: Как Украина начала войну
+	</a>
+</div>
+<div class="text">До начала СВО еще несколько дней. Но это, видимо, так «мирная Украина» пыталась договориться о перемирии, начав массированные обстрелы ЛДНР в конце февраля 2022-го?</div>
+
+	<div  class = "comments-info">Обсуждение:&#160;
+	<a href = "/redir/?source=vz_index_author&id=1199833&vzurl=/opinions/2023/2/20/1199833.html#comments" class = "more">
+		2092 комментария
+	</a>
+	</div>
+
+
+
+	<hr/>
+
+<a name="ac1199501"></a>
+
+
+<a href="/redir/?source=vz_index_author&id=1199501&vzurl=/opinions/2023/2/20/1199501.html"><img src="https://img.vz.ru/upimg/experts/4108_9.jpg" width="63" height="50" title="Геворг Мирзаян" alt="Геворг Мирзаян" border="0"/></a>
+
+<div class="title">
+	<a href="/redir/?source=vz_index_author&id=1199501&vzurl=/opinions/2023/2/20/1199501.html">
+		Геворг Мирзаян: Переживет ли мир лихие 2020-е
+	</a>
+</div>
+<div class="text">Впереди самое опасное для человечества десятилетие. А все потому, что между великими державами более нет правил, воли и доверия. Большим игрокам просто необходимо сесть и договориться о новых правилах – чтобы пройти это десятилетие без большой войны.</div>
+
+
+
+	<hr/>
+
+<a name="ac1199329"></a>
+
+
+<a href="/redir/?source=vz_index_author&id=1199329&vzurl=/opinions/2023/2/19/1199329.html"><img src="https://img.vz.ru/upimg/experts/4375_9.jpg" width="63" height="50" title="Андрей Полонский" alt="Андрей Полонский" border="0"/></a>
+
+<div class="title">
+	<a href="/redir/?source=vz_index_author&id=1199329&vzurl=/opinions/2023/2/19/1199329.html">
+		Андрей Полонский: Прекрасны русские закаты на севере Западенщины
+	</a>
+</div>
+<div class="text">В судьбе Владимира Волынского удивительным образом оказалась запечатлена и проявлена трагическая участь этих мест, когда-то бывших естественной частью Руси, потом ушедших в польско-литовский мир, в конце XVIII века вернувшихся на Родину и совершенно изменившихся после Второй мировой войны.</div>
+
+	<div  class = "comments-info">Обсуждение:&#160;
+	<a href = "/redir/?source=vz_index_author&id=1199329&vzurl=/opinions/2023/2/19/1199329.html#comments" class = "more">
+		2084 комментария
+	</a>
+	</div>
+
+
+
+	<hr/>
+
+<a name="ac1199910"></a>
+
+
+<a href="/redir/?source=vz_index_author&id=1199910&vzurl=/opinions/2023/2/19/1199910.html"><img src="https://img.vz.ru/upimg/experts/1543_9.jpg" width="63" height="50" title="Глеб Кузнецов" alt="Глеб Кузнецов" border="0"/></a>
+
+<div class="title">
+	<a href="/redir/?source=vz_index_author&id=1199910&vzurl=/opinions/2023/2/19/1199910.html">
+		Глеб Кузнецов: Макрон хочет загнать русского медведя в берлогу
+	</a>
+</div>
+<div class="text">По мнению Макрона, с Россией нужно и неизбежно придется иметь дело, менять в ней режим не нужно, нужно просто нанести ей максимально травматичное поражение. Причем на всех фронтах.</div>
+
+	<div  class = "comments-info">Обсуждение:&#160;
+	<a href = "/redir/?source=vz_index_author&id=1199910&vzurl=/opinions/2023/2/19/1199910.html#comments" class = "more">
+		22 комментария
+	</a>
+	</div>
+
+
+
+	<hr/>
+
+<a name="ac1199414"></a>
+
+
+<a href="/redir/?source=vz_index_author&id=1199414&vzurl=/opinions/2023/2/17/1199414.html"><img src="https://img.vz.ru/upimg/experts/176_9.jpg" width="63" height="50" title="Максим Соколов" alt="Максим Соколов" border="0"/></a>
+
+<div class="title">
+	<a href="/redir/?source=vz_index_author&id=1199414&vzurl=/opinions/2023/2/17/1199414.html">
+		Максим Соколов: Госдеп США отправился в поход на Италию
+	</a>
+</div>
+<div class="text">Производство Италии на один уровень с Киргизией, возможно, упрощает действия американцев по методичке, но довольно удивляет (чтобы не сказать сильнее) сынов самой Италии.
+
+</div>
+
+	<div  class = "comments-info">Обсуждение:&#160;
+	<a href = "/redir/?source=vz_index_author&id=1199414&vzurl=/opinions/2023/2/17/1199414.html#comments" class = "more">
+		16 комментариев
+	</a>
+	</div>
+
+
+
+	<hr/>
+
+<a name="ac1198924"></a>
+
+
+<a href="/redir/?source=vz_index_author&id=1198924&vzurl=/opinions/2023/2/17/1198924.html"><img src="https://img.vz.ru/upimg/experts/4390_9.jpg" width="63" height="50" title="Виталий Трофимов-Трофимов" alt="Виталий Трофимов-Трофимов" border="0"/></a>
+
+<div class="title">
+	<a href="/redir/?source=vz_index_author&id=1198924&vzurl=/opinions/2023/2/17/1198924.html">
+		Виталий Трофимов-Трофимов: Западный расизм определил агрессию против России
+	</a>
+</div>
+<div class="text">Западные разногласия, которые происходят в отношении России сегодня – например, поставка на Украину желающими орднунга немцами своих «Леопардов» и пассивный отказ поставлять «Абрамсы» гарвардско-итонских выпускников – это результат конфликта расизмов, практикуемых в отношении нашей страны.</div>
+
+	<div  class = "comments-info">Обсуждение:&#160;
+	<a href = "/redir/?source=vz_index_author&id=1198924&vzurl=/opinions/2023/2/17/1198924.html#comments" class = "more">
+		22 комментария
+	</a>
+	</div>
+
+
+
+	<hr/>
+
+<a name="ac1199464"></a>
+
+
+<a href="/redir/?source=vz_index_author&id=1199464&vzurl=/opinions/2023/2/16/1199464.html"><img src="https://img.vz.ru/upimg/experts/4264_9.jpg" width="63" height="50" title="Игорь Караулов" alt="Игорь Караулов" border="0"/></a>
+
+<div class="title">
+	<a href="/redir/?source=vz_index_author&id=1199464&vzurl=/opinions/2023/2/16/1199464.html">
+		Игорь Караулов: Почему Запад играет битыми картами
+	</a>
+</div>
+<div class="text">В то время как из левого рукава Запад достает отыгранные культурные артефакты, из правого вываливаются столь же отыгранные политики или, вернее сказать, псевдополитики. </div>
+
+	<div  class = "comments-info">Обсуждение:&#160;
+	<a href = "/redir/?source=vz_index_author&id=1199464&vzurl=/opinions/2023/2/16/1199464.html#comments" class = "more">
+		51 комментарий
+	</a>
+	</div>
+
+
+
+	<hr/>
+
+<a name="ac1198925"></a>
+
+
+<a href="/redir/?source=vz_index_author&id=1198925&vzurl=/opinions/2023/2/16/1198925.html"><img src="https://img.vz.ru/upimg/experts/4249_9.jpg" width="63" height="50" title="Тимур Шерзад" alt="Тимур Шерзад" border="0"/></a>
+
+<div class="title">
+	<a href="/redir/?source=vz_index_author&id=1198925&vzurl=/opinions/2023/2/16/1198925.html">
+		Тимур Шерзад: Как Красная армия провела работу над ошибками и прорвала линию Маннергейма
+	</a>
+</div>
+<div class="text">16 февраля 1940 года советские войска окончательно прорвали линию Маннергейма. Ширина участка прорыва, достигшая двенадцати километров, не оставляла никаких шансов обороняющимся. Противник продолжал отчаянно упираться, но судьба его уже была решена. </div>
+
+	<div  class = "comments-info">Обсуждение:&#160;
+	<a href = "/redir/?source=vz_index_author&id=1198925&vzurl=/opinions/2023/2/16/1198925.html#comments" class = "more">
+		24 комментария
+	</a>
+	</div>
+
+
+
+	<hr/>
+
+<a name="ac1199108"></a>
+
+
+<a href="/redir/?source=vz_index_author&id=1199108&vzurl=/opinions/2023/2/15/1199108.html"><img src="https://img.vz.ru/upimg/experts/3697_9.jpg" width="63" height="50" title="Андрей Колесник" alt="Андрей Колесник" border="0"/></a>
+
+<div class="title">
+	<a href="/redir/?source=vz_index_author&id=1199108&vzurl=/opinions/2023/2/15/1199108.html">
+		Андрей Колесник: Уехавшие из России делятся на четыре разные группы
+	</a>
+</div>
+<div class="text">Единство российских граждан перед лицом испытаний, которое переживает сегодня Отечество, – ключевое условие нашей грядущей победы. Именно поэтому мы не должны отказываться от уехавших.</div>
+
+	<div  class = "comments-info">Обсуждение:&#160;
+	<a href = "/redir/?source=vz_index_author&id=1199108&vzurl=/opinions/2023/2/15/1199108.html#comments" class = "more">
+		41 комментарий
+	</a>
+	</div>
+
+
+
+	<hr/>
+
+<a name="ac1199281"></a>
+
+
+<a href="/redir/?source=vz_index_author&id=1199281&vzurl=/opinions/2023/2/15/1199281.html"><img src="https://img.vz.ru/upimg/experts/4125_9.jpg" width="63" height="50" title="Глеб Простаков" alt="Глеб Простаков" border="0"/></a>
+
+<div class="title">
+	<a href="/redir/?source=vz_index_author&id=1199281&vzurl=/opinions/2023/2/15/1199281.html">
+		Глеб Простаков: Зачем Джо Байден посмотрел наверх
+	</a>
+</div>
+<div class="text">Тема НЛО может стать новым сюжетом всемирного апокалипсиса, который придет на смену COVID-19, оспе обезьян или новому «тектоническому оружию», которое якобы было использовано в Турции (да-да, такие версии тоже есть). </div>
+
+	<div  class = "comments-info">Обсуждение:&#160;
+	<a href = "/redir/?source=vz_index_author&id=1199281&vzurl=/opinions/2023/2/15/1199281.html#comments" class = "more">
+		9 комментариев
+	</a>
+	</div>
+
+
+</div>
+
+			</div>
+			
+
+<h3><a href = "/video/">Видео</a></h3>
+
+	<table class = "main-photos sys_main_photos" cellspacing = "0" cellpadding = "0" border = "0" width = "100%" style="margin-top: 10px">
+		<tbody>
+			<tr>
+			    
+					<td class = "img sys_img" onclick = "window.location = '/redir/?source=vz_main_videos&id=1197770&vzurl=/video/2023/2/4/1197770.html'"
+						style = "height: 240px; background: rgb(153, 153, 153) url(https://img.vz.ru/upimg/214/2143388b.jpg) no-repeat scroll center top; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+						<img src="https://img.vz.ru/upimg/214/2143388.jpg" style="display: none;"/>
+					</td>
+			    
+			</tr>
+			
+			<tr>
+				<td>
+					<a class = "lnk" href = "/redir/?source=vz_main_videos&id=1197770&vzurl=/video/2023/2/4/1197770.html"><div>На словах Вашингтон не готов выполнить очередной каприз Владимира Зеленского и поставить ВСУ истребители F-16. В реальности США, как пишут американские же СМИ, лоббируют такие поставки внутри НАТО и усиливают нажим на европейские страны, у которых истребители F-16 стоят на вооружении. Дадут? Или не дадут? А если дадут, то что это изменит?</div></a>
+				</td>
+			</tr>
+			
+		</tbody>
+	</table>
+
+	<table class = "main-photos sys_main_photos" cellspacing = "0" cellpadding = "0" border = "0" width = "100%" style="margin-top: 10px">
+		<tbody>
+			<tr>
+			    
+					<td class = "img sys_img" onclick = "window.location = '/redir/?source=vz_main_videos&id=1197767&vzurl=/video/2023/2/3/1197767.html'"
+						style = "height: 240px; background: rgb(153, 153, 153) url(https://img.vz.ru/upimg/214/2143373b.jpg) no-repeat scroll center top; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+						<img src="https://img.vz.ru/upimg/214/2143373.jpg" style="display: none;"/>
+					</td>
+			    
+			</tr>
+			
+			<tr>
+				<td>
+					<a class = "lnk" href = "/redir/?source=vz_main_videos&id=1197767&vzurl=/video/2023/2/3/1197767.html"><div>Президент Грузии Саломе Зурабишвили заявила, что военная победа над Россией на Украине должна включать «деоккупацию Грузии», то есть – оккупацию грузинами Абхазии и Южной Осетии. У правительства, как ни странно, другое мнение: там ссоры с Москвой категорически не хотят. В рамках этого конфликта Грузия вообще демонстрирует довольно неожиданное поведение, как будто бы стала суверенной страной.</div></a>
+				</td>
+			</tr>
+			
+		</tbody>
+	</table>
+	
+
+			
+
+
+<h3><a href = "/photo/">Фото дня</a></h3>
+<table class = "main-photos sys_main_photos" cellspacing = "0" cellpadding = "0" border = "0" width = "100%">
+	<tbody>
+		<tr>
+			<td class = "img sys_img" onclick = "window.location = '/redir/?source=vz_main_photos&id=1198918&vzurl=/photoreport/1198918/'"
+				style = "background: rgb(153, 153, 153) url(https://img.vz.ru/upimg/214/2146469b.jpg) no-repeat scroll center top; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+				<img src="https://img.vz.ru/upimg/214/2146469.jpg" style="display: none;"/>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class = "lnk" href = "/redir/?source=vz_main_photos&id=1198918&vzurl=/photoreport/1198918/"><div>Во французской столице и в других городах республики в субботу прошла четвертая общенациональная демонстрация против пенсионной реформы. В общей сложности участниками акций протеста стали по меньшей мере 963 тыс. французов </div></a>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+			
+
+
+
+<h3>
+На ваш взгляд
+</h3>
+
+	
+		<table width="100%" cellspacing="0" cellpadding="0" border="0" style="margin:-7px 0 7px 0;">
+		<td	height="120" style="background: #999999 url(https://img.vz.ru/upimg/vot/vote_8416731385929080196.jpg) no-repeat top center;">&#160;</td></table>
+	
+	<div class="vote">
+		<div class="title">Вас волнует прекращение поставок &laquo;Виагры&raquo; в Россию?</div>
+		
+
+
+	<form class="sys_vote_form" name="vote" style="margin-bottom: 25px;">
+		<input type = "hidden" name = "id" value = "2107"></input>
+		
+		<div class="z11 m5">
+			
+				
+					<input id="aid_8437" class = "answer_2107" type="radio" value="8437" name="aid" onfocus="this.blur();"></input>
+					<label for="aid_8437">Да, волнует</label><br/>
+				
+			
+				
+					<input id="aid_8438" class = "answer_2107" type="radio" value="8438" name="aid" onfocus="this.blur();"></input>
+					<label for="aid_8438">Нет, воспользуюсь аналогичными препаратами</label><br/>
+				
+			
+				
+					<input id="aid_8439" class = "answer_2107" type="radio" value="8439" name="aid" onfocus="this.blur();"></input>
+					<label for="aid_8439">Нет, не пользуюсь такими препаратами</label><br/>
+				
+			
+				
+					<input id="aid_8440" class = "answer_2107" type="radio" value="8440" name="aid" onfocus="this.blur();"></input>
+					<label for="aid_8440">Затрудняюсь ответить</label><br/>
+				
+			
+		</div>
+		
+		<input type="button" class = "sys_vote" value="Голосовать"></input>
+		<input type="button" value="Результаты" onclick="window.location.href = '/vote/result/2107/'"></input>
+		
+			<div style = "float: right;">
+				<strong class = "comments-title">Обсуждение:&#160;</strong>
+				<a target = "_blank" href = "/vote/2107/#comments" class = "more">
+					<span class = "comments-count">12 комментариев</span>
+				</a>
+			</div>
+			<div class = "clear"></div>
+		
+	</form>
+
+
+	</div>
+
+	
+		<table width="100%" cellspacing="0" cellpadding="0" border="0" style="margin:-7px 0 7px 0;">
+		<td	height="120" style="background: #999999 url(https://img.vz.ru/upimg/vot/vote_8789759618363454766.jpg) no-repeat top center;">&#160;</td></table>
+	
+	<div class="vote">
+		<div class="title">Верите ли вы в существование НЛО?</div>
+		
+
+
+	<form class="sys_vote_form" name="vote" style="margin-bottom: 25px;">
+		<input type = "hidden" name = "id" value = "2106"></input>
+		
+		<div class="z11 m5">
+			
+				
+					<input id="aid_8434" class = "answer_2106" type="radio" value="8434" name="aid" onfocus="this.blur();"></input>
+					<label for="aid_8434">Да</label><br/>
+				
+			
+				
+					<input id="aid_8435" class = "answer_2106" type="radio" value="8435" name="aid" onfocus="this.blur();"></input>
+					<label for="aid_8435">Нет</label><br/>
+				
+			
+				
+					<input id="aid_8436" class = "answer_2106" type="radio" value="8436" name="aid" onfocus="this.blur();"></input>
+					<label for="aid_8436">Затрудняюсь ответить</label><br/>
+				
+			
+		</div>
+		
+		<input type="button" class = "sys_vote" value="Голосовать"></input>
+		<input type="button" value="Результаты" onclick="window.location.href = '/vote/result/2106/'"></input>
+		
+			<div style = "float: right;">
+				<strong class = "comments-title">Обсуждение:&#160;</strong>
+				<a target = "_blank" href = "/vote/2106/#comments" class = "more">
+					<span class = "comments-count">14 комментариев</span>
+				</a>
+			</div>
+			<div class = "clear"></div>
+		
+	</form>
+
+
+	</div>
+
+	
+		<table width="100%" cellspacing="0" cellpadding="0" border="0" style="margin:-7px 0 7px 0;">
+		<td	height="120" style="background: #999999 url(https://img.vz.ru/upimg/vot/vote_4492971475766785889.jpg) no-repeat top center;">&#160;</td></table>
+	
+	<div class="vote">
+		<div class="title">Является ли Молдавия частью Русского мира?</div>
+		
+
+
+	<form class="sys_vote_form" name="vote" style="margin-bottom: 25px;">
+		<input type = "hidden" name = "id" value = "2105"></input>
+		
+		<div class="z11 m5">
+			
+				
+					<input id="aid_8430" class = "answer_2105" type="radio" value="8430" name="aid" onfocus="this.blur();"></input>
+					<label for="aid_8430">Да</label><br/>
+				
+			
+				
+					<input id="aid_8431" class = "answer_2105" type="radio" value="8431" name="aid" onfocus="this.blur();"></input>
+					<label for="aid_8431">Нет</label><br/>
+				
+			
+				
+					<input id="aid_8432" class = "answer_2105" type="radio" value="8432" name="aid" onfocus="this.blur();"></input>
+					<label for="aid_8432">Только Приднестровье</label><br/>
+				
+			
+				
+					<input id="aid_8433" class = "answer_2105" type="radio" value="8433" name="aid" onfocus="this.blur();"></input>
+					<label for="aid_8433">Затрудняюсь ответить</label><br/>
+				
+			
+		</div>
+		
+		<input type="button" class = "sys_vote" value="Голосовать"></input>
+		<input type="button" value="Результаты" onclick="window.location.href = '/vote/result/2105/'"></input>
+		
+			<div style = "float: right;">
+				<strong class = "comments-title">Обсуждение:&#160;</strong>
+				<a target = "_blank" href = "/vote/2105/#comments" class = "more">
+					<span class = "comments-count">14 комментариев</span>
+				</a>
+			</div>
+			<div class = "clear"></div>
+		
+	</form>
+
+
+	</div>
+
+
+
+
+			<div id="widget-xdm-container" style="min-width: 240px;"></div>
+			</div>
+		</td>
+	</tr>
+</table>
+
+
+
+				
+				
+				<div class="shadow">&#160;</div>
+								
+				</td>
+				<td id="vdelimiter"><div>&#160;</div></td>
+				
+				<td id="right">
+					<div class="fixed_wrap">
+						<div class="top_wrap"></div>
+
+
+<div class="ab">
+<div class="sys_wrap">
+<!-- Yandex.RTB R-A-276631-3 -->
+<div id="yandex_rtb_R-A-276631-3"></div>
+<script type="text/javascript">
+	window.yaContextCb.push(()=>{      
+        Ya.Context.AdvManager.render({
+            blockId: "R-A-276631-3",
+            renderTo: "yandex_rtb_R-A-276631-3",
+            async: true
+        });
+    });
+</script>
+</div>
+</div>
+<div class="shadow">&nbsp;</div>
+
+
+
+
+<div class="ab" style="height: 410px;margin-top: 200px">
+<div class="sys_wrap" style="border: 1px solid black;">
+<div id="smi2adblock_78924"><a href="https://smi2.ru/" >Новости СМИ2</a></div> <script type="text/javascript" charset="utf-8"> (function() { var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true; sc.src = '//smi2.ru/data/js/78924.js'; sc.charset = 'utf-8'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s); }());</script>
+</div>
+</div>
+<div class="shadow">&nbsp;</div>
+
+
+
+
+<div class="ab" style="margin-bottom: 402px;" id="av1">
+<div class="sys_wrap" id="av2">
+<iframe src="https://adv.zarabotkipro.ru/adv?id=1131&n=1&c=1" width="240" height="200" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" style="float: left;"></iframe>
+<iframe src="https://adv.zarabotkipro.ru/adv?id=1132&n=1&c=1" width="240" height="200" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" style="float: left;"></iframe>
+
+</div>
+</div>
+<div class="shadow">&nbsp;</div>
+
+
+
+<div class="ab">
+<div class="sys_wrap">
+<!-- Yandex.RTB R-A-276631-8 -->
+<div id="yandex_rtb_R-A-276631-8"></div>
+<script type="text/javascript">
+	window.yaContextCb.push(()=>{      
+        Ya.Context.AdvManager.render({
+            blockId: "R-A-276631-8",
+            renderTo: "yandex_rtb_R-A-276631-8",
+            async: true
+        });
+    });
+</script>
+
+</div>
+</div>
+<div class="shadow"></div>
+
+
+<div class="ab" style="height: 402px;">
+<div class="sys_wrap" style="border: 1px solid black;">
+<iframe src="https://comadv.vz.ru/cgi-bin/iframe/vznew240_6?53152&&n=1&c=1" width="240" height="400" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"></iframe>
+</div>
+</div>
+<div class="shadow"></div>
+
+
+
+
+
+<a href="https://www.liveinternet.ru/click"
+target=_blank style="float: right; margin-top: 30px;margin-left: 20px"><img src="https://counter.yadro.ru/logo?58.3"
+title="LiveInternet"
+alt="" border=0 width=88 height=31></a>
+
+<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "3084240", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = "https://top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div>
+<img src="https://top-fwz1.mail.ru/counter?id=3084240;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+
+<div style="clear: both"></div>
+<div id="toplinks" style="padding-top: 45px; float: right"><a href="http://vz.ru/about/staff.html">О газете</a> &#160;|&#160; <a href="/about/vacancy.html">Вакансии</a> &#160;|&#160; <a href="/about/advertise.html#journal">Реклама на сайте</a></div>
+
+					</div>
+				</td>
+				
+				</tr>
+			</table>
+			
+
+			
+
+			<div style="padding: 15px 260px 20px 15px;background-color: #e2e2e2;margin: -20px -15px;">
+<table id="copyrights" width="100%">
+<tr>
+<td class="left">
+&copy; 2005 - 2022 ООО «Деловая газета Взгляд»<br/>
+E-mail: <a href="mailto:information@vz.ru">information@vz.ru</a>
+</td>
+<td class="middle">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td nowrap="nowrap">
+<script type="text/javascript" src="//www.giraff.io/data/widget-vzru.js" async></script>
+
+
+
+<!--
+<a href="http://top100.rambler.ru/top100/Media/index.shtml.ru"><img src="http://top100-images.rambler.ru/top100/b1.gif" alt="Rambler's Top100" width=88 height=31 border=0></a>
+-->
+
+<!--
+<img src="http://counter.yadro.ru/logo?58.3" borde="0" width="0" height="0"/>
+-->
+
+<!-- tns-counter.ru -->
+<script type="text/javascript">
+	(function(win, doc, cb){
+		(win[cb] = win[cb] || []).push(function() {
+			try {
+				tnsCounterKrykov_ru = new TNS.TnsCounter({
+				'account':'krykov_ru',
+				'tmsec': 'vzglyad_total'
+				});
+			} catch(e){}
+		});
+
+		var tnsscript = doc.createElement('script');
+		tnsscript.type = 'text/javascript';
+		tnsscript.async = true;
+		tnsscript.src = ('https:' == doc.location.protocol ? 'https:' : 'http:') + 
+			'//www.tns-counter.ru/tcounter.js';
+		var s = doc.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(tnsscript, s);
+	})(window, this.document,'tnscounter_callback');
+</script>
+<noscript>
+	<img src="//www.tns-counter.ru/V13a****krykov_ru/ru/UTF-8/tmsec=vzglyad_total/" width="0" height="0" alt="" />
+</noscript>
+<!--/ tns-counter.ru -->
+<!--LiveInternet logo-->
+<!--
+<a href="http://www.liveinternet.ru/click"
+target=_blank><img src="http://counter.yadro.ru/logo?58.3"
+title="LiveInternet"
+alt="" border=0 width=88 height=31></a>
+-->
+<!--/LiveInternet-->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-3626413-1', 'auto');
+  ga('send', 'pageview');
+  setTimeout("ga('send','event','15_seconds','read');",15000);
+</script>
+
+<div style="display:none">
+<!-- Yandex.Metrika informer -->
+<a href="https://metrika.yandex.ru/stat/?id=24834572&amp;from=informer"
+target="_blank" rel="nofollow"><img src="//bs.yandex.ru/informer/24834572/3_1_FFFFFFFF_EFEFEFFF_0_pageviews"
+style="width:88px; height:31px; border:0;" alt=".............." title="..............: ...... .. ....... (........., ...... . .......... ..........)" onclick="try{Ya.Metrika.informer({i:this,id:24834572,lang:'ru'});return false}catch(e){}"/></a>
+<!-- /Yandex.Metrika informer -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter24834572 = new Ya.Metrika({id:24834572,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+        } catch(e) { }
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/24834572" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<script>
+    ((counterHostname) => {
+        window.MSCounter = {
+            counterHostname: counterHostname
+        };
+        window.mscounterCallbacks = window.mscounterCallbacks || [];
+        window.mscounterCallbacks.push(() => {
+            msCounterExampleCom = new MSCounter.counter({
+                    'account':'vz_ru',
+                    'tmsec': 'vz_ru',
+                    'idc': 151,
+                    'autohit' : true
+                });
+        });
+  
+        const newScript = document.createElement('script');
+        newScript.async = true;
+        newScript.src = `${counterHostname}/ncc/counter.js`;
+  
+        const referenceNode = document.querySelector('script');
+        if (referenceNode) {
+            referenceNode.parentNode.insertBefore(newScript, referenceNode);
+        } else {
+            document.firstElementChild.appendChild(newScript);
+        }
+    })('https://tns-counter.ru/');
+</script>
+
+</td>
+<td style="padding-left:5px">
+
+</td>
+</tr>
+</table>
+</td>
+<td class="right">
+
+Логотип и дизайн сайта &#160;—&#160;<br/>
+креатив-группа <a href="http://www.bolotov.ru/" class="bolotov">&#160;болоtov.ru&#160;</a><br/>
+<a href="http://web10.bolotov.ru/clients/vzglyad/">Информация о проекте</a>
+
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="mask"></div>
+<div class="facebook__box">
+	<div class="facebook__box-content">
+		<div class="facebook__box-close"><span>X</span></div>
+		<div class="facebook__box-title">
+			<p>Читайте нас на Facebook</p>
+		</div>
+		<div class="facebook__box-text">
+			<div id="fb-root"></div>
+			<script>(function(d, s, id) {
+			  var js, fjs = d.getElementsByTagName(s)[0];
+			  if (d.getElementById(id)) return;
+			  js = d.createElement(s); js.id = id;
+			  js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.8&appId=1265905060095681";
+			  fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));</script>
+			<div class="fb-page" data-href="https://www.facebook.com/vzglyad/" data-tabs="timeline" data-height="70" data-width="430" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/vzglyad/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/vzglyad/">ВЗГЛЯД.РУ</a></blockquote></div>
+		</div>
+		<div class="facebook__box-closetext"><span>Уже читаю</span></div>
+	</div>
+</div>
+    
+<div class="social-network-panel" id="social-network-panel" style="display: none; width:648px;height:358px;background: none; border: 0px none;">
+</div>
+
+
+
+
+</div>	
+			
+		
+		</div>
+	</body>
+</html>				
+	

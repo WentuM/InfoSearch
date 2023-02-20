@@ -1,0 +1,3052 @@
+<!DOCTYPE html>
+<html lang="ru" class=" ">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Калуга-Поиск - информационный портал Калуги и Калужской области</title>
+	<meta name="description" content="Калуга-Поиск - калужский городской информационный портал. У нас есть актуальные новости из жизни города, афиша событий, подборки и статьи, каталог организаций с отзывами пользователей, мнения и дискуссии по разным вопросам."/>
+	<meta name="keywords" content="калуга, калуга поиск"/>
+	
+	<meta name="theme-color" content="#c8252c"> 
+
+	<meta property="og:title" content="Калуга-Поиск - информационный портал Калуги и Калужской области"/>
+	<meta property="og:site_name" content="Калуга-Поиск"/>
+
+	
+		<meta property="og:image" content="https://www.kaluga-poisk.ru/images/rss-logo-200-200.png" />
+	<meta property="og:image:width" content="200"/>
+	<meta property="og:image:height" content="200"/>
+		<meta property="og:url" content="https://www.kaluga-poisk.ru"/>
+	<meta property="og:description" content="Калуга-Поиск - калужский городской информационный портал. У нас есть актуальные новости из жизни города, афиша событий, подборки и статьи, каталог организаций с отзывами пользователей, мнения и дискуссии по разным вопросам."/>
+	<meta property="og:type" content="website"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+			<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1, noodp, noyaca"/>
+	
+	<link href="https://cdn.adfinity.pro/foralls/adfinity_1.1.css" rel="stylesheet">
+<script src="https://yandex.ru/ads/system/header-bidding.js"></script>
+<script src="https://cdn.adfinity.pro/foralls/adfinity_1.1.js" charset="utf-8"></script>
+<script src="https://cdn.adfinity.pro/partners/kaluga-poisk.ru/hbconfig.js"></script>
+<script>
+window.Ya || (window.Ya = {});
+window.yaContextCb = window.yaContextCb || [];
+window.Ya.adfoxCode || (window.Ya.adfoxCode = {});
+window.Ya.adfoxCode.hbCallbacks || (window.Ya.adfoxCode.hbCallbacks = []);
+</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+<link rel="preconnect" href="https://ads.betweendigital.com" crossorigin>
+	<meta http-equiv="Cache-Control" content="public">
+	<meta http-equiv="Cache-Control" content="max-age=259200">
+	<meta name="languange" content="ru" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+			<link rel="canonical" href="https://www.kaluga-poisk.ru/"/>
+	
+	
+	<link rel="search" href="https://www.kaluga-poisk.ru/omniboxsearch" type="application/opensearchdescription+xml" title="Калуга-Поиск"/>
+
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png"/>
+
+	<link rel="preload" href="https://www.kaluga-poisk.ru/fonts/blockac/bloknotc-webfont.woff" as="font" type="font/woff" crossorigin>
+	<link rel="preload" href="https://www.kaluga-poisk.ru/fonts/blockac/blockac-webfont.woff" as="font" type="font/woff" crossorigin>
+
+	
+
+	<link href="https://www.kaluga-poisk.ru/stylesheets/_min/58cc594d98cf82419c61bf74fa6264fa60275048477.css" rel="stylesheet">
+
+	<style>
+		@keyframes  fadeIn {
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
+}
+
+@-webkit-keyframes zoomIn {
+	from {
+		opacity: 0;
+		-webkit-transform: scale3d(.3, .3, .3);
+		transform: scale3d(.3, .3, .3);
+	}
+
+	100% {
+		opacity: 1;
+	}
+}
+
+@keyframes  shining {
+	0% {
+		background-color: #c8252c;
+	}
+	50% {
+		background-color: #a70c12;
+	}
+	100% {
+		background-color: #c8252c;
+	}
+}
+
+
+
+
+@-webkit-keyframes rotate {
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+
+@keyframes  rotate {
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+@-webkit-keyframes dash {
+  0% {
+    stroke-dasharray: 1, 200;
+    stroke-dashoffset: 0;
+  }
+  50% {
+    stroke-dasharray: 89, 200;
+    stroke-dashoffset: -35px;
+  }
+  100% {
+    stroke-dasharray: 89, 200;
+    stroke-dashoffset: -124px;
+  }
+}
+@keyframes  dash {
+  0% {
+    stroke-dasharray: 1, 200;
+    stroke-dashoffset: 0;
+  }
+  50% {
+    stroke-dasharray: 89, 200;
+    stroke-dashoffset: -35px;
+  }
+  100% {
+    stroke-dasharray: 89, 200;
+    stroke-dashoffset: -124px;
+  }
+}
+@-webkit-keyframes color {
+  100%,
+  0% {
+    stroke: #d62d20;
+  }
+  40% {
+    stroke: #0057e7;
+  }
+  66% {
+    stroke: #008744;
+  }
+  80%,
+  90% {
+    stroke: #ffa700;
+  }
+}
+@keyframes  color {
+  100%,
+  0% {
+    stroke: #d62d20;
+  }
+  40% {
+    stroke: #0057e7;
+  }
+  66% {
+    stroke: #008744;
+  }
+  80%,
+  90% {
+    stroke: #ffa700;
+  }
+}
+
+	</style>
+
+		
+	<script>
+	var is_mobile = false;
+	var locHost = 'https://www.kaluga-poisk.ru';
+	var user_logged = 0;
+	var Portal = {
+		env: 'local',
+		getYandexMetric: function () {
+			var yCounterId = '159855';
+			return window['yaCounter'+yCounterId];
+		},
+		sessionIos: false,
+		sessionAndroid: false,
+		localPhoneCode: '4842',
+		mVersion2: false,
+		gcmSenderId: ''
+	};
+</script>
+	
+		
+
+</head>
+			<body
+		style="background: #eeeeee url('https://www.kaluga-poisk.ru/system/Cover/images/000/300/344/original/ryzov_1676040219.jpg') no-repeat;background-position: 50% 0;" class="brn-container-vc "
+	data-brn-token=""
+	data-brn-id="1442"
+	class=""
+		>
+
+	<div class="brn-container" data-brn-place="back">
+		<div class="main-bnr-clickable" data-open-link="https://www.kaluga-poisk.ru/bnrs_away/1442">
+		</div>
+
+		<div class="container wide back-bnr-mobile">
+			<a target="_blank" href="https://www.kaluga-poisk.ru/bnrs_away/1442">
+							</a>
+		</div>
+
+		<style>
+			.back-bnr-mobile {
+				display: none;
+			}
+
+			.back-bnr-mobile img {
+				width: 100%;
+			}
+
+			@media(max-width: 1300px) {
+				body {
+					background: #eeeeee !important;
+				}
+
+				.back-bnr-mobile {
+					display: block !important;
+				}
+
+				.main-bnr-clickable {
+					display: none !important;
+				}
+			}
+		</style>
+	</div>
+	
+
+<nav class="container-mobile-menu hidden-lg hidden-md">
+		<div id="sidebar">
+
+			<div class="clearfix"></div>
+
+			<div class="logoblock">
+															<img src="/images/svg/logo.svg?2" class="logoonswipe" alt="Калуга-Поиск">
+													<div class="close-container pull-right">
+					<div class="btn-close">
+						<span class="icon-ascii ia-close"></span>
+					</div>
+				</div>
+			</div>
+
+			<ul class="menu">
+				
+													<li class=" with-sub-items ">
+						<div class="link-container">
+															<a href="#" >
+									Новости								</a>
+													</div>
+
+													<ul class="sub-items">
+																	
+																			<li>
+											<div class="link-container">
+																									<a href="#" data-to-menu="-1" class="section-title" >Новости Калуги</a>
+																								
+
+																							</div>
+										</li>
+																										
+																			<li>
+											<div class="link-container">
+																									<a href="#" data-to-menu="2-2" class="section-title" >Мнение читателей</a>
+																								
+
+																							</div>
+										</li>
+																										
+																			<li>
+											<div class="link-container">
+																									<a href="#" data-to-menu="2-4" class="section-title" >Новости Калужской области</a>
+																								
+
+																							</div>
+										</li>
+																										
+																			<li>
+											<div class="link-container">
+																									<a href="#" data-to-menu="2-74" class="section-title" >Новости Тульской области</a>
+																								
+
+																							</div>
+										</li>
+																										
+																			<li>
+											<div class="link-container">
+																									<a href="#" data-to-menu="2-5" class="section-title" >Добрые новости</a>
+																								
+
+																							</div>
+										</li>
+																																													
+																			<li>
+											<div class="link-container">
+																									<a href="#" data-to-menu="2-7" class="section-title" >Добавить народную новость</a>
+																								
+
+																							</div>
+										</li>
+																										
+																																																																																																																							</ul>
+											</li>
+									<li class=" with-sub-items ">
+						<div class="link-container">
+															<a href="#"  data-to-menu="-10" >
+									Отзывы								</a>
+													</div>
+
+											</li>
+									<li class=" with-sub-items ">
+						<div class="link-container">
+															<a href="#" >
+									Каталог								</a>
+													</div>
+
+													<ul class="sub-items">
+																	
+																			<li>
+											<div class="link-container">
+																									<a href="#" data-to-menu="-2" class="section-title" >Каталог организаций</a>
+																								
+
+																							</div>
+										</li>
+																										
+																			<li>
+											<div class="link-container">
+																									<a href="#" data-to-menu="2-16" class="section-title" >Добавить компанию в каталог</a>
+																								
+
+																							</div>
+										</li>
+																																																																
+																			<li>
+											<div class="link-container">
+																									<a href="#" data-to-menu="2-18" class="section-title" >Добавить отзыв</a>
+																								
+
+																							</div>
+										</li>
+																								</ul>
+											</li>
+									<li class=" with-sub-items ">
+						<div class="link-container">
+															<a href="#"  data-to-menu="-3" >
+									Афиша								</a>
+													</div>
+
+											</li>
+									<li class=" with-sub-items ">
+						<div class="link-container">
+															<a href="#" >
+									Интересно								</a>
+													</div>
+
+													<ul class="sub-items">
+																	
+																			<li>
+											<div class="link-container">
+																									<a href="#" data-to-menu="2-30" class="section-title" >Вопрос-ответ</a>
+																								
+
+																							</div>
+										</li>
+																										
+																			<li>
+											<div class="link-container">
+																									<a href="#" data-to-menu="2-71" class="section-title" >Полезный город +1</a>
+																								
+
+																							</div>
+										</li>
+																										
+																			<li>
+											<div class="link-container">
+																									<a href="#" data-to-menu="2-36" class="section-title" >Опросы</a>
+																								
+
+																							</div>
+										</li>
+																										
+																			<li>
+											<div class="link-container">
+																									<a href="#" data-to-menu="2-31" class="section-title" >Советы и инструкции</a>
+																								
+
+																							</div>
+										</li>
+																										
+																			<li>
+											<div class="link-container">
+																									<a href="#" data-to-menu="2-69" class="section-title" >Статьи</a>
+																								
+
+																							</div>
+										</li>
+																										
+																			<li>
+											<div class="link-container">
+																									<a href="#" data-to-menu="2-65" class="section-title" >Спецпроекты</a>
+																								
+
+																							</div>
+										</li>
+																										
+																			<li>
+											<div class="link-container">
+																									<a href="#" data-to-menu="2-39" class="section-title" >Персоны недели</a>
+																								
+
+																							</div>
+										</li>
+																										
+																			<li>
+											<div class="link-container">
+																									<a href="#" data-to-menu="2-42" class="section-title" >Погода</a>
+																								
+
+																							</div>
+										</li>
+																								</ul>
+											</li>
+									<li class=" with-sub-items ">
+						<div class="link-container">
+															<a href="#" >
+									Справка								</a>
+													</div>
+
+													<ul class="sub-items">
+																	
+																										
+																			<li>
+											<div class="link-container">
+																									<a href="#" data-to-menu="2-44" class="section-title" >Аварийные и экстренные службы Калуги</a>
+																								
+
+																							</div>
+										</li>
+																										
+																			<li>
+											<div class="link-container">
+																									<a href="#" data-to-menu="2-45" class="section-title" >Такси Калуга</a>
+																								
+
+																							</div>
+										</li>
+																										
+																			<li>
+											<div class="link-container">
+																									<a href="#" data-to-menu="1-46" class="section-title" >Расписания</a>
+																								
+
+																																						<ul class="sub-items">
+																																																																																																																																																																																	 
+																											</ul>
+																							</div>
+										</li>
+																										
+																			<li>
+											<div class="link-container">
+																									<a href="#" data-to-menu="2-47" class="section-title" >Расписания поездов Калуги</a>
+																								
+
+																							</div>
+										</li>
+																										
+																			<li>
+											<div class="link-container">
+																									<a href="#" data-to-menu="2-48" class="section-title" >Расписание автобусов Калуга</a>
+																								
+
+																							</div>
+										</li>
+																										
+																			<li>
+											<div class="link-container">
+																									<a href="#" data-to-menu="2-49" class="section-title" >Расписание электричек Калуги</a>
+																								
+
+																							</div>
+										</li>
+																										
+																			<li>
+											<div class="link-container">
+																									<a href="#" data-to-menu="2-41" class="section-title" >Карта пробок Калуги</a>
+																								
+
+																							</div>
+										</li>
+																										
+																			<li>
+											<div class="link-container">
+																									<a href="#" data-to-menu="2-50" class="section-title" >Расписание авиарейсов Калуги</a>
+																								
+
+																							</div>
+										</li>
+																										
+																			<li>
+											<div class="link-container">
+																									<a href="#" data-to-menu="-6" class="section-title" >Справочная информация</a>
+																								
+
+																																						<ul class="sub-items">
+																																																																																																																																																																																																																																																																																																																																																															 
+																											</ul>
+																							</div>
+										</li>
+																										
+																			<li>
+											<div class="link-container">
+																									<a href="#" data-to-menu="2-52" class="section-title" >Круглосуточные аптеки</a>
+																								
+
+																							</div>
+										</li>
+																										
+																			<li>
+											<div class="link-container">
+																									<a href="#" data-to-menu="2-53" class="section-title" >Круглосуточные магазины</a>
+																								
+
+																							</div>
+										</li>
+																										
+																			<li>
+											<div class="link-container">
+																									<a href="#" data-to-menu="2-54" class="section-title" >МФЦ "Мои документы"</a>
+																								
+
+																							</div>
+										</li>
+																								</ul>
+											</li>
+									<li class=" with-sub-items ">
+						<div class="link-container">
+															<a href="#" >
+									Обратная связь								</a>
+													</div>
+
+													<ul class="sub-items">
+																	
+																			<li>
+											<div class="link-container">
+																									<a href="#" data-to-menu="-7" class="section-title" >Контакты редакции</a>
+																								
+
+																							</div>
+										</li>
+																										
+																			<li>
+											<div class="link-container">
+																									<a href="#" data-to-menu="2-64" class="section-title" >Заказать рекламу</a>
+																								
+
+																							</div>
+										</li>
+																								</ul>
+											</li>
+								<li class="with-sub-items">
+					<div class="link-container">
+						<a href="#">
+							Обязательно к прочтению
+						</a>
+					</div>
+					<ul class="sub-items">
+						<li><a href="/comments-rules-information">Правила публикации комментариев</a></li>
+					<li><a href="/legal-information">Правовая информация</a></li>
+					<li><a href="/mass-media-license">Информация о СМИ</a></li>
+					<li><a href="/privacy-policy">Политика конфиденциальности</a></li>
+					<li><a href="/terms-of-use">Пользовательское соглашение</a></li>
+			</ul>				</li>
+			</ul>
+		</div>
+
+		<div class="swipe-area"></div>
+	</nav>
+
+
+
+<!-- maps -->
+<div id="overlay"></div>
+<div id="overlay-for-map"></div>
+
+<div class="to-up">
+	<i class="icon-ascii ia-atop" style="left:3px"></i>
+</div>
+
+	<!--noindex-->
+		<div class="left-to-up hidden-xs hidden-sm hidden-md">
+			<div class="left-to-up-line">
+				<div>Наверх</div>
+			</div>
+		</div>
+	<!--/noindex-->
+
+
+<header class="container wide" itemscope itemtype="https://schema.org/WPHeader">
+	<meta itemprop="headline" content="Калуга-Поиск">
+	<meta itemprop="description" content="Городской портал Калуги">
+
+			<nav class="navigation-top hidden-xs hidden-sm">
+	
+						<img src="/images/svg/logo.svg?2" class="img-logo" alt="Логотип Калуга-Поиск">
+			
+	<form action="https://www.kaluga-poisk.ru/search" class="form-search hidden-xs" style="width: 65%" >
+		<div>
+			<input type="search" name="search" pattern=".{2,}" placeholder="Введите фразу для поиска" value="">
+			<button class="btn-search">
+				<img style="width:20px; position:relative; top:-2px; transform: scale(-1, 1);" class="svg-img-icon " src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgd2lkdGg9IjMycHgiIGhlaWdodD0iMzJweCIgdmlld0JveD0iMCAwIDMyIDMyIiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAzMiAzMiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+ICA8ZyBpZD0ic2VhcmNoIj4gICAgPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTcxOS43MDksNTkuODU0bC05LjA1Ny05LjExNmExLjAxMSwxLjAxMSwwLDAsMS0uMTEtMS4yNzMsMTMuOTA4LDEzLjkwOCwwLDEsMC0zLjk4MSw0LjAwNiwxLjAwNiwxLjAwNiwwLDAsMSwxLjI3OS4xMTFsOS4wMzYsOS4xYTEsMSwwLDAsMCwxLjQxNywwbDEuNDE0LTEuNDE0YTEsMSwwLDAsMCwwLTEuNDEyaDBaTTY5MS45LDQ4Ljg4M2E5LjkxLDkuOTEsMCwxLDEsMTQuMDE1LDAsOS45MjEsOS45MjEsMCwwLDEtMTQuMDE1LDBoMFoiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC02ODUgLTI4KSIvPiAgPC9nPiAgPC9zdmc+" alt="" title="">			</button>
+		</div>
+	</form>
+</nav>	
+	<nav class="navigation-top navigation-top-mobile hidden-lg hidden-md">
+		<div class="mobile-search-container">
+			<form action="https://www.kaluga-poisk.ru/search" class="form-search">
+				<input type="search" name="search" pattern=".{2,}" placeholder="Введите фразу для поиска" value="" class="in-search">
+				<button class="btn-search" style="display: none;">
+					<img style="width: 16px; position: relative; top: -1px; transform: scale(-1, 1);" class="svg-img-icon " src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgd2lkdGg9IjMycHgiIGhlaWdodD0iMzJweCIgdmlld0JveD0iMCAwIDMyIDMyIiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAzMiAzMiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+ICA8ZyBpZD0ic2VhcmNoIj4gICAgPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTcxOS43MDksNTkuODU0bC05LjA1Ny05LjExNmExLjAxMSwxLjAxMSwwLDAsMS0uMTEtMS4yNzMsMTMuOTA4LDEzLjkwOCwwLDEsMC0zLjk4MSw0LjAwNiwxLjAwNiwxLjAwNiwwLDAsMSwxLjI3OS4xMTFsOS4wMzYsOS4xYTEsMSwwLDAsMCwxLjQxNywwbDEuNDE0LTEuNDE0YTEsMSwwLDAsMCwwLTEuNDEyaDBaTTY5MS45LDQ4Ljg4M2E5LjkxLDkuOTEsMCwxLDEsMTQuMDE1LDAsOS45MjEsOS45MjEsMCwwLDEtMTQuMDE1LDBoMFoiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC02ODUgLTI4KSIvPiAgPC9nPiAgPC9zdmc+" alt="" title="">				</button>
+				<button class="btn-close"><span class="icon-ascii ia-close" style="font-size: 37px; position: relative; left: -3px;"></span></button>
+			</form>
+		</div>
+
+		<div class="col-xs-1 col-icon pl-5">
+			<button class="expand-menu btn-icon" data-toggle=".container-mobile-menu" id="sidebar-toggle">
+				<img style="width: 16px;" class="svg-img-icon " src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgd2lkdGg9IjMycHgiIGhlaWdodD0iMzJweCIgdmlld0JveD0iMCAwIDMyIDMyIiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAzMiAzMiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+ICA8ZyBpZD0iYXJyb3ctcmlnaHQiPiAgICA8cGF0aCBmaWxsPSJub25lIiBkPSJNMTY1LjExMiw2MS43bDE1LjMxNS0xNS4zYTEuOTg2LDEuOTg2LDAsMCwwLDAtMi44MDlsLTE1LjMxNS0xNS4zYTEsMSwwLDAsMC0xLjQwNiwwTDE2Mi4zLDI5LjdhMC45OTMsMC45OTMsMCwwLDAsMCwxLjRsMTMuMjA2LDEzLjE5MWEwLjk5MywwLjk5MywwLDAsMSwwLDEuNEwxNjIuMyw1OC44ODlhMC45OTMsMC45OTMsMCwwLDAsMCwxLjRsMS40MDYsMS40QTEsMSwwLDAsMCwxNjUuMTEyLDYxLjdaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMTYyLjAzMSAtMjgpIi8+ICA8L2c+ICA8ZyBpZD0iYnVyZ2VyIj4gICAgPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTcxLDM1YTEsMSwwLDAsMS0xLDFIMzdhMSwxLDAsMCwxLTEtMVYzM2ExLDEsMCwwLDEsMS0xSDcwYTEsMSwwLDAsMSwxLDF2MlpNNjAsNDZhMSwxLDAsMCwxLTEsMUgzN2ExLDEsMCwwLDEtMS0xVjQ0YTEsMSwwLDAsMSwxLTFINTlhMSwxLDAsMCwxLDEsMXYyWk03MSw1N2ExLDEsMCwwLDEtMSwxSDM3YTEsMSwwLDAsMS0xLTFWNTVhMSwxLDAsMCwxLDEtMUg3MGExLDEsMCwwLDEsMSwxdjJaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMzYgLTMyKSIvPiAgPC9nPiAgPGcgaWQ9InNlYXJjaCI+ICAgIDxwYXRoIGZpbGw9Im5vbmUiIGQ9Ik03MTkuNzA5LDU5Ljg1NGwtOS4wNTctOS4xMTZhMS4wMTEsMS4wMTEsMCwwLDEtLjExLTEuMjczLDEzLjkwOCwxMy45MDgsMCwxLDAtMy45ODEsNC4wMDYsMS4wMDYsMS4wMDYsMCwwLDEsMS4yNzkuMTExbDkuMDM2LDkuMWExLDEsMCwwLDAsMS40MTcsMGwxLjQxNC0xLjQxNGExLDEsMCwwLDAsMC0xLjQxMmgwWk02OTEuOSw0OC44ODNhOS45MSw5LjkxLDAsMSwxLDE0LjAxNSwwLDkuOTIxLDkuOTIxLDAsMCwxLTE0LjAxNSwwaDBaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtNjg1IC0yOCkiLz4gIDwvZz4gIDxzY3JpcHQ+ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQobG9jYXRpb24uaGFzaC5zdWJzdHJpbmcoMSkpLmdldEVsZW1lbnRzQnlUYWdOYW1lKCdwYXRoJylbMF0uc2V0QXR0cmlidXRlKCdmaWxsJywgJyNmZmYnKTs8L3NjcmlwdD48L3N2Zz4=" alt="" title="">			</button>
+		</div>
+
+		<div class="col-xs-2 text-center d-n">
+			<div class="mobile-nav-arrows d-ib ">
+				<button class="left">
+					<span class="icon-ascii ia-aleft" style="font-size: 20px;"></span>
+				</button>
+				<button class="right">
+					<span class="icon-ascii ia-aright" style="font-size: 20px;"></span>
+				</button>
+			</div>
+		</div>
+
+		<div class="col-xs-9 text-center">
+			<div class="portal-name d-ib">
+														<a href="https://www.kaluga-poisk.ru">Kaluga-poisk.ru</a>
+												</div>
+		</div>
+
+		<div class="col-xs-1 col-icon pl-0 pr-5">
+			<button class="expand-search-menu btn-icon" data-toggle=".container-mobile-search-menu" id="search-toggle">
+				<img style="width: 17px; height: 17px; position: relative; top: -1px;" class="svg-img-icon " src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgd2lkdGg9IjMycHgiIGhlaWdodD0iMzJweCIgdmlld0JveD0iMCAwIDMyIDMyIiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAzMiAzMiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+ICA8ZyBpZD0ic2VhcmNoIj4gICAgPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTcxOS43MDksNTkuODU0bC05LjA1Ny05LjExNmExLjAxMSwxLjAxMSwwLDAsMS0uMTEtMS4yNzMsMTMuOTA4LDEzLjkwOCwwLDEsMC0zLjk4MSw0LjAwNiwxLjAwNiwxLjAwNiwwLDAsMSwxLjI3OS4xMTFsOS4wMzYsOS4xYTEsMSwwLDAsMCwxLjQxNywwbDEuNDE0LTEuNDE0YTEsMSwwLDAsMCwwLTEuNDEyaDBaTTY5MS45LDQ4Ljg4M2E5LjkxLDkuOTEsMCwxLDEsMTQuMDE1LDAsOS45MjEsOS45MjEsMCwwLDEtMTQuMDE1LDBoMFoiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC02ODUgLTI4KSIvPiAgPC9nPiAgPC9zdmc+" alt="" title="">			</button>
+		</div>
+	</nav>
+</header>
+<div class="mobile-menu-margin" style="display: none;"></div>
+
+	<!-- TODO mVersion2 -->
+						<div class="container wide brn--m-up1">
+															<div class="brn-container" data-brn-place="up1">
+																	<a style="display: block; text-align: center;"
+									   href="https://www.kaluga-poisk.ru/bnrs_away/1440"
+									   target="_blank">
+								
+																	<img src="https://www.kaluga-poisk.ru/system/Cover/images/000/299/908/original/tayspa_1675844475.gif"
+										 class="brn-container-vc" alt="image"
+										 data-brn-token=""
+										 data-brn-id="1440">
+								
+																	</a>
+								
+															</div>
+																					
+												</div>
+			
+	
+
+<nav class="container top-menu hidden-sm hidden-xs" itemscope itemtype="https://schema.org/SiteNavigationElement">
+	<ul class="col-xs-12">
+					<li>
+									<a href="https://www.kaluga-poisk.ru/news" data-menu-id="-1" id="topmenu_id_1"
+					    itemprop="url">
+												<span class="title">Новости</span>
+					</a>
+				
+									<div class="submenu c2-columns  without-banner ">
+						<div class="hood"></div>
+
+						<div class="row-flex">
+							<div class="left-block">
+																	<div class="column-1">
+																																	
+																																																			
+														<div data-menu-id="2-1" class="text " onclick="document.location.href =  document.getElementById('topmenu_id_1').href">
+															<span class="icon icon-news1 icon"></span>
+															<span>Новости Калуги</span>
+														</div>
+													
+																																					
+																																												
+																																																		
+													<a href="https://www.kaluga-poisk.ru/people-news/zhizn-goroda"
+													   data-menu-id="2-2" class="text submenu-link"
+													   itemprop="url">
+														<span class="icon icon-megaphone icon"></span>
+														<span>Мнение читателей</span>
+																												
+													</a>
+													
+																																					
+																																												
+																																																		
+													<a href="https://www.kaluga-poisk.ru/news/novosti-kaluzhskoy-oblasti"
+													   data-menu-id="2-4" class="text submenu-link"
+													   itemprop="url">
+														<span class="icon icon-news-many icon"></span>
+														<span>Новости Калужской области</span>
+																												
+													</a>
+													
+																																					
+																																												
+																																																		
+													<a href="https://www.kaluga-poisk.ru/news/tags/tulskaya-oblast"
+													   data-menu-id="2-74" class="text submenu-link"
+													   itemprop="url">
+														<span class="icon icon-file-type-n-content-1037 icon"></span>
+														<span>Новости Тульской области</span>
+																												
+													</a>
+													
+																																					
+																																												
+																																																		
+													<a href="https://www.kaluga-poisk.ru/news/dobrye-novosti"
+													   data-menu-id="2-5" class="text submenu-link"
+													   itemprop="url">
+														<span class="icon icon-sun icon"></span>
+														<span>Добрые новости</span>
+																												
+													</a>
+													
+																																					
+																																												
+																																					<br>
+																								
+																																												
+																																																		
+													<a href="https://www.kaluga-poisk.ru/people-news/create"
+													   data-menu-id="2-7" class="text submenu-link"
+													   itemprop="url">
+														<span class="icon icon-square-comment-plus icon"></span>
+														<span>Добавить народную новость</span>
+																												
+													</a>
+													
+																																					
+																																																																																																																																																												</div>
+																	<div class="column-2">
+																																																																																																																																																																																				
+																																																			<span class="text bold">Рубрики новостей</span>
+													
+																																					
+																																												
+																																																			<a href="https://www.kaluga-poisk.ru/news/dtp"
+														   data-menu-id="3-9" class="with-bullet submenu-link"
+														   itemprop="url">
+															ДТП														</a>
+													
+																																					
+																																												
+																																																			<a href="https://www.kaluga-poisk.ru/news/kriminal"
+														   data-menu-id="3-10" class="with-bullet submenu-link"
+														   itemprop="url">
+															Криминал														</a>
+													
+																																					
+																																												
+																																																			<a href="https://www.kaluga-poisk.ru/news/proisshestviya"
+														   data-menu-id="3-11" class="with-bullet submenu-link"
+														   itemprop="url">
+															Происшествия														</a>
+													
+																																					
+																																												
+																																																			<a href="https://www.kaluga-poisk.ru/news/sport"
+														   data-menu-id="3-12" class="with-bullet submenu-link"
+														   itemprop="url">
+															Спорт														</a>
+													
+																																					
+																																												
+																																																			<a href="https://www.kaluga-poisk.ru/news/sobytiya"
+														   data-menu-id="3-13" class="with-bullet submenu-link"
+														   itemprop="url">
+															События														</a>
+													
+																																					
+																														</div>
+															</div>
+
+													</div>
+					</div>
+							</li>
+					<li>
+									<a href="https://www.kaluga-poisk.ru/reviews" data-menu-id="-10" id="topmenu_id_10"
+					    itemprop="url">
+												<span class="title">Отзывы</span>
+					</a>
+				
+							</li>
+					<li>
+									<a href="https://www.kaluga-poisk.ru/catalog" data-menu-id="-2" id="topmenu_id_2"
+					    itemprop="url">
+												<span class="title">Каталог</span>
+					</a>
+				
+									<div class="submenu c1-columns  without-banner ">
+						<div class="hood"></div>
+
+						<div class="row-flex">
+							<div class="left-block">
+																	<div class="column-1">
+																																	
+																																																			
+														<div data-menu-id="2-3" class="text " onclick="document.location.href =  document.getElementById('topmenu_id_2').href">
+															<span class="icon icon-folder icon"></span>
+															<span>Каталог организаций</span>
+														</div>
+													
+																																					
+																																												
+																																																		
+													<a href="https://www.kaluga-poisk.ru/catalog/objects/create"
+													   data-menu-id="2-16" class="text submenu-link"
+													   itemprop="url">
+														<span class="icon icon-folder-plus icon"></span>
+														<span>Добавить компанию в каталог</span>
+																													<span class="submenu-label"
+																  style="background-color: #93c47d">бесплатно</span>
+																												
+													</a>
+													
+																																					
+																																																																	
+																																					<br>
+																								
+																																												
+																																																		
+													<a href="https://www.kaluga-poisk.ru/reviews-add"
+													   data-menu-id="2-18" class="text submenu-link"
+													   itemprop="url">
+														<span class="icon icon-comment-plus icon"></span>
+														<span>Добавить отзыв</span>
+																												
+													</a>
+													
+																																					
+																														</div>
+															</div>
+
+													</div>
+					</div>
+							</li>
+					<li>
+									<a href="https://www.kaluga-poisk.ru/afisha" data-menu-id="-3" id="topmenu_id_3"
+					    itemprop="url">
+												<span class="title">Афиша</span>
+					</a>
+				
+							</li>
+					<li>
+														<span class="title">
+					Интересно</span>
+				
+									<div class="submenu c1-columns  without-banner ">
+						<div class="hood"></div>
+
+						<div class="row-flex">
+							<div class="left-block">
+																	<div class="column-1">
+																																	
+																																																		
+													<a href="https://www.kaluga-poisk.ru/vopros-otvet"
+													   data-menu-id="2-30" class="text submenu-link"
+													   itemprop="url">
+														<span class="icon icon-question-mark icon"></span>
+														<span>Вопрос-ответ</span>
+																												
+													</a>
+													
+																																					
+																																												
+																																																		
+													<a href="https://www.kaluga-poisk.ru/specprojects/plus-one"
+													   data-menu-id="2-71" class="text submenu-link"
+													   itemprop="url">
+														<span class="icon icon-social-n-brands-2376 icon"></span>
+														<span>Полезный город +1</span>
+																												
+													</a>
+													
+																																					
+																																												
+																																																		
+													<a href="https://www.kaluga-poisk.ru/opros-kaluga"
+													   data-menu-id="2-36" class="text submenu-link"
+													   itemprop="url">
+														<span class="icon icon-diagram icon"></span>
+														<span>Опросы</span>
+																												
+													</a>
+													
+																																					
+																																												
+																																																		
+													<a href="https://www.kaluga-poisk.ru/advices"
+													   data-menu-id="2-31" class="text submenu-link"
+													   itemprop="url">
+														<span class="icon icon-book icon"></span>
+														<span>Советы и инструкции</span>
+																												
+													</a>
+													
+																																					
+																																												
+																																																		
+													<a href="https://www.kaluga-poisk.ru/interesno"
+													   data-menu-id="2-69" class="text submenu-link"
+													   itemprop="url">
+														<span class="icon icon-education-0962 icon"></span>
+														<span>Статьи</span>
+																												
+													</a>
+													
+																																					
+																																												
+																																																		
+													<a href="https://www.kaluga-poisk.ru/specprojects"
+													   data-menu-id="2-65" class="text submenu-link"
+													   itemprop="url">
+														<span class="icon icon-ginger-man icon"></span>
+														<span>Спецпроекты</span>
+																												
+													</a>
+													
+																																					
+																																												
+																																																		
+													<a href="https://www.kaluga-poisk.ru/persons"
+													   data-menu-id="2-39" class="text submenu-link"
+													   itemprop="url">
+														<span class="icon icon-person-badge icon"></span>
+														<span>Персоны недели</span>
+																												
+													</a>
+													
+																																					
+																																												
+																																																		
+													<a href="https://www.kaluga-poisk.ru/pogoda-kaluga"
+													   data-menu-id="2-42" class="text submenu-link"
+													   itemprop="url">
+														<span class="icon icon-weather icon"></span>
+														<span>Погода</span>
+																												
+													</a>
+													
+																																					
+																														</div>
+															</div>
+
+													</div>
+					</div>
+							</li>
+					<li>
+									<a href="https://www.kaluga-poisk.ru/spravka" data-menu-id="-6" id="topmenu_id_6"
+					    itemprop="url">
+												<span class="title">Справка</span>
+					</a>
+				
+									<div class="submenu c2-columns  without-banner ">
+						<div class="hood"></div>
+
+						<div class="row-flex">
+							<div class="left-block">
+																	<div class="column-1">
+																																	
+																																																			<span class="text bold">Телефоны</span>
+													
+																																					
+																																												
+																																																		
+													<a href="https://www.kaluga-poisk.ru/spravka/avariinye-i-ekstrennye-sluzhby-kalugi"
+													   data-menu-id="2-44" class="text submenu-link"
+													   itemprop="url">
+														<span class="icon icon-warning-car icon"></span>
+														<span>Аварийные и экстренные службы Калуги</span>
+																												
+													</a>
+													
+																																					
+																																												
+																																																		
+													<a href="https://www.kaluga-poisk.ru/catalog/sotsialnye-uslugi/taksi"
+													   data-menu-id="2-45" class="text submenu-link"
+													   itemprop="url">
+														<span class="icon icon-taxi icon"></span>
+														<span>Такси Калуга</span>
+																												
+													</a>
+													
+																																					
+																																												
+																																																			<a href="https://www.kaluga-poisk.ru/raspisanie-kaluga"
+														   data-menu-id="1-46"
+														   class="text bold submenu-link" itemprop="url">Расписания</a>
+													
+																																					
+																																												
+																																																		
+													<a href="https://www.kaluga-poisk.ru/raspisanie-kaluga/raspisanie-poezdov-kaluga"
+													   data-menu-id="2-47" class="text submenu-link"
+													   itemprop="url">
+														<span class="icon icon-train icon"></span>
+														<span>Расписания поездов Калуги</span>
+																												
+													</a>
+													
+																																					
+																																												
+																																																		
+													<a href="https://www.kaluga-poisk.ru/raspisanie-kaluga/raspisanie-avtobusov-kaluga"
+													   data-menu-id="2-48" class="text submenu-link"
+													   itemprop="url">
+														<span class="icon icon-bus icon"></span>
+														<span>Расписание автобусов Калуга</span>
+																												
+													</a>
+													
+																																					
+																																												
+																																																		
+													<a href="https://www.kaluga-poisk.ru/raspisanie-kaluga/raspisanie-elektrichek-kaluga"
+													   data-menu-id="2-49" class="text submenu-link"
+													   itemprop="url">
+														<span class="icon icon-com-train icon"></span>
+														<span>Расписание электричек Калуги</span>
+																												
+													</a>
+													
+																																					
+																																												
+																																																		
+													<a href="https://www.kaluga-poisk.ru/probki-kaluga"
+													   data-menu-id="2-41" class="text submenu-link"
+													   itemprop="url">
+														<span class="icon icon-triangle icon"></span>
+														<span>Карта пробок Калуги</span>
+																												
+													</a>
+													
+																																					
+																																												
+																																																		
+													<a href="https://www.kaluga-poisk.ru/raspisanie-kaluga/raspisanie-aviareisov-aeroporta-kaluga"
+													   data-menu-id="2-50" class="text submenu-link"
+													   itemprop="url">
+														<span class="icon icon-airplane icon"></span>
+														<span>Расписание авиарейсов Калуги</span>
+																												
+													</a>
+													
+																																					
+																																																																																																																		</div>
+																	<div class="column-2">
+																																																																																																																																																																																																																														
+																																																			<a href="https://www.kaluga-poisk.ru/spravka"
+														   data-menu-id="1-51"
+														   class="text bold submenu-link" itemprop="url">Справочная информация</a>
+													
+																																					
+																																												
+																																																		
+													<a href="https://www.kaluga-poisk.ru/spravka/kruglosutochnye-apteki-kalugi"
+													   data-menu-id="2-52" class="text submenu-link"
+													   itemprop="url">
+														<span class="icon icon-drugstore icon"></span>
+														<span>Круглосуточные аптеки</span>
+																												
+													</a>
+													
+																																					
+																																												
+																																																		
+													<a href="https://www.kaluga-poisk.ru/spravka/kruglosutochnye-magaziny-kalugi"
+													   data-menu-id="2-53" class="text submenu-link"
+													   itemprop="url">
+														<span class="icon icon-cart icon"></span>
+														<span>Круглосуточные магазины</span>
+																												
+													</a>
+													
+																																					
+																																												
+																																																		
+													<a href="https://www.kaluga-poisk.ru/spravka/adresa-tsentrov-i-ofisov-moi-dokumenty-v-kaluge"
+													   data-menu-id="2-54" class="text submenu-link"
+													   itemprop="url">
+														<span class="icon icon-file icon"></span>
+														<span>МФЦ "Мои документы"</span>
+																												
+													</a>
+													
+																																					
+																														</div>
+															</div>
+
+													</div>
+					</div>
+							</li>
+					<li>
+									<a href="https://www.kaluga-poisk.ru/feedback" data-menu-id="-7" id="topmenu_id_7"
+					    itemprop="url">
+												<span class="title">Обратная связь</span>
+					</a>
+				
+									<div class="submenu c1-columns  without-banner ">
+						<div class="hood"></div>
+
+						<div class="row-flex">
+							<div class="left-block">
+																	<div class="column-1">
+																																	
+																																																			
+														<div data-menu-id="2-56" class="text " onclick="document.location.href =  document.getElementById('topmenu_id_7').href">
+															<span class="icon icon-opened-mail2 icon"></span>
+															<span>Контакты редакции</span>
+														</div>
+													
+																																					
+																																												
+																																																		
+													<a href="https://www.kaluga-poisk.ru/reklama-kaluga"
+													   data-menu-id="2-64" class="text submenu-link"
+													   itemprop="url">
+														<span class="icon icon-target icon"></span>
+														<span>Заказать рекламу</span>
+																												
+													</a>
+													
+																																					
+																														</div>
+															</div>
+
+													</div>
+					</div>
+							</li>
+			</ul>
+</nav>
+
+
+<div class="floating-search floating-wrapper" id="floating-search" >
+	<div class="container">
+		<div class="col-md-2 col-icon hidden-sm" 
+				>			
+									<img src="/images/svg/logo.svg?2" alt="" class="img-logo">
+							
+		</div>
+
+		<div class="col-md-8 col-sm-12 col-menu">
+			<ul class="floating-menu">
+									<li>
+																					<a href="#" data-to-menu="-1">
+									<span class="title">Новости</span>
+								</a>
+																										<div class="submenu c2-columns  without-banner ">
+								<div class="hood"></div>
+
+								<div class="row-flex">
+									<div class="left-block">
+																					<div class="column-1">
+																																																																				<a href="#" data-to-menu="2-1" class="text">
+																<span class="icon icon-news1 icon"></span>
+																<span>Новости Калуги</span>
+																																<div style="clear:both"></div>
+															</a>
+
+																																																																																																														<a href="#" data-to-menu="2-2" class="text">
+																<span class="icon icon-megaphone icon"></span>
+																<span>Мнение читателей</span>
+																																<div style="clear:both"></div>
+															</a>
+
+																																																																																																														<a href="#" data-to-menu="2-4" class="text">
+																<span class="icon icon-news-many icon"></span>
+																<span>Новости Калужской области</span>
+																																<div style="clear:both"></div>
+															</a>
+
+																																																																																																														<a href="#" data-to-menu="2-74" class="text">
+																<span class="icon icon-file-type-n-content-1037 icon"></span>
+																<span>Новости Тульской области</span>
+																																<div style="clear:both"></div>
+															</a>
+
+																																																																																																														<a href="#" data-to-menu="2-5" class="text">
+																<span class="icon icon-sun icon"></span>
+																<span>Добрые новости</span>
+																																<div style="clear:both"></div>
+															</a>
+
+																																																																																																														<br>
+																																																																																															<a href="#" data-to-menu="2-7" class="text">
+																<span class="icon icon-square-comment-plus icon"></span>
+																<span>Добавить народную новость</span>
+																																<div style="clear:both"></div>
+															</a>
+
+																																																																																																																																																																																																																							</div>
+																					<div class="column-2">
+																																																																																																																																																																																																																																																																			<span class="text bold">Рубрики новостей</span>
+															
+																																																																																																														<a href="#" data-to-menu="3-9" class="with-bullet">ДТП</a>
+
+																																																																																																														<a href="#" data-to-menu="3-10" class="with-bullet">Криминал</a>
+
+																																																																																																														<a href="#" data-to-menu="3-11" class="with-bullet">Происшествия</a>
+
+																																																																																																														<a href="#" data-to-menu="3-12" class="with-bullet">Спорт</a>
+
+																																																																																																														<a href="#" data-to-menu="3-13" class="with-bullet">События</a>
+
+																																																																	</div>
+																			</div>
+
+																	</div>
+							</div>
+											</li>
+									<li>
+																					<a href="#" data-to-menu="-10">
+									<span class="title">Отзывы</span>
+								</a>
+																								</li>
+									<li>
+																					<a href="#" data-to-menu="-2">
+									<span class="title">Каталог</span>
+								</a>
+																										<div class="submenu c1-columns  without-banner ">
+								<div class="hood"></div>
+
+								<div class="row-flex">
+									<div class="left-block">
+																					<div class="column-1">
+																																																																				<a href="#" data-to-menu="2-3" class="text">
+																<span class="icon icon-folder icon"></span>
+																<span>Каталог организаций</span>
+																																<div style="clear:both"></div>
+															</a>
+
+																																																																																																														<a href="#" data-to-menu="2-16" class="text">
+																<span class="icon icon-folder-plus icon"></span>
+																<span>Добавить компанию в каталог</span>
+																																	<span class="submenu-label" style="background-color: #93c47d">бесплатно</span>
+																																<div style="clear:both"></div>
+															</a>
+
+																																																																																																																																							<br>
+																																																																																															<a href="#" data-to-menu="2-18" class="text">
+																<span class="icon icon-comment-plus icon"></span>
+																<span>Добавить отзыв</span>
+																																<div style="clear:both"></div>
+															</a>
+
+																																																																	</div>
+																			</div>
+
+																	</div>
+							</div>
+											</li>
+									<li>
+																					<a href="#" data-to-menu="-3">
+									<span class="title">Афиша</span>
+								</a>
+																								</li>
+									<li>
+													<a><span class="title">Интересно</span></a>
+																			<div class="submenu c1-columns  without-banner ">
+								<div class="hood"></div>
+
+								<div class="row-flex">
+									<div class="left-block">
+																					<div class="column-1">
+																																																																				<a href="#" data-to-menu="2-30" class="text">
+																<span class="icon icon-question-mark icon"></span>
+																<span>Вопрос-ответ</span>
+																																<div style="clear:both"></div>
+															</a>
+
+																																																																																																														<a href="#" data-to-menu="2-71" class="text">
+																<span class="icon icon-social-n-brands-2376 icon"></span>
+																<span>Полезный город +1</span>
+																																<div style="clear:both"></div>
+															</a>
+
+																																																																																																														<a href="#" data-to-menu="2-36" class="text">
+																<span class="icon icon-diagram icon"></span>
+																<span>Опросы</span>
+																																<div style="clear:both"></div>
+															</a>
+
+																																																																																																														<a href="#" data-to-menu="2-31" class="text">
+																<span class="icon icon-book icon"></span>
+																<span>Советы и инструкции</span>
+																																<div style="clear:both"></div>
+															</a>
+
+																																																																																																														<a href="#" data-to-menu="2-69" class="text">
+																<span class="icon icon-education-0962 icon"></span>
+																<span>Статьи</span>
+																																<div style="clear:both"></div>
+															</a>
+
+																																																																																																														<a href="#" data-to-menu="2-65" class="text">
+																<span class="icon icon-ginger-man icon"></span>
+																<span>Спецпроекты</span>
+																																<div style="clear:both"></div>
+															</a>
+
+																																																																																																														<a href="#" data-to-menu="2-39" class="text">
+																<span class="icon icon-person-badge icon"></span>
+																<span>Персоны недели</span>
+																																<div style="clear:both"></div>
+															</a>
+
+																																																																																																														<a href="#" data-to-menu="2-42" class="text">
+																<span class="icon icon-weather icon"></span>
+																<span>Погода</span>
+																																<div style="clear:both"></div>
+															</a>
+
+																																																																	</div>
+																			</div>
+
+																	</div>
+							</div>
+											</li>
+									<li>
+																					<a href="#" data-to-menu="-6">
+									<span class="title">Справка</span>
+								</a>
+																										<div class="submenu c2-columns  without-banner ">
+								<div class="hood"></div>
+
+								<div class="row-flex">
+									<div class="left-block">
+																					<div class="column-1">
+																																																																																				<span class="text bold">Телефоны</span>
+															
+																																																																																																														<a href="#" data-to-menu="2-44" class="text">
+																<span class="icon icon-warning-car icon"></span>
+																<span>Аварийные и экстренные службы Калуги</span>
+																																<div style="clear:both"></div>
+															</a>
+
+																																																																																																														<a href="#" data-to-menu="2-45" class="text">
+																<span class="icon icon-taxi icon"></span>
+																<span>Такси Калуга</span>
+																																<div style="clear:both"></div>
+															</a>
+
+																																																																																																																														<a href="#" data-to-menu="1-46" class="text bold">Расписания</a>
+															
+																																																																																																														<a href="#" data-to-menu="2-47" class="text">
+																<span class="icon icon-train icon"></span>
+																<span>Расписания поездов Калуги</span>
+																																<div style="clear:both"></div>
+															</a>
+
+																																																																																																														<a href="#" data-to-menu="2-48" class="text">
+																<span class="icon icon-bus icon"></span>
+																<span>Расписание автобусов Калуга</span>
+																																<div style="clear:both"></div>
+															</a>
+
+																																																																																																														<a href="#" data-to-menu="2-49" class="text">
+																<span class="icon icon-com-train icon"></span>
+																<span>Расписание электричек Калуги</span>
+																																<div style="clear:both"></div>
+															</a>
+
+																																																																																																														<a href="#" data-to-menu="2-41" class="text">
+																<span class="icon icon-triangle icon"></span>
+																<span>Карта пробок Калуги</span>
+																																<div style="clear:both"></div>
+															</a>
+
+																																																																																																														<a href="#" data-to-menu="2-50" class="text">
+																<span class="icon icon-airplane icon"></span>
+																<span>Расписание авиарейсов Калуги</span>
+																																<div style="clear:both"></div>
+															</a>
+
+																																																																																																																																																																					</div>
+																					<div class="column-2">
+																																																																																																																																																																																																																																																																																																																					<a href="#" data-to-menu="1-51" class="text bold">Справочная информация</a>
+															
+																																																																																																														<a href="#" data-to-menu="2-52" class="text">
+																<span class="icon icon-drugstore icon"></span>
+																<span>Круглосуточные аптеки</span>
+																																<div style="clear:both"></div>
+															</a>
+
+																																																																																																														<a href="#" data-to-menu="2-53" class="text">
+																<span class="icon icon-cart icon"></span>
+																<span>Круглосуточные магазины</span>
+																																<div style="clear:both"></div>
+															</a>
+
+																																																																																																														<a href="#" data-to-menu="2-54" class="text">
+																<span class="icon icon-file icon"></span>
+																<span>МФЦ "Мои документы"</span>
+																																<div style="clear:both"></div>
+															</a>
+
+																																																																	</div>
+																			</div>
+
+																	</div>
+							</div>
+											</li>
+									<li>
+																					<a href="#" data-to-menu="-7">
+									<span class="title">Обратная связь</span>
+								</a>
+																										<div class="submenu c1-columns  without-banner ">
+								<div class="hood"></div>
+
+								<div class="row-flex">
+									<div class="left-block">
+																					<div class="column-1">
+																																																																				<a href="#" data-to-menu="2-56" class="text">
+																<span class="icon icon-opened-mail2 icon"></span>
+																<span>Контакты редакции</span>
+																																<div style="clear:both"></div>
+															</a>
+
+																																																																																																														<a href="#" data-to-menu="2-64" class="text">
+																<span class="icon icon-target icon"></span>
+																<span>Заказать рекламу</span>
+																																<div style="clear:both"></div>
+															</a>
+
+																																																																	</div>
+																			</div>
+
+																	</div>
+							</div>
+											</li>
+							</ul>
+		</div>
+
+		<div class="col-md-2 col-search hidden-sm">
+			<form action="https://www.kaluga-poisk.ru/search" class="form-search text-right">
+				<input type="search" name="search" pattern=".{2,}" placeholder="Поиск" value="">
+				<button class="btn-search"><img style="width: 13px; transform: scale(-1, 1);" class="svg-img-icon " src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgd2lkdGg9IjMycHgiIGhlaWdodD0iMzJweCIgdmlld0JveD0iMCAwIDMyIDMyIiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAzMiAzMiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+ICA8ZyBpZD0ic2VhcmNoIj4gICAgPHBhdGggZmlsbD0iIzAwMCIgZD0iTTcxOS43MDksNTkuODU0bC05LjA1Ny05LjExNmExLjAxMSwxLjAxMSwwLDAsMS0uMTEtMS4yNzMsMTMuOTA4LDEzLjkwOCwwLDEsMC0zLjk4MSw0LjAwNiwxLjAwNiwxLjAwNiwwLDAsMSwxLjI3OS4xMTFsOS4wMzYsOS4xYTEsMSwwLDAsMCwxLjQxNywwbDEuNDE0LTEuNDE0YTEsMSwwLDAsMCwwLTEuNDEyaDBaTTY5MS45LDQ4Ljg4M2E5LjkxLDkuOTEsMCwxLDEsMTQuMDE1LDAsOS45MjEsOS45MjEsMCwwLDEtMTQuMDE1LDBoMFoiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC02ODUgLTI4KSIvPiAgPC9nPiAgPC9zdmc+" alt="" title=""></button>
+			</form>
+		</div>
+
+	</div>
+</div>
+
+
+<div class="page-content">
+
+	
+	<div class="container main-page-layout">
+		<main class="col-md-8 col-sm-12">
+
+							<div class="row">
+	<div class="col-md-12">
+		<div class="latest-news-widget widget basic-widget p-all">
+			<div class="left-div-link">
+				<a href="https://www.kaluga-poisk.ru/news" class="linksheading">
+											Новости Калуги					
+				</a>
+			</div>
+
+			<div class="clearfix"></div>
+
+							<div class="row new frontend-news-list" >
+	<div class="col-sm-3" onclick="document.location.href=$('#top_news__61740').attr('href')">		
+		<div class="relative block hidden-xs">
+			
+							<img src="/system/Cover/images/000/301/988/thumb/2023-02-20_13-01-46.jpg" alt="В Калужской области этот год станет переломным в вопросах перезапуска автопроизводителей"  title="В Калужской области этот год станет переломным в вопросах перезапуска автопроизводителей" class="list-images">
+			
+			<span class="mobile-device-date">
+				20-02-2023			</span>
+		</div>
+
+		<div class="hidden-lg hidden-sm hidden-md">
+			<div class="relative" style="background:url('/system/Cover/images/000/301/988/medium/2023-02-20_13-01-46.jpg'); background-size:100%; background-position: 0;">
+				
+				<img src="/images/interface/white.png" alt="" class="opaque">
+				<span class="mobile-device-date">
+					20-02-2023 13:03				</span>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-sm-9">		
+		<a id="top_news__61740" href="https://www.kaluga-poisk.ru/news/obschestvo/v-kaluzhskoy-oblasti-etot-god-stanet-perelomnym-v-voprosah-perezapuska-avtoproizvoditeley" class="newstitle">В Калужской области этот год станет переломным в вопросах перезапуска автопроизводителей</a>		
+
+		
+		<div class="info">
+							<div class="separate tags inline">
+											<span class="pseudo-link">Общество</span> 
+									</div>
+			
+			<span class="separate information">
+				20-02-2023			</span>
+
+						<span class="separate comments comments_count" id="comcount61740" data-rel="61740">
+				1 комментарий			</span>
+			
+							<span class="separate views-count" title="Количество просмотров">
+					<img style="width:18px; top: -1px; margin-right: 3px;" class="svg-img-icon " src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiIHdpZHRoPSI1NC43cHgiIGhlaWdodD0iMjhweCIgdmlld0JveD0iMCAwIDU0LjcgMjgiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDU0LjcgMjg7IiB4bWw6c3BhY2U9InByZXNlcnZlIj48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWy5zdDB7ZmlsbDojODY4Njg2O31dXT48L3N0eWxlPjxnPjxnPjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik01NC4xLDEzLjNDNTMuNiwxMi44LDQyLDAsMjcuMywwUzEuMSwxMi44LDAuNiwxMy4zTDAsMTRsMC42LDAuN0MxLjEsMTUuMiwxMi43LDI4LDI3LjMsMjhzMjYuMy0xMi44LDI2LjctMTMuM2wwLjYtMC43TDU0LjEsMTMuM3ogTTI3LjMsMjZjLTExLjksMC0yMi05LjQtMjQuNi0xMkM1LjMsMTEuNCwxNS40LDIsMjcuMywyYzExLjksMCwyMiw5LjQsMjQuNiwxMkM0OS40LDE2LjYsMzkuMiwyNiwyNy4zLDI2eiBNMTYuMywxNGMwLDYuMSw0LjksMTEsMTEsMTFzMTEtNC45LDExLTExYzAtNi4xLTQuOS0xMS0xMS0xMVMxNi4zLDcuOSwxNi4zLDE0eiBNMzYuMywxNGMwLDUtNCw5LTksOXMtOS00LTktOXM0LTksOS05UzM2LjMsOSwzNi4zLDE0eiBNMjUuMywxNGMwLDEuMSwwLjksMiwyLDJzMi0wLjksMi0yYzAtMS4xLTAuOS0yLTItMlMyNS4zLDEyLjksMjUuMywxNHoiLz48L2c+PC9nPjwvc3ZnPg==" alt="" title="">					431 просмотр				</span>
+					</div>
+
+																															
+																																													
+
+	</div>
+</div>				
+							<div class="row new frontend-news-list" >
+	<div class="col-sm-3" onclick="document.location.href=$('#top_news__61741').attr('href')">		
+		<div class="relative block hidden-xs">
+			
+							<img src="/system/Cover/images/000/301/999/thumb/v-obninske-dvoe-detey-popali-p_1676889193.jpg" alt="В Обнинске двое детей попали под машины"  title="В Обнинске двое детей попали под машины" class="list-images">
+			
+			<span class="mobile-device-date">
+				20-02-2023			</span>
+		</div>
+
+		<div class="hidden-lg hidden-sm hidden-md">
+			<div class="relative" style="background:url('/system/Cover/images/000/301/999/medium/v-obninske-dvoe-detey-popali-p_1676889193.jpg'); background-size:100%; background-position: 0;">
+				
+				<img src="/images/interface/white.png" alt="" class="opaque">
+				<span class="mobile-device-date">
+					20-02-2023 12:41				</span>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-sm-9">		
+		<a id="top_news__61741" href="https://www.kaluga-poisk.ru/news/dtp/v-obninske-dvoe-detey-popali-pod-mashiny" class="newstitle">В Обнинске двое детей попали под машины</a>		
+
+		
+		<div class="info">
+							<div class="separate tags inline">
+											<span class="pseudo-link">ДТП</span> 
+									</div>
+			
+			<span class="separate information">
+				20-02-2023			</span>
+
+			
+							<span class="separate views-count" title="Количество просмотров">
+					<img style="width:18px; top: -1px; margin-right: 3px;" class="svg-img-icon " src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiIHdpZHRoPSI1NC43cHgiIGhlaWdodD0iMjhweCIgdmlld0JveD0iMCAwIDU0LjcgMjgiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDU0LjcgMjg7IiB4bWw6c3BhY2U9InByZXNlcnZlIj48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWy5zdDB7ZmlsbDojODY4Njg2O31dXT48L3N0eWxlPjxnPjxnPjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik01NC4xLDEzLjNDNTMuNiwxMi44LDQyLDAsMjcuMywwUzEuMSwxMi44LDAuNiwxMy4zTDAsMTRsMC42LDAuN0MxLjEsMTUuMiwxMi43LDI4LDI3LjMsMjhzMjYuMy0xMi44LDI2LjctMTMuM2wwLjYtMC43TDU0LjEsMTMuM3ogTTI3LjMsMjZjLTExLjksMC0yMi05LjQtMjQuNi0xMkM1LjMsMTEuNCwxNS40LDIsMjcuMywyYzExLjksMCwyMiw5LjQsMjQuNiwxMkM0OS40LDE2LjYsMzkuMiwyNiwyNy4zLDI2eiBNMTYuMywxNGMwLDYuMSw0LjksMTEsMTEsMTFzMTEtNC45LDExLTExYzAtNi4xLTQuOS0xMS0xMS0xMVMxNi4zLDcuOSwxNi4zLDE0eiBNMzYuMywxNGMwLDUtNCw5LTksOXMtOS00LTktOXM0LTksOS05UzM2LjMsOSwzNi4zLDE0eiBNMjUuMywxNGMwLDEuMSwwLjksMiwyLDJzMi0wLjksMi0yYzAtMS4xLTAuOS0yLTItMlMyNS4zLDEyLjksMjUuMywxNHoiLz48L2c+PC9nPjwvc3ZnPg==" alt="" title="">					411 просмотров				</span>
+					</div>
+
+																															
+																																													
+
+	</div>
+</div>				
+							<div class="row new frontend-news-list" >
+	<div class="col-sm-3" onclick="document.location.href=$('#top_news__61739').attr('href')">		
+		<div class="relative block hidden-xs">
+			
+							<img src="/system/Cover/images/000/301/987/thumb/v-kalugu-pridut-morozy-do-20-g_1676886603.jpg" alt="В Калугу придут морозы до -20 градусов"  title="В Калугу придут морозы до -20 градусов" class="list-images">
+			
+			<span class="mobile-device-date">
+				20-02-2023			</span>
+		</div>
+
+		<div class="hidden-lg hidden-sm hidden-md">
+			<div class="relative" style="background:url('/system/Cover/images/000/301/987/medium/v-kalugu-pridut-morozy-do-20-g_1676886603.jpg'); background-size:100%; background-position: 0;">
+				
+				<img src="/images/interface/white.png" alt="" class="opaque">
+				<span class="mobile-device-date">
+					20-02-2023 12:39				</span>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-sm-9">		
+		<a id="top_news__61739" href="https://www.kaluga-poisk.ru/news/pogoda/v-kalugu-pridut-morozy-do-20-gradusov" class="newstitle">В Калугу придут морозы до -20 градусов</a>		
+
+		
+		<div class="info">
+							<div class="separate tags inline">
+											<span class="pseudo-link">Погода</span> 
+									</div>
+			
+			<span class="separate information">
+				20-02-2023			</span>
+
+			
+							<span class="separate views-count" title="Количество просмотров">
+					<img style="width:18px; top: -1px; margin-right: 3px;" class="svg-img-icon " src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiIHdpZHRoPSI1NC43cHgiIGhlaWdodD0iMjhweCIgdmlld0JveD0iMCAwIDU0LjcgMjgiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDU0LjcgMjg7IiB4bWw6c3BhY2U9InByZXNlcnZlIj48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWy5zdDB7ZmlsbDojODY4Njg2O31dXT48L3N0eWxlPjxnPjxnPjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik01NC4xLDEzLjNDNTMuNiwxMi44LDQyLDAsMjcuMywwUzEuMSwxMi44LDAuNiwxMy4zTDAsMTRsMC42LDAuN0MxLjEsMTUuMiwxMi43LDI4LDI3LjMsMjhzMjYuMy0xMi44LDI2LjctMTMuM2wwLjYtMC43TDU0LjEsMTMuM3ogTTI3LjMsMjZjLTExLjksMC0yMi05LjQtMjQuNi0xMkM1LjMsMTEuNCwxNS40LDIsMjcuMywyYzExLjksMCwyMiw5LjQsMjQuNiwxMkM0OS40LDE2LjYsMzkuMiwyNiwyNy4zLDI2eiBNMTYuMywxNGMwLDYuMSw0LjksMTEsMTEsMTFzMTEtNC45LDExLTExYzAtNi4xLTQuOS0xMS0xMS0xMVMxNi4zLDcuOSwxNi4zLDE0eiBNMzYuMywxNGMwLDUtNCw5LTksOXMtOS00LTktOXM0LTksOS05UzM2LjMsOSwzNi4zLDE0eiBNMjUuMywxNGMwLDEuMSwwLjksMiwyLDJzMi0wLjksMi0yYzAtMS4xLTAuOS0yLTItMlMyNS4zLDEyLjksMjUuMywxNHoiLz48L2c+PC9nPjwvc3ZnPg==" alt="" title="">					393 просмотра				</span>
+					</div>
+
+																															
+																																													
+
+	</div>
+</div>				
+							<div class="row new frontend-news-list" >
+	<div class="col-sm-3" onclick="document.location.href=$('#top_news__61737').attr('href')">		
+		<div class="relative block hidden-xs">
+			
+							<img src="/system/Cover/images/000/301/984/thumb/raspisanie-poezdov-kaluga-mosk_1676885327.jpg" alt="Расписание поездов Калуга-Москва изменится на праздники"  title="Расписание поездов Калуга-Москва изменится на праздники" class="list-images">
+			
+			<span class="mobile-device-date">
+				20-02-2023			</span>
+		</div>
+
+		<div class="hidden-lg hidden-sm hidden-md">
+			<div class="relative" style="background:url('/system/Cover/images/000/301/984/medium/raspisanie-poezdov-kaluga-mosk_1676885327.jpg'); background-size:100%; background-position: 0;">
+				
+				<img src="/images/interface/white.png" alt="" class="opaque">
+				<span class="mobile-device-date">
+					20-02-2023 11:56				</span>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-sm-9">		
+		<a id="top_news__61737" href="https://www.kaluga-poisk.ru/news/opovesheniya/raspisanie-poezdov-kaluga-moskva-izmenitsya-na-prazdniki" class="newstitle">Расписание поездов Калуга-Москва изменится на праздники</a>		
+
+		
+		<div class="info">
+							<div class="separate tags inline">
+											<span class="pseudo-link">Оповещения</span> 
+									</div>
+			
+			<span class="separate information">
+				20-02-2023			</span>
+
+			
+							<span class="separate views-count" title="Количество просмотров">
+					<img style="width:18px; top: -1px; margin-right: 3px;" class="svg-img-icon " src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiIHdpZHRoPSI1NC43cHgiIGhlaWdodD0iMjhweCIgdmlld0JveD0iMCAwIDU0LjcgMjgiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDU0LjcgMjg7IiB4bWw6c3BhY2U9InByZXNlcnZlIj48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWy5zdDB7ZmlsbDojODY4Njg2O31dXT48L3N0eWxlPjxnPjxnPjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik01NC4xLDEzLjNDNTMuNiwxMi44LDQyLDAsMjcuMywwUzEuMSwxMi44LDAuNiwxMy4zTDAsMTRsMC42LDAuN0MxLjEsMTUuMiwxMi43LDI4LDI3LjMsMjhzMjYuMy0xMi44LDI2LjctMTMuM2wwLjYtMC43TDU0LjEsMTMuM3ogTTI3LjMsMjZjLTExLjksMC0yMi05LjQtMjQuNi0xMkM1LjMsMTEuNCwxNS40LDIsMjcuMywyYzExLjksMCwyMiw5LjQsMjQuNiwxMkM0OS40LDE2LjYsMzkuMiwyNiwyNy4zLDI2eiBNMTYuMywxNGMwLDYuMSw0LjksMTEsMTEsMTFzMTEtNC45LDExLTExYzAtNi4xLTQuOS0xMS0xMS0xMVMxNi4zLDcuOSwxNi4zLDE0eiBNMzYuMywxNGMwLDUtNCw5LTksOXMtOS00LTktOXM0LTksOS05UzM2LjMsOSwzNi4zLDE0eiBNMjUuMywxNGMwLDEuMSwwLjksMiwyLDJzMi0wLjksMi0yYzAtMS4xLTAuOS0yLTItMlMyNS4zLDEyLjksMjUuMywxNHoiLz48L2c+PC9nPjwvc3ZnPg==" alt="" title="">					337 просмотров				</span>
+					</div>
+
+																															
+																																													
+
+	</div>
+</div>				
+							<div class="row new frontend-news-list" >
+	<div class="col-sm-3" onclick="document.location.href=$('#top_news__61736').attr('href')">		
+		<div class="relative block hidden-xs">
+			
+							<img src="/system/Cover/images/000/301/982/thumb/v-kaluge-srochno-trebuetsya-kr_1676884559.jpg" alt="В Калуге срочно требуется кровь для 67-летней женщины"  title="В Калуге срочно требуется кровь для 67-летней женщины" class="list-images">
+			
+			<span class="mobile-device-date">
+				20-02-2023			</span>
+		</div>
+
+		<div class="hidden-lg hidden-sm hidden-md">
+			<div class="relative" style="background:url('/system/Cover/images/000/301/982/medium/v-kaluge-srochno-trebuetsya-kr_1676884559.jpg'); background-size:100%; background-position: 0;">
+				
+				<img src="/images/interface/white.png" alt="" class="opaque">
+				<span class="mobile-device-date">
+					20-02-2023 11:56				</span>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-sm-9">		
+		<a id="top_news__61736" href="https://www.kaluga-poisk.ru/news/opovesheniya/v-kaluge-srochno-trebuetsya-krov-dlya-67-letney-zhenschiny" class="newstitle">В Калуге срочно требуется кровь для 67-летней женщины</a>		
+
+		
+		<div class="info">
+							<div class="separate tags inline">
+											<span class="pseudo-link">Оповещения</span> 
+									</div>
+			
+			<span class="separate information">
+				20-02-2023			</span>
+
+			
+							<span class="separate views-count" title="Количество просмотров">
+					<img style="width:18px; top: -1px; margin-right: 3px;" class="svg-img-icon " src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiIHdpZHRoPSI1NC43cHgiIGhlaWdodD0iMjhweCIgdmlld0JveD0iMCAwIDU0LjcgMjgiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDU0LjcgMjg7IiB4bWw6c3BhY2U9InByZXNlcnZlIj48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWy5zdDB7ZmlsbDojODY4Njg2O31dXT48L3N0eWxlPjxnPjxnPjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik01NC4xLDEzLjNDNTMuNiwxMi44LDQyLDAsMjcuMywwUzEuMSwxMi44LDAuNiwxMy4zTDAsMTRsMC42LDAuN0MxLjEsMTUuMiwxMi43LDI4LDI3LjMsMjhzMjYuMy0xMi44LDI2LjctMTMuM2wwLjYtMC43TDU0LjEsMTMuM3ogTTI3LjMsMjZjLTExLjksMC0yMi05LjQtMjQuNi0xMkM1LjMsMTEuNCwxNS40LDIsMjcuMywyYzExLjksMCwyMiw5LjQsMjQuNiwxMkM0OS40LDE2LjYsMzkuMiwyNiwyNy4zLDI2eiBNMTYuMywxNGMwLDYuMSw0LjksMTEsMTEsMTFzMTEtNC45LDExLTExYzAtNi4xLTQuOS0xMS0xMS0xMVMxNi4zLDcuOSwxNi4zLDE0eiBNMzYuMywxNGMwLDUtNCw5LTksOXMtOS00LTktOXM0LTksOS05UzM2LjMsOSwzNi4zLDE0eiBNMjUuMywxNGMwLDEuMSwwLjksMiwyLDJzMi0wLjksMi0yYzAtMS4xLTAuOS0yLTItMlMyNS4zLDEyLjksMjUuMywxNHoiLz48L2c+PC9nPjwvc3ZnPg==" alt="" title="">					423 просмотра				</span>
+					</div>
+
+																															
+																																													
+
+	</div>
+</div>				
+					</div>
+
+			</div>
+</div>			
+			<div class="row">
+								<div class="col-md-6 col-sm-6" data-place="main-layout-1">
+					<div class="widget basic-widget p-all">
+		<div class="content-container">
+			<div class="list-items">
+									<div class="item large">
+	<div class="image image-md">
+		<a href=" https://www.kaluga-poisk.ru/news/zdravoohranenie/po-dannym-sogaz-med-muzhchinam-sleduet-bolshe-zabotitsya-o-svoem-zdorove">
+			<img src="/system/Cover/images/000/301/377/big/po-dannym-sogaz-med-muzhchinam_1676533893.jpg" alt="По данным &laquo;СОГАЗ-Мед&raquo;, мужчинам следует больше заботиться о своем здоровье " class="img">
+					</a>
+	</div>
+
+	<div class="title-container">
+		<a href="https://www.kaluga-poisk.ru/news/zdravoohranenie/po-dannym-sogaz-med-muzhchinam-sleduet-bolshe-zabotitsya-o-svoem-zdorove" class="title d-link dh-link">
+			По данным «СОГАЗ-Мед», мужчинам следует больше заботиться о своем здоровье 		</a>
+	</div>
+
+		<div class="after-title-container">
+		<div class="infsegments">
+		
+	<span class="infsegment-item infs-date">
+		20-02-2023	</span>	
+
+	
+	</div>	</div>
+	</div>									<div class="item large">
+	<div class="image image-md">
+		<a href=" https://www.kaluga-poisk.ru/news/obschestvo/v-kaluzhskom-otdelenii-sbera-podveli-itogi-2022-goda">
+			<img src="/system/Cover/images/000/301/577/big/v-kaluzhskom-otdelenii-sbera-p_1676620379.jpg" alt="В Калужском отделении Сбера подвели итоги 2022 года" class="img">
+					</a>
+	</div>
+
+	<div class="title-container">
+		<a href="https://www.kaluga-poisk.ru/news/obschestvo/v-kaluzhskom-otdelenii-sbera-podveli-itogi-2022-goda" class="title d-link dh-link">
+			В Калужском отделении Сбера подвели итоги 2022 года		</a>
+	</div>
+
+		<div class="after-title-container">
+		<div class="infsegments">
+		
+	<span class="infsegment-item infs-date">
+		17-02-2023	</span>	
+
+	
+		<span class="infsegment-item infs-comments">		
+		1 комментарий		
+	</span>
+	</div>	</div>
+	</div>									<div class="item large">
+	<div class="image image-md">
+		<a href=" https://www.kaluga-poisk.ru/news/obschestvo/bolee-500-kompaniy-rf-proshli-tsifrovuyu-transformatsiyu-so-sberom">
+			<img src="/system/Cover/images/000/301/417/big/bolee-500-kompaniy-rf-proshli-_1676547575.jpg" alt="Более 500 компаний РФ прошли цифровую трансформацию со Сбером" class="img">
+					</a>
+	</div>
+
+	<div class="title-container">
+		<a href="https://www.kaluga-poisk.ru/news/obschestvo/bolee-500-kompaniy-rf-proshli-tsifrovuyu-transformatsiyu-so-sberom" class="title d-link dh-link">
+			Более 500 компаний РФ прошли цифровую трансформацию со Сбером		</a>
+	</div>
+
+		<div class="after-title-container">
+		<div class="infsegments">
+		
+	<span class="infsegment-item infs-date">
+		16-02-2023	</span>	
+
+	
+		<span class="infsegment-item infs-comments">		
+		1 комментарий		
+	</span>
+	</div>	</div>
+	</div>									<div class="item large">
+	<div class="image image-md">
+		<a href=" https://www.kaluga-poisk.ru/news/novosti-rossii/novosibirskaya-oblast-horosho-vyglyadit-na-stroitelnoy-karte-v-regione-obsudili-aktualnye-voprosy-razvitiya-otrasli">
+			<img src="/system/Cover/images/000/301/408/big/DSC_0605.jpg" alt="Новосибирская область хорошо выглядит на строительной карте: в регионе обсудили актуальные вопросы развития отрасли" class="img">
+					</a>
+	</div>
+
+	<div class="title-container">
+		<a href="https://www.kaluga-poisk.ru/news/novosti-rossii/novosibirskaya-oblast-horosho-vyglyadit-na-stroitelnoy-karte-v-regione-obsudili-aktualnye-voprosy-razvitiya-otrasli" class="title d-link dh-link">
+			Новосибирская область хорошо выглядит на строительной карте: в регионе обсудили актуальные вопросы развития отрасли		</a>
+	</div>
+
+		<div class="after-title-container">
+		<div class="infsegments">
+		
+	<span class="infsegment-item infs-date">
+		16-02-2023	</span>	
+
+	
+	</div>	</div>
+	</div>							</div>
+		</div>
+	</div>
+
+				</div>
+				
+				<div class="col-md-6 col-sm-6" data-place="main-layout-2">
+											<!--googleoff: all-->
+<!--noindex-->
+	<section class="col-md-12 mb-30">
+		<div class="row">
+			<div class="afisha-event-item promo-item" data-id="12568"  style="box-shadow: 0px 15px 35px 0px rgba(200, 37, 44, 0.4);" >
+	<a href="https://www.kaluga-poisk.ru/afisha/sobytiya/otkrytie-sezona-katka-lyubimyy" class="image-link" >
+		
+														<div class="image" style="background-image: url('https://www.kaluga-poisk.ru/system/Cover/images/000/284/722/medium/obj_0_1667467990.jpg')"></div>
+
+									
+				<div class="rubrics">
+						<span class="rubric-title">событие</span>
+					</div>
+		
+			</a>
+
+		<div class="content-container" data-color="" style="background: rgb(200, 37, 44);background: -moz-linear-gradient(-45deg, rgba(200, 37, 44,1) 0%, rgba(232,68,79,1) 50%, rgba(200, 37, 44,1) 99%);background: -webkit-linear-gradient(-45deg, rgba(200, 37, 44,1) 0%,rgba(232,68,79,1) 50%,rgba(200, 37, 44,1) 99%);background: linear-gradient(135deg, rgba(200, 37, 44,1) 0%,rgba(232,68,79,1) 50%,rgba(200, 37, 44,1) 99%);">
+		<div class="row pos-r">
+			<div class="col-date text-center">
+				<div class="month-day">20</div>
+				<div class="month-name">фев</div>
+			</div>
+			<div class="col-content">
+				<a href="https://www.kaluga-poisk.ru/afisha/sobytiya/otkrytie-sezona-katka-lyubimyy" class="title">
+					 Открыт сезон катка "Любимый"				</a>
+				<span class="subtitle">Каток "Любимый"</span>
+			</div>
+		</div>
+	</div>
+
+	
+</div>
+					</div>
+	</section>
+
+	
+<!--/noindex-->
+<!--googleon: all-->					
+											<div class="widget basic-widget p-all">
+		
+		<div class="content-container">
+			<div class="list-items">
+									<div class="item small">
+	<div class="title-container">
+		<a href="https://www.kaluga-poisk.ru/news/obschestvo/v-kaluge-6-klassov-v-6-shkolah-zakryli-na-karantin" class="title d-link dh-link">
+			В Калуге 6 классов в 6 школах закрыли на карантин		</a>
+	</div>
+
+		<div class="after-title-container">
+		<div class="infsegments">
+		
+	<span class="infsegment-item infs-date">
+		20-02-2023	</span>	
+
+	
+	</div>	</div>
+	</div>									<div class="item small">
+	<div class="title-container">
+		<a href="https://www.kaluga-poisk.ru/news/obschestvo/v-kaluzhskoy-oblasti-uroven-zabolevaemosti-grippom-i-orvi-prakticheski-ne-izmenilsya" class="title d-link dh-link">
+			В Калужской области уровень заболеваемости гриппом и ОРВИ практически не из...		</a>
+	</div>
+
+		<div class="after-title-container">
+		<div class="infsegments">
+		
+	<span class="infsegment-item infs-date">
+		20-02-2023	</span>	
+
+	
+	</div>	</div>
+	</div>									<div class="item small">
+	<div class="title-container">
+		<a href="https://www.kaluga-poisk.ru/news/obschestvo/gubernator-poruchil-gorodskomu-golove-razobratsya-s-bezdomnymi-sobakami-v-kaluge" class="title d-link dh-link">
+			Губернатор поручил городскому голове разобраться с бездомными собаками в Ка...		</a>
+	</div>
+
+		<div class="after-title-container">
+		<div class="infsegments">
+		
+	<span class="infsegment-item infs-date">
+		20-02-2023	</span>	
+
+	
+	</div>	</div>
+	</div>									<div class="item small">
+	<div class="title-container">
+		<a href="https://www.kaluga-poisk.ru/news/politika/kaluzhskiy-ministr-podderzhal-ideyu-vzyat-severnyh-koreytsev-i-arabov-v-vs-rf" class="title d-link dh-link">
+			Калужский министр поддержал идею взять северных корейцев и арабов в ВС РФ		</a>
+	</div>
+
+		<div class="after-title-container">
+		<div class="infsegments">
+		
+	<span class="infsegment-item infs-date">
+		20-02-2023	</span>	
+
+	
+		<span class="infsegment-item infs-comments">		
+		1 комментарий		
+	</span>
+	</div>	</div>
+	</div>									<div class="item small">
+	<div class="title-container">
+		<a href="https://www.kaluga-poisk.ru/news/kriminal/v-kaluzhskoy-infektsionke-vyyavili-korruptsionnoe-prestuplenie-na-30-mln-rubley" class="title d-link dh-link">
+			В калужской "инфекционке" выявили коррупционное преступление на 30 млн рубл...		</a>
+	</div>
+
+		<div class="after-title-container">
+		<div class="infsegments">
+		
+	<span class="infsegment-item infs-date">
+		20-02-2023	</span>	
+
+	
+	</div>	</div>
+	</div>									<div class="item small">
+	<div class="title-container">
+		<a href="https://www.kaluga-poisk.ru/news/obschestvo/za-sutki-s-kaluzhskih-ulits-vyvezli-bolee-1700-kubometrov-snega" class="title d-link dh-link">
+			За сутки с калужских улиц вывезли более 1700 кубометров снега		</a>
+	</div>
+
+		<div class="after-title-container">
+		<div class="infsegments">
+		
+	<span class="infsegment-item infs-date">
+		20-02-2023	</span>	
+
+	
+	</div>	</div>
+	</div>									<div class="item small">
+	<div class="title-container">
+		<a href="https://www.kaluga-poisk.ru/news/obschestvo/v-kaluzhskoy-oblasti-10-muzeev-popolnyatsya-novym-oborudovaniem" class="title d-link dh-link">
+			В Калужской области 10 музеев пополнятся новым оборудованием		</a>
+	</div>
+
+		<div class="after-title-container">
+		<div class="infsegments">
+		
+	<span class="infsegment-item infs-date">
+		20-02-2023	</span>	
+
+	
+	</div>	</div>
+	</div>							</div>
+		</div>
+
+					<div class="footer-container text-center">
+				<a href="https://www.kaluga-poisk.ru/news?page=2"
+				   class="read-more-news mbtn mbtn-default mbtn-md mbtn-hbg">
+					Ещё больше новостей
+				</a>
+			</div>
+			</div>
+
+									</div>
+			</div>
+
+			<div class="row new">
+				<div class="col-sm-12">
+					<div class="brn-container" data-brn-place="left5_under">
+							<div class="brn-container-vc adv-sys" style="background-color: #f1f1f1;"
+								 data-brn-token=""
+								 data-brn-id="1275">
+								<div id="grf_kaluga-poiskru"></div>							</div>
+						</div>
+															
+				</div>
+			</div>
+		</main>
+
+		<aside class="col-md-4 col-sm-12 r-side">
+			<div class="row-mds">
+				<div class="col-sm-6 col-md-12">
+
+					<div class="brn-container" data-brn-place="right2">
+																	<a style="display: block; text-align: center;"
+									   href="https://www.kaluga-poisk.ru/bnrs_away/1179"
+									   target="_blank">
+								
+																	<img src="https://www.kaluga-poisk.ru/system/Cover/images/000/157/255/brn/marusya-fm_1595924981.jpg"
+										 class="brn-container-vc" alt="image"
+										 data-brn-token=""
+										 data-brn-id="1179">
+								
+																	</a>
+								
+															</div>
+																					
+
+											<!--googleoff: all-->
+<!--noindex-->	<div class="widget basic-widget p-all widget--important-notifications mt-30 with-border-top  ">
+		<div class="header-container">
+						<div class="linksheading">Важное оповещение</div>
+			
+					</div>
+
+		<div class="content-container">
+			<div class="list-items">
+							<div class="item mini ">
+	<div class="col-xs-2 col-img">
+					<a href="https://www.kaluga-poisk.ru/news/opovesheniya/26-fevralya-na-teatralnoy-ploschadi-ogranichat-dvizhenie-transporta" class="image image-square" style="background-image: url('/system/Cover/images/000/299/960/thumb/26-fevralya-na-teatralnoy-plos_1675867642.jpg')" >
+							</a>
+			</div>
+
+	<div class="col-xs-10 col-content col-vertical-center mh-50">
+		<div class="title-container">
+			<a href="https://www.kaluga-poisk.ru/news/opovesheniya/26-fevralya-na-teatralnoy-ploschadi-ogranichat-dvizhenie-transporta" class="title d-link dh-link" >26 февраля на Театральной площади ограничат движение транспорта</a>
+		</div>
+
+			</div>
+
+	<div class="clearfix"></div>
+</div>						</div>
+		</div>
+	</div>
+
+	
+<!--/noindex-->
+<!--googleon: all-->					
+					
+																					
+
+									</div>
+			</div>
+
+			<div class="row-mds">
+				<div class="col-sm-6 col-md-12">
+					<div class="brn-container" data-brn-place="right3">
+																	<a style="display: block; text-align: center;"
+									   href="https://www.kaluga-poisk.ru/bnrs_away/1398"
+									   target="_blank">
+								
+																	<img src="https://www.kaluga-poisk.ru/system/Cover/images/000/261/621/original/tsvety-ot-mitrofanova_1661761689.gif"
+										 class="brn-container-vc" alt="image"
+										 data-brn-token=""
+										 data-brn-id="1398">
+								
+																	</a>
+								
+															</div>
+																					
+
+											<div class="widget basic-widget p-all widget--leaders">
+		<div class="header-container">
+			<a href="https://www.kaluga-poisk.ru/offers" class="linksheading">
+				Акции компаний Калуги			</a>
+		</div>
+
+		<div class="content-container">
+			<div class="list-items">
+							<a href="https://www.kaluga-poisk.ru/catalog/objects/vetok-12050/offers/razdaem-podarki-pri-pervoy-vaktsinatsii" class="item mini with--after-title" style="display: block;">
+	<div class="col-xs-2 col-img">
+					<span class="image image-square" style="background-image: url('/system/Cover/images/000/015/354/logo/objects_12050_1540376694.png')">
+									<span class="star"></span>							</span>
+			</div>
+
+	<div class="col-xs-10 col-content ">
+		<div class="title-container">
+			<div class="title d-link dh-link">Раздаем подарки при первой вакцинации</div>
+		</div>
+
+				<div class="after-title-container">
+			ДокторВет, круглосуточная ветеринарная клиника		</div>
+			</div>
+
+	<div class="clearfix"></div>
+</a>							<a href="https://www.kaluga-poisk.ru/catalog/objects/vetok-12050/offers/aktsiya-dlya-teh-u-kogo-tri-i-bolee-zhivotnyh-skidka15" class="item mini with--after-title" style="display: block;">
+	<div class="col-xs-2 col-img">
+					<span class="image image-square" style="background-image: url('/system/Cover/images/000/015/354/logo/objects_12050_1540376694.png')">
+									<span class="star"></span>							</span>
+			</div>
+
+	<div class="col-xs-10 col-content ">
+		<div class="title-container">
+			<div class="title d-link dh-link">Акция! Для тех у кого три и более животных скидка15%</div>
+		</div>
+
+				<div class="after-title-container">
+			ДокторВет, круглосуточная ветеринарная клиника		</div>
+			</div>
+
+	<div class="clearfix"></div>
+</a>							<a href="https://www.kaluga-poisk.ru/catalog/objects/joy-fit-dzhoy-fit-kaluga/offers/poprobuy-besplatno" class="item mini with--after-title" style="display: block;">
+	<div class="col-xs-2 col-img">
+					<span class="image image-square" style="background-image: url('/system/Cover/images/000/077/904/logo/avatarka.jpg')">
+									<span class="star"></span>							</span>
+			</div>
+
+	<div class="col-xs-10 col-content ">
+		<div class="title-container">
+			<div class="title d-link dh-link">Попробуй бесплатно</div>
+		</div>
+
+				<div class="after-title-container">
+			JoyFit (Джой Фит), фитнес-клуб		</div>
+			</div>
+
+	<div class="clearfix"></div>
+</a>							<a href="https://www.kaluga-poisk.ru/catalog/objects/akva-lyuks-kaluga-8688/offers/pompa-v-podarok" class="item mini with--after-title" style="display: block;">
+	<div class="col-xs-2 col-img">
+					<span class="image image-square" style="background-image: url('/system/Cover/images/000/155/235/logo/akva-lyuks-kaluga-8688_1589286328.png')">
+									<span class="star"></span>							</span>
+			</div>
+
+	<div class="col-xs-10 col-content ">
+		<div class="title-container">
+			<div class="title d-link dh-link">Помпа в подарок</div>
+		</div>
+
+				<div class="after-title-container">
+			Аква Люкс,  служба доставки питьевой воды		</div>
+			</div>
+
+	<div class="clearfix"></div>
+</a>						</div>
+		</div>		
+	</div>
+
+						
+					
+					
+									</div>
+			</div>
+		</aside>
+	</div>
+
+	<div class="container">
+		<div class="list-of-widgets">
+			<div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
+									<div class="widget basic-widget p-all">
+		<div class="header-container">
+			<div class="linksheading">
+				Комментарии к новостям			</div>
+		</div>
+
+		<div class="content-container">
+			<div class="list-items">
+							
+				<div class="item mini ">
+	<div class="col-xs-2 col-img">
+					<a href="https://www.kaluga-poisk.ru/people-news/otnosheniya/priyutila-u-sebya-plemyannika-studenta-i-iz-za-nego-isportila-otnosheniya-so-vsey-rodney#cm-394646" class="image image-circle image-letter"  style="background-color: #90a4ae" >
+				А			</a>
+			</div>
+
+	<div class="col-xs-10 col-content col-vertical-center mh-50">
+		<div class="title-container">
+			<a href="https://www.kaluga-poisk.ru/people-news/otnosheniya/priyutila-u-sebya-plemyannika-studenta-i-iz-za-nego-isportila-otnosheniya-so-vsey-rodney#cm-394646" class="title d-link dh-link btn-to-curpage-comments" data-id="394646">
+				Переживать не надо, он не ваш сын, тем более дурно воспитан! Язык мой, Враг...			</a>
+		</div>
+
+			</div>
+
+	<div class="clearfix"></div>
+</div>							
+				<div class="item mini ">
+	<div class="col-xs-2 col-img">
+					<a href="https://www.kaluga-poisk.ru/people-news/otnosheniya/vinyu-sebya-za-to-chto-lezla-v-pervyy-brak-svoego-syna-potomu-chto-teper-on-uzhe-dvazhdy-razveden#cm-394645" class="image image-circle image-letter"  style="background-color: #a70c12" >
+				Н			</a>
+			</div>
+
+	<div class="col-xs-10 col-content col-vertical-center mh-50">
+		<div class="title-container">
+			<a href="https://www.kaluga-poisk.ru/people-news/otnosheniya/vinyu-sebya-za-to-chto-lezla-v-pervyy-brak-svoego-syna-potomu-chto-teper-on-uzhe-dvazhdy-razveden#cm-394645" class="title d-link dh-link btn-to-curpage-comments" data-id="394645">
+				Надо не перед нами каяться, а перед сыном, нам её покаяние зачем? 			</a>
+		</div>
+
+			</div>
+
+	<div class="clearfix"></div>
+</div>							
+				<div class="item mini ">
+	<div class="col-xs-2 col-img">
+					<a href="https://www.kaluga-poisk.ru/people-news/otnosheniya/vinyu-sebya-za-to-chto-lezla-v-pervyy-brak-svoego-syna-potomu-chto-teper-on-uzhe-dvazhdy-razveden#cm-394644" class="image image-circle image-letter"  style="background-color: #a70c12" >
+				А			</a>
+			</div>
+
+	<div class="col-xs-10 col-content col-vertical-center mh-50">
+		<div class="title-container">
+			<a href="https://www.kaluga-poisk.ru/people-news/otnosheniya/vinyu-sebya-za-to-chto-lezla-v-pervyy-brak-svoego-syna-potomu-chto-teper-on-uzhe-dvazhdy-razveden#cm-394644" class="title d-link dh-link btn-to-curpage-comments" data-id="394644">
+				По сути, я вот такая вот Катя из рассказа. Слава богу мне не досталась така...			</a>
+		</div>
+
+			</div>
+
+	<div class="clearfix"></div>
+</div>							
+				<div class="item mini ">
+	<div class="col-xs-2 col-img">
+					<a href="https://www.kaluga-poisk.ru/people-news/otnosheniya/svekrov-i-ne-podumala-skazat-chto-boleet-kogda-pozvala-menya-beremennuyu-na-den-rozhdeniya#cm-394643" class="image image-circle image-letter"  style="background-color: #90a4ae" >
+				Е			</a>
+			</div>
+
+	<div class="col-xs-10 col-content col-vertical-center mh-50">
+		<div class="title-container">
+			<a href="https://www.kaluga-poisk.ru/people-news/otnosheniya/svekrov-i-ne-podumala-skazat-chto-boleet-kogda-pozvala-menya-beremennuyu-na-den-rozhdeniya#cm-394643" class="title d-link dh-link btn-to-curpage-comments" data-id="394643">
+				Действительно, не видеться с ребёнком пока результаты теста скажут, а если...			</a>
+		</div>
+
+			</div>
+
+	<div class="clearfix"></div>
+</div>							
+				<div class="item mini ">
+	<div class="col-xs-2 col-img">
+					<a href="https://www.kaluga-poisk.ru/people-news/otnosheniya/muzh-schitaet-chto-ya-obyazana-delat-vse-za-ego-mamu-raz-voshla-v-semyu#cm-394642" class="image image-circle image-letter"  style="background-color: #c8252c" >
+				И			</a>
+			</div>
+
+	<div class="col-xs-10 col-content col-vertical-center mh-50">
+		<div class="title-container">
+			<a href="https://www.kaluga-poisk.ru/people-news/otnosheniya/muzh-schitaet-chto-ya-obyazana-delat-vse-za-ego-mamu-raz-voshla-v-semyu#cm-394642" class="title d-link dh-link btn-to-curpage-comments" data-id="394642">
+				Нужно всё же разделять необходимость, но по желанию (когда семья и всё друж...			</a>
+		</div>
+
+			</div>
+
+	<div class="clearfix"></div>
+</div>						</div>
+		</div>
+	</div>
+					
+									<div class="widget basic-widget p-all widget--leaders">
+		<div class="header-container">
+			<div class="linksheading">
+				Лидеры рынка			</div>
+		</div>
+
+		<div class="content-container">
+			<div class="list-items">
+							<div class="item mini with--after-title">
+	<div class="col-xs-2 col-img">
+					<a href="https://www.kaluga-poisk.ru/bnrs_away/424" class="image image-square" style="background-image: url('/system/Cover/images/000/031/956/original/klin servis (1).jpg')"  target="_blank" >
+									<span class="star"></span>							</a>
+			</div>
+
+	<div class="col-xs-10 col-content ">
+		<div class="title-container">
+			<a href="https://www.kaluga-poisk.ru/bnrs_away/424" class="title d-link dh-link"  target="_blank" >КлинСервис</a>
+		</div>
+
+				<div class="after-title-container">
+			Клининговые компании		</div>
+			</div>
+
+	<div class="clearfix"></div>
+</div>						</div>
+		</div>
+	</div>
+
+								</div>
+
+			<div class="col-md-4 col-lg-4 leaders col-sm-6 col-xs-12">
+									<div class="widget p-all info-item-widget">
+		<div class="title-container">
+					<a href="https://www.kaluga-poisk.ru/persons" class="linksheading with-l-brackets">
+				Персона недели			</a>
+			</div>
+	
+	<div class="content-container">
+					<a href="https://www.kaluga-poisk.ru/persons/mozhno-li-v-kaluge-zarabatyvat-kak-v-moskve" class="d-link">
+				<div class="image image-square">
+					<img src="/system/Cover/images/000/266/151/medium/mozhno-li-v-kaluge-zarabatyvat_1657014200.jpg" alt="">
+				</div>
+
+								<div class="content-title">
+					Павел Специан				</div>
+							</a>
+		
+				<div class="content-description">
+			Можно ли в Калуге зарабатывать как в Москве?		</div>
+			</div>
+
+	<div class="footer-container text-center">
+				<a href="https://www.kaluga-poisk.ru/persons/mozhno-li-v-kaluge-zarabatyvat-kak-v-moskve" class="mbtn mbtn-sm mbtn-default mbtn-hbg">
+			узнать подробнее		</a>
+			</div>
+</div>
+				
+									<div class="widget poll-widget p-all" >
+		<div class="title-container">
+			<a href="https://www.kaluga-poisk.ru/opros-kaluga/kaluzhane-soobschayut-o-vstrechah-s-nlo" class="linksheading">
+				Как вы думаете, светящиеся шары в небе - это НЛО?			</a>
+		</div>
+
+		<div class="content-container">
+			<div class="poll-stat">
+	<div class="info-row voted-cnt">В опросе уже проголосовали <span class="cnt">61 раз</span></div>
+	</div>
+
+<div class="poll-answers " data-poll_id="1048" data-voted="61">
+			<div class="answer-item" data-id="4932" data-voted="14">
+		<div class="title">
+			да		</div>
+		<div class="rate">
+			<div class="progress-line-container">
+				<div class="progress-inner" ></div>
+			</div>
+			<div class="percent">
+				23%
+			</div>
+		</div>
+	</div>
+			<div class="answer-item" data-id="4933" data-voted="6">
+		<div class="title">
+			не верю в НЛО		</div>
+		<div class="rate">
+			<div class="progress-line-container">
+				<div class="progress-inner" ></div>
+			</div>
+			<div class="percent">
+				10%
+			</div>
+		</div>
+	</div>
+			<div class="answer-item" data-id="4934" data-voted="8">
+		<div class="title">
+			это природное явление		</div>
+		<div class="rate">
+			<div class="progress-line-container">
+				<div class="progress-inner" ></div>
+			</div>
+			<div class="percent">
+				13%
+			</div>
+		</div>
+	</div>
+			<div class="answer-item" data-id="4935" data-voted="23">
+		<div class="title">
+			думаю, что это дело рук человека		</div>
+		<div class="rate">
+			<div class="progress-line-container">
+				<div class="progress-inner" ></div>
+			</div>
+			<div class="percent">
+				38%
+			</div>
+		</div>
+	</div>
+			<div class="answer-item" data-id="4936" data-voted="10">
+		<div class="title">
+			мы никогда об этом не узнаем		</div>
+		<div class="rate">
+			<div class="progress-line-container">
+				<div class="progress-inner" ></div>
+			</div>
+			<div class="percent">
+				16%
+			</div>
+		</div>
+	</div>
+	</div>		</div>
+
+		<div class="footer-container text-center">
+			<button class="mbtn mbtn-default mbtn-hbg mbtn-sm btn-change-poll">показать другой опрос</button>
+		</div>
+	</div>
+
+					
+							</div>
+
+			<div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
+									<div class="widget basic-widget p-all">
+		<div class="header-container">
+			<a href="https://www.kaluga-poisk.ru/people-news" class="linksheading">
+				Народные новости			</a>
+		</div>
+
+		<div class="content-container">
+			<div class="list-items">
+							
+				<div class="item mini with--after-title">
+	<div class="col-xs-2 col-img">
+					<a href="https://www.kaluga-poisk.ru/people-news/otnosheniya/doch-priglasila-v-dom-sestru-vse-by-nichego-no-etot-rebenok-hodyachee-dokazatelstvo-izmeny-supruga" class="image image-square" style="background-image: url('/system/Cover/images/000/301/892/thumb/doch-priglasila-v-dom-sestru-v_1676840978.jpg')" >
+							</a>
+			</div>
+
+	<div class="col-xs-10 col-content ">
+		<div class="title-container">
+			<a href="https://www.kaluga-poisk.ru/people-news/otnosheniya/doch-priglasila-v-dom-sestru-vse-by-nichego-no-etot-rebenok-hodyachee-dokazatelstvo-izmeny-supruga" class="title d-link dh-link" >Дочь пригласила в дом сестру. Все бы ничего, но этот ребенок - ходячее дока...</a>
+		</div>
+
+				<div class="after-title-container">
+			<div class="infsegments">
+	<span class="infsegment-item infs-date">
+		20.02.2023	</span>
+
+	<span class="infsegment-item infs-time">
+		12:30	</span>
+
+	<span class="infsegment-item infs-views">
+		<img style="width:18px" class="svg-img-icon " src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiIHdpZHRoPSI1NC43cHgiIGhlaWdodD0iMjhweCIgdmlld0JveD0iMCAwIDU0LjcgMjgiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDU0LjcgMjg7IiB4bWw6c3BhY2U9InByZXNlcnZlIj48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWy5zdDB7ZmlsbDojODY4Njg2O31dXT48L3N0eWxlPjxnPjxnPjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik01NC4xLDEzLjNDNTMuNiwxMi44LDQyLDAsMjcuMywwUzEuMSwxMi44LDAuNiwxMy4zTDAsMTRsMC42LDAuN0MxLjEsMTUuMiwxMi43LDI4LDI3LjMsMjhzMjYuMy0xMi44LDI2LjctMTMuM2wwLjYtMC43TDU0LjEsMTMuM3ogTTI3LjMsMjZjLTExLjksMC0yMi05LjQtMjQuNi0xMkM1LjMsMTEuNCwxNS40LDIsMjcuMywyYzExLjksMCwyMiw5LjQsMjQuNiwxMkM0OS40LDE2LjYsMzkuMiwyNiwyNy4zLDI2eiBNMTYuMywxNGMwLDYuMSw0LjksMTEsMTEsMTFzMTEtNC45LDExLTExYzAtNi4xLTQuOS0xMS0xMS0xMVMxNi4zLDcuOSwxNi4zLDE0eiBNMzYuMywxNGMwLDUtNCw5LTksOXMtOS00LTktOXM0LTksOS05UzM2LjMsOSwzNi4zLDE0eiBNMjUuMywxNGMwLDEuMSwwLjksMiwyLDJzMi0wLjksMi0yYzAtMS4xLTAuOS0yLTItMlMyNS4zLDEyLjksMjUuMywxNHoiLz48L2c+PC9nPjwvc3ZnPg==" alt="" title=""> 591	</span>
+
+	</div>		</div>
+			</div>
+
+	<div class="clearfix"></div>
+</div>							
+				<div class="item mini with--after-title">
+	<div class="col-xs-2 col-img">
+					<a href="https://www.kaluga-poisk.ru/people-news/sosedi/razvyazala-voynu-s-kurilschikami-v-podezde-teper-u-menya-slava-mestnoy-sumasshedshey" class="image image-square" style="background-image: url('/system/Cover/images/000/301/890/thumb/razvyazala-voynu-s-kurilschika_1676840381.jpg')" >
+							</a>
+			</div>
+
+	<div class="col-xs-10 col-content ">
+		<div class="title-container">
+			<a href="https://www.kaluga-poisk.ru/people-news/sosedi/razvyazala-voynu-s-kurilschikami-v-podezde-teper-u-menya-slava-mestnoy-sumasshedshey" class="title d-link dh-link" >Развязала войну с курильщиками в подъезде. Теперь у меня слава местной сума...</a>
+		</div>
+
+				<div class="after-title-container">
+			<div class="infsegments">
+	<span class="infsegment-item infs-date">
+		20.02.2023	</span>
+
+	<span class="infsegment-item infs-time">
+		10:30	</span>
+
+	<span class="infsegment-item infs-views">
+		<img style="width:18px" class="svg-img-icon " src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiIHdpZHRoPSI1NC43cHgiIGhlaWdodD0iMjhweCIgdmlld0JveD0iMCAwIDU0LjcgMjgiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDU0LjcgMjg7IiB4bWw6c3BhY2U9InByZXNlcnZlIj48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWy5zdDB7ZmlsbDojODY4Njg2O31dXT48L3N0eWxlPjxnPjxnPjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik01NC4xLDEzLjNDNTMuNiwxMi44LDQyLDAsMjcuMywwUzEuMSwxMi44LDAuNiwxMy4zTDAsMTRsMC42LDAuN0MxLjEsMTUuMiwxMi43LDI4LDI3LjMsMjhzMjYuMy0xMi44LDI2LjctMTMuM2wwLjYtMC43TDU0LjEsMTMuM3ogTTI3LjMsMjZjLTExLjksMC0yMi05LjQtMjQuNi0xMkM1LjMsMTEuNCwxNS40LDIsMjcuMywyYzExLjksMCwyMiw5LjQsMjQuNiwxMkM0OS40LDE2LjYsMzkuMiwyNiwyNy4zLDI2eiBNMTYuMywxNGMwLDYuMSw0LjksMTEsMTEsMTFzMTEtNC45LDExLTExYzAtNi4xLTQuOS0xMS0xMS0xMVMxNi4zLDcuOSwxNi4zLDE0eiBNMzYuMywxNGMwLDUtNCw5LTksOXMtOS00LTktOXM0LTksOS05UzM2LjMsOSwzNi4zLDE0eiBNMjUuMywxNGMwLDEuMSwwLjksMiwyLDJzMi0wLjksMi0yYzAtMS4xLTAuOS0yLTItMlMyNS4zLDEyLjksMjUuMywxNHoiLz48L2c+PC9nPjwvc3ZnPg==" alt="" title=""> 828	</span>
+
+	</div>		</div>
+			</div>
+
+	<div class="clearfix"></div>
+</div>							
+				<div class="item mini with--after-title">
+	<div class="col-xs-2 col-img">
+					<a href="https://www.kaluga-poisk.ru/people-news/otnosheniya/svekrov-i-ne-podumala-skazat-chto-boleet-kogda-pozvala-menya-beremennuyu-na-den-rozhdeniya" class="image image-square" style="background-image: url('/system/Cover/images/000/301/889/thumb/svekrov-i-ne-podumala-skazat-c_1676839916.jpg')" >
+							</a>
+			</div>
+
+	<div class="col-xs-10 col-content ">
+		<div class="title-container">
+			<a href="https://www.kaluga-poisk.ru/people-news/otnosheniya/svekrov-i-ne-podumala-skazat-chto-boleet-kogda-pozvala-menya-beremennuyu-na-den-rozhdeniya" class="title d-link dh-link" >Свекровь и не подумала сказать, что болеет, когда позвала меня беременную н...</a>
+		</div>
+
+				<div class="after-title-container">
+			<div class="infsegments">
+	<span class="infsegment-item infs-date">
+		20.02.2023	</span>
+
+	<span class="infsegment-item infs-time">
+		09:30	</span>
+
+	<span class="infsegment-item infs-views">
+		<img style="width:18px" class="svg-img-icon " src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiIHdpZHRoPSI1NC43cHgiIGhlaWdodD0iMjhweCIgdmlld0JveD0iMCAwIDU0LjcgMjgiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDU0LjcgMjg7IiB4bWw6c3BhY2U9InByZXNlcnZlIj48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWy5zdDB7ZmlsbDojODY4Njg2O31dXT48L3N0eWxlPjxnPjxnPjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik01NC4xLDEzLjNDNTMuNiwxMi44LDQyLDAsMjcuMywwUzEuMSwxMi44LDAuNiwxMy4zTDAsMTRsMC42LDAuN0MxLjEsMTUuMiwxMi43LDI4LDI3LjMsMjhzMjYuMy0xMi44LDI2LjctMTMuM2wwLjYtMC43TDU0LjEsMTMuM3ogTTI3LjMsMjZjLTExLjksMC0yMi05LjQtMjQuNi0xMkM1LjMsMTEuNCwxNS40LDIsMjcuMywyYzExLjksMCwyMiw5LjQsMjQuNiwxMkM0OS40LDE2LjYsMzkuMiwyNiwyNy4zLDI2eiBNMTYuMywxNGMwLDYuMSw0LjksMTEsMTEsMTFzMTEtNC45LDExLTExYzAtNi4xLTQuOS0xMS0xMS0xMVMxNi4zLDcuOSwxNi4zLDE0eiBNMzYuMywxNGMwLDUtNCw5LTksOXMtOS00LTktOXM0LTksOS05UzM2LjMsOSwzNi4zLDE0eiBNMjUuMywxNGMwLDEuMSwwLjksMiwyLDJzMi0wLjksMi0yYzAtMS4xLTAuOS0yLTItMlMyNS4zLDEyLjksMjUuMywxNHoiLz48L2c+PC9nPjwvc3ZnPg==" alt="" title=""> 4853	</span>
+
+	</div>		</div>
+			</div>
+
+	<div class="clearfix"></div>
+</div>						</div>
+		</div>
+
+		<div class="footer-container text-center">
+			<a href="https://www.kaluga-poisk.ru/people-news/create" class="mbtn mbtn-filled mbtn-md mbtn-hbg">
+				добавить свою новость
+			</a>
+		</div>
+	</div>
+
+					
+									<div class="widget basic-widget p-all">
+		<div class="header-container">
+			<a href="https://www.kaluga-poisk.ru/vopros-otvet" class="linksheading">
+				Вопрос-ответ			</a>
+		</div>
+
+		<div class="content-container">
+			<div class="list-items">
+							
+				<div class="item small">
+	<div class="title-container">
+		<a href="https://www.kaluga-poisk.ru/vopros-otvet/pochemu-zakrylsya-magnit-supermarket-na-pravom" class="title d-link dh-link">
+			почему закрылся Магнит супермаркет на правом?		</a>
+	</div>
+
+		<div class="after-title-container">
+		<div class="infsegments">
+	<span class="infsegment-item infs-comments empty">
+				пока нет ответов
+			</span>
+</div>	</div>
+	</div>							
+				<div class="item small">
+	<div class="title-container">
+		<a href="https://www.kaluga-poisk.ru/vopros-otvet/kak-ot-avtovokzala-v-kaluge-doehat-do-zavoda-volvo-raspisanie-utrennee" class="title d-link dh-link">
+			Как от автовокзала в калуге доехать до завода вольво расписание утреннее		</a>
+	</div>
+
+		<div class="after-title-container">
+		<div class="infsegments">
+	<span class="infsegment-item infs-comments empty">
+				пока нет ответов
+			</span>
+</div>	</div>
+	</div>							
+				<div class="item small">
+	<div class="title-container">
+		<a href="https://www.kaluga-poisk.ru/vopros-otvet/remont-verhney-odezhdy" class="title d-link dh-link">
+			Ремонт верхней одежды		</a>
+	</div>
+
+		<div class="after-title-container">
+		<div class="infsegments">
+	<span class="infsegment-item infs-comments empty">
+				пока нет ответов
+			</span>
+</div>	</div>
+	</div>						</div>
+		</div>
+
+		<div class="footer-container text-center">
+			<a href="https://www.kaluga-poisk.ru/vopros-otvet/create" class="mbtn mbtn-filled mbtn-md mbtn-hbg">
+				задать свой вопрос
+			</a>
+		</div>
+	</div>
+
+	
+				
+							</div>
+		</div>
+	</div>
+
+	<div class="container">
+		<div class="col-md-8">
+							<section class="latest-news-widget widget basic-widget p-all news-company">
+		<h4 class="linksheading">
+			Новости компаний		</h4>
+
+								<div class="row new frontend-news-list">
+				<div class="col-xs-4 col-sm-3">
+					<a href="https://www.kaluga-poisk.ru/news/novosti-kompanii/gde-kupit-metall-v-moskve">
+													<div class="object-image-news">Г</div>
+											</a>
+				</div>
+				<div class="col-xs-8 col-sm-9">
+					<div class="newstitle">
+						<a href="https://www.kaluga-poisk.ru/news/novosti-kompanii/gde-kupit-metall-v-moskve" class="itemtitle" style="color: #000011">Где купить металл в Москве</a>
+					</div>
+					<div class="info" style="margin-bottom: 5px">
+						
+						<span class="separate information">
+							20-02-2023						</span>
+					</div>
+					<div class="text">
+						Реализация металлопроката и пиломатериалов - это сложный процесс, который должен осуществлять профес...					</div>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+								<div class="row new frontend-news-list">
+				<div class="col-xs-4 col-sm-3">
+					<a href="https://www.kaluga-poisk.ru/news/novosti-kompanii/pavel-stipidi-podderzhal-reshenie-novogo-rukovodstva-lokomotiva-peredat-dzhirano-kerka-v-arendu">
+													<div class="object-image-news"><img src="/system/Cover/images/000/301/198/thumb/pavel-stipidi-podderzhal-reshe_1676548539.jpg" alt="Павел Стипиди поддержал решение нового руководства &laquo;Локомотива&raquo; передать Джирано Керка в аренду" class="list-images"></div>
+											</a>
+				</div>
+				<div class="col-xs-8 col-sm-9">
+					<div class="newstitle">
+						<a href="https://www.kaluga-poisk.ru/news/novosti-kompanii/pavel-stipidi-podderzhal-reshenie-novogo-rukovodstva-lokomotiva-peredat-dzhirano-kerka-v-arendu" class="itemtitle" style="color: #000011">Павел Стипиди поддержал решение нового руководства «Локомотива» передать Джирано Керка в аренду</a>
+					</div>
+					<div class="info" style="margin-bottom: 5px">
+						
+						<span class="separate information">
+							15-02-2023						</span>
+					</div>
+					<div class="text">
+						Спортивный корреспондент и преданный поклонник ФК &laquo;Локомотив&raquo; Максим Мацкепладзе внимате...					</div>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+								<div class="row new frontend-news-list">
+				<div class="col-xs-4 col-sm-3">
+					<a href="https://www.kaluga-poisk.ru/catalog/objects/poligran-kaluga/news/konstruktivnye-resheniya-po-zaschite-betonnyh-polov">
+													<div class="object-image-news"><img src="/system/Cover/images/000/241/613/logo/poligran-kaluga_1676385805.png" alt="КОНСТРУКТИВНЫЕ РЕШЕНИЯ ПО ЗАЩИТЕ БЕТОННЫХ ПОЛОВ" class="list-images"></div>
+											</a>
+				</div>
+				<div class="col-xs-8 col-sm-9">
+					<div class="newstitle">
+						<a href="https://www.kaluga-poisk.ru/catalog/objects/poligran-kaluga/news/konstruktivnye-resheniya-po-zaschite-betonnyh-polov" class="itemtitle" style="color: #000011">КОНСТРУКТИВНЫЕ РЕШЕНИЯ ПО ЗАЩИТЕ БЕТОННЫХ ПОЛОВ</a>
+					</div>
+					<div class="info" style="margin-bottom: 5px">
+												<div class="separate tags inline">
+							<div class="separate tags inline">
+								<a href="https://www.kaluga-poisk.ru/catalog/objects/poligran-kaluga/news/konstruktivnye-resheniya-po-zaschite-betonnyh-polov">Полигран</a>
+							</div>
+						</div>
+						
+						<span class="separate information">
+							14-02-2023						</span>
+					</div>
+					<div class="text">
+						Простое увеличение марки бетона не приводит к получению беспыльных и долговечных полов. Одной из осн...					</div>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+		
+		<div class="text-center">
+			<a href="/news/novosti-kompanii" class="mbtn mbtn-filled mbtn-md mbtn-hbg">
+				Посмотреть все новости компаний
+			</a>
+		</div>
+	</section>
+
+	
+			
+			<div class="row">
+				<div class="col-md-6">
+									</div>
+				<div class="col-md-6">
+									</div>
+			</div>
+		</div>
+
+		<div class="col-md-4">
+			<div class="row">
+				<div class="col-md-12 col-sm-6">
+									</div>
+				<div class="col-md-12 col-sm-6">
+											<div class="widget basic-widget p-all widget--top-city-companies">
+		<div class="header-container">
+			<div class="linksheading">
+				Топ компаний города			</div>
+		</div>
+
+		<div class="content-container">
+			<div class="list-items">
+							
+				<div class="item mini ">
+	<div class="col-xs-2 col-img">
+					<a href="https://www.kaluga-poisk.ru/catalog/objects/klinservis" class="image image-square" style="background-image: url('/system/Cover/images/000/019/213/thumb/klin servis.jpg')" >
+							</a>
+			</div>
+
+	<div class="col-xs-10 col-content col-vertical-center mh-50">
+		<div class="title-container">
+			<a href="https://www.kaluga-poisk.ru/catalog/objects/klinservis" class="title d-link dh-link" >КлинСервис, клининговая компания</a>
+		</div>
+
+			</div>
+
+	<div class="clearfix"></div>
+</div>							
+				<div class="item mini ">
+	<div class="col-xs-2 col-img">
+					<a href="https://www.kaluga-poisk.ru/catalog/objects/joy-fit-dzhoy-fit-kaluga" class="image image-square" style="background-image: url('/system/Cover/images/000/077/904/thumb/avatarka.jpg')" >
+							</a>
+			</div>
+
+	<div class="col-xs-10 col-content col-vertical-center mh-50">
+		<div class="title-container">
+			<a href="https://www.kaluga-poisk.ru/catalog/objects/joy-fit-dzhoy-fit-kaluga" class="title d-link dh-link" >JoyFit (Джой Фит), фитнес-клуб</a>
+		</div>
+
+			</div>
+
+	<div class="clearfix"></div>
+</div>							
+				<div class="item mini ">
+	<div class="col-xs-2 col-img">
+					<a href="https://www.kaluga-poisk.ru/catalog/objects/sinema-star-kaluga-13111" class="image image-square" style="background-image: url('/system/Cover/images/000/027/790/thumb/logo2.png')" >
+							</a>
+			</div>
+
+	<div class="col-xs-10 col-content col-vertical-center mh-50">
+		<div class="title-container">
+			<a href="https://www.kaluga-poisk.ru/catalog/objects/sinema-star-kaluga-13111" class="title d-link dh-link" >Синема Стар, кинотеатр</a>
+		</div>
+
+			</div>
+
+	<div class="clearfix"></div>
+</div>							
+				<div class="item mini ">
+	<div class="col-xs-2 col-img">
+					<a href="https://www.kaluga-poisk.ru/catalog/objects/fotomafia" class="image image-square" style="background-image: url('/system/Cover/images/000/014/249/thumb/fotomafia.jpg')" >
+							</a>
+			</div>
+
+	<div class="col-xs-10 col-content col-vertical-center mh-50">
+		<div class="title-container">
+			<a href="https://www.kaluga-poisk.ru/catalog/objects/fotomafia" class="title d-link dh-link" >Фотомафия (Fotomafia)</a>
+		</div>
+
+			</div>
+
+	<div class="clearfix"></div>
+</div>															</div>
+		</div>
+	</div>
+
+										</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="container">
+		<div class="col-sm-6 col-md-8">
+					</div>
+
+		<div class="col-sm-6 col-md-4 hidden-xs">
+							<div class="widget basic-widget p-all">
+		<div class="header-container">
+			<a href="https://www.kaluga-poisk.ru/facts" class="linksheading">
+				Факты
+			</a>
+		</div>
+
+		<div class="content-container">
+			<div class="list-items">
+							
+				
+				<div class="item small">
+	<div class="title-container">
+		<a href="https://www.kaluga-poisk.ru/facts/samyy-ranniy-hudozhestvennyy-film-o-kaluge-krupnaya-nepriyatnost-1930-goda" class="title d-link dh-link">
+			Самый ранний художественный фильм о Калуге «Крупная неприятность» 1930 года		</a>
+	</div>
+
+	</div>						</div>
+		</div>
+
+		<div class="footer-container text-center">
+			<a href="https://www.kaluga-poisk.ru/facts" class="mbtn mbtn-default mbtn-md mbtn-hbg">
+				узнать больше фактов о городе
+			</a>
+		</div>
+	</div>
+
+	
+					</div>
+
+			</div>
+
+
+	
+	</div>
+
+
+<div class="modal fade modal-mobile" id="modal-mobile-msg" tabindex="-1" role="dialog">
+	<div class="modal-dialog" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close">Назад</button>
+			</div>
+			<div class="modal-body">
+				<div class="text"></div>
+			</div>
+		</div>
+	</div>
+</div>
+	<div class="container wide">
+								</div>
+
+	 
+			
+		<!--noindex-->
+	<footer class="container"  itemscope itemtype="https://schema.org/WPFooter">
+	<address itemscope itemtype="https://schema.org/PostalAddress">
+		<meta itemprop="name" content="Калуга-Поиск">
+				<meta itemprop="addressLocality" content="ул. Баррикад 114">
+						<meta itemprop="telephone" content="+79038155001">
+						<meta itemprop="email" content="info@kaluga-poisk.ru">
+			</address>
+
+	<div class="adult-18 hidden-xs">16+</div>
+
+	<div class="col-md-12" style="padding: 0 60px">
+					<div class="col-md-4 hidden-xs hidden-sm">
+				<p><span class="gorodor-logo" onclick="window.open('/links_away/gorodor.ru')" style="cursor: pointer;"></span></p>
+				<p>
+											Kaluga-poisk.ru входит в Международную сеть городских порталов Gorodor. Если вы хотите стать владельцем такого же портала и научиться зарабатывать на городских порталах, присоединяйтесь к нашей сети!
+									</p>
+			</div>
+		
+		<div class="col-md-3 hidden-xs hidden-sm">
+			<div class="h4">Обязательно к прочтению</div>
+			<ul class="mass-media-links" style="padding-left:0;">
+						<li><a href="https://www.kaluga-poisk.ru/comments-rules-information">Правила публикации комментариев</a></li>
+					<li><a href="https://www.kaluga-poisk.ru/legal-information">Правовая информация</a></li>
+					<li><a href="https://www.kaluga-poisk.ru/mass-media-license">Информация о СМИ</a></li>
+					<li><a href="https://www.kaluga-poisk.ru/privacy-policy">Политика конфиденциальности</a></li>
+					<li><a href="https://www.kaluga-poisk.ru/terms-of-use">Пользовательское соглашение</a></li>
+			</ul>		</div>
+
+		<div class="col-md-2 hidden-xs hidden-sm">
+			<div class="h4">Обратная связь</div>
+			<ul style="padding-left:0;">
+				<li><a href="/feedback">Контакты редакции</a></li>
+									<li><a href="https://www.kaluga-poisk.ru/reklama-kaluga">Заказать рекламу</a></li>
+												<li><a href="/team">Команда Калуга-Поиск</a></li>
+							</ul>
+		</div>
+
+								
+							<div class="col-md-3 col-sm-4 col-xs-12">
+					<div class="h4">Мобильные приложения</div>
+					<ul style="padding-right: 60px; padding-left:0;">
+													<li><a href="#" onclick="window.open('https://www.kaluga-poisk.ru/images/KalugaPoisk.apk');"><img style="height:30px" src="/images/interface/app/android.svg"></a></li>
+						
+													<li><a href="#" onclick="window.open('https://apps.apple.com/ru/app/%D0%BA%D0%B0%D0%BB%D1%83%D0%B3%D0%B0-%D0%BF%D0%BE%D0%B8%D1%81%D0%BA/id1236155044');"><img style="height:30px" src="/images/interface/app/ios.svg"></a></li>
+												
+					</ul>
+				</div>
+							<div class="clearfix"></div>
+	</div>
+
+	<div class="clearfix"></div>
+
+			<div class="copyright" style="margin: 45px 0 0 0;">
+			<div class="text-center">				
+				Copyright © <span data-source="copyright_year">2009</span> - 2023				
+				<span class="gorodor-link d-b visible-xs" onclick="window.open('/links_away/gorodor.ru')" style="cursor: pointer;">Международная сеть городских порталов Городор</span>
+				<span data-source="copyright">Рекламное агентство Калуга-Поиск.</span>
+				<div class="hidden-sm hidden-md hidden-lg" style="color: red;">16+</div>
+			</div>
+		</div>
+	</footer>	<!--/noindex-->
+	
+	<button class="text-selector" id="text-selector" style="display: none;">
+	Сообщить об ошибке
+</button>
+
+<div class="modal fade modal-text-selector"  role="dialog" id="modal-text-selector">
+	<div class="modal-dialog" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+				<h4 class="modal-title text-center">СООБЩИТЬ ОБ ОШИБКЕ</h4>
+			</div>
+
+			<div class="modal-body">
+				<form action="https://www.kaluga-poisk.ru/error_reports/post" method="post" id="form-text-selector">
+					<div class="form-group">
+						<label for="">Цитата</label>
+						<textarea class="form-control" name="quotation" readonly=""></textarea>
+					</div>
+
+					<div class="form-group">
+						<label for="">Ваш комментарий</label>
+						<textarea class="form-control" name="comment" required="required" autofocus></textarea>
+					</div>
+
+					<div class="row">
+						<div class="col-xs-6">
+							<div class="form-group">
+								<label for="">Ваше имя <span>необязательно</span></label>
+								<input type="text" name="user_name" class="form-control" value="">
+							</div>
+						</div>
+						<div class="col-xs-6">
+							<div class="form-group">
+								<label for="">Ваше e-mail <span>необязательно</span></label>
+								<input type="text" name="user_email" class="form-control">
+							</div>
+						</div>
+					</div>
+				</form>
+			</div>
+
+			<div class="modal-footer text-center">
+				
+				<button type="submit" form="form-text-selector" class="pl-20 pr-20 mbtn mbtn-filled mbtn-md">
+					<span class="loader" style="display: none; position: relative; top: 3px; margin-right: 5px;"><svg class="circular" viewBox="25 25 50 50"  style="width: 15px; height: 15px;" >
+	<circle class="path" cx="50" cy="50" r="20" fill="none" stroke-width="5" stroke-miterlimit="10" />
+</svg></span>
+					Отправить
+				</button>
+			</div>
+		</div>
+	</div>
+</div><div class="modal modal-custom modal-message fade"  role="dialog" id="modal-message">
+	<div class="modal-bclose"></div>
+	<div class="modal-dialog" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+			</div>
+
+			<div class="modal-body">
+				<div class="icon-status icon-success">
+					✅
+				</div>
+				<div class="icon-status icon-info">
+					!
+				</div>
+				<div class="icon-status icon-error">
+					<span class="icon-ascii ia-close"></span>
+				</div>
+
+				<div class="text"></div>
+			</div>
+		</div>
+	</div>
+</div>
+	<link href="/stylesheets/_min/c0bfa045ba8f15e0c938c49cbcb4f3434912821588.css" rel="stylesheet">
+
+
+	<script src="https://www.kaluga-poisk.ru/js/_min/00f5d451b1ed0ec3bf0f7ba9602cf63245993028925.js"></script>
+
+					
+	<script type="text/javascript" src="https://cdn.adfinity.pro/partners/kaluga-poisk.ru/infinite-scroll-ads.js" async></script>
+<script src="https://xvnitu.com/93n17l921lvi/p0m30y8qh768uvq867pkyi4.php" async></script>   
+<script src="https://jsn.24smi.net/smi.js" async></script>    
+<script src="https://news.2xclick.ru/loader.js" async></script>
+<script type="text/javascript" src="https://code.giraff.io/data/widget-kaluga-poiskru.js" async></script>
+<iframe class="relap-runtime-iframe" style="position:absolute;top:-9999px;left:-9999px;visibility:hidden;" srcdoc="<script src='https://relap.io/v7/relap.js' data-relap-token='ClojSQyIp1qnAQQB'></script>"></iframe>
+
+<script>
+let invoked = false;
+window.addEventListener('scroll', function () {
+    if (window.pageYOffset > 500 && invoked == false) {
+        invoked = true;
+        adfoxCallOverlay = function () {
+            window.Ya.adfoxCode.hbCallbacks.push(function() {
+                window.yaContextCb.push(function() {
+
+
+
+                   Ya.adfoxCode.createAdaptive({
+                        ownerId: 389280,
+                        containerId: 'adfox_163773992594591554',
+                        params: {
+                        pp: 'bsgx',
+                        ps: 'ffnf',
+                        p2: 'hkqf'
+                        },
+                        onLoad: function(data) {
+                            console.log(data);
+                        },
+                        onRender: function () {
+                            console.log('ads rendered');
+                        },
+                        onError: function (error) {
+                            console.log(error);
+                        },
+                        onStub: function () {
+                            console.log('Server return no ad');
+                        }
+                    }, ['tablet', 'phone'], {
+                        tabletWidth: 1023,
+                        phoneWidth: 768,
+                        isAutoReloads: false
+                    });
+
+
+
+                });
+            });
+        };
+
+       makeAdfinityOverlay(adfoxCallOverlay, 5, 0, "adfox_163773992594591554", 300, 250, false, false, true);
+
+    }
+});
+
+</script>
+	
+	
+			<script>
+			var comments_type = 'News';
+						$(function() {
+				updateNewsCommentsCount(comments_type);
+			});
+		</script>
+	
+		
+
+	<!--LiveInternet counter--><script type="text/javascript">
+new Image().src = "//counter.yadro.ru/hit?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,150))+
+";"+Math.random();</script><!--/LiveInternet-->
+<!--LiveInternet counter--><script>
+new Image().src = "https://counter.yadro.ru/hit;Zstory?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,150))+
+";"+Math.random();</script><!--/LiveInternet-->	
+	<!--LiveInternet counter--><script type="text/javascript">
+new Image().src = "//counter.yadro.ru/hit;gorodor?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,150))+
+";"+Math.random();</script><!--/LiveInternet-->
+
+						<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-122842599-12"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-122842599-12');
+</script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DKY7SLSGQ6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DKY7SLSGQ6');
+</script>			
+
+	<!-- Yandex.Metrika counter --> <script type="text/javascript" > (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter159855 = new Ya.Metrika({ id:159855, clickmap:true, trackLinks:true, accurateTrackBounce:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks"); </script> <noscript><div><img src="https://mc.yandex.ru/watch/159855" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();
+   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(91642519, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/91642519" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->	
+
+	<script type="text/javascript"> 	var _tmr = _tmr || []; 	_tmr.push({id: "2570764", type: "pageView", start: (new Date()).getTime()}); 	(function (d, w) { 	   var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; 	   ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js"; 	   var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);}; 	   if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } 	})(document, window); 	</script><noscript><div style="position:absolute;left:-10000px;"> 	<img src="//top-fwz1.mail.ru/counter?id=2570764;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" /> 	</div></noscript>
+	
+	<!-- HotLog -->
+<span id="hotlog_counter"></span>
+<span id="hotlog_dyn"></span>
+<script type="text/javascript">
+var hot_s = document.createElement('script');
+hot_s.type = 'text/javascript'; hot_s.async = true;
+hot_s.src = 'https://js.hotlog.ru/dcounter/2591102.js';
+hot_d = document.getElementById('hotlog_dyn');
+hot_d.appendChild(hot_s);
+</script>
+<noscript>
+<a href="https://click.hotlog.ru/?2591102" target="_blank"><img
+src="https://hit5.hotlog.ru/cgi-bin/hotlog/count?s=2591102&amp;im=609" border="0"
+width="1" height="1" alt="HotLog"></a>
+</noscript>
+<!-- /HotLog -->
+	
+
+	
+	</body>
+</html>

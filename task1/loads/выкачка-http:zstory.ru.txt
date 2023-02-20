@@ -1,0 +1,875 @@
+<!DOCTYPE html>
+<html lang="ru" class="">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Жизнестории - истории из жизни простых людей</title>
+	<meta name="description" content="Рассказы и истории про любовь и отношения, семью и детей, дружбу и предательство. Все истории взяты из жизни, ведь некоторые сюжеты бывают невероятнее любой выдумки."/>
+	<meta name="keywords" content="жизнестории, истории про отношения, рассказы про отношения, истории из жизни"/>
+	
+	<meta name="theme-color" content="#305c8c"> 
+
+	<meta property="og:title" content="Жизнестории - истории из жизни простых людей"/>
+	<meta property="og:site_name" content="Жизнестории"/>
+
+	
+		<meta property="og:image" content="https://zstory.ru/images/rss-logo-200-200.png" />
+	<meta property="og:image:width" content="200"/>
+	<meta property="og:image:height" content="200"/>
+		<meta property="og:url" content="https://zstory.ru"/>
+	<meta property="og:description" content="Рассказы и истории про любовь и отношения, семью и детей, дружбу и предательство. Все истории взяты из жизни, ведь некоторые сюжеты бывают невероятнее любой выдумки."/>
+	<meta property="og:type" content="website"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+			<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1, noodp, noyaca"/>
+	
+	<meta name="yandex-verification" content="9b5cf524d4230d42" />
+<!-- Yandex.RTB --> 
+<script>window.yaContextCb=window.yaContextCb||[]</script> 
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+
+	<meta http-equiv="Cache-Control" content="public">
+	<meta http-equiv="Cache-Control" content="max-age=259200">
+	<meta name="languange" content="ru" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+			<link rel="canonical" href="https://zstory.ru/"/>
+	
+	
+	<link rel="search" href="https://zstory.ru/omniboxsearch" type="application/opensearchdescription+xml" title="Жизнестории"/>
+
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png"/>
+
+	<link rel="preload" href="https://zstory.ru/fonts/Gilroy/Gilroy-Bold.woff" as="font" type="font/woff" crossorigin>
+	<link rel="preload" href="https://zstory.ru/fonts/Gilroy/Gilroy-Regular.woff" as="font" type="font/woff" crossorigin>
+
+	<link rel="alternate" type="application/rss+xml" href="https://zstory.ru/rss/news_google.xml" />
+
+	
+
+	<link href="https://zstory.ru/stylesheets/_min/87eace7661f709594f5e567f1795e8fa3353192179.css" rel="stylesheet">
+
+	<style>
+			</style>
+
+		
+	<script>
+	var is_mobile = false;
+	var locHost = 'https://zstory.ru';
+	var user_logged = 0;
+	var Portal = {
+		env: 'local',
+		getYandexMetric: function () {
+			var yCounterId = '86788382';
+			return window['yaCounter'+yCounterId];
+		},
+		sessionIos: false,
+		sessionAndroid: false,
+		localPhoneCode: '',
+		mVersion2: false,
+		gcmSenderId: ''
+	};
+</script>
+	
+		
+
+</head>
+			<body style="" class="">
+		<div class="full-overlay"></div>
+	
+
+
+
+<nav class="">
+	<div class="apper-nav">
+		<div class="container">
+			<a href="/" class="logo"><img src="/img/logo-text.svg" alt="logo"></a>
+			<ul class="menu-container">
+									<li><a href="https://zstory.ru/stories/otnosheniya" data-id="1">Истории про отношения</a></li>
+									<li><a href="https://zstory.ru/stories/rasskazy" data-id="4">Рассказы</a></li>
+									<li><a href="https://zstory.ru/lifestyle" data-id="5">Лайфстайл</a></li>
+									<li><a href="https://zstory.ru/stories/create" data-id="2">Прислать свою историю</a></li>
+									<li><a href="https://zstory.ru/feedback" data-id="3">Обратная связь</a></li>
+							</ul>
+
+			<div class="person-btns">
+				<a href="#" class="open-search__desctop">
+					<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+						 viewBox="0 0 19.05 20.18" style="enable-background:new 0 0 19.05 20.18;" xml:space="preserve">
+                    <path d="M8.6,14.81c-1.44,0-2.82-0.58-3.82-1.61l-1.07,1.05c1.29,1.32,3.05,2.06,4.9,2.06V14.81z M12.42,13.2
+                        c-1,1.03-2.38,1.61-3.82,1.61v1.5c1.84,0,3.61-0.74,4.9-2.06L12.42,13.2z M13.91,10.37c-0.21,1.07-0.72,2.05-1.49,2.83l1.07,1.05
+                        c0.97-0.99,1.62-2.24,1.89-3.6L13.91,10.37z M13.6,7.17c0.41,1.01,0.52,2.13,0.31,3.2l1.47,0.29c0.27-1.36,0.13-2.77-0.39-4.05
+                        L13.6,7.17z M11.6,4.69c0.9,0.61,1.59,1.47,2,2.48l1.39-0.56c-0.52-1.28-1.4-2.38-2.54-3.15L11.6,4.69z M5.6,4.69
+                        c1.81-1.24,4.19-1.24,6,0l0.85-1.24c-2.32-1.58-5.37-1.58-7.69,0L5.6,4.69z M3.6,7.17c0.41-1.01,1.1-1.87,2-2.48L4.75,3.45
+                        C3.61,4.23,2.73,5.33,2.21,6.61L3.6,7.17z M3.29,10.37c-0.21-1.07-0.1-2.19,0.31-3.2L2.21,6.6C1.69,7.89,1.55,9.3,1.82,10.66
+                        L3.29,10.37z M4.78,13.2c-0.76-0.78-1.28-1.76-1.49-2.83l-1.47,0.29c0.26,1.36,0.92,2.61,1.89,3.6L4.78,13.2z M12.96,13.73
+                        l-0.54-0.52l0,0L12.96,13.73z M14.65,10.51l-0.74-0.14l0,0L14.65,10.51z M14.29,6.89l-0.7,0.28l0,0L14.29,6.89z M12.02,4.07
+                        L11.6,4.69l0,0L12.02,4.07z M5.18,4.07L5.6,4.69l0,0L5.18,4.07z M2.91,6.89L3.6,7.17l0,0L2.91,6.89z M2.56,10.51l0.74-0.14l0,0
+                        L2.56,10.51z"/>
+						<path d="M12.52,14.16l3.39,3.38l1.06-1.06l-3.39-3.38L12.52,14.16z M8.77,6.71c0.72-0.08,1.41,0.33,1.69,1l1.38-0.58
+                        c-0.54-1.28-1.85-2.05-3.23-1.9L8.77,6.71z M15.91,17.54c0.29,0.29,0.77,0.29,1.06,0c0.29-0.29,0.29-0.77,0-1.06L15.91,17.54z
+                            M13.58,13.1c-0.29-0.29-0.77-0.29-1.06,0c-0.29,0.29-0.29,0.77,0,1.06L13.58,13.1z M10.46,7.7c0.16,0.38,0.6,0.56,0.98,0.4
+                        c0.38-0.16,0.56-0.6,0.4-0.98L10.46,7.7z M8.61,5.22C8.2,5.26,7.9,5.63,7.94,6.04s0.41,0.71,0.82,0.67L8.61,5.22z"/>
+                    </svg>
+				</a>
+
+				<a href="#" class="btn-logout authed hidden">
+					<img src="/img/exit.svg" style="width: 33px; height: 30px; bottom: -3px; position: relative;" alt="exit">
+				</a>
+				<a href="#" class="btn-auth auth ">
+					<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+						 viewBox="0 0 18.62 20.05" style="enable-background:new 0 0 18.62 20.05;" xml:space="preserve">
+					<path d="M15.6,13.8c-0.7-1.6-2.24-2.66-3.99-2.75l-0.07,1.5c1.17,0.06,2.21,0.78,2.69,1.85L15.6,13.8z M12.57,17.56
+						c1.01,0,1.98-0.4,2.6-1.07c0.65-0.69,0.93-1.71,0.41-2.72l-1.34,0.68c0.19,0.37,0.12,0.71-0.17,1.02c-0.31,0.34-0.87,0.59-1.51,0.59
+						V17.56z M5.63,17.56h6.94v-1.5H5.63V17.56z M2.62,13.77c-0.52,1.02-0.24,2.03,0.41,2.72c0.63,0.67,1.59,1.07,2.6,1.07v-1.5
+						c-0.63,0-1.19-0.26-1.51-0.59c-0.29-0.31-0.36-0.65-0.17-1.02L2.62,13.77z M6.59,11.06C4.84,11.14,3.3,12.21,2.6,13.8l1.37,0.6
+						c0.47-1.08,1.51-1.79,2.69-1.85L6.59,11.06z M11.58,11.06H6.62v1.5h4.95V11.06z M14.91,14.11l-0.69,0.3
+						c0.01,0.01,0.01,0.03,0.02,0.04L14.91,14.11z M3.29,14.11l0.67,0.34c0.01-0.01,0.01-0.03,0.02-0.04L3.29,14.11z M6.62,11.81v-0.75
+						c-0.01,0-0.02,0-0.04,0L6.62,11.81z M11.58,11.81l0.04-0.75c-0.01,0-0.02,0-0.04,0V11.81z"/>
+						<path d="M10.69,4.21c0.42,0.42,0.66,0.99,0.66,1.59h1.5c0-0.99-0.4-1.95-1.1-2.65L10.69,4.21z M9.1,3.56c0.6,0,1.17,0.24,1.59,0.66
+						l1.06-1.06c-0.7-0.7-1.66-1.1-2.65-1.1V3.56z M6.85,5.81c0-1.24,1.01-2.25,2.25-2.25v-1.5c-2.07,0-3.75,1.68-3.75,3.75H6.85z
+						M9.1,8.06c-1.24,0-2.25-1.01-2.25-2.25h-1.5c0,2.07,1.68,3.75,3.75,3.75V8.06z M11.35,5.81c0,1.24-1.01,2.25-2.25,2.25v1.5
+						c2.07,0,3.75-1.68,3.75-3.75H11.35z M11.22,3.68l-0.53,0.53L11.22,3.68z"/>
+					</svg>
+				</a>
+			</div>
+		</div>
+	</div>
+
+																
+	<div class="desctop-menu__search">
+		<div class="container">
+			<form action="/search">
+				<input type="text" placeholder="Что будем искать?" name="search">
+				<button><img src="/img/send.svg" alt="send"></button>
+			</form>
+		</div>
+	</div>
+</nav>
+
+<header class="page-main">
+	<div class="under-header">
+		<div class="container">
+			<h1>Жизненные истории простых людей</h1>
+			<button class="burger-menu"><img src="/img/menu.svg" alt="menu icon"></button>
+		</div>
+	</div>
+</header>
+
+
+	
+	<header>
+		<div class="container">
+			<div class="logo"><img src="/img/logo.svg" alt="logo"></div>
+
+			<div class="slider-history">
+									<div>
+		<div class="item " onclick="location.href='/bnrs_away/13'">
+			<div class="text-container">
+				<p>Идеальная пара для нового сезона бежевые ботильоны ZENDEN</p>
+			</div>
+			<img class="back" src="https://zstory.ru/system/Cover/images/000/000/524/brn/idealnaya-para-dlya-novogo-sez_1676206607.jpg" alt="slider background photo">
+					</div>
+	</div>
+									<div>
+		<div class="item " onclick="location.href='/bnrs_away/14'">
+			<div class="text-container">
+				<p>Шикарное сложное многослойное колье Nature Bijoux оказалось движущей силой успеха</p>
+			</div>
+			<img class="back" src="https://zstory.ru/system/Cover/images/000/000/526/brn/shikarnoe-slozhnoe-mnogosloyno_1676209976.jpg" alt="slider background photo">
+					</div>
+	</div>
+									<div>
+		<div class="item " onclick="location.href='/bnrs_away/16'">
+			<div class="text-container">
+				<p>Как Ане удается содержать свой дом в чистоте с помощью SC 3 EasyFix от Kärcher</p>
+			</div>
+			<img class="back" src="https://zstory.ru/system/Cover/images/000/000/530/brn/kak-ane-udaetsya-soderzhat-svo_1676227695.jpg" alt="slider background photo">
+					</div>
+	</div>
+									<div>
+		<div class="item " onclick="location.href='/bnrs_away/11'">
+			<div class="text-container">
+				<p>Befree представил свой новый лукбук весенней коллекции «Blooming Me»</p>
+			</div>
+			<img class="back" src="https://zstory.ru/system/Cover/images/000/000/520/brn/befree-predstavil-svoy-novyy-l_1676145678.jpg" alt="slider background photo">
+					</div>
+	</div>
+							</div>
+		</div>
+	</header>
+
+	<section>
+		<div class="container">
+			<div class="row">
+				<div class="col-8">
+					<h2>Популярные истории о жизни</h2>
+
+<div class="history-card__container">
+			<div class="history__item" onclick="location.href='https://zstory.ru/stories/otnosheniya/svekrov-zayavilas-v-gosti-kogda-nas-ne-bylo-doma-i-nam-zhe-esche-posle-etogo-ustroila-raznos'">
+	<div class="image"><img src="/system/Cover/images/000/000/544/big/svekrov-zayavilas-v-gosti-kogd_1676841494.jpg" alt="history image"></div>
+	<div class="data">
+		<div class="title">Свекровь заявилась в гости, когда нас не было дома и нам же еще после этого устроила разнос</div>
+		<div class="history__about">
+						<div class="category">Отношения</div>
+			
+						<div class="date">
+	<svg version="1.1" id="Isolation_Mode" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+		<style type="text/css"> .st0{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-miterlimit:10;} .st1{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;} </style>
+		<circle class="st0" cx="12" cy="12" r="7"/>
+		<line class="st1" x1="12" y1="12.08" x2="14.95" y2="14.78"/>
+		<line class="st1" x1="12" y1="12" x2="11.63" y2="9.03"/>
+	</svg>
+	20.02.2023</div>		</div>
+	</div>
+</div>			<div class="history__item" onclick="location.href='https://zstory.ru/stories/otnosheniya/slomayu-svoy-podarok-chtoby-bolshe-ne-muchatsya-s-uborkoy'">
+	<div class="image"><img src="/system/Cover/images/000/000/543/big/slomayu-svoy-podarok-chtoby-bo_1676757107.jpg" alt="history image"></div>
+	<div class="data">
+		<div class="title">Сломаю свой подарок, чтобы больше не мучаться с уборкой</div>
+		<div class="history__about">
+						<div class="category">Отношения</div>
+			
+						<div class="date">
+	<svg version="1.1" id="Isolation_Mode" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+		<style type="text/css"> .st0{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-miterlimit:10;} .st1{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;} </style>
+		<circle class="st0" cx="12" cy="12" r="7"/>
+		<line class="st1" x1="12" y1="12.08" x2="14.95" y2="14.78"/>
+		<line class="st1" x1="12" y1="12" x2="11.63" y2="9.03"/>
+	</svg>
+	19.02.2023</div>		</div>
+	</div>
+</div>			<div class="history__item" onclick="location.href='https://zstory.ru/stories/otnosheniya/svoe-nasledstvo-ya-potrachu-kak-zahochu-hot-na-koshek-skazala-zhena-i-zanyala-gluhuyu-oboronu'">
+	<div class="image"><img src="/system/Cover/images/000/000/542/big/zstory_cats_sitting_on_a_couch_1208a23b-7ec9-42e3-b601-4bf9358bd006.jpg" alt="history image"></div>
+	<div class="data">
+		<div class="title">— Свое наследство я потрачу, как захочу — хоть на кошек, — сказала жена и заняла глухую оборону</div>
+		<div class="history__about">
+						<div class="category">Отношения</div>
+			
+						<div class="date">
+	<svg version="1.1" id="Isolation_Mode" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+		<style type="text/css"> .st0{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-miterlimit:10;} .st1{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;} </style>
+		<circle class="st0" cx="12" cy="12" r="7"/>
+		<line class="st1" x1="12" y1="12.08" x2="14.95" y2="14.78"/>
+		<line class="st1" x1="12" y1="12" x2="11.63" y2="9.03"/>
+	</svg>
+	18.02.2023</div>		</div>
+	</div>
+</div>			<div class="history__item" onclick="location.href='https://zstory.ru/stories/rasskazy/rasskaz-o-tom-kak-zagadochnaya-ulybka-mozhet-preobrazit-semeynuyu-zhizn'">
+	<div class="image"><img src="/system/Cover/images/000/000/541/big/zstory_beautiful_girl_smiling_be74fcfd-9773-4d22-999d-6b9e81ad5973.jpg" alt="history image"></div>
+	<div class="data">
+		<div class="title">Рассказ о том, как загадочная улыбка может преобразить семейную жизнь</div>
+		<div class="history__about">
+						<div class="category">Рассказы</div>
+			
+						<div class="date">
+	<svg version="1.1" id="Isolation_Mode" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+		<style type="text/css"> .st0{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-miterlimit:10;} .st1{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;} </style>
+		<circle class="st0" cx="12" cy="12" r="7"/>
+		<line class="st1" x1="12" y1="12.08" x2="14.95" y2="14.78"/>
+		<line class="st1" x1="12" y1="12" x2="11.63" y2="9.03"/>
+	</svg>
+	17.02.2023</div>		</div>
+	</div>
+</div>			<div class="history__item" onclick="location.href='https://zstory.ru/stories/otnosheniya/sosed-darit-mne-tsvety-i-shokoladki-a-muzh-doma-ustraivaet-isteriki-na-pustom-meste'">
+	<div class="image"><img src="/system/Cover/images/000/000/538/big/sosed-darit-mne-tsvety-i-shoko_1676543330.jpg" alt="history image"></div>
+	<div class="data">
+		<div class="title">Сосед дарит мне цветы и шоколадки, а муж дома устраивает истерики на пустом месте</div>
+		<div class="history__about">
+						<div class="category">Отношения</div>
+			
+						<div class="date">
+	<svg version="1.1" id="Isolation_Mode" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+		<style type="text/css"> .st0{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-miterlimit:10;} .st1{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;} </style>
+		<circle class="st0" cx="12" cy="12" r="7"/>
+		<line class="st1" x1="12" y1="12.08" x2="14.95" y2="14.78"/>
+		<line class="st1" x1="12" y1="12" x2="11.63" y2="9.03"/>
+	</svg>
+	17.02.2023</div>		</div>
+	</div>
+</div>	</div>
+					
+					<div class="slider-history" onclick="location.href='/bnrs_away/12'">
+		<div class="item">
+			<div class="text-container">
+				<p>Cредство по уходу за кожей POREBARRIER CLEANSING BALM бренда SKIN&LAB</p>
+			</div>
+			<img class="back" src="https://zstory.ru/system/Cover/images/000/000/522/brn/credstvo-po-uhodu-za-kozhey-po_1676883735.jpg" alt="slider background photo">
+		</div>
+	</div>
+
+					<div class="history-card__container">
+													<div class="history__item" onclick="location.href='https://zstory.ru/stories/rasskazy/rasskaz-pro-pravilnuyu-motivatsiyu'">
+	<div class="image"><img src="/system/Cover/images/000/000/539/big/rasskaz-pro-pravilnuyu-motivat_1676554291.jpg" alt="history image"></div>
+	<div class="data">
+		<div class="title">Рассказ про правильную мотивацию</div>
+		<div class="history__about">
+						<div class="category">Рассказы</div>
+			
+						<div class="date">
+	<svg version="1.1" id="Isolation_Mode" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+		<style type="text/css"> .st0{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-miterlimit:10;} .st1{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;} </style>
+		<circle class="st0" cx="12" cy="12" r="7"/>
+		<line class="st1" x1="12" y1="12.08" x2="14.95" y2="14.78"/>
+		<line class="st1" x1="12" y1="12" x2="11.63" y2="9.03"/>
+	</svg>
+	16.02.2023</div>		</div>
+	</div>
+</div>																				<div class="history__item" onclick="location.href='https://zstory.ru/stories/otnosheniya/zhenih-mechtaet-o-pyshnoy-svadbe-a-ya-hochu-sekonomit'">
+	<div class="image"><img src="/system/Cover/images/000/000/537/big/zhenih-mechtaet-o-pyshnoy-svad_1676492314.jpg" alt="history image"></div>
+	<div class="data">
+		<div class="title">Жених мечтает о пышной свадьбе, а я хочу сэкономить</div>
+		<div class="history__about">
+						<div class="category">Отношения</div>
+			
+						<div class="date">
+	<svg version="1.1" id="Isolation_Mode" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+		<style type="text/css"> .st0{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-miterlimit:10;} .st1{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;} </style>
+		<circle class="st0" cx="12" cy="12" r="7"/>
+		<line class="st1" x1="12" y1="12.08" x2="14.95" y2="14.78"/>
+		<line class="st1" x1="12" y1="12" x2="11.63" y2="9.03"/>
+	</svg>
+	16.02.2023</div>		</div>
+	</div>
+</div>																				<div class="history__item" onclick="location.href='https://zstory.ru/stories/rasskazy/rasskaz-kak-hitraya-devochka-olya-roditeley-vospityvala'">
+	<div class="image"><img src="/system/Cover/images/000/000/536/big/rasskaz-kak-hitraya-devochka-o_1676478431.jpg" alt="history image"></div>
+	<div class="data">
+		<div class="title">Рассказ, как хитрая девочка Оля родителей воспитывала</div>
+		<div class="history__about">
+						<div class="category">Рассказы</div>
+			
+						<div class="date">
+	<svg version="1.1" id="Isolation_Mode" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+		<style type="text/css"> .st0{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-miterlimit:10;} .st1{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;} </style>
+		<circle class="st0" cx="12" cy="12" r="7"/>
+		<line class="st1" x1="12" y1="12.08" x2="14.95" y2="14.78"/>
+		<line class="st1" x1="12" y1="12" x2="11.63" y2="9.03"/>
+	</svg>
+	15.02.2023</div>		</div>
+	</div>
+</div>																				<div class="history__item" onclick="location.href='https://zstory.ru/stories/otnosheniya/ya-ustal-ot-umnyh-zhenschin-skazal-starshiy-brat-i-zhenilsya-na-prostushke'">
+	<div class="image"><img src="/system/Cover/images/000/000/535/big/ya-ustal-ot-umnyh-zhenschin-sk_1676381486.jpg" alt="history image"></div>
+	<div class="data">
+		<div class="title">— Я устал от умных женщин, — сказал старший брат и женился на простушке</div>
+		<div class="history__about">
+						<div class="category">Отношения</div>
+			
+						<div class="date">
+	<svg version="1.1" id="Isolation_Mode" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+		<style type="text/css"> .st0{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-miterlimit:10;} .st1{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;} </style>
+		<circle class="st0" cx="12" cy="12" r="7"/>
+		<line class="st1" x1="12" y1="12.08" x2="14.95" y2="14.78"/>
+		<line class="st1" x1="12" y1="12" x2="11.63" y2="9.03"/>
+	</svg>
+	15.02.2023</div>		</div>
+	</div>
+</div>																				<div class="history__item" onclick="location.href='https://zstory.ru/stories/rasskazy/rasskaz-o-tom-chto-inogda-nuzhno-chitat-instruktsii'">
+	<div class="image"><img src="/system/Cover/images/000/000/534/big/zstory_ointment_with_instructions_on_the_table_2fb228b4-499a-4380-81e6-14918c689817.jpg" alt="history image"></div>
+	<div class="data">
+		<div class="title">Рассказ о том, что иногда нужно читать инструкции</div>
+		<div class="history__about">
+						<div class="category">Рассказы</div>
+			
+						<div class="date">
+	<svg version="1.1" id="Isolation_Mode" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+		<style type="text/css"> .st0{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-miterlimit:10;} .st1{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;} </style>
+		<circle class="st0" cx="12" cy="12" r="7"/>
+		<line class="st1" x1="12" y1="12.08" x2="14.95" y2="14.78"/>
+		<line class="st1" x1="12" y1="12" x2="11.63" y2="9.03"/>
+	</svg>
+	14.02.2023</div>		</div>
+	</div>
+</div>													
+						<div class="history__banners">
+							<div class="slider-history" onclick="location.href='/bnrs_away/15'">
+		<div class="item">
+			<div class="text-container">
+				<p>Тушь для ресниц Bold Impression от бренда Divage больше чем косметический продукт</p>
+			</div>
+			<img class="back" src="https://zstory.ru/system/Cover/images/000/000/528/brn/tush-dlya-resnits-bold-impress_1676884087.jpg" alt="slider background photo">
+		</div>
+	</div>
+
+							<div class="right">
+																	<div class="slider-history" onclick="location.href='https://zstory.ru/stories/otnosheniya/svekrov-otvratitelno-gotovit-no-obozhaet-ugoschat-svoey-stryapney'">
+		<div class="item">
+			<div class="text-container">
+				<p>Свекровь отвратительно готовит, но обожает угощать своей стряпней</p>
+			</div>
+			<img class="back" src="/system/Cover/images/000/000/533/big/svekrov-otvratitelno-gotovit-n_1676297895.jpg" alt="slider background photo">
+		</div>
+	</div>
+																	<div class="slider-history" onclick="location.href='https://zstory.ru/stories/rasskazy/rasskaz-o-vite-i-pervom-dne-otpuska'">
+		<div class="item">
+			<div class="text-container">
+				<p>Рассказ о Вите и первом дне отпуска</p>
+			</div>
+			<img class="back" src="/system/Cover/images/000/000/532/big/rasskaz-o-vite-i-pervom-dne-ot_1676287219.jpg" alt="slider background photo">
+		</div>
+	</div>
+															</div>
+						</div>
+
+													<div class="history__item" onclick="location.href='https://zstory.ru/stories/otnosheniya/tvoi-dengi-my-ne-brali-zaverili-menya-mama-i-sestra-a-ya-poverila'">
+	<div class="image"><img src="/system/Cover/images/000/000/531/big/tvoi-dengi-my-ne-brali-zaveril_1676234484.jpg" alt="history image"></div>
+	<div class="data">
+		<div class="title">-Твои деньги мы не брали! – заверили меня мама и сестра, а я поверила</div>
+		<div class="history__about">
+						<div class="category">Отношения</div>
+			
+						<div class="date">
+	<svg version="1.1" id="Isolation_Mode" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+		<style type="text/css"> .st0{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-miterlimit:10;} .st1{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;} </style>
+		<circle class="st0" cx="12" cy="12" r="7"/>
+		<line class="st1" x1="12" y1="12.08" x2="14.95" y2="14.78"/>
+		<line class="st1" x1="12" y1="12" x2="11.63" y2="9.03"/>
+	</svg>
+	13.02.2023</div>		</div>
+	</div>
+</div>																				<div class="history__item" onclick="location.href='https://zstory.ru/stories/rasskazy/istoriya-pro-to-kak-vazhno-vladet-informatsiey'">
+	<div class="image"><img src="/system/Cover/images/000/000/518/big/zstory_newspaper_on_a_table_d06540f6-3bd2-4c6d-b149-bb25813f1fa8.jpg" alt="history image"></div>
+	<div class="data">
+		<div class="title">История про то, как важно владеть информацией</div>
+		<div class="history__about">
+						<div class="category">Рассказы</div>
+			
+						<div class="date">
+	<svg version="1.1" id="Isolation_Mode" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+		<style type="text/css"> .st0{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-miterlimit:10;} .st1{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;} </style>
+		<circle class="st0" cx="12" cy="12" r="7"/>
+		<line class="st1" x1="12" y1="12.08" x2="14.95" y2="14.78"/>
+		<line class="st1" x1="12" y1="12" x2="11.63" y2="9.03"/>
+	</svg>
+	12.02.2023</div>		</div>
+	</div>
+</div>																				<div class="history__item" onclick="location.href='https://zstory.ru/stories/otnosheniya/nikogda-ne-pytaytes-zalatat-dyru-v-serdtse-drugim-chelovekom-inache-povtorite-moyu-gorkuyu-sudbu'">
+	<div class="image"><img src="/system/Cover/images/000/000/516/big/nikogda-ne-pytaytes-zalatat-dy_1676037369.jpg" alt="history image"></div>
+	<div class="data">
+		<div class="title">Никогда не пытайтесь залатать дыру в сердце другим человеком, иначе повторите мою горькую судьбу</div>
+		<div class="history__about">
+						<div class="category">Отношения</div>
+			
+			<div class="comments">
+		<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+					<style type="text/css">.st0{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;}</style>
+			<g id="Xnix_x2F_Line_x2F_Comment_x5F_Lines_x5F_2">
+				<g id="Vector" transform="translate(5.000000, 5.000000)">
+					<path id="Vector-12" class="st0" d="M0,7c0,2.61,1.46,5.01,3.77,6.21s5.12,1.02,7.25-0.49L14,13V7c0-3.87-3.13-7-7-7S0,3.13,0,7z"
+					/>
+					<path id="Vector-13" class="st0" d="M4,9h4 M4,6h6"/>
+				</g>
+			</g>
+		</svg>
+		1	</div>
+			<div class="date">
+	<svg version="1.1" id="Isolation_Mode" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+		<style type="text/css"> .st0{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-miterlimit:10;} .st1{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;} </style>
+		<circle class="st0" cx="12" cy="12" r="7"/>
+		<line class="st1" x1="12" y1="12.08" x2="14.95" y2="14.78"/>
+		<line class="st1" x1="12" y1="12" x2="11.63" y2="9.03"/>
+	</svg>
+	12.02.2023</div>		</div>
+	</div>
+</div>																				<div class="history__item" onclick="location.href='https://zstory.ru/stories/rasskazy/rasskaz-kak-anna-vadimovna-v-polikliniku-hodila'">
+	<div class="image"><img src="/system/Cover/images/000/000/515/big/rasskaz-kak-anna-vadimovna-v-p_1676035924.jpg" alt="history image"></div>
+	<div class="data">
+		<div class="title">Рассказ, как Анна Вадимовна в поликлинику ходила</div>
+		<div class="history__about">
+						<div class="category">Рассказы</div>
+			
+						<div class="date">
+	<svg version="1.1" id="Isolation_Mode" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+		<style type="text/css"> .st0{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-miterlimit:10;} .st1{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;} </style>
+		<circle class="st0" cx="12" cy="12" r="7"/>
+		<line class="st1" x1="12" y1="12.08" x2="14.95" y2="14.78"/>
+		<line class="st1" x1="12" y1="12" x2="11.63" y2="9.03"/>
+	</svg>
+	11.02.2023</div>		</div>
+	</div>
+</div>																				<div class="history__item" onclick="location.href='https://zstory.ru/stories/otnosheniya/v-seme-roditeley-dva-rebenka-no-urod-ya-potomu-chto-ne-zovu-ih-v-gosti'">
+	<div class="image"><img src="/system/Cover/images/000/000/514/big/v-seme-roditeley-dva-rebenka-n_1676034517.jpg" alt="history image"></div>
+	<div class="data">
+		<div class="title">В семье родителей два ребенка, но урод - я, потому что не зову их в гости</div>
+		<div class="history__about">
+						<div class="category">Отношения</div>
+			
+						<div class="date">
+	<svg version="1.1" id="Isolation_Mode" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+		<style type="text/css"> .st0{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-miterlimit:10;} .st1{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;} </style>
+		<circle class="st0" cx="12" cy="12" r="7"/>
+		<line class="st1" x1="12" y1="12.08" x2="14.95" y2="14.78"/>
+		<line class="st1" x1="12" y1="12" x2="11.63" y2="9.03"/>
+	</svg>
+	11.02.2023</div>		</div>
+	</div>
+</div>																				<div class="history__item" onclick="location.href='https://zstory.ru/stories/rasskazy/rasskaz-o-tom-kak-vike-prihoditsya-kazhduyu-noch-stradat'">
+	<div class="image"><img src="/system/Cover/images/000/000/498/big/rasskaz-o-tom-kak-vike-prihodi_1676019935.jpg" alt="history image"></div>
+	<div class="data">
+		<div class="title">Рассказ о том, как Вике приходится каждую ночь страдать</div>
+		<div class="history__about">
+						<div class="category">Рассказы</div>
+			
+						<div class="date">
+	<svg version="1.1" id="Isolation_Mode" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+		<style type="text/css"> .st0{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-miterlimit:10;} .st1{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;} </style>
+		<circle class="st0" cx="12" cy="12" r="7"/>
+		<line class="st1" x1="12" y1="12.08" x2="14.95" y2="14.78"/>
+		<line class="st1" x1="12" y1="12" x2="11.63" y2="9.03"/>
+	</svg>
+	10.02.2023</div>		</div>
+	</div>
+</div>																				<div class="history__item" onclick="location.href='https://zstory.ru/stories/otnosheniya/svekrov-obizhaetsya-chto-ya-ne-zovu-ee-v-gosti-a-mne-nadoela-ee-strast-navodit-svoi-poryadki'">
+	<div class="image"><img src="/system/Cover/images/000/000/497/big/svekrov-obizhaetsya-chto-ya-ne_1676014122.jpg" alt="history image"></div>
+	<div class="data">
+		<div class="title">Свекровь обижается, что я не зову ее в гости. А мне надоела ее страсть наводить свои порядки</div>
+		<div class="history__about">
+						<div class="category">Отношения</div>
+			
+						<div class="date">
+	<svg version="1.1" id="Isolation_Mode" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+		<style type="text/css"> .st0{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-miterlimit:10;} .st1{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;} </style>
+		<circle class="st0" cx="12" cy="12" r="7"/>
+		<line class="st1" x1="12" y1="12.08" x2="14.95" y2="14.78"/>
+		<line class="st1" x1="12" y1="12" x2="11.63" y2="9.03"/>
+	</svg>
+	10.02.2023</div>		</div>
+	</div>
+</div>																				<div class="history__item" onclick="location.href='https://zstory.ru/stories/rasskazy/rasskaz-o-pravilnom-i-nepravilnom-detstve'">
+	<div class="image"><img src="/system/Cover/images/000/000/496/big/rasskaz-o-pravilnom-i-nepravil_1675928818.jpg" alt="history image"></div>
+	<div class="data">
+		<div class="title">Рассказ о правильном и неправильном детстве</div>
+		<div class="history__about">
+						<div class="category">Рассказы</div>
+			
+						<div class="date">
+	<svg version="1.1" id="Isolation_Mode" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+		<style type="text/css"> .st0{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-miterlimit:10;} .st1{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;} </style>
+		<circle class="st0" cx="12" cy="12" r="7"/>
+		<line class="st1" x1="12" y1="12.08" x2="14.95" y2="14.78"/>
+		<line class="st1" x1="12" y1="12" x2="11.63" y2="9.03"/>
+	</svg>
+	09.02.2023</div>		</div>
+	</div>
+</div>																		</div>
+
+					<a href="https://zstory.ru/stories" class="show-more">Показать еще</a>
+				</div>
+				<div class="col-4">
+					<div class="h2">&nbsp;</div>
+<div class="history-category__container">
+		<div class="item" onclick="location.href='https://zstory.ru/stories/otnosheniya'">
+		<div>Отношения</div>
+		<img src="/system/Cover/images/000/000/502/medium/otnosheniya_1676023850.jpg" alt="category background" class="back">
+	</div>
+		<div class="item" onclick="location.href='https://zstory.ru/stories/rasskazy'">
+		<div>Рассказы</div>
+		<img src="/system/Cover/images/000/000/503/medium/rasskazy_1676024004.jpg" alt="category background" class="back">
+	</div>
+	</div>
+					<div class="h2">Все истории</div>
+<div class="all-history__container">
+		<div class="item" onclick="location.href='https://zstory.ru/stories/otnosheniya/muzh-govorit-chto-ya-pribednyayus-a-on-ne-dast-mne-sest-emu-na-sheyu-i-svesit-nogi'">
+		<p>Муж говорит, что я прибедняюсь, а он не даст мне сесть ему на шею и свесить ноги</p>
+		<div class="history__about">
+							<div class="category">Отношения</div>
+			
+			<div class="comments">
+		<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+					<style type="text/css">.st0{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;}</style>
+			<g id="Xnix_x2F_Line_x2F_Comment_x5F_Lines_x5F_2">
+				<g id="Vector" transform="translate(5.000000, 5.000000)">
+					<path id="Vector-12" class="st0" d="M0,7c0,2.61,1.46,5.01,3.77,6.21s5.12,1.02,7.25-0.49L14,13V7c0-3.87-3.13-7-7-7S0,3.13,0,7z"
+					/>
+					<path id="Vector-13" class="st0" d="M4,9h4 M4,6h6"/>
+				</g>
+			</g>
+		</svg>
+		1	</div>
+			<div class="date">
+	<svg version="1.1" id="Isolation_Mode" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+		<style type="text/css"> .st0{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-miterlimit:10;} .st1{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;} </style>
+		<circle class="st0" cx="12" cy="12" r="7"/>
+		<line class="st1" x1="12" y1="12.08" x2="14.95" y2="14.78"/>
+		<line class="st1" x1="12" y1="12" x2="11.63" y2="9.03"/>
+	</svg>
+	04.02.2023</div>		</div>
+	</div>
+		<div class="item" onclick="location.href='https://zstory.ru/stories/otnosheniya/svekrov-regulyarno-putaet-nash-dom-s-pomoykoy-a-potom-obizhaetsya-chto-my-ee-dary-vybrasyvaem'">
+		<p>Свекровь регулярно путает наш дом с помойкой, а потом обижается, что мы ее дары выбрасываем</p>
+		<div class="history__about">
+							<div class="category">Отношения</div>
+			
+						<div class="date">
+	<svg version="1.1" id="Isolation_Mode" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+		<style type="text/css"> .st0{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-miterlimit:10;} .st1{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;} </style>
+		<circle class="st0" cx="12" cy="12" r="7"/>
+		<line class="st1" x1="12" y1="12.08" x2="14.95" y2="14.78"/>
+		<line class="st1" x1="12" y1="12" x2="11.63" y2="9.03"/>
+	</svg>
+	03.02.2023</div>		</div>
+	</div>
+		<div class="item" onclick="location.href='https://zstory.ru/stories/otnosheniya/nevestka-revnuet-vnuka-nastolko-chto-zapreschaet-v-gosti-priezzhat'">
+		<p>Невестка ревнует внука настолько, что запрещает в гости приезжать</p>
+		<div class="history__about">
+							<div class="category">Отношения</div>
+			
+						<div class="date">
+	<svg version="1.1" id="Isolation_Mode" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+		<style type="text/css"> .st0{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-miterlimit:10;} .st1{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;} </style>
+		<circle class="st0" cx="12" cy="12" r="7"/>
+		<line class="st1" x1="12" y1="12.08" x2="14.95" y2="14.78"/>
+		<line class="st1" x1="12" y1="12" x2="11.63" y2="9.03"/>
+	</svg>
+	02.02.2023</div>		</div>
+	</div>
+		<div class="item" onclick="location.href='https://zstory.ru/stories/otnosheniya/doch-vyshla-zamuzh-za-hudozhnika-zhivut-s-rebenkom-vprogolod-potomu-chto-u-geniya-tvorcheskiy-krizis'">
+		<p>Дочь вышла замуж за художника. Живут с ребенком впроголодь, потому что у "гения творческий кризис"</p>
+		<div class="history__about">
+							<div class="category">Отношения</div>
+			
+			<div class="comments">
+		<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+					<style type="text/css">.st0{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;}</style>
+			<g id="Xnix_x2F_Line_x2F_Comment_x5F_Lines_x5F_2">
+				<g id="Vector" transform="translate(5.000000, 5.000000)">
+					<path id="Vector-12" class="st0" d="M0,7c0,2.61,1.46,5.01,3.77,6.21s5.12,1.02,7.25-0.49L14,13V7c0-3.87-3.13-7-7-7S0,3.13,0,7z"
+					/>
+					<path id="Vector-13" class="st0" d="M4,9h4 M4,6h6"/>
+				</g>
+			</g>
+		</svg>
+		1	</div>
+			<div class="date">
+	<svg version="1.1" id="Isolation_Mode" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+		<style type="text/css"> .st0{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-miterlimit:10;} .st1{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;} </style>
+		<circle class="st0" cx="12" cy="12" r="7"/>
+		<line class="st1" x1="12" y1="12.08" x2="14.95" y2="14.78"/>
+		<line class="st1" x1="12" y1="12" x2="11.63" y2="9.03"/>
+	</svg>
+	29.01.2023</div>		</div>
+	</div>
+		<div class="item" onclick="location.href='https://zstory.ru/stories/otnosheniya/svekrov-poprosila-nas-sehat-iz-sobstvennoy-kvartiry-tak-kak-deveryu-s-zhenoy-i-detmi-tesno-zhit-v-eyo-dome'">
+		<p>Свекровь попросила нас съехать из собственной квартиры, так как деверю с женой и детьми тесно жить в её доме</p>
+		<div class="history__about">
+							<div class="category">Отношения</div>
+			
+						<div class="date">
+	<svg version="1.1" id="Isolation_Mode" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+		<style type="text/css"> .st0{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-miterlimit:10;} .st1{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;} </style>
+		<circle class="st0" cx="12" cy="12" r="7"/>
+		<line class="st1" x1="12" y1="12.08" x2="14.95" y2="14.78"/>
+		<line class="st1" x1="12" y1="12" x2="11.63" y2="9.03"/>
+	</svg>
+	11.01.2023</div>		</div>
+	</div>
+		<div class="item" onclick="location.href='https://zstory.ru/stories/otnosheniya/mama-moloditsya-trebuet-ot-vnukov-ne-nazyvat-ee-babushkoy-i-vyglyadit-ochen-nelepo-no-sama-etogo-ne-zamechaet'">
+		<p>Мама молодится, требует от внуков не называть ее бабушкой и выглядит очень нелепо, но сама этого не замечает</p>
+		<div class="history__about">
+							<div class="category">Отношения</div>
+			
+						<div class="date">
+	<svg version="1.1" id="Isolation_Mode" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+		<style type="text/css"> .st0{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-miterlimit:10;} .st1{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;} </style>
+		<circle class="st0" cx="12" cy="12" r="7"/>
+		<line class="st1" x1="12" y1="12.08" x2="14.95" y2="14.78"/>
+		<line class="st1" x1="12" y1="12" x2="11.63" y2="9.03"/>
+	</svg>
+	10.01.2023</div>		</div>
+	</div>
+		<div class="item" onclick="location.href='https://zstory.ru/stories/otnosheniya/muzh-moey-docheri-reshil-chto-vytyanul-lotereynyy-bilet-popav-v-semyu-biznesmenov-vot-tolko-on-nikak-ne-ozhidal-chto-emu-pridyotsya-rabotat'">
+		<p>Муж моей дочери решил, что вытянул лотерейный билет, попав в семью бизнесменов. Вот только он никак не ожидал, что ему придётся работать</p>
+		<div class="history__about">
+							<div class="category">Отношения</div>
+			
+			<div class="comments">
+		<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+					<style type="text/css">.st0{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;}</style>
+			<g id="Xnix_x2F_Line_x2F_Comment_x5F_Lines_x5F_2">
+				<g id="Vector" transform="translate(5.000000, 5.000000)">
+					<path id="Vector-12" class="st0" d="M0,7c0,2.61,1.46,5.01,3.77,6.21s5.12,1.02,7.25-0.49L14,13V7c0-3.87-3.13-7-7-7S0,3.13,0,7z"
+					/>
+					<path id="Vector-13" class="st0" d="M4,9h4 M4,6h6"/>
+				</g>
+			</g>
+		</svg>
+		1	</div>
+			<div class="date">
+	<svg version="1.1" id="Isolation_Mode" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+		<style type="text/css"> .st0{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-miterlimit:10;} .st1{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;} </style>
+		<circle class="st0" cx="12" cy="12" r="7"/>
+		<line class="st1" x1="12" y1="12.08" x2="14.95" y2="14.78"/>
+		<line class="st1" x1="12" y1="12" x2="11.63" y2="9.03"/>
+	</svg>
+	10.01.2023</div>		</div>
+	</div>
+		<div class="item" onclick="location.href='https://zstory.ru/stories/otnosheniya/suprug-ne-hochet-rabotat-vmeste-s-moim-ottsom-no-nayti-horoshee-mesto-samostoyatelno-u-nego-ne-poluchaetsya-v-rezultate-stradaem-my-s-synom'">
+		<p>Супруг не хочет работать вместе с моим отцом, но найти хорошее место самостоятельно у него не получается. В результате, страдаем мы с сыном</p>
+		<div class="history__about">
+							<div class="category">Отношения</div>
+			
+			<div class="comments">
+		<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+					<style type="text/css">.st0{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;}</style>
+			<g id="Xnix_x2F_Line_x2F_Comment_x5F_Lines_x5F_2">
+				<g id="Vector" transform="translate(5.000000, 5.000000)">
+					<path id="Vector-12" class="st0" d="M0,7c0,2.61,1.46,5.01,3.77,6.21s5.12,1.02,7.25-0.49L14,13V7c0-3.87-3.13-7-7-7S0,3.13,0,7z"
+					/>
+					<path id="Vector-13" class="st0" d="M4,9h4 M4,6h6"/>
+				</g>
+			</g>
+		</svg>
+		1	</div>
+			<div class="date">
+	<svg version="1.1" id="Isolation_Mode" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+		<style type="text/css"> .st0{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-miterlimit:10;} .st1{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;} </style>
+		<circle class="st0" cx="12" cy="12" r="7"/>
+		<line class="st1" x1="12" y1="12.08" x2="14.95" y2="14.78"/>
+		<line class="st1" x1="12" y1="12" x2="11.63" y2="9.03"/>
+	</svg>
+	17.12.2022</div>		</div>
+	</div>
+		<div class="item" onclick="location.href='https://zstory.ru/stories/otnosheniya/rodnaya-mat-perestala-so-mnoy-obschatsya-iz-za-togo-chto-u-menya-rodilsya-rebyonok-bez-muzha'">
+		<p>Родная мать перестала со мной общаться из-за того, что у меня родился ребёнок без мужа</p>
+		<div class="history__about">
+							<div class="category">Отношения</div>
+			
+						<div class="date">
+	<svg version="1.1" id="Isolation_Mode" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+		<style type="text/css"> .st0{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-miterlimit:10;} .st1{fill:none;stroke:#a1a1a1;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;} </style>
+		<circle class="st0" cx="12" cy="12" r="7"/>
+		<line class="st1" x1="12" y1="12.08" x2="14.95" y2="14.78"/>
+		<line class="st1" x1="12" y1="12" x2="11.63" y2="9.03"/>
+	</svg>
+	22.08.2022</div>		</div>
+	</div>
+	</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+
+
+	<footer>
+			<div class="container">
+	<div class="logo">
+		<img src="/img/logo.svg" alt="Жизнестории" width="170">
+		<p>&nbsp;</p>
+		<img src="/img/16+.svg" class="age" alt="age">
+	</div>
+	<div class="footer-text">
+		<p>Копирование материалов возможно только с активной ссылкой на Жизнестории</p>
+		<div class="footer-menu">
+			<div class="item">
+				<div class="title">Информация</div>
+<ul>
+	<li><a href="/redakciya">Редакция</a></li>
+	<li><a href="/reklama">Реклама</a></li>
+	<li><a href="/about">О проекте</a></li>
+</ul>			</div>
+			<div class="item">
+				<div class="title">Обязательно к прочтению</div>
+<ul>
+	<li><a href="/pravila-commentariev">Правила публикации комментариев</a></li>
+	<li><a href="/pravovaya-inforaciya">Правовая информация</a></li>
+	<li><a href="/privacy-policy">Политика конфиденциальности</a></li>
+	<li><a href="/terms-of-use">Пользовательское соглашение</a></li>
+</ul>			</div>
+		</div>
+	</div>
+</div>	</footer>
+	<div class="bg bg-auth hidden"></div>
+
+	<div class="container-mobile">
+		<div class="sign-in__popap popap-auth popap hidden">
+			<div class="title">Авторизация</div>
+			<p>К подписи к комментарию будет использоваться ваше Имя</p>
+			<form class="form-mobile-auth">
+				<input type="text" placeholder="Ваше Имя" name="user_name">
+				<button>Войти</button>
+			</form>
+			<button class="close"><svg version="1.1" id="Режим_изоляции" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 18.45 17.47" style="enable-background:new 0 0 18.45 17.47;" xml:space="preserve">
+				   <path fill="#000" d="M10.28,8.74l4.47-4.47c0.29-0.29,0.29-0.77,0-1.06s-0.77-0.29-1.06,0L9.22,7.68L4.75,3.21c-0.29-0.29-0.77-0.29-1.06,0
+					   s-0.29,0.77,0,1.06l4.47,4.47l-4.47,4.47c-0.29,0.29-0.29,0.77,0,1.06s0.77,0.29,1.06,0L9.22,9.8l4.47,4.47
+					   c0.29,0.29,0.77,0.29,1.06,0s0.29-0.77,0-1.06L10.28,8.74z"></path>
+				   </svg>
+			</button>
+		</div>
+	</div>
+
+
+<div class="bg bg-msg hidden"></div>
+<div class="review-accept hidden">
+	<div class="title"></div>
+	<p class="text"></p>
+	<button class="close-popap">Закрыть</button>
+	<button class="close">
+		<svg version="1.1" id="Режим_изоляции"
+			 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+			 viewBox="0 0 18.45 17.47"
+			 style="enable-background:new 0 0 18.45 17.47;" xml:space="preserve">
+			<path fill="#000" d="M10.28,8.74l4.47-4.47c0.29-0.29,0.29-0.77,0-1.06s-0.77-0.29-1.06,0L9.22,7.68L4.75,3.21c-0.29-0.29-0.77-0.29-1.06,0
+			    s-0.29,0.77,0,1.06l4.47,4.47l-4.47,4.47c-0.29,0.29-0.29,0.77,0,1.06s0.77,0.29,1.06,0L9.22,9.8l4.47,4.47
+			    c0.29,0.29,0.77,0.29,1.06,0s0.29-0.77,0-1.06L10.28,8.74z"/>
+		</svg>
+	</button>
+</div>
+
+
+	<script src="https://zstory.ru/js/_min/80517d02c3ca49bf06bf68c851f5139416761562745.js"></script>
+
+					<script src="https://userapi.com/js/api/openapi.js" type="text/javascript" charset="windows-1251" async></script>
+
+	<script async src="//atjroj.com/s94l71/291lvi0pm0y3h8q678vqu867pykz1d.php"></script> 
+<iframe class="relap-runtime-iframe" style="position:absolute;top:-9999px;left:-9999px;visibility:hidden;" srcdoc="<script src='https://relap.io/v7/relap.js' data-relap-token='ClojSQyIp1qnAQQB'></script>"></iframe>
+<!-- Yandex.RTB R-A-1501678-3 -->
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.render({
+    type: 'floorAd',    
+    blockId: 'R-A-1501678-3'
+  })
+})</script>
+	
+	
+	
+	
+	<!--LiveInternet counter--><script> new Image().src = "https://counter.yadro.ru/hit?r"+ escape(document.referrer)+((typeof(screen)=="undefined")?"": ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+ ";h"+escape(document.title.substring(0,150))+ ";"+Math.random();</script><!--/LiveInternet-->
+<!--LiveInternet counter--><script>
+new Image().src = "https://counter.yadro.ru/hit;Zstory?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,150))+
+";"+Math.random();</script><!--/LiveInternet-->	
+	<!--LiveInternet counter--><script type="text/javascript">
+new Image().src = "//counter.yadro.ru/hit;gorodor?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,150))+
+";"+Math.random();</script><!--/LiveInternet-->
+
+			<!-- Global site tag (gtag.js) - Google Analytics --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-BGPXXBRHV1"></script> <script>   window.dataLayer = window.dataLayer || [];   function gtag(){dataLayer.push(arguments);}   gtag('js', new Date());    gtag('config', 'G-BGPXXBRHV1'); </script>	
+
+	<!-- Yandex.Metrika counter --> <script type="text/javascript" >    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};    m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})    (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");     ym(86788382, "init", {         clickmap:true,         trackLinks:true,         accurateTrackBounce:true    }); </script> <noscript><div><img src="https://mc.yandex.ru/watch/86788382" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();
+   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(91642519, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/91642519" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->	
+
+	<!-- Rating Mail.ru counter --> <script type="text/javascript"> var _tmr = window._tmr || (window._tmr = []); _tmr.push({id: "3233572", type: "pageView", start: (new Date()).getTime()}); (function (d, w, id) {   if (d.getElementById(id)) return;   var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;   ts.src = "https://top-fwz1.mail.ru/js/code.js";   var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};   if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "topmailru-code"); </script><noscript><div> <img src="https://top-fwz1.mail.ru/counter?id=3233572;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru" /> </div></noscript> <!-- //Rating Mail.ru counter -->
+	
+	
+				
+</body>
+</html>

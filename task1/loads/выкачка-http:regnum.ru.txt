@@ -1,0 +1,2487 @@
+<!doctype html>
+<html lang="ru" prefix="og: http://ogp.me/ns#">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge,chrome=1">
+
+    <meta name='yandex-verification' content='4bca5fa995a83703'/>
+    <meta name="google-site-verification" content="bbLNvFjD7pUkil5MnrSc3aEbvzcEQk3yE35SC5Wnup8" />
+    <meta name="openstat-verification" content="6e0788d7d7aba43a8d3508465ba69d6b73da2a54"/>
+    <meta name="wot-verification" content="c7fee6a8cfc33f9aa908"/>
+    <meta name="verify-admitad" content="dbfb628c80"/>
+    <meta name="dumedia-verify" content="d4073fe41cb4">
+
+    <title>Новости России, СНГ и мира - ИА REGNUM</title>
+
+    <meta name="description" content="Федеральное информационное агентство. Сфера вещания ИА REGNUM охватывает все регионы России и сопредельные государства Европы, Средней Азии и Закавказья."/>
+    <meta name="keywords" content="новости, события, мнения, аналитика, Россия, Европа, Азия, мир, информация">
+
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-touch-icon.png?upd=20201229">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png?upd=20201229">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png?upd=20201229">
+    <link rel="manifest" href="/images/favicon/site.webmanifest?upd=20201229">
+    <link rel="mask-icon" href="/images/favicon/safari-pinned-tab.svg?upd=20201229" color="#6e18c0">
+    <link rel="shortcut icon" href="/images/favicon/favicon.ico?upd=20201229">
+
+    <meta name="msapplication-TileColor" content="#fefcfa">
+    <meta name="msapplication-config" content="/images/favicon/browserconfig.xml?upd=20201229">
+    <meta name="apple-mobile-web-app-status-bar-style" content="#fefcfa">
+    <meta name="theme-color" content="#fefcfa">
+
+    <link rel="yandex-tableau-widget" href="/manifest-yandex-tableau.json" />
+
+    <link rel="image_src" href="https://regnum.ru/images/logo/regnum_logo_inverted.png?udp=202208"/>
+
+    <!-- Open Graph data -->
+    <meta property="og:type" content="article"/>
+    <meta property="og:title" content="ИА REGNUM"/>
+    <meta property="og:image" content="https://regnum.ru/images/logo/regnum_logo_inverted.png?udp=202208"/>
+    <meta property="og:description" content="Федеральное информационное агентство. Сфера вещания ИА REGNUM охватывает все регионы России и сопредельные государства Европы, Средней Азии и Закавказья."/>
+    <meta property="og:locale" content="ru_RU"/>
+    <meta property="og:url" content="https://regnum.ru/"/>
+    <meta property="og:site_name" content="Новости России, СНГ и мира - ИА REGNUM"/>
+    <meta property="fb:admins" content="100001269602599"/>
+    <meta property="fb:app_id" content="254177294916980"/>
+
+    <!-- Twitter Card data -->
+    <meta name="twitter:card" content="summary"/>
+    <meta name="twitter:site" content="@IA_REGNUM"/>
+    <meta name="twitter:title" content="ИА REGNUM"/>
+    <meta name="twitter:description" content="Федеральное информационное агентство. Сфера вещания ИА REGNUM охватывает все регионы России и сопредельные государства Европы, Средней Азии и Закавказья."/>
+    <meta name="twitter:image" content="https://regnum.ru/images/logo/regnum_logo_inverted.png?udp=202208"/>
+    <meta name="twitter:url" content="https://regnum.ru/"/>
+
+    <!--  Include styles  -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|PT+Serif:300,300i,400,400i,700,700i&display=swap">
+    <link rel="stylesheet" href="/fonts/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/styles/regnum-bundle.css?v=1675874911461">
+
+    <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+    <![endif]-->
+    <script src="https://polyfill.io/v3/polyfill.min.js?flags=gated&features=default%2Cfetch%2CNodeList.prototype.forEach%2CMath.trunc" crossorigin="anonymous"></script>
+
+    <!-- partners -->
+    <link rel="dns-prefetch" href="//static.criteo.net">
+    <link rel="dns-prefetch" href="//bidder.criteo.com">
+    <link rel="preload" href="//static.criteo.net/js/ld/publishertag.js" as="script" crossorigin="anonymous">
+
+    <script src="https://yastatic.net/pcode/adfox/header-bidding.js"></script>
+    <script>
+      var adfoxUnits = [];
+      var adfoxBiddersMap;
+      var isTestMode = !!(~document.cookie.indexOf('_re_shad='));
+
+      adfoxBiddersMap = {
+        "relap": "2204829",
+        "sape": "2205017",
+        "betweenDigital": "810162",
+        "myTarget": "1328833",
+        "adriver": "1328837",
+      };
+
+      var userTimeout = 1200;
+      window.YaHeaderBiddingSettings = {
+        biddersMap: adfoxBiddersMap,
+        adUnits: adfoxUnits,
+        timeout: userTimeout,
+        callbacks: {
+          onBidsReceived: (bids) => {
+            console.log('HeaderBidding [onBidsReceived]', bids);
+          }
+        }
+      };
+
+      window.Criteo = window.Criteo || {};
+      window.Criteo.events = window.Criteo.events || [];
+
+      function CriteoAdblock(containerid, zoneid) {
+        var abp_slot = document.getElementById(containerid);
+        Criteo.events.push(function() {
+          Criteo.DisplayAcceptableAdIfAdblocked({
+            "zoneid": zoneid,
+            "containerid": containerid,
+            "overrideZoneFloor": false
+          });
+          abp_slot.style.width = abp_slot.getAttribute("size").split("x")[0]+"px";
+          abp_slot.style.height = abp_slot.getAttribute("size").split("x")[1]+"px";
+          window.addEventListener("message", function (e) {
+            if (e.data && e.data == "criteo-adblock-passback-"+zoneid)
+              document.getElementById(containerid).style.display = "none";
+            else return;
+          }, false);
+        });
+      }
+    </script>
+
+    <script>
+      window.Ya || (window.Ya = {});
+      window.yaContextCb = window.yaContextCb || [];
+      window.Ya.adfoxCode || (window.Ya.adfoxCode = {});
+      window.Ya.adfoxCode.hbCallbacks || (window.Ya.adfoxCode.hbCallbacks = []);
+    </script>
+    <script src="https://yandex.ru/ads/system/context.js" async></script>
+
+    <script src="https://static.wi-fi.ru/mtt/banners/libs/1.7.1/all.js"></script>
+    <script async src="https://moevideo.biz/embed/js/mvpt.min.js"></script>
+    <script async src="https://ad.mail.ru/static/ads-async.js"></script>
+
+</head>
+
+<body>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+  (function(m, e, t, r, i, k, a) {
+    m[i] = m[i] || function() {
+      (m[i].a = m[i].a || []).push(arguments)
+    };
+    m[i].l = 1 * new Date();
+    for (var j = 0; j < document.scripts.length; j++) {
+      if (document.scripts[j].src === r) {
+        return;
+      }
+    }
+    k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
+  })
+  (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+  ym(30593522, "init", {
+    clickmap: true,
+    trackLinks: true,
+    accurateTrackBounce: true,
+    webvisor: true
+  });
+</script>
+<noscript>
+    <div><img src="https://mc.yandex.ru/watch/30593522" style="position:absolute; left:-9999px;" alt="" /></div>
+</noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!--LiveInternet counter-->
+<script>
+  new Image().src = '//counter.yadro.ru/hit?r' +
+      escape(document.referrer) + ((typeof (screen) == 'undefined') ? '' :
+          ';s' + screen.width + '*' + screen.height + '*' + (screen.colorDepth ?
+              screen.colorDepth : screen.pixelDepth)) + ';u' + escape(document.URL) +
+      ';h' + escape(document.title.substring(0, 80)) +
+      ';' + Math.random();
+  window.docset = 'ent';
+</script>
+<!--/LiveInternet-->
+
+<!-- Rating@Mail.ru counter -->
+<script>
+  var _tmr = _tmr || [];
+  _tmr.push({ id: '813709', type: 'pageView', start: (new Date()).getTime() });
+  (function(d, w, id) {
+    if (d.getElementById(id)) return;
+    var ts = d.createElement('script');
+    ts.type = 'text/javascript';
+    ts.async = true;
+    ts.id = id;
+    ts.src = (d.location.protocol == 'https:' ? 'https:' : 'http:') + '//top-fwz1.mail.ru/js/code.js';
+    var f = function() {
+      var s = d.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(ts, s);
+    };
+    if (w.opera == '[object Opera]') {
+      d.addEventListener('DOMContentLoaded', f, false);
+    } else {
+      f();
+    }
+  })(document, window, 'topmailru-code');
+</script>
+<noscript>
+    <div style="position:absolute;left:-10000px;">
+        <img src="//top-fwz1.mail.ru/counter?id=813709;js=na" style="border:0;" height="1" width="1"
+             alt="Рейтинг@Mail.ru" />
+    </div>
+</noscript>
+<!-- //Rating@Mail.ru counter -->
+
+<!-- tns-counter.ru -->
+<script>
+  (function(win, doc, cb) {
+    (win[cb] = win[cb] || []).push(function() {
+      try {
+        tnsCounterRegnum_ru = new TNS.TnsCounter({
+          'account': 'regnum_ru',
+          'tmsec': 'regnum_total',
+        });
+      } catch (e) {
+      }
+    });
+
+    var tnsscript = doc.createElement('script');
+    tnsscript.type = 'text/javascript';
+    tnsscript.async = true;
+    tnsscript.src = ('https:' == doc.location.protocol ? 'https:' : 'http:') +
+        '//www.tns-counter.ru/tcounter.js';
+    var s = doc.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(tnsscript, s);
+  })(window, this.document, 'tnscounter_callback');
+</script>
+<noscript>
+    <img src="//www.tns-counter.ru/V13a****regnum_ru/ru/UTF-8/tmsec=regnum_total/" width="0" height="0" alt="" />
+</noscript>
+<!--/ tns-counter.ru -->
+
+<!-- Between Exchange matching -->
+<script>
+  var r = (Math.random() * 10000000000).toFixed(0);
+  var s = document.createElement('script');
+  s.src = '//ads.betweendigital.com/sspmatch-js?randsalt=' + r;
+  s.async = true;
+
+  document.body.appendChild(s);
+</script>
+<!--/ Between Exchange matching -->
+
+
+
+    <div class="logo-container main-page-logo">
+    <a href="https://regnum.ru/">
+        <picture>
+            
+            <!--инвертированное лого (белое на фиолетовом фоне) для мобильных экранов-->
+            <source srcset="https://regnum.ru/images/logo/regnum_logo_inverted.png?udp=202208" media="(max-width: 720px)">
+            
+            
+
+            <img src="https://regnum.ru/images/logo/regnum_logo.svg?udp=202208" alt="ИА REGNUM" />
+        </picture>
+    </a>
+</div>
+
+
+<!-- start .content -->
+
+
+<div class="content main-page-content" id="content">
+    <!--  header nav  -->
+    <div class="header-menu">
+        <div class="header-menu-item"><a href="https://regnum.ru/search/news">Новости</a></div>
+        <div class="header-menu-item"><a href="https://regnum.ru/search/analytics">Статьи</a></div>
+        <div class="header-menu-item"><a href="https://regnum.ru/search/photos">Фото</a></div>
+        <div class="header-menu-item"><a href="https://regnum.ru/search">Поиск</a></div>
+    </div>
+
+    <!--  main  -->
+    <div class="top-container">
+        <div class="status-column">
+            <div class="status-datetime" data-timezone="+3"></div>
+
+            <div class="status-count-news">
+                <strong>152</strong>
+                новости&nbsp;сегодня
+            </div>
+
+            <div class="status-currency-wrapper">
+                
+                <div class="status-currency">
+                    <div class="status-currency-header">Курсы ЦБ на 18.02.23</div>
+                    <div class="dollar-value">&dollar;&thinsp;74.76</div>
+                    <div class="euro-value">&euro;&thinsp;79.61</div>
+                </div>
+                
+
+                
+                <div class="status-currency">
+                    <div class="status-currency-header">Биржевые курсы на 13:30 мск</div>
+                    <div class="dollar-value">
+                        &dollar;&thinsp;73.83
+                        <span class="change-positive">
+                        0.22</span>
+                    </div>
+                    <div class="euro-value">
+                        &euro;&thinsp;77.42
+                        <span class="change-positive">
+                        0.14</span>
+                    </div>
+                </div>
+                
+            </div>
+
+            
+        </div>
+
+        <div class="main-news-column left-column-shadow">
+            
+            <div class="article-list">
+                
+                
+                <a class="article-item has-picture"
+                   href="https://regnum.ru/news/accidents/3781912.html">
+                    
+                    <img class="article-cover" alt="СВО"
+                         src="https://regnum.ru/uploads/pictures/news/2022/10/08/regnum_picture_16652426237682_small.jpg">
+                    
+
+                    <span class="article-title">
+                        <i class="fa fa-circle translation-on-air"></i><!--
+                        -->Прорыв обороны ВСУ под Артёмовском — 364-й день спецоперации на Украине
+                    </span>
+                </a>
+                
+                
+                <a class="article-item has-picture"
+                   href="https://regnum.ru/news/polit/3782021.html">
+                    
+                    <img class="article-cover" alt="Мария Захарова"
+                         src="https://regnum.ru/uploads/pictures/news/2023/02/20/regnum_picture_16768889464397_small.jpg">
+                    
+
+                    <span class="article-title">
+                        <!--
+                        -->Захарова сыронизировала над встречей Байдена с Зеленским в Киеве
+                    </span>
+                </a>
+                
+                
+                <a class="article-item has-picture"
+                   href="https://regnum.ru/news/society/3782000.html">
+                    
+                    <img class="article-cover" alt="Владимир Путин"
+                         src="https://regnum.ru/uploads/pictures/news/2017/06/15/regnum_picture_14975187052739851_small.png">
+                    
+
+                    <span class="article-title">
+                        <!--
+                        -->В Кремле объяснили высокий уровень доверия Владимиру Путину
+                    </span>
+                </a>
+                
+                
+                <a class="article-item has-picture"
+                   href="https://regnum.ru/news/polit/3781987.html">
+                    
+                    <img class="article-cover" alt="Кадыров"
+                         src="https://regnum.ru/uploads/pictures/news/2022/12/05/regnum_picture_16702436687714_small.jpg">
+                    
+
+                    <span class="article-title">
+                        <!--
+                        -->Кадыров сообщил о взятии стратегической высоты в районе Белогоровки
+                    </span>
+                </a>
+                
+                
+                <a class="article-item has-picture"
+                   href="https://regnum.ru/news/world/3781980.html">
+                    
+                    <img class="article-cover" alt="Санкции"
+                         src="https://regnum.ru/uploads/pictures/news/2022/12/19/regnum_picture_16714822808442_small.jpg">
+                    
+
+                    <span class="article-title">
+                        <!--
+                        -->Страны Евросоюза намерены согласовать новые санкции против РФ и Белоруссии
+                    </span>
+                </a>
+                
+                
+                <a class="article-item has-picture"
+                   href="https://regnum.ru/news/russia/3781969.html">
+                    
+                    <img class="article-cover" alt="Обстрел Донецка"
+                         src="https://regnum.ru/uploads/pictures/news/2022/12/20/regnum_picture_16715433871711_small.jpg">
+                    
+
+                    <span class="article-title">
+                        <!--
+                        -->Село Вознесеновка в Белгородской области попало под обстрел со стороны ВСУ
+                    </span>
+                </a>
+                
+            </div>
+            
+        </div>
+
+        <div class="slot-column">
+            <div class="slot-container">
+                <div class="slot item"></div>
+            </div>
+        </div>
+    </div>
+
+    <!--  analytics  -->
+    
+    <div class="story-container analytics-story">
+        <div class="story-header">
+            <span data-link="https://regnum.ru/search/analytics">Статьи</span>
+        </div>
+        <div class="story-content">
+            <div class="swiper-container more-analytics-container">
+                <div class="swiper-wrapper">
+                
+                    
+                    
+                    <a href="https://regnum.ru/news/world/3781974.html" class="more-analytics is-loaded swiper-slide"
+                       data-time="1676887568">
+                        
+                        <img alt="" src="https://regnum.ru/uploads/pictures/news/2018/10/23/regnum_picture_15402764843168634_small.png" />
+                        
+                        <span class="gradient-cover"></span>
+                        <span class="more-analytics-header">Саудовская Аравия обходит запрет США. Что получит от этого Россия</span>
+                    </a>
+                    
+                
+                    
+                    
+                    <a href="https://regnum.ru/news/world/3781961.html" class="more-analytics is-loaded swiper-slide"
+                       data-time="1676883569">
+                        
+                        <img alt="" src="https://regnum.ru/uploads/pictures/news/2021/11/05/regnum_picture_16360921182001035_small.png" />
+                        
+                        <span class="gradient-cover"></span>
+                        <span class="more-analytics-header">Организовав встречу Алиева и Пашиняна, США выдавливают Россию из Закавказья</span>
+                    </a>
+                    
+                
+                    
+                    
+                    <a href="https://regnum.ru/news/world/3781767.html" class="more-analytics is-loaded swiper-slide"
+                       data-time="1676813700">
+                        
+                        <img alt="" src="https://regnum.ru/uploads/covers/2023/02/19/regnum_file_167681384137580.jpg" />
+                        
+                        <span class="gradient-cover"></span>
+                        <span class="more-analytics-header">Стратеги без стратегии. Итоги Мюнхенской конференции</span>
+                    </a>
+                    
+                
+                    
+                    
+                    <a href="https://regnum.ru/news/world/3781638.html" class="more-analytics is-loaded swiper-slide"
+                       data-time="1676794112">
+                        
+                        <img alt="" src="https://regnum.ru/uploads/covers/2023/02/19/regnum_file_167678347713132.jpg" />
+                        
+                        <span class="gradient-cover"></span>
+                        <span class="more-analytics-header">Варшава надеется на помощь Лондона в получении «украинских» 70 миллиардов</span>
+                    </a>
+                    
+                
+                    
+                    
+                    <a href="https://regnum.ru/news/world/3781609.html" class="more-analytics is-loaded swiper-slide"
+                       data-time="1676794020">
+                        
+                        <img alt="" src="https://regnum.ru/uploads/covers/2023/02/19/regnum_file_167678457258641.png" />
+                        
+                        <span class="gradient-cover"></span>
+                        <span class="more-analytics-header">Провести Мюнхенскую конференцию по безопасности без России не удалось</span>
+                    </a>
+                    
+                
+                    
+                    
+                    <a href="https://regnum.ru/news/world/3781260.html" class="more-analytics is-loaded swiper-slide"
+                       data-time="1676719440">
+                        
+                        <img alt="" src="https://regnum.ru/uploads/covers/2023/02/17/regnum_file_167664861020876.jpg" />
+                        
+                        <span class="gradient-cover"></span>
+                        <span class="more-analytics-header">Инстасамка на «Миротворце» и слёзы Гордона. Чем живет Украина кроме СВО</span>
+                    </a>
+                    
+                
+                    
+                    
+                    <a href="https://regnum.ru/news/society/3781328.html" class="more-analytics is-loaded swiper-slide"
+                       data-time="1676702864">
+                        
+                        <img alt="" src="https://regnum.ru/uploads/covers/2023/02/17/regnum_file_167665671635136.jpg" />
+                        
+                        <span class="gradient-cover"></span>
+                        <span class="more-analytics-header">«Крайне логичное решение». В канун наступления в ВСУ создан польский легион</span>
+                    </a>
+                    
+                
+                    
+                    
+                    <a href="https://regnum.ru/news/world/3781330.html" class="more-analytics is-loaded swiper-slide"
+                       data-time="1676670774">
+                        
+                        <img alt="" src="https://regnum.ru/uploads/covers/2023/02/17/regnum_file_167665468218781.jpg" />
+                        
+                        <span class="gradient-cover"></span>
+                        <span class="more-analytics-header">Провоцируя кризис в НАТО, Эрдоган стремится «прогнуть» Вашингтон</span>
+                    </a>
+                    
+                
+                    
+                    
+                    <a href="https://regnum.ru/news/economy/3781307.html" class="more-analytics is-loaded swiper-slide"
+                       data-time="1676659366">
+                        
+                        <img alt="" src="https://regnum.ru/uploads/pictures/news/2022/08/05/regnum_picture_16597041346154339_small.jpg" />
+                        
+                        <span class="gradient-cover"></span>
+                        <span class="more-analytics-header">Китайские вместо американских. Отечественный бизнес ждёт «банкозамещения»</span>
+                    </a>
+                    
+                
+                    
+                    
+                    <a href="https://regnum.ru/news/world/3781317.html" class="more-analytics is-loaded swiper-slide"
+                       data-time="1676656131">
+                        
+                        <img alt="" src="https://regnum.ru/uploads/covers/2023/02/17/regnum_file_167665158126632.jpg" />
+                        
+                        <span class="gradient-cover"></span>
+                        <span class="more-analytics-header">«Лицемерно и богохульно». Сенат Франции признал еще один геноцид</span>
+                    </a>
+                    
+                
+                </div>
+                <div class="swiper-button-next swiper-button-grey"></div>
+                <div class="swiper-button-prev swiper-button-grey"></div>
+            </div>
+        </div>
+        <a href="https://regnum.ru/search/analytics" class="column-dots"><svg class="svg-icon"><use xlink:href="/images/icons/regnum-icons-sprite.svg#icon-three-dots"></use></svg></a>
+    </div>
+    
+
+    <!--  news  -->
+    <div class="story-container news-story">
+        <div class="story-header">
+            <span data-link="https://regnum.ru/search/news">Новости</span>
+        </div>
+
+        <div class="story-content">
+            <div class="swiper-container news-dossier-columns-wrapper">
+                <div class="swiper-wrapper">
+                
+                    
+                        <div class="news-column news-dossier-column left-column-shadow swiper-slide">
+                            <div class="news-column-header">
+                            <span>
+                                <a href="https://regnum.ru/theme/polit.html">Политика</a>
+                            </span>
+                            </div>
+                            <div class="article-list">
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/polit/3782023.html">
+                                    
+                                    <img class="article-cover" alt="" src="https://regnum.ru/images/covers/default/nopic_9.png">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Боррель не уверен в скором согласовании десятого пакета санкций против РФ
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/polit/3782022.html">
+                                    
+                                    <img class="article-cover" alt="" src="https://regnum.ru/images/covers/default/nopic_3.png">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Минобороны рассказало о подвиге ефрейтора Павла Ионченко
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/polit/3782021.html">
+                                    
+                                    <img class="article-cover" alt="Мария Захарова"
+                                         src="https://regnum.ru/uploads/pictures/news/2023/02/20/regnum_picture_16768889464397_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Захарова сыронизировала над встречей Байдена с Зеленским в Киеве
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/polit/3782020.html">
+                                    
+                                    <img class="article-cover" alt="Зеленский и Байден в Киеве. 20.02.2023"
+                                         src="https://regnum.ru/uploads/pictures/news/2023/02/20/regnum_picture_16768888334501_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Байден провёл встречу с Зеленским в Киеве — СМИ
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/polit/3782018.html">
+                                    
+                                    <img class="article-cover" alt="ЗРК Patriot"
+                                         src="https://regnum.ru/uploads/pictures/news/2023/01/09/regnum_picture_16732538847171_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Премьер-министр Нидерландов назвал сроки передачи Киеву систем Patriot
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/polit/3782019.html">
+                                    
+                                    <img class="article-cover" alt="Рамзан Кадыров"
+                                         src="https://regnum.ru/uploads/pictures/news/2019/07/31/regnum_picture_15645834272502459_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Кадыров сообщил о взятии под контроль железной дороги на Северск
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/polit/3782017.html">
+                                    
+                                    <img class="article-cover" alt="Леонид Слуцкий наградил сотрудников предприятия"
+                                         src="https://regnum.ru/uploads/pictures/news/2023/02/20/regnum_picture_16768879326636_small.JPG">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Лидер ЛДПР наградил работников авиазавода в Ульяновске
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/polit/3782016.html">
+                                    
+                                    <img class="article-cover" alt="МАГАТЭ"
+                                         src="https://regnum.ru/uploads/pictures/news/2023/02/20/regnum_picture_16768885051084_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->США контактируют с МАГАТЭ из-за сообщений об обогащении урана Ираном
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/polit/3782015.html">
+                                    
+                                    <img class="article-cover" alt="Тюрьма"
+                                         src="https://regnum.ru/uploads/pictures/news/2018/08/26/regnum_picture_1535266783297255_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Иран обвинил США в срыве процесса обмена заключенными
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/polit/3781996.html">
+                                    
+                                    <img class="article-cover" alt="Дмитрий Песков"
+                                         src="https://regnum.ru/uploads/pictures/news/2021/12/23/regnum_picture_16402723354771627_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Высокий рейтинг Путина и планы на Приднестровье — Песков комментирует
+                                    </span>
+                                </a>
+                            
+                            </div>
+                        </div>
+                    
+                        <div class="news-column news-dossier-column left-column-shadow swiper-slide">
+                            <div class="news-column-header">
+                            <span>
+                                <a href="https://regnum.ru/theme/accidents.html">Происшествия</a>
+                            </span>
+                            </div>
+                            <div class="article-list">
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/accidents/3781912.html">
+                                    
+                                    <img class="article-cover" alt="СВО"
+                                         src="https://regnum.ru/uploads/pictures/news/2022/10/08/regnum_picture_16652426237682_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <i class="fa fa-circle translation-on-air"></i><!--
+                                        -->Прорыв обороны ВСУ под Артёмовском — 364-й день спецоперации на Украине
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/accidents/3782010.html">
+                                    
+                                    <img class="article-cover" alt="Самолеты на территории международного аэропорта «Внуково»"
+                                         src="https://regnum.ru/uploads/pictures/news/2023/02/20/regnum_picture_16768875484461_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Во «Внуково» сотрудник Turkish Airlines упал с четырехметровой высоты
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/accidents/3782007.html">
+                                    
+                                    <img class="article-cover" alt="Энтони Блинкен"
+                                         src="https://regnum.ru/uploads/pictures/news/2021/04/10/regnum_picture_16180069365148195_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Блинкен пообещал, что США продолжат поддерживать Турцию
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/accidents/3782011.html">
+                                    
+                                    <img class="article-cover" alt="Скорая помощь"
+                                         src="https://regnum.ru/uploads/pictures/news/2021/10/11/regnum_picture_16339357761555071_small.png">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Три человека пострадали при взрыве газа в Ингушетии
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/accidents/3781991.html">
+                                    
+                                    <img class="article-cover" alt="Крымский мост"
+                                         src="https://regnum.ru/uploads/pictures/news/2021/08/30/regnum_picture_1630355889189431_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Названа предварительная причина ДТП на Крымском мосту
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/accidents/3781986.html">
+                                    
+                                    <img class="article-cover" alt="ДТП. Воронеж"
+                                         src="https://regnum.ru/uploads/pictures/news/2023/02/20/regnum_picture_16768846967450_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->В Воронеже водитель легкового автомобиля сбил трёх пешеходов
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/accidents/3781967.html">
+                                    
+                                    <img class="article-cover" alt="Бандиты"
+                                         src="https://regnum.ru/uploads/pictures/news/2023/02/15/regnum_picture_16764642662495_normal.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->«Эй, руссе»: на российского болельщика напали на стадионе в Швейцарии
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/accidents/3781963.html">
+                                    
+                                    <img class="article-cover" alt="Вертолёт Ми-8"
+                                         src="https://regnum.ru/uploads/pictures/news/2018/11/03/regnum_picture_1541271399241469_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->В Кемеровской области при аварийной посадке вертолёта погиб человек
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/accidents/3781956.html">
+                                    
+                                    <img class="article-cover" alt="МВД"
+                                         src="https://regnum.ru/uploads/pictures/news/2022/12/30/regnum_picture_16724124618262_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Захватившие заложников в московском магазине требовали $5 млн
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/accidents/3781951.html">
+                                    
+                                    <img class="article-cover" alt="Пожар"
+                                         src="https://regnum.ru/uploads/pictures/news/2022/12/10/regnum_picture_16706253846111_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->При взрыве в Новой Москве пострадала молодая девушка
+                                    </span>
+                                </a>
+                            
+                            </div>
+                        </div>
+                    
+                        <div class="news-column news-dossier-column left-column-shadow swiper-slide">
+                            <div class="news-column-header">
+                            <span>
+                                <a href="https://regnum.ru/theme/russia.html">В России</a>
+                            </span>
+                            </div>
+                            <div class="article-list">
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/russia/3782014.html">
+                                    
+                                    <img class="article-cover" alt="Работа военной разведки в зоне проведения СВО"
+                                         src="https://regnum.ru/uploads/pictures/news/2023/02/20/regnum_picture_16768879275939_small.JPG">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Минобороны РФ показало кадры работы военной разведки в зоне СВО
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/russia/3781989.html">
+                                    
+                                    <img class="article-cover" alt="Следственный комитет РФ"
+                                         src="https://regnum.ru/uploads/pictures/news/2023/01/27/regnum_picture_16748156834690_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->СК РФ возбудил более 150 дел о ложных сообщениях про армию
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/russia/3781969.html">
+                                    
+                                    <img class="article-cover" alt="Обстрел Донецка"
+                                         src="https://regnum.ru/uploads/pictures/news/2022/12/20/regnum_picture_16715433871711_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Село Вознесеновка в Белгородской области попало под обстрел со стороны ВСУ
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/russia/3781965.html">
+                                    
+                                    <img class="article-cover" alt="Су-57"
+                                         src="https://regnum.ru/uploads/pictures/news/2019/08/29/regnum_picture_1567064622108563_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Вице-премьер Мантуров высоко оценил эффективность Су-57 в зоне СВО
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/russia/3781958.html">
+                                    
+                                    <img class="article-cover" alt="Военные поставки НАТО"
+                                         src="https://regnum.ru/uploads/pictures/news/2022/10/08/regnum_picture_16652426161482_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->СВР: большая часть поставленной НАТО Киеву военной техники уничтожена
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/russia/3781928.html">
+                                    
+                                    <img class="article-cover" alt="Наемники на Украине"
+                                         src="https://regnum.ru/uploads/pictures/news/2022/12/29/regnum_picture_16723345727367_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Марочко заявил о переброске польских наёмников ВСУ под Кременную
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/russia/3781923.html">
+                                    
+                                    <img class="article-cover" alt="Военнослужащий из ЛНР у пикапа ВСУ"
+                                         src="https://regnum.ru/uploads/pictures/news/2023/02/20/regnum_picture_16768722693928_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Марочко заявил, что ВСУ размещают установки ПТУР и миномёты в пикапах
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/russia/3781896.html">
+                                    
+                                    <img class="article-cover" alt="Солдаты ВС РФ"
+                                         src="https://regnum.ru/uploads/pictures/news/2022/03/21/regnum_picture_1647869553623224_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Российские десантники укрепляются на выгодных позициях в ЛНР
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/russia/3781774.html">
+                                    
+                                    <img class="article-cover" alt="РСЗО"
+                                         src="https://regnum.ru/uploads/pictures/news/2022/10/15/regnum_picture_16658672871618_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->ВСУ выпустили по Донецку 40 ракет из РСЗО
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/russia/3781768.html">
+                                    
+                                    <img class="article-cover" alt="ВС России"
+                                         src="https://regnum.ru/uploads/pictures/news/2022/05/03/regnum_picture_1651577672166808_small.JPG">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->В Минобороны РФ рассказали о потерях ВСУ на купянском направлении
+                                    </span>
+                                </a>
+                            
+                            </div>
+                        </div>
+                    
+                        <div class="news-column news-dossier-column left-column-shadow swiper-slide">
+                            <div class="news-column-header">
+                            <span>
+                                <a href="https://regnum.ru/theme/world.html">В мире</a>
+                            </span>
+                            </div>
+                            <div class="article-list">
+                            
+                                
+                                <a class="article-item has-picture is-primary"
+                                   href="https://regnum.ru/news/world/3781974.html">
+                                    
+                                    <img class="article-cover" alt="Саудовская Аравия"
+                                         src="https://regnum.ru/uploads/pictures/news/2018/10/23/regnum_picture_15402764843168634_small.png">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Саудовская Аравия обходит запрет США. Что получит от этого Россия
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/world/3782009.html">
+                                    
+                                    <img class="article-cover" alt="Воздушная тревога"
+                                         src="https://regnum.ru/uploads/pictures/news/2023/02/17/regnum_picture_16766299527985_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->На Украине объявили воздушную тревогу во всех регионах
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/world/3782002.html">
+                                    
+                                    <img class="article-cover" alt="Автомобильная пробка"
+                                         src="https://regnum.ru/uploads/pictures/news/2020/09/17/regnum_picture_16003397533332001_small.JPG">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Гигантские пробки в Киеве объяснили приездом главы МВФ
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/world/3781993.html">
+                                    
+                                    <img class="article-cover" alt="СВО"
+                                         src="https://regnum.ru/uploads/pictures/news/2022/10/08/regnum_picture_16652426261127_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->МИД Китая отреагировал на заявление США о военной помощи России
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/world/3781985.html">
+                                    
+                                    <img class="article-cover" alt="Данные обо всей техники, уничтоженной ВС РФ с начала специальной операции на Украине по состоянию на 19 февраля"
+                                         src="https://regnum.ru/uploads/pictures/news/2023/02/20/regnum_picture_1676884005936_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->ВС РФ уничтожили на Украине большую часть техники НАТО
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture is-primary"
+                                   href="https://regnum.ru/news/world/3781961.html">
+                                    
+                                    <img class="article-cover" alt="Закавказье"
+                                         src="https://regnum.ru/uploads/pictures/news/2021/11/05/regnum_picture_16360921182001035_small.png">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Организовав встречу Алиева и Пашиняна, США выдавливают Россию из Закавказья
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/world/3781980.html">
+                                    
+                                    <img class="article-cover" alt="Санкции"
+                                         src="https://regnum.ru/uploads/pictures/news/2022/12/19/regnum_picture_16714822808442_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Страны Евросоюза намерены согласовать новые санкции против РФ и Белоруссии
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/world/3781971.html">
+                                    
+                                    <img class="article-cover" alt="Владимир Зеленский"
+                                         src="https://regnum.ru/uploads/pictures/news/2023/01/18/regnum_picture_16740450004451_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Зеленский похвастался отличным качеством водки на Украине
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/world/3781959.html">
+                                    
+                                    <img class="article-cover" alt="Сенатор США Линдси Грэм"
+                                         src="https://regnum.ru/uploads/pictures/news/2023/02/20/regnum_picture_16768800292078_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Сенатор США Грэм предостерег Китай от помощи Москве, напомнив о «Титанике»
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/world/3781949.html">
+                                    
+                                    <img class="article-cover" alt="Киев"
+                                         src="https://regnum.ru/uploads/pictures/news/2022/03/29/regnum_picture_16485345495827474_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Центр Киева перекрыли из-за приезда иностранной делегации
+                                    </span>
+                                </a>
+                            
+                            </div>
+                        </div>
+                    
+                        <div class="news-column news-dossier-column left-column-shadow swiper-slide">
+                            <div class="news-column-header">
+                            <span>
+                                <a href="https://regnum.ru/theme/society.html">Общество</a>
+                            </span>
+                            </div>
+                            <div class="article-list">
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/society/3782000.html">
+                                    
+                                    <img class="article-cover" alt="Владимир Путин"
+                                         src="https://regnum.ru/uploads/pictures/news/2017/06/15/regnum_picture_14975187052739851_small.png">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->В Кремле объяснили высокий уровень доверия Владимиру Путину
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/society/3781992.html">
+                                    
+                                    <img class="article-cover" alt="Лидер группы «ДДТ» Юрий Шевчук"
+                                         src="https://regnum.ru/uploads/pictures/news/2023/02/20/regnum_picture_16768857662632_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Клип Шевчука о судьбе России и спецоперации вызвал критику в Сети
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/society/3781973.html">
+                                    
+                                    <img class="article-cover" alt="Крымский мост"
+                                         src="https://regnum.ru/uploads/pictures/news/2021/04/01/regnum_picture_1617269940270521_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Движение на Крымском мосту восстановили после ДТП
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/society/3781966.html">
+                                    
+                                    <img class="article-cover" alt="Николай Сванидзе"
+                                         src="https://regnum.ru/uploads/pictures/news/2021/01/20/regnum_picture_16111258434587586_small.JPG">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Журналиста Сванидзе перевезли для продолжения лечения в Израиль
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/society/3781960.html">
+                                    
+                                    <img class="article-cover" alt="Государственная дума РФ"
+                                         src="https://regnum.ru/uploads/pictures/news/2022/10/06/regnum_picture_1665046797742_small.png">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Законопроект о соблюдении тишины и покоя граждан в России внесен в Госдуму
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/society/3781939.html">
+                                    
+                                    <img class="article-cover" alt="Сеть"
+                                         src="https://regnum.ru/uploads/pictures/news/2022/09/15/regnum_picture_1663253630191250_small.png">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Роскомнадзор намерен запустить систему «Вепрь» для выявления угроз в Сети
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/society/3781938.html">
+                                    
+                                    <img class="article-cover" alt="Госдума"
+                                         src="https://regnum.ru/uploads/pictures/news/2020/12/22/regnum_picture_160862039059816_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Законопроекты о зарплатах и стипендиях в новых регионах разработали в ГД
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/society/3781927.html">
+                                    
+                                    <img class="article-cover" alt="Диспансеризация"
+                                         src="https://regnum.ru/uploads/pictures/news/2023/02/20/regnum_picture_16768727365155_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Законопроект о ежегодной диспансеризации работников с 18 лет внесен в ГД
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/society/3781915.html">
+                                    
+                                    <img class="article-cover" alt="СВО"
+                                         src="https://regnum.ru/uploads/pictures/news/2022/10/08/regnum_picture_16652426119309_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->ВСУ готовятся к обороне города Часов Яр к западу от Артёмовска
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/society/3781914.html">
+                                    
+                                    <img class="article-cover" alt="Александр Бастрыкин"
+                                         src="https://regnum.ru/uploads/pictures/news/2021/08/01/regnum_picture_1627797344451053_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Бастрыкин: 10 граждан США подозревают в изготовлении биооружия на Украине
+                                    </span>
+                                </a>
+                            
+                            </div>
+                        </div>
+                    
+                        <div class="news-column news-dossier-column left-column-shadow swiper-slide">
+                            <div class="news-column-header">
+                            <span>
+                                <a href="https://regnum.ru/theme/economy.html">Экономика</a>
+                            </span>
+                            </div>
+                            <div class="article-list">
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/economy/3781984.html">
+                                    
+                                    <img class="article-cover" alt="Руслан Вестеровский"
+                                         src="https://regnum.ru/uploads/pictures/news/2019/09/13/regnum_picture_1568404380674935_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Руслан Вестеровский оставит пост зампреда Банка России
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/economy/3781950.html">
+                                    
+                                    <img class="article-cover" alt="IDEX-2023"
+                                         src="https://regnum.ru/uploads/pictures/news/2023/02/20/regnum_picture_16768786528087_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Россия продолжает поставлять оружие на рынки стран Ближнего Востока
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/economy/3781901.html">
+                                    
+                                    <img class="article-cover" alt="Удачная сделка. Фрагмент картины Квентина Массейнса «Сборщики податей»"
+                                         src="https://regnum.ru/uploads/pictures/news/2019/12/13/regnum_picture_1576231842407962_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->В ближайшие дни начнутся переговоры по продлению зерновой сделки
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/economy/3781900.html">
+                                    
+                                    <img class="article-cover" alt="ФРГ"
+                                         src="https://regnum.ru/uploads/pictures/news/2022/06/19/regnum_picture_16555905827224937_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Конфликт на Украине назвали причиной масштабных финансовых потерь Германии
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/economy/3781861.html">
+                                    
+                                    <img class="article-cover" alt="Виктор Орбан"
+                                         src="https://regnum.ru/uploads/pictures/news/2019/09/05/regnum_picture_15676932221059768_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Премьер Венгрии Орбан призвал Евросоюз воевать с инфляцией, а не с Россией
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/economy/3781839.html">
+                                    
+                                    <img class="article-cover" alt="Джанита Абейвикрема Лиянаге"
+                                         src="https://regnum.ru/uploads/pictures/news/2023/02/19/regnum_picture_16768273656494_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Власти Шри-Ланки обсуждают с Россией прямые поставки нефти
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/economy/3781825.html">
+                                    
+                                    <img class="article-cover" alt="Российская нефть"
+                                         src="https://regnum.ru/uploads/pictures/news/2018/05/22/regnum_picture_15270051174628568_small.png">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Express: Путин «щелкнул по носу» Великобританию и нефтяных гигантов
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/economy/3781823.html">
+                                    
+                                    <img class="article-cover" alt="Якутские алмазы"
+                                         src="https://regnum.ru/uploads/pictures/news/2023/02/19/regnum_picture_16768211563850_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Bloomberg: ЕС и G7 хотят ввести санкции на торговлю российскими алмазами
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/economy/3781794.html">
+                                    
+                                    <img class="article-cover" alt="Фатих Бирол"
+                                         src="https://regnum.ru/uploads/pictures/news/2023/02/19/regnum_picture_16768140605371_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Глава МЭА Бирол предрёк Европе трудности с газом следующей зимой
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/economy/3781762.html">
+                                    
+                                    <img class="article-cover" alt="Алексей Миллер"
+                                         src="https://regnum.ru/uploads/pictures/news/2023/02/19/regnum_picture_16768082241320_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Глава Газпрома рассказал о выходе на новые рынки
+                                    </span>
+                                </a>
+                            
+                            </div>
+                        </div>
+                    
+                        <div class="news-column news-dossier-column left-column-shadow swiper-slide">
+                            <div class="news-column-header">
+                            <span>
+                                <a href="https://regnum.ru/theme/cultura.html">Культура</a>
+                            </span>
+                            </div>
+                            <div class="article-list">
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/cultura/3781975.html">
+                                    
+                                    <img class="article-cover" alt="Актер Ричард Белзер"
+                                         src="https://regnum.ru/uploads/pictures/news/2023/02/20/regnum_picture_16768826264705_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Американский актер Ричард Белзер скончался в возрасте 78 лет
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/cultura/3781962.html">
+                                    
+                                    <img class="article-cover" alt="Дмитрий Билан"
+                                         src="https://regnum.ru/uploads/pictures/news/2018/09/23/regnum_picture_15377334631539613_small.JPG">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Билан рассказал, кто сломал ему ребро
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/cultura/3781877.html">
+                                    
+                                    <img class="article-cover" alt="Кинопрокат"
+                                         src="https://regnum.ru/uploads/pictures/news/2016/09/05/regnum_picture_1473075194142799_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Драма «На Западном фронте без перемен» получила премию BAFTA
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/cultura/3781439.html">
+                                    
+                                    <img class="article-cover" alt="Людмила Абрамова"
+                                         src="https://regnum.ru/uploads/pictures/news/2023/02/18/regnum_picture_16767096376136_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Умерла бывшая жена Владимира Высоцкого актриса Людмила Абрамова
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/cultura/3781367.html">
+                                    
+                                    <img class="article-cover" alt="Разговор"
+                                         src="https://regnum.ru/uploads/pictures/news/2017/03/30/regnum_picture_1490822223125485_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Скончалась американская актриса Стелла Стивенс
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/cultura/3781337.html">
+                                    
+                                    <img class="article-cover" alt="Алексей Островский"
+                                         src="https://regnum.ru/uploads/pictures/news/2018/09/28/regnum_picture_1538144682157481_small.jpeg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Смоленский губернатор сообщил замгенпрокурора о защите статуса «Хмелиты»
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/cultura/3781018.html">
+                                    
+                                    <img class="article-cover" alt="Филипп Киркоров"
+                                         src="https://regnum.ru/uploads/pictures/news/2023/02/16/regnum_picture_16765664288649_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Умер бывший концертный директор Киркорова Геннадий Рыбак
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/cultura/3780967.html">
+                                    
+                                    <img class="article-cover" alt="Дэниел Редклифф роли Гарри Поттера"
+                                         src="https://regnum.ru/uploads/pictures/news/2023/02/16/regnum_picture_16765563698969_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Warner Bros. обсуждает съёмки нового фильма о Гарри Поттере
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/cultura/3780951.html">
+                                    
+                                    <img class="article-cover" alt="Прощание с режиссером Вадимом Абдрашитовым"
+                                         src="https://regnum.ru/uploads/pictures/news/2023/02/16/regnum_picture_16765527075856_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->В Москве похоронили режиссера Абдрашитова
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/cultura/3780805.html">
+                                    
+                                    <img class="article-cover" alt="Барбара Брыльска"
+                                         src="https://regnum.ru/uploads/pictures/news/2019/01/01/regnum_picture_1546305987109088_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Барбара Брыльска раскритиковала российские города за «нищету»
+                                    </span>
+                                </a>
+                            
+                            </div>
+                        </div>
+                    
+                        <div class="news-column news-dossier-column left-column-shadow swiper-slide">
+                            <div class="news-column-header">
+                            <span>
+                                <a href="https://regnum.ru/theme/sport.html">Спорт</a>
+                            </span>
+                            </div>
+                            <div class="article-list">
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/sport/3781957.html">
+                                    
+                                    <img class="article-cover" alt="Матч. «Локомотив»"
+                                         src="https://regnum.ru/uploads/pictures/news/2022/11/09/regnum_picture_16680059514921_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->В «Локомотиве» назвали бюджет клуба на сезон
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/sport/3781844.html">
+                                    
+                                    <img class="article-cover" alt="Даниил Медведев (Россия)"
+                                         src="https://regnum.ru/uploads/pictures/news/2019/09/23/regnum_picture_1569235299829764_small.JPG">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Даниил Медведев выиграл турнир в Роттердаме
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/sport/3781832.html">
+                                    
+                                    <img class="article-cover" alt="Александр Головин"
+                                         src="https://regnum.ru/uploads/pictures/news/2018/07/01/regnum_picture_15304415672008008_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Головин побил личный рекорд по голам за сезон в чемпионате Франции
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/sport/3781763.html">
+                                    
+                                    <img class="article-cover" alt="Тяжелая атлетика"
+                                         src="https://regnum.ru/uploads/pictures/news/2023/02/19/regnum_picture_16768083823032_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Сборная РФ по тяжёлой атлетике сформировала заявку на чемпионат Европы
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/sport/3781752.html">
+                                    
+                                    <img class="article-cover" alt="Вадим Евсеев"
+                                         src="https://regnum.ru/uploads/pictures/news/2023/02/19/regnum_picture_16768057513938_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Главный тренер «Шинника» похвалил игроков за отпор украинским футболистам
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/sport/3781718.html">
+                                    
+                                    <img class="article-cover" alt="Футбол"
+                                         src="https://regnum.ru/uploads/pictures/news/2022/08/25/regnum_picture_16614166022494455_small.png">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Защитник «Шинника»: «Минай» спланировал провокацию заранее
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/sport/3781688.html">
+                                    
+                                    <img class="article-cover" alt="Радамель Фалькао"
+                                         src="https://regnum.ru/uploads/pictures/news/2023/02/19/regnum_picture_16767924459421_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->В ЦСКА сообщили о заинтересованности в переходе Фалькао
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/sport/3781621.html">
+                                    
+                                    <img class="article-cover" alt="Футбольный мяч"
+                                         src="https://regnum.ru/uploads/pictures/news/2017/07/15/regnum_picture_1500122197483562_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->В ЦСКА подтвердили интерес к форварду Фалькао
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/sport/3781516.html">
+                                    
+                                    <img class="article-cover" alt="Футбол"
+                                         src="https://regnum.ru/uploads/pictures/news/2021/09/26/regnum_picture_16326565565745661_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->В Конго футболистки избили судью за отказ от пенальти
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/sport/3781499.html">
+                                    
+                                    <img class="article-cover" alt="Дмитрий Ильиных (в центре)"
+                                         src="https://regnum.ru/uploads/pictures/news/2023/02/18/regnum_picture_16767211624558_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Ильиных покинул пост спортивного директора «Белогорья»
+                                    </span>
+                                </a>
+                            
+                            </div>
+                        </div>
+                    
+                        <div class="news-column news-dossier-column left-column-shadow swiper-slide">
+                            <div class="news-column-header">
+                            <span>
+                                <a href="https://regnum.ru/theme/it.html">Техника</a>
+                            </span>
+                            </div>
+                            <div class="article-list">
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/it/3781920.html">
+                                    
+                                    <img class="article-cover" alt="МКС"
+                                         src="https://regnum.ru/uploads/pictures/news/2023/02/20/regnum_picture_16768710076115_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Орбита МКС поднята на 3,2 км для посадки корабля «Союз МС-22»
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/it/3781692.html">
+                                    
+                                    <img class="article-cover" alt="БМП-3"
+                                         src="https://regnum.ru/uploads/pictures/news/2023/02/19/regnum_picture_16767932155730_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->В России создали версию БМП, которой можно управлять с планшета
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/it/3781510.html">
+                                    
+                                    <img class="article-cover" alt="«Союз МС-23»"
+                                         src="https://regnum.ru/uploads/pictures/news/2023/02/18/regnum_picture_16767244637651_small.png">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Совет конструкторов рекомендовал запустить «Союз МС-23» в феврале
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/it/3781490.html">
+                                    
+                                    <img class="article-cover" alt="Летающий автомобиль"
+                                         src="https://regnum.ru/uploads/pictures/news/2023/02/18/regnum_picture_16767203124020_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->В Японии летающий автомобиль впервые поднял пассажира в воздух
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/it/3781481.html">
+                                    
+                                    <img class="article-cover" alt="Корабль Прогресс"
+                                         src="https://regnum.ru/uploads/pictures/news/2023/02/18/regnum_picture_16767178444139_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Повреждённый грузовик «Прогресс МС-21» сведут с орбиты 19 февраля
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/it/3781409.html">
+                                    
+                                    <img class="article-cover" alt="Корабль «Прогресс»"
+                                         src="https://regnum.ru/uploads/pictures/news/2023/02/18/regnum_picture_16767014464138_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Роскосмос отложил сведение с орбиты грузовика «Прогресс МС-21»
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/it/3780764.html">
+                                    
+                                    <img class="article-cover" alt="В зоне проведения СВО"
+                                         src="https://regnum.ru/uploads/pictures/news/2022/09/21/regnum_picture_1663738256177674_small.JPG">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->В России разработали уникальный лазерный комплекс разведки
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/it/3780568.html">
+                                    
+                                    <img class="article-cover" alt="Турбина"
+                                         src="https://regnum.ru/uploads/pictures/news/2018/12/04/regnum_picture_1543941662837004_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->В России начались испытания первого беспилотного конвертоплана
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/it/3780322.html">
+                                    
+                                    <img class="article-cover" alt="Истребитель Су-35"
+                                         src="https://regnum.ru/uploads/pictures/news/2023/02/14/regnum_picture_16763813777679_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Bisnis: Индонезия отказалась покупать истребители Су-35 из-за США
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture is-primary"
+                                   href="https://regnum.ru/news/it/3780048.html">
+                                    
+                                    <img class="article-cover" alt="Оператор БПЛА"
+                                         src="https://regnum.ru/uploads/pictures/news/2023/02/10/regnum_picture_16760356877840_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->В Британии ждут появления российских «стелс»-дронов в небе Украины
+                                    </span>
+                                </a>
+                            
+                            </div>
+                        </div>
+                    
+                        <div class="news-column news-dossier-column left-column-shadow swiper-slide">
+                            <div class="news-column-header">
+                            <span>
+                                <a href="https://regnum.ru/theme/innovatio.html">Наука</a>
+                            </span>
+                            </div>
+                            <div class="article-list">
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/innovatio/3781902.html">
+                                    
+                                    <img class="article-cover" alt="Ледник"
+                                         src="https://regnum.ru/uploads/pictures/news/2017/06/15/regnum_picture_149752828786990_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Назван примерный срок таяния «Ледника Судного дня»
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/innovatio/3781482.html">
+                                    
+                                    <img class="article-cover" alt="Древние руины в Ираке"
+                                         src="https://regnum.ru/uploads/pictures/news/2023/02/18/regnum_picture_16767187481507_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->На юге Ирака обнаружили дворец и храм шумеров возрастом 4500 лет
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/innovatio/3781212.html">
+                                    
+                                    <img class="article-cover" alt="Календарь майя"
+                                         src="https://regnum.ru/uploads/pictures/news/2018/06/03/regnum_picture_1528016159673727_small.JPG">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->В Гватемале обнаружили сеть «супермагистралей» майя
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/innovatio/3780955.html">
+                                    
+                                    <img class="article-cover" alt="Студенты"
+                                         src="https://regnum.ru/uploads/pictures/news/2023/02/16/regnum_picture_1676553456773_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Россия вошла в пятерку стран — лидеров по числу иностранных студентов
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/innovatio/3780929.html">
+                                    
+                                    <img class="article-cover" alt="Ледник"
+                                         src="https://regnum.ru/uploads/pictures/news/2023/02/16/regnum_picture_167654902373_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Британские учёные предрекли миру попадание в «петлю гибели»
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/innovatio/3780786.html">
+                                    
+                                    <img class="article-cover" alt="Антарктида"
+                                         src="https://regnum.ru/uploads/pictures/news/2022/08/27/regnum_picture_16616014174444736_small.png">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Ученые рассказали о последствиях таяния «Ледника Судного дня» для океана
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/innovatio/3780767.html">
+                                    
+                                    <img class="article-cover" alt="Земля во время ледникового периода"
+                                         src="https://regnum.ru/uploads/pictures/news/2019/09/28/regnum_picture_1569673956983386_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Ускоренное вращение омолодит Землю на одну секунду в 2028 году — ученый
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/innovatio/3779461.html">
+                                    
+                                    <img class="article-cover" alt="Старт ракеты-носителя «Союз-2.1а» с транспортным грузовым кораблем «Прогресс МС-22»"
+                                         src="https://regnum.ru/uploads/pictures/news/2023/02/11/regnum_picture_16761245145135_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->В Роскосмосе назвали дату вывода с орбиты разгерметизированного «Прогресса»
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/innovatio/3779390.html">
+                                    
+                                    <img class="article-cover" alt="Арктика"
+                                         src="https://regnum.ru/uploads/pictures/news/2021/02/08/regnum_picture_16128155027508570_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Россия и Бразилия готовят семинар по сотрудничеству в Арктике
+                                    </span>
+                                </a>
+                            
+                                
+                                <a class="article-item has-picture"
+                                   href="https://regnum.ru/news/innovatio/3778947.html">
+                                    
+                                    <img class="article-cover" alt="Овощи"
+                                         src="https://regnum.ru/uploads/pictures/news/2023/02/10/regnum_picture_16760087512209_small.jpg">
+                                    
+
+                                    <span class="article-title">
+                                        <!--
+                                        -->Ученые пришли к выводу, что ограничение калорий замедляет темпы старения
+                                    </span>
+                                </a>
+                            
+                            </div>
+                        </div>
+                    
+                    
+                </div>
+
+                <div class="swiper-button-next swiper-button-grey"></div>
+                <div class="swiper-button-prev swiper-button-grey"></div>
+            </div>
+        </div>
+        <a href="https://regnum.ru/search" class="column-dots"><svg class="svg-icon"><use xlink:href="/images/icons/regnum-icons-sprite.svg#icon-three-dots"></use></svg></a>
+    </div>
+
+    <!--  top  -->
+    <div class="story-container photos-story">
+        <div class="story-header-wrapper">
+            <div class="story-header">
+                <span>Топ-материалы</span>
+            </div>
+        </div>
+        <div class="story-content">
+            
+            <div class="primary-photo-tiles-wrapper swiper-container "
+                 data-index="10">
+                <div class="primary-photo-tiles swiper-wrapper">
+                    
+                    
+                    <a class="photo-tile swiper-slide" href="https://regnum.ru/news/accidents/3781951.html">
+                        
+                        <img class="tile-cover"
+                             src="https://regnum.ru/uploads/pictures/news/2022/12/10/regnum_picture_16706253846111_big.jpg"
+                             alt="Пожар">
+                        
+                        <div class="tile-teaser">
+                            <div class="tile-header">При взрыве в Новой Москве пострадала молодая девушка</div>
+                            <div class="tile-description">В результате взрыва коробки в коттеджном посёлке «Изумрудный» в Новой Москве пострадала 22-летняя девушка, уточняет источник  ИА REGNUM .          Пожар  [Иван Шилов © ИА REGNUM]     По уточненной информации, на первом этаже дома в холле лежала коробка. Девушка её открыла. В результате коробка...</div>
+                        </div>
+                    </a>
+                    
+                    
+                    <a class="photo-tile swiper-slide" href="https://regnum.ru/news/accidents/3781932.html">
+                        
+                        <img class="tile-cover"
+                             src="https://regnum.ru/uploads/pictures/news/2021/03/30/regnum_picture_16171173378121748_big.jpg"
+                             alt="Крымский мост">
+                        
+                        <div class="tile-teaser">
+                            <div class="tile-header">Из-за ДТП на Крымском мосту полностью остановлено движение</div>
+                            <div class="tile-description">В результате столкновения трёх легковых автомобилей на Крымском мосту три человека погибли и один пострадал. Об этом 20 февраля рассказали в экстренных службах.          Крымский мост  Иван Шилов © ИА REGNUM      «На Крымском мосту в сторону Керчи произошло ДТП с участием трёх легковых автомобилей...</div>
+                        </div>
+                    </a>
+                    
+                    
+                    <a class="photo-tile swiper-slide" href="https://regnum.ru/news/russia/3781958.html">
+                        
+                        <img class="tile-cover"
+                             src="https://regnum.ru/uploads/pictures/news/2022/10/08/regnum_picture_16652426161482_big.jpg"
+                             alt="Военные поставки НАТО">
+                        
+                        <div class="tile-teaser">
+                            <div class="tile-header">СВР: большая часть поставленной НАТО Киеву военной техники уничтожена</div>
+                            <div class="tile-description">Вооружённые силы России уничтожили большую часть военной техники, которую Запад поставил Киеву. Об этом 20 февраля журналистам сообщили в пресс-службе Службы внешней разведки (СВР) России.          Военные поставки НАТО  Иван Шилов (с) ИА REGNUM       Читайте также:    Российский военный: ВСУ...</div>
+                        </div>
+                    </a>
+                    
+                    
+                    <a class="photo-tile swiper-slide" href="https://regnum.ru/news/accidents/3781912.html">
+                        
+                        <img class="tile-cover"
+                             src="https://regnum.ru/uploads/pictures/news/2022/10/08/regnum_picture_16652426237682_big.jpg"
+                             alt="СВО">
+                        
+                        <div class="tile-teaser">
+                            <div class="tile-header">Прорыв обороны ВСУ под Артёмовском — 364-й день спецоперации на Украине</div>
+                            <div class="tile-description"></div>
+                        </div>
+                    </a>
+                    
+                    
+                    <a class="photo-tile swiper-slide" href="https://regnum.ru/news/society/3781907.html">
+                        
+                        <img class="tile-cover"
+                             src="https://regnum.ru/uploads/pictures/news/2023/01/19/regnum_picture_1674123061792_big.jpg"
+                             alt="Борис Писториус">
+                        
+                        <div class="tile-teaser">
+                            <div class="tile-header">В минобороны Германии предстоящие недели назвали решающими для Украины</div>
+                            <div class="tile-description">Министр обороны Германии  Борис Писториус  считает, что в ближайшее время будет некая ясность, определяющая события для Украины.          Борис Писториус  Иван Шилов (с) ИА REGNUM       Читайте также:    Самоходные установки и гаубицы ЦВО поражают до 50 целей в зоне спецоперации    «Думаю...</div>
+                        </div>
+                    </a>
+                    
+                    
+                    <a class="photo-tile swiper-slide" href="https://regnum.ru/news/polit/3781946.html">
+                        
+                        <img class="tile-cover"
+                             src="https://regnum.ru/uploads/pictures/news/2023/01/19/regnum_picture_1674123061792_big.jpg"
+                             alt="Борис Писториус">
+                        
+                        <div class="tile-teaser">
+                            <div class="tile-header">В Германии считают предстоящие недели решающими для Украины</div>
+                            <div class="tile-description">Ближайшие недели конфликта станут решающими для Украины. Такое мнение в интервью агентству  Bloomberg , опубликованном 20 февраля, высказал министр обороны ФРГ  Борис Писториус .          Борис Писториус  Иван Шилов (с) ИА REGNUM       Читайте также:    В Китае призвали все стороны прекратить...</div>
+                        </div>
+                    </a>
+                    
+                    
+                    <a class="photo-tile swiper-slide" href="https://regnum.ru/news/polit/3781908.html">
+                        
+                        <img class="tile-cover"
+                             src="https://regnum.ru/uploads/pictures/news/2022/06/08/regnum_picture_1654704321301021_big.jpg"
+                             alt="Карин Жан-Пьер">
+                        
+                        <div class="tile-teaser">
+                            <div class="tile-header">Американцы сочли актрисой Жан-Пьер, назвавшую Байдена лучшим коммуникатором</div>
+                            <div class="tile-description">Пресс-секретарь администрации президента США  Карин Жан-Пьер  американцы назвали хорошей актрисой потому, что она смогла с серьёзным лицом заявить о хороших коммуникационных навыках президента страны  Джо Байдена.  Свои комментарии высказали зрители телеканала Fox News, они высмеяли заявления...</div>
+                        </div>
+                    </a>
+                    
+                    
+                    <a class="photo-tile swiper-slide" href="https://regnum.ru/news/society/3781867.html">
+                        
+                        <img class="tile-cover"
+                             src="https://regnum.ru/uploads/pictures/news/2019/08/30/regnum_picture_1567175842127048_big.jpeg"
+                             alt="Владимир Зеленский">
+                        
+                        <div class="tile-teaser">
+                            <div class="tile-header">Зеленский сказал, что его «мирный план» предусматривает гарантии США и КНР</div>
+                            <div class="tile-description">Президент Украины  Владимир Зеленский  заявил в интервью газете Corriere della Sera, что если Китай не станет «придерживаться прагматичной позиции» по отношению к киевскому конфликту, то «мы рискуем получить третью мировую войну».          Владимир Зеленский  President.gov.ua       Читайте также...</div>
+                        </div>
+                    </a>
+                    
+                    
+                    <a class="photo-tile swiper-slide" href="https://regnum.ru/news/polit/3776023.html">
+                        
+                        <img class="tile-cover"
+                             src="https://regnum.ru/uploads/pictures/news/2023/01/31/regnum_picture_167517262122_big.jpg"
+                             alt="Роман Абрамович">
+                        
+                        <div class="tile-teaser">
+                            <div class="tile-header">СМИ: Британия передаст Украине 2,3 млрд фунтов от продажи «Челси»</div>
+                            <div class="tile-description">Великобритания передаст Украине средства, полученные предпринимателем Романом Абрамовичем от продажи футбольного клуба «Челси», передает The Telegraph 31 января.          Роман Абрамович  © Сергей Карпухин/РИА Новости     Речь идет о сумме почти в 3 млрд долларов (2,3 млрд фунтов стерлингов).  О...</div>
+                        </div>
+                    </a>
+                    
+                    
+                    <a class="photo-tile swiper-slide" href="https://regnum.ru/news/polit/3781943.html">
+                        
+                        <img class="tile-cover"
+                             src="https://regnum.ru/uploads/pictures/news/2022/10/08/regnum_picture_16652426202840_big.jpg"
+                             alt="НАТО и Украина">
+                        
+                        <div class="tile-teaser">
+                            <div class="tile-header">Global Times: ненависть Запада к России продлевает конфликт на Украине</div>
+                            <div class="tile-description">Иррациональная ненависть Европы к России мешает процессу урегулирования конфликта на Украине. Об этом говорится в статье китайского государственного издания Global Times, опубликованной в понедельник, 20 февраля.          НАТО и Украина  Иван Шилов (с) ИА REGNUM     Младший научный сотрудник...</div>
+                        </div>
+                    </a>
+                    
+                </div>
+
+                <div class="swiper-button-next swiper-button-grey"></div>
+                <div class="swiper-button-prev swiper-button-grey"></div>
+            </div>
+            
+
+            
+            <div class="photo-tiles-wrapper swiper-container "
+                 data-index="10">>
+                <div class="photo-tiles swiper-wrapper">
+                    
+                    
+                    <a class="photo-tile swiper-slide is-loaded"
+                       href="https://regnum.ru/news/society/3781904.html">
+                        <img class="tile-cover"
+                             src="https://regnum.ru/uploads/pictures/news/2023/01/10/regnum_picture_16733473452321_big.jpg"
+                             alt="Бахмут (Артемовск)" />
+                        <span class="gradient-cover"></span>
+                        <span class="tile-header">Эксперт Гагин рассказал, почему ВСУ «вцепились» в Артемовск</span>
+                    </a>
+                    
+                    
+                    <a class="photo-tile swiper-slide is-loaded"
+                       href="https://regnum.ru/news/society/3781883.html">
+                        <img class="tile-cover"
+                             src="https://regnum.ru/uploads/pictures/news/2017/12/16/regnum_picture_15134008631313351_big.JPG"
+                             alt="Истребители F-22 ВВС США" />
+                        <span class="gradient-cover"></span>
+                        <span class="tile-header">Разведчик Риттер посмеялся над Зеленским и его просьбами истребителей</span>
+                    </a>
+                    
+                    
+                    <a class="photo-tile swiper-slide is-loaded"
+                       href="https://regnum.ru/news/society/3781891.html">
+                        <img class="tile-cover"
+                             src="https://regnum.ru/uploads/pictures/news/2017/04/21/regnum_picture_14927913801473117_big.jpg"
+                             alt="ВСУ" />
+                        <span class="gradient-cover"></span>
+                        <span class="tile-header">Военным на Украине в марте урежут зарплаты и лишат боевых выплат</span>
+                    </a>
+                    
+                    
+                    <a class="photo-tile swiper-slide is-loaded"
+                       href="https://regnum.ru/news/polit/3781855.html">
+                        <img class="tile-cover"
+                             src="https://regnum.ru/uploads/pictures/news/2022/10/15/regnum_picture_16658649098144_big.png"
+                             alt="Америка. США" />
+                        <span class="gradient-cover"></span>
+                        <span class="tile-header">Американцы вышли на митинг против «поддержки нацистов Украины»</span>
+                    </a>
+                    
+                    
+                    <a class="photo-tile swiper-slide is-loaded"
+                       href="https://regnum.ru/news/world/3781949.html">
+                        <img class="tile-cover"
+                             src="https://regnum.ru/uploads/pictures/news/2022/03/29/regnum_picture_16485345495827474_big.jpg"
+                             alt="Киев" />
+                        <span class="gradient-cover"></span>
+                        <span class="tile-header">Центр Киева перекрыли из-за приезда иностранной делегации</span>
+                    </a>
+                    
+                    
+                    <a class="photo-tile swiper-slide is-loaded"
+                       href="https://regnum.ru/news/polit/3781219.html">
+                        <img class="tile-cover"
+                             src="https://regnum.ru/uploads/pictures/news/2020/10/16/regnum_picture_16028810567896799_big.png"
+                             alt="Шарль Мишель" />
+                        <span class="gradient-cover"></span>
+                        <span class="tile-header">Глава Евросовета не исключил диалога с Путиным</span>
+                    </a>
+                    
+                    
+                    <a class="photo-tile swiper-slide is-loaded"
+                       href="https://regnum.ru/news/polit/3781917.html">
+                        <img class="tile-cover"
+                             src="https://regnum.ru/uploads/pictures/news/2023/01/18/regnum_picture_1674046922677_big.jpg"
+                             alt="Владимир Зеленский" />
+                        <span class="gradient-cover"></span>
+                        <span class="tile-header">Зеленский: украинские войска не будут защищать Артёмовск любой ценой</span>
+                    </a>
+                    
+                    
+                    <a class="photo-tile swiper-slide is-loaded"
+                       href="https://regnum.ru/news/accidents/3781862.html">
+                        <img class="tile-cover"
+                             src="https://regnum.ru/uploads/pictures/news/2018/07/27/regnum_picture_15326883051198569_big.png"
+                             alt="Взрыв" />
+                        <span class="gradient-cover"></span>
+                        <span class="tile-header">Российские самолёты сбросили бомбы на скопления военных ВСУ в Авдеевке</span>
+                    </a>
+                    
+                    
+                    <a class="photo-tile swiper-slide is-loaded"
+                       href="https://regnum.ru/news/society/3781890.html">
+                        <img class="tile-cover"
+                             src="https://regnum.ru/uploads/pictures/news/2022/01/29/regnum_picture_1643488673967972_big.png"
+                             alt="Шон Пенн" />
+                        <span class="gradient-cover"></span>
+                        <span class="tile-header">Актёр Шон Пенн предложил властям США не откладывать ввод войск на Украину</span>
+                    </a>
+                    
+                    
+                    <a class="photo-tile swiper-slide is-loaded"
+                       href="https://regnum.ru/news/world/3781971.html">
+                        <img class="tile-cover"
+                             src="https://regnum.ru/uploads/pictures/news/2023/01/18/regnum_picture_16740450004451_big.jpg"
+                             alt="Владимир Зеленский" />
+                        <span class="gradient-cover"></span>
+                        <span class="tile-header">Зеленский похвастался отличным качеством водки на Украине</span>
+                    </a>
+                    
+                </div>
+
+                <div class="swiper-button-next swiper-button-grey"></div>
+                <div class="swiper-button-prev swiper-button-grey"></div>
+            </div>
+            
+            <a href="https://regnum.ru/search/photos" class="column-dots"><svg class="svg-icon"><use xlink:href="/images/icons/regnum-icons-sprite.svg#icon-three-dots"></use></svg></a>
+        </div>
+    </div>
+
+    <!--  footer  -->
+    <div class="navbar-container">
+        <div class="navbar-bottom">
+
+    <div class="column">
+        <div class="navbar-pages">
+            <a href="https://regnum.ru/information/about.html">Об агентстве</a>
+            <a href="https://regnum.ru/russian.html">Новости России</a>
+            <a href="https://regnum.ru/foreign.html">Зарубежные новости</a>
+            <a href="https://regnum.ru/presscenter.html">Пресс-центр</a>
+            <!--<span class="break"></span>-->
+            <a href="https://regnum.ru/download/docs/regnum-mediakit-2023.pdf" target="_blank">Медиа-кит</a>
+            <a href="https://regnum.ru/information/user-agreement.html">Пользовательское соглашение</a>
+            <a href="https://regnum.ru/sitemap.html">Карта сайта</a>
+            <span><i class="fa fa-rss"></i>&nbsp;<a href="https://regnum.ru/rss/news.html" title="RSS Regnum" target="_blank">RSS</a></span>
+        </div>
+
+        <div class="navbar-social-buttons">
+            <a class="vk" href="https://vk.com/regnum" target="_blank" title="Страница ИА REGNUM в Вконтакте">
+                <i class="fa fa-vk" aria-hidden="true"></i></a>
+            <a class="ok" href="http://ok.ru/iaregnum" target="_blank" title="Группа ИА REGNUM на Одноклассники.ru">
+                <i class="fa fa-odnoklassniki" aria-hidden="true"></i></a>
+            <!--<a class="tw" href="https://twitter.com/IA_REGNUM" target="_blank" title="Страница ИА REGNUM в Twitter">
+                <i class="fa fa-twitter" aria-hidden="true"></i></a>-->
+            <a class="tg" href="tg://resolve?domain=na_regnum" target="_blank" title="Канал ИА REGNUM в Telegram">
+                <i class="fa fa-telegram" aria-hidden="true"></i></a>
+            <!--<a class="yt" href="https://www.youtube.com/regnum_na" target="_blank" title="Канал ИА REGNUM на YouTube">
+                <i class="fa fa-youtube-play" aria-hidden="true"></i></a>-->
+        </div>
+
+        <div class="navbar-information">
+            <svg class="svg-icon svg-icon-18-plus">
+                <use xlink:href="/images/icons/regnum-icons-sprite.svg#icon-18-plus"></use>
+            </svg>
+            <span>Настоящий ресурс содержит материалы 18&plus;</span>
+            <span>При цитировании информации гиперссылка на&nbsp;ИА&nbsp;REGNUM обязательна.</span>
+            <span>Использование материалов ИА&nbsp;REGNUM в&nbsp;коммерческих целях без письменного разрешения агентства не&nbsp;допускается.</span>
+            <span>&copy; 1999&ndash;2023 ИА&thinsp;REGNUM</span>
+        </div>
+    </div>
+
+
+    <div class="column">
+        <div class="navbar-contacts">
+            <a href="mailto:info@regnum.ru">info@regnum.ru</a>
+            <a href="tel:+74956458075">+7 495 645-80-75</a>
+            <a href="https://yandex.ru/maps/-/CCUrJUTWTC" target="_blank">115093, г. Москва, ул. Партийный переулок, дом 1, корпус 57, строение 1 (ст. метро «Серпуховская»/«Павелецкая»)</a>
+        </div>
+
+        <div class="navbar-information">
+            <span>Свидетельства о регистрации СМИ:</span>
+            <span>Эл&nbsp;№&nbsp;ФС77-55029 от&nbsp;14&nbsp;августа 2013 года, выдано Федеральной службой по&nbsp;надзору в&nbsp;сфере связи, информационных технологий и&nbsp;массовых коммуникаций (Роскомнадзор);</span>
+            <span>ИА&nbsp;№&nbsp;ФС77-51367 от&nbsp;23&nbsp;ноября 2012 года, выдано Федеральной службой по&nbsp;надзору в&nbsp;сфере связи, информационных технологий и&nbsp;массовых коммуникаций (Роскомнадзор).</span>
+        </div>
+
+        <div class="counters-widgets">
+            <!-- Rambler100 logo -->
+<div id='top100counter'>
+    <noscript>
+        <a href="http://top100.rambler.ru/navi/590750/">
+            <img src="http://counter.rambler.ru/top100.cnt?590750" alt="Rambler's Top100" border="0" />
+        </a>
+    </noscript>
+</div>
+<!-- Код скрипта должен быть размещен строго ниже контейнера для логотипа (div c id='Rambler-counter') -->
+<script>
+  var _top100q = _top100q || [];
+  _top100q.push(['setAccount', '590750']);
+  _top100q.push(['trackPageviewByLogo', document.getElementById('top100counter')]);
+  (function() {
+    var pa = document.createElement('script');
+    pa.type = 'text/javascript';
+    pa.async = true;
+    pa.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + '//st.top100.ru/top100/top100.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(pa, s);
+  })();
+</script>
+<!-- /Rambler100 logo -->
+
+<!-- Yandex.Metrika informer -->
+<a href="https://metrika.yandex.ru/stat/?id=30593522&amp;from=informer" target="_blank" rel="nofollow">
+    <img src="https://informer.yandex.ru/informer/30593522/3_0_FFFFFFFF_FFFFFFFF_0_pageviews"
+         style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика"
+         title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" />
+</a>
+<!-- /Yandex.Metrika informer -->
+
+<!-- Rating@Mail.ru logo -->
+<a href="http://top.mail.ru/jump?from=813709" id="topMailCounter">
+    <img src="//top-fwz1.mail.ru/counter?id=813709;t=280;l=1"
+         style="border:0;" height="31" width="38" alt="Рейтинг@Mail.ru" /></a>
+<!-- /Rating@Mail.ru logo -->
+
+<!-- LiveInternet logo -->
+<a href="//www.liveinternet.ru/stat/regnum.ru/" target="_blank">
+    <img src="//counter.yadro.ru/logo?44.1" title="LiveInternet" alt="" border="0" width="31" height="31" />
+</a>
+<!-- /LiveInternet -->
+
+<!-- REGNUM Metrika -->
+<script>
+  setTimeout(function () {
+    fetch('https://regnum.ru/statistic/pixel?url=' + window.location.href);
+  }, 1000);
+</script>
+<!-- /REGNUM Metrika -->
+        </div>
+    </div>
+</div>
+    </div>
+</div>
+
+<!-- end .content -->
+
+    
+    <div class="footer-container-wrapper">
+        <div class="footer-container-layout">
+            <div class="footer-container">
+                <div class="footer-line">
+                    <div class="footer-navbar">
+                    
+                    </div>
+                    <div class="footer-ticker">
+                        <div class="news-ticker"></div>
+                    </div>
+                    <div class="footer-slot">
+                        <div class="footer-slot-item" id="slot-navbar-300-80-1"></div>
+                        <div class="footer-slot-item" id="slot-navbar-250-50-1"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+<script src="/scripts/regnum_bundle.js?v=1675874911461"></script>
+<script src="/scripts/pages_bundle.js?v=1675874911461"></script>
+
+<!--
+<script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBYb70qg0E3RqSf-mFz1hqsSB6jPSn0pVE&language=ru&region=RU&callback=initGoogleGeo"></script>
+-->
+
+</body>
+</html>

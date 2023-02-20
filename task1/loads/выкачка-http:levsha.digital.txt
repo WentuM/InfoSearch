@@ -1,0 +1,613 @@
+<!DOCTYPE html>
+<html lang="ru_RU">
+
+<head>
+    <meta charset="UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://levsha.digital/wp-content/themes/levsha/assets/dependencies/normalize.css">
+    <link rel="stylesheet" href="https://levsha.digital/wp-content/themes/levsha/assets/styles/main.css?v1.009129256">
+    <link rel="stylesheet" href="https://levsha.digital/wp-content/themes/levsha/assets/styles/slick/slick.css">
+    <link rel="stylesheet" href="https://levsha.digital/wp-content/themes/levsha/assets/styles/slick/slick-theme.css"> 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet"> 
+	
+		<!-- All in One SEO 4.2.6.1 - aioseo.com -->
+		<title>Levsha.digital</title>
+		<meta name="robots" content="noindex, nofollow, max-image-preview:large" />
+		<link rel="canonical" href="https://levsha.digital" />
+		<meta name="generator" content="All in One SEO (AIOSEO) 4.2.6.1 " />
+		<meta property="og:locale" content="ru_RU" />
+		<meta property="og:site_name" content="ООО &quot;Центр информации&quot; -" />
+		<meta property="og:type" content="website" />
+		<meta property="og:title" content="Levsha.digital" />
+		<meta property="og:url" content="https://levsha.digital" />
+		<meta name="twitter:card" content="summary" />
+		<meta name="twitter:title" content="Levsha.digital" />
+		<script type="application/ld+json" class="aioseo-schema">
+			{"@context":"https:\/\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\/\/levsha.digital\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/levsha.digital\/#listItem","position":1,"item":{"@type":"WebPage","@id":"https:\/\/levsha.digital\/","name":"\u0413\u043b\u0430\u0432\u043d\u0430\u044f","url":"https:\/\/levsha.digital\/"},"nextItem":"https:\/\/levsha.digital\/#listItem"},{"@type":"ListItem","@id":"https:\/\/levsha.digital\/#listItem","position":2,"item":{"@type":"WebPage","@id":"https:\/\/levsha.digital\/","name":"\u0413\u043b\u0430\u0432\u043d\u0430\u044f \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430","url":"https:\/\/levsha.digital\/"},"previousItem":"https:\/\/levsha.digital\/#listItem"}]},{"@type":"Organization","@id":"https:\/\/levsha.digital\/#organization","name":"\u041e\u041e\u041e \"\u0426\u0435\u043d\u0442\u0440 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438\"","url":"https:\/\/levsha.digital\/"},{"@type":"WebPage","@id":"https:\/\/levsha.digital\/#webpage","url":"https:\/\/levsha.digital\/","name":"Levsha.digital","inLanguage":"ru-RU","isPartOf":{"@id":"https:\/\/levsha.digital\/#website"},"breadcrumb":{"@id":"https:\/\/levsha.digital\/#breadcrumblist"},"datePublished":"2022-03-26T07:18:37+03:00","dateModified":"2022-10-19T07:04:43+03:00"},{"@type":"WebSite","@id":"https:\/\/levsha.digital\/#website","url":"https:\/\/levsha.digital\/","name":"\u041e\u041e\u041e \"\u0426\u0435\u043d\u0442\u0440 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438\"","inLanguage":"ru-RU","publisher":{"@id":"https:\/\/levsha.digital\/#organization"},"potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/levsha.digital\/?s={search_term_string}"},"query-input":"required name=search_term_string"}}]}
+		</script>
+		<!-- All in One SEO -->
+
+<script >
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/levsha.digital\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1.1"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.,a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style >
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='https://levsha.digital/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1'  media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://levsha.digital/wp-includes/css/classic-themes.min.css?ver=1'  media='all' />
+<style id='global-styles-inline-css' >
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="https://api.w.org/" href="https://levsha.digital/wp-json/" /><link rel="alternate" type="application/json" href="https://levsha.digital/wp-json/wp/v2/pages/27" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://levsha.digital/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://levsha.digital/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.1.1" />
+<link rel='shortlink' href='https://levsha.digital/' />
+<link rel="alternate" type="application/json+oembed" href="https://levsha.digital/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flevsha.digital%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://levsha.digital/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flevsha.digital%2F&#038;format=xml" />
+<link rel="icon" href="https://levsha.digital/wp-content/uploads/2022/04/01-150x150.png" sizes="32x32" />
+<link rel="icon" href="https://levsha.digital/wp-content/uploads/2022/04/01.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://levsha.digital/wp-content/uploads/2022/04/01.png" />
+<meta name="msapplication-TileImage" content="https://levsha.digital/wp-content/uploads/2022/04/01.png" />
+</head>
+<body>
+
+<!-- попап для адаптивной версии хедера, нужен везде -->
+<div id="adaptive-popup" class="adaptive-popup__hidden">
+    <nav class="adaptive-popup__navigation">
+        <ul class="adaptive-popup__navigation-list">
+			<li id="menu-item-628" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-628 adaptive-popup__navigation-item"><a href="/#about" aria-current="page">О холдинге</a></li>
+<li id="menu-item-621" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-621 adaptive-popup__navigation-item"><a href="/#res" aria-current="page">Наши ресурсы</a></li>
+<li id="menu-item-632" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-632 adaptive-popup__navigation-item"><a href="/#services" aria-current="page">Услуги</a></li>
+<li id="menu-item-629" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-629 adaptive-popup__navigation-item"><a href="/#partners" aria-current="page">Партнеры</a></li>
+<li id="menu-item-633" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-633 adaptive-popup__navigation-item"><a href="/#contacts" aria-current="page">Контакты</a></li>
+        </ul>
+    </nav>
+    <div class="adaptive-popup__media">
+        <a href="tel:74872520502" class="adaptive-popup__media-text">+7 (4872) 52-05-02</a>
+        <a href="mailto:levsha@sm.news" class="adaptive-popup__media-text mt-24">levsha@sm.news</a>
+        <p class="adaptive-popup__media-text mt-14">Тула, ул. Михеева, 17, офис 306</p>
+    </div>
+    <div class="adaptive-popup__close">
+        <svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M13.9707 12.5L24.6848 1.78592C25.1051 1.36564 25.1051 0.693579 24.6848 0.31521C24.2645 -0.0628664 23.5924 -0.10507 23.2141 0.31521L12.5 11.0293L1.78592 0.31521C1.36564 -0.10507 0.693579 -0.10507 0.31521 0.31521C-0.10507 0.73549 -0.10507 1.40755 0.31521 1.78592L11.0293 12.5L0.31521 23.2141C-0.10507 23.6344 -0.10507 24.3064 0.31521 24.6848C0.73549 25.1051 1.40755 25.1051 1.78592 24.6848L12.5 13.9707L23.2141 24.6848C23.6344 25.1051 24.3064 25.1051 24.6848 24.6848C25.1051 24.2645 25.1051 23.5924 24.6848 23.2141L13.9707 12.5Z" fill="white"/>
+        </svg>
+    </div>
+</div>
+
+<div class="wrapper">
+<header class="header">
+	<div class="header__content">
+		<div class="header__logo">
+			<a href="/" class="logo">
+				<img src="/wp-content/themes/levsha/assets/images/levsha_bold.svg" width="78" height="100">
+			</a>
+		</div>
+		<!-- <div class="location">
+			<div class="location__block">
+				<div class="location__item">
+					<a href="tel:74872520502">+7 (4872) 52-05-02</a>
+				</div>
+			</div>
+			<div class="location__block">
+				<div class="location__item">
+					<a href="mailto:levsha@sm.news">levsha@sm.news</a>
+				</div>
+				<div class="location__item">
+					<p>Тула, ул. Михеева, 17, офис 306</p>
+				</div>
+			</div>
+		</div> -->
+	</div>
+	<div class="header__adaptive-menu-btn btn">
+		меню
+	</div>
+	<nav class="navigation">
+		<ul class="navigation__list">
+			<!--
+			<li class="navigation__item">
+				<a href="/page-region/" class="btn">
+					Региональная сеть
+				</a>
+			</li>
+			<li class="navigation__item">
+				<a href="/partners/" class="btn">
+					Наши партнеры
+				</a>
+			</li>
+			<li class="navigation__item">
+				<a href="/page-liga/" class="btn">
+					Пресс-центр
+				</a>
+			</li>
+			-->
+			<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-628 navigation__item"><a href="/#about" aria-current="page" class="btn">О холдинге</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-621 navigation__item"><a href="/#res" aria-current="page" class="btn">Наши ресурсы</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-632 navigation__item"><a href="/#services" aria-current="page" class="btn">Услуги</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-629 navigation__item"><a href="/#partners" aria-current="page" class="btn">Партнеры</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-633 navigation__item"><a href="/#contacts" aria-current="page" class="btn">Контакты</a></li>
+		</ul>
+	</nav>
+</header><style>
+	svg{zoom:1.5;}
+	path{transition:all .5s;fill:rgba(0,0,0,0);stroke:rgba(0,0,0,0.5);}
+	.indicator{
+	position:absolute;
+	display:inline;
+	background:rgba(0,0,0,1);
+	color:#f1f1f1;
+	padding:10px 30px;
+	font:20px Arial;
+	border-radius:5px;
+	min-width:300px;  
+	text-transform:capitalize;
+	display:none;
+	}
+	.name{float:left;margin-right:30px;}
+	.clear{clear:both}
+	.capital{clear:both;}
+	.modal{color:#000;}
+	.ajax-loader {
+		display: none;
+		position: fixed;
+		left: 0;
+		top: 0;
+		right: 0;
+		bottom: 0;
+		background: #fff;
+		z-index: 1001;
+	}
+	.preloader__row {
+		position: relative;
+		top: 50%;
+		left: 50%;
+		width: 70px;
+		height: 70px;
+		margin-top: -35px;
+		margin-left: -35px;
+		text-align: center;
+		animation: preloader-rotate 2s infinite linear;
+	}
+	.preloader__item {
+		position: absolute;
+		display: inline-block;
+		top: 0;
+		background-color: #409AD4;
+		border-radius: 100%;
+		width: 35px;
+		height: 35px;
+		animation: preloader-bounce 2s infinite ease-in-out;
+	}
+</style>
+<div class="preloader-calc preloader ajax-loader" style="opacity: 0.5; display: none;">
+	<div class="preloader__row">
+		<div class="preloader__item"></div>
+		<div class="preloader__item"></div>
+	</div>
+</div>
+
+<main class="main">
+	<section class="video-section">
+		<div class="video">
+			<div class="video-container">
+				<div class="video__content">
+					<div class="video__content-text">
+						<div class="video__description">
+							<p class="video_title">Медиахолдинг,</p>
+							<p class="video_sub-title">формирующий новостную повестку в России</p>
+							<!-- <p>общественно-политических изданий в России</p> -->
+						</div>
+						<div class="video__more">
+							<a href="https://levsha.digital/regions" target="_blank" class="btn">Подробнее</a>
+						</div>
+					</div>
+					<div class="video__content-arrows">
+						<a href="#main_circles">
+							<div class="video-arrow">
+								<svg width="18" height="10" viewBox="0 0 18 10" fill="none"
+									 xmlns="http://www.w3.org/2000/svg">
+									<path d="M9 10L0 0L18 1.00947e-06L9 10Z" fill="white"/>
+								</svg>
+							</div>
+							<div class="video-arrow">
+								<svg width="18" height="10" viewBox="0 0 18 10" fill="none"
+									 xmlns="http://www.w3.org/2000/svg">
+									<path d="M9 10L0 0L18 1.00947e-06L9 10Z" fill="white"/>
+								</svg>
+							</div>
+							<div class="video-arrow">
+								<svg width="18" height="10" viewBox="0 0 18 10" fill="none"
+									 xmlns="http://www.w3.org/2000/svg">
+									<path d="M9 10L0 0L18 1.00947e-06L9 10Z" fill="white"/>
+								</svg>
+							</div>
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<video
+				class="video-bgbg"
+				src="https://levsha.digital/wp-content/themes/levsha/assets/video/bg.mp4?v=1.01"
+				muted loop autoplay
+			></video>
+		</div>
+	</section>
+
+	<section class="main-page"  id="main_circles">
+		<div class="main-page__info">
+						<div class="test_in_test" id="about">
+				<h2>О холдинге</h2>
+					<p>
+						Levsha Digital — это сеть общественно-политических интернет-изданий, лидирующих по показателям охвата аудитории как в масштабах страны, так и в регионах присутствия.<br><br>
+						Издания холдинга работают на рынке уже более 10 лет и имеют 7 региональных представительств, а также 79 корпунктов в России.<br><br>
+						Холдинг входит в консультативную группу Альянса по защите детей в цифровой среде.
+					</p>
+			</div>
+			<div class="test_in_test" id="res">
+				<h2>Наши ресурсы</h2>
+				<div class="cifry_grid">
+					<div>
+						<p>>1,3 млн</p>
+						<p>человек — <strong>ежедневный охват холдинга</strong></p>
+					</div>
+					<div>
+						<p>2,1 тыс.</p>
+						<p><strong>сюжетов в “Дзен Новостях”</strong> ежедневно</p>
+					</div>
+					<div>
+						<p>446</p>
+						<p><strong>журналистов</strong> в холдинге</p>
+					</div>
+				</div>
+				<div class="cifry_grid-res">
+					<div></div>
+					<div></div>
+					<div><p>Ежемесячная аудитория</p></div>
+											<div><img src="https://levsha.digital/wp-content/uploads/2022/03/horizontal.jpg" alt=""></div>
+													<div><p><a href="https://sm.news/" target="_blank">SM.NEWS</a></p></div>
+							
+						<div><p>11,2 млн</p></div>
+											<div><img src="https://levsha.digital/wp-content/uploads/2022/03/logon.svg" alt=""></div>
+													<div><p><a href="https://novostivl.ru/" target="_blank">NVL</a></p></div>
+							
+						<div><p>13,4 млн</p></div>
+											<div><img src="https://levsha.digital/wp-content/uploads/2022/03/tulapress.svg" alt=""></div>
+													<div><p><a href="https://www.tulapressa.ru/" target="_blank">Тульская пресса</a></p></div>
+							
+						<div><p>549 тыс.</p></div>
+											<div><img src="https://levsha.digital/wp-content/uploads/2022/03/tmn_sm_news.png" alt=""></div>
+													<div><p><a href="https://tmn.sm.news/" target="_blank">TMN.SM.NEWS</a></p></div>
+							
+						<div><p>376 тыс.</p></div>
+											<div><img src="https://levsha.digital/wp-content/uploads/2022/03/group-391-1.svg" alt=""></div>
+													<div><p><a href="https://yakutsk.ru/" target="_blank">Yakutsk.ru</a></p></div>
+							
+						<div><p>2,4 млн</p></div>
+											<div><img src="https://levsha.digital/wp-content/uploads/2022/10/r-life2.png" alt=""></div>
+													<div><p><a href="https://ryazan.life/" target="_blank">R.Life</a></p></div>
+							
+						<div><p>2,5 млн</p></div>
+											<div><img src="https://levsha.digital/wp-content/uploads/2022/10/vt-logo.svg" alt=""></div>
+													<div><p><a href="https://v-tatarstane.ru/" target="_blank">В Татарстане</a></p></div>
+							
+						<div><p>5,6 млн</p></div>
+											<div><img src="https://levsha.digital/wp-content/uploads/2023/01/logo-blue2.svg" alt=""></div>
+													<div><p><a href="https://krym.news/" target="_blank">krym.news</a></p></div>
+							
+						<div><p>485 тыс.</p></div>
+									</div>
+			</div>
+			<div class="test_in_test" id="services">
+				<h2>Услуги</h2>
+				<div class="grid_test-services grid_test_Left">
+					<div>
+						<p><strong>Запуск, поддержка и продвижение федеральных инфоповодов</strong></p>	
+						<ul>
+							<li>Создание новостного инфоповода</li>
+							<li>Изменение семантики инфоповода</li>
+							<li>Повышение позиции инфоповода в ТОП</li>
+							<li>Поддержка актуальности существующего инфоповода</li>			
+						</ul>
+					</div>
+					<div>
+						<p><strong>Реализация федеральных инфокампаний через регионы</strong></p>	
+						<ul>
+							<li>Создание серии новостных сюжетов в регионах</li>
+							<li>Повышение позиции инфоповодов в ТОП</li>
+							<li>Поддержка актуальности существующего сюжета</li>			
+						</ul>
+					</div>
+					<div>
+						<p><strong>Точечная работа в информационной повестке конкретного субъекта</strong></p>	
+						<ul>
+							<li>Создание новостного инфоповода</li>
+							<li>Изменение семантики инфоповода</li>
+							<li>Повышение позиции инфоповода в ТОП</li>			
+						</ul>
+					</div>
+					<div>
+						<p><strong>Преимущества работы с Levsha Digital</strong></p>	
+						<ul>
+							<li><strong>Полный цикл информирования</strong> — разработка материала, публикация, создание инфоповода, продвижение, формирование отчетности</li>
+							<li><strong>Персональное ситуативное сопровождение клиента</strong> — работа не только с плановой повесткой, но и с информационными рисками</li>
+							<li><strong>Гарантия результата</strong> — холдинг берет на себя обязательства по достижению целей заказчика</li>			
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="test_in_test" id="partners">
+				<h2>Партнеры</h2>
+				<div class="partners-grid">
+												<div class="partners-grid__item" target="_blank" rel="noopener noreferrer">
+								<img src="https://levsha.digital/wp-content/uploads/2022/12/alliance_logo_1_blue.png" class="partners-grid__item-img">
+								<div class="partners-grid__item-desc">
+									<h3>Альянс по защите детей в цифровой среде</h3>
+									<!-- <p></p> -->
+								</div>
+							</div>
+																		<div class="partners-grid__item" target="_blank" rel="noopener noreferrer">
+								<img src="https://levsha.digital/wp-content/uploads/2022/04/amo-astrahan.jpg" class="partners-grid__item-img">
+								<div class="partners-grid__item-desc">
+									<h3>Астрахань</h3>
+									<!-- <p></p> -->
+								</div>
+							</div>
+																		<div class="partners-grid__item" target="_blank" rel="noopener noreferrer">
+								<img src="https://levsha.digital/wp-content/uploads/2022/04/voronezh.jpg" class="partners-grid__item-img">
+								<div class="partners-grid__item-desc">
+									<h3>Воронеж</h3>
+									<!-- <p></p> -->
+								</div>
+							</div>
+																		<div class="partners-grid__item" target="_blank" rel="noopener noreferrer">
+								<img src="https://levsha.digital/wp-content/uploads/2022/04/voronezhskaya-oblast.jpg" class="partners-grid__item-img">
+								<div class="partners-grid__item-desc">
+									<h3>Воронежская область</h3>
+									<!-- <p></p> -->
+								</div>
+							</div>
+																		<div class="partners-grid__item" target="_blank" rel="noopener noreferrer">
+								<img src="https://levsha.digital/wp-content/uploads/2022/04/kamchatskij-kraj.jpg" class="partners-grid__item-img">
+								<div class="partners-grid__item-desc">
+									<h3>Камчатский край</h3>
+									<!-- <p></p> -->
+								</div>
+							</div>
+																		<div class="partners-grid__item" target="_blank" rel="noopener noreferrer">
+								<img src="https://levsha.digital/wp-content/uploads/2022/04/kirovskaya-oblast.jpg" class="partners-grid__item-img">
+								<div class="partners-grid__item-desc">
+									<h3>Кировская область</h3>
+									<!-- <p></p> -->
+								</div>
+							</div>
+																		<div class="partners-grid__item" target="_blank" rel="noopener noreferrer">
+								<img src="https://levsha.digital/wp-content/uploads/2022/04/kostromskaya-oblast.jpg" class="partners-grid__item-img">
+								<div class="partners-grid__item-desc">
+									<h3>Костромская область</h3>
+									<!-- <p></p> -->
+								</div>
+							</div>
+																		<div class="partners-grid__item" target="_blank" rel="noopener noreferrer">
+								<img src="https://levsha.digital/wp-content/uploads/2022/04/krasnodarskij-kraj.png" class="partners-grid__item-img">
+								<div class="partners-grid__item-desc">
+									<h3>Краснодарский край</h3>
+									<!-- <p></p> -->
+								</div>
+							</div>
+																		<div class="partners-grid__item" target="_blank" rel="noopener noreferrer">
+								<img src="https://levsha.digital/wp-content/uploads/2022/04/magadan.jpg" class="partners-grid__item-img">
+								<div class="partners-grid__item-desc">
+									<h3>Магадан</h3>
+									<!-- <p></p> -->
+								</div>
+							</div>
+																		<div class="partners-grid__item" target="_blank" rel="noopener noreferrer">
+								<img src="https://levsha.digital/wp-content/uploads/2022/03/4.png" class="partners-grid__item-img">
+								<div class="partners-grid__item-desc">
+									<h3>НВАЭС Росатом</h3>
+									<!-- <p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam beatae repudiandae autem deleniti commodi, architecto.</p>
+</p> -->
+								</div>
+							</div>
+																		<div class="partners-grid__item" target="_blank" rel="noopener noreferrer">
+								<img src="https://levsha.digital/wp-content/uploads/2022/04/omskaya-oblast.jpg" class="partners-grid__item-img">
+								<div class="partners-grid__item-desc">
+									<h3>Омская область</h3>
+									<!-- <p></p> -->
+								</div>
+							</div>
+																		<div class="partners-grid__item" target="_blank" rel="noopener noreferrer">
+								<img src="https://levsha.digital/wp-content/uploads/2022/04/respublika-buryatiya.jpg" class="partners-grid__item-img">
+								<div class="partners-grid__item-desc">
+									<h3>Республика Бурятия</h3>
+									<!-- <p></p> -->
+								</div>
+							</div>
+																		<div class="partners-grid__item" target="_blank" rel="noopener noreferrer">
+								<img src="https://levsha.digital/wp-content/uploads/2022/03/5.png" class="partners-grid__item-img">
+								<div class="partners-grid__item-desc">
+									<h3>Росгосцирк</h3>
+									<!-- <p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam beatae repudiandae autem deleniti commodi, architecto.</p>
+</p> -->
+								</div>
+							</div>
+																		<div class="partners-grid__item" target="_blank" rel="noopener noreferrer">
+								<img src="https://levsha.digital/wp-content/uploads/2022/03/6.png" class="partners-grid__item-img">
+								<div class="partners-grid__item-desc">
+									<h3>Русская медная компания</h3>
+									<!-- <p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam beatae repudiandae autem deleniti commodi, architecto.</p>
+</p> -->
+								</div>
+							</div>
+																		<div class="partners-grid__item" target="_blank" rel="noopener noreferrer">
+								<img src="https://levsha.digital/wp-content/uploads/2022/03/2.png" class="partners-grid__item-img">
+								<div class="partners-grid__item-desc">
+									<h3>Синара</h3>
+									<!-- <p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam beatae repudiandae autem deleniti commodi, architecto.</p>
+</p> -->
+								</div>
+							</div>
+																		<div class="partners-grid__item" target="_blank" rel="noopener noreferrer">
+								<img src="https://levsha.digital/wp-content/uploads/2022/04/tambovskaya-oblast.jpg" class="partners-grid__item-img">
+								<div class="partners-grid__item-desc">
+									<h3>Тамбовская обл</h3>
+									<!-- <p></p> -->
+								</div>
+							</div>
+																		<div class="partners-grid__item" target="_blank" rel="noopener noreferrer">
+								<img src="https://levsha.digital/wp-content/uploads/2022/03/TOZ.jpg" class="partners-grid__item-img">
+								<div class="partners-grid__item-desc">
+									<h3>ТОЗ</h3>
+									<!-- <p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam beatae repudiandae autem deleniti commodi, architecto.</p>
+</p> -->
+								</div>
+							</div>
+																		<div class="partners-grid__item" target="_blank" rel="noopener noreferrer">
+								<img src="https://levsha.digital/wp-content/uploads/2022/03/1.png" class="partners-grid__item-img">
+								<div class="partners-grid__item-desc">
+									<h3>Тульский винокуренный завод</h3>
+									<!-- <p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam beatae repudiandae autem deleniti commodi, architecto.</p>
+</p> -->
+								</div>
+							</div>
+																		<div class="partners-grid__item" target="_blank" rel="noopener noreferrer">
+								<img src="https://levsha.digital/wp-content/uploads/2022/03/3.png" class="partners-grid__item-img">
+								<div class="partners-grid__item-desc">
+									<h3>Хартия</h3>
+									<!-- <p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam beatae repudiandae autem deleniti commodi, architecto.</p>
+</p> -->
+								</div>
+							</div>
+																		<div class="partners-grid__item" target="_blank" rel="noopener noreferrer">
+								<img src="https://levsha.digital/wp-content/uploads/2022/04/chuvashiya.jpg" class="partners-grid__item-img">
+								<div class="partners-grid__item-desc">
+									<h3>Чувашия</h3>
+									<!-- <p></p> -->
+								</div>
+							</div>
+																		<div class="partners-grid__item" target="_blank" rel="noopener noreferrer">
+								<img src="https://levsha.digital/wp-content/uploads/2022/03/SHHyokinoazot-1.png" class="partners-grid__item-img">
+								<div class="partners-grid__item-desc">
+									<h3>Щёкиноазот</h3>
+									<!-- <p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam beatae repudiandae autem deleniti commodi, architecto.</p>
+</p> -->
+								</div>
+							</div>
+															</div>
+			</div>
+			<div class="test_in_test" id="contacts">
+				<h2>Контакты</h2>
+					<p>
+						<strong>Адрес офиса:</strong> г. Москва, ул. 1-я Тверская-Ямская улица, 23с1, офис 503 (а)<br><br>
+						<strong>E-mail:</strong> levsha@sm.news 
+					</p>
+			</div>
+		</div>
+	</section>
+</main>
+    <footer class="footer">
+        <div class="footer-container">
+            <div class="footer-logo">
+			<a href="/">
+                                <img src="/levsha.png">
+			</a>	
+            </div>
+            <div class="footer-rules">
+                <div class="footer-rules__container">
+					<div>
+						<!--LiveInternet counter--><a href="https://www.liveinternet.ru/click;Levsha"
+						target="_blank" ><img id="licnt1271" width="88" height="31" style="border:0" 
+						title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня"
+						src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7"
+						alt=""/></a><br><script>(function(d,s){d.getElementById("licnt1271").src=
+						"https://counter.yadro.ru/hit;Levsha?t15.6;r"+escape(d.referrer)+
+						((typeof(s)=="undefined")?"":";s"+s.width+"*"+s.height+"*"+
+						(s.colorDepth?s.colorDepth:s.pixelDepth))+";u"+escape(d.URL)+
+						";h"+escape(d.title.substring(0,150))+";"+Math.random()})
+						(document,screen)</script><!--/LiveInternet-->
+						<a href="#">© 2023 г. Все права защищены</a>
+					</div>
+                </div>
+            </div>
+            <nav class="footer-nav">
+                <ul>
+					<!--
+                    <li>
+                        <a href="page-region/index.html">Региональная сеть</a>
+                    </li>
+                    <li>
+                        <a href="page-partners/index.html">Наши партнеры</a>
+                    </li>
+                    <li>
+                        <a href="page-liga/index.html">Пресс-центр</a>
+                    </li>
+					-->
+					                </ul>
+            </nav>
+            <div class="footer-media">
+                <ul>
+                    <li>
+                        <a href="tel:74872520502">+7 (4872) 52-05-02</a>
+                    </li>
+                    <li>
+                        <a href="mailto:levsha@sm.news">levsha@sm.news</a>
+                    </li>
+                    <li>
+                        <p>Тула, ул. Михеева, 17, офис 306</p>
+                    </li>
+                    <li>
+                        <p>10.00-17.00</p>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </footer>
+</div>
+
+
+<!-- библиотеки для анимаций-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.8.0/gsap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.8.0/MotionPathPlugin.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.8.0/ScrollTrigger.min.js"></script>
+
+<script src="https://levsha.digital/wp-content/themes/levsha/assets/js/jquery-3.6.0.min.js"></script>
+<script src="https://levsha.digital/wp-content/themes/levsha/assets/dependencies/header.js"></script>
+<script src="https://levsha.digital/wp-content/themes/levsha/assets/js/slick.min.js"></script>
+<script src="https://levsha.digital/wp-content/themes/levsha/assets/js/region.js"></script>
+<script src="https://levsha.digital/wp-content/themes/levsha/assets/js/loadmore.js"></script>
+<script src="https://levsha.digital/wp-content/themes/levsha/assets/js/main.js"></script>
+<script src="https://levsha.digital/wp-content/themes/levsha/map/js/index.js"></script>
+
+<!-- jQuery Modal -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
+<script>
+// $('#ex1').modal('show');
+</script>
+<style>
+    #wp-admin-bar-aioseo-main {
+        display: none !important;
+    }
+</style>
+</body>
+</html>

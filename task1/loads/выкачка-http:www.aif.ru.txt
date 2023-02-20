@@ -1,0 +1,3423 @@
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="ie8"> <![endif]-->
+<!--[if gt IE 8]><!--><html lang="ru"> <!--<![endif]-->
+<head>
+    <!-- created_at 20-02-2023 13:37:51 -->
+    <script>
+        window.isIndexPage = 1;
+        window.isMobileBrowser = 0;
+        window.disableSidebarCut = 1;
+        window.bannerDebugMode = 0;
+    </script>
+
+                
+                                    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" >
+<meta name="format-detection" content="telephone=no" >
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" >
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" >
+<meta name="HandheldFriendly" content="true" >
+<meta name="format-detection" content="telephone=no" >
+<meta name="theme-color" content="#ffffff" >
+<meta name="keywords" content="аргументы и факты, аиф, еженедельник аргументы и факты" >
+<meta name="description" content="Аргументы и Факты: круглосуточное ежедневное обновление новостей России и мира, репортажи, истории. Темы в формате вопрос-ответ, инфографики, фото и видеоматериалы. Полнотекстовые выпуски газеты, архив номеров" >
+<meta property="fb:pages" content="135161613191462" >
+<meta name="facebook-domain-verification" content="jiqbwww7rrqnwzjkizob7wrpmgmwq3" >
+        <title>Аргументы и Факты: новости России и мира</title>    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+    
+    <link rel="preload" href="/redesign2018/fonts/montserrat-v15-latin-ext_latin_cyrillic-ext_cyrillic-regular.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/redesign2018/fonts/montserrat-v15-latin-ext_latin_cyrillic-ext_cyrillic-italic.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/redesign2018/fonts/montserrat-v15-latin-ext_latin_cyrillic-ext_cyrillic-700.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/redesign2018/fonts/montserrat-v15-latin-ext_latin_cyrillic-ext_cyrillic-700italic.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/redesign2018/fonts/montserrat-v15-latin-ext_latin_cyrillic-ext_cyrillic-800.woff2" as="font" type="font/woff2" crossorigin>
+    <link href="https://aif.ru/" rel="canonical" >
+<link href="https://aif.ru/redesign2018/css/style.css?067" media="all" rel="stylesheet" type="text/css" >
+<link href="https://aif.ru/img/icon/apple_touch_icon_57x57.png?067" rel="apple-touch-icon" sizes="57x57" >
+<link href="https://aif.ru/img/icon/apple_touch_icon_114x114.png?067" rel="apple-touch-icon" sizes="114x114" >
+<link href="https://aif.ru/img/icon/apple_touch_icon_72x72.png?067" rel="apple-touch-icon" sizes="72x72" >
+<link href="https://aif.ru/img/icon/apple_touch_icon_144x144.png?067" rel="apple-touch-icon" sizes="144x144" >
+<link href="https://aif.ru/img/icon/apple-touch-icon.png?067" rel="apple-touch-icon" sizes="180x180" >
+<link href="https://aif.ru/img/icon/favicon-32x32.png?067" rel="icon" type="image/png" sizes="32x32" >
+<link href="https://aif.ru/img/icon/favicon-16x16.png?067" rel="icon" type="image/png" sizes="16x16" >
+<link href="https://aif.ru/img/manifest.json?067" rel="manifest" >
+<link href="https://aif.ru/img/safari-pinned-tab.svg?067" rel="mask-icon" color="#d55b5b" >
+<link href="https://aif.ru/rss/googlearticles" rel="alternate" type="application/rss+xml" >
+<link href="https://aif.ru/rss/googlenews" rel="alternate" type="application/rss+xml" >
+<link href="https://ads.betweendigital.com" rel="preconnect" crossorigin="" >
+        <script type="text/javascript">
+    //<!--
+    var isRedesignPage = true;    //-->
+</script>
+<script type="text/javascript" src="https://aif.ru/js/output/jquery.min.js?067"></script>
+<script type="text/javascript" src="https://aif.ru/js/output/header_scripts.js?067"></script>
+<script type="text/javascript">
+    //<!--
+    var _sf_startpt=(new Date()).getTime()    //-->
+</script>
+<script type="text/javascript">
+    //<!--
+    function AdFox_getWindowSize() {
+    var winWidth,winHeight;
+	if( typeof( window.innerWidth ) == 'number' ) {
+		//Non-IE
+		winWidth = window.innerWidth;
+		winHeight = window.innerHeight;
+	} else if( document.documentElement && ( document.documentElement.clientWidth || document.documentElement.clientHeight ) ) {
+		//IE 6+ in 'standards compliant mode'
+		winWidth = document.documentElement.clientWidth;
+		winHeight = document.documentElement.clientHeight;
+	} else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
+		//IE 4 compatible
+		winWidth = document.body.clientWidth;
+		winHeight = document.body.clientHeight;
+	}
+	return {"width":winWidth, "height":winHeight};
+}//END function AdFox_getWindowSize
+
+function AdFox_getElementPosition(elemId){
+    var elem;
+    
+    if (document.getElementById) {
+		elem = document.getElementById(elemId);
+	}
+	else if (document.layers) {
+		elem = document.elemId;
+	}
+	else if (document.all) {
+		elem = document.all.elemId;
+	}
+    var w = elem.offsetWidth;
+    var h = elem.offsetHeight;	
+    var l = 0;
+    var t = 0;
+	
+    while (elem)
+    {
+        l += elem.offsetLeft;
+        t += elem.offsetTop;
+        elem = elem.offsetParent;
+    }
+
+    return {"left":l, "top":t, "width":w, "height":h};
+} //END function AdFox_getElementPosition
+
+function AdFox_getBodyScrollTop(){
+	return self.pageYOffset || (document.documentElement && document.documentElement.scrollTop) || (document.body && document.body.scrollTop);
+} //END function AdFox_getBodyScrollTop
+
+function AdFox_getBodyScrollLeft(){
+	return self.pageXOffset || (document.documentElement && document.documentElement.scrollLeft) || (document.body && document.body.scrollLeft);
+}//END function AdFox_getBodyScrollLeft
+
+function AdFox_Scroll(elemId,elemSrc){
+   var winPos = AdFox_getWindowSize();
+   var winWidth = winPos.width;
+   var winHeight = winPos.height;
+   var scrollY = AdFox_getBodyScrollTop();
+   var scrollX =  AdFox_getBodyScrollLeft();
+   var divId = 'AdFox_banner_'+elemId;
+   var ltwhPos = AdFox_getElementPosition(divId);
+   var lPos = ltwhPos.left;
+   var tPos = ltwhPos.top;
+
+   if(scrollY+winHeight+5 >= tPos && scrollX+winWidth+5 >= lPos){
+      AdFox_getCodeScript(1,elemId,elemSrc);
+	  }else{
+	     setTimeout('AdFox_Scroll('+elemId+',"'+elemSrc+'");',100);
+	  }
+}//End function AdFox_Scroll    //-->
+</script>
+<script type="text/javascript">
+    //<!--
+    function AdFox_SetLayerVis(spritename,state){
+   document.getElementById(spritename).style.visibility=state;
+}
+
+function AdFox_Open(AF_id){
+   AdFox_SetLayerVis('AdFox_DivBaseFlash_'+AF_id, "hidden");
+   AdFox_SetLayerVis('AdFox_DivOverFlash_'+AF_id, "visible");
+}
+
+function AdFox_Close(AF_id){
+   AdFox_SetLayerVis('AdFox_DivOverFlash_'+AF_id, "hidden");
+   AdFox_SetLayerVis('AdFox_DivBaseFlash_'+AF_id, "visible");
+}
+
+function AdFox_getCodeScript(AF_n,AF_id,AF_src){
+   var AF_doc;
+   if(AF_n<10){
+      try{
+	     if(document.all && !window.opera){
+		    AF_doc = window.frames['AdFox_iframe_'+AF_id].document;
+			}else if(document.getElementById){
+			         AF_doc = document.getElementById('AdFox_iframe_'+AF_id).contentDocument;
+					 }
+		 }catch(e){}
+    if(AF_doc){
+	   AF_doc.write('<scr'+'ipt type="text/javascript" src="'+AF_src+'"><\/scr'+'ipt>');
+	   }else{
+	      setTimeout('AdFox_getCodeScript('+(++AF_n)+','+AF_id+',"'+AF_src+'");', 100);
+		  }
+		  }
+}
+
+function adfoxSdvigContent(banID, flashWidth, flashHeight){
+	var obj = document.getElementById('adfoxBanner'+banID).style;
+	if (flashWidth == '100%') obj.width = flashWidth;
+	    else obj.width = flashWidth + "px";
+	if (flashHeight == '100%') obj.height = flashHeight;
+	    else obj.height = flashHeight + "px";
+}
+
+function adfoxVisibilityFlash(banName, flashWidth, flashHeight){
+    	var obj = document.getElementById(banName).style;
+	if (flashWidth == '100%') obj.width = flashWidth;
+	    else obj.width = flashWidth + "px";
+	if (flashHeight == '100%') obj.height = flashHeight;
+	    else obj.height = flashHeight + "px";
+}
+
+function adfoxStart(banID, FirShowFlNum, constVisFlashFir, sdvigContent, flash1Width, flash1Height, flash2Width, flash2Height){
+	if (FirShowFlNum == 1) adfoxVisibilityFlash('adfoxFlash1'+banID, flash1Width, flash1Height);
+	    else if (FirShowFlNum == 2) {
+		    adfoxVisibilityFlash('adfoxFlash2'+banID, flash2Width, flash2Height);
+	        if (constVisFlashFir == 'yes') adfoxVisibilityFlash('adfoxFlash1'+banID, flash1Width, flash1Height);
+		    if (sdvigContent == 'yes') adfoxSdvigContent(banID, flash2Width, flash2Height);
+		        else adfoxSdvigContent(banID, flash1Width, flash1Height);
+	}
+}
+
+function adfoxOpen(banID, constVisFlashFir, sdvigContent, flash2Width, flash2Height){
+	var aEventOpenClose = new Image();
+	var obj = document.getElementById("aEventOpen"+banID);
+	if (obj) aEventOpenClose.src =  obj.title+'&rand='+Math.random()*1000000+'&prb='+Math.random()*1000000;
+	adfoxVisibilityFlash('adfoxFlash2'+banID, flash2Width, flash2Height);
+	if (constVisFlashFir != 'yes') adfoxVisibilityFlash('adfoxFlash1'+banID, 1, 1);
+	if (sdvigContent == 'yes') adfoxSdvigContent(banID, flash2Width, flash2Height);
+}
+
+
+function adfoxClose(banID, constVisFlashFir, sdvigContent, flash1Width, flash1Height){
+	var aEventOpenClose = new Image();
+	var obj = document.getElementById("aEventClose"+banID);
+	if (obj) aEventOpenClose.src =  obj.title+'&rand='+Math.random()*1000000+'&prb='+Math.random()*1000000;
+	adfoxVisibilityFlash('adfoxFlash2'+banID, 1, 1);
+	if (constVisFlashFir != 'yes') adfoxVisibilityFlash('adfoxFlash1'+banID, flash1Width, flash1Height);
+	if (sdvigContent == 'yes') adfoxSdvigContent(banID, flash1Width, flash1Height);
+}    //-->
+</script>
+<script type="text/javascript" async="true" src="https://yandex.ru/ads/system/header-bidding.js?067"></script>
+<script type="text/javascript">
+    //<!--
+    var adfoxBiddersMap = {
+    "betweenDigital": "816043",
+	"mediasniper": "2218745",
+    "myTarget": "810102",
+	"buzzoola": "1096246",	
+	"adfox_adsmart": "1463295",
+	"otm": "1837649",
+	"bidvol": "1837660",
+	"adfox_imho-video": "1738874",
+};
+var adUnits = [
+    {
+        "code": "adfox_153825256063495017",
+		"sizes": [[300, 600], [240,400]],
+        "bids": [
+            {
+                "bidder": "betweenDigital",
+                "params": {
+                    "placementId": "3235886"
+                }
+            },
+            {
+                "bidder": "myTarget",
+                "params": {
+                    "placementId": "555209"
+                }
+            },			
+			{
+                    "bidder": "adfox_adsmart",
+                    "params": {
+						p1: 'cqguf',
+						p2: 'hhro'
+					}
+            },
+			{
+                    "bidder": "otm",
+                    "params": {
+						"placementId": "27876"
+					}
+            },{
+                    "bidder": "bidvol",
+                    "params": {
+						"placementId": "13877"
+					}
+            },{
+                    "bidder": "mediasniper",
+                    "params": {
+						"placementId": "20001"
+					}
+            },			
+			{
+                    "bidder": "adfox_imho-video",
+                    "params": {
+						p1: "cqslb",
+						p2: "hitz"
+					}
+            }
+        ]
+    },{
+        "code": "adfox_150719646019463024",
+		"sizes": [[640,480], [640,360]],
+        "bids": [
+            {
+                "bidder": "myTarget",
+                "params": {
+                    "placementId": "555211"
+                }
+            },
+			{
+                "bidder": "betweenDigital",
+                "params": {
+                    "placementId": "3377340"
+                }
+            },
+			{
+                "bidder": "otm",
+                "params": {
+                    "placementId": "27898"
+                }
+            },
+			{
+                "bidder": "adfox_adsmart",
+                    "params": {
+						p1: 'cmqsb',
+						p2: 'ul'
+					}
+            }
+        ]
+    },{
+        "code": "adfox_14987283079885683",
+		"sizes": [[300,250], [300,240]],
+        "bids": [
+            {
+                "bidder": "betweenDigital",
+                "params": {
+                    "placementId": "2492448"
+                }
+            },
+            {
+                "bidder": "myTarget",
+                "params": {
+                    "placementId": "226830"
+                }
+            },{
+                "bidder": "mediasniper",
+                "params": {
+                    "placementId": "20002"
+                }
+            },
+			{
+                "bidder": "buzzoola",
+                "params": {
+                    "placementId": "563787"
+                }
+            },
+			{
+                "bidder": "adfox_adsmart",
+                    "params": {
+						p1: 'cqmbg',
+						p2: 'ul'
+					}
+            },
+			{
+                "bidder": "otm",
+                    "params": {
+						"placementId": "27877"
+					}
+            },{
+                    "bidder": "bidvol",
+                    "params": {
+						"placementId": "13878"
+					}
+            },	
+			{
+                    "bidder": "adfox_imho-video",
+                    "params": {
+						p1: "cqrzc",
+						p2: "hiua"
+					}
+            }			
+        ]        
+    },{
+        "code": "adfox_153545578261291257",
+		"bids": [            
+            		{
+                    "bidder": "adfox_imho-video",
+                    "params": {
+						p1: "cqrze",
+						p2: "hiuc"
+					}
+            }
+			           
+        ]        
+    },{
+        "code": "adfox_149010055036832877",
+		"bids": [            
+            		{
+                    "bidder": "adfox_imho-video",
+                    "params": {
+						p1: 'cwkjx',
+						p2: 'hity'
+					}
+            }			           
+        ]        
+    },{
+        "code": "adfox_149874332414246474",
+		"sizes": [[640,360], [300,250], [640,480]],
+		"codeType": "combo",
+		"bids": [            
+            {
+                "bidder": "otm",
+                "params": {
+                    "placementId": "27879"
+                }
+            },
+			{
+                "bidder": "adfox_imho-video",
+                "params": {
+					p1: 'cwkjw',
+					p2: 'hiua'
+				}
+            },{
+                "bidder": "mediasniper",
+                "params": {
+                    "placementId": "20003"
+                }
+            },
+			{
+                    "bidder": "betweenDigital",
+                    "params": {
+						"placementId": "4502825"
+					}
+            }
+			           
+        ]        
+    },
+    {
+        "code": "adfox_149848658878716687",
+		"sizes": [[300,600], [240,400]],
+        "bids": [            
+            {
+                "bidder": "betweenDigital",
+                "params": {
+                    "placementId": "3377360"
+                }
+            },
+			{
+                "bidder": "myTarget",
+                "params": {
+                    "placementId": "226050"
+                }
+            },			
+			{
+                    "bidder": "adfox_imho-video",
+                    "params": {
+						p1: "cqslc",
+						p2: "hitz"
+					}
+            }
+        ]        
+    }
+];
+var userTimeout = 1000;
+window.YaHeaderBiddingSettings = {
+    biddersMap: adfoxBiddersMap,
+    adUnits: adUnits,
+    timeout: userTimeout
+};    //-->
+</script>
+<script type="text/javascript">
+    //<!--
+    window.yaContextCb = window.yaContextCb || []    //-->
+</script>
+<script type="text/javascript" async="true" src="https://yandex.ru/ads/system/context.js?067"></script>
+<script type="text/javascript">
+    //<!--
+    window.EventObserver = {
+    observers: {},
+
+    subscribe: function (name, fn) {
+        if (!this.observers.hasOwnProperty(name)) {
+            this.observers[name] = [];
+        }
+        this.observers[name].push(fn)
+    },
+    
+    unsubscribe: function (name, fn) {
+        if (!this.observers.hasOwnProperty(name)) {
+            return;
+        }
+        this.observers[name] = this.observers[name].filter(function (subscriber) {
+            return subscriber !== fn
+        })
+    },
+    
+    broadcast: function (name, data) {
+        if (!this.observers.hasOwnProperty(name)) {
+            return;
+        }
+        this.observers[name].forEach(function (subscriber) {
+            return subscriber(data)
+        })
+    }
+};    //-->
+</script>    
+    <script>
+  var adcm_config ={
+    id:1064,
+    platformId: 64,
+    init: function () {
+      window.adcm.call();
+    }
+  };
+</script>
+<script src="https://tag.digitaltarget.ru/adcm.js" async></script>    <script async src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script async src="https://cdn-b.notsy.io/aif/ym.js"></script>
+<script>
+window.notsyCmd = window.notsyCmd || [];
+window.notsyCmd.push(function() {
+window.notsyInit(
+
+{ "pageVersionAutodetect": true }
+);
+});
+</script><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-3672159-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-3672159-1');
+</script>
+<meta name="yandex-verification" content="8955d390668df851" /><meta name="pmail-verification" content="3ceefc399ea825d3fbd26afe47883715">    <link rel="stylesheet" type="text/css" media="print" href="https://aif.ru/redesign2018/css/print.css?067" />
+    <base href=""/>
+</head><body class="region__0 main_page_body">
+<div class="overlay"></div>
+<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "59428", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = "https://top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div>
+<img src="https://top-fwz1.mail.ru/counter?id=59428;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+
+
+
+<div class="container main_page" id="container">
+    
+        
+        
+        <!--баннер над шапкой--->
+                <div class="banner_box">
+            <div class="main_banner">
+                <noindex><div class="adv_content bp__header no_portr cont_center adwrapper no_mob"><div class="banner_params hide" data-params="{&quot;id&quot;:3029,&quot;num&quot;:1,&quot;place&quot;:&quot;header&quot;}"></div>
+<center>
+  
+<!--AdFox START-->
+<!--aif_direct-->
+<!--Площадка: AIF.ru / * / *-->
+<!--Тип баннера: 1000x180-->
+<!--Расположение: <верх страницы>-->
+<div id="adfox_154174758242018237"></div>
+<script>
+window.yaContextCb.push(()=>{
+    Ya.adfoxCode.create({
+        ownerId: 249933,
+        containerId: 'adfox_154174758242018237',
+        params: {
+            pp: 'g',
+            ps: 'chxs',
+            p2: 'foiy',
+            puid1: ''
+        }
+    });
+});
+</script>  
+  
+  </center>
+
+<br></div></noindex>            </div>
+        </div>
+                <!--//баннер  над шапкой--->
+
+    <script>
+	currentUser = new User();
+</script>
+
+<header class="header">
+    <div class="count_box_nodisplay">
+    <div class="couter_block"><!--LiveInternet counter-->
+<script type="text/javascript"><!--
+document.write("<img src='https://counter.yadro.ru//hit;AIF?r"+escape(document.referrer)+((typeof(screen)=="undefined")?"":";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+";h"+escape(document.title.substring(0,80))+";"+Math.random()+"' width=1 height=1 alt=''>");
+//--></script><!--/LiveInternet--></div></div>    <div class="topline">
+    <a href="#" class="burger openCloser">
+        <div class="burger__wrapper">
+            <span class="burger__line"></span>
+            <span class="burger__line"></span>
+            <span class="burger__line"></span>
+        </div>
+    </a>
+    <a href="/" class="logo_box">
+        <img width="96" height="22" src="https://aif.ru/redesign2018/img/logo.svg?067" alt="Аргументы и Факты">
+        <div class="region_url">
+            aif.ru        </div>
+    </a>
+    <div itemscope itemtype="http://schema.org/Organization" class="schema_org">
+        <img itemprop="logo" src="https://aif.ru/redesign2018/img/logo.svg?067" />
+        <a itemprop="url" href="/"></a>
+        <meta itemprop="name" content="АО «Аргументы и Факты»" />
+        <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+            <meta itemprop="postalCode" content="101000" />
+            <meta itemprop="addressLocality" content="Москва" />
+            <meta itemprop="streetAddress" content="ул. Мясницкая, д. 42"/>
+            <a itemprop="telephone" href="tel:+74956465757">+7 (495) 646 57 57</a>
+        </div>
+    </div>
+    <a href="#" class="region regionOpenCloser">
+        <img width="19" height="25" src="https://aif.ru/redesign2018/img/location.svg?067"><span>Федеральный АиФ</span>
+    </a>
+
+    <!--a class="topline__hashtag" href="https://aif.ru/health/coronavirus/?utm_medium=header&utm_content=covid&utm_source=aif">#остаемсядома</a-->
+    <div class="auth_user_status_js">
+        <a href="#" class="user auth_link_login_js auth_open_js"><img width="24" height="24" src="https://aif.ru/redesign2018/img/user_ico.svg?067"></a>
+        <a href="/profile" class="user auth_link_profile_js" style="display: none"><img width="24" height="24" src="https://aif.ru/redesign2018/img/user_ico.svg?067"></a>
+    </div>
+    <div class="search_box">
+        <a href="#" class="search_ico searchOpener">
+            <img width="24" height="24" src="https://aif.ru/redesign2018/img/search_ico.svg?067">
+        </a>
+        <div class="search_input">
+            <form action="/search" id="search_form1">
+                <input type="text" name="text" maxlength="50"/>
+            </form>
+        </div>
+    </div>
+</div>
+
+<div class="fixed_menu topline">
+    <div class="cont_center">
+        <a href="#" class="burger openCloser">
+            <div class="burger__wrapper">
+                <span class="burger__line"></span>
+                <span class="burger__line"></span>
+                <span class="burger__line"></span>
+            </div>
+        </a>
+        <a href="/" class="logo_box">
+            <img width="96" height="22" src="https://aif.ru/redesign2018/img/logo.svg?067" alt="Аргументы и Факты">
+            <div class="region_url">
+                aif.ru            </div>
+        </a>
+        <a href="/" class="region regionOpenCloser">
+            <img width="19" height="25" src="https://aif.ru/redesign2018/img/location.svg?067">
+            <span>Федеральный АиФ</span>
+        </a>
+
+        <!--a class="topline__hashtag" href="https://aif.ru/health/coronavirus/?utm_medium=header&utm_content=covid&utm_source=aif">#остаемсядома</a-->
+        <div class="auth_user_status_js">
+            <a href="#" class="user auth_link_login_js auth_open_js"><img width="24" height="24" src="https://aif.ru/redesign2018/img/user_ico.svg?067"></a>
+            <a href="/profile" class="user auth_link_profile_js" style="display: none"><img width="24" height="24" src="https://aif.ru/redesign2018/img/user_ico.svg?067"></a>
+        </div>
+        <div class="search_box">
+            <a href="#" class="search_ico searchOpener">
+                <img width="24" height="24" src="https://aif.ru/redesign2018/img/search_ico.svg?067">
+            </a>
+            <div class="search_input">
+                <form action="/search">
+                    <input type="text" name="text" maxlength="50" >
+                </form>
+            </div>
+        </div>
+    </div>
+</div>    <div class="regions_box">
+    <nav class="cont_center">
+        <ul class="regions">
+            <li><a href="https://aif.ru?from_menu=1">ФЕДЕРАЛЬНЫЙ</a></li>
+            <li><a href="https://spb.aif.ru">САНКТ-ПЕТЕРБУРГ</a></li>
+
+            
+                                    <li><a href="https://adigea.aif.ru">Адыгея</a></li>
+                
+            
+                                    <li><a href="https://arh.aif.ru">Архангельск</a></li>
+                
+            
+                
+            
+                
+            
+                                    <li><a href="https://astrakhan.aif.ru">Астрахань</a></li>
+                
+            
+                                    <li><a href="https://altai.aif.ru">Барнаул</a></li>
+                
+            
+                                    <li><a href="https://aif.by">Беларусь</a></li>
+                
+            
+                                    <li><a href="https://bel.aif.ru">Белгород</a></li>
+                
+            
+                                    <li><a href="https://bryansk.aif.ru">Брянск</a></li>
+                
+            
+                                    <li><a href="https://bur.aif.ru">Бурятия</a></li>
+                
+            
+                                    <li><a href="https://vl.aif.ru">Владивосток</a></li>
+                
+            
+                                    <li><a href="https://vlad.aif.ru">Владимир</a></li>
+                
+            
+                                    <li><a href="https://vlg.aif.ru">Волгоград</a></li>
+                
+            
+                                    <li><a href="https://vologda.aif.ru">Вологда</a></li>
+                
+            
+                                    <li><a href="https://vrn.aif.ru">Воронеж</a></li>
+                
+            
+                
+            
+                                    <li><a href="https://dag.aif.ru">Дагестан</a></li>
+                
+            
+                
+            
+                                    <li><a href="https://ivanovo.aif.ru">Иваново</a></li>
+                
+            
+                                    <li><a href="https://irk.aif.ru">Иркутск</a></li>
+                
+            
+                                    <li><a href="https://kazan.aif.ru">Казань</a></li>
+                
+            
+                                    <li><a href="https://kzaif.kz">Казахстан</a></li>
+                
+            
+                
+            
+                                    <li><a href="https://klg.aif.ru">Калининград</a></li>
+                
+            
+                
+            
+                                    <li><a href="https://kaluga.aif.ru">Калуга</a></li>
+                
+            
+                                    <li><a href="https://kamchatka.aif.ru">Камчатка</a></li>
+                
+            
+                
+            
+                                    <li><a href="https://karel.aif.ru">Карелия</a></li>
+                
+            
+                                    <li><a href="https://kirov.aif.ru">Киров</a></li>
+                
+            
+                                    <li><a href="https://komi.aif.ru">Коми</a></li>
+                
+            
+                                    <li><a href="https://kostroma.aif.ru">Кострома</a></li>
+                
+            
+                                    <li><a href="https://kuban.aif.ru">Краснодар</a></li>
+                
+            
+                                    <li><a href="https://krsk.aif.ru">Красноярск</a></li>
+                
+            
+                                    <li><a href="https://krym.aif.ru">Крым</a></li>
+                
+            
+                                    <li><a href="https://kuzbass.aif.ru">Кузбасс</a></li>
+                
+            
+                
+            
+                
+            
+                                    <li><a href="https://aif.kg">Кыргызстан</a></li>
+                
+            
+                                    <li><a href="https://mar.aif.ru">Марий Эл</a></li>
+                
+            
+                                    <li><a href="https://saransk.aif.ru">Мордовия</a></li>
+                
+            
+                                    <li><a href="https://murmansk.aif.ru">Мурманск</a></li>
+                
+            
+                
+            
+                                    <li><a href="https://nn.aif.ru">Нижний Новгород</a></li>
+                
+            
+                                    <li><a href="https://nsk.aif.ru">Новосибирск</a></li>
+                
+            
+                
+            
+                                    <li><a href="https://omsk.aif.ru">Омск</a></li>
+                
+            
+                                    <li><a href="https://oren.aif.ru">Оренбург</a></li>
+                
+            
+                                    <li><a href="https://penza.aif.ru">Пенза</a></li>
+                
+            
+                                    <li><a href="https://perm.aif.ru">Пермь</a></li>
+                
+            
+                                    <li><a href="https://pskov.aif.ru">Псков</a></li>
+                
+            
+                                    <li><a href="https://rostov.aif.ru">Ростов-на-Дону</a></li>
+                
+            
+                                    <li><a href="https://rzn.aif.ru">Рязань</a></li>
+                
+            
+                                    <li><a href="https://samara.aif.ru">Самара</a></li>
+                
+            
+                
+            
+                                    <li><a href="https://saratov.aif.ru">Саратов</a></li>
+                
+            
+                                    <li><a href="https://sakhalin.aif.ru">Сахалин</a></li>
+                
+            
+                
+            
+                                    <li><a href="https://smol.aif.ru">Смоленск</a></li>
+                
+            
+                
+            
+                                    <li><a href="https://stav.aif.ru">Ставрополь</a></li>
+                
+            
+                
+            
+                                    <li><a href="https://tver.aif.ru">Тверь</a></li>
+                
+            
+                                    <li><a href="https://tomsk.aif.ru">Томск</a></li>
+                
+            
+                                    <li><a href="https://tula.aif.ru">Тула</a></li>
+                
+            
+                                    <li><a href="https://tmn.aif.ru">Тюмень</a></li>
+                
+            
+                                    <li><a href="https://udm.aif.ru">Удмуртия</a></li>
+                
+            
+                
+            
+                                    <li><a href="https://ul.aif.ru">Ульяновск</a></li>
+                
+            
+                                    <li><a href="https://ural.aif.ru">Урал</a></li>
+                
+            
+                                    <li><a href="https://ufa.aif.ru">Уфа</a></li>
+                
+            
+                
+            
+                
+            
+                                    <li><a href="https://hab.aif.ru">Хабаровск</a></li>
+                
+            
+                
+            
+                                    <li><a href="https://chv.aif.ru">Чебоксары</a></li>
+                
+            
+                                    <li><a href="https://chel.aif.ru">Челябинск</a></li>
+                
+            
+                                    <li><a href="https://chr.aif.ru">Черноземье</a></li>
+                
+            
+                                    <li><a href="https://chita.aif.ru">Чита</a></li>
+                
+            
+                                    <li><a href="https://ugra.aif.ru">Югра</a></li>
+                
+            
+                                    <li><a href="https://yakutia.aif.ru">Якутия</a></li>
+                
+            
+                                    <li><a href="https://yamal.aif.ru">Ямал</a></li>
+                
+            
+                                    <li><a href="https://yar.aif.ru">Ярославль</a></li>
+                
+                    </ul>
+    </nav>
+</div>    <div class="top_menu_box">
+    <div class="cont_center">
+        <nav class="top_menu main_menu_wrapper_js">
+                            <ul class="main_menu main_menu_js" id="rubrics">
+                                                        <li  class="menuItem top_level_item_js">
+
+        <a  href="/special" title="Спецпроекты">Спецпроекты</a>
+    
+    </li>                                                <li  data-rubric_id="8388" class="menuItem top_level_item_js">
+
+        <a  href="/mobilization" title="Частичная мобилизация в РФ" id="custommenu-11199">Частичная мобилизация в РФ</a>
+    
+    </li>                                                                                                                                <li  class="menuItem top_level_item_js">
+
+        <a  href="https://aif.ru/money/vef-22" title="ВЭФ-2022" id="custommenu-11193">ВЭФ-2022</a>
+    
+    </li>                                                <li  class="menuItem top_level_item_js">
+
+        <a  href="https://aif.ru/politics/world/trend_4110" title="Спецоперация на Украине" id="custommenu-11091">Спецоперация на Украине</a>
+    
+    </li>                                                                    <li  class="menuItem top_level_item_js">
+
+        <a  href="https://aif.ru/importozamjeshchjenije" title="Все об импортозамещении" id="custommenu-10889">Все об импортозамещении</a>
+    
+    </li>                                                <li  class="menuItem top_level_item_js">
+
+        <a  href="https://aif.ru/natsionalniye_proekti_rossii" title="Национальные проекты России" id="custommenu-11197">Национальные проекты России</a>
+    
+    </li>                                                <li  data-rubric_id="4" class="menuItem top_level_item_js">
+
+        <a  href="/society" title="Общество" id="custommenu-4291">Общество</a>
+    
+            <div class="subrubrics_box submenu_js">
+            <ul>
+                                                            <li  data-rubric_id="7378" class="menuItem">
+
+        <a  href="/society/75_victory" title="75 лет Победе" id="custommenu-10200">75 лет Победе</a>
+    
+    </li>                                                                                <li  class="menuItem">
+
+        <a  href="https://aif.ru/politics/russia/trend_4001" title="Просто о сложном" id="custommenu-10494">Просто о сложном</a>
+    
+    </li>                                                                                <li  data-rubric_id="5" class="menuItem">
+
+        <a  href="/society/web" title="Сеть" id="custommenu-4319">Сеть</a>
+    
+    </li>                                                                                <li  data-rubric_id="6" class="menuItem">
+
+        <a  href="/society/science" title="Наука" id="custommenu-4320">Наука</a>
+    
+    </li>                                                                                <li  data-rubric_id="7" class="menuItem">
+
+        <a  href="/society/healthcare" title="Здравоохранение" id="custommenu-4321">Здравоохранение</a>
+    
+    </li>                                                                                <li  data-rubric_id="8" class="menuItem">
+
+        <a  href="/society/army" title="Армия" id="custommenu-4322">Армия</a>
+    
+    </li>                                                                                <li  data-rubric_id="4189" class="menuItem">
+
+        <a  href="/society/safety" title="Безопасность" id="custommenu-6555">Безопасность</a>
+    
+    </li>                                                                                <li  data-rubric_id="9" class="menuItem">
+
+        <a  href="/society/education" title="Образование" id="custommenu-4323">Образование</a>
+    
+    </li>                                                                                <li  data-rubric_id="10" class="menuItem">
+
+        <a  href="/society/law" title="Право" id="custommenu-4324">Право</a>
+    
+    </li>                                                                                <li  class="menuItem">
+
+        <a  href="https://aif.ru/politics/russia/trend_3106" title="Дальний Восток" id="custommenu-11194">Дальний Восток</a>
+    
+    </li>                                                                                <li  class="menuItem">
+
+        <a  href="https://aif.ru/society/ecology/trend_3858" title="Арктика — территория развития" id="custommenu-10197">Арктика — территория развития</a>
+    
+    </li>                                                                                <li  data-rubric_id="6003" class="menuItem">
+
+        <a  href="/society/ecology" title="Экология" id="custommenu-8880">Экология</a>
+    
+    </li>                                                                                <li  data-rubric_id="5976" class="menuItem">
+
+        <a  href="/society/mchs" title="МЧС России" id="custommenu-8825">МЧС России</a>
+    
+    </li>                                                                                <li  class="menuItem">
+
+        <a  href="https://aif.ru/society/ecology/trend_3277" title="Мусора.нет" id="custommenu-9679">Мусора.нет</a>
+    
+    </li>                                                                                <li  data-rubric_id="5970" class="menuItem">
+
+        <a  href="/society/agronews" title="Агроновости" id="custommenu-8823">Агроновости</a>
+    
+    </li>                                                                                <li  data-rubric_id="11" class="menuItem">
+
+        <a  href="/society/history" title="История" id="custommenu-4325">История</a>
+    
+    </li>                                                                                <li  data-rubric_id="12" class="menuItem">
+
+        <a  href="/society/people" title="Люди" id="custommenu-4326">Люди</a>
+    
+    </li>                                                                                <li  data-rubric_id="13" class="menuItem">
+
+        <a  href="/society/religion" title="Религия" id="custommenu-4327">Религия</a>
+    
+    </li>                                                                                <li  data-rubric_id="14" class="menuItem">
+
+        <a  href="/society/ptransport" title="Общественный транспорт" id="custommenu-4328">Общественный транспорт</a>
+    
+    </li>                                                                                <li  data-rubric_id="4213" class="menuItem">
+
+        <a  href="/society/media" title="СМИ" id="custommenu-6593">СМИ</a>
+    
+    </li>                                                                                <li  data-rubric_id="3052" class="menuItem">
+
+        <a  href="/society/nature" title="Природа" id="custommenu-5642">Природа</a>
+    
+    </li>                                                                                <li  data-rubric_id="107" class="menuItem">
+
+        <a  href="/travel" title="Туризм" id="custommenu-4307">Туризм</a>
+    
+    </li>                                                                                <li  data-rubric_id="4388" class="menuItem">
+
+        <a  href="/society/charity" title="Благотворительность" id="custommenu-6892">Благотворительность</a>
+    
+    </li>                                                                                                                    <li  data-rubric_id="4351" class="menuItem">
+
+        <a  href="/society/changeonelife" title="Измени одну жизнь" id="custommenu-6821">Измени одну жизнь</a>
+    
+    </li>                                                                                <li  data-rubric_id="4319" class="menuItem">
+
+        <a  href="/society/gallery" title="Галереи" id="custommenu-6731">Галереи</a>
+    
+    </li>                                                                                <li  data-rubric_id="4196" class="menuItem">
+
+        <a  href="/society/opinion" title="Мнение" id="custommenu-6814">Мнение</a>
+    
+    </li>                                                </ul>
+        </div>
+    </li>                                                <li  data-rubric_id="15" class="menuItem top_level_item_js">
+
+        <a  href="/incidents" title="Происшествия" id="custommenu-4292">Происшествия</a>
+    
+    </li>                                                <li  data-rubric_id="1" class="menuItem top_level_item_js">
+
+        <a  href="/politics" title="Политика" id="custommenu-4290">Политика</a>
+    
+            <div class="subrubrics_box submenu_js">
+            <ul>
+                                                            <li  data-rubric_id="2" class="menuItem">
+
+        <a  href="/politics/russia" title="В России" id="custommenu-4317">В России</a>
+    
+    </li>                                                                                <li  class="menuItem">
+
+        <a  href="https://aif.ru/politics/russia/trend_4077" title="Госдума 2021" id="custommenu-10520">Госдума 2021</a>
+    
+    </li>                                                                                <li  data-rubric_id="7279" class="menuItem">
+
+        <a  href="/politics/elections" title="Московские выборы" id="custommenu-10048">Московские выборы</a>
+    
+    </li>                                                                                <li  data-rubric_id="3" class="menuItem">
+
+        <a  href="/politics/world" title="В мире" id="custommenu-4318">В мире</a>
+    
+    </li>                                                                                <li  class="menuItem">
+
+        <a  href="https://aif.ru/politics/russia/trend_2830" title="Итоги пятилетки. Курская область" id="custommenu-8911">Итоги пятилетки. Курская область</a>
+    
+    </li>                                                                                <li  data-rubric_id="4316" class="menuItem">
+
+        <a  href="/politics/gallery" title="Галереи" id="custommenu-6894">Галереи</a>
+    
+    </li>                                                                                <li  data-rubric_id="4198" class="menuItem">
+
+        <a  href="/politics/opinion" title="Мнения" id="custommenu-6893">Мнения</a>
+    
+    </li>                                                </ul>
+        </div>
+    </li>                                                <li  data-rubric_id="16" class="menuItem top_level_item_js">
+
+        <a  href="/money" title="Деньги" id="custommenu-4293">Деньги</a>
+    
+            <div class="subrubrics_box submenu_js">
+            <ul>
+                                                            <li  data-rubric_id="2988" class="menuItem">
+
+        <a  href="/money/economy" title="Экономика" id="custommenu-5777">Экономика</a>
+    
+    </li>                                                                                <li  data-rubric_id="17" class="menuItem">
+
+        <a  href="/money/corruption" title="Коррупция" id="custommenu-4329">Коррупция</a>
+    
+    </li>                                                                                <li  data-rubric_id="18" class="menuItem">
+
+        <a  href="/money/business" title="Карьера и бизнес" id="custommenu-4330">Карьера и бизнес</a>
+    
+    </li>                                                                                <li  data-rubric_id="19" class="menuItem">
+
+        <a  href="/money/mymoney" title="Личные деньги" id="custommenu-4331">Личные деньги</a>
+    
+    </li>                                                                                <li  data-rubric_id="20" class="menuItem">
+
+        <a  href="/money/company" title="Компании" id="custommenu-4332">Компании</a>
+    
+    </li>                                                                                <li  data-rubric_id="21" class="menuItem">
+
+        <a  href="/money/market" title="Рынок" id="custommenu-4333">Рынок</a>
+    
+    </li>                                                                                <li  class="menuItem">
+
+        <a  href="https://industry.aif.ru/" title="Время созидать!" id="custommenu-10887">Время созидать!</a>
+    
+    </li>                                                                                <li  class="menuItem">
+
+        <a  href="https://aif.ru/importozamjeshchjenije" title="Импортозамещение" id="custommenu-10888">Импортозамещение</a>
+    
+    </li>                                                </ul>
+        </div>
+    </li>                                                <li  data-rubric_id="6992" class="menuItem top_level_item_js">
+
+        <a  href="/moscow" title="Москва" id="custommenu-9829">Москва</a>
+    
+    </li>                                                <li  data-rubric_id="23" class="menuItem top_level_item_js">
+
+        <a  href="/culture" title="Культура" id="custommenu-4294">Культура</a>
+    
+            <div class="subrubrics_box submenu_js">
+            <ul>
+                                                            <li  data-rubric_id="3073" class="menuItem">
+
+        <a  href="/culture/movie" title="Кино" id="custommenu-4334">Кино</a>
+    
+    </li>                                                                                <li  data-rubric_id="25" class="menuItem">
+
+        <a  href="/culture/theater" title="Театр" id="custommenu-4335">Театр</a>
+    
+    </li>                                                                                <li  data-rubric_id="26" class="menuItem">
+
+        <a  href="/culture/book" title="Книги" id="custommenu-4336">Книги</a>
+    
+    </li>                                                                                <li  data-rubric_id="27" class="menuItem">
+
+        <a  href="/culture/art" title="Искусство" id="custommenu-4337">Искусство</a>
+    
+    </li>                                                                                <li  data-rubric_id="3043" class="menuItem">
+
+        <a  href="/culture/showbiz" title="Шоу-бизнес" id="custommenu-5644">Шоу-бизнес</a>
+    
+    </li>                                                                                <li  data-rubric_id="28" class="menuItem">
+
+        <a  href="/culture/person" title="Персона" id="custommenu-4338">Персона</a>
+    
+    </li>                                                                                <li  data-rubric_id="29" class="menuItem">
+
+        <a  href="/culture/problem" title="Проблема" id="custommenu-4339">Проблема</a>
+    
+    </li>                                                                                <li  data-rubric_id="30" class="menuItem">
+
+        <a  href="/culture/freeway" title="Куда пойти" id="custommenu-4340">Куда пойти</a>
+    
+    </li>                                                                                <li  data-rubric_id="4322" class="menuItem">
+
+        <a  href="/culture/gallery" title="Галереи" id="custommenu-6729">Галереи</a>
+    
+    </li>                                                                                <li  data-rubric_id="4281" class="menuItem">
+
+        <a  href="/culture/classic" title="Актуальная классика" id="custommenu-6819">Актуальная классика</a>
+    
+    </li>                                                </ul>
+        </div>
+    </li>                                                <li  data-rubric_id="32" class="menuItem top_level_item_js">
+
+        <a  href="/sport" title="Спорт" id="custommenu-4295">Спорт</a>
+    
+            <div class="subrubrics_box submenu_js">
+            <ul>
+                                                            <li  data-rubric_id="34" class="menuItem">
+
+        <a  href="/sport/football" title="Футбол" id="custommenu-4342">Футбол</a>
+    
+    </li>                                                                                <li  data-rubric_id="35" class="menuItem">
+
+        <a  href="/sport/hockey" title="Хоккей" id="custommenu-4343">Хоккей</a>
+    
+    </li>                                                                                <li  data-rubric_id="36" class="menuItem">
+
+        <a  href="/sport/winter" title="Зимние виды" id="custommenu-4344">Зимние виды</a>
+    
+    </li>                                                                                <li  data-rubric_id="37" class="menuItem">
+
+        <a  href="/sport/summer" title="Летние виды" id="custommenu-4345">Летние виды</a>
+    
+    </li>                                                                                <li  data-rubric_id="38" class="menuItem">
+
+        <a  href="/sport/other" title="Другие виды" id="custommenu-4346">Другие виды</a>
+    
+    </li>                                                                                <li  data-rubric_id="39" class="menuItem">
+
+        <a  href="/sport/olymp" title="Олимпиада" id="custommenu-4347">Олимпиада</a>
+    
+    </li>                                                                                <li  data-rubric_id="40" class="menuItem">
+
+        <a  href="/sport/structure" title="Инфраструктура" id="custommenu-4348">Инфраструктура</a>
+    
+    </li>                                                                                <li  data-rubric_id="41" class="menuItem">
+
+        <a  href="/sport/person" title="Персона" id="custommenu-4349">Персона</a>
+    
+    </li>                                                                                <li  data-rubric_id="4315" class="menuItem">
+
+        <a  href="/sport/gallery" title="Фото" id="custommenu-6730">Фото</a>
+    
+    </li>                                                </ul>
+        </div>
+    </li>                                                <li  data-rubric_id="42" class="menuItem top_level_item_js">
+
+        <a  href="/food" title="Кухня" id="custommenu-6274">Кухня</a>
+    
+            <div class="subrubrics_box submenu_js">
+            <ul>
+                                                            <li  data-rubric_id="44" class="menuItem">
+
+        <a  href="/food/recipies" title="Рецепты" id="custommenu-6910">Рецепты</a>
+    
+    </li>                                                                                <li  data-rubric_id="45" class="menuItem">
+
+        <a  href="/food/graphicrecipies" title="Рецепты в инфографике" id="custommenu-6911">Рецепты в инфографике</a>
+    
+    </li>                                                                                <li  data-rubric_id="46" class="menuItem">
+
+        <a  href="/food/products" title="Продукты и напитки" id="custommenu-6912">Продукты и напитки</a>
+    
+    </li>                                                                                <li  data-rubric_id="47" class="menuItem">
+
+        <a  href="/food/diet" title="Питание и диеты" id="custommenu-6913">Питание и диеты</a>
+    
+    </li>                                                                                <li  data-rubric_id="53" class="menuItem">
+
+        <a  href="/food/tricks" title="Кулинарные хитрости" id="custommenu-6918">Кулинарные хитрости</a>
+    
+    </li>                                                                                <li  data-rubric_id="49" class="menuItem">
+
+        <a  href="/food/master" title="Мастер-классы" id="custommenu-6917">Мастер-классы</a>
+    
+    </li>                                                                                <li  data-rubric_id="52" class="menuItem">
+
+        <a  href="/food/children" title="Детское питание" id="custommenu-6914">Детское питание</a>
+    
+    </li>                                                                                <li  data-rubric_id="48" class="menuItem">
+
+        <a  href="/food/world" title="Кухни мира" id="custommenu-6915">Кухни мира</a>
+    
+    </li>                                                                                <li  data-rubric_id="51" class="menuItem">
+
+        <a  href="/food/household" title="Бытовая техника" id="custommenu-6916">Бытовая техника</a>
+    
+    </li>                                                                                <li  class="menuItem">
+
+        <a  href="https://aif.ru/food/debate" title="Дебаты " id="custommenu-7134">Дебаты </a>
+    
+    </li>                                                                                                                    <li  data-rubric_id="4742" class="menuItem">
+
+        <a  href="/food/pro" title="журнал АиФ ПРО кухню" id="custommenu-7360">журнал АиФ ПРО кухню</a>
+    
+    </li>                                                                                <li  class="menuItem">
+
+        <a  href="https://aif.ru/food/products/trend_4312" title="Вкусы России 2021" id="custommenu-10515">Вкусы России 2021</a>
+    
+    </li>                                                </ul>
+        </div>
+    </li>                                                <li  data-rubric_id="54" class="menuItem top_level_item_js">
+
+        <a  href="/dacha" title="Дача " id="custommenu-6275">Дача </a>
+    
+            <div class="subrubrics_box submenu_js">
+            <ul>
+                                                            <li  data-rubric_id="55" class="menuItem">
+
+        <a  href="/dacha/ogorod" title="Огород" id="custommenu-6284">Огород</a>
+    
+    </li>                                                                                <li  data-rubric_id="56" class="menuItem">
+
+        <a  href="/dacha/garden" title="Сад" id="custommenu-6285">Сад</a>
+    
+    </li>                                                                                                                    <li  data-rubric_id="58" class="menuItem">
+
+        <a  href="/dacha/construction" title="Стройка и дизайн" id="custommenu-6288">Стройка и дизайн</a>
+    
+    </li>                                                                                <li  data-rubric_id="59" class="menuItem">
+
+        <a  href="/dacha/help" title="Помощь юриста" id="custommenu-6289">Помощь юриста</a>
+    
+    </li>                                                                                    </ul>
+        </div>
+    </li>                                                <li  data-rubric_id="61" class="menuItem top_level_item_js">
+
+        <a  href="/health" title="Здоровье" id="custommenu-4298">Здоровье</a>
+    
+            <div class="subrubrics_box submenu_js">
+            <ul>
+                                                            <li  data-rubric_id="7473" class="menuItem">
+
+        <a  href="/health/coronavirus" title="Все о коронавирусе" id="custommenu-10428">Все о коронавирусе</a>
+    
+    </li>                                                                                <li  class="menuItem">
+
+        <a  href="https://aif.ru/zdorovoe_pitanie/" title="Здоровое питание" id="custommenu-10896">Здоровое питание</a>
+    
+    </li>                                                                                <li  class="menuItem">
+
+        <a  href="https://aif.ru/health/life/trend_3305" title=" Здоровый голос" id="custommenu-9831"> Здоровый голос</a>
+    
+    </li>                                                                                <li  data-rubric_id="63" class="menuItem">
+
+        <a  href="/health/life" title="Здоровая жизнь" id="custommenu-4366">Здоровая жизнь</a>
+    
+    </li>                                                                                <li  data-rubric_id="65" class="menuItem">
+
+        <a  href="/health/food" title="Правильное питание" id="custommenu-4368">Правильное питание</a>
+    
+    </li>                                                                                <li  data-rubric_id="66" class="menuItem">
+
+        <a  href="/health/children" title="Здоровье ребенка" id="custommenu-4369">Здоровье ребенка</a>
+    
+    </li>                                                                                <li  data-rubric_id="64" class="menuItem">
+
+        <a  href="/health/secrets" title="Секреты красоты" id="custommenu-4367">Секреты красоты</a>
+    
+    </li>                                                                                <li  class="menuItem">
+
+        <a  href="https://aif.ru/life_stories_zdorovoe_pitanie/" title="Правила питания" id="custommenu-11195">Правила питания</a>
+    
+    </li>                                                                                <li  class="menuItem">
+
+        <a  href="https://aif.ru/health/trend_3269" title="Лазерная эпиляция" id="custommenu-9677">Лазерная эпиляция</a>
+    
+    </li>                                                                                <li  data-rubric_id="67" class="menuItem">
+
+        <a  href="/health/psychologic" title="Психология жизни" id="custommenu-4370">Психология жизни</a>
+    
+    </li>                                                                                <li  class="menuItem">
+
+        <a  href="https://aif.ru/health/life/trend_4082" title="Как защитить себя от вирусов?" id="custommenu-10522">Как защитить себя от вирусов?</a>
+    
+    </li>                                                                                <li  data-rubric_id="6729" class="menuItem">
+
+        <a  href="/health/health_time" title="Время здоровья" id="custommenu-9605">Время здоровья</a>
+    
+    </li>                                                                                <li  data-rubric_id="3041" class="menuItem">
+
+        <a  href="/health/mens_health" title="Мужское здоровье" id="custommenu-5636">Мужское здоровье</a>
+    
+    </li>                                                                                <li  data-rubric_id="3238" class="menuItem">
+
+        <a  href="/health/leksprav" title="Лекарственный справочник " id="custommenu-6432">Лекарственный справочник </a>
+    
+    </li>                                                                                <li  class="menuItem">
+
+        <a  href="https://aif.ru/gazeta/archive/edition/2" title="Газета АиФ Здоровье" id="custommenu-7497">Газета АиФ Здоровье</a>
+    
+    </li>                                                                                <li  data-rubric_id="4743" class="menuItem">
+
+        <a  href="/health/pro" title="журнал АиФ ПРО Здоровье" id="custommenu-7361">журнал АиФ ПРО Здоровье</a>
+    
+    </li>                                                </ul>
+        </div>
+    </li>                                                <li  data-rubric_id="68" class="menuItem top_level_item_js">
+
+        <a  href="/auto" title="Авто" id="custommenu-4299">Авто</a>
+    
+            <div class="subrubrics_box submenu_js">
+            <ul>
+                                                            <li  data-rubric_id="70" class="menuItem">
+
+        <a  href="/auto/gibdd" title="ГИБДД" id="custommenu-4371">ГИБДД</a>
+    
+    </li>                                                                                <li  data-rubric_id="71" class="menuItem">
+
+        <a  href="/auto/about" title="Об автомобилях" id="custommenu-4372">Об автомобилях</a>
+    
+    </li>                                                                                <li  data-rubric_id="72" class="menuItem">
+
+        <a  href="/auto/support" title="Обслуживание" id="custommenu-4373">Обслуживание</a>
+    
+    </li>                                                                                <li  data-rubric_id="73" class="menuItem">
+
+        <a  href="/auto/practice" title="Практические советы" id="custommenu-4374">Практические советы</a>
+    
+    </li>                                                                                <li  data-rubric_id="74" class="menuItem">
+
+        <a  href="/auto/roads" title="Пробки/дороги" id="custommenu-4375">Пробки/дороги</a>
+    
+    </li>                                                                                <li  data-rubric_id="75" class="menuItem">
+
+        <a  href="/auto/safety" title="Безопасность" id="custommenu-4376">Безопасность</a>
+    
+    </li>                                                                                <li  data-rubric_id="4320" class="menuItem">
+
+        <a  href="/auto/gallery" title="Фото" id="custommenu-6732">Фото</a>
+    
+    </li>                                                                                <li  class="menuItem">
+
+        <a  href="https://aif.ru/auto/safety/trend_2274" title="Безопасная дорога" id="custommenu-7751">Безопасная дорога</a>
+    
+    </li>                                                </ul>
+        </div>
+    </li>                                                <li  data-rubric_id="6" class="menuItem top_level_item_js">
+
+        <a  href="/society/science" title="Наука" id="custommenu-9674">Наука</a>
+    
+    </li>                                                <li  class="menuItem top_level_item_js">
+
+        <a  href="https://aif.ru/dosug" title="Конкурсы и тесты" id="custommenu-6278">Конкурсы и тесты</a>
+    
+            <div class="subrubrics_box submenu_js">
+            <ul>
+                                                            <li  data-rubric_id="5015" class="menuItem">
+
+        <a  href="/rate" title="Фотоголосования" id="custommenu-7943">Фотоголосования</a>
+    
+    </li>                                                </ul>
+        </div>
+    </li>                                                <li  data-rubric_id="83" class="menuItem top_level_item_js">
+
+        <a  href="/techno" title="Техника" id="custommenu-6277">Техника</a>
+    
+            <div class="subrubrics_box submenu_js">
+            <ul>
+                                                            <li  data-rubric_id="4641" class="menuItem">
+
+        <a  href="/techno/industry" title="Индустрия" id="custommenu-7202">Индустрия</a>
+    
+    </li>                                                                                <li  data-rubric_id="4637" class="menuItem">
+
+        <a  href="/techno/web" title="Сеть" id="custommenu-7204">Сеть</a>
+    
+    </li>                                                                                <li  data-rubric_id="85" class="menuItem">
+
+        <a  href="/techno/gadgets" title="Гаджеты" id="custommenu-6431">Гаджеты</a>
+    
+    </li>                                                                                <li  data-rubric_id="4639" class="menuItem">
+
+        <a  href="/techno/apps" title="Приложения" id="custommenu-7200">Приложения</a>
+    
+    </li>                                                                                <li  data-rubric_id="84" class="menuItem">
+
+        <a  href="/techno/pc" title="Компьютеры" id="custommenu-6430">Компьютеры</a>
+    
+    </li>                                                                                <li  data-rubric_id="4640" class="menuItem">
+
+        <a  href="/techno/technology" title="Технологии" id="custommenu-7201">Технологии</a>
+    
+    </li>                                                                                <li  data-rubric_id="4324" class="menuItem">
+
+        <a  href="/techno/gallery" title="Фото" id="custommenu-7203">Фото</a>
+    
+    </li>                                                                                <li  class="menuItem">
+
+        <a  href="https://aif.ru/techno/technology/trend_3948" title="Виртуальные серверы" id="custommenu-10469">Виртуальные серверы</a>
+    
+    </li>                                                </ul>
+        </div>
+    </li>                                                <li  class="menuItem top_level_item_js">
+
+        <a  href="/event" title="Пресс-центр" id="custommenu-7629">Пресс-центр</a>
+    
+            <div class="subrubrics_box submenu_js">
+            <ul>
+                                                            <li  data-rubric_id="4894" class="menuItem">
+
+        <a  href="/" title="О нас" id="custommenu-7630">О нас</a>
+    
+    </li>                                                                                <li  class="menuItem">
+
+        <a  href="/event/services" title="Услуги" id="custommenu-7631">Услуги</a>
+    
+    </li>                                                                                <li  data-rubric_id="4897" class="menuItem">
+
+        <a  href="/event/arhiv" title="Анонсы мероприятий" id="custommenu-7635">Анонсы мероприятий</a>
+    
+    </li>                                                                                <li  data-rubric_id="6027" class="menuItem">
+
+        <a  href="/event/digital" title="Digital-конференции" id="custommenu-8906">Digital-конференции</a>
+    
+    </li>                                                                                <li  data-rubric_id="5771" class="menuItem">
+
+        <a  href="/event/info" title="Релизы" id="custommenu-8664">Релизы</a>
+    
+    </li>                                                                                <li  class="menuItem">
+
+        <a  href="/event/contancts" title="Контакты" id="custommenu-7636">Контакты</a>
+    
+    </li>                                                </ul>
+        </div>
+    </li>                                                <li  data-rubric_id="106" class="menuItem top_level_item_js">
+
+        <a  href="/dobroe" title="Доброе сердце" id="custommenu-10782">Доброе сердце</a>
+    
+    </li>                                                                    <li  class="menuItem top_level_item_js">
+
+        <a  href="https://usadbabaryshnikova.aif.ru/" title="Усадьба Барышникова" id="custommenu-10067">Усадьба Барышникова</a>
+    
+    </li>                                                                    <li  data-rubric_id="77" class="menuItem top_level_item_js">
+
+        <a  href="/realty" title="Недвижимость" id="custommenu-4300">Недвижимость</a>
+    
+            <div class="subrubrics_box submenu_js">
+            <ul>
+                                                            <li  data-rubric_id="78" class="menuItem">
+
+        <a  href="/realty/city" title="Город" id="custommenu-4378">Город</a>
+    
+    </li>                                                                                <li  data-rubric_id="79" class="menuItem">
+
+        <a  href="/realty/countryside" title="Загород" id="custommenu-4379">Загород</a>
+    
+    </li>                                                                                <li  data-rubric_id="80" class="menuItem">
+
+        <a  href="/realty/house" title="Дом/ремонт" id="custommenu-4380">Дом/ремонт</a>
+    
+    </li>                                                                                <li  data-rubric_id="81" class="menuItem">
+
+        <a  href="/realty/utilities" title="ЖКХ" id="custommenu-4381">ЖКХ</a>
+    
+    </li>                                                                                <li  data-rubric_id="82" class="menuItem">
+
+        <a  href="/realty/price" title="Цены и рынок" id="custommenu-4382">Цены и рынок</a>
+    
+    </li>                                                                                <li  data-rubric_id="4329" class="menuItem">
+
+        <a  href="/realty/gallery" title="Фото" id="custommenu-6734">Фото</a>
+    
+    </li>                                                </ul>
+        </div>
+    </li>                                                <li  data-rubric_id="7473" class="menuItem top_level_item_js">
+
+        <a  href="/health/coronavirus" title="Все о коронавирусе" id="custommenu-10452">Все о коронавирусе</a>
+    
+    </li>                                                                                                                                                                    </ul>
+
+            <ul id="projects" class="specprojects static_submenu_js"></ul>
+            <div class="right_box">
+                <div class="fresh_number">
+    <h3>Свежий номер</h3>
+    <a href="/gazeta/number/51408" class="number_box">
+                    <img loading="lazy" src="https://aif-s3.aif.ru/images/031/217/baae838b94a099481018061eee8b9422.jpg" width="91" height="120">
+                <div class="text">
+            № 7. 15/02/2023 <br /> Как не попасть в ловушки корыстных банковских менеджеров и финансовых мошенников        </div>
+    </a>
+</div>
+<div class="links_box">
+    <a href="/gazeta">Издания</a>
+</div>
+                <div class="sharings_box">
+    <span>АиФ в социальных сетях</span>
+    <ul class="soc">
+                <li>
+        <a href="https://vk.com/aif_ru" target="_blank">
+            <img src="https://aif.ru/redesign2018/img/sharings/vk.svg">
+        </a>
+    </li>
+        <li>
+        <a href="https://ok.ru/aifru" target="_blank">
+            <img src="https://aif.ru/redesign2018/img/sharings/ok.svg">
+        </a>
+    </li>
+        <li>
+        <a href="https://www.youtube.com/aifru" target="_blank">
+            <img src="https://aif.ru/redesign2018/img/sharings/youtube.svg">
+        </a>
+    </li>
+        <li>
+        <a href="https://vb.me/aif" target="_blank">
+            <img src="https://aif.ru/redesign2018/img/sharings/viber.svg">
+        </a>
+    </li>
+        <li>
+        <a href="https://t.me/aifonline" target="_blank">
+            <img src="https://aif.ru/redesign2018/img/sharings/tg.svg">
+        </a>
+    </li>
+        <li>
+            <a class="rss_button_black" href="/rss/all.php" target="_blank">
+                <img src="https://aif.ru/redesign2018/img/sharings/waflya.svg?067" />
+            </a>
+        </li>
+                <li>
+        <a href="https://itunes.apple.com/ru/app/argumenty-i-fakty/id333210003?mt=8" target="_blank">
+            <img src="https://aif.ru/redesign2018/img/sharings/apple.svg">
+        </a>
+    </li>
+        <li>
+        <a href="https://play.google.com/store/apps/details?id=ru.mobifactor.aifnews" target="_blank">
+            <img src="https://aif.ru/redesign2018/img/sharings/androd.svg">
+        </a>
+    </li>
+    </ul>
+</div>
+            </div>
+        </nav>
+    </div>
+</div></header>            	<div class="content_containers_wrapper_js">
+        <div class="content_body  content_container_js">
+            <div class="content">
+                                <section class="main_top_block ">
+            <div class="main_img_box">
+            <img loading="lazy" src="https://aif-s3.aif.ru/images/031/299/9137db3b901398518317f74a23081653.jpg">
+        </div>
+                        <div class="top_box">
+                        <a href="https://aif.ru/politics/na_poslanii_putina_federalnomu_sobraniyu_budut_prisutstvovat_uchastniki_svo">
+                                <span class="top_box__title">На послании Путина Федеральному собранию будут присутствовать участники СВО</span>
+            </a>
+            <!--div class="lead">
+                            </div-->
+        </div>
+    
+            <div class="bottom_box">
+                                <div class="bottom_item">
+                                                <a href="https://aif.ru/politics/ria_prezident_ssha_dzho_bayden_priletel_v_kiev">Появились первые фото и видео Байдена в Киеве</a>
+                        <div class="bottom_shadow"></div>
+                    </div>
+                                <div class="bottom_item">
+                                                <a href="https://aif.ru/politics/world/vs_rf_unichtozhili_bolshuyu_chast_tehniki_predostavlennoy_kievu_zapadom">ВС РФ уничтожили большую часть техники, предоставленной Киеву Западом</a>
+                        <div class="bottom_shadow"></div>
+                    </div>
+                                <div class="bottom_item">
+                                                <a href="https://aif.ru/politics/gagin_vsu_vcepilis_v_artemovsk_iz-za_plohogo_ukrepleniya_drugih_rayonov">Гагин: ВСУ «вцепились» в Артемовск из-за плохого укрепления других районов</a>
+                        <div class="bottom_shadow"></div>
+                    </div>
+                    </div>
+    </section>
+
+<div class="clearfix"></div>
+
+<div class="news_list_wrapper size2">
+    <section id="news_list_main" class="news_list news_list_main_js">
+        <ul class="list_js">
+        
+<li data-item-id="4454144" data-item-published-utc="2023-02-20 10:36:56">
+    <div class="date">
+        13:36,
+                    В мире            </div>
+    <a href="https://aif.ru/politics/world/zelenskiy_zayavil_chto_mozhet_podarit_berluskoni_vodku">
+        Зеленский заявил, что может подарить Берлускони водку    </a>
+</li>
+<li data-item-id="4454157" data-item-published-utc="2023-02-20 10:36:33">
+    <div class="date">
+        13:36,
+                    Политика            </div>
+    <a href="https://aif.ru/politics/belyy_dom_podtverdil_vizit_baydena_v_kiev">
+        Белый дом подтвердил визит Байдена в Киев    </a>
+</li>
+<li data-item-id="4454136" data-item-published-utc="2023-02-20 10:32:22">
+    <div class="date">
+        13:32,
+                    Общество            </div>
+    <a href="https://aif.ru/society/sk_rf_vozbudil_bolee_150_del_o_feykah_pro_rossiyskuyu_armiyu">
+        СК РФ возбудил более 150 дел о фейках про российскую армию    </a>
+</li>
+<li data-item-id="4454134" data-item-published-utc="2023-02-20 10:30:59">
+    <div class="date">
+        13:30,
+                    В России            </div>
+    <a href="https://aif.ru/politics/russia/v_kremle_ocenili_rost_doveriya_putinu_sredi_rossiyan">
+        В Кремле оценили рост доверия Путину среди россиян    </a>
+</li>
+<li data-item-id="4454152" data-item-published-utc="2023-02-20 10:20:41">
+    <div class="date">
+        13:20,
+                    В России            </div>
+    <a href="https://ufa.aif.ru/politic/hudozhnica_iz_bashkirii_vpisala_portret_rahimova_v_kartu_respubliki">
+        Художница из Башкирии вписала портрет Рахимова в карту республики    </a>
+</li>
+<li data-item-id="4454119" data-item-published-utc="2023-02-20 10:18:16">
+    <div class="date">
+        13:18,
+                    Москва            </div>
+    <a href="https://aif.ru/moscow/sobyanin_rasskazal_ob_otkrytii_detskoy_polikliniki_v_yuzhnom_medvedkovo">
+        Собянин рассказал об открытии детской поликлиники в Южном Медведково    </a>
+</li>
+<li data-item-id="4454089" data-item-published-utc="2023-02-20 10:09:48">
+    <div class="date">
+        13:09,
+                    Право            </div>
+    <a href="https://aif.ru/society/law/francuzskie_vinodely_trebuyut_kompensacii_za_nerealizovannuyu_produkciyu">
+        Французские виноделы требуют компенсации за нереализованную продукцию    </a>
+</li>
+<li data-item-id="4454081" data-item-published-utc="2023-02-20 10:02:36">
+    <div class="date">
+        13:02,
+                    Политика            </div>
+    <a href="https://aif.ru/politics/ria_prezident_ssha_dzho_bayden_priletel_v_kiev">
+        Появились первые фото и видео Байдена в Киеве    </a>
+</li>
+<li data-item-id="4454048" data-item-published-utc="2023-02-20 09:48:15">
+    <div class="date">
+        12:48,
+                    Общество            </div>
+    <a href="https://aif.ru/society/vozdushnaya_trevoga_obyavlena_po_vsey_territorii_ukrainy">
+        Воздушная тревога объявлена по всей территории Украины    </a>
+</li>
+<li data-item-id="4454117" data-item-published-utc="2023-02-20 09:42:21">
+    <div class="date">
+        12:42,
+                    Происшествия            </div>
+    <a href="https://kuzbass.aif.ru/incidents/sledkom_na_transporte_vozbudil_ugolovnoe_delo_iz-za_pogibshego_v_vertolyote">
+        Следком на транспорте возбудил уголовное дело из-за погибшего в вертолёте    </a>
+</li>    </ul>
+    <div class="news_list_bottom_links bottom_links">
+        <div class="newsfeed_all_fader"></div>
+        <a class="link_bottom_right" href="/news"><i class="red_mini_tri"></i>Все новости</a>
+    </div>
+<a href="/news" class="blue_link">Все новости</a></section>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('.news_list_main_js').aifNewsList({
+                url: '/news/index/all/tpl/index%2Flast_news.phtml'
+            });
+            var mainNewsTabsEl = $('.main_news_list_tabs_js');
+            var onTabOpen = function (tab) {
+                tab.content_container.find('.list_js').scrollTop(0);
+            };
+            if (mainNewsTabsEl.length) {
+                mainNewsTabsEl.aiftabs(
+                {
+                    tabs : [
+                        {
+                            onOpen: function () {
+                                onTabOpen(this);
+                            }
+                        },
+                        {
+                            onOpen: function () {
+                                onTabOpen(this);
+                            }
+                        }
+                    ]
+                }
+                );
+            }
+            var regionNewsList = $('.news_list_main_region_js');
+            if (regionNewsList.length) {
+                regionNewsList.aifNewsList({
+                    url: '/news/index/all/tpl/index%2Flast_news.phtml/current_region/1'
+                });
+            }
+        });
+    </script>
+</div>
+
+            
+<section class="size2 news_item" style="">
+            <span class="img_box">
+            <img loading="lazy" title="Анна Лисовенко - "Звездочка" из Макеевки." src="https://aif-s3.aif.ru/images/031/296/aefd13ab550f9a0c84fe149455008f46.JPG" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://aif.ru/politics/world/pozyvnoy_zvezdochka_makeevchanka_anya_v_opolchenii_s_14_let">
+                        <span class="item_text__title">Позывной «Звездочка». Макеевчанка Аня в ополчении — с 14 лет</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/politics/world" class="rubric_link">В мире</a>
+    </section>            
+<section class="size2 news_item" style="">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/031/296/800a1baea81990ce6d8c70c75f02c0e0.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://aif.ru/money/market/basnyami_syty_ukrainskie_miny_mogut_pomeshat_prodleniyu_zernovoy_sdelki">
+                        <span class="item_text__title">Баснями сыты. Украинские мины могут помешать продлению зерновой сделки</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/money/market" class="rubric_link">Рынок</a>
+    </section>            
+<section class="size2 news_item" style="">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/031/295/fadc00de510b27f6cb6bc0048d9c1089.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://aif.ru/politics/world/vsu_lishili_boevyh_vyplat_svodka_svo_na_utro_20_fevralya">
+                        <span class="item_text__title">ВСУ лишили «боевых» выплат. Сводка СВО на утро 20 февраля</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/politics/world" class="rubric_link">В мире</a>
+    </section>            
+<section class="size2 news_item" style="">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/031/290/6d678d063babfb14c1b40e1a8648e51a.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://aif.ru/politics/world/parol_polyanycya_times_raskryl_sekrety_bunkera_zelenskogo">
+                        <span class="item_text__title">Пароль «Поляныця». Times раскрыл секреты бункера Зеленского</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/politics/world" class="rubric_link">В мире</a>
+    </section>    
+<div class="clearfix"></div>
+
+
+                            </div>
+                            <div class="right_column">
+                    <div class="content_sticky_column_js">
+                        <noindex><div class="adv_content bp__header300x250 no_lands no_portr adwrapper mbottom10 floating_banner_js"><div class="banner_params hide" data-params="{&quot;id&quot;:5347,&quot;num&quot;:1,&quot;place&quot;:&quot;header300x250&quot;}"></div>
+<center>
+
+
+<!--AdFox START-->
+<!--aif_direct-->
+<!--Площадка: AIF.ru / * / *-->
+<!--Тип баннера: 240x400/300x250_верх_сетки-->
+<!--Расположение: <верх страницы>-->
+<div id="adfox_153825256063495017"></div>
+<script>
+window.yaContextCb.push(()=>{
+    Ya.adfoxCode.create({
+      ownerId: 249933,
+        containerId: 'adfox_153825256063495017',
+        params: {
+            pp: 'g',
+            ps: 'chxs',
+            p2: 'fqve',
+            puid1: ''
+          }
+    });
+});
+</script>
+
+</center></div></noindex>    <noindex><div class="adv_content bp__informers3 no_lands no_portr adwrapper mbottom10 no_mob"><div class="banner_params hide" data-params="{&quot;id&quot;:1407,&quot;num&quot;:1,&quot;place&quot;:&quot;informers3&quot;}"></div>
+<center>
+<!--AdFox START-->
+<!--aif_direct-->
+<!--Площадка: AIF.ru / * / *-->
+<!--Тип баннера: 300x100_1_безразмер-->
+<!--Расположение: <верх страницы>-->
+<div id="adfox_149483253018777212"></div>
+<script>
+window.yaContextCb.push(()=>{
+    Ya.adfoxCode.create({
+      ownerId: 249933,
+        containerId: 'adfox_149483253018777212',
+        params: {
+            pp: 'g',
+            ps: 'chxs',
+            p2: 'fpoz'
+        }
+    });
+});
+</script>  
+
+
+<br />
+
+<!--AdFox START-->
+<!--aif_direct-->
+<!--Площадка: AIF.ru / * / *-->
+<!--Тип баннера: 300x100_2-->
+<!--Расположение: <верх страницы>-->
+<div id="adfox_149701480325918540"></div>
+<script>
+window.yaContextCb.push(()=>{
+    Ya.adfoxCode.create({
+      ownerId: 249933,
+        containerId: 'adfox_149701480325918540',
+        params: {
+            pp: 'g',
+            ps: 'chxs',
+            p2: 'fqgs'
+        }
+    });
+});
+</script>
+  
+    <br />
+  
+  <!--AdFox START-->
+<!--aif_direct-->
+<!--Площадка: AIF.ru / * / *-->
+<!--Тип баннера: 300x100_3-->
+<!--Расположение: <верх страницы>-->
+<div id="adfox_153958551483453975"></div>
+<script>
+window.yaContextCb.push(()=>{
+    Ya.adfoxCode.create({
+      ownerId: 249933,
+        containerId: 'adfox_153958551483453975',
+        params: {
+            pp: 'g',
+            ps: 'chxs',
+            p2: 'fssz',
+            puid1: ''
+        }
+    });
+});
+</script>
+
+  
+  </center></div></noindex>        <section class="top5">
+    <div class="top_decor">
+        <div class="red_line"></div>
+        <h3>Топ 5 читаемых</h3>
+        <div class="red_line"></div>
+    </div>
+            <ul>
+                            <li>
+                    <a href="https://aif.ru/auto/about/rosteh_sankcii_pomogli_sdelat_dvigatel_kamazov_bolee_ekonomichnym">
+                        «Ростех»: санкции помогли сделать двигатель «КамАЗов» более экономичным                    </a>
+                </li>
+                            <li>
+                    <a href="https://aif.ru/politics/pushkov_prokommentiroval_slova_berbok_pro_povorot_rossii_na_360_gradusov">
+                        Пушков прокомментировал слова Бербок про поворот России на 360 градусов                    </a>
+                </li>
+                            <li>
+                    <a href="https://aif.ru/society/army/wargonzo_vs_rossii_unichtozhili_desant_vsu_na_levom_beregu_dnepra">
+                        WarGonzo: ВС России уничтожили десант ВСУ на левом берегу Днепра                    </a>
+                </li>
+                            <li>
+                    <a href="https://aif.ru/society/akademik_belenkov_rasskazal_kak_pravilno_prinimat_lekarstva_ot_davleniya">
+                        Академик Беленков рассказал, как правильно принимать лекарства от давления                    </a>
+                </li>
+                            <li>
+                    <a href="https://aif.ru/health/life/akademik_belenkov_sledite_za_soboy_i_ne_morochte_doktoram_golovu">
+                        Академик Беленков: следите за собой и не морочьте докторам голову                    </a>
+                </li>
+                    </ul>
+    </section>
+                    </div>
+                </div>
+                <div class="endTopToDown_js"></div>
+                    </div>
+    </div>
+
+    <div class="cont_center">
+    <div class="full_width_block">
+        <div class="fw_inner_box">
+            <div class="overfl">
+                
+    <section class="w50 fw_item">
+        <div class="fwSlider_js">
+
+                            <div class="fwSlider_item">
+                                                                <a class="img_box" href="https://aif.ru/society/gallery/na_vystavke_idex-2023_rossiya_predstavila_noveyshee_oruzhie">
+                            <img loading="lazy" alt="" src="https://aif-s3.aif.ru/images/031/299/a4c588093f7e2e8ee6ab6e1622fe4274.jpg"/>
+                        </a>
+                    
+                    <div class="text_box">
+                        <div class="icon_box"><i class="gallery_icon"></i></div>
+                        <div class="rubric_name">
+                                                            <a href="/gallery">Галереи</a>
+                                                    </div>
+                        <a href="https://aif.ru/society/gallery/na_vystavke_idex-2023_rossiya_predstavila_noveyshee_oruzhie">
+                                                        <h2 class="box_title">На выставке IDEX-2023 Россия представила новейшее оружие</h2>
+                        </a>
+
+                                                <a href="/gallery" class="galleries_link" tabindex="0">Все галереи</a>
+                                            </div>
+                </div>
+                            <div class="fwSlider_item">
+                                                                <a class="img_box" href="https://aif.ru/society/gallery/36_pogibshih_v_brazilii_iz-za_livney_i_opolzney">
+                            <img loading="lazy" alt="" src="https://aif-s3.aif.ru/images/031/296/8f96a491a6cd298b069c0edf6c92a4f7.JPG"/>
+                        </a>
+                    
+                    <div class="text_box">
+                        <div class="icon_box"><i class="gallery_icon"></i></div>
+                        <div class="rubric_name">
+                                                            <a href="/gallery">Галереи</a>
+                                                    </div>
+                        <a href="https://aif.ru/society/gallery/36_pogibshih_v_brazilii_iz-za_livney_i_opolzney">
+                                                        <h2 class="box_title">36 погибших в Бразилии из-за ливней и оползней</h2>
+                        </a>
+
+                                                <a href="/gallery" class="galleries_link" tabindex="0">Все галереи</a>
+                                            </div>
+                </div>
+                            <div class="fwSlider_item">
+                                                                <a class="img_box" href="https://aif.ru/politics/gallery/raschety_sau_hosta_nanosyat_udar_po_poziciyam_vsu">
+                            <img loading="lazy" alt="" src="https://aif-s3.aif.ru/images/031/277/a317faaad9c4085e4f178b46623dc46d.jpg"/>
+                        </a>
+                    
+                    <div class="text_box">
+                        <div class="icon_box"><i class="gallery_icon"></i></div>
+                        <div class="rubric_name">
+                                                            <a href="/gallery">Галереи</a>
+                                                    </div>
+                        <a href="https://aif.ru/politics/gallery/raschety_sau_hosta_nanosyat_udar_po_poziciyam_vsu">
+                                                        <h2 class="box_title">Расчеты САУ «Хоста» наносят удар по позициям ВСУ</h2>
+                        </a>
+
+                                                <a href="/gallery" class="galleries_link" tabindex="0">Все галереи</a>
+                                            </div>
+                </div>
+                    </div>
+    </section>
+                
+    <section class="w50 fw_item">
+        <div class="fwSlider_js">
+
+                            <div class="fwSlider_item">
+                                                                <a class="img_box" href="https://aif.ru/money/mymoney/skolko_stoit_shodit_na_svidanie_dlya_parnya_i_devushki_infografika">
+                            <img loading="lazy" alt="" src="https://aif-s3.aif.ru/images/031/274/16402f60ce29c1577f3fe6f4e317fc38.jpg"/>
+                        </a>
+                    
+                    <div class="text_box">
+                        <div class="icon_box"><i class="info_icon"></i></div>
+                        <div class="rubric_name">
+                                                            <a href="https://aif.ru/infographic">Инфографика</a>
+                                                    </div>
+                        <a href="https://aif.ru/money/mymoney/skolko_stoit_shodit_na_svidanie_dlya_parnya_i_devushki_infografika">
+                                                        <h2 class="box_title">Сколько стоит сходить на свидание для парня и девушки? Инфографика</h2>
+                        </a>
+
+                                                <a href="https://aif.ru/infographic" class="galleries_link" tabindex="0">Вся инфографика</a>
+                                            </div>
+                </div>
+                            <div class="fwSlider_item">
+                                                                <a class="img_box" href="https://aif.ru/money/economy/strany_vladelcy_krupneyshih_zolotovalyutnyh_rezervov_v_mire_infografika">
+                            <img loading="lazy" alt="" src="https://aif-s3.aif.ru/images/031/226/23714c4974be5e0fb81c86da04f7e91a.jpg"/>
+                        </a>
+                    
+                    <div class="text_box">
+                        <div class="icon_box"><i class="info_icon"></i></div>
+                        <div class="rubric_name">
+                                                            <a href="https://aif.ru/infographic">Инфографика</a>
+                                                    </div>
+                        <a href="https://aif.ru/money/economy/strany_vladelcy_krupneyshih_zolotovalyutnyh_rezervov_v_mire_infografika">
+                                                        <h2 class="box_title">Страны – владельцы крупнейших золотовалютных резервов в мире. Инфографика</h2>
+                        </a>
+
+                                                <a href="https://aif.ru/infographic" class="galleries_link" tabindex="0">Вся инфографика</a>
+                                            </div>
+                </div>
+                            <div class="fwSlider_item">
+                                                                <a class="img_box" href="https://aif.ru/society/nature/gde_proishodili_silnye_zemletryaseniya_na_etoy_nedele_infografika">
+                            <img loading="lazy" alt="" src="https://aif-s3.aif.ru/images/031/274/1c2ddb57678378d2a10de6341f393966.jpg"/>
+                        </a>
+                    
+                    <div class="text_box">
+                        <div class="icon_box"><i class="info_icon"></i></div>
+                        <div class="rubric_name">
+                                                            <a href="https://aif.ru/infographic">Инфографика</a>
+                                                    </div>
+                        <a href="https://aif.ru/society/nature/gde_proishodili_silnye_zemletryaseniya_na_etoy_nedele_infografika">
+                                                        <h2 class="box_title">Где происходили сильные землетрясения на этой неделе? Инфографика</h2>
+                        </a>
+
+                                                <a href="https://aif.ru/infographic" class="galleries_link" tabindex="0">Вся инфографика</a>
+                                            </div>
+                </div>
+                    </div>
+    </section>
+            </div>
+
+            <!-- Блок из 12 материалов -->
+                        
+<section class="size2 news_item" style="">
+            <span class="img_box">
+            <img loading="lazy" title="Анналена Бербок" src="https://aif-s3.aif.ru/images/031/296/e6b0e43a6caf1f21996c81e4268afdaa.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://aif.ru/politics/world/diktatura_dvoechnikov_annalena_berbok_simvol_zakata_evropy">
+                        <span class="item_text__title">Диктатура двоечников. Анналена Бербок — символ заката Европы?</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/politics/world" class="rubric_link">В мире</a>
+    </section>            
+<section class="size2 news_item" style="">
+            <span class="img_box">
+            <img loading="lazy" title="Зоран Лукич" src="https://aif-s3.aif.ru/images/031/299/c27c2817171f0656d794d8f611c3d0a7.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://aif.ru/sport/summer/nakonec_mozhno_podumat_o_basketbole_lukich_ob_igrah_sbornoy_v_serbii">
+                        <span class="item_text__title">«Наконец, можно подумать о баскетболе». Лукич об играх сборной в Сербии</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/sport/summer" class="rubric_link">Летние виды</a>
+    </section>            
+<section class="size2 news_item" style="">
+            <span class="img_box">
+            <img loading="lazy" title="Энтони Блинкен." src="https://aif-s3.aif.ru/images/031/288/a68919a3ad4eb0559a9f582674060a97.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://aif.ru/politics/world/raketa_pomoshchi_pochemu_blinken_obespokoilsya_pomoshchyu_pekina_moskve">
+                        <span class="item_text__title">Ракета помощи. Почему Блинкен обеспокоился «помощью Пекина Москве»?</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/politics/world" class="rubric_link">В мире</a>
+    </section>            <section class="size2 question_answer_item" style="">
+    <div class="rubric_name">
+        Вопрос-ответ
+    </div>
+    <div class="qa-item__title"><a href="https://aif.ru/politics/world/zachem_bayden_edet_v_polshu">Зачем Байден едет в Польшу?</a></div>
+
+        <div class="descr">
+        В чём цели визита Джо Байдена в Польшу, который пройдёт 20-22 февраля?    </div>
+    
+    <a href="https://aif.ru/politics/world/zachem_bayden_edet_v_polshu" class="red_fill_btn">Узнать</a>
+            <a href="https://aif.ru/politics/world" class="rubric_link">В мире</a>
+    </section>
+            
+<section class="size2 news_item" style="">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/031/290/77d8b4dc32504e9b66e46771a443774d.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://aif.ru/politics/russia/kiev_gotovit_radiacionnuyu_provokaciyu_svodka_svo_po_itogam_19_fevralya">
+                        <span class="item_text__title">Киев готовит радиационную провокацию. Сводка СВО по итогам 19 февраля</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/politics/russia" class="rubric_link">В России</a>
+    </section>            
+<section class="size2 news_item" style="">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/031/289/f7b29233c1158917d804f8ef09f2af29.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://aif.ru/money/economy/mirovaya_dollarozavisimost_zhdet_li_krah_amerikanskuyu_valyutu">
+                        <span class="item_text__title">Мировая долларозависимость. Ждет ли крах американскую валюту?</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/money/economy" class="rubric_link">Экономика</a>
+    </section>            
+<section class="size2 news_item" style="">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/031/289/c9d5c99e2f97f7e7f0371ea3b7e5165f.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://aif.ru/society/education/trishkin_kaftan_kak_nam_zalatat_dyry_v_matematicheskom_obrazovanii_detey">
+                        <span class="item_text__title">Тришкин кафтан. Как нам залатать дыры в математическом образовании детей?</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/society/education" class="rubric_link">Образование</a>
+    </section>            
+<section class="size2 news_item" style="">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/031/289/186343f41a562a9be544595f1067bf87.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://aif.ru/society/nature/hochetsya_tepla_kogda_v_moskve_rastaet_sneg_i_zacvetut_cvety">
+                        <span class="item_text__title">Хочется тепла. Когда в Москве растает снег и зацветут цветы?</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/society/nature" class="rubric_link">Природа</a>
+    </section>            <section class="size2 question_answer_item" style="">
+    <div class="rubric_name">
+        Вопрос-ответ
+    </div>
+    <div class="qa-item__title"><a href="https://aif.ru/society/science/dolgo_li_eshchyo_budet_tryasti_v_turcii">Долго ли ещё будет трясти в Турции?</a></div>
+
+        <div class="descr">
+        Не за горами начало туристического сезона, и многие люди уже планируют поездки в тёплые южные страны. Но возникает вопрос: сколько времени ещё может продолжаться действие природной стихии?    </div>
+    
+    <a href="https://aif.ru/society/science/dolgo_li_eshchyo_budet_tryasti_v_turcii" class="red_fill_btn">Узнать</a>
+            <a href="https://aif.ru/society/science" class="rubric_link">Наука</a>
+    </section>
+            
+<section class="size2 news_item" style="">
+            <span class="img_box">
+            <img loading="lazy" title="Рената Литвинова." src="https://aif-s3.aif.ru/images/031/298/a138ed624b8e9107c29ecbf04d20cb2f.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://aif.ru/culture/person/krivlyaka_komu_ty_nuzhna_socseti_-_o_vozvrashchenii_litvinovoy">
+                        <span class="item_text__title">«Кривляка, кому ты нужна?». Соцсети — о возвращении Литвиновой</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/culture/person" class="rubric_link">Персона</a>
+    </section>            
+<section class="size2 news_item" style="">
+            <span class="img_box">
+            <img loading="lazy" title="Академик РАН, президент Общества специалистов по сердечной недостаточности, вице-президента Российского кардиологического общества, директора Клиники госпитальной терапии имени А. А. Остроумова Юрий Беленков." src="https://aif-s3.aif.ru/images/031/289/6b721b7ef6d64ef4801a8ed998c4474c.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://aif.ru/health/life/akademik_belenkov_sledite_za_soboy_i_ne_morochte_doktoram_golovu">
+                        <span class="item_text__title">Академик Беленков: следите за собой и не морочьте докторам голову</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/health/life" class="rubric_link">Здоровая жизнь</a>
+    </section>            
+<section class="size2 news_item" style="">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/031/288/4878cd41bc2eb078b1a3867f623d33fa.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://aif.ru/health/life/post_prinyal_kakie_pravila_dolzhny_soblyudat_pozhilye_pered_velikim_postom">
+                        <span class="item_text__title">Пост принял! Какие правила должны соблюдать пожилые перед Великим постом</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/health/life" class="rubric_link">Здоровая жизнь</a>
+    </section>            </div>
+    </div>
+
+    </div>
+
+    <div class="cont_center">
+        <div class="full_width_block">
+            <div class="fw_inner_box">
+                <!-- Блок из 8 материалов -->
+                            <section class="size2 question_answer_item" style="">
+    <div class="rubric_name">
+        Вопрос-ответ
+    </div>
+    <div class="qa-item__title"><a href="https://aif.ru/food/products/ne_vredno_li_est_bliny_s_ikroy_i_ryboy">Не вредно ли есть блины с икрой и рыбой?</a></div>
+
+        <div class="descr">
+        Самое изысканное угощение Масленицы — блины с икрой. А не вредно ли такое сочетание продуктов?    </div>
+    
+    <a href="https://aif.ru/food/products/ne_vredno_li_est_bliny_s_ikroy_i_ryboy" class="red_fill_btn">Узнать</a>
+            <a href="https://aif.ru/food/products" class="rubric_link">Продукты и напитки</a>
+    </section>
+            <section class="size2 question_answer_item" style="">
+    <div class="rubric_name">
+        Вопрос-ответ
+    </div>
+    <div class="qa-item__title"><a href="https://aif.ru/society/religion/pochemu_pervyy_den_maslenicy_nazyvaetsya_vstrecha">Почему первый день Масленицы называется «встреча»?</a></div>
+
+        <div class="descr">
+        Рассказываем о традициях начала масленичной недели.    </div>
+    
+    <a href="https://aif.ru/society/religion/pochemu_pervyy_den_maslenicy_nazyvaetsya_vstrecha" class="red_fill_btn">Узнать</a>
+            <a href="https://aif.ru/society/religion" class="rubric_link">Религия</a>
+    </section>
+            
+<section class="size2 news_item" style="">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/031/289/fed50d0d2304e1144e9380eb9c5e715b.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://aif.ru/society/history/zdes_on_byl_schastliv_domu_esenin_v_moskve_vernuli_istoricheskiy_oblik">
+                        <span class="item_text__title">Здесь он был счастлив. «Дому Есенина» в Москве вернули исторический облик</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/society/history" class="rubric_link">История</a>
+    </section>            <section class="size2 question_answer_item" style="">
+    <div class="rubric_name">
+        Вопрос-ответ
+    </div>
+    <div class="qa-item__title"><a href="https://aif.ru/culture/person/chem_zapomnilsya_akter_iz_seriala_zakon_i_poryadok_richard_belzer">Чем запомнился актер из сериала «Закон и порядок» Ричард Белзер?</a></div>
+
+        <div class="descr">
+        На 79-м году жизни скончался американский актер и комик Ричард Белзер, который сыграл одного и того же персонажа-полицейского в сериалах «Убойный отдел», «Закон и порядок» и ещё десяти шоу.    </div>
+    
+    <a href="https://aif.ru/culture/person/chem_zapomnilsya_akter_iz_seriala_zakon_i_poryadok_richard_belzer" class="red_fill_btn">Узнать</a>
+            <a href="https://aif.ru/culture/person" class="rubric_link">Персона</a>
+    </section>
+            <section class="size2 question_answer_item" style="">
+    <div class="rubric_name">
+        Вопрос-ответ
+    </div>
+    <div class="qa-item__title"><a href="https://aif.ru/food/products/na_skolko_za_god_v_rossii_vyros_indeks_blinov">На сколько за год в России вырос индекс блинов?</a></div>
+
+        <div class="descr">
+        Аналитики посчитали, во сколько обойдется блюдо, приготовленное по классическому рецепту, в разных регионах РФ.    </div>
+    
+    <a href="https://aif.ru/food/products/na_skolko_za_god_v_rossii_vyros_indeks_blinov" class="red_fill_btn">Узнать</a>
+            <a href="https://aif.ru/food/products" class="rubric_link">Продукты и напитки</a>
+    </section>
+            
+<section class="size2 news_item" style="">
+            <span class="img_box">
+            <img loading="lazy" title="Федор Стуков и Владислав Галкин в фильме «Приключения Тома Сойера и Гекльберри Финна», 1981 г." src="https://aif-s3.aif.ru/images/031/240/6ffb33d926ff6d2492848a93ad287176.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://aif.ru/culture/movie/debyut_slava_i_smert_sudba_detey-akterov_iz_sovetskogo_toma_soyera">
+                        <span class="item_text__title">Дебют, слава и смерть. Судьба детей-актеров из советского «Тома Сойера»</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/culture/movie" class="rubric_link">Кино </a>
+    </section>            
+<section class="size2 news_item" style="">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/031/290/b4cb0ec2ed0d685f7aef7bad55654e24.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://aif.ru/health/life/diagnoz_po_krovi_uchyonye_nashli_sposob_tochnee_diagnostirovat_rak_yaichnikov">
+                        <span class="item_text__title">Диагноз по крови. Учёные нашли способ точнее диагностировать рак яичников</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/health/life" class="rubric_link">Здоровая жизнь</a>
+    </section>            
+<section class="size2 news_item" style="">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/031/289/d1abdb9e2a89a8445465cd33b583cdac.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://aif.ru/realty/utilities/ostorozhno_sosulka_kuda_zhalovatsya_na_opasnye_naledi_na_kryshe">
+                        <span class="item_text__title">Осторожно, сосулька! Куда жаловаться на опасные наледи на крыше</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/realty/utilities" class="rubric_link">ЖКХ</a>
+    </section>                </div>
+        </div>
+    </div>
+
+<div class="full_width_block no_padding">
+          <section class="newspaper_carousel_box">
+        <div class="nespaperCarousel_js">
+
+                            <div class="newspaper_item">
+                    <div class="bg_decor_box">
+                                                                            <a class="img_box"  href="/gazeta/number/51408">
+                                <img loading="lazy" src="https://aif-s3.aif.ru/images/031/217/e59e959831eec7916940ceafbaeeec47.jpg" alt="Свежий номер"/>
+                            </a>
+                        
+                        <div class="text_content">
+                            <div class="date">15.02.2023</div>
+                            <div class="newspaper_num">
+                                Еженедельник "Аргументы и Факты"                                №7                            </div>
+
+
+                            <a href="/gazeta/number/51408"><span class="text_content__title">Как не попасть в ловушки корыстных банковских менеджеров и финансовых мошенников</span></a>
+                            <a class="subscribe_link" href="/gazeta/number/51408">Оформить подписку</a>
+                        </div>
+                    </div>
+                </div>
+                            <div class="newspaper_item">
+                    <div class="bg_decor_box">
+                                                                            <a class="img_box"  href="/gazeta/number/51404">
+                                <img loading="lazy" src="https://aif-s3.aif.ru/images/031/173/c066e76f2ac382989b46cbe0b85252fd.jpg" alt="Свежий номер"/>
+                            </a>
+                        
+                        <div class="text_content">
+                            <div class="date">14.02.2023</div>
+                            <div class="newspaper_num">
+                                «АиФ. Здоровье»                                №АиФ Здоровье № 3                            </div>
+
+
+                            <a href="/gazeta/number/51404"><span class="text_content__title">Защита чести и достоинства: как сохранить мужскую силу</span></a>
+                            <a class="subscribe_link" href="/gazeta/number/51404">Оформить подписку</a>
+                        </div>
+                    </div>
+                </div>
+                            <div class="newspaper_item">
+                    <div class="bg_decor_box">
+                                                                            <a class="img_box"  href="/gazeta/number/50708">
+                                <img loading="lazy" src="https://aif-s3.aif.ru/images/029/958/2d62151c0e218ea79bbc0b130cd6d080.jpg" alt="Свежий номер"/>
+                            </a>
+                        
+                        <div class="text_content">
+                            <div class="date">08.11.2022</div>
+                            <div class="newspaper_num">
+                                «АиФ. На даче»                                №АиФ на Даче № 21-22                            </div>
+
+
+                            <a href="/gazeta/number/50708"><span class="text_content__title">Собака на сене: как обеспечить любимому питомцу комфортную зимовку</span></a>
+                            <a class="subscribe_link" href="/gazeta/number/50708">Оформить подписку</a>
+                        </div>
+                    </div>
+                </div>
+                            <div class="newspaper_item">
+                    <div class="bg_decor_box">
+                                                                            <a class="img_box"  href="https://aif.ru/food/pro/trend_4598">
+                                <img loading="lazy" src="https://aif-s3.aif.ru/images/030/562/5466f58effa8b1308a790482a3913440.jpg" alt="Свежий номер"/>
+                            </a>
+                        
+                        <div class="text_content">
+                            <div class="date">22.12.2022</div>
+                            <div class="newspaper_num">
+                                АИФ ПРO                                №АиФ ПРО № 4 (138)                            </div>
+
+
+                            <a href="https://aif.ru/food/pro/trend_4598"><span class="text_content__title">Шефская помощь: лайфхаки для праздничного застолья</span></a>
+                            <a class="subscribe_link" href="https://aif.ru/food/pro/trend_4598">Оформить подписку</a>
+                        </div>
+                    </div>
+                </div>
+                            <div class="newspaper_item">
+                    <div class="bg_decor_box">
+                                                                            <a class="img_box"  href="https://aif.ru/health/pro/trend_4577">
+                                <img loading="lazy" src="https://aif-s3.aif.ru/images/030/140/4ae8a72fbfd6094dec92a87cb6590e49.jpg" alt="Свежий номер"/>
+                            </a>
+                        
+                        <div class="text_content">
+                            <div class="date">01.12.2022</div>
+                            <div class="newspaper_num">
+                                АИФ ПРO                                №АиФ ПРО № 12 (182)                            </div>
+
+
+                            <a href="https://aif.ru/health/pro/trend_4577"><span class="text_content__title">Макsим: «У меня есть дурацкая привычка — всё время побеждать»</span></a>
+                            <a class="subscribe_link" href="https://aif.ru/health/pro/trend_4577">Оформить подписку</a>
+                        </div>
+                    </div>
+                </div>
+            
+		</div>
+	</section>
+</div>
+
+    <div class="cont_center">
+        <div class="full_width_block content_grid_js">
+            <div class="fw_inner_box">
+                                    
+<section class="size2 news_item content_grid_items_js" style="">
+            <span class="img_box">
+            <img loading="lazy" title="Юлия Волкова. " src="https://aif-s3.aif.ru/images/031/279/bc701c7b7112f6d4db7197ee86b9718e.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://aif.ru/culture/person/fabrikantka_yuliya_volkova_bylo_stydno_i_hotelos_uyti_ottuda_pobystree">
+                        <span class="item_text__title">«Фабрикантка» Юлия Волкова: «Было стыдно и хотелось уйти оттуда побыстрее»</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/culture/person" class="rubric_link">Персона</a>
+    </section>                                    <section class="size2 question_answer_item content_grid_items_js" style="">
+    <div class="rubric_name">
+        Вопрос-ответ
+    </div>
+    <div class="qa-item__title"><a href="https://aif.ru/food/diet/nuzhno_li_gotovitsya_k_postu_zaranee_i_kak_eto_delat">Нужно ли готовиться к посту заранее и как это делать?</a></div>
+
+        <div class="descr">
+        Постное питание — отказ от большого количества продуктов животного происхождения. Нужно ли готовить организм заранее?    </div>
+    
+    <a href="https://aif.ru/food/diet/nuzhno_li_gotovitsya_k_postu_zaranee_i_kak_eto_delat" class="red_fill_btn">Узнать</a>
+            <a href="https://aif.ru/food/diet" class="rubric_link">Питание и диеты</a>
+    </section>
+                                    <section class="size2 question_answer_item content_grid_items_js" style="">
+    <div class="rubric_name">
+        Вопрос-ответ
+    </div>
+    <div class="qa-item__title"><a href="https://aif.ru/society/law/chto_izvestno_o_vvedenii_edinogo_dlya_vseh_regionov_rf_zakona_o_tishine">Что известно о введении единого для всех регионов РФ закона о тишине?</a></div>
+
+        <div class="descr">
+        Депутаты ЛДПР подготовили новый законопроект, касающийся соблюдения тишины.    </div>
+    
+    <a href="https://aif.ru/society/law/chto_izvestno_o_vvedenii_edinogo_dlya_vseh_regionov_rf_zakona_o_tishine" class="red_fill_btn">Узнать</a>
+            <a href="https://aif.ru/society/law" class="rubric_link">Право</a>
+    </section>
+                                    <section class="size2 question_answer_item content_grid_items_js" style="">
+    <div class="rubric_name">
+        Вопрос-ответ
+    </div>
+    <div class="qa-item__title"><a href="https://aif.ru/health/life/pravda_li_chto_diabet_razvivaetsya_ot_kolbasy_i_alkogolya_a_ne_ot_sladkogo">Правда ли, что диабет развивается от колбасы и алкоголя, а не от сладкого?</a></div>
+
+        <div class="descr">
+        Диабет бывает у тех, кто ест много конфет и тортов. Такое стойкое мнение каждый из нас вынес из детства. И оказался не прав.    </div>
+    
+    <a href="https://aif.ru/health/life/pravda_li_chto_diabet_razvivaetsya_ot_kolbasy_i_alkogolya_a_ne_ot_sladkogo" class="red_fill_btn">Узнать</a>
+            <a href="https://aif.ru/health/life" class="rubric_link">Здоровая жизнь</a>
+    </section>
+                                    
+<section class="size2 news_item content_grid_items_js" style="">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/031/288/f167b1feca04965547f41ea24d77b986.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://aif.ru/health/secrets/grud_kolesom_5_layfhakov_chtoby_obresti_grud_mechty">
+                        <span class="item_text__title">Грудь колесом. 5 лайфхаков, чтобы обрести грудь мечты</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/health/secrets" class="rubric_link">Секреты красоты</a>
+    </section>                                    <section class="size2 question_answer_item content_grid_items_js" style="">
+    <div class="rubric_name">
+        Вопрос-ответ
+    </div>
+    <div class="qa-item__title"><a href="https://aif.ru/realty/city/gde_v_rossii_bolshe_vsego_podorozhali_novostroyki">Где в России больше всего подорожали новостройки?</a></div>
+
+        <div class="descr">
+        Аналитики выяснили, в каких городах-миллионниках подорожали новостройки.    </div>
+    
+    <a href="https://aif.ru/realty/city/gde_v_rossii_bolshe_vsego_podorozhali_novostroyki" class="red_fill_btn">Узнать</a>
+            <a href="https://aif.ru/realty/city" class="rubric_link">Город</a>
+    </section>
+                                    
+<section class="size2 news_item content_grid_items_js" style="">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/031/287/750f0dfdc795089f66f182422519dcb1.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://aif.ru/health/life/polip_ne_spit_chem_on_opasen_i_pochemu_mozhet_vyrastat_snova_posle_udaleniya">
+                        <span class="item_text__title">Полип не спит. Чем он опасен и почему может вырастать снова после удаления?</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/health/life" class="rubric_link">Здоровая жизнь</a>
+    </section>                                    <section class="size2 question_answer_item content_grid_items_js" style="">
+    <div class="rubric_name">
+        Вопрос-ответ
+    </div>
+    <div class="qa-item__title"><a href="https://aif.ru/health/food/chto_za_veshchestva_zashchishchayushchie_ot_demencii_nashli_v_kurice_i_govyadine">Что за вещества, защищающие от деменции, нашли в курице и говядине?</a></div>
+
+        <div class="descr">
+        В образцах мяса курицы, говядины, свинины и китового мяса найдены антиоксиданты, способные защитить от развития деменции.    </div>
+    
+    <a href="https://aif.ru/health/food/chto_za_veshchestva_zashchishchayushchie_ot_demencii_nashli_v_kurice_i_govyadine" class="red_fill_btn">Узнать</a>
+            <a href="https://aif.ru/health/food" class="rubric_link">Правильное питание</a>
+    </section>
+                                    <section class="size2 question_answer_item content_grid_items_js" style="">
+    <div class="rubric_name">
+        Вопрос-ответ
+    </div>
+    <div class="qa-item__title"><a href="https://aif.ru/society/law/budet_li_22_fevralya_2023_goda_sokrashchennym_rabochim_dnem">Будет ли 22 февраля 2023 года сокращенным рабочим днем?</a></div>
+
+        <div class="descr">
+        Согласно производственному календарю, россияне будут отдыхать в феврале 2023 года четыре дня подряд.    </div>
+    
+    <a href="https://aif.ru/society/law/budet_li_22_fevralya_2023_goda_sokrashchennym_rabochim_dnem" class="red_fill_btn">Узнать</a>
+            <a href="https://aif.ru/society/law" class="rubric_link">Право</a>
+    </section>
+                                    
+<section class="size2 news_item content_grid_items_js" style="">
+            <span class="img_box">
+            <img loading="lazy" title="Максим Мернес." src="https://aif-s3.aif.ru/images/031/287/e27563c8e408ad2068834d91040b3078.jpeg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://aif.ru/society/people/proklyatie_mmm_vnebrachnogo_syna_mavrodi_zarezali_v_tyurme_v_tailande">
+                        <span class="item_text__title">Проклятие «МММ». Внебрачного сына Мавроди зарезали в тюрьме в Таиланде</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/society/people" class="rubric_link">Люди</a>
+    </section>                                    <section class="size2 question_answer_item content_grid_items_js" style="">
+    <div class="rubric_name">
+        Вопрос-ответ
+    </div>
+    <div class="qa-item__title"><a href="https://aif.ru/society/law/kuda_zhalovatsya_esli_na_progulke_v_moskve_ne_ubirayut_za_sobakoy">Куда жаловаться, если на прогулке в Москве не убирают за собакой?</a></div>
+
+        <div class="descr">
+        Если собака сходила в туалет в общественном месте (парке, сквере или вовсе на тротуаре) в столице предусмотрен штраф. Но как призвать хозяина собаки к ответу?    </div>
+    
+    <a href="https://aif.ru/society/law/kuda_zhalovatsya_esli_na_progulke_v_moskve_ne_ubirayut_za_sobakoy" class="red_fill_btn">Узнать</a>
+            <a href="https://aif.ru/society/law" class="rubric_link">Право</a>
+    </section>
+                                    
+<section class="size2 news_item content_grid_items_js" style="">
+            <span class="img_box">
+            <img loading="lazy" title=" " src="https://aif-s3.aif.ru/images/031/286/97592d4bea6564b4dec8a404d83a7f86.JPG" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://aif.ru/politics/world/ugledarskaya_oborona_50_kilometrov_mezhdu_mirom_i_peredovoy">
+                        <span class="item_text__title">Угледарская оборона. 50 километров между миром и передовой</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/politics/world" class="rubric_link">В мире</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="Григорий Лепс, Бари Алибасов, Валентина Малявина." src="https://aif-s3.aif.ru/images/031/278/8ddb2e7ff3f7e48b183dc5b8f588414d.png" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://aif.ru/culture/person/leps_alibasov_malyavina_znamenitosti_u_kotoryh_problemy_so_sluhom">
+                        <span class="item_text__title">Лепс, Алибасов, Малявина. Знаменитости, у которых проблемы со слухом</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/culture/person" class="rubric_link">Персона</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="Н. Богомолова: «Нужно оставить свою маленькую жизнь и найти в себе силы, чтобы начать большое дело»." src="https://aif-s3.aif.ru/images/031/288/1f60be4f5e087ae31c0853137245df8e.jpeg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://karel.aif.ru/society/sobiranie_rodiny_pensionerka_o_tom_kak_vozrozhdaet_derevnyu_v_zaonezhe">
+                        <span class="item_text__title">Собирание Родины: пенсионерка — о том, как возрождает деревню в Заонежье</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/society/people" class="rubric_link">Люди</a>
+    </section>                                    <section class="size2 question_answer_item content_grid_items_js" style="display: none;">
+    <div class="rubric_name">
+        Вопрос-ответ
+    </div>
+    <div class="qa-item__title"><a href="https://aif.ru/society/history/chto_za_kemska_volost_upominaetsya_v_ivan_vasilevich_menyaet_professiyu">Что за «Кемска Волость» упоминается в «Иван Васильевич меняет профессию»?</a></div>
+
+        <div class="descr">
+        Есть ли такое место на реальной карте России и пытались ли шведы действительно прибрать его к рукам?    </div>
+    
+    <a href="https://aif.ru/society/history/chto_za_kemska_volost_upominaetsya_v_ivan_vasilevich_menyaet_professiyu" class="red_fill_btn">Узнать</a>
+            <a href="https://aif.ru/society/history" class="rubric_link">История</a>
+    </section>
+                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="Юрия Шнайдера наградили вторым Орденом Мужества посмертно, первый ему вручил президент." src="https://aif-s3.aif.ru/images/031/289/4be19550d52190260602debac06d794b.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://krsk.aif.ru/society/pod_oruzheynyy_zalp_kak_proshchalis_s_boycom_snyavshemsya_v_obrashchenii_putina">
+                        <span class="item_text__title">Под оружейный залп. Как прощались с бойцом, снявшемся в обращении Путина</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/society/people" class="rubric_link">Люди</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="Вилле больше не воспевает русскую культуру." src="https://aif-s3.aif.ru/images/031/275/782ff9b05c618f826ca3d6f33926b79a.JPG" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://spb.aif.ru/society/people/holodnyy_finskiy_paren_pochemu_ville_haapasalo_otryoksya_ot_rossii">
+                        <span class="item_text__title">Холодный финский парень. Почему Вилле Хаапасало отрёкся от России?</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/culture/person" class="rubric_link">Персона</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/031/287/3a90613c93dd771be9c7e1897d73da74.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://aif.ru/health/life/spasti_situaciyu_kak_mozhno_vosstanovit_slomannyy_zub">
+                        <span class="item_text__title">Спасти ситуацию. Как можно восстановить сломанный зуб?</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/health/life" class="rubric_link">Здоровая жизнь</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title=" " src="https://aif-s3.aif.ru/images/031/287/a5c508ada945b563c4b146315badd2a1.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://aif.ru/health/life/sifilis_nastupaet_pochemu_rastet_chislo_zarazheniy_polovoy_infekciey">
+                        <span class="item_text__title">Сифилис наступает. Почему растет число заражений половой инфекцией</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/health/life" class="rubric_link">Здоровая жизнь</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/031/284/889c0ec8b854862d026ac1c6aaa52727.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://aif.ru/politics/world/chernaya_vdova_vsu_ukraina_brosaet_v_boy_babskie_batalony">
+                        <span class="item_text__title">«Черная вдова» ВСУ. Украина бросает в бой «бабские батальоны»</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/politics/world" class="rubric_link">В мире</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="Горящие вагоны с опасными химикатами в Огайо, США." src="https://aif-s3.aif.ru/images/031/284/e340e01bf1037e106722f17977738be8.png" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://aif.ru/politics/world/chernobyl_baydena_kak_vzryv_cistern_v_ogayo_otravlyaet_doverie_amerikancev">
+                        <span class="item_text__title">Чернобыль Байдена. Как взрыв цистерн в Огайо отравляет доверие американцев</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/politics/world" class="rubric_link">В мире</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="Советская актриса Эльза Леждей. 1967 год." src="https://aif-s3.aif.ru/images/031/244/f4e3fcbb5d74acac5c7b6042757827fd.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://aif.ru/culture/person/izmeny_bolezni_slomannaya_karera_gorkaya_sudba_aktrisy_elzy_lezhdey">
+                        <span class="item_text__title">Измены, болезни, сломанная карьера. Горькая судьба актрисы Эльзы Леждей</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/culture/person" class="rubric_link">Персона</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="Иностранцы часто едут в глубинку Алтая, чтобы заниматься натуральным хозяйством." src="https://aif-s3.aif.ru/images/031/272/1818900293038e6360f40500cb42d435.JPG" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://altai.aif.ru/society/v_sibir_po_dobroy_vole_istorii_inostrancev_pereehavshih_na_altay">
+                        <span class="item_text__title">В Сибирь по доброй воле. Истории иностранцев, переехавших на Алтай</span>
+        </a>
+    </div>
+
+    
+            <a href="https://altai.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>                                    <section class="size2 question_answer_item content_grid_items_js" style="display: none;">
+    <div class="rubric_name">
+        Вопрос-ответ
+    </div>
+    <div class="qa-item__title"><a href="https://aif.ru/health/children/s_kakogo_vozrasta_detyam_mozhno_est_bliny">С какого возраста детям можно есть блины?</a></div>
+
+        <div class="descr">
+        В Масленицу традиционно всю неделю едят блины. А с какого возраста их можно детям?    </div>
+    
+    <a href="https://aif.ru/health/children/s_kakogo_vozrasta_detyam_mozhno_est_bliny" class="red_fill_btn">Узнать</a>
+            <a href="https://aif.ru/health/children" class="rubric_link">Здоровье ребенка</a>
+    </section>
+                                    <section class="size2 question_answer_item content_grid_items_js" style="display: none;">
+    <div class="rubric_name">
+        Вопрос-ответ
+    </div>
+    <div class="qa-item__title"><a href="https://aif.ru/health/life/mozhno_li_pri_povyshennoy_temperature_gulyat_na_ulice">Можно ли при повышенной температуре гулять на улице?</a></div>
+
+        <div class="descr">
+        Ограничения при температуре нередко сводятся к постельному режиму. Однако иногда, когда повышение цифр на градуснике не слишком высокое, очень хочется выйти на улицу прогуляться. Стоит ли?    </div>
+    
+    <a href="https://aif.ru/health/life/mozhno_li_pri_povyshennoy_temperature_gulyat_na_ulice" class="red_fill_btn">Узнать</a>
+            <a href="https://aif.ru/health/life" class="rubric_link">Здоровая жизнь</a>
+    </section>
+                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/031/284/61ca052e0f971a9abb1ae95a601087b1.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://aif.ru/health/children/nos_ne_dyshit_nado_li_udalyat_detyam_adenoidy">
+                        <span class="item_text__title">Нос не дышит. Надо ли удалять детям аденоиды?</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/health/children" class="rubric_link">Здоровье ребенка</a>
+    </section>                                    <section class="size2 question_answer_item content_grid_items_js" style="display: none;">
+    <div class="rubric_name">
+        Вопрос-ответ
+    </div>
+    <div class="qa-item__title"><a href="https://aif.ru/culture/person/chto_stalo_prichinoy_smerti_gollivudskoy_aktrisy_stelly_stivens">Что стало причиной смерти голливудской актрисы Стеллы Стивенс?</a></div>
+
+        <div class="descr">
+        В США в возрасте 84 лет умерла актриса Стелла Стивенс.    </div>
+    
+    <a href="https://aif.ru/culture/person/chto_stalo_prichinoy_smerti_gollivudskoy_aktrisy_stelly_stivens" class="red_fill_btn">Узнать</a>
+            <a href="https://aif.ru/culture/person" class="rubric_link">Персона</a>
+    </section>
+                                    <section class="size2 question_answer_item content_grid_items_js" style="display: none;">
+    <div class="rubric_name">
+        Вопрос-ответ
+    </div>
+    <div class="qa-item__title"><a href="https://aif.ru/society/law/mozhno_li_fotografirovatsya_na_pasport_s_borodoy">Можно ли фотографироваться на паспорт с бородой?</a></div>
+
+        <div class="descr">
+        Регламент МВД по выдаче и замене российских паспортов содержит список требований к внешнему виду гражданина при фотографировании на документ.    </div>
+    
+    <a href="https://aif.ru/society/law/mozhno_li_fotografirovatsya_na_pasport_s_borodoy" class="red_fill_btn">Узнать</a>
+            <a href="https://aif.ru/society/law" class="rubric_link">Право</a>
+    </section>
+                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="Мария Зверева и Наталья Комарова на открытии кинофестиваля «Дух огня»  " src="https://aif-s3.aif.ru/images/031/281/4cf36a132a4f645963bd5eb71212e29d.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://ugra.aif.ru/culture/duh_ognya_yugra_na_tri_dnya_stanet_centrom_mirovogo_debyutnogo_kino">
+                        <span class="item_text__title">«Дух огня»: Югра на три дня станет центром мирового дебютного кино</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/culture/movie" class="rubric_link">Кино </a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/031/287/da083a9ea1cc63043a126daa162a630f.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://tmn.aif.ru/society/mamoy_budu_kto_vinovat_v_besplodii_i_mozhno_li_vybrat_zdorovogo_rebenka">
+                        <span class="item_text__title">Мамой буду? Кто виноват в бесплодии и можно ли «выбрать» здорового ребенка</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/health/life" class="rubric_link">Здоровая жизнь</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="Сергей Чаулин – лидер некоммерческой организации «Российские соотечественники в Европе» и организатор акции «Бессмертный полк»." src="https://aif-s3.aif.ru/images/031/283/8f4994460a102f005385eb5179d4e9c2.jpeg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://aif.ru/politics/world/organizator_bessmertnogo_polka_v_estonii_menya_vygnali_za_spasibo">
+                        <span class="item_text__title">Вышвырнули из дома. Как Эстония выслала организатора «Бессмертного полка»</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/politics/world" class="rubric_link">В мире</a>
+    </section>                                    <section class="size2 question_answer_item content_grid_items_js" style="display: none;">
+    <div class="rubric_name">
+        Вопрос-ответ
+    </div>
+    <div class="qa-item__title"><a href="https://aif.ru/food/diet/kak_sdelat_bliny_dlya_teh_kto_boleet_saharnym_diabetom">Как сделать блины для тех, кто болеет сахарным диабетом?</a></div>
+
+        <div class="descr">
+        Рассказываем, как сделать блины тем, кто страдает эндокринными заболеваниями, сахарным диабетом, старается избегать продуктов с высоким гликемическим индексом.    </div>
+    
+    <a href="https://aif.ru/food/diet/kak_sdelat_bliny_dlya_teh_kto_boleet_saharnym_diabetom" class="red_fill_btn">Узнать</a>
+            <a href="https://aif.ru/food/diet" class="rubric_link">Питание и диеты</a>
+    </section>
+                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/031/282/b49028f3ee9f1f272ca8080a13996ed2.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://aif.ru/politics/world/hlor_ili_kislota_chto_za_otravlyayushchee_veshchestvo_vsu_sbrasyvaet_pod_ugledarom">
+                        <span class="item_text__title">Хлор или кислота? Что за отравляющее вещество ВСУ сбрасывают под Угледаром</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/politics/world" class="rubric_link">В мире</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="Захват заложников в цветочном магазине. " src="https://aif-s3.aif.ru/images/031/284/fe83a0cdea65c62122f6195a08154598.png" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://aif.ru/incidents/zahvat_zalozhnikov_v_cvetochnom_chto_proizoshlo_i_est_li_ugroza_dlya_moskvy">
+                        <span class="item_text__title">Захват заложников в цветочном. Что произошло и есть ли угроза для Москвы</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/incidents" class="rubric_link">Происшествия</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/031/282/efbe7ea202316936546f3df6f81300ff.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://aif.ru/culture/person/ya_ushla_ot_volodi_sama_sudba_vtoroy_zheny_vysockogo">
+                        <span class="item_text__title">«Я ушла от Володи сама». Судьба второй жены Высоцкого</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/culture/person" class="rubric_link">Персона</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/031/282/44cc206fd98cbc85d8d4c9dbb01c9219.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://aif.ru/society/ecology/privilegiya_za_ekologiyu_dlya_elektrokarov_platnye_dorogi_stanut_besplatnymi">
+                        <span class="item_text__title">Привилегия за экологию. Для электрокаров платные дороги станут бесплатными</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/society/ecology" class="rubric_link">Экология</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="Школа в Арзгире так и стоит разобранная. " src="https://aif-s3.aif.ru/images/031/282/b3aba40fa07628d108ed0bdf64f75e15.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://stav.aif.ru/money/details/byudzhetnye_dolgostroi_pochemu_na_stavropole_sryvayutsya_goskontrakty">
+                        <span class="item_text__title">Бюджетные долгострои. Почему на Ставрополье срываются госконтракты?</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/money/economy" class="rubric_link">Экономика</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="Дима Билан на концерте. " src="https://aif-s3.aif.ru/images/031/278/b01c3605f8e538573eefe86077bbef72.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://aif.ru/culture/person/privyazali_veryovkami_chtoby_ne_sbezhala_chego_boyatsya_bilan_i_dolina">
+                        <span class="item_text__title">Привязали верёвками, чтобы не сбежала. Чего боятся Билан и Долина</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/culture/person" class="rubric_link">Персона</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/031/265/ef1801b5f35033b1d69d56a48f4f078e.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://tula.aif.ru/health/da_ne_vysohnut_tvoi_glaza_tulyaki_zhaluyutsya_na_vnezapnye_problemy_s_glazami">
+                        <span class="item_text__title">Мало слёз. Почему возникает синдром сухого глаза?</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/health/life" class="rubric_link">Здоровая жизнь</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="Яна Чуева считает, что духи нужно носить, как одежду, выбирая уместные время и место." src="https://aif-s3.aif.ru/images/031/238/8f1514b1e0749642e6c55f88cf491aaf.JPG" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://rostov.aif.ru/society/chem_pahnet_rabota_zapahi_kotorye_pomogayut_perezhit_slozhnye_vremena">
+                        <span class="item_text__title">Парфюмерный этикет. Запахи, которые помогают пережить сложные времена</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/society/people" class="rubric_link">Люди</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/031/278/fd81937378a5bf104c5521a9e0158636.jpeg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://aif.ru/society/people/kremlevskiy_telenok_vyslannaya_amerikanka_vlyubilas_v_policeyskogo_iz_rf">
+                        <span class="item_text__title">Кремлевский теленок. Высланная американка влюбилась в полицейского из РФ</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/society/people" class="rubric_link">Люди</a>
+    </section>                                    <section class="size2 question_answer_item content_grid_items_js" style="display: none;">
+    <div class="rubric_name">
+        Вопрос-ответ
+    </div>
+    <div class="qa-item__title"><a href="https://aif.ru/auto/about/kakie_mashiny_mozhno_prodat_dorozhe_chem_kupil_tri_goda_nazad">Какие машины можно продать дороже, чем купил три года назад?</a></div>
+
+        <div class="descr">
+        Эксперты составили список моделей с самой высокой остаточной стоимостью.    </div>
+    
+    <a href="https://aif.ru/auto/about/kakie_mashiny_mozhno_prodat_dorozhe_chem_kupil_tri_goda_nazad" class="red_fill_btn">Узнать</a>
+            <a href="https://aif.ru/auto/about" class="rubric_link">Об автомобилях</a>
+    </section>
+                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="Анна Асти, Сергей Бурунов, Кристина Асмус, Максим." src="https://aif-s3.aif.ru/images/031/276/f23a61382278cd5f4d05a7b033c8cf34.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://aif.ru/culture/person/dat_volyu_chuvstvam_kto_iz_zvezd_rydal_na_intervyu_i_koncertah">
+                        <span class="item_text__title">Дать волю чувствам. Кто из звезд рыдал на интервью и концертах</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/culture/person" class="rubric_link">Персона</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="Первый заместитель председателя Комитета Государственной Думы Российской Федерации по делам Содружества Независимых Государств, евразийской интеграции и связям с соотечественниками, специальный представитель Государственной Думы Российской Федерации по вопросам миграции и гражданства Константин Затулин во время пресс-конференции об итогах военной спецоперации России на Украине и о ближайших перспективах в рамках спецпроекта "Украинское досье" в Международном мультимедийном пресс-центре "Россия сегодня" в Москве." src="https://aif-s3.aif.ru/images/031/278/2a1f697540ce18b2e49c03c3f742222a.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://aif.ru/politics/world/u_baydena_dva_puti_zatulin_o_tom_chego_zhdat_ot_zapada_vo_vtoroy_god_svo">
+                        <span class="item_text__title">«У Байдена два пути». Затулин о том, чего ждать от Запада во второй год СВО</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/politics/world" class="rubric_link">В мире</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="В начале 1940-х церковь превратили в зерносклад, а в 1960-х –  в ремонтную мастерскую." src="https://aif-s3.aif.ru/images/031/264/4042119e920a63cd44242cf6abe1becb.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://krsk.aif.ru/society/so_dvora_po_40_yaic_kak_stroili_unikalnyy_sibirskiy_hram_1812_goda">
+                        <span class="item_text__title">Со двора по 40 яиц. Как строили уникальный сибирский храм 1812 года?</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/society/religion" class="rubric_link">Религия</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/031/278/1696a0adb7142984a43a0eae68c42923.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://aif.ru/politics/world/varshavskiy_desant_v_kiev_polyakov_zapishut_v_elitnye_diversanty">
+                        <span class="item_text__title">Варшавский десант в Киев. Поляков запишут в элитные диверсанты</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/politics/world" class="rubric_link">В мире</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="Ульяна никогда не думала, что станет пармастерицей." src="https://aif-s3.aif.ru/images/031/282/bc269127509e48ae45e460b2b0dc0a06.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://tmn.aif.ru/society/persona/ne_prosto_mahat_venikami_parmasterica_o_svoey_rabote_v_sovremennoy_bane">
+                        <span class="item_text__title">Не просто махать вениками. Пармастерица о своей работе в современной бане</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/society/people" class="rubric_link">Люди</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/031/282/a75701daadc556e644f627db80459835.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://krsk.aif.ru/culture/pandemiya_i_svo_chto_vdohnovilo_dizaynerov_iz_tuvy_na_kollekciyu_odezhdy">
+                        <span class="item_text__title">Пандемия и СВО. Что вдохновило дизайнеров из Тувы на коллекцию одежды</span>
+        </a>
+    </div>
+
+    
+            <a href="https://aif.ru/society/people" class="rubric_link">Люди</a>
+    </section>                            </div>
+        </div>
+    </div>
+    <div class="want_more_box">
+        <a href="#" class="red_line_btn content_grid_button_js">Хочу больше</a>
+    </div>
+
+    
+
+
+	
+    <!-- segment footer -->
+    <footer>
+    <div class="cont_center">
+        <div class="footer_wrapper">
+            <div class="footer_col">
+                <div class="footer_logo">
+                    <img src="https://aif.ru/redesign2018/img/white_logo.svg?067" alt="aif.ru">
+                    <div class="region_url">
+                        aif.ru                    </div>
+                </div>
+            </div>
+            <div class="footer_col">
+                <nav class="footer_menu">
+                    <ul>
+                    <li>
+            <a href="http://sales.aif.ru">Реклама</a>
+        </li>
+                            <li>
+            <a href="http://corp.aif.ru/page/4">Об издательском доме</a>
+        </li>
+                            <li>
+            <a href="https://subscr.aif.ru/">Онлайн-подписка на еженедельник АиФ</a>
+        </li>
+                            <li>
+            <a href="https://aif.ru/event">Пресс-центр</a>
+        </li>
+                            <li>
+            <a href="https://aif.ru/shop">Магазин PDF-версий
+</a>
+        </li>
+                            <li>
+            <a href="https://aif.ru/contacts">Обратная связь</a>
+        </li>
+                            <li>
+            <a href="https://aif.ru/boostbook/">Путеводитель</a>
+        </li>
+                            <li>
+            <a href="https://na-zapade-mos.ru/">На западе Москвы</a>
+        </li>
+                            <li>
+            <a href="https://aif.ru/sitemap">Карта сайта</a>
+        </li>
+                <li class="error_rep"><a href="/contacts#anchor=error_form">СООБЩИТЬ В РЕДАКЦИЮ ОБ ОШИБКЕ</a></li>
+</ul>
+
+                </nav>
+                <div class="footer_text">
+                    
+<p><b>2023 АО «Аргументы и Факты»&nbsp;</b>Генеральный директор Руслан Новиков. Главный редактор Михаил<span rel="pastemarkerend" id="pastemarkerend78054"></span> Чкаников. Директор по развитию цифрового направления и новым медиа АиФ.ru Денис Халаимов. Шеф-редактор сайта АиФ.ru &nbsp;Владимир Шушкин.</p>
+
+<p><span rel="pastemarkerend" id="pastemarkerend66732"> СМИ «aif.ru» зарегистрировано в Федеральной службе по надзору в сфере связи, информационных технологий и массовых коммуникаций (РОСКОМНАДЗОР), регистрационный номер Эл № ФС 77-78200 от 06 апреля 2020 г. Учредитель: АО «Аргументы и факты». Интернет-сайт «aif.ru» функционирует при финансовой поддержке Министерства цифрового развития, связи и массовых коммуникаций Российской Федерации.<span rel="pastemarkerend" id="pastemarkerend89278"></span></span></p>
+
+<p>Шеф-редактор сайта: Шушкин В.С. e-mail: karaul@aif.ru, тел. 8 495 783 83 57. 16+</p>
+
+<p>Все права защищены. Копирование и использование полных материалов запрещено, частичное цитирование возможно только при условии гиперссылки на сайт www.aif.ru. </p>
+                </div>
+                <div class="counters">
+                                                                    <div class="couter_block"><!--LiveInternet logo-->
+<a href="https://www.liveinternet.ru/click;AIF"
+target=_blank><img src="https://counter.yadro.ru//logo;AIF?22.2"
+title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня"
+alt="" border=0 width=88 height=31></a>
+<!--/LiveInternet--></div>
+                        <noindex><div class="adv_content bp__footer_after_counter no_lands no_portr adwrapper banner_footer_after_counter couter_block"><div class="banner_params hide" data-params="{&quot;id&quot;:2011,&quot;num&quot;:1,&quot;place&quot;:&quot;footer_after_counter&quot;}"></div>
+<a href="https://www.gipp.ru" target="_blank">
+<img src="/img/gipp.jpg" alt="" />
+</a>
+
+
+</div></noindex>
+                        <div class="footer-link">
+                            <a href="https://appgallery.huawei.com/app/C101189759" target="_blank">
+                                <img src="https://aif.ru/redesign2018/img/huawei.png?067" />
+                            </a>
+                        </div>
+
+                        <div class="age16">16+</div>
+
+                        <div class="count_box_nodisplay">
+                            <div class="couter_block"><!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(51369400, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/51369400" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --></div>
+                                                                                        <!-- tns-counter.ru -->
+<script language="JavaScript" type="text/javascript">
+    var img = new Image();
+    img.src = 'https://www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g,'%2a') + '*aif_ru/ru/UTF-8/tmsec=mx3_aif_ru/' + Math.round(Math.random() * 1000000000);
+</script>
+<noscript>
+    <img src="https://www.tns-counter.ru/V13a****aif_ru/ru/UTF-8/tmsec=mx3_aif_ru/" width="1" height="1" alt="">
+</noscript>                                                    </div>
+
+                                                            </div>
+            </div>
+        </div>
+    </div>
+
+    <script type='text/javascript'>
+        $(document).ready(function(){
+            window.CookieMessenger('CookieMessenger');
+        });
+        </script></footer>
+
+
+
+<!-- Footer Scripts -->
+<script type="text/javascript" src="https://aif.ru/js/output/delayed.js?067"></script>
+<script type="text/javascript">
+    //<!--
+    $(document).ready(function() { $('.header').headerJs(); });    //-->
+</script>
+<script type="text/javascript">
+    //<!--
+    
+$(document).ready(function() {
+    $('.content_grid_js').showMore({
+        perPage: 12,
+        itemsSelector: '.content_grid_items_js',
+        buttonSelector: '.content_grid_button_js'});
+});
+    //-->
+</script>
+<script type="text/javascript">
+    //<!--
+    function yandexMetrikaAjaxHit(url, options) {
+    if (url != options.referer) {
+        ym(51369400, "hit", url, options)
+    }
+}    //-->
+</script>
+<script type="text/javascript">
+    //<!--
+    ((counterHostname) => {
+        window.MSCounter = {
+            counterHostname: counterHostname
+        };
+        window.mscounterCallbacks = window.mscounterCallbacks || [];
+        window.mscounterCallbacks.push(() => {
+            msCounterExampleCom = new MSCounter.counter({
+                    'account':'aif_ru',
+                    'tmsec': 'aif_ru',
+                    'autohit' : true
+                });
+        });
+  
+        const newScript = document.createElement('script');
+        newScript.async = true;
+        newScript.src = `${counterHostname}/ncc/counter.js`;
+ 
+        const referenceNode = document.querySelector('script');
+        if (referenceNode) {
+            referenceNode.parentNode.insertBefore(newScript, referenceNode);
+        } else {
+            document.firstElementChild.appendChild(newScript);
+        }
+    })('https://tns-counter.ru/');    //-->
+</script><script type="text/javascript">
+    $(document).ready(function () {
+        $(window).subscriptionPopup([]);
+    });
+</script>
+
+
+<div class="popup popup_js subscribe_popup" id="subscription_popup1_tpl_js" style="display:none">
+    <div class="sub_decor top"></div>
+    <a href="#" class="closer sub_closer"></a>
+    <div class="popup_content_box">
+        <div class="img_box">
+            <img src="https://aif.ru/img/subscribe/marka.jpg?067">
+        </div>
+        <div class="overfl">
+            <div class="popup__title">АиФ.ru | Объясняем, что происходит</div>
+            <div class="popup_descr">
+                Понятные ответы на любые вопросы, а также репортажи и расследования. Доставляем лично Вам в почту.
+            </div>
+            <div class="popup_form">
+                <div class="error_box show">&nbsp;  </div>
+                <form class="subscriptionForm">
+                    <div class="input_box">
+                        <label for="name" class="required">Имя:</label>
+                        <dd id="name-element"><input type="text" name="name" id="name" value=""></dd>
+                    </div>
+                    <div class="input_box">
+                        <label for="email" class="required">E-mail:</label>
+                        <dd id="email-element"><input type="text" name="email" id="email" value=""></dd>
+                    </div>
+                    <input type="hidden" name="subscription" value="1" />
+                    <input type="hidden" name="subscription_id" value="all" />
+                </form>
+            </div>
+            <a href="#" class="button_red submit_link" >Подписаться</a>
+            <a href="#" class="no_sub_link sub_closer">Нет, спасибо</a>
+        </div>
+    </div>
+    <div class="sub_decor bottom"></div>
+</div>
+
+
+<div class="popup popup_js subscribe_popup" id="subscription_popup2_tpl_js"  style="display:none">
+    <div class="sub_decor top"></div>
+    <a href="#" class="closer sub_closer"></a>
+    <div class="popup_content_box">
+        <div class="img_box">
+            <img src="https://aif.ru/img/subscribe/marka_s_sobakoi.jpg?067">
+        </div>
+        <div class="overfl">
+            <div class="popup__title">Получайте самые главные и обсуждаемые статьи дня на свой электронный адрес<div>
+            <div class="popup_form">
+                <div class="error_box show">&nbsp;  </div>
+                <form class="subscriptionForm">
+                    <div class="input_box">
+                        <label for="name" class="required">Имя:</label>
+                        <dd id="name-element"><input type="text" name="name" id="name" value=""></dd>
+                    </div>
+                    <div class="input_box">
+                        <label for="email" class="required">E-mail:</label>
+                        <dd id="email-element"><input type="text" name="email" id="email" value=""></dd>
+                    </div>
+                    <input type="hidden" name="subscription" value="1" />
+                    <input type="hidden" name="subscription_id" value="all" />
+                </form>
+            </div>
+            <a href="#" class="button_red submit_link" >Подписаться</a>
+            <a href="#" class="no_sub_link sub_closer">Нет, спасибо</a>
+        </div>
+    </div>
+    <div class="sub_decor bottom"></div>
+</div>
+
+
+
+<div class="popup popup_js subscribe_popup subscribe_popup_3" id="subscription_popup3_tpl_js"  style="display:none">
+    <div class="sub_decor top"></div>
+    <a href="#" class="closer sub_closer"></a>
+    <div class="popup_content_box">
+        <div class="img_box">
+            <img src="https://aif.ru/img/subscribe/dacha_stamp.png?067">
+        </div>
+        <div class="overfl">
+            <div class="popup__title">Самые полезные и интересные материалы АиФ.&nbsp;на&nbsp;Даче</div>
+            <div class="popup_descr"">Доставляем лично вам в почту</div>
+            <div class="popup_form">
+                    <div class="error_box show">&nbsp;  </div>
+                        <form class="subscriptionForm">
+                            <div class="input_box">
+                                <label for="name" class="required">Имя:</label>
+                                <dd id="name-element"><input type="text" name="name" id="name" value=""></dd>
+                            </div>
+                            <div class="input_box">
+                                <label for="email" class="required">E-mail:</label>
+                                <dd id="email-element"><input type="text" name="email" id="email" value=""></dd>
+                            </div>
+            </div>
+            <input type="hidden" name="subscription" value="1" />
+            <input type="hidden" name="subscription_id" value="all" />
+            </form>
+    </div>
+    <a href="#" class="button_red submit_link" >Подписаться</a>
+    <a href="#" class="no_sub_link sub_closer">Нет, спасибо</a>
+    </div>
+    </div>
+<div class="sub_decor bottom"></div>
+</div>
+</div>
+
+
+<div class="full_screen_adv no_portr no_lands no_desc"><!--Место для фулскрина--></div>
+<a id="backgr_link"></a>
+</body>
+</html>

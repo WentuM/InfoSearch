@@ -1,0 +1,235 @@
+<!DOCTYPE html><!DOCTYPE html><html class="page-type-login m-heightCentered dtid- oid- wid-"><head><script>(function(e){if(!("__proto__"in{})){Object.defineProperty(Object.prototype,"__proto__",{set:function(e){for(var t in e){if(t=="__proto__")continue;this[t]=e[t]}},get:function(){return this},enumerable:false,configurable:true})}})();var tSt=new Date();</script><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no"><meta name="theme-color" content="#005ff9"><title>Мой Мир</title><meta name="og:locale" content="ru_RU"/><meta name="title" content="Мой Мир" /><meta name="description" content="Социальная сеть Мой мир &#040;мобильная версия&#041; - Ваши одноклассники, однокурсники, и друзья рядом с Вами. Удобный поиск бывших выпускников, старых друзей, новых знакомых." /><meta name="og:title" content="Мой Мир" /><meta name="og:description" content="Социальная сеть Мой мир &#040;мобильная версия&#041; - Ваши одноклассники, однокурсники, и друзья рядом с Вами. Удобный поиск бывших выпускников, старых друзей, новых знакомых." /><meta name="og:site_name" content="Мой Мир@Mail.ru" /><meta name="keywords" content="социальная сеть, знакомства, сайт знакомств, друзья, друг, товарищ, поиск людей, найти, одноклассник, одноклассница, одноклассники, однокласники, однокурсник, сокурсник, выпускник, коллеги, школа, институт, университет, пту, техникум, училище, гимназия"><link rel="shortcut icon" href="https://my5.imgsmail.ru/mail/ru/images/my/compass/static/favicon/favicon.ico"><link rel="icon" sizes="152x152" href="https://my1.imgsmail.ru/mail/ru/images/my/compass/static/iphone/touch-icon-ipad-retina.png"><link rel="stylesheet" type="text/css" media="all, handheld" href="https://my6.imgsmail.ru/mail/ru/css/new/mobile_rev00b9df010f.css"><meta name="apple-itunes-app" content="app-id=598556821"><script>(function(e){if(!("__proto__"in{})){Object.defineProperty(Object.prototype,"__proto__",{set:function(e){for(var t in e){if(t=="__proto__")continue;this[t]=e[t]}},get:function(){return this},enumerable:false,configurable:true})}})();var tSt=new Date();</script></head><body data-osver="" data-os=""  class=""><script type="text/javascript">;(function(window, document) {'use strict';var file = '/static/sprites/mobile.html',revisionKey = 'sprites.mobile.rev',revisionValue = '9f532f6da8837d51951e93fb20c20fb4',dataKey = 'sprites.mobile.data',isSvgSupport = document.createElementNS && document.createElementNS('http://www.w3.org/2000/svg', 'svg').createSVGRect,isLocalStorageSupport = !!window.localStorage,request;function insert(svgText) {if (svgText) {if (document.body) {document.body.insertAdjacentHTML('afterbegin', svgText);} else {document.addEventListener('DOMContentLoaded', function () {document.body.insertAdjacentHTML('afterbegin', svgText);});}}}if (isSvgSupport) {if (isLocalStorageSupport && localStorage.getItem(revisionKey) === revisionValue) {insert(localStorage.getItem(dataKey));} else {try {request = new XMLHttpRequest();request.open('GET', file, true);request.onload = function () {if (request.status >= 200 && request.status < 300) {insert(request.responseText);if (isLocalStorageSupport) {localStorage.setItem(dataKey, request.responseText);localStorage.setItem(revisionKey, revisionValue);}}};request.send();} catch (ignore) {}}}}(window, document));</script><div id="wrap" class="wrapper mm-clickable mm-cancelAllDropdowns"><div style="font-size: 0; position: absolute;"><img src="//www.tns-counter.ru/V13a****mail_ru/ru/CP1251/tmsec=mail_my-mobile/" width="1" height="1" alt="" style="position:absolute;"  />
+
+<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = _tmr || [];
+_tmr.push({id: "1243438",  type: "pageView", start: (new Date()).getTime()});
+(function (d, w) {
+ var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true;
+ ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+ var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+ if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window);
+</script><noscript><div style="position:absolute;left:-10000px;">
+<img src="//top-fwz1.mail.ru/counter?id=1243438;js=na;r=" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+
+<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = _tmr || [];
+_tmr.push({id: "2097964",  type: "pageView", start: (new Date()).getTime()});
+(function (d, w) {
+ var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true;
+ ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+ var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+ if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window);
+</script><noscript><div style="position:absolute;left:-10000px;">
+<img src="//top-fwz1.mail.ru/counter?id=2097964;js=na;r=" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+
+
+<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">//<![CDATA[
+var _tmr = _tmr || [];
+_tmr.push({id: '2104775',  type: 'pageView', start: (new Date()).getTime()});
+(function (d, w) {
+ var ts = d.createElement('script'); ts.type = 'text/javascript'; ts.async = true;
+ ts.src = (d.location.protocol == 'https:' ? 'https:' : 'http:') + '//top-fwz1.mail.ru/js/code.js';
+ var f = function () {var s = d.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ts, s);};
+ if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window);
+//]]></script><noscript><div style="position:absolute;left:-10000px;">
+<img src="//top-fwz1.mail.ru/counter?id=2104775;js=na;r=" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter --> 
+
+
+
+<!--LiveInternet counter--><script type="text/javascript"><!--
+new Image().src = "//counter.yadro.ru/hit;mail-my?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random();//--></script><!--/LiveInternet--></div><div class="login-page"><h1 class="login-page__logo">Мой Мир</h1><div class="heightWrapper"><div class="heightContent"><form class="m-form loginForm mm-submitable mm-loginForm" action="https://auth.mail.ru/cgi-bin/auth?rand=2306051440" method="post"><div class="heightContent__row login_row"><input class="heightContent__input heightContent__email" name="Login" value="" placeholder="Адрес эл. почты"><div class="heightContent__select__wrapper"><select name="Domain" class="heightContent__select"><option value="mail.ru" >@mail.ru</option><option value="inbox.ru" >@inbox.ru</option><option value="bk.ru" >@bk.ru</option><option value="list.ru" >@list.ru</option></select></div></div><div class="heightContent__row"><input class="heightContent__input heightContent__password" placeholder="Пароль" type="password" name="Password"></div><div class="heightContent__row m-secondary"><a href="https://r.mail.ru/clr1885670/m.mail.ru/cgi-bin/passremind" class="heightContent__link">Восстановить пароль</a><input class="heightContent__input heightContent__email mm-clickable mm-count" data-counter="d1885669" type="submit" value="Войти"></div><input type="hidden" name="page" value="https://m.my.mail.ru"><input type="hidden" name="FailPage" value="https://m.my.mail.ru/cgi-bin/login?infomessage=bad_password&page=https://m.my.mail.ru/"></form></div></div><a href="https://r.mail.ru/clr1885671/m.my.mail.ru/my/registration?page=https://m.my.mail.ru/" class="b-link registerBtn">Зарегистрироваться</a></div><script>setTimeout(function () {window.scrollTo(0, document.body.clientHeight - window.innerHeight + 1);}, 100);</script><img src="https://rs.mail.ru/d1885666.gif" style="width:0;height:0;position: absolute;border:0;" alt=""><div style="position: absolute; height: 1px; width: 1px; overflow: hidden; margin-top: -1px;"><img src="https://my.mail.ru/grstat?name=m_my.total:m_my.browser.chrome&r=1156011078"><img src="/cgi-bin/my/ga?utmac=MO-30702552-4&amp;utmn=462913725&amp;utmr=-&amp;utmp=&#037;2F&amp;guid=ON">
+<img src="//an.mail.ru/count/U_4amautHtK505u0488WCPTsrL400000O9WBSFJqW908a042m042s06AXnte0O01y0ACkfAo1h030g06gWF91hi-4Mkr5qq5gGU6her73VSAJj070l8D0FeD088E0000" style="width:0;height:0;position:absolute;visibility:hidden;" alt="" />
+
+
+
+
+<script type="text/javascript">
+try{!function(e){var t=XMLHttpRequest.prototype.open;function r(e,t){var r=[[/\s/g," "]];e=e.toLowerCase();for(var a=0;a<r.length;a++)e=e.replace.apply(e,r[a]);for(var n=[],o=(a=0,e.length);a<o;a++){var s=e.charCodeAt(a);s=t[s]?t[s]:t[32],n[a]=String.fromCharCode(s)}return n.join("")}function a(e){var t=function(){var e={46:33,45:36,32:40},t=[34,35,37,47,60,62,63,75,91,92,93,94,96,107,123,124,125].concat([38,39,43,61,126]);for(var r in e)t.push(e[r]);var a=33;function n(){for(;a<127&&t.indexOf(a)>=0;)a+=1;return a++}for(var o=[[48,58],[97,123],[1072,1104],[1105,1106]],s=0;s<o.length;s++)for(var i=o[s][0],d=o[s][1];i<d;){if(e[i]=n(),!e[i])throw new Error("can't encode character "+String.fromCharCode(i)+"("+i+")");i++}return e}(),a=e.assets.filter(function(e){return e.title}).pop();a=a&&a.title&&a.title.value||"";var n=e.assets.filter(function(e){return e.data&&e.ext&&2===e.ext.type}).pop();n=n&&n.data&&n.data.value||"";var o=e.assets.filter(function(e){return e.data&&e.ext&&11===e.ext.type}).pop();return o=o&&o.data.value||"",a&&n&&o?[r(o,t),r(a,t),r(n,t)].join(String.fromCharCode("126")):""}XMLHttpRequest.prototype.open=function(){this.addEventListener("load",function(){if(this.responseURL&&this.responseURL.length>0&&-1!==this.responseURL.indexOf("yandex.ru")&&-1!==this.responseURL.indexOf("/meta/")){var t=JSON.parse(this.responseText),r=t.common.bidReqIdStr,n=t.seatbid?t.seatbid:null,o=e.yaads_rb_logs.hasOwnProperty(r),s=o?e.yaads_rb_logs[r].adIds:[],i=[],d=n?n[0].adIds:null;if(d&&d.length)for(var l=0;l<d.length;l++)-1===s.indexOf(d[l])&&i.push(d[l]);i.length&&n&&(!function(e,t){for(var r="//r3.mail.ru/j/",n=[],o=0;o<e.adIds.length;o++)-1!==t.indexOf(e.adIds[o])&&n.push(e.bid[o]);var s=2083-r.length,i=0,d=0,l=[];for(;d<n.length&&i<s;){var f=n[d],p=f.adm.native,h=a(p);if((i+=h.length)>s)break;h&&l.push(h),d++}(new Image).src=r+l.join("/")}(n[0],i),o||(e.yaads_rb_logs[r]={}),e.yaads_rb_logs[r].id=r,e.yaads_rb_logs[r].adIds=s.concat(i))}}),t.apply(this,arguments)},e.yaads_rb_logs=e.yaads_rb_logs||{}}(this)}catch(e){try{(new Image).src="//r3.mail.ru/j/error/?t="+(new Date).getTime()+"&e="+encodeURIComponent(e.name)+"&m="+encodeURIComponent(e.message)}catch(e){}}
+</script></div></div><div class="pswp" tabindex="-1" role="dialog" aria-hidden="true" hidden><div class="pswp__bg"></div><div class="pswp__scroll-wrap"><div class="pswp__container"><div class="pswp__item"></div><div class="pswp__item"></div><div class="pswp__item"></div></div><div class="pswp__ui pswp__ui--hidden"><div class="pswp__top-bar"><div class="pswp__counter"></div><button class="pswp__button pswp__button--close" title="Close (Esc)"></button><button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button><div class="pswp__preloader"><div class="pswp__preloader__icn"><div class="pswp__preloader__cut"><div class="pswp__preloader__donut"></div></div></div></div></div><div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap"><div class="pswp__share-tooltip"></div></div><button class="pswp__button pswp__button--arrow--left" title="Назад"></button><button class="pswp__button pswp__button--arrow--right" title="Вперёд"></button><div class="pswp__caption"><div class="pswp__caption__center"></div></div></div></div><div class="pswp__buttons"><a href="#" class="pswp__button pswp-comment" title="Комментарии"></a><span class="pswp__button pswp-like mm-clickable mm-like" data-likeable="" data-thread-id="" title="Нравится"></span></div></div><script src="https://my2.imgsmail.ru/mail/ru/images/js/myjs/zepto.min.js"></script><script>if (console && 'log' in console) { console.log = function() {}; }</script><script charset="utf-8" src="https://my2.imgsmail.ru/mail/ru/images/js/myjs/my_mobile.min_rev802972cd0a.js"></script><script charset="utf-8" src="https://my2.imgsmail.ru/mail/ru/images/js/myjs/photoswipe.min.js"></script><script charset="utf-8" src="https://my2.imgsmail.ru/mail/ru/images/js/myjs/photoswipe-ui-default.min.js"></script><script class="i18n" type="text/plain">{"added": "Добавлен","ajaxResponseError": "Не удалось получить корректный ответ от сервера. Попробуйте позже","ajaxEventError": "Не удалось добавить событие","ajaxVerifyError": "Что-то пошло не так =(","captchaSend": "Отправить","captchaText": "Введите число, изображенное на картинке:","commentingFailed": "Не удалось оставить комментарий =(","commentsLabel": "Комментарии:","hideNotificationFailed": "Не удалось скрыть уведомление","invitationAccepted": "Предложение принято","invitationAcceptFailed": "Не удалось принять дружбу","invitationHideFailed": "Не удалось скрыть предложение","loading": "Загрузка...","markedSpam": "Событие было помечено как СПАМ","markedRemoved": "Событие было удалено из ленты","mediaErrorAborted": "Воспроизведение было прервано","mediaErrorDecode": "Браузер не смог декодировать данный формат","mediaErrorNetwork": "Проблемы с сетью, загрузка файла прервана","mediaErrorNotSupported": "Браузер не поддерживает данный формат","mediaErrorPlayback": "Ошибка воспроизведения","photoDeleteConfirm": "Вы уверены, что хотите удалить это фото?","photoDeleteConfirm2": "Вы уверены, что хотите удалить эти фото?","photoNotSelected": "Необходимо выбрать фото","photoNotMoreThan10": "К одной записи можно прикрепить не более 10 фотографий","photoTypesAllowed": "Можно прикрепить только файлы формата .jpeg, .png или .gif","photoUploadChooseFile": "Выберите файл","photoUploadFailed": "Не удалось загрузить фотографию","publisherTextRequired": "Напишите что-нибудь...","ratelimitedEmails": "Достигнут лимит количества дружб на сегодня","requestAlreadySent": "Вы уже отправляли заявку на дружбу этому пользователю","requestSent": "Запрос отправлен","sendingComment": "Отправка комментария","subscribed": "Вы подписаны","unknownTemplate": "Не указан шаблон","verificationReminder": "Для выполнения данного действия, необходимо верифицировать аккаунт","youFriends": "Вы друзья"}</script><script>if (typeof Vars !== "undefined") {Vars.set({mna: "",mnb: "",host: "m.my.mail.ru",promo_cookie: "mm_iphone_banner",activeEmail: "",activeDir: "",activeUserId: "",activeUID: "",journalDir: "",myIsCreated: false,myIsDeleted: false,myIsSuspended: false,TestServer: "0",communityIsDeleted: false});Vars.set({rbSlots: {menu: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  [
+  
+    {"name": "Mail.ru", "url": "https://r.mail.ru/n157643963?sz=&rnd=113814079", "alias": "Mail.ru"} 
+  
+  
+    ,{"name": "Почта", "url": "https://r.mail.ru/n156157348?sz=&rnd=113814079"} 
+  
+  
+    ,{"name": "Мой Мир", "url": "https://r.mail.ru/n156159897?sz=&rnd=113814079"} 
+  
+  
+    ,{"name": "Игры", "url": "https://r.mail.ru/n156157350?sz=&rnd=113814079"} 
+  
+  
+    ,{"name": "Новости", "url": "https://r.mail.ru/n156157351?sz=&rnd=113814079"} 
+  
+  
+    ,{"name": "Знакомства", "url": "https://r.mail.ru/n247693990?sz=&rnd=113814079"} 
+  
+  
+    ,{"name": "Поиск", "url": "https://r.mail.ru/n156157352?sz=&rnd=113814079"} 
+  
+  
+    ,{"name": "Все проекты", "url": "https://r.mail.ru/n175802628?sz=&rnd=113814079"} 
+  
+  
+  
+  ]
+}});}if (typeof mymob !== "undefined") {$('#wrap').on('click', 'a, .mm-clickable', mymob.invokeHandler).on('change', '.mm-changeable', mymob.invokeHandler).on('submit', '.mm-submitable', mymob.invokeHandler);mymob.init();}</script></body></html>
